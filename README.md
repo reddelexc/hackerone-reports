@@ -1,0 +1,102 @@
+Top 100 upvoted reports from HackerOne (full list is in `data.csv`):
+
+- [RCE on Steam Client via buffer overflow in Server Info](hackerone.com/reports/470520) - 875
+- [Confidential data of users and limited metadata of programs and reports accessible via GraphQL](hackerone.com/reports/489146) - 780
+- [WannaCrypt “Killswitch”](hackerone.com/reports/228648) - 766
+- [Exfiltrate and mutate repository and project data through injected templated service](hackerone.com/reports/446585) - 657
+- [[phpobject in cookie] Remote shell/command execution](hackerone.com/reports/141956) - 570
+- [Stored XSS on imgur profile](hackerone.com/reports/484434) - 531
+- [Getting all the CD keys of any game](hackerone.com/reports/391217) - 526
+- [Github Token Leaked publicly for https://github.sc-corp.net](hackerone.com/reports/396467) - 483
+- [SQL injection in https://labs.data.gov/dashboard/datagov/csv_to_json via User-agent](hackerone.com/reports/297478) - 477
+- [BAD Code !](hackerone.com/reports/180074) - 436
+- [Open prod Jenkins instance](hackerone.com/reports/231460) - 400
+- [XSS in steam react chat client](hackerone.com/reports/409850) - 384
+- [[Grab Android/iOS] Insecure deeplink leads to sensitive information disclosure](hackerone.com/reports/401793) - 383
+- [SSRF in Exchange leads to ROOT access in all instances](hackerone.com/reports/341876) - 383
+- [Partial disclosure of report activity through new "Export as .zip" feature](hackerone.com/reports/182358) - 316
+- [Web cache poisoning attack leads to user information and more](hackerone.com/reports/492841) - 304
+- [SQL Injection in report_xml.php through countryFilter[] parameter](hackerone.com/reports/383127) - 302
+- [Stored XSS in Private Message component (BuddyPress)](hackerone.com/reports/487081) - 299
+- [AWS bucket leading to iOS test build code and configuration exposure](hackerone.com/reports/404822) - 298
+- [H1514 Server Side Template Injection in Return Magic email templates?](hackerone.com/reports/423541) - 293
+- [Chained Bugs to Leak Victim's Uber's FB Oauth Token](hackerone.com/reports/202781) - 289
+- [Shopify admin authentication bypass using partners.shopify.com](hackerone.com/reports/270981) - 278
+- [Change any Uber user's password through /rt/users/passwordless-signup - Account Takeover (critical)](hackerone.com/reports/143717) - 266
+- [[www.zomato.com] SQLi - /php/██████████ - item_id](hackerone.com/reports/403616) - 259
+- [Oracle Webcenter Sites administrative and hi-privilege access available directly from the internet (/cs/Satellite)](hackerone.com/reports/170532) - 257
+- [Persistent XSS on keybase.io via "payload" field in `/user/sigchain_signature.toffee` template](hackerone.com/reports/245296) - 249
+- [Physical Laptop Takeover](hackerone.com/reports/393615) - 248
+- [Information Disclosure in /skills call](hackerone.com/reports/188719) - 242
+- [Internal attachments can be exported via "Export as .zip" feature](hackerone.com/reports/186230) - 237
+- [Linux privilege escalation via trusted $PATH in keybase-redirector](hackerone.com/reports/426944) - 234
+- [Ethereum account balance manipulation](hackerone.com/reports/300748) - 224
+- [XXE on pulse.mail.ru](hackerone.com/reports/505947) - 222
+- [XXE on sms-be-vip.twitter.com in SXMP Processor](hackerone.com/reports/248668) - 219
+- [Account Takeover using Linked Accounts due to lack of CSRF protection](hackerone.com/reports/463330) - 207
+- [Bypass of GitLab CI runner slash fix in YAML validation](hackerone.com/reports/409395) - 206
+- [Cross-site Scripting (XSS) on HackerOne careers page](hackerone.com/reports/474656) - 206
+- [[www.zomato.com] Availing Zomato Gold membership for free by tampering plan id(s)](hackerone.com/reports/511044) - 199
+- [Publicly exposed SVN repository, ht.pornhub.com](hackerone.com/reports/72243) - 195
+- [Ability to bypass partner email confirmation to take over any store given an employee email](hackerone.com/reports/300305) - 194
+- [Unauthenticated blind SSRF in OAuth Jira authorization controller](hackerone.com/reports/398799) - 193
+- [RCE using bash command injection on /system/images (toimitilat.lahitapiola.fi)](hackerone.com/reports/303061) - 193
+- [RCE by command line argument injection to `gm convert` in `/edit/process?a=crop`](hackerone.com/reports/212696) - 192
+- [Cross application scripting via account.mail.ru](hackerone.com/reports/470380) - 188
+- [Stored XSS in developer.uber.com](hackerone.com/reports/131450) - 187
+- [Denial of service via cache poisoning](hackerone.com/reports/409370) - 186
+- [ETH contract handling errors](hackerone.com/reports/328526) - 185
+- [XXE on https://duckduckgo.com](hackerone.com/reports/483774) - 182
+- [Race condition in performing retest allows duplicated payments](hackerone.com/reports/429026) - 182
+- [DOM Based XSS in www.hackerone.com via PostMessage](hackerone.com/reports/398054) - 180
+- [Key Reinstallation Attacks: Breaking WPA2 by forcing nonce reuse](hackerone.com/reports/286740) - 178
+- [RCE and Complete Server Takeover of http://www.█████.starbucks.com.sg/](hackerone.com/reports/502758) - 177
+- [[www.zomato.com] CORS Misconfiguration, could lead to disclosure of sensitive information](hackerone.com/reports/426165) - 177
+- [Insufficient OAuth callback validation which leads to Periscope account takeover](hackerone.com/reports/110293) - 172
+- [Markdown parsing issue enables insertion of malicious tags and event handlers](hackerone.com/reports/299728) - 171
+- [Stealing Facebook OAuth Code Through Screenshot viewer](hackerone.com/reports/488269) - 169
+- [XSS At "pages.et.uber.com"](hackerone.com/reports/156098) - 165
+- [Double Payout via PayPal](hackerone.com/reports/307239) - 161
+- [Snippet JS template allows attacker to read a user's private snippets](hackerone.com/reports/348443) - 157
+- [Account Takeover in Periscope TV](hackerone.com/reports/317476) - 156
+- [Hacker can bypass 2FA requirement and reporter blacklist through embedded submission form](hackerone.com/reports/418767) - 155
+- [Takeover of Twitter-owned domain at mobileapplinking.com](hackerone.com/reports/321699) - 153
+- [Stored XSS on reports.](hackerone.com/reports/485748) - 151
+- [www.drivegrab.com SQL injection](hackerone.com/reports/273946) - 145
+- [Frans Visits Vegas Announcement](hackerone.com/reports/251747) - 144
+- [Reflected Cross site Scripting (XSS) on www.starbucks.com](hackerone.com/reports/438240) - 142
+- [Partial bypass of #483774 with Blind XXE on https://duckduckgo.com](hackerone.com/reports/486732) - 140
+- [IE only: stored Cross-Site Scripting (XSS) vulnerability through Program Asset identifier](hackerone.com/reports/449351) - 140
+- [[PayPal Android] Remote theft of user session using push_notification_webview deeplink](hackerone.com/reports/424443) - 139
+- [Web Authentication Endpoint Credentials Brute-Force Vulnerability](hackerone.com/reports/127844) - 139
+- [Email enumeration of users](hackerone.com/reports/221869) - 138
+- [Authentication bypass on auth.uber.com via subdomain takeover of saostatic.uber.com](hackerone.com/reports/219205) - 137
+- [Hacker.One Subdomain Takeover](hackerone.com/reports/159156) - 137
+- [Malformed .BSP Access Violation in CS:GO can lead to Remote Code Execution](hackerone.com/reports/351014) - 135
+- [Multiple endpoints are vulnerable to XML External Entity injection (XXE)](hackerone.com/reports/72272) - 134
+- [XSS - main page - search[user_id] parameter](hackerone.com/reports/477771) - 133
+- [Reading Emails in Uber Subdomains](hackerone.com/reports/156536) - 130
+- [SSRF on duckduckgo.com/iu/](hackerone.com/reports/398641) - 128
+- [DMARC Not found for paragonie.com URGENT](hackerone.com/reports/179828) - 127
+- [vulnerabilitie](hackerone.com/reports/137723) - 126
+- [Bug in GraphQL and API integration leads to limited user address disclosure](hackerone.com/reports/473742) - 125
+- [SQL injection in GraphQL endpoint through embedded_submission_form_uuid parameter](hackerone.com/reports/435066) - 123
+- [Phone Call to XXE via Interactive Voice Response](hackerone.com/reports/395296) - 123
+- [url that twitter mobile site can not load](hackerone.com/reports/500686) - 122
+- [Stealing contact form data on www.hackerone.com using Marketo Forms XSS with postMessage frame-jumping and jQuery-JSONP](hackerone.com/reports/207042) - 122
+- [Disclose any user's private email through API](hackerone.com/reports/196655) - 121
+- [Content spoofing and potential Cross-Site Scripting vulnerability on www.hackerone.com](hackerone.com/reports/374919) - 120
+- [Client-Side Race Condition using Marketo, allows sending user to data-protocol in Safari when form without onSuccess is submitted on www.hackerone.com](hackerone.com/reports/381356) - 119
+- [h1-202 leaderboard photo discloses local wifi password](hackerone.com/reports/329798) - 119
+- [Subdomain takeover at info.hacker.one](hackerone.com/reports/202767) - 118
+- [Admin Panel Accessed (OAuth Bypassed )](hackerone.com/reports/294911) - 113
+- [[URGENT] Opportunity to publish tweets on any twitters account](hackerone.com/reports/208978) - 113
+- [Incorrect param parsing in Digits web authentication](hackerone.com/reports/126522) - 112
+- [Unauthenticated LFI revealing log information](hackerone.com/reports/272578) - 112
+- [[Venmo Android] Remote theft of user session](hackerone.com/reports/401940) - 111
+- [Changing email address on Twitter for Android unsets "Protect your Tweets"](hackerone.com/reports/472013) - 111
+- [Privilege Escalation via Keybase Helper](hackerone.com/reports/397478) - 111
+- [Highly wormable clickjacking in player card](hackerone.com/reports/85624) - 111
+- [[Critical] Delete any account](hackerone.com/reports/158872) - 110
+- [Golden techniques to bypass host validations in Android apps](hackerone.com/reports/431002) - 109
+- [Unserialize leading to arbitrary PHP function invoke](hackerone.com/reports/210741) - 108
