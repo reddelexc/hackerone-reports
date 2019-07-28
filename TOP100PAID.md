@@ -1,0 +1,107 @@
+[Back](README.md)
+
+Top 100 paid reports from HackerOne:
+
+- [SSRF in Exchange leads to ROOT access in all instances](https://hackerone.com/reports/341876) - 25000.0 $
+- [SQL Injection in report_xml.php through countryFilter[] parameter](https://hackerone.com/reports/383127) - 25000.0 $
+- [Key Reinstallation Attacks: Breaking WPA2 by forcing nonce reuse](https://hackerone.com/reports/286740) - 25000.0 $
+- [ETH contract handling errors](https://hackerone.com/reports/328526) - 21000.0 $
+- [Confidential data of users and limited metadata of programs and reports accessible via GraphQL](https://hackerone.com/reports/489146) - 20000.0 $
+- [Getting all the CD keys of any game](https://hackerone.com/reports/391217) - 20000.0 $
+- [Shopify admin authentication bypass using partners.shopify.com](https://hackerone.com/reports/270981) - 20000.0 $
+- [DoS: type confusion in mrb_no_method_error](https://hackerone.com/reports/181871) - 20000.0 $
+- [Type confusion in mrb_exc_set leading to memory corruption](https://hackerone.com/reports/185041) - 20000.0 $
+- [Use after free vulnerability in mruby Array#to_h causing DOS possible RCE](https://hackerone.com/reports/181321) - 20000.0 $
+- [TOCTTOU bug in mrb_str_setbyte leading the memory corruption](https://hackerone.com/reports/181893) - 20000.0 $
+- [RCE on Steam Client via buffer overflow in Server Info](https://hackerone.com/reports/470520) - 18000.0 $
+- [Oracle Webcenter Sites administrative and hi-privilege access available directly from the internet (/cs/Satellite)](https://hackerone.com/reports/170532) - 18000.0 $
+- [Type confusion in wrap_decimal leading to memory corruption](https://hackerone.com/reports/185051) - 18000.0 $
+- [Struct type confusion RCE](https://hackerone.com/reports/181879) - 18000.0 $
+- [Ability to bypass partner email confirmation to take over any store given an employee email](https://hackerone.com/reports/300305) - 15250.0 $
+- [Github Token Leaked publicly for https://github.sc-corp.net](https://hackerone.com/reports/396467) - 15000.0 $
+- [Open prod Jenkins instance](https://hackerone.com/reports/231460) - 15000.0 $
+- [Internal attachments can be exported via "Export as .zip" feature](https://hackerone.com/reports/186230) - 12500.0 $
+- [Malformed .BSP Access Violation in CS:GO can lead to Remote Code Execution](https://hackerone.com/reports/351014) - 12500.0 $
+- [JSON serialization of any Project model results in all Runner tokens being exposed through Quick Actions](https://hackerone.com/reports/509924) - 12000.0 $
+- [Bypass of GitLab CI runner slash fix in YAML validation](https://hackerone.com/reports/409395) - 12000.0 $
+- [Local files could be overwritten in GitLab, leading to remote command execution](https://hackerone.com/reports/587854) - 12000.0 $
+- [Exfiltrate and mutate repository and project data through injected templated service](https://hackerone.com/reports/446585) - 11000.0 $
+- [XXE on sms-be-vip.twitter.com in SXMP Processor](https://hackerone.com/reports/248668) - 10080.0 $
+- [Remote Code Execution on www.semrush.com/my_reports on Logo upload](https://hackerone.com/reports/403417) - 10000.0 $
+- [Remote Code Execution in epoch via epmd](https://hackerone.com/reports/450365) - 10000.0 $
+- [Partial disclosure of report activity through new "Export as .zip" feature](https://hackerone.com/reports/182358) - 10000.0 $
+- [Information Disclosure in /skills call](https://hackerone.com/reports/188719) - 10000.0 $
+- [Ethereum account balance manipulation](https://hackerone.com/reports/300748) - 10000.0 $
+- [Double Payout via PayPal](https://hackerone.com/reports/307239) - 10000.0 $
+- [Hacker can bypass 2FA requirement and reporter blacklist through embedded submission form](https://hackerone.com/reports/418767) - 10000.0 $
+- [[Venmo Android] Remote theft of user session](https://hackerone.com/reports/401940) - 10000.0 $
+- [password reset token leaking allowed for ATO of an Uber account](https://hackerone.com/reports/173551) - 10000.0 $
+- [Invalid handling of zero-length heredoc identifiers leads to infinite loop in the sandbox](https://hackerone.com/reports/187305) - 10000.0 $
+- [Crash: Overwriting NoMethodError with a builtin class crashes/corrupts memory](https://hackerone.com/reports/186723) - 10000.0 $
+- [Null pointer dereference due to TOCTTOU bug in mrb_time_initialize](https://hackerone.com/reports/182274) - 10000.0 $
+- [Exception cause SIGABRT](https://hackerone.com/reports/180977) - 10000.0 $
+- [Segfault and/or potential unwanted (byte)code execution with "break" and "||=" inside a loop](https://hackerone.com/reports/183356) - 10000.0 $
+- [Buffer overflow in mrb_time_asctime](https://hackerone.com/reports/188326) - 10000.0 $
+- [Certain inputs cause tight C-level recursion leading to process stack overflow](https://hackerone.com/reports/189633) - 10000.0 $
+- [NULL pointer dereference when parsing ternary operators](https://hackerone.com/reports/181677) - 10000.0 $
+- [Broken handling of maximum number of method call arguments leads to segfault](https://hackerone.com/reports/182484) - 10000.0 $
+- [Crash: Initialize Decimal with itself triggers an assertion](https://hackerone.com/reports/185775) - 10000.0 $
+- [SIGSEGV when invalid argument on remove_method](https://hackerone.com/reports/181874) - 10000.0 $
+- [Null pointer derefence due to bug in codegen with negation without using value](https://hackerone.com/reports/187536) - 10000.0 $
+- [Range#initialize_copy null pointer dereference](https://hackerone.com/reports/181685) - 10000.0 $
+- [Range constructor type confusion DoS](https://hackerone.com/reports/181910) - 10000.0 $
+- [Segfault in mruby, mruby_engine and the parent MRI Ruby due to null pointer dereference](https://hackerone.com/reports/181828) - 10000.0 $
+- [Full access to internal Gitlab instances at redash.gitlab.com, dashboards.gitlab.com, prometheus.gitlab.com](https://hackerone.com/reports/498964) - 9500.0 $
+- [SAML Authentication Bypass on uchat.uberinternal.com](https://hackerone.com/reports/223014) - 8500.0 $
+- [Open Redirect on central.uber.com allows for account takeover](https://hackerone.com/reports/206591) - 8000.0 $
+- [Account Takeover via billing](https://hackerone.com/reports/394329) - 8000.0 $
+- [Null target_class DoS](https://hackerone.com/reports/183405) - 8000.0 $
+- [Segmentation fault when a Ruby method is invoked by a C method via Object#send](https://hackerone.com/reports/183425) - 8000.0 $
+- [Denial of service due to invalid memory access in mrb_ary_concat](https://hackerone.com/reports/184712) - 8000.0 $
+- [Denial of Service in mruby due to null pointer dereference](https://hackerone.com/reports/181232) - 8000.0 $
+- [Undefined method_missing null pointer dereference](https://hackerone.com/reports/181695) - 8000.0 $
+- [SIGSEGV on mruby's mark_tbl() (Invalid memory access)](https://hackerone.com/reports/183239) - 8000.0 $
+- [SIGSEGV on mruby mrb_str_modify() (Invalid memory access)](https://hackerone.com/reports/183231) - 8000.0 $
+- [SIGSEV on mrb_ary_splice](https://hackerone.com/reports/182027) - 8000.0 $
+- [ruby DoS https://www.mruby.science](https://hackerone.com/reports/180695) - 8000.0 $
+- [Crash: mrb_any_to_s can't handle NilClass, Symbol and Fixnum](https://hackerone.com/reports/185794) - 8000.0 $
+- [Segmentation fault due to bad memory access in kh_get_mt](https://hackerone.com/reports/188313) - 8000.0 $
+- [Crash: calling Proc::initialize_copy with a Proc instance where initialize never ran leads to a crash](https://hackerone.com/reports/184857) - 8000.0 $
+- [mruby-time: Crash host with uninitialized Time obj](https://hackerone.com/reports/184661) - 8000.0 $
+- [Account Takeover in Periscope TV](https://hackerone.com/reports/317476) - 7560.0 $
+- [[URGENT] Opportunity to publish tweets on any twitters account](https://hackerone.com/reports/208978) - 7560.0 $
+- [Vine all registered user Private/sensitive information disclosure .[ Ip address/phone no/email and many other informations ]](https://hackerone.com/reports/202823) - 7560.0 $
+- [XSS in steam react chat client](https://hackerone.com/reports/409850) - 7500.0 $
+- [[Grab Android/iOS] Insecure deeplink leads to sensitive information disclosure](https://hackerone.com/reports/401793) - 7500.0 $
+- [Chained Bugs to Leak Victim's Uber's FB Oauth Token](https://hackerone.com/reports/202781) - 7500.0 $
+- [Improper UUID validation results in bypass of #419896](https://hackerone.com/reports/423073) - 7500.0 $
+- [Attacker is able to access commit title and team member comments which are supposed to be private](https://hackerone.com/reports/502593) - 7000.0 $
+- [Leaking sensitive information on Github lead full access to all Grab Slack channels](https://hackerone.com/reports/397527) - 7000.0 $
+- [RCE using bash command injection on /system/images (toimitilat.lahitapiola.fi)](https://hackerone.com/reports/303061) - 6800.0 $
+- [[PayPal Android] Remote theft of user session using push_notification_webview deeplink](https://hackerone.com/reports/424443) - 6800.0 $
+- [XXE on pulse.mail.ru](https://hackerone.com/reports/505947) - 6000.0 $
+- [Stored XSS on any page in most Uber domains](https://hackerone.com/reports/217739) - 6000.0 $
+- [Open Selenoid instance at 188.93.63.186 leads to LFR/SSRF.](https://hackerone.com/reports/512973) - 6000.0 $
+- [Possibility to inject a malicious JavaScript code in any file on tags.tiqcdn.com results in a stored XSS on any page in most Uber domains](https://hackerone.com/reports/256152) - 6000.0 $
+- [LRF on shared.mail.ru due to "markdown" plugin](https://hackerone.com/reports/518641) - 6000.0 $
+- [Site-wide CSRF on eats.uber.com](https://hackerone.com/reports/161529) - 6000.0 $
+- [Sending arbitrary IPC messages via overriding Function.prototype.apply](https://hackerone.com/reports/188086) - 5300.0 $
+- [[CRITICAL] Full account takeover using CSRF](https://hackerone.com/reports/235642) - 5040.0 $
+- [Employee's GitHub Token Found In Travis CI Build Logs](https://hackerone.com/reports/496937) - 5000.0 $
+- [Linux privilege escalation via trusted $PATH in keybase-redirector](https://hackerone.com/reports/426944) - 5000.0 $
+- [Cross application scripting via account.mail.ru](https://hackerone.com/reports/470380) - 5000.0 $
+- [RCE by command line argument injection to `gm convert` in `/edit/process?a=crop`](https://hackerone.com/reports/212696) - 5000.0 $
+- [H1514 DOMXSS on Embedded SDK via Shopify.API.setWindowLocation abusing cookie Stuffing](https://hackerone.com/reports/422043) - 5000.0 $
+- [Markdown parsing issue enables insertion of malicious tags and event handlers](https://hackerone.com/reports/299728) - 5000.0 $
+- [Authentication bypass on auth.uber.com via subdomain takeover of saostatic.uber.com](https://hackerone.com/reports/219205) - 5000.0 $
+- [Content spoofing and potential Cross-Site Scripting vulnerability on www.hackerone.com](https://hackerone.com/reports/374919) - 5000.0 $
+- [Privilege Escalation via Keybase Helper](https://hackerone.com/reports/397478) - 5000.0 $
+- [Unserialize leading to arbitrary PHP function invoke](https://hackerone.com/reports/210741) - 5000.0 $
+- [ISteamAssets gives partners control over unrelated community market transactions](https://hackerone.com/reports/577584) - 5000.0 $
+- [Access Grab_Road BigData Database via Open Presto coordinator](https://hackerone.com/reports/266766) - 5000.0 $
+- [XSS on $shop$.myshopify.com/admin/ and partners.shopify.com via whitelist bypass in SVG icon for sales channel applications](https://hackerone.com/reports/232174) - 5000.0 $
+- [RCE/LFI on test Jenkins instance due to improper authentication flow](https://hackerone.com/reports/258117) - 5000.0 $
+- [Local files reading from the web using `brave://`](https://hackerone.com/reports/390013) - 5000.0 $
+
+
+[Back](README.md)
