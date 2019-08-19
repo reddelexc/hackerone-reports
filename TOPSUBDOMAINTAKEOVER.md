@@ -1,6 +1,6 @@
 [Back](README.md)
 
-Top SUBDOMAINTAKEOVER reports from HackerOne:
+Top Subdomain Takeover reports from HackerOne:
 
 1. [Hacker.One Subdomain Takeover](https://hackerone.com/reports/159156) - 140 upvotes, $1000
 2. [Authentication bypass on auth.uber.com via subdomain takeover of saostatic.uber.com](https://hackerone.com/reports/219205) - 138 upvotes, $5000

@@ -1,6 +1,6 @@
 [Back](README.md)
 
-Top DOS reports from HackerOne:
+Top DoS reports from HackerOne:
 
 1. [Denial of service via cache poisoning](https://hackerone.com/reports/409370) - 196 upvotes, $2500
 2. [DoS on the Issue page by exploiting Mermaid.](https://hackerone.com/reports/470067) - 132 upvotes, $3000

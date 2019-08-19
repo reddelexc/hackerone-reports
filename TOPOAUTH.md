@@ -1,6 +1,6 @@
 [Back](README.md)
 
-Top OAUTH reports from HackerOne:
+Top OAuth reports from HackerOne:
 
 1. [Chained Bugs to Leak Victim's Uber's FB Oauth Token](https://hackerone.com/reports/202781) - 309 upvotes, $7500
 2. [[Urgent] Invalidating OAuth2 Bearer token makes TweetDeck unavailable](https://hackerone.com/reports/210779) - 298 upvotes, $0

@@ -1,6 +1,6 @@
 [Back](README.md)
 
-Top CLICKJACKING reports from HackerOne:
+Top Clickjacking reports from HackerOne:
 
 1. [Highly wormable clickjacking in player card](https://hackerone.com/reports/85624) - 116 upvotes, $0
 2. [Twitter Periscope Clickjacking Vulnerability](https://hackerone.com/reports/591432) - 105 upvotes, $1120

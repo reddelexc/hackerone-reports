@@ -1,6 +1,6 @@
 [Back](README.md)
 
-Top OPENREDIRECT reports from HackerOne:
+Top Open Redirect reports from HackerOne:
 
 1. [Open redirect at https://inventory.upserve.com/http://google.com/](https://hackerone.com/reports/469803) - 151 upvotes, $1200
 2. [Open Redirect on central.uber.com allows for account takeover](https://hackerone.com/reports/206591) - 87 upvotes, $8000

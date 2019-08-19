@@ -1,6 +1,6 @@
 [Back](README.md)
 
-Top RACECONDITION reports from HackerOne:
+Top Race Condition reports from HackerOne:
 
 1. [Race condition in performing retest allows duplicated payments](https://hackerone.com/reports/429026) - 187 upvotes, $2100
 2. [Client-Side Race Condition using Marketo, allows sending user to data-protocol in Safari when form without onSuccess is submitted on www.hackerone.com](https://hackerone.com/reports/381356) - 125 upvotes, $1250
