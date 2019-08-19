@@ -12,5 +12,11 @@ Tops by bug type.
 - [Top RCE reports](TOPRCE.md)
 - [Top SQLi repors](TOPSQLI.md)
 - [Top SSRF reports](TOPSSRF.md)
+- [Top Race Condition reports](TOPRACECONDITION.md)
+- [Top Subdomain Takeover reports](TOPSUBDOMAINTAKEOVER.md)
+- [Top Open Redirect reports](TOPOPENREDIRECT.md)
+- [Top Clickjacking reports](TOPCLICKJACKING.md)
+- [Top DoS reports](TOPDOS.md)
+- [Top OAuth reports](TOPOAUTH.md)
 
 To be continued...
