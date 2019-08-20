@@ -41,47 +41,41 @@ Top Clickjacking reports from HackerOne:
 37. [Found clickjacking vulnerability](https://hackerone.com/reports/119828) - 2 upvotes, $0
 38. [Vulnerable to clickjacking](https://hackerone.com/reports/123782) - 2 upvotes, $0
 39. [newrelic.com vulnerable to clickjacking !](https://hackerone.com/reports/123126) - 2 upvotes, $0
-40. [Clickjacking: X-Frame-Options header missing](https://hackerone.com/reports/163646) - 2 upvotes, $0
-41. [ClickJacking on Debug](https://hackerone.com/reports/225555) - 2 upvotes, $0
-42. [Click jacking in delete image of user in Yelp](https://hackerone.com/reports/201848) - 2 upvotes, $0
-43. [Frameset(Frame) html tag is allowed in html editor.(can lead to clickjacking)](https://hackerone.com/reports/285609) - 2 upvotes, $0
-44. [URL is vulnerable to clickjacking](https://hackerone.com/reports/337219) - 2 upvotes, $0
-45. [Clickjacking: Delete Account, Change privacy settings, Rate business, follow/unfollow (IE)](https://hackerone.com/reports/338569) - 2 upvotes, $0
-46. [Clickjacking Vulnerability on https://support.my.com/games/ticket/xxxx/](https://hackerone.com/reports/357954) - 2 upvotes, $0
-47. [Clickjacking in ops.cuvva.com](https://hackerone.com/reports/583624) - 2 upvotes, $0
-48. [ClickJacking on http://au.launch.yahoo.com](https://hackerone.com/reports/1229) - 1 upvotes, $0
-49. [Possible clickjacking at shop.khanacademy.org](https://hackerone.com/reports/6370) - 1 upvotes, $0
-50. [Clickjacking](https://hackerone.com/reports/8724) - 1 upvotes, $0
-51. [Click-Jacking due to missing X-frame header](https://hackerone.com/reports/17664) - 1 upvotes, $0
-52. [Clickjacking & CSRF attack can be done at https://app.mavenlink.com/login](https://hackerone.com/reports/14494) - 1 upvotes, $0
-53. [Clickjacking at surveylink.yahoo.com](https://hackerone.com/reports/3578) - 1 upvotes, $0
-54. [Clickjacking: X-Frame-Options header missing](https://hackerone.com/reports/129650) - 1 upvotes, $0
-55. [Clickjacking on authenticated pages which is inscope for New Relic](https://hackerone.com/reports/128645) - 1 upvotes, $0
-56. [Clickjacking in love.uber.com](https://hackerone.com/reports/137152) - 1 upvotes, $0
-57. [ClickJacking](https://hackerone.com/reports/183127) - 1 upvotes, $0
-58. [Clickjacking vulnerability in support-dashboard.corp.cuvva.co](https://hackerone.com/reports/231694) - 1 upvotes, $0
-59. [Clickjacking or URL Masking](https://hackerone.com/reports/204198) - 1 upvotes, $0
-60. [ClickJacking](https://hackerone.com/reports/179839) - 1 upvotes, $0
-61. [Clickjacking: X-Frame Header Missing](https://hackerone.com/reports/168358) - 1 upvotes, $0
-62. [clickjacking to Semrush auth login](https://hackerone.com/reports/318295) - 1 upvotes, $0
-63. [Clickjacking - changing role](https://hackerone.com/reports/7924) - 0 upvotes, $0
-64. [ClickJacking](https://hackerone.com/reports/7862) - 0 upvotes, $0
-65. [Click jacking](https://hackerone.com/reports/13550) - 0 upvotes, $0
-66. [Clicjacking on Login panel](https://hackerone.com/reports/8459) - 0 upvotes, $0
-67. [Clickjacking at https://staging.uzbey.com/](https://hackerone.com/reports/17315) - 0 upvotes, $0
-68. [Clickjacking](https://hackerone.com/reports/21110) - 0 upvotes, $0
-69. [Clickjacking at https://www.mavenlink.com/ main website](https://hackerone.com/reports/14631) - 0 upvotes, $0
-70. [Clickjacking: X-Frame-Options header missing](https://hackerone.com/reports/27594) - 0 upvotes, $0
-71. [clickjacking](https://hackerone.com/reports/1207) - 0 upvotes, $0
-72. [clickjacking on leaving group(flick)](https://hackerone.com/reports/7745) - 0 upvotes, $0
-73. [Clickjacking : https://partners.cloudflare.com/](https://hackerone.com/reports/106362) - 0 upvotes, $0
-74. [clickjacking at http://mailboxes.legalrobot-uat.com/](https://hackerone.com/reports/165542) - 0 upvotes, $0
-75. [aspen | clickjacking](https://hackerone.com/reports/272387) - 0 upvotes, $0
-76. [Clickjacking https://blockstack.org/](https://hackerone.com/reports/269047) - 0 upvotes, $0
-77. [Clickjacking irclogs.wordpress.org](https://hackerone.com/reports/267075) - 0 upvotes, $0
-78. [ClickJacking in editing business name](https://hackerone.com/reports/227837) - 0 upvotes, $0
-79. [User can be fooled to Bookmark any restaurant by clickjacking](https://hackerone.com/reports/228295) - 0 upvotes, $0
-80. [Clickjacking @ Main Domain[www.yelp.com]](https://hackerone.com/reports/197115) - 0 upvotes, $0
+40. [ClickJacking on Debug](https://hackerone.com/reports/225555) - 2 upvotes, $0
+41. [Click jacking in delete image of user in Yelp](https://hackerone.com/reports/201848) - 2 upvotes, $0
+42. [URL is vulnerable to clickjacking](https://hackerone.com/reports/337219) - 2 upvotes, $0
+43. [Clickjacking Vulnerability on https://support.my.com/games/ticket/xxxx/](https://hackerone.com/reports/357954) - 2 upvotes, $0
+44. [Clickjacking in ops.cuvva.com](https://hackerone.com/reports/583624) - 2 upvotes, $0
+45. [ClickJacking on http://au.launch.yahoo.com](https://hackerone.com/reports/1229) - 1 upvotes, $0
+46. [Possible clickjacking at shop.khanacademy.org](https://hackerone.com/reports/6370) - 1 upvotes, $0
+47. [Clickjacking](https://hackerone.com/reports/8724) - 1 upvotes, $0
+48. [Click-Jacking due to missing X-frame header](https://hackerone.com/reports/17664) - 1 upvotes, $0
+49. [Clickjacking & CSRF attack can be done at https://app.mavenlink.com/login](https://hackerone.com/reports/14494) - 1 upvotes, $0
+50. [Clickjacking at surveylink.yahoo.com](https://hackerone.com/reports/3578) - 1 upvotes, $0
+51. [Clickjacking on authenticated pages which is inscope for New Relic](https://hackerone.com/reports/128645) - 1 upvotes, $0
+52. [Clickjacking in love.uber.com](https://hackerone.com/reports/137152) - 1 upvotes, $0
+53. [ClickJacking](https://hackerone.com/reports/183127) - 1 upvotes, $0
+54. [Clickjacking vulnerability in support-dashboard.corp.cuvva.co](https://hackerone.com/reports/231694) - 1 upvotes, $0
+55. [Clickjacking or URL Masking](https://hackerone.com/reports/204198) - 1 upvotes, $0
+56. [ClickJacking](https://hackerone.com/reports/179839) - 1 upvotes, $0
+57. [clickjacking to Semrush auth login](https://hackerone.com/reports/318295) - 1 upvotes, $0
+58. [Clickjacking - changing role](https://hackerone.com/reports/7924) - 0 upvotes, $0
+59. [ClickJacking](https://hackerone.com/reports/7862) - 0 upvotes, $0
+60. [Click jacking](https://hackerone.com/reports/13550) - 0 upvotes, $0
+61. [Clicjacking on Login panel](https://hackerone.com/reports/8459) - 0 upvotes, $0
+62. [Clickjacking at https://staging.uzbey.com/](https://hackerone.com/reports/17315) - 0 upvotes, $0
+63. [Clickjacking](https://hackerone.com/reports/21110) - 0 upvotes, $0
+64. [Clickjacking at https://www.mavenlink.com/ main website](https://hackerone.com/reports/14631) - 0 upvotes, $0
+65. [clickjacking](https://hackerone.com/reports/1207) - 0 upvotes, $0
+66. [clickjacking on leaving group(flick)](https://hackerone.com/reports/7745) - 0 upvotes, $0
+67. [Clickjacking : https://partners.cloudflare.com/](https://hackerone.com/reports/106362) - 0 upvotes, $0
+68. [clickjacking at http://mailboxes.legalrobot-uat.com/](https://hackerone.com/reports/165542) - 0 upvotes, $0
+69. [aspen | clickjacking](https://hackerone.com/reports/272387) - 0 upvotes, $0
+70. [Clickjacking https://blockstack.org/](https://hackerone.com/reports/269047) - 0 upvotes, $0
+71. [Clickjacking irclogs.wordpress.org](https://hackerone.com/reports/267075) - 0 upvotes, $0
+72. [ClickJacking in editing business name](https://hackerone.com/reports/227837) - 0 upvotes, $0
+73. [User can be fooled to Bookmark any restaurant by clickjacking](https://hackerone.com/reports/228295) - 0 upvotes, $0
+74. [Clickjacking @ Main Domain[www.yelp.com]](https://hackerone.com/reports/197115) - 0 upvotes, $0
 
 
 [Back](../README.md)
