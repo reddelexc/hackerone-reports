@@ -1,4 +1,4 @@
-[Back](README.md)
+[Back](../README.md)
 
 Top CSRF reports from HackerOne:
 
@@ -318,4 +318,4 @@ Top CSRF reports from HackerOne:
 314. [CSRF allows attacker to manage customer's shopping cart.](https://hackerone.com/reports/540382) - 0 upvotes, $0
 
 
-[Back](README.md)
+[Back](../README.md)

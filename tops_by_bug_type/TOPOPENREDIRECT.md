@@ -1,4 +1,4 @@
-[Back](README.md)
+[Back](../README.md)
 
 Top Open Redirect reports from HackerOne:
 
@@ -168,4 +168,4 @@ Top Open Redirect reports from HackerOne:
 164. [Open redirect filter bypass](https://hackerone.com/reports/76738) - 0 upvotes, $0
 
 
-[Back](README.md)
+[Back](../README.md)

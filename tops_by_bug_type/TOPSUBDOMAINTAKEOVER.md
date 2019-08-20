@@ -1,4 +1,4 @@
-[Back](README.md)
+[Back](../README.md)
 
 Top Subdomain Takeover reports from HackerOne:
 
@@ -102,4 +102,4 @@ Top Subdomain Takeover reports from HackerOne:
 98. [Sub domain take over in gratipay.com](https://hackerone.com/reports/257331) - 0 upvotes, $0
 
 
-[Back](README.md)
+[Back](../README.md)

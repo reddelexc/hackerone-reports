@@ -1,4 +1,4 @@
-[Back](README.md)
+[Back](../README.md)
 
 Top Clickjacking reports from HackerOne:
 
@@ -84,4 +84,4 @@ Top Clickjacking reports from HackerOne:
 80. [Clickjacking @ Main Domain[www.yelp.com]](https://hackerone.com/reports/197115) - 0 upvotes, $0
 
 
-[Back](README.md)
+[Back](../README.md)

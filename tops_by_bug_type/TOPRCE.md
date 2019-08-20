@@ -1,4 +1,4 @@
-[Back](README.md)
+[Back](../README.md)
 
 Top RCE reports from HackerOne:
 
@@ -253,4 +253,4 @@ Top RCE reports from HackerOne:
 249. [Source Code Disclosure](https://hackerone.com/reports/216336) - 0 upvotes, $0
 
 
-[Back](README.md)
+[Back](../README.md)

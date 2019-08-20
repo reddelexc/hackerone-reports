@@ -1,4 +1,4 @@
-[Back](README.md)
+[Back](../README.md)
 
 Top OAuth reports from HackerOne:
 
@@ -64,4 +64,4 @@ Top OAuth reports from HackerOne:
 60. [Login CSRF using Google OAuth](https://hackerone.com/reports/118737) - 0 upvotes, $0
 
 
-[Back](README.md)
+[Back](../README.md)

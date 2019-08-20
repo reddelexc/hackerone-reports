@@ -1,4 +1,4 @@
-[Back](README.md)
+[Back](../README.md)
 
 Top SSRF reports from HackerOne:
 
@@ -118,4 +118,4 @@ Top SSRF reports from HackerOne:
 114. [SSRF на element.mail.ru](https://hackerone.com/reports/117158) - 0 upvotes, $0
 
 
-[Back](README.md)
+[Back](../README.md)

@@ -1,4 +1,4 @@
-[Back](README.md)
+[Back](../README.md)
 
 Top 100 upvoted reports from HackerOne:
 
@@ -104,4 +104,4 @@ Top 100 upvoted reports from HackerOne:
 100. [Frans Visits Vegas Announcement](https://hackerone.com/reports/251747) - 144 upvotes
 
 
-[Back](README.md)
+[Back](../README.md)

@@ -1,4 +1,4 @@
-[Back](README.md)
+[Back](../README.md)
 
 Top Race Condition reports from HackerOne:
 
@@ -31,4 +31,4 @@ Top Race Condition reports from HackerOne:
 27. [Race condition in workers may cause an exploitable double free by abusing bytearray.compress()](https://hackerone.com/reports/47227) - 0 upvotes, $0
 
 
-[Back](README.md)
+[Back](../README.md)

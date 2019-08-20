@@ -1,4 +1,4 @@
-[Back](README.md)
+[Back](../README.md)
 
 Top DoS reports from HackerOne:
 
@@ -113,4 +113,4 @@ Top DoS reports from HackerOne:
 109. [Media parsing in canvas is at least vulnerable to Denial of Service through multiple vulnerabilities](https://hackerone.com/reports/315037) - 0 upvotes, $0
 
 
-[Back](README.md)
+[Back](../README.md)

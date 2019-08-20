@@ -1,4 +1,4 @@
-[Back](README.md)
+[Back](../README.md)
 
 Top IDOR reports from HackerOne:
 
@@ -100,4 +100,4 @@ Top IDOR reports from HackerOne:
 96. [IDOR spam anyone's cellphone number through Cuvva app link](https://hackerone.com/reports/232562) - 0 upvotes, $0
 
 
-[Back](README.md)
+[Back](../README.md)

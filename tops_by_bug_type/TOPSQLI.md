@@ -1,4 +1,4 @@
-[Back](README.md)
+[Back](../README.md)
 
 Top SQLI reports from HackerOne:
 
@@ -132,4 +132,4 @@ Top SQLI reports from HackerOne:
 128. [SQL Injection Proof of Concept for Starbucks URL](https://hackerone.com/reports/360539) - 0 upvotes, $0
 
 
-[Back](README.md)
+[Back](../README.md)

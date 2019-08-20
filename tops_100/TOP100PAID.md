@@ -1,4 +1,4 @@
-[Back](README.md)
+[Back](../README.md)
 
 Top 100 paid reports from HackerOne:
 
@@ -104,4 +104,4 @@ Top 100 paid reports from HackerOne:
 100. [ISteamAssets gives partners control over unrelated community market transactions](https://hackerone.com/reports/577584) - $5000
 
 
-[Back](README.md)
+[Back](../README.md)

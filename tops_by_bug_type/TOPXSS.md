@@ -1,4 +1,4 @@
-[Back](README.md)
+[Back](../README.md)
 
 Top XSS reports from HackerOne:
 
@@ -1330,4 +1330,4 @@ Top XSS reports from HackerOne:
 1326. [Reflected Xss bypass Content-Type: text/plain](https://hackerone.com/reports/472543) - 0 upvotes, $0
 
 
-[Back](README.md)
+[Back](../README.md)

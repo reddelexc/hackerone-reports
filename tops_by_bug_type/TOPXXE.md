@@ -1,4 +1,4 @@
-[Back](README.md)
+[Back](../README.md)
 
 Top XXE reports from HackerOne:
 
@@ -40,4 +40,4 @@ Top XXE reports from HackerOne:
 36. [XXE in OAuth2 Applications gallery profile App logo](https://hackerone.com/reports/104620) - 0 upvotes, $0
 
 
-[Back](README.md)
+[Back](../README.md)
