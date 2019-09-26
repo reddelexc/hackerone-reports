@@ -40,6 +40,6 @@ Tops by program.
 - [Top Slack reports](tops_by_program/TOPSLACK.md)
 - [Top ownCloud reports](tops_by_program/TOPOWNCLOUD.md)
 - [Top GitLab reports](tops_by_program/TOPGITLAB.md)
-- [Top Ubiquiti Networks reports](tops_by_program/TOPUBIQUITINC.md)
+- [Top Ubiquiti Inc. reports](tops_by_program/TOPUBIQUITIINC.md)
 
 To be continued...
