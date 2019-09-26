@@ -19,11 +19,11 @@ Top reports from Weblate program at HackerOne:
 15. [no notification send to victim if attacker hacks/accesses his victims WebLate account.](https://hackerone.com/reports/282772) - 8 upvotes, $0
 16. [No Rate On Add Suggest](https://hackerone.com/reports/481654) - 8 upvotes, $0
 17. [Account Takeover using Third party Auth CSRF](https://hackerone.com/reports/225653) - 7 upvotes, $0
-18. [Activation tokens are not expiring](https://hackerone.com/reports/223339) - 7 upvotes, $0
-19. [Missing restriction on string size of Full Name at https://demo.weblate.org/accounts/register/](https://hackerone.com/reports/223454) - 7 upvotes, $0
-20. [Weak password policy](https://hackerone.com/reports/224572) - 7 upvotes, $0
-21. [No Rate Limitting at Change Password](https://hackerone.com/reports/223694) - 6 upvotes, $0
-22. [Insecure Account Removal](https://hackerone.com/reports/223355) - 6 upvotes, $0
+18. [Insecure Account Removal](https://hackerone.com/reports/223355) - 7 upvotes, $0
+19. [Activation tokens are not expiring](https://hackerone.com/reports/223339) - 7 upvotes, $0
+20. [Missing restriction on string size of Full Name at https://demo.weblate.org/accounts/register/](https://hackerone.com/reports/223454) - 7 upvotes, $0
+21. [Weak password policy](https://hackerone.com/reports/224572) - 7 upvotes, $0
+22. [No Rate Limitting at Change Password](https://hackerone.com/reports/223694) - 6 upvotes, $0
 23. [Logout CSRF](https://hackerone.com/reports/223329) - 6 upvotes, $0
 24. [You can simply just use passwords that simply are as 123456](https://hackerone.com/reports/223374) - 6 upvotes, $0
 25. [Information Disclosure on demo.weblate.org](https://hackerone.com/reports/229620) - 6 upvotes, $0

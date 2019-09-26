@@ -4,14 +4,14 @@ Top XXE reports from HackerOne:
 
 1. [XXE on pulse.mail.ru](https://hackerone.com/reports/505947) - 256 upvotes, $6000
 2. [XXE on sms-be-vip.twitter.com in SXMP Processor](https://hackerone.com/reports/248668) - 224 upvotes, $10080
-3. [XXE on https://duckduckgo.com](https://hackerone.com/reports/483774) - 190 upvotes, $0
+3. [XXE on https://duckduckgo.com](https://hackerone.com/reports/483774) - 191 upvotes, $0
 4. [Partial bypass of #483774 with Blind XXE on https://duckduckgo.com](https://hackerone.com/reports/486732) - 140 upvotes, $0
-5. [Multiple endpoints are vulnerable to XML External Entity injection (XXE)](https://hackerone.com/reports/72272) - 134 upvotes, $2500
-6. [Phone Call to XXE via Interactive Voice Response](https://hackerone.com/reports/395296) - 134 upvotes, $0
-7. [XXE in Site Audit function exposing file and directory contents](https://hackerone.com/reports/312543) - 86 upvotes, $2000
-8. [[RCE] Unserialize to XXE - file disclosure on ams.upload.pornhub.com](https://hackerone.com/reports/142562) - 85 upvotes, $10000
+5. [Phone Call to XXE via Interactive Voice Response](https://hackerone.com/reports/395296) - 135 upvotes, $0
+6. [Multiple endpoints are vulnerable to XML External Entity injection (XXE)](https://hackerone.com/reports/72272) - 134 upvotes, $2500
+7. [XXE in Site Audit function exposing file and directory contents](https://hackerone.com/reports/312543) - 87 upvotes, $2000
+8. [[RCE] Unserialize to XXE - file disclosure on ams.upload.pornhub.com](https://hackerone.com/reports/142562) - 86 upvotes, $10000
 9. [Blind XXE via Powerpoint files](https://hackerone.com/reports/334488) - 72 upvotes, $2000
-10. [blind XXE in autodiscover parser](https://hackerone.com/reports/315837) - 63 upvotes, $5000
+10. [blind XXE in autodiscover parser](https://hackerone.com/reports/315837) - 64 upvotes, $5000
 11. [LFI and SSRF via XXE in emblem editor](https://hackerone.com/reports/347139) - 52 upvotes, $1500
 12. [Blind OOB XXE At "http://ubermovement.com/"](https://hackerone.com/reports/154096) - 52 upvotes, $500
 13. [XXE on ██████████ by bypassing WAF ████](https://hackerone.com/reports/433996) - 45 upvotes, $0

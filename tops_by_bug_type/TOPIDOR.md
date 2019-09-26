@@ -2,15 +2,15 @@
 
 Top IDOR reports from HackerOne:
 
-1. [IDOR to add secondary users in www.paypal.com/businessmanage/users/api/v1/users](https://hackerone.com/reports/415081) - 555 upvotes, $10500
-2. [idor allows you to delete photos and album from a gallery](https://hackerone.com/reports/380410) - 253 upvotes, $1500
+1. [IDOR to add secondary users in www.paypal.com/businessmanage/users/api/v1/users](https://hackerone.com/reports/415081) - 575 upvotes, $10500
+2. [idor allows you to delete photos and album from a gallery](https://hackerone.com/reports/380410) - 254 upvotes, $1500
 3. [IDOR and statistics leakage in Orders](https://hackerone.com/reports/544329) - 93 upvotes, $289
 4. [IDOR in Facebook Messages webcam photos](https://hackerone.com/reports/390346) - 88 upvotes, $0
-5. [RCE, SQLi, IDOR, Auth Bypass and XSS at [staff.███.edu.eg ]](https://hackerone.com/reports/404874) - 48 upvotes, $0
-6. [IDOR on HackerOne Feedback Review](https://hackerone.com/reports/262661) - 43 upvotes, $0
-7. [IDOR to delete images from other stores](https://hackerone.com/reports/404797) - 40 upvotes, $600
-8. [IDOR in Report CSV export discloses the IDs of Custom Field Attributes of Programs](https://hackerone.com/reports/510759) - 35 upvotes, $0
-9. [IDOR in sending support email upon Verifying user business domain](https://hackerone.com/reports/592090) - 32 upvotes, $150
+5. [RCE, SQLi, IDOR, Auth Bypass and XSS at [staff.███.edu.eg ]](https://hackerone.com/reports/404874) - 49 upvotes, $0
+6. [IDOR in Report CSV export discloses the IDs of Custom Field Attributes of Programs](https://hackerone.com/reports/510759) - 48 upvotes, $0
+7. [IDOR on HackerOne Feedback Review](https://hackerone.com/reports/262661) - 43 upvotes, $0
+8. [IDOR to delete images from other stores](https://hackerone.com/reports/404797) - 40 upvotes, $600
+9. [IDOR in sending support email upon Verifying user business domain](https://hackerone.com/reports/592090) - 33 upvotes, $150
 10. [[api.pandao.ru] IDOR позволяет изменять адрес любого пользователя](https://hackerone.com/reports/484339) - 28 upvotes, $1000
 11. [IDOR to cancel any table booking and leak sensitive information such as email,mobile number,uuid](https://hackerone.com/reports/265258) - 27 upvotes, $0
 12. [IDOR - disclosure of private videos - /api_android_v3/getUserVideos](https://hackerone.com/reports/186279) - 26 upvotes, $1500

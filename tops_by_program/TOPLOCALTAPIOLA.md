@@ -4,8 +4,8 @@ Top reports from LocalTapiola program at HackerOne:
 
 1. [Oracle Webcenter Sites administrative and hi-privilege access available directly from the internet (/cs/Satellite)](https://hackerone.com/reports/170532) - 258 upvotes, $18000
 2. [RCE using bash command injection on /system/images (toimitilat.lahitapiola.fi)](https://hackerone.com/reports/303061) - 196 upvotes, $6800
-3. [User able to access company details in yrityspalvelu without proper permissions](https://hackerone.com/reports/213418) - 61 upvotes, $2000
-4. [Blind Stored XSS Against Lahitapiola Employees - Session and Information leakage](https://hackerone.com/reports/135154) - 59 upvotes, $5000
+3. [Blind Stored XSS Against Lahitapiola Employees - Session and Information leakage](https://hackerone.com/reports/135154) - 61 upvotes, $5000
+4. [User able to access company details in yrityspalvelu without proper permissions](https://hackerone.com/reports/213418) - 61 upvotes, $2000
 5. [Blind Stored XSS Against Lahitapiola Employees - Session and Information leakage](https://hackerone.com/reports/159498) - 57 upvotes, $3000
 6. [SQL Injection /webApp/oma_conf ctx parameter (viestinta.lahitapiola.fi)](https://hackerone.com/reports/181803) - 48 upvotes, $1350
 7. [SQL Injection on /webApp/omatalousuk (viestinta.lahitapiola.fi)](https://hackerone.com/reports/179751) - 39 upvotes, $1560
@@ -42,16 +42,16 @@ Top reports from LocalTapiola program at HackerOne:
 38. [Creating arbitrary cookies values /cs/CookieServer (www.lahitapiola.fi)](https://hackerone.com/reports/192618) - 9 upvotes, $150
 39. [Single user DOS on selectedLanuage -cookie at (verkkopalvelu.tapiola.fi)](https://hackerone.com/reports/212523) - 9 upvotes, $100
 40. [CSRF possible when SOP Bypass/UXSS is available](https://hackerone.com/reports/207399) - 9 upvotes, $50
-41. [F5 BigIP Backend Cookie Disclosure](https://hackerone.com/reports/384905) - 9 upvotes, $50
-42. [Open redirection protection bypass (/cs/Satellite)](https://hackerone.com/reports/164895) - 8 upvotes, $400
-43. [Reflected XSS on bbe_open_htmleditor_popup.php of BBE Theme via "value"-GET-parameter](https://hackerone.com/reports/324442) - 8 upvotes, $250
-44. [Multiple Reflected XSS /webApp/lahti (viestinta.lahitapiola.fi)](https://hackerone.com/reports/181842) - 8 upvotes, $150
-45. [Mixed Active Scripting Issue on https://www.lahitapiola.fi](https://hackerone.com/reports/146707) - 8 upvotes, $150
-46. [Cleartext protocol after bank authentication (yrityspalvelu.tapiola.fi)](https://hackerone.com/reports/300104) - 8 upvotes, $100
-47. [Poodle attack SSLv3 Support (viestinta.lahitapiola.fi)](https://hackerone.com/reports/181768) - 8 upvotes, $60
-48. [Reflected XSS on sankarikoulutus (viestinta.lahitapiola.fi)](https://hackerone.com/reports/191095) - 8 upvotes, $50
-49. [Test Page available with Server details on /r/test (viestinta.lahitapiola.fi)](https://hackerone.com/reports/201901) - 8 upvotes, $50
-50. [WordPress username enumeration (/author)](https://hackerone.com/reports/335427) - 8 upvotes, $50
+41. [WordPress username enumeration (/author)](https://hackerone.com/reports/335427) - 9 upvotes, $50
+42. [F5 BigIP Backend Cookie Disclosure](https://hackerone.com/reports/384905) - 9 upvotes, $50
+43. [Open redirection protection bypass (/cs/Satellite)](https://hackerone.com/reports/164895) - 8 upvotes, $400
+44. [Reflected XSS on bbe_open_htmleditor_popup.php of BBE Theme via "value"-GET-parameter](https://hackerone.com/reports/324442) - 8 upvotes, $250
+45. [Multiple Reflected XSS /webApp/lahti (viestinta.lahitapiola.fi)](https://hackerone.com/reports/181842) - 8 upvotes, $150
+46. [Mixed Active Scripting Issue on https://www.lahitapiola.fi](https://hackerone.com/reports/146707) - 8 upvotes, $150
+47. [Cleartext protocol after bank authentication (yrityspalvelu.tapiola.fi)](https://hackerone.com/reports/300104) - 8 upvotes, $100
+48. [Poodle attack SSLv3 Support (viestinta.lahitapiola.fi)](https://hackerone.com/reports/181768) - 8 upvotes, $60
+49. [Reflected XSS on sankarikoulutus (viestinta.lahitapiola.fi)](https://hackerone.com/reports/191095) - 8 upvotes, $50
+50. [Test Page available with Server details on /r/test (viestinta.lahitapiola.fi)](https://hackerone.com/reports/201901) - 8 upvotes, $50
 51. [SQL Injection on /webApp/lapsuudenturva (viestinta.lahitapiola.fi)](https://hackerone.com/reports/200214) - 7 upvotes, $1350
 52. [Single User DOS on SelectedLocale -cookie (verkkopalvelu.tapiola.fi)](https://hackerone.com/reports/212508) - 7 upvotes, $400
 53. [Sql injection on /webApp/sijoituswebinaari (viestinta.lahitapiola.fi)](https://hackerone.com/reports/200212) - 7 upvotes, $350

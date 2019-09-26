@@ -3,13 +3,13 @@
 Top reports from VK.com program at HackerOne:
 
 1. [CVE-2018-0296](https://hackerone.com/reports/377542) - 77 upvotes, $1000
-2. [local file disclosure via FFmpeg hls processing](https://hackerone.com/reports/226756) - 72 upvotes, $1000
+2. [local file disclosure via FFmpeg hls processing](https://hackerone.com/reports/226756) - 73 upvotes, $1000
 3. [Stored XSS в личных сообщениях](https://hackerone.com/reports/181823) - 67 upvotes, $1500
 4. [Определение id по номеру телефона](https://hackerone.com/reports/331040) - 60 upvotes, $5000
 5. [Stealing Private Information in VK Android App through PlayerProxy Port Remotely](https://hackerone.com/reports/292761) - 50 upvotes, $700
 6. [Вставляем свой код в мобильном приложении в разделе помощи сообществам](https://hackerone.com/reports/433904) - 43 upvotes, $300
 7. [Bypass User Interaction to initiate a VoIP call to Another User](https://hackerone.com/reports/386144) - 38 upvotes, $500
-8. [XSS в upload.php](https://hackerone.com/reports/142135) - 35 upvotes, $1500
+8. [XSS в upload.php](https://hackerone.com/reports/142135) - 36 upvotes, $1500
 9. [Просмотр приватных видео записей у Пользователей](https://hackerone.com/reports/317985) - 33 upvotes, $300
 10. [Возможность взлома любого пользователя, не использующего двухфакторной аутентификации, через получения кода восстановления на чужой номер.](https://hackerone.com/reports/219171) - 31 upvotes, $2000
 11. [Получение БД кэша из Android-приложения через стороннее приложение](https://hackerone.com/reports/377582) - 31 upvotes, $500
@@ -111,10 +111,12 @@ Top reports from VK.com program at HackerOne:
 107. [Подмена SSL-сертификата для любой группы в секции Управление группой->Работа с API неавторизированным пользователем.](https://hackerone.com/reports/215326) - 2 upvotes, $200
 108. [Способ узнать имя человека и ВУЗ удаленной страницы](https://hackerone.com/reports/93020) - 2 upvotes, $100
 109. [Паблики: Модератор паблика может удалять добавленные редакторами материалы с таймером на публикацию.](https://hackerone.com/reports/148467) - 2 upvotes, $100
-110. [API: Bug in method auth.validatePhone](https://hackerone.com/reports/64963) - 1 upvotes, $500
-111. [XSS at http://vk.com on IE using flash files](https://hackerone.com/reports/66121) - 1 upvotes, $500
-112. [Не достаточная проверка логина скайп](https://hackerone.com/reports/65330) - 0 upvotes, $100
-113. [XSS on added name album on videos.](https://hackerone.com/reports/65324) - 0 upvotes, $0
+110. [Information Disclosure (phpinfo())](https://hackerone.com/reports/531146) - 2 upvotes, $0
+111. [API: Bug in method auth.validatePhone](https://hackerone.com/reports/64963) - 1 upvotes, $500
+112. [XSS at http://vk.com on IE using flash files](https://hackerone.com/reports/66121) - 1 upvotes, $500
+113. [Дайте swag](https://hackerone.com/reports/665688) - 1 upvotes, $0
+114. [Не достаточная проверка логина скайп](https://hackerone.com/reports/65330) - 0 upvotes, $100
+115. [XSS on added name album on videos.](https://hackerone.com/reports/65324) - 0 upvotes, $0
 
 
 [Back](../README.md)

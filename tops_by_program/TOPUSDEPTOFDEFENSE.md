@@ -2,11 +2,11 @@
 
 Top reports from U.S. Dept Of Defense program at HackerOne:
 
-1. [RCE on █████ via CVE-2017-10271](https://hackerone.com/reports/576887) - 60 upvotes, $0
-2. [SQL Injection in ████](https://hackerone.com/reports/419017) - 54 upvotes, $0
+1. [RCE on █████ via CVE-2017-10271](https://hackerone.com/reports/576887) - 61 upvotes, $0
+2. [SQL Injection in ████](https://hackerone.com/reports/419017) - 60 upvotes, $0
 3. [Local File Inclusion vulnerability on an Army system allows downloading local files](https://hackerone.com/reports/183978) - 36 upvotes, $0
 4. [SQL Injection vulnerability located at ████████](https://hackerone.com/reports/384397) - 36 upvotes, $0
-5. [SQL Injection in ████](https://hackerone.com/reports/519631) - 32 upvotes, $0
+5. [SQL Injection in ████](https://hackerone.com/reports/519631) - 33 upvotes, $0
 6. [Remote code execution on an Army website](https://hackerone.com/reports/188284) - 30 upvotes, $0
 7. [Unrestricted File Upload](https://hackerone.com/reports/184596) - 28 upvotes, $0
 8. [SQL injection](https://hackerone.com/reports/311922) - 25 upvotes, $0
@@ -39,16 +39,16 @@ Top reports from U.S. Dept Of Defense program at HackerOne:
 35. [Personal information disclosure on a DoD website](https://hackerone.com/reports/188149) - 8 upvotes, $0
 36. [File upload vulnerability on a DoD website](https://hackerone.com/reports/191243) - 8 upvotes, $0
 37. [Time Based SQL Injection vulnerability on a DoD website](https://hackerone.com/reports/189851) - 8 upvotes, $0
-38. [QuickTime Promotion on a DoD website](https://hackerone.com/reports/189149) - 7 upvotes, $0
-39. [Exposed Access Control Data Backup Files on DoD Website](https://hackerone.com/reports/195544) - 7 upvotes, $0
-40. [Reflected XSS vulnerability on a DoD website](https://hackerone.com/reports/183835) - 7 upvotes, $0
-41. [Information disclosure on a DoD website](https://hackerone.com/reports/189414) - 7 upvotes, $0
-42. [Remote Command Execution on a DoD website](https://hackerone.com/reports/213776) - 7 upvotes, $0
-43. [SQL injection vulnerability on a DoD website](https://hackerone.com/reports/193936) - 7 upvotes, $0
-44. [Information disclosure vulnerability on a DoD website](https://hackerone.com/reports/189458) - 7 upvotes, $0
-45. [Information disclosure on a DoD website](https://hackerone.com/reports/184076) - 7 upvotes, $0
-46. [SQL Injection vulnerability in a DoD website](https://hackerone.com/reports/216699) - 7 upvotes, $0
-47. [Reflected XSS on a Navy website](https://hackerone.com/reports/183878) - 6 upvotes, $0
+38. [Reflected XSS on a Navy website](https://hackerone.com/reports/183878) - 7 upvotes, $0
+39. [QuickTime Promotion on a DoD website](https://hackerone.com/reports/189149) - 7 upvotes, $0
+40. [Exposed Access Control Data Backup Files on DoD Website](https://hackerone.com/reports/195544) - 7 upvotes, $0
+41. [Reflected XSS vulnerability on a DoD website](https://hackerone.com/reports/183835) - 7 upvotes, $0
+42. [Information disclosure on a DoD website](https://hackerone.com/reports/189414) - 7 upvotes, $0
+43. [Remote Command Execution on a DoD website](https://hackerone.com/reports/213776) - 7 upvotes, $0
+44. [SQL injection vulnerability on a DoD website](https://hackerone.com/reports/193936) - 7 upvotes, $0
+45. [Information disclosure vulnerability on a DoD website](https://hackerone.com/reports/189458) - 7 upvotes, $0
+46. [Information disclosure on a DoD website](https://hackerone.com/reports/184076) - 7 upvotes, $0
+47. [SQL Injection vulnerability in a DoD website](https://hackerone.com/reports/216699) - 7 upvotes, $0
 48. [SQL Injection vulnerability on a DoD website](https://hackerone.com/reports/186156) - 6 upvotes, $0
 49. [Information leakage on a Department of Defense website](https://hackerone.com/reports/186189) - 6 upvotes, $0
 50. [Cross-site scripting (XSS) vulnerability on a DoD website](https://hackerone.com/reports/184495) - 6 upvotes, $0

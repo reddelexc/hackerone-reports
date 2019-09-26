@@ -2,7 +2,7 @@
 
 Top OAuth reports from HackerOne:
 
-1. [Chained Bugs to Leak Victim's Uber's FB Oauth Token](https://hackerone.com/reports/202781) - 315 upvotes, $7500
+1. [Chained Bugs to Leak Victim's Uber's FB Oauth Token](https://hackerone.com/reports/202781) - 319 upvotes, $7500
 2. [Insufficient OAuth callback validation which leads to Periscope account takeover](https://hackerone.com/reports/110293) - 243 upvotes, $5040
 3. [Unauthenticated blind SSRF in OAuth Jira authorization controller](https://hackerone.com/reports/398799) - 207 upvotes, $4000
 4. [Stealing Facebook OAuth Code Through Screenshot viewer](https://hackerone.com/reports/488269) - 176 upvotes, $750
