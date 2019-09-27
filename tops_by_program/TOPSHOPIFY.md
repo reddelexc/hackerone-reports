@@ -15,7 +15,7 @@ Top reports from Shopify program at HackerOne:
 11. [XSS on $shop$.myshopify.com/admin/ and partners.shopify.com via whitelist bypass in SVG icon for sales channel applications](https://hackerone.com/reports/232174) - 74 upvotes, $5000
 12. [Stored XSS in Discounts section](https://hackerone.com/reports/618031) - 70 upvotes, $1000
 13. [██████ DOM XSS via Shopify.API.remoteRedirect](https://hackerone.com/reports/646505) - 67 upvotes, $500
-14. [Reflected XSS in <any>.myshopify.com through theme preview](https://hackerone.com/reports/226428) - 65 upvotes, $2000
+14. [Reflected XSS in \<any\>.myshopify.com through theme preview](https://hackerone.com/reports/226428) - 65 upvotes, $2000
 15. [Stealing livechat token and using it to chat as the user - user information disclosure](https://hackerone.com/reports/151058) - 65 upvotes, $1500
 16. [help.shopify.com Cross Site Scripting](https://hackerone.com/reports/564196) - 65 upvotes, $500
 17. [POST-based XSS on apps.shopify.com](https://hackerone.com/reports/429679) - 64 upvotes, $500
@@ -74,7 +74,7 @@ Top reports from Shopify program at HackerOne:
 70. [Bypass GraphQL rate limit by abusing negative cost queries](https://hackerone.com/reports/481518) - 18 upvotes, $0
 71. [Read access to hidden orders,products,customers etc. by limited access Staff member through reference page in Comments (Information disclosure )](https://hackerone.com/reports/154405) - 17 upvotes, $500
 72. [STAFF member with NO Explicit permissions can view `ActivityFeed` via GraphQL](https://hackerone.com/reports/528940) - 17 upvotes, $500
-73. [Open redirect allows changing iframe content in *.myshopify.com/admin/themes/<id>/editor](https://hackerone.com/reports/165046) - 16 upvotes, $500
+73. [Open redirect allows changing iframe content in *.myshopify.com/admin/themes/\<id\>/editor](https://hackerone.com/reports/165046) - 16 upvotes, $500
 74. [Improper access check by Kit leads to controlling attributes of store & getting analytics by deleted Store member via dual messenger A/C](https://hackerone.com/reports/351519) - 16 upvotes, $500
 75. [H1514 Simple phishing using auto-created modal with weak URL-pattern check in incontext_app_link](https://hackerone.com/reports/422279) - 15 upvotes, $1837
 76. [stored xss in invited team member via email parameter](https://hackerone.com/reports/267177) - 15 upvotes, $500
@@ -87,7 +87,7 @@ Top reports from Shopify program at HackerOne:
 83. [DOM XSS via Shopify.API.remoteRedirect](https://hackerone.com/reports/576532) - 14 upvotes, $500
 84. [Unauthorized access to Zookeeper on http://locutus-zk3.ec2.shopify.com:2181](https://hackerone.com/reports/154369) - 13 upvotes, $1000
 85. [Access to Splunk at https://apt.ec2.shopify.com:8089](https://hackerone.com/reports/158118) - 13 upvotes, $500
-86. [Unauthenticated Stored XSS on <any>.myshopify.com via checkout page](https://hackerone.com/reports/189378) - 13 upvotes, $500
+86. [Unauthenticated Stored XSS on \<any\>.myshopify.com via checkout page](https://hackerone.com/reports/189378) - 13 upvotes, $500
 87. [Access to Private Photos of Apps in App section(IDOR)](https://hackerone.com/reports/318751) - 13 upvotes, $500
 88. [Stored XSS in partners dashboard](https://hackerone.com/reports/271765) - 13 upvotes, $500
 89. [PII disclosure -- Past team members & their email ID(personal email) can be viewed by Staff member with no permissions on Partner Dashboard](https://hackerone.com/reports/415622) - 13 upvotes, $500

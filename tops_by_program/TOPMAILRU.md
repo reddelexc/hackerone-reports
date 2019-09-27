@@ -16,7 +16,7 @@ Top reports from Mail.ru program at HackerOne:
 12. [molotok.m.mail.ru delegated to external entity](https://hackerone.com/reports/376808) - 48 upvotes, $1500
 13. [Possibility to attach any mobile number to any email](https://hackerone.com/reports/18992) - 45 upvotes, $3000
 14. [SSRF](https://hackerone.com/reports/522203) - 43 upvotes, $500
-15. [Stored XSS when you read eamils. <style>](https://hackerone.com/reports/274844) - 42 upvotes, $1000
+15. [Stored XSS when you read eamils. \<style\>](https://hackerone.com/reports/274844) - 42 upvotes, $1000
 16. [[e.mail.ru] XSS в поиске](https://hackerone.com/reports/378582) - 42 upvotes, $750
 17. [[https://pandao.ru] - PUT method available](https://hackerone.com/reports/491415) - 39 upvotes, $1000
 18. [LRF on shared.mail.ru due to "markdown" plugin](https://hackerone.com/reports/518641) - 38 upvotes, $6000
@@ -237,7 +237,7 @@ Top reports from Mail.ru program at HackerOne:
 233. [[afisha.mail.ru] HTML-инъекция через XSS на портале виджета](https://hackerone.com/reports/243824) - 4 upvotes, $0
 234. [[maps.me] Reflected XSS](https://hackerone.com/reports/98512) - 4 upvotes, $0
 235. [CSRF на biz.mail.ru](https://hackerone.com/reports/290023) - 4 upvotes, $0
-236. [[target.my.com] CRLF Injection -> XSS](https://hackerone.com/reports/384872) - 4 upvotes, $0
+236. [[target.my.com] CRLF Injection -\> XSS](https://hackerone.com/reports/384872) - 4 upvotes, $0
 237. [[beta.tracker.my.com] XSS Request-URI](https://hackerone.com/reports/261643) - 4 upvotes, $0
 238. [CSRF на удаление товара из корзины](https://hackerone.com/reports/485359) - 4 upvotes, $0
 239. [XSS](https://hackerone.com/reports/460353) - 4 upvotes, $0

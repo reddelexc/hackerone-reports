@@ -21,7 +21,7 @@ Top reports from Ubiquiti Inc. program at HackerOne:
 17. [IDOR Causing Deletion of any account](https://hackerone.com/reports/156537) - 20 upvotes, $0
 18. [Stored XSS in community.ubnt.com](https://hackerone.com/reports/179164) - 19 upvotes, $500
 19. [Arbritrary file Upload on AirMax](https://hackerone.com/reports/73480) - 19 upvotes, $0
-20. [Privilege Escalation using API->Feature](https://hackerone.com/reports/239719) - 19 upvotes, $0
+20. [Privilege Escalation using API-\>Feature](https://hackerone.com/reports/239719) - 19 upvotes, $0
 21. [UniFi Video Server web interface Configuration Restore CSRF leading to full application compromise](https://hackerone.com/reports/329749) - 19 upvotes, $0
 22. [Exposed API-key allows to control nightly builds of firmwares (█████████ & ████████)](https://hackerone.com/reports/179986) - 18 upvotes, $0
 23. [Read-Only user can execute arbitraty shell commands on AirOS](https://hackerone.com/reports/119317) - 17 upvotes, $1500
@@ -51,7 +51,7 @@ Top reports from Ubiquiti Inc. program at HackerOne:
 47. [Subdomain takeover on https://cloudfront.ubnt.com/ due to non-used CloudFront DNS entry](https://hackerone.com/reports/210188) - 10 upvotes, $0
 48. [[dev-unifi-go.ubnt.com] Insecure CORS, Stealing Cookies](https://hackerone.com/reports/219014) - 10 upvotes, $0
 49. [UniFi Video Server - Arbitrary file upload as SYSTEM](https://hackerone.com/reports/129641) - 10 upvotes, $0
-50. [Stored XSS => community.ubnt.com](https://hackerone.com/reports/294048) - 9 upvotes, $0
+50. [Stored XSS =\> community.ubnt.com](https://hackerone.com/reports/294048) - 9 upvotes, $0
 51. [UniFi Video Server web interface Configuration Restore path traversal leading to local system compromise](https://hackerone.com/reports/329770) - 9 upvotes, $0
 52. [Bypass blocked profile protection on aircrm.ubnt.com](https://hackerone.com/reports/332631) - 9 upvotes, $0
 53. [Reflected Xss in AirMax [Nanostation Loco M2]](https://hackerone.com/reports/149287) - 8 upvotes, $185

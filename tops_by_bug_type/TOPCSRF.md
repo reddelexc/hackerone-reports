@@ -44,7 +44,7 @@ Top CSRF reports from HackerOne:
 40. [CSRF in Raffles Ticket Purchasing](https://hackerone.com/reports/272588) - 19 upvotes, $150
 41. [UniFi Video Server web interface Configuration Restore CSRF leading to full application compromise](https://hackerone.com/reports/329749) - 19 upvotes, $0
 42. [Persistent CSRF in /GiftCert-AddToBasket prevents purchases on eCommerce sites](https://hackerone.com/reports/206319) - 18 upvotes, $750
-43. [Wordpress 4.7 - CSRF -> HTTP SSRF any private ip:port and basic-auth](https://hackerone.com/reports/187520) - 18 upvotes, $750
+43. [Wordpress 4.7 - CSRF -\> HTTP SSRF any private ip:port and basic-auth](https://hackerone.com/reports/187520) - 18 upvotes, $750
 44. [Общий CSRF токен для сообщений сообществ, или как подставить соседа-редактора](https://hackerone.com/reports/315524) - 18 upvotes, $300
 45. [SQL Injection on /webApp/sijoitustalousuk email-parameter + potential lack of CSRF Token (viestinta.lahitapiola.fi)](https://hackerone.com/reports/191601) - 17 upvotes, $1350
 46. [[CRITICAL] Full account takeover using CSRF](https://hackerone.com/reports/127703) - 16 upvotes, $852

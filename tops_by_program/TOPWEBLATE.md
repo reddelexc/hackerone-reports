@@ -7,7 +7,7 @@ Top reports from Weblate program at HackerOne:
 3. [Password Restriction](https://hackerone.com/reports/229920) - 12 upvotes, $0
 4. [DKIM records not present, Email Hijacking is possible.....](https://hackerone.com/reports/253926) - 11 upvotes, $0
 5. [Insecure Account Removal #2](https://hackerone.com/reports/229532) - 11 upvotes, $0
-6. [flood of comment no rate limit on commnets >> by using different user agent](https://hackerone.com/reports/404035) - 11 upvotes, $0
+6. [flood of comment no rate limit on commnets \>\> by using different user agent](https://hackerone.com/reports/404035) - 11 upvotes, $0
 7. [Stored XSS via Create Project (Add new translation project)](https://hackerone.com/reports/610219) - 10 upvotes, $0
 8. [Content Spoofing](https://hackerone.com/reports/223430) - 9 upvotes, $0
 9. [Login CSRF : Login Authentication Flaw](https://hackerone.com/reports/229528) - 9 upvotes, $0
@@ -31,8 +31,8 @@ Top reports from Weblate program at HackerOne:
 27. [Old password can be new password](https://hackerone.com/reports/229577) - 6 upvotes, $0
 28. [Password token validation in Weblate Bypass #2](https://hackerone.com/reports/244287) - 6 upvotes, $0
 29. [Browser Self XSS Protection not implemented](https://hackerone.com/reports/400781) - 6 upvotes, $0
-30. [2nd issue>>> flood of email no rate limit on delete account confirmation email >>](https://hackerone.com/reports/404713) - 6 upvotes, $0
-31. [Stored XSS @ /engage/<project_slug>](https://hackerone.com/reports/472391) - 6 upvotes, $0
+30. [2nd issue\>\>\> flood of email no rate limit on delete account confirmation email \>\>](https://hackerone.com/reports/404713) - 6 upvotes, $0
+31. [Stored XSS @ /engage/\<project_slug\>](https://hackerone.com/reports/472391) - 6 upvotes, $0
 32. [CSRF to Connect third party Account](https://hackerone.com/reports/225100) - 5 upvotes, $0
 33. [[hosted.weblate.org]Account Takeover](https://hackerone.com/reports/223637) - 5 upvotes, $0
 34. [CSV export filter bypass leads to formula injection.](https://hackerone.com/reports/223999) - 5 upvotes, $0

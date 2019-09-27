@@ -61,14 +61,14 @@ Top DoS reports from HackerOne:
 57. [[tor] control connection pre-auth DoS (infinite loop) with --enable-bufferevents](https://hackerone.com/reports/113424) - 5 upvotes, $100
 58. [Denial of service attack on Brave Browser.](https://hackerone.com/reports/176066) - 5 upvotes, $50
 59. [DoS of www.lahitapiolarahoitus.fi via CVE-2018-6389 exploitation](https://hackerone.com/reports/335177) - 5 upvotes, $50
-60. [DOS Report FILE html inside <code> in markdown](https://hackerone.com/reports/127827) - 5 upvotes, $0
+60. [DOS Report FILE html inside \<code\> in markdown](https://hackerone.com/reports/127827) - 5 upvotes, $0
 61. [Missing back-end user input validation can lead to DOS flaw](https://hackerone.com/reports/361337) - 5 upvotes, $0
 62. [Remote P2P DoS](https://hackerone.com/reports/592200) - 5 upvotes, $0
 63. [Filename enumeration && DoS](https://hackerone.com/reports/174524) - 4 upvotes, $250
 64. [Denial of Service any Report](https://hackerone.com/reports/118663) - 4 upvotes, $0
 65. [help.nextcloud.com: Known DoS condition (null pointer deref) in Nginx running](https://hackerone.com/reports/145409) - 4 upvotes, $0
 66. [Denial of service (segfault) due to null pointer dereference in mrb_obj_instance_eval](https://hackerone.com/reports/202582) - 3 upvotes, $800
-67. [Potential denial of service in hackerone.com/<program>/reward_settings](https://hackerone.com/reports/63865) - 3 upvotes, $100
+67. [Potential denial of service in hackerone.com/\<program\>/reward_settings](https://hackerone.com/reports/63865) - 3 upvotes, $100
 68. [Abuse of Api that causes spamming users and possible DOS due to missing rate limit on contact form](https://hackerone.com/reports/223542) - 3 upvotes, $0
 69. [doc.owncloud.com: CVE-2015-5477 BIND9 TKEY Vulnerability + Exploit (Denial of Service)](https://hackerone.com/reports/217381) - 3 upvotes, $0
 70. [Ruby 2.3.x and 2.2.x still bundle DoS vulnerable verision of libYAML](https://hackerone.com/reports/235842) - 3 upvotes, $0

@@ -78,7 +78,7 @@ Top reports from Zomato program at HackerOne:
 74. [IDOR in treat subscriptions](https://hackerone.com/reports/313050) - 4 upvotes, $100
 75. [Subdomain Takeover](https://hackerone.com/reports/113869) - 4 upvotes, $0
 76. [Persistent input validation mail encoding vulnerability in the "just followed you" email notification.](https://hackerone.com/reports/114879) - 4 upvotes, $0
-77. [MailPoet Newsletters <= 2.7.2 - Authenticated Reflected Cross-Site Scripting (XSS)](https://hackerone.com/reports/200355) - 4 upvotes, $0
+77. [MailPoet Newsletters \<= 2.7.2 - Authenticated Reflected Cross-Site Scripting (XSS)](https://hackerone.com/reports/200355) - 4 upvotes, $0
 78. [XSS in flashmediaelement.swf (business-blog.zomato.com)](https://hackerone.com/reports/200351) - 4 upvotes, $0
 79. [xss found in zomato](https://hackerone.com/reports/240989) - 4 upvotes, $0
 80. [CSRF AT SELECTING ZAMATO HANDLE](https://hackerone.com/reports/113857) - 3 upvotes, $0

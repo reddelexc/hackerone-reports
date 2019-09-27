@@ -17,7 +17,7 @@ Top XXE reports from HackerOne:
 13. [XXE on ██████████ by bypassing WAF ████](https://hackerone.com/reports/433996) - 45 upvotes, $0
 14. [[rev-app.informatica.com] - XXE](https://hackerone.com/reports/105434) - 41 upvotes, $0
 15. [XML External Entity (XXE) in qiwi.com + waf bypass](https://hackerone.com/reports/99279) - 38 upvotes, $0
-16. [RCE via Local File Read -> php unserialization-> XXE -> unpickling](https://hackerone.com/reports/415501) - 31 upvotes, $0
+16. [RCE via Local File Read -\> php unserialization-\> XXE -\> unpickling](https://hackerone.com/reports/415501) - 31 upvotes, $0
 17. [XML Parser Bug: XXE over which leads to RCE](https://hackerone.com/reports/55431) - 29 upvotes, $700
 18. [Blind XXE on my.mail.ru](https://hackerone.com/reports/276276) - 23 upvotes, $800
 19. [XXE on DoD web server](https://hackerone.com/reports/188743) - 23 upvotes, $0

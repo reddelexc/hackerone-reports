@@ -127,7 +127,7 @@ Top reports from Node.js third-party modules program at HackerOne:
 123. [Prototype pollution attack (deep-extend)](https://hackerone.com/reports/311333) - 3 upvotes, $0
 124. [Bypass to defective fix of Path Traversal](https://hackerone.com/reports/329837) - 3 upvotes, $0
 125. [`npmconf` (and `npm` js api) allocate and write to disk uninitialized memory content when a typed number is passed as input on Node.js 4.x](https://hackerone.com/reports/320269) - 3 upvotes, $0
-126. [[sexstatic] HTML injection in directory name(s) leads to Stored XSS when malicious file is embed with <iframe> element used in directory name](https://hackerone.com/reports/328210) - 3 upvotes, $0
+126. [[sexstatic] HTML injection in directory name(s) leads to Stored XSS when malicious file is embed with \<iframe\> element used in directory name](https://hackerone.com/reports/328210) - 3 upvotes, $0
 127. [`utile` allocates uninitialized Buffers when number is passed in input](https://hackerone.com/reports/321701) - 3 upvotes, $0
 128. [[file-static-server] Path Traversal allows to read content of arbitrary file on the server](https://hackerone.com/reports/310671) - 3 upvotes, $0
 129. [Privilage escalation with malicious .npmrc](https://hackerone.com/reports/358359) - 3 upvotes, $0

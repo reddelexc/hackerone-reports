@@ -14,7 +14,7 @@ Top IDOR reports from HackerOne:
 10. [[api.pandao.ru] IDOR позволяет изменять адрес любого пользователя](https://hackerone.com/reports/484339) - 28 upvotes, $1000
 11. [IDOR to cancel any table booking and leak sensitive information such as email,mobile number,uuid](https://hackerone.com/reports/265258) - 27 upvotes, $0
 12. [IDOR - disclosure of private videos - /api_android_v3/getUserVideos](https://hackerone.com/reports/186279) - 26 upvotes, $1500
-13. [<- Critical IDOR vulnerability in socialclub allow to insert and delete comments as another user and it discloses sensitive information ->](https://hackerone.com/reports/204292) - 25 upvotes, $1400
+13. [\<- Critical IDOR vulnerability in socialclub allow to insert and delete comments as another user and it discloses sensitive information -\>](https://hackerone.com/reports/204292) - 25 upvotes, $1400
 14. [[www.zomato.com] IDOR - Leaking all Personal Details of all Zomato Users through an endpoint](https://hackerone.com/reports/269937) - 25 upvotes, $0
 15. [IDOR - Downloading all attachements if having access to a shared link](https://hackerone.com/reports/194790) - 20 upvotes, $888
 16. [IDOR Causing Deletion of any account](https://hackerone.com/reports/156537) - 20 upvotes, $0

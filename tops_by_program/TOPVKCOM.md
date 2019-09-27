@@ -108,7 +108,7 @@ Top reports from VK.com program at HackerOne:
 104. [vk.com/login.php](https://hackerone.com/reports/116764) - 3 upvotes, $200
 105. [Able to intercept app Traffic after choosing up the Secured Connection using SSL (HTTPS)](https://hackerone.com/reports/64731) - 3 upvotes, $100
 106. [Уязвимость в Указание мест на фото + фича + хакинг](https://hackerone.com/reports/66235) - 2 upvotes, $200
-107. [Подмена SSL-сертификата для любой группы в секции Управление группой->Работа с API неавторизированным пользователем.](https://hackerone.com/reports/215326) - 2 upvotes, $200
+107. [Подмена SSL-сертификата для любой группы в секции Управление группой-\>Работа с API неавторизированным пользователем.](https://hackerone.com/reports/215326) - 2 upvotes, $200
 108. [Способ узнать имя человека и ВУЗ удаленной страницы](https://hackerone.com/reports/93020) - 2 upvotes, $100
 109. [Паблики: Модератор паблика может удалять добавленные редакторами материалы с таймером на публикацию.](https://hackerone.com/reports/148467) - 2 upvotes, $100
 110. [Information Disclosure (phpinfo())](https://hackerone.com/reports/531146) - 2 upvotes, $0

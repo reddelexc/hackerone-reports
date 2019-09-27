@@ -38,7 +38,7 @@ Top SSRF reports from HackerOne:
 34. [SSRF in Search.gov via ?url= parameter](https://hackerone.com/reports/514224) - 20 upvotes, $150
 35. [SSRF in /appsuite/api/autoconfig](https://hackerone.com/reports/293847) - 19 upvotes, $850
 36. [GitLab's GitHub integration is vulnerable to SSRF vulnerability](https://hackerone.com/reports/446593) - 18 upvotes, $2000
-37. [Wordpress 4.7 - CSRF -> HTTP SSRF any private ip:port and basic-auth](https://hackerone.com/reports/187520) - 18 upvotes, $750
+37. [Wordpress 4.7 - CSRF -\> HTTP SSRF any private ip:port and basic-auth](https://hackerone.com/reports/187520) - 18 upvotes, $750
 38. [Server side request forgery on image upload for lists](https://hackerone.com/reports/158016) - 18 upvotes, $50
 39. [Server side request forgery (SSRF) on nextcloud implementation.](https://hackerone.com/reports/145524) - 18 upvotes, $0
 40. [SSRF](https://hackerone.com/reports/253558) - 18 upvotes, $0

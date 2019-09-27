@@ -29,7 +29,7 @@ Top reports from Nextcloud program at HackerOne:
 25. [Content Spoofing/Text Injection in https://demo.nextcloud.com](https://hackerone.com/reports/222058) - 13 upvotes, $0
 26. [Combination of content provider allows private data disclosure](https://hackerone.com/reports/534541) - 12 upvotes, $100
 27. [Talk / spreed: Disclosure of Room names and participants for password protected rooms](https://hackerone.com/reports/428010) - 12 upvotes, $50
-28. [WordPress <= 4.6.1 Stored XSS Via Theme File](https://hackerone.com/reports/197878) - 12 upvotes, $0
+28. [WordPress \<= 4.6.1 Stored XSS Via Theme File](https://hackerone.com/reports/197878) - 12 upvotes, $0
 29. [Disclosure of administrators via JSON on nextcloud.com Wordpress](https://hackerone.com/reports/198012) - 12 upvotes, $0
 30. [Design Issues on ( ███ ) Lead to show ( IPS of Users )](https://hackerone.com/reports/218733) - 12 upvotes, $0
 31. [https://portal.nextcloud.com/.htaccess file is readable](https://hackerone.com/reports/220946) - 12 upvotes, $0
@@ -77,7 +77,7 @@ Top reports from Nextcloud program at HackerOne:
 73. [Android - Possible to intercept broadcasts about uploaded files](https://hackerone.com/reports/167481) - 6 upvotes, $0
 74. [XSS on IOS app via HTML rendering](https://hackerone.com/reports/157434) - 6 upvotes, $0
 75. [Content spoofing due to the improper behavior of the 403 page](https://hackerone.com/reports/214340) - 6 upvotes, $0
-76. [WordPress < 4.8.2 vulnerable to multiple attacks](https://hackerone.com/reports/269705) - 6 upvotes, $0
+76. [WordPress \< 4.8.2 vulnerable to multiple attacks](https://hackerone.com/reports/269705) - 6 upvotes, $0
 77. [Email Notification should be get while changing password on apps.nextcloud.com](https://hackerone.com/reports/308156) - 6 upvotes, $0
 78. [Github wikis are editable by anyone](https://hackerone.com/reports/457032) - 6 upvotes, $0
 79. [Share owner has no possibility to list all existing derived shares](https://hackerone.com/reports/145452) - 5 upvotes, $350

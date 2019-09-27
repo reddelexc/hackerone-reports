@@ -40,7 +40,7 @@ Top RCE reports from HackerOne:
 36. [RCE Possible Via Video Manager Export using @ character in Video Title](https://hackerone.com/reports/146593) - 35 upvotes, $500
 37. [Unauthenticated RCE in Vaultpress](https://hackerone.com/reports/236552) - 31 upvotes, $500
 38. [Remote code execution as root on [REDACTED]](https://hackerone.com/reports/58914) - 31 upvotes, $0
-39. [RCE via Local File Read -> php unserialization-> XXE -> unpickling](https://hackerone.com/reports/415501) - 31 upvotes, $0
+39. [RCE via Local File Read -\> php unserialization-\> XXE -\> unpickling](https://hackerone.com/reports/415501) - 31 upvotes, $0
 40. [Vanilla Forums domGetImages getimagesize Unserialize Remote Code Execution Vulnerability (critical)](https://hackerone.com/reports/410882) - 30 upvotes, $600
 41. [Remote code execution on an Army website](https://hackerone.com/reports/188284) - 30 upvotes, $0
 42. [Remote Code Execution (RCE) in a Sony WebSystem](https://hackerone.com/reports/329572) - 30 upvotes, $0

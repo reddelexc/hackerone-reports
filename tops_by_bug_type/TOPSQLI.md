@@ -27,7 +27,7 @@ Top SQLI reports from HackerOne:
 23. [[contact-sys.com] SQL Injection████ limit param](https://hackerone.com/reports/164945) - 42 upvotes, $250
 24. [SQL Injection on /webApp/omatalousuk (viestinta.lahitapiola.fi)](https://hackerone.com/reports/179751) - 39 upvotes, $1560
 25. [SQL injection in MilestoneFinder order method](https://hackerone.com/reports/298176) - 37 upvotes, $2000
-26. [Type Juggling -> PHP Object Injection -> SQL Injection Chain](https://hackerone.com/reports/202774) - 37 upvotes, $0
+26. [Type Juggling -\> PHP Object Injection -\> SQL Injection Chain](https://hackerone.com/reports/202774) - 37 upvotes, $0
 27. [SQL Injection in sijoitustalous_peruutus (viestinta.lahitapiola.fi)](https://hackerone.com/reports/190434) - 36 upvotes, $1350
 28. [SQL Injection vulnerability located at ████████](https://hackerone.com/reports/384397) - 36 upvotes, $0
 29. [SQL injection in Wordpress Plugin Huge IT Video Gallery at https://drive.uber.com/frmarketplace/](https://hackerone.com/reports/125932) - 33 upvotes, $3000

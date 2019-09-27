@@ -172,7 +172,7 @@ Top reports from HackerOne program at HackerOne:
 168. [Ability to monitor reports' submission in real time](https://hackerone.com/reports/159890) - 14 upvotes, $0
 169. [Users contents on AWS is cacheable](https://hackerone.com/reports/163131) - 14 upvotes, $0
 170. [Limited Open redirection using SSO-SAML](https://hackerone.com/reports/178345) - 14 upvotes, $0
-171. [Vulnerability with the way \ escaped characters in <http://danlec.com> style links are rendered](https://hackerone.com/reports/46072) - 13 upvotes, $5000
+171. [Vulnerability with the way \ escaped characters in \<http://danlec.com\> style links are rendered](https://hackerone.com/reports/46072) - 13 upvotes, $5000
 172. [DNS Cache Poisoning](https://hackerone.com/reports/487) - 13 upvotes, $100
 173. [Broken Authentication and session management OWASP A2](https://hackerone.com/reports/284) - 13 upvotes, $100
 174. [Report title and issue information prepopulated](https://hackerone.com/reports/111868) - 13 upvotes, $0
@@ -239,9 +239,9 @@ Top reports from HackerOne program at HackerOne:
 235. [Adding an user email address to the list before confirming.](https://hackerone.com/reports/3923) - 5 upvotes, $0
 236. [Report title autocompletion](https://hackerone.com/reports/263) - 5 upvotes, $0
 237. [In markdown, parsing things like @danlec and #46072 after links is unsafe](https://hackerone.com/reports/46312) - 5 upvotes, $0
-238. [DOS Report FILE html inside <code> in markdown](https://hackerone.com/reports/127827) - 5 upvotes, $0
+238. [DOS Report FILE html inside \<code\> in markdown](https://hackerone.com/reports/127827) - 5 upvotes, $0
 239. [Open redirect deceive in hackerone.com via another open redirect link.](https://hackerone.com/reports/296706) - 5 upvotes, $0
-240. [Partial disclosure of undisclosed programs through <meta> tags](https://hackerone.com/reports/302620) - 5 upvotes, $0
+240. [Partial disclosure of undisclosed programs through \<meta\> tags](https://hackerone.com/reports/302620) - 5 upvotes, $0
 241. [While adding a payment method - Notification email not sent to newly added email ID as well as there is no verification for new email id (Paypal)](https://hackerone.com/reports/307424) - 5 upvotes, $0
 242. [Information leakage - Private reports cached by Google](https://hackerone.com/reports/80118) - 5 upvotes, $0
 243. [Information disclosure](https://hackerone.com/reports/350432) - 5 upvotes, $0
@@ -280,7 +280,7 @@ Top reports from HackerOne program at HackerOne:
 276. [A password reset page does not properly validate the authenticity token at the server side.](https://hackerone.com/reports/742) - 3 upvotes, $100
 277. [Session not invalidated after password reset](https://hackerone.com/reports/15785) - 3 upvotes, $100
 278. [Anti-MIME-Sniffing header X-Content-Type-Options header has not been set.](https://hackerone.com/reports/9479) - 3 upvotes, $100
-279. [Potential denial of service in hackerone.com/<program>/reward_settings](https://hackerone.com/reports/63865) - 3 upvotes, $100
+279. [Potential denial of service in hackerone.com/\<program\>/reward_settings](https://hackerone.com/reports/63865) - 3 upvotes, $100
 280. [Email changing](https://hackerone.com/reports/18846) - 3 upvotes, $0
 281. [HTTPS is not enforced for objects stored by HackerOne on Amazon S3](https://hackerone.com/reports/43280) - 3 upvotes, $0
 282. ["learn more here", reward email - domain expired.](https://hackerone.com/reports/52532) - 3 upvotes, $0

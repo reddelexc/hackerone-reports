@@ -59,7 +59,7 @@ Top XSS reports from HackerOne:
 55. [██████ DOM XSS via Shopify.API.remoteRedirect](https://hackerone.com/reports/646505) - 67 upvotes, $500
 56. [Reflected XSS in https://www.starbucks.co.jp/store/search/](https://hackerone.com/reports/496375) - 67 upvotes, $250
 57. [DOM based XSS on *.██████.com via document.domain sink in Safari](https://hackerone.com/reports/398163) - 67 upvotes, $0
-58. [Reflected XSS in <any>.myshopify.com through theme preview](https://hackerone.com/reports/226428) - 65 upvotes, $2000
+58. [Reflected XSS in \<any\>.myshopify.com through theme preview](https://hackerone.com/reports/226428) - 65 upvotes, $2000
 59. [help.shopify.com Cross Site Scripting](https://hackerone.com/reports/564196) - 65 upvotes, $500
 60. [POST-based XSS on apps.shopify.com](https://hackerone.com/reports/429679) - 64 upvotes, $500
 61. [Persistent XSS (unvalidated Open Graph embed) at LinkedIn.com](https://hackerone.com/reports/425007) - 64 upvotes, $0
@@ -95,9 +95,9 @@ Top XSS reports from HackerOne:
 91. [Reflected XSS and Server Side Template Injection in all HubSpot CMSes](https://hackerone.com/reports/399462) - 44 upvotes, $0
 92. [Blind XSS via Suspended Ticket Recovery](https://hackerone.com/reports/450389) - 44 upvotes, $0
 93. [Store XSS](https://hackerone.com/reports/187410) - 43 upvotes, $500
-94. [Stored XSS when you read eamils. <style>](https://hackerone.com/reports/274844) - 42 upvotes, $1000
+94. [Stored XSS when you read eamils. \<style\>](https://hackerone.com/reports/274844) - 42 upvotes, $1000
 95. [Stored xss](https://hackerone.com/reports/415484) - 42 upvotes, $1000
-96. [Blind stored xss [parcel.grab.com] > name parameter](https://hackerone.com/reports/251224) - 42 upvotes, $750
+96. [Blind stored xss [parcel.grab.com] \> name parameter](https://hackerone.com/reports/251224) - 42 upvotes, $750
 97. [[e.mail.ru] XSS в поиске](https://hackerone.com/reports/378582) - 42 upvotes, $750
 98. [[Android] XSS via start ContentActivity](https://hackerone.com/reports/189793) - 42 upvotes, $150
 99. [csp bypass + xss](https://hackerone.com/reports/153666) - 41 upvotes, $1120
@@ -233,7 +233,7 @@ Top XSS reports from HackerOne:
 229. [[Markdown] Stored XSS via character encoding parser bypass](https://hackerone.com/reports/270999) - 20 upvotes, $0
 230. [[stagecafrstore.starbucks.com] CRLF Injection, XSS](https://hackerone.com/reports/192667) - 20 upvotes, $0
 231. [Potential XSS vulnerability to HTML minification](https://hackerone.com/reports/24684) - 20 upvotes, $0
-232. [Possibility to insert stored XSS inside <img> tag](https://hackerone.com/reports/267643) - 19 upvotes, $1500
+232. [Possibility to insert stored XSS inside \<img\> tag](https://hackerone.com/reports/267643) - 19 upvotes, $1500
 233. [Stored XSS with CRLF injection via post message to user feed](https://hackerone.com/reports/263191) - 19 upvotes, $1000
 234. [Stored XSS in dropboxforum.com](https://hackerone.com/reports/413124) - 19 upvotes, $512
 235. [Stored XSS in community.ubnt.com](https://hackerone.com/reports/179164) - 19 upvotes, $500
@@ -273,7 +273,7 @@ Top XSS reports from HackerOne:
 269. [Stored xss in ALBUM DESCRIPTION](https://hackerone.com/reports/181955) - 17 upvotes, $0
 270. [Store XSS on Informatica University via transcript (informatica.csod.com)](https://hackerone.com/reports/219509) - 17 upvotes, $0
 271. [Reflected XSS vulnerability in Database name field on installation screen](https://hackerone.com/reports/289330) - 17 upvotes, $0
-272. [Cross Site Scripting -> Reflected XSS](https://hackerone.com/reports/150568) - 17 upvotes, $0
+272. [Cross Site Scripting -\> Reflected XSS](https://hackerone.com/reports/150568) - 17 upvotes, $0
 273. [Reflected XSS](https://hackerone.com/reports/267206) - 17 upvotes, $0
 274. [Stored XSS in merge request pages](https://hackerone.com/reports/409380) - 17 upvotes, $0
 275. [XSS on vimeo.com/home after other user follows you](https://hackerone.com/reports/87854) - 16 upvotes, $1500
@@ -299,7 +299,7 @@ Top XSS reports from HackerOne:
 295. [[www.threatcrowd.org] - reflected XSS](https://hackerone.com/reports/283633) - 16 upvotes, $0
 296. [Reflected XSS](https://hackerone.com/reports/304175) - 16 upvotes, $0
 297. [reflected XSS avito.ru](https://hackerone.com/reports/344429) - 16 upvotes, $0
-298. [XSS Reflected at SEARCH >>](https://hackerone.com/reports/429647) - 16 upvotes, $0
+298. [XSS Reflected at SEARCH \>\>](https://hackerone.com/reports/429647) - 16 upvotes, $0
 299. [stored xss in invited team member via email parameter](https://hackerone.com/reports/267177) - 15 upvotes, $500
 300. [Reflected XSS in https://eng.uberinternal.com and https://coeshift.corp.uber.internal/](https://hackerone.com/reports/354686) - 15 upvotes, $500
 301. [Authenticated Cross-site Scripting in Template Name](https://hackerone.com/reports/220903) - 15 upvotes, $350
@@ -355,7 +355,7 @@ Top XSS reports from HackerOne:
 351. [XSS в теле письма, в новой версии почты.](https://hackerone.com/reports/369201) - 13 upvotes, $1000
 352. [Blind XSS in mapbox.com/contact](https://hackerone.com/reports/158461) - 13 upvotes, $750
 353. [SocialClub's Facebook OAuth Theft through Warehouse XSS.](https://hackerone.com/reports/316948) - 13 upvotes, $750
-354. [Unauthenticated Stored XSS on <any>.myshopify.com via checkout page](https://hackerone.com/reports/189378) - 13 upvotes, $500
+354. [Unauthenticated Stored XSS on \<any\>.myshopify.com via checkout page](https://hackerone.com/reports/189378) - 13 upvotes, $500
 355. [XSS в приглашении в группу](https://hackerone.com/reports/269940) - 13 upvotes, $500
 356. [reflected XSS on healt.mail.ru](https://hackerone.com/reports/276714) - 13 upvotes, $500
 357. [Stored XSS in partners dashboard](https://hackerone.com/reports/271765) - 13 upvotes, $500
@@ -401,7 +401,7 @@ Top XSS reports from HackerOne:
 397. [Cross-site Scripting (XSS) on [maximum.nl]](https://hackerone.com/reports/228006) - 12 upvotes, $50
 398. [Persistent XSS on public wiki pages](https://hackerone.com/reports/136333) - 12 upvotes, $0
 399. [DOM Based XSS on an Army website](https://hackerone.com/reports/191407) - 12 upvotes, $0
-400. [WordPress <= 4.6.1 Stored XSS Via Theme File](https://hackerone.com/reports/197878) - 12 upvotes, $0
+400. [WordPress \<= 4.6.1 Stored XSS Via Theme File](https://hackerone.com/reports/197878) - 12 upvotes, $0
 401. [Stored XSS in Headline TextControl element in Express forms [ concrete5 8.1.0 ]](https://hackerone.com/reports/230278) - 12 upvotes, $0
 402. [Torrent extension: Cross-origin downloading + "URL spoofing" + CSP-blocked XSS](https://hackerone.com/reports/378864) - 12 upvotes, $0
 403. [DOM XSS on 50x.html page](https://hackerone.com/reports/405191) - 12 upvotes, $0
@@ -516,7 +516,7 @@ Top XSS reports from HackerOne:
 512. [[informatica.com]- Cross Site scripting](https://hackerone.com/reports/204237) - 9 upvotes, $0
 513. [XSS with needed user intervention](https://hackerone.com/reports/204969) - 9 upvotes, $0
 514. [Stored XSS in the Custom Logo link (non-Basic plan required)](https://hackerone.com/reports/282209) - 9 upvotes, $0
-515. [Stored XSS => community.ubnt.com](https://hackerone.com/reports/294048) - 9 upvotes, $0
+515. [Stored XSS =\> community.ubnt.com](https://hackerone.com/reports/294048) - 9 upvotes, $0
 516. [MediaElements XSS](https://hackerone.com/reports/299112) - 9 upvotes, $0
 517. [Persistent XSS via malicious license file](https://hackerone.com/reports/411063) - 9 upvotes, $0
 518. [Disclosure of user email address and Deanonymization [mail.ru] + Blind | Stored XSS pets.mail.ru](https://hackerone.com/reports/334230) - 9 upvotes, $0
@@ -609,7 +609,7 @@ Top XSS reports from HackerOne:
 605. [Stored XSS thru SVG upload](https://hackerone.com/reports/130591) - 7 upvotes, $0
 606. [[parc.informatica.com] Reflected Cross Site Scripting and Open Redirect](https://hackerone.com/reports/178278) - 7 upvotes, $0
 607. [Markdown based stored XSS (IE only)](https://hackerone.com/reports/118024) - 7 upvotes, $0
-608. [Stored XSS in Templates>Enahance>Social Badges](https://hackerone.com/reports/238906) - 7 upvotes, $0
+608. [Stored XSS in Templates\>Enahance\>Social Badges](https://hackerone.com/reports/238906) - 7 upvotes, $0
 609. [[alpha.informatica.com] Expensive DOMXSS](https://hackerone.com/reports/158749) - 7 upvotes, $0
 610. [Reflected XSS in openapi.starbucks.com /searchasyoutype/v1/search?x-api-key=](https://hackerone.com/reports/213190) - 7 upvotes, $0
 611. [Reflective XSS](https://hackerone.com/reports/176698) - 7 upvotes, $0
@@ -673,7 +673,7 @@ Top XSS reports from HackerOne:
 669. [Stored XSS On Wordpress Infogram plugin](https://hackerone.com/reports/287688) - 6 upvotes, $0
 670. [Persistent XSS in share button](https://hackerone.com/reports/290794) - 6 upvotes, $0
 671. [[marketplace.informatica.com]-Reflected XSS](https://hackerone.com/reports/266801) - 6 upvotes, $0
-672. [X-XSS-Protection -> Misconfiguration](https://hackerone.com/reports/289846) - 6 upvotes, $0
+672. [X-XSS-Protection -\> Misconfiguration](https://hackerone.com/reports/289846) - 6 upvotes, $0
 673. [Хранимая XSS на странице "Виджет для авторизации"](https://hackerone.com/reports/273960) - 6 upvotes, $0
 674. [XSS in api_v1](https://hackerone.com/reports/198851) - 6 upvotes, $0
 675. [[metascraper] Stored XSS in Open Graph meta properties read by metascrapper](https://hackerone.com/reports/309367) - 6 upvotes, $0
@@ -688,7 +688,7 @@ Top XSS reports from HackerOne:
 684. [Reflected cross site scripting at https://auto.mail.ru/reviews/add_review/ via problems_text parameter.](https://hackerone.com/reports/536341) - 6 upvotes, $0
 685. [Stored XSS in profile page](https://hackerone.com/reports/541853) - 6 upvotes, $0
 686. [XSS Reflect](https://hackerone.com/reports/583561) - 6 upvotes, $0
-687. [Stored XSS @ /engage/<project_slug>](https://hackerone.com/reports/472391) - 6 upvotes, $0
+687. [Stored XSS @ /engage/\<project_slug\>](https://hackerone.com/reports/472391) - 6 upvotes, $0
 688. [Stored XSS in archive.uber.com Due to Injection of Javascript:alert(0)](https://hackerone.com/reports/126906) - 5 upvotes, $3000
 689. [Reflected XSS via Livefyre Media Wall in newsroom.uber.com](https://hackerone.com/reports/134061) - 5 upvotes, $2000
 690. [SSRF & XSS (W3 Total Cache)](https://hackerone.com/reports/138721) - 5 upvotes, $1000
@@ -732,7 +732,7 @@ Top XSS reports from HackerOne:
 728. [Flash XSS on homepage fliptilescroller](https://hackerone.com/reports/172821) - 5 upvotes, $0
 729. [Reflected XSS on business-blog.zomato.com - Part 2](https://hackerone.com/reports/137906) - 5 upvotes, $0
 730. [Reflected cross-site scripting (XSS) vulnerability on a DoD website](https://hackerone.com/reports/191381) - 5 upvotes, $0
-731. [Reflected XSS on Zones > Invocation Code](https://hackerone.com/reports/178611) - 5 upvotes, $0
+731. [Reflected XSS on Zones \> Invocation Code](https://hackerone.com/reports/178611) - 5 upvotes, $0
 732. [XSS on mobile version of vimeo.com where the button "Follow" appears](https://hackerone.com/reports/88088) - 5 upvotes, $0
 733. [XSS during presentation](https://hackerone.com/reports/112372) - 5 upvotes, $0
 734. [DOM Based XSS in https://threatcrowd.org](https://hackerone.com/reports/284484) - 5 upvotes, $0
@@ -800,11 +800,11 @@ Top XSS reports from HackerOne:
 796. [self xss in](https://hackerone.com/reports/228539) - 4 upvotes, $0
 797. [Reflected XSS on a DoD website](https://hackerone.com/reports/194294) - 4 upvotes, $0
 798. [Flash XSS on Buick_RotatingMasthead_JellyBeanSlider.swf](https://hackerone.com/reports/179826) - 4 upvotes, $0
-799. [Stored XSS templates -> 'call for action' feature](https://hackerone.com/reports/237927) - 4 upvotes, $0
+799. [Stored XSS templates -\> 'call for action' feature](https://hackerone.com/reports/237927) - 4 upvotes, $0
 800. [Reflected XSS and something more Store XSS too](https://hackerone.com/reports/134004) - 4 upvotes, $0
 801. [Reflected XSS on a DoD website](https://hackerone.com/reports/190427) - 4 upvotes, $0
 802. [Reflected XSS vulnerability on a DoD website](https://hackerone.com/reports/187822) - 4 upvotes, $0
-803. [MailPoet Newsletters <= 2.7.2 - Authenticated Reflected Cross-Site Scripting (XSS)](https://hackerone.com/reports/200355) - 4 upvotes, $0
+803. [MailPoet Newsletters \<= 2.7.2 - Authenticated Reflected Cross-Site Scripting (XSS)](https://hackerone.com/reports/200355) - 4 upvotes, $0
 804. [XSS in flashmediaelement.swf (business-blog.zomato.com)](https://hackerone.com/reports/200351) - 4 upvotes, $0
 805. [Reflected XSS vulnerability on a DoD website](https://hackerone.com/reports/184125) - 4 upvotes, $0
 806. [Reflective XSS vulnerability on a DoD website](https://hackerone.com/reports/183854) - 4 upvotes, $0
@@ -833,7 +833,7 @@ Top XSS reports from HackerOne:
 829. [The react-marked-markdown module allows XSS injection in href values.](https://hackerone.com/reports/344069) - 4 upvotes, $0
 830. [Browser Self XSS Protection not implemented](https://hackerone.com/reports/400785) - 4 upvotes, $0
 831. [[serve] Stored XSS in the filename when directories listing](https://hackerone.com/reports/358641) - 4 upvotes, $0
-832. [[target.my.com] CRLF Injection -> XSS](https://hackerone.com/reports/384872) - 4 upvotes, $0
+832. [[target.my.com] CRLF Injection -\> XSS](https://hackerone.com/reports/384872) - 4 upvotes, $0
 833. [[beta.tracker.my.com] XSS Request-URI](https://hackerone.com/reports/261643) - 4 upvotes, $0
 834. [XSS in Bootbox](https://hackerone.com/reports/508446) - 4 upvotes, $0
 835. [XSS](https://hackerone.com/reports/460353) - 4 upvotes, $0
@@ -909,7 +909,7 @@ Top XSS reports from HackerOne:
 905. [SSL-protected Reflected XSS in https://m.uber.com/0-dfffb25d2cf6ceeb0a27.js Endpoint](https://hackerone.com/reports/300081) - 3 upvotes, $0
 906. [udi-id Query Parameter Can Generate SSL-protected Reflected XSS in https://m.uber.com/0-dfffb25d2cf6ceeb0a27.js Endpoint](https://hackerone.com/reports/300103) - 3 upvotes, $0
 907. [lite:sess Query Parameter Can Generate SSL-protected Reflected XSS in https://m.uber.com/0-dfffb25d2cf6ceeb0a27.js Endpoint](https://hackerone.com/reports/300101) - 3 upvotes, $0
-908. [[sexstatic] HTML injection in directory name(s) leads to Stored XSS when malicious file is embed with <iframe> element used in directory name](https://hackerone.com/reports/328210) - 3 upvotes, $0
+908. [[sexstatic] HTML injection in directory name(s) leads to Stored XSS when malicious file is embed with \<iframe\> element used in directory name](https://hackerone.com/reports/328210) - 3 upvotes, $0
 909. [Your page has 2 blocking CSS resources. This causes a delay in rendering your page.](https://hackerone.com/reports/365968) - 3 upvotes, $0
 910. [[exceljs] Possible XSS via cell value when worksheet is displayed in browser](https://hackerone.com/reports/356809) - 3 upvotes, $0
 911. [[serve] XSS via HTML tag injection in directory lisiting page](https://hackerone.com/reports/398285) - 3 upvotes, $0

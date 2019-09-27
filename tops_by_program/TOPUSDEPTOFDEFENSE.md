@@ -61,7 +61,7 @@ Top reports from U.S. Dept Of Defense program at HackerOne:
 57. [SQL injection vulnerability on a DoD website](https://hackerone.com/reports/189069) - 6 upvotes, $0
 58. [Information disclosure vulnerability on a DoD website](https://hackerone.com/reports/226427) - 6 upvotes, $0
 59. [Cross-site scripting (XSS) vulnerability on a DoD website](https://hackerone.com/reports/225936) - 6 upvotes, $0
-60. [X-XSS-Protection -> Misconfiguration](https://hackerone.com/reports/289846) - 6 upvotes, $0
+60. [X-XSS-Protection -\> Misconfiguration](https://hackerone.com/reports/289846) - 6 upvotes, $0
 61. [XSS vulnerability on an Army website](https://hackerone.com/reports/187881) - 5 upvotes, $0
 62. [Open Redirect in a DoD website](https://hackerone.com/reports/187006) - 5 upvotes, $0
 63. [Cross-site request forgery vulnerability on a DoD website](https://hackerone.com/reports/191608) - 5 upvotes, $0

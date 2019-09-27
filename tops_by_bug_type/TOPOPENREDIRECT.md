@@ -37,7 +37,7 @@ Top Open Redirect reports from HackerOne:
 33. [Open redirection](https://hackerone.com/reports/207285) - 17 upvotes, $0
 34. [Open Redirect through POST Request](https://hackerone.com/reports/242243) - 17 upvotes, $0
 35. [Open Redirect on smule.com](https://hackerone.com/reports/440484) - 17 upvotes, $0
-36. [Open redirect allows changing iframe content in *.myshopify.com/admin/themes/<id>/editor](https://hackerone.com/reports/165046) - 16 upvotes, $500
+36. [Open redirect allows changing iframe content in *.myshopify.com/admin/themes/\<id\>/editor](https://hackerone.com/reports/165046) - 16 upvotes, $500
 37. [Open Redirect](https://hackerone.com/reports/243001) - 15 upvotes, $0
 38. [Open redirect using checkout_url](https://hackerone.com/reports/159522) - 14 upvotes, $500
 39. [XSS on www.mapbox.com/authorize/ because of open redirect at /core/oauth/auth](https://hackerone.com/reports/143240) - 14 upvotes, $500
@@ -49,7 +49,7 @@ Top Open Redirect reports from HackerOne:
 45. [Reflected XSS and Open Redirect in several parameters (viestinta.lahitapiola.fi)](https://hackerone.com/reports/191387) - 12 upvotes, $450
 46. [Open redirect on https://werkenbijdefensie.nl/](https://hackerone.com/reports/242314) - 12 upvotes, $50
 47. [Open redirect on marketing site](https://hackerone.com/reports/219447) - 12 upvotes, $50
-48. [open redirect in <your_zendesk>.zendesk.com](https://hackerone.com/reports/99516) - 12 upvotes, $0
+48. [open redirect in \<your_zendesk\>.zendesk.com](https://hackerone.com/reports/99516) - 12 upvotes, $0
 49. [Open Redirect on slack.com](https://hackerone.com/reports/140447) - 11 upvotes, $500
 50. [Open redirect / Reflected XSS payload in root that affects all your sites (store.starbucks.* / shop.starbucks.* / teavana.com)](https://hackerone.com/reports/196846) - 11 upvotes, $375
 51. [Open Redirect in unifi.ubnt.com [Controller Finder]](https://hackerone.com/reports/141355) - 11 upvotes, $0
@@ -67,7 +67,7 @@ Top Open Redirect reports from HackerOne:
 63. [Open Redirect in m.uber.com](https://hackerone.com/reports/125000) - 8 upvotes, $500
 64. [Open redirection protection bypass (/cs/Satellite)](https://hackerone.com/reports/164895) - 8 upvotes, $400
 65. [Open redirect in securegatewayaccess.com / secure.chaturbate.com via prejoin_data parameter](https://hackerone.com/reports/400982) - 8 upvotes, $250
-66. [Open Redirect in <customer>.greenhouse.io](https://hackerone.com/reports/203726) - 8 upvotes, $100
+66. [Open Redirect in \<customer\>.greenhouse.io](https://hackerone.com/reports/203726) - 8 upvotes, $100
 67. [Open Redirection Found in users.whisper.sh](https://hackerone.com/reports/261592) - 8 upvotes, $30
 68. [[zaption.com] Open Redirect](https://hackerone.com/reports/45516) - 8 upvotes, $0
 69. [[connect.teavana.com] Open Redirect and abuse of connect.teavana.com](https://hackerone.com/reports/217430) - 8 upvotes, $0
