@@ -2,24 +2,24 @@
 
 Top Clickjacking reports from HackerOne:
 
-1. [Highly wormable clickjacking in player card](https://hackerone.com/reports/85624) - 118 upvotes, $5040
-2. [Twitter Periscope Clickjacking Vulnerability](https://hackerone.com/reports/591432) - 116 upvotes, $1120
-3. [Sensitive Clickjacking on admin login page.](https://hackerone.com/reports/389145) - 49 upvotes, $100
+1. [Highly wormable clickjacking in player card](https://hackerone.com/reports/85624) - 120 upvotes, $5040
+2. [Twitter Periscope Clickjacking Vulnerability](https://hackerone.com/reports/591432) - 117 upvotes, $1120
+3. [Sensitive Clickjacking on admin login page.](https://hackerone.com/reports/389145) - 50 upvotes, $100
 4. [Stealing User emails by clickjacking cards.twitter.com/xxx/xxx](https://hackerone.com/reports/154963) - 46 upvotes, $1120
-5. [URL is vulnerable to clickjacking https://app.passit.io/](https://hackerone.com/reports/530008) - 25 upvotes, $0
+5. [URL is vulnerable to clickjacking https://app.passit.io/](https://hackerone.com/reports/530008) - 26 upvotes, $0
 6. [Make user buy items via clickjacking possibility](https://hackerone.com/reports/471967) - 14 upvotes, $200
 7. [Clickjacking Vulnerability found on Yelp](https://hackerone.com/reports/214087) - 13 upvotes, $100
 8. [Clickjacking In jobs.wordpress.net](https://hackerone.com/reports/223024) - 13 upvotes, $0
 9. [Modifying application settings via clickjacking on o2.mail.ru](https://hackerone.com/reports/355774) - 12 upvotes, $150
 10. [Clickjacking at ylands.com](https://hackerone.com/reports/405342) - 12 upvotes, $80
 11. [Clickjacking wordcamp.org](https://hackerone.com/reports/230581) - 12 upvotes, $0
-12. [Single Sing On - Clickjacking](https://hackerone.com/reports/299009) - 11 upvotes, $150
-13. [AWS S3 website can't serve security headers, may allow clickjacking](https://hackerone.com/reports/149572) - 11 upvotes, $0
-14. [Clickjacking on Mixmax.com](https://hackerone.com/reports/234713) - 11 upvotes, $0
-15. [Clickjacking on https://www.goodhire.com/api](https://hackerone.com/reports/298028) - 11 upvotes, $0
-16. [clickjacking в /lead_forms_app.php](https://hackerone.com/reports/294334) - 10 upvotes, $0
-17. [Clickjacking mercantile.wordpress.org](https://hackerone.com/reports/264125) - 9 upvotes, $0
-18. [Clickjacking in [exchangemarketplace.com]](https://hackerone.com/reports/658217) - 9 upvotes, $0
+12. [Clickjacking in [exchangemarketplace.com]](https://hackerone.com/reports/658217) - 12 upvotes, $0
+13. [Single Sing On - Clickjacking](https://hackerone.com/reports/299009) - 11 upvotes, $150
+14. [AWS S3 website can't serve security headers, may allow clickjacking](https://hackerone.com/reports/149572) - 11 upvotes, $0
+15. [Clickjacking on Mixmax.com](https://hackerone.com/reports/234713) - 11 upvotes, $0
+16. [Clickjacking on https://www.goodhire.com/api](https://hackerone.com/reports/298028) - 11 upvotes, $0
+17. [clickjacking в /lead_forms_app.php](https://hackerone.com/reports/294334) - 10 upvotes, $0
+18. [Clickjacking mercantile.wordpress.org](https://hackerone.com/reports/264125) - 9 upvotes, $0
 19. [Clickjacking Periscope.tv on Chrome](https://hackerone.com/reports/198622) - 8 upvotes, $560
 20. [Clickjacking on authorized page https://wakatime.com/share/embed](https://hackerone.com/reports/244967) - 8 upvotes, $0
 21. [Clickjacking - https://mercantile.wordpress.org/](https://hackerone.com/reports/258283) - 8 upvotes, $0

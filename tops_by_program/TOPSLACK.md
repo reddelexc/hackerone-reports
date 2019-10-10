@@ -5,19 +5,19 @@ Top reports from Slack program at HackerOne:
 1. [AWS bucket leading to iOS test build code and configuration exposure](https://hackerone.com/reports/404822) - 307 upvotes, $1500
 2. [XSS in gist integration](https://hackerone.com/reports/11073) - 147 upvotes, $500
 3. [Unauthenticated LFI revealing log information](https://hackerone.com/reports/272578) - 114 upvotes, $4000
-4. [Stealing xoxs-tokens using weak postMessage / call-popup redirect to current team domain](https://hackerone.com/reports/207170) - 107 upvotes, $3000
+4. [Stealing xoxs-tokens using weak postMessage / call-popup redirect to current team domain](https://hackerone.com/reports/207170) - 108 upvotes, $3000
 5. [Stored XSS on team.slack.com using new Markdown editor of posts inside the Editing mode and using javascript-URIs](https://hackerone.com/reports/132104) - 93 upvotes, $1000
-6. [Real Time Error Logs Through Debug Information](https://hackerone.com/reports/503283) - 86 upvotes, $1500
-7. [Many Slack teams can be joined by abusing an improperly configured support@ inbox](https://hackerone.com/reports/239623) - 83 upvotes, $1500
-8. [User-assisted RCE in Slack for macOS (from official site) due to improper quarantine meta-attribute handling for downloaded files](https://hackerone.com/reports/470637) - 81 upvotes, $750
-9. [OSX slack:// protocol handler javascript injection](https://hackerone.com/reports/79348) - 71 upvotes, $1000
-10. [SSRF in api.slack.com, using slash commands and bypassing the protections.](https://hackerone.com/reports/381129) - 71 upvotes, $500
+6. [User-assisted RCE in Slack for macOS (from official site) due to improper quarantine meta-attribute handling for downloaded files](https://hackerone.com/reports/470637) - 87 upvotes, $750
+7. [Real Time Error Logs Through Debug Information](https://hackerone.com/reports/503283) - 86 upvotes, $1500
+8. [Many Slack teams can be joined by abusing an improperly configured support@ inbox](https://hackerone.com/reports/239623) - 83 upvotes, $1500
+9. [SSRF in api.slack.com, using slash commands and bypassing the protections.](https://hackerone.com/reports/381129) - 72 upvotes, $500
+10. [OSX slack:// protocol handler javascript injection](https://hackerone.com/reports/79348) - 71 upvotes, $1000
 11. [Eavesdropping on private Slack calls](https://hackerone.com/reports/184698) - 63 upvotes, $1000
 12. [The Custom Emoji Page has a Reflected XSS](https://hackerone.com/reports/258198) - 55 upvotes, $1250
 13. [Internal SSRF bypass using slash commands at api.slack.com](https://hackerone.com/reports/356765) - 45 upvotes, $500
 14. [Store XSS](https://hackerone.com/reports/187410) - 43 upvotes, $500
-15. [Information leakage and default open port](https://hackerone.com/reports/305518) - 39 upvotes, $350
-16. [Bypass of the SSRF protection in Event Subscriptions parameter.](https://hackerone.com/reports/386292) - 38 upvotes, $500
+15. [Bypass of the SSRF protection in Event Subscriptions parameter.](https://hackerone.com/reports/386292) - 39 upvotes, $500
+16. [Information leakage and default open port](https://hackerone.com/reports/305518) - 39 upvotes, $350
 17. [Snooping into messages via email service](https://hackerone.com/reports/163938) - 28 upvotes, $2500
 18. [Stored XSS(Cross Site Scripting) In Slack App Name](https://hackerone.com/reports/159460) - 28 upvotes, $1000
 19. [Bypass two-factor authentication](https://hackerone.com/reports/121696) - 24 upvotes, $500
@@ -48,20 +48,20 @@ Top reports from Slack program at HackerOne:
 44. [CSRF - Add optional two factor mobile number](https://hackerone.com/reports/155774) - 5 upvotes, $500
 45. [Email information leakage for certain addresses](https://hackerone.com/reports/169992) - 5 upvotes, $400
 46. [RC4 cipher suites detected on status.slack.com](https://hackerone.com/reports/99157) - 5 upvotes, $100
-47. [Generate new Test token](https://hackerone.com/reports/147544) - 4 upvotes, $100
-48. [Data exports stored on S3 can be scraped easily](https://hackerone.com/reports/2746) - 4 upvotes, $0
-49. [Stored XSS in Slackbot Direct Messages](https://hackerone.com/reports/4561) - 3 upvotes, $500
-50. [a stored xss in slack integration https://onerror.slack.com/services/import](https://hackerone.com/reports/33018) - 3 upvotes, $500
-51. [Stored XSS in www.slack-files.com](https://hackerone.com/reports/2617) - 3 upvotes, $200
+47. [Stored XSS in www.slack-files.com](https://hackerone.com/reports/2617) - 4 upvotes, $200
+48. [Generate new Test token](https://hackerone.com/reports/147544) - 4 upvotes, $100
+49. [Data exports stored on S3 can be scraped easily](https://hackerone.com/reports/2746) - 4 upvotes, $0
+50. [Stored XSS in Slackbot Direct Messages](https://hackerone.com/reports/4561) - 3 upvotes, $500
+51. [a stored xss in slack integration https://onerror.slack.com/services/import](https://hackerone.com/reports/33018) - 3 upvotes, $500
 52. [Email enumeration](https://hackerone.com/reports/2766) - 3 upvotes, $0
 53. [Open redirect vulnerability](https://hackerone.com/reports/2731) - 3 upvotes, $0
 54. [Stored XSS on this link https://sehacure.slack.com/help/requests/](https://hackerone.com/reports/2639) - 3 upvotes, $0
-55. [Trick make all fixed open redirect links vulnerable again](https://hackerone.com/reports/104087) - 2 upvotes, $1000
-56. [SSRF on https://whitehataudit.slack.com/account/photo](https://hackerone.com/reports/14127) - 2 upvotes, $300
-57. [Reflective XSS can be triggered in IE](https://hackerone.com/reports/2497) - 2 upvotes, $150
-58. [Slack OAuth2 "redirect_uri" Bypass](https://hackerone.com/reports/2575) - 2 upvotes, $100
-59. [HTTP Strict Transport Policy not enabled on newly made accounts](https://hackerone.com/reports/26763) - 2 upvotes, $0
-60. [Executing scripts on slack-files.com using SVG](https://hackerone.com/reports/100565) - 2 upvotes, $0
+55. [Executing scripts on slack-files.com using SVG](https://hackerone.com/reports/100565) - 3 upvotes, $0
+56. [Trick make all fixed open redirect links vulnerable again](https://hackerone.com/reports/104087) - 2 upvotes, $1000
+57. [SSRF on https://whitehataudit.slack.com/account/photo](https://hackerone.com/reports/14127) - 2 upvotes, $300
+58. [Reflective XSS can be triggered in IE](https://hackerone.com/reports/2497) - 2 upvotes, $150
+59. [Slack OAuth2 "redirect_uri" Bypass](https://hackerone.com/reports/2575) - 2 upvotes, $100
+60. [HTTP Strict Transport Policy not enabled on newly made accounts](https://hackerone.com/reports/26763) - 2 upvotes, $0
 61. [flash content type sniff vulnerability in api.slack.com](https://hackerone.com/reports/3455) - 1 upvotes, $500
 62. [Reflected Xss](https://hackerone.com/reports/2777) - 1 upvotes, $500
 63. [Stored XSS in Slack (weird, trial and error)](https://hackerone.com/reports/96337) - 1 upvotes, $500

@@ -4,10 +4,10 @@ Top Race Condition reports from HackerOne:
 
 1. [Race condition in performing retest allows duplicated payments](https://hackerone.com/reports/429026) - 187 upvotes, $2100
 2. [Client-Side Race Condition using Marketo, allows sending user to data-protocol in Safari when form without onSuccess is submitted on www.hackerone.com](https://hackerone.com/reports/381356) - 125 upvotes, $1250
-3. [Race Conditions in Popular reports feature.](https://hackerone.com/reports/146845) - 94 upvotes, $500
+3. [Race Conditions in Popular reports feature.](https://hackerone.com/reports/146845) - 95 upvotes, $500
 4. [Race Condition in Flag Submission](https://hackerone.com/reports/454949) - 59 upvotes, $500
-5. [Race condition leads to duplicate payouts](https://hackerone.com/reports/220445) - 52 upvotes, $750
-6. [Race Condition : Exploiting the loyalty claim https://xxx.vendhq.com/loyalty/claim/email/xxxxx url and gain x amount of loyalty bonus/cash](https://hackerone.com/reports/331940) - 47 upvotes, $0
+5. [Race condition leads to duplicate payouts](https://hackerone.com/reports/220445) - 53 upvotes, $750
+6. [Race Condition : Exploiting the loyalty claim https://xxx.vendhq.com/loyalty/claim/email/xxxxx url and gain x amount of loyalty bonus/cash](https://hackerone.com/reports/331940) - 49 upvotes, $0
 7. [Race condition in claiming program credentials](https://hackerone.com/reports/488985) - 40 upvotes, $500
 8. [Race Condition in Redeeming Coupons](https://hackerone.com/reports/157996) - 28 upvotes, $200
 9. [JSBeautifier BApp: Race condition leads to memory disclosure](https://hackerone.com/reports/187134) - 27 upvotes, $0

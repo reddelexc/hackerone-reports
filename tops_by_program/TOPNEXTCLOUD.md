@@ -3,7 +3,7 @@
 Top reports from Nextcloud program at HackerOne:
 
 1. [Remote Code Execution via Extract App Plugin](https://hackerone.com/reports/546753) - 112 upvotes, $0
-2. [Arbitrary SQL command injection](https://hackerone.com/reports/508487) - 65 upvotes, $500
+2. [Arbitrary SQL command injection](https://hackerone.com/reports/508487) - 66 upvotes, $500
 3. [Extremly simple way to bypass Nextcloud-Client PIN/Fingerprint lock](https://hackerone.com/reports/331489) - 51 upvotes, $100
 4. [Expired reshare links allow access to all files in share](https://hackerone.com/reports/452854) - 36 upvotes, $400
 5. [Reflected XSS in error pages (NC-SA-2017-008)](https://hackerone.com/reports/216812) - 25 upvotes, $450
@@ -16,9 +16,9 @@ Top reports from Nextcloud program at HackerOne:
 12. [bypass of 2FA](https://hackerone.com/reports/248656) - 17 upvotes, $750
 13. [OAuth2 Access Token and App Password Security Vulnerability](https://hackerone.com/reports/343111) - 17 upvotes, $400
 14. [Session fixation in password protected public download.](https://hackerone.com/reports/237184) - 17 upvotes, $50
-15. [DOM XSS vulnerability in search dialogue (NC-SA-2017-007)](https://hackerone.com/reports/213227) - 16 upvotes, $250
-16. [Access control issue -- [Allow file system access not validated when using session auth]](https://hackerone.com/reports/388515) - 16 upvotes, $100
-17. [Gallery: No feedback for invalid password](https://hackerone.com/reports/428660) - 16 upvotes, $50
+15. [Gallery: No feedback for invalid password](https://hackerone.com/reports/428660) - 17 upvotes, $50
+16. [DOM XSS vulnerability in search dialogue (NC-SA-2017-007)](https://hackerone.com/reports/213227) - 16 upvotes, $250
+17. [Access control issue -- [Allow file system access not validated when using session auth]](https://hackerone.com/reports/388515) - 16 upvotes, $100
 18. [Reflected XSS / Markup Injection in `index.php/svg/core/logo/logo` parameter `color`](https://hackerone.com/reports/605915) - 16 upvotes, $50
 19. [Unauthenticated Stored xss](https://hackerone.com/reports/168054) - 14 upvotes, $0
 20. [IDOR unsubscribe Anyone from NextClouds Newsletters by knowing their Email](https://hackerone.com/reports/230328) - 14 upvotes, $0
@@ -54,12 +54,12 @@ Top reports from Nextcloud program at HackerOne:
 50. [The session token in the URL](https://hackerone.com/reports/341372) - 9 upvotes, $0
 51. [Predictable Random Number Generator](https://hackerone.com/reports/504731) - 9 upvotes, $0
 52. [In Dockerized Environments, Failing to Read config.php Grants Any Anonymous User Full Admin Access](https://hackerone.com/reports/522876) - 9 upvotes, $0
-53. [twofactor_auth bypassable if provider fails to load](https://hackerone.com/reports/317711) - 8 upvotes, $50
-54. [Files Drop: WebDAV endpoint is leaking existence of resources](https://hackerone.com/reports/187460) - 8 upvotes, $0
-55. [User Information Disclosure via REST API](https://hackerone.com/reports/197877) - 8 upvotes, $0
-56. [Wordpress Vulnerable to Potential Unauthorized Password Reset](https://hackerone.com/reports/226037) - 8 upvotes, $0
-57. [Group admins can remove arbitrary data from "data" directory (including admin data)](https://hackerone.com/reports/508493) - 8 upvotes, $0
-58. [User Editable nextcloud Wiki pages of Public Repositories](https://hackerone.com/reports/498878) - 8 upvotes, $0
+53. [User Editable nextcloud Wiki pages of Public Repositories](https://hackerone.com/reports/498878) - 9 upvotes, $0
+54. [twofactor_auth bypassable if provider fails to load](https://hackerone.com/reports/317711) - 8 upvotes, $50
+55. [Files Drop: WebDAV endpoint is leaking existence of resources](https://hackerone.com/reports/187460) - 8 upvotes, $0
+56. [User Information Disclosure via REST API](https://hackerone.com/reports/197877) - 8 upvotes, $0
+57. [Wordpress Vulnerable to Potential Unauthorized Password Reset](https://hackerone.com/reports/226037) - 8 upvotes, $0
+58. [Group admins can remove arbitrary data from "data" directory (including admin data)](https://hackerone.com/reports/508493) - 8 upvotes, $0
 59. [Reflected XSS in Gallery App](https://hackerone.com/reports/165686) - 7 upvotes, $500
 60. [Calendar and addressbook names disclosed (NC-SA-2017-012)](https://hackerone.com/reports/203594) - 7 upvotes, $183
 61. [Content (Text) Injection at NextCloud Server 9.0.52 - via http://custom_nextcloud_url/remote.php/dav/files/](https://hackerone.com/reports/149798) - 7 upvotes, $50
@@ -98,27 +98,27 @@ Top reports from Nextcloud program at HackerOne:
 94. [NextCloud is also Accepting OCTET-STREAM Type of Documents instead of jpg or Imge Files Only](https://hackerone.com/reports/271253) - 5 upvotes, $0
 95. [Vulnerable W3 Total Cache plugin version in use on nextcloud.com](https://hackerone.com/reports/579116) - 5 upvotes, $0
 96. [Private/confidential setting of calendar events is ignored on activity stream](https://hackerone.com/reports/476615) - 5 upvotes, $0
-97. [Missing DNSSEC](https://hackerone.com/reports/509390) - 5 upvotes, $0
-98. [Content Spoofing in "files" app](https://hackerone.com/reports/179073) - 4 upvotes, $50
-99. [nextcloud.com: Content Injection Custom 404 Error](https://hackerone.com/reports/145344) - 4 upvotes, $0
-100. [Email ID Disclosure.](https://hackerone.com/reports/146106) - 4 upvotes, $0
-101. [REG: Content provider information leakage](https://hackerone.com/reports/146179) - 4 upvotes, $0
-102. [stats.nextcloud.com: Content Injection](https://hackerone.com/reports/145375) - 4 upvotes, $0
-103. [help.nextcloud.com: Known DoS condition (null pointer deref) in Nginx running](https://hackerone.com/reports/145409) - 4 upvotes, $0
-104. [Bookmarks: Delete all existing bookmarks of a user](https://hackerone.com/reports/154529) - 4 upvotes, $0
-105. [Information Disclosure of .htaccess file in Private Server/Subdomain](https://hackerone.com/reports/163106) - 4 upvotes, $0
-106. [Content spoofing due to the improper behavior of the 403 page in Private Server](https://hackerone.com/reports/177335) - 4 upvotes, $0
-107. [Stored XSS on new Calling plugin (spreed)](https://hackerone.com/reports/190870) - 4 upvotes, $0
-108. [HTTP-Basic Authentication on logs.nextcloud.com](https://hackerone.com/reports/198673) - 4 upvotes, $0
-109. [Email Spoofing](https://hackerone.com/reports/200762) - 4 upvotes, $0
-110. [Review remote code execution in SwiftMailer](https://hackerone.com/reports/194564) - 4 upvotes, $0
-111. [Bypassing quota limit](https://hackerone.com/reports/173622) - 4 upvotes, $0
-112. [Clickjacking In https://demo.nextcloud.com](https://hackerone.com/reports/222762) - 4 upvotes, $0
-113. [Dav sharing permissions issue](https://hackerone.com/reports/174896) - 4 upvotes, $0
-114. [Missing Rate Limiting protection leading to mass triggering of e-mails](https://hackerone.com/reports/224927) - 4 upvotes, $0
-115. [Information Exposure Through Directory Listing](https://hackerone.com/reports/260221) - 4 upvotes, $0
-116. [HTML injection with AutoComplete suggestions](https://hackerone.com/reports/383117) - 4 upvotes, $0
-117. [Passcode Protection in Android Devices Can be Bypassed.](https://hackerone.com/reports/631206) - 4 upvotes, $0
+97. [Passcode Protection in Android Devices Can be Bypassed.](https://hackerone.com/reports/631206) - 5 upvotes, $0
+98. [Missing DNSSEC](https://hackerone.com/reports/509390) - 5 upvotes, $0
+99. [Content Spoofing in "files" app](https://hackerone.com/reports/179073) - 4 upvotes, $50
+100. [nextcloud.com: Content Injection Custom 404 Error](https://hackerone.com/reports/145344) - 4 upvotes, $0
+101. [Email ID Disclosure.](https://hackerone.com/reports/146106) - 4 upvotes, $0
+102. [REG: Content provider information leakage](https://hackerone.com/reports/146179) - 4 upvotes, $0
+103. [stats.nextcloud.com: Content Injection](https://hackerone.com/reports/145375) - 4 upvotes, $0
+104. [help.nextcloud.com: Known DoS condition (null pointer deref) in Nginx running](https://hackerone.com/reports/145409) - 4 upvotes, $0
+105. [Bookmarks: Delete all existing bookmarks of a user](https://hackerone.com/reports/154529) - 4 upvotes, $0
+106. [Information Disclosure of .htaccess file in Private Server/Subdomain](https://hackerone.com/reports/163106) - 4 upvotes, $0
+107. [Content spoofing due to the improper behavior of the 403 page in Private Server](https://hackerone.com/reports/177335) - 4 upvotes, $0
+108. [Stored XSS on new Calling plugin (spreed)](https://hackerone.com/reports/190870) - 4 upvotes, $0
+109. [HTTP-Basic Authentication on logs.nextcloud.com](https://hackerone.com/reports/198673) - 4 upvotes, $0
+110. [Email Spoofing](https://hackerone.com/reports/200762) - 4 upvotes, $0
+111. [Review remote code execution in SwiftMailer](https://hackerone.com/reports/194564) - 4 upvotes, $0
+112. [Bypassing quota limit](https://hackerone.com/reports/173622) - 4 upvotes, $0
+113. [Clickjacking In https://demo.nextcloud.com](https://hackerone.com/reports/222762) - 4 upvotes, $0
+114. [Dav sharing permissions issue](https://hackerone.com/reports/174896) - 4 upvotes, $0
+115. [Missing Rate Limiting protection leading to mass triggering of e-mails](https://hackerone.com/reports/224927) - 4 upvotes, $0
+116. [Information Exposure Through Directory Listing](https://hackerone.com/reports/260221) - 4 upvotes, $0
+117. [HTML injection with AutoComplete suggestions](https://hackerone.com/reports/383117) - 4 upvotes, $0
 118. [Reflected Self-XSS Vulnerability in the Comment section of Files Information](https://hackerone.com/reports/164027) - 3 upvotes, $100
 119. [IDOR - Disable sharing](https://hackerone.com/reports/153905) - 3 upvotes, $100
 120. [nextcloud.com: Directory listening for 'wp-includes' forders](https://hackerone.com/reports/145495) - 3 upvotes, $0

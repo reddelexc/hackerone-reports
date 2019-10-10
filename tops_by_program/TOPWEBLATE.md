@@ -2,7 +2,7 @@
 
 Top reports from Weblate program at HackerOne:
 
-1. [HTML injection and information disclosure in support panel](https://hackerone.com/reports/634312) - 18 upvotes, $0
+1. [HTML injection and information disclosure in support panel](https://hackerone.com/reports/634312) - 19 upvotes, $0
 2. [Uploaded XLF files result in External Entity Execution](https://hackerone.com/reports/232614) - 14 upvotes, $0
 3. [Password Restriction](https://hackerone.com/reports/229920) - 12 upvotes, $0
 4. [DKIM records not present, Email Hijacking is possible.....](https://hackerone.com/reports/253926) - 11 upvotes, $0

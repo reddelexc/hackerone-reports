@@ -6,7 +6,7 @@ Top reports from shopify-scripts program at HackerOne:
 2. [Type confusion in mrb_exc_set leading to memory corruption](https://hackerone.com/reports/185041) - 40 upvotes, $20000
 3. [Crash in mrb_ary_push](https://hackerone.com/reports/420115) - 37 upvotes, $800
 4. [Type confusion in wrap_decimal leading to memory corruption](https://hackerone.com/reports/185051) - 35 upvotes, $18000
-5. [Buffer overflow in yywarning_s](https://hackerone.com/reports/535827) - 32 upvotes, $1000
+5. [Buffer overflow in yywarning_s](https://hackerone.com/reports/535827) - 33 upvotes, $1000
 6. [Use after free vulnerability in mruby Array#to_h causing DOS possible RCE](https://hackerone.com/reports/181321) - 29 upvotes, $20000
 7. [TOCTTOU bug in mrb_str_setbyte leading the memory corruption](https://hackerone.com/reports/181893) - 23 upvotes, $20000
 8. [Invalid handling of zero-length heredoc identifiers leads to infinite loop in the sandbox](https://hackerone.com/reports/187305) - 21 upvotes, $10000

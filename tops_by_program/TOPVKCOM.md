@@ -56,14 +56,14 @@ Top reports from VK.com program at HackerOne:
 52. [Получение предложенных фотографий паблику](https://hackerone.com/reports/227781) - 10 upvotes, $200
 53. [Узнать название частной группы и ее аватарку по видеоролику.](https://hackerone.com/reports/247072) - 10 upvotes, $100
 54. [Просмотр аватара и название частной группы](https://hackerone.com/reports/246085) - 10 upvotes, $100
-55. [XSS в названии сервера](https://hackerone.com/reports/262010) - 10 upvotes, $0
-56. [error](https://hackerone.com/reports/309594) - 10 upvotes, $0
-57. [Page replacement and redirect loop](https://hackerone.com/reports/64529) - 10 upvotes, $0
-58. [SSRF (open) - via GET request](https://hackerone.com/reports/180527) - 9 upvotes, $300
-59. [Просмотр любого видео из частной группы и кто загрузил](https://hackerone.com/reports/319674) - 9 upvotes, $300
-60. [CSRF отредактировать карточки в посте у группы](https://hackerone.com/reports/307382) - 9 upvotes, $100
-61. [Часть админки доступна для всех пользователей](https://hackerone.com/reports/341637) - 9 upvotes, $100
-62. [HTML Injection possible due to bad filter](https://hackerone.com/reports/198907) - 9 upvotes, $0
+55. [HTML Injection possible due to bad filter](https://hackerone.com/reports/198907) - 10 upvotes, $0
+56. [XSS в названии сервера](https://hackerone.com/reports/262010) - 10 upvotes, $0
+57. [error](https://hackerone.com/reports/309594) - 10 upvotes, $0
+58. [Page replacement and redirect loop](https://hackerone.com/reports/64529) - 10 upvotes, $0
+59. [SSRF (open) - via GET request](https://hackerone.com/reports/180527) - 9 upvotes, $300
+60. [Просмотр любого видео из частной группы и кто загрузил](https://hackerone.com/reports/319674) - 9 upvotes, $300
+61. [CSRF отредактировать карточки в посте у группы](https://hackerone.com/reports/307382) - 9 upvotes, $100
+62. [Часть админки доступна для всех пользователей](https://hackerone.com/reports/341637) - 9 upvotes, $100
 63. [Новый 2FA Bypass](https://hackerone.com/reports/179421) - 8 upvotes, $1000
 64. [Возможность провести DoS атаку от имени vk.com сервера](https://hackerone.com/reports/183352) - 8 upvotes, $500
 65. [CSRF в получении резервных токенов+framing , приводящие к компроментации 2fa](https://hackerone.com/reports/90165) - 8 upvotes, $500
@@ -111,10 +111,10 @@ Top reports from VK.com program at HackerOne:
 107. [Подмена SSL-сертификата для любой группы в секции Управление группой-\>Работа с API неавторизированным пользователем.](https://hackerone.com/reports/215326) - 2 upvotes, $200
 108. [Способ узнать имя человека и ВУЗ удаленной страницы](https://hackerone.com/reports/93020) - 2 upvotes, $100
 109. [Паблики: Модератор паблика может удалять добавленные редакторами материалы с таймером на публикацию.](https://hackerone.com/reports/148467) - 2 upvotes, $100
-110. [Information Disclosure (phpinfo())](https://hackerone.com/reports/531146) - 2 upvotes, $0
-111. [API: Bug in method auth.validatePhone](https://hackerone.com/reports/64963) - 1 upvotes, $500
-112. [XSS at http://vk.com on IE using flash files](https://hackerone.com/reports/66121) - 1 upvotes, $500
-113. [Дайте swag](https://hackerone.com/reports/665688) - 1 upvotes, $0
+110. [Дайте swag](https://hackerone.com/reports/665688) - 2 upvotes, $0
+111. [Information Disclosure (phpinfo())](https://hackerone.com/reports/531146) - 2 upvotes, $0
+112. [API: Bug in method auth.validatePhone](https://hackerone.com/reports/64963) - 1 upvotes, $500
+113. [XSS at http://vk.com on IE using flash files](https://hackerone.com/reports/66121) - 1 upvotes, $500
 114. [Не достаточная проверка логина скайп](https://hackerone.com/reports/65330) - 0 upvotes, $100
 115. [XSS on added name album on videos.](https://hackerone.com/reports/65324) - 0 upvotes, $0
 
