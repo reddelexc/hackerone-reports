@@ -41,5 +41,13 @@ Tops by program.
 - [Top ownCloud reports](tops_by_program/TOPOWNCLOUD.md)
 - [Top GitLab reports](tops_by_program/TOPGITLAB.md)
 - [Top Ubiquiti Inc. reports](tops_by_program/TOPUBIQUITIINC.md)
-
-To be continued...
+- [Top Automattic reports](tops_by_program/TOPAUTOMATTIC.md)
+- [Top Coinbase reports](tops_by_program/TOPCOINBASE.md)
+- [Top Verizon Media reports](tops_by_program/TOPVERIZONMEDIA.md)
+- [Top Starbucks reports](tops_by_program/TOPSTARBUCKS.md)
+- [Top Paragon Initiative Enterprises reports](tops_by_program/TOPPARAGONINITIATIVEENTERPRISES.md)
+- [Top PHP (IBB) reports](tops_by_program/TOPPHP(IBB).md)
+- [Top Brave Software reports](tops_by_program/TOPBRAVESOFTWARE.md)
+- [Top Vimeo reports](tops_by_program/TOPVIMEO.md)
+- [Top OLX reports](tops_by_program/TOPOLX.md)
+- [Top Pornhub reports](tops_by_program/TOPPORNHUB.md)
