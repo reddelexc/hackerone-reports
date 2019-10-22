@@ -17,8 +17,8 @@ Top reports from LocalTapiola program at HackerOne:
 13. [SQL Injection /webApp/cancel_iltakoulu regId parameter (viestinta.lahitapiola.fi)](https://hackerone.com/reports/200818) - 24 upvotes, $1350
 14. [Reflected XSS+CSRF on secure.lahitapiola.fi](https://hackerone.com/reports/314518) - 21 upvotes, $750
 15. [Malicious file upload (secure.lahitapiola.fi)](https://hackerone.com/reports/305237) - 19 upvotes, $600
-16. [SQL Injection on /webApp/sijoitustalousuk email-parameter + potential lack of CSRF Token (viestinta.lahitapiola.fi)](https://hackerone.com/reports/191601) - 17 upvotes, $1350
-17. [Wordpress Users Disclosure (/wp-json/wp/v2/users/)](https://hackerone.com/reports/356047) - 17 upvotes, $50
+16. [Wordpress Users Disclosure (/wp-json/wp/v2/users/)](https://hackerone.com/reports/356047) - 18 upvotes, $50
+17. [SQL Injection on /webApp/sijoitustalousuk email-parameter + potential lack of CSRF Token (viestinta.lahitapiola.fi)](https://hackerone.com/reports/191601) - 17 upvotes, $1350
 18. [SQL Injection in lapsuudenturva (viestinta.lahitapiola.fi)](https://hackerone.com/reports/191146) - 16 upvotes, $1350
 19. [F5 BIG-IP Cookie Remote Information Disclosure](https://hackerone.com/reports/330716) - 16 upvotes, $50
 20. [SQL Injection /webApp/sijoitustalous_peruutus locId parameter (viestinta.lahitapiola.fi)](https://hackerone.com/reports/181826) - 15 upvotes, $350
@@ -52,33 +52,33 @@ Top reports from LocalTapiola program at HackerOne:
 48. [Poodle attack SSLv3 Support (viestinta.lahitapiola.fi)](https://hackerone.com/reports/181768) - 8 upvotes, $60
 49. [Reflected XSS on sankarikoulutus (viestinta.lahitapiola.fi)](https://hackerone.com/reports/191095) - 8 upvotes, $50
 50. [Test Page available with Server details on /r/test (viestinta.lahitapiola.fi)](https://hackerone.com/reports/201901) - 8 upvotes, $50
-51. [SQL Injection on /webApp/lapsuudenturva (viestinta.lahitapiola.fi)](https://hackerone.com/reports/200214) - 7 upvotes, $1350
-52. [Single User DOS on SelectedLocale -cookie (verkkopalvelu.tapiola.fi)](https://hackerone.com/reports/212508) - 7 upvotes, $400
-53. [Sql injection on /webApp/sijoituswebinaari (viestinta.lahitapiola.fi)](https://hackerone.com/reports/200212) - 7 upvotes, $350
-54. [SQL Injection on /webApp/viivanalle (viestinta.lahitapiola.fi)](https://hackerone.com/reports/200210) - 7 upvotes, $350
-55. [High server resource usage on captcha (viestinta.lahitapiola.fi)](https://hackerone.com/reports/204208) - 7 upvotes, $315
-56. [High server resource usage on captcha (viestinta.lahitapiola.fi)](https://hackerone.com/reports/280748) - 7 upvotes, $315
-57. [Content Spoofing or Text Injection (404 error page injection on yrityspalvelu)](https://hackerone.com/reports/134388) - 7 upvotes, $100
-58. [/icons/README available on viestinta.lahitapiola.fi](https://hackerone.com/reports/188075) - 7 upvotes, $0
-59. [Blacklist bypass for /cs/Satellite (www.lahitapiola.fi)](https://hackerone.com/reports/198718) - 6 upvotes, $600
-60. [XSS and open redirect in verkkopalvelu.lahitapiola.fi](https://hackerone.com/reports/183796) - 6 upvotes, $450
-61. [HTML Injection in email from http://www.lahitapiola.fi/henkilo/sivut/tonttutesti](https://hackerone.com/reports/209398) - 6 upvotes, $264
-62. [Securemail server used to internal spam and resource exhaustion](https://hackerone.com/reports/311776) - 6 upvotes, $264
-63. [Reflected XSS Vulnerability in https://www.lahitapiola.fi/cs/Satellite](https://hackerone.com/reports/301680) - 6 upvotes, $250
-64. [Flash-based XSS on mediaelement-flash-audio-ogg.swf of www.lahitapiolarahoitus.fi](https://hackerone.com/reports/335990) - 6 upvotes, $250
-65. [Brute force unsubscription on /webApp/unsub_sb (viestinta.lahitapiola.fi)](https://hackerone.com/reports/208237) - 6 upvotes, $200
-66. [SMTP configuration vulnerability viestinta.lahitapiola.fi](https://hackerone.com/reports/183548) - 6 upvotes, $100
-67. [Reflected XSS in LTContactFormReceiver (/cs/Satellite)](https://hackerone.com/reports/172595) - 6 upvotes, $50
-68. [Disclosure of IBM Websphere page](https://hackerone.com/reports/184452) - 6 upvotes, $50
-69. [CSRF bypass + XSS on verkkopalvelu.tapiola.fi](https://hackerone.com/reports/200683) - 6 upvotes, $50
-70. [Lahitapiola´s customer names send to 3rd party](https://hackerone.com/reports/177523) - 5 upvotes, $588
-71. [The PdfServlet-functionality used by the "Tee vakuutustodistus" allows injection of custom PDF-content via CSRF-attack](https://hackerone.com/reports/129002) - 5 upvotes, $300
-72. [Exposed authentication (/cs/Satellite)](https://hackerone.com/reports/292463) - 5 upvotes, $200
-73. [Option method enabled (viestinta.lahitapiola.fi)](https://hackerone.com/reports/182265) - 5 upvotes, $60
-74. [Possible sweet32 lahitapiola.fi](https://hackerone.com/reports/232463) - 5 upvotes, $50
-75. [Information exposure via error pages (www.lahitapiola.fi Tomcat)](https://hackerone.com/reports/304708) - 5 upvotes, $50
-76. [DoS of www.lahitapiolarahoitus.fi via CVE-2018-6389 exploitation](https://hackerone.com/reports/335177) - 5 upvotes, $50
-77. [Non-secure requests to www.lahitapiola.fi are not automatically upgraded to HTTPS](https://hackerone.com/reports/161485) - 5 upvotes, $50
+51. [Non-secure requests to www.lahitapiola.fi are not automatically upgraded to HTTPS](https://hackerone.com/reports/161485) - 8 upvotes, $50
+52. [SQL Injection on /webApp/lapsuudenturva (viestinta.lahitapiola.fi)](https://hackerone.com/reports/200214) - 7 upvotes, $1350
+53. [Single User DOS on SelectedLocale -cookie (verkkopalvelu.tapiola.fi)](https://hackerone.com/reports/212508) - 7 upvotes, $400
+54. [Sql injection on /webApp/sijoituswebinaari (viestinta.lahitapiola.fi)](https://hackerone.com/reports/200212) - 7 upvotes, $350
+55. [SQL Injection on /webApp/viivanalle (viestinta.lahitapiola.fi)](https://hackerone.com/reports/200210) - 7 upvotes, $350
+56. [High server resource usage on captcha (viestinta.lahitapiola.fi)](https://hackerone.com/reports/204208) - 7 upvotes, $315
+57. [High server resource usage on captcha (viestinta.lahitapiola.fi)](https://hackerone.com/reports/280748) - 7 upvotes, $315
+58. [Content Spoofing or Text Injection (404 error page injection on yrityspalvelu)](https://hackerone.com/reports/134388) - 7 upvotes, $100
+59. [/icons/README available on viestinta.lahitapiola.fi](https://hackerone.com/reports/188075) - 7 upvotes, $0
+60. [Blacklist bypass for /cs/Satellite (www.lahitapiola.fi)](https://hackerone.com/reports/198718) - 6 upvotes, $600
+61. [XSS and open redirect in verkkopalvelu.lahitapiola.fi](https://hackerone.com/reports/183796) - 6 upvotes, $450
+62. [HTML Injection in email from http://www.lahitapiola.fi/henkilo/sivut/tonttutesti](https://hackerone.com/reports/209398) - 6 upvotes, $264
+63. [Securemail server used to internal spam and resource exhaustion](https://hackerone.com/reports/311776) - 6 upvotes, $264
+64. [Reflected XSS Vulnerability in https://www.lahitapiola.fi/cs/Satellite](https://hackerone.com/reports/301680) - 6 upvotes, $250
+65. [Flash-based XSS on mediaelement-flash-audio-ogg.swf of www.lahitapiolarahoitus.fi](https://hackerone.com/reports/335990) - 6 upvotes, $250
+66. [Brute force unsubscription on /webApp/unsub_sb (viestinta.lahitapiola.fi)](https://hackerone.com/reports/208237) - 6 upvotes, $200
+67. [SMTP configuration vulnerability viestinta.lahitapiola.fi](https://hackerone.com/reports/183548) - 6 upvotes, $100
+68. [Reflected XSS in LTContactFormReceiver (/cs/Satellite)](https://hackerone.com/reports/172595) - 6 upvotes, $50
+69. [Disclosure of IBM Websphere page](https://hackerone.com/reports/184452) - 6 upvotes, $50
+70. [CSRF bypass + XSS on verkkopalvelu.tapiola.fi](https://hackerone.com/reports/200683) - 6 upvotes, $50
+71. [Lahitapiola´s customer names send to 3rd party](https://hackerone.com/reports/177523) - 5 upvotes, $588
+72. [The PdfServlet-functionality used by the "Tee vakuutustodistus" allows injection of custom PDF-content via CSRF-attack](https://hackerone.com/reports/129002) - 5 upvotes, $300
+73. [Exposed authentication (/cs/Satellite)](https://hackerone.com/reports/292463) - 5 upvotes, $200
+74. [Option method enabled (viestinta.lahitapiola.fi)](https://hackerone.com/reports/182265) - 5 upvotes, $60
+75. [Possible sweet32 lahitapiola.fi](https://hackerone.com/reports/232463) - 5 upvotes, $50
+76. [Information exposure via error pages (www.lahitapiola.fi Tomcat)](https://hackerone.com/reports/304708) - 5 upvotes, $50
+77. [DoS of www.lahitapiolarahoitus.fi via CVE-2018-6389 exploitation](https://hackerone.com/reports/335177) - 5 upvotes, $50
 78. [Abusing and Hacking the SMTP Server secure.lahitapiola.fi](https://hackerone.com/reports/138315) - 4 upvotes, $300
 79. [Reflected XSS Vulnerability in www.lahitapiola.fi/cs/Satellite](https://hackerone.com/reports/219140) - 4 upvotes, $250
 80. [Exploiting Secure Shell (SSH) on mobilelt.lahitapiola.fi](https://hackerone.com/reports/139940) - 4 upvotes, $100
@@ -90,11 +90,11 @@ Top reports from LocalTapiola program at HackerOne:
 86. [Authorization issue on 'valtakirjat' (/e2/verkkopalvelu/)](https://hackerone.com/reports/307978) - 3 upvotes, $490
 87. [Reflected XSS and Open Redirect (verkkopalvelu.lahitapiola.fi)](https://hackerone.com/reports/194207) - 3 upvotes, $400
 88. [Reflected XSS on iltakoulu_varkaus (viestinta.lahitapiola.fi)](https://hackerone.com/reports/201137) - 3 upvotes, $150
-89. [Posting modified information in 'Investment section' will cause unintended information change in verkkopalvelu.tapiola.fi](https://hackerone.com/reports/126209) - 2 upvotes, $1000
-90. [Possibly big authorization problem in Lähitapiola´s varainhoito](https://hackerone.com/reports/135252) - 2 upvotes, $400
-91. [Amazon Bucket Accessible (http://inpref.s3.amazonaws.com/)](https://hackerone.com/reports/137487) - 2 upvotes, $100
-92. [Suspicious browser fingerprinting(?) scripts on http://www.lahitapiola.fi/ redirector](https://hackerone.com/reports/179763) - 2 upvotes, $100
-93. [Enumeration in unsubscribe -function of /omatalousuk (viestinta.lahitapiola.fi)](https://hackerone.com/reports/201314) - 2 upvotes, $100
+89. [Enumeration in unsubscribe -function of /omatalousuk (viestinta.lahitapiola.fi)](https://hackerone.com/reports/201314) - 3 upvotes, $100
+90. [Posting modified information in 'Investment section' will cause unintended information change in verkkopalvelu.tapiola.fi](https://hackerone.com/reports/126209) - 2 upvotes, $1000
+91. [Possibly big authorization problem in Lähitapiola´s varainhoito](https://hackerone.com/reports/135252) - 2 upvotes, $400
+92. [Amazon Bucket Accessible (http://inpref.s3.amazonaws.com/)](https://hackerone.com/reports/137487) - 2 upvotes, $100
+93. [Suspicious browser fingerprinting(?) scripts on http://www.lahitapiola.fi/ redirector](https://hackerone.com/reports/179763) - 2 upvotes, $100
 94. [OpenSSL Padding Oracle Attack (CVE-2016-2107) on viestinta.lahitapiola.fi](https://hackerone.com/reports/194761) - 2 upvotes, $100
 95. [show control page if you insert ' at http://viestinta.lahitapiola.fi/](https://hackerone.com/reports/205920) - 2 upvotes, $50
 96. [DOM XSS bypassing in Regional Office -selector](https://hackerone.com/reports/142609) - 1 upvotes, $100

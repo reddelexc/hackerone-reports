@@ -4,18 +4,18 @@ Top reports from OLX program at HackerOne:
 
 1. [XSS - main page - search[user_id] parameter](https://hackerone.com/reports/477771) - 135 upvotes, $0
 2. [[Critical] Delete any account](https://hackerone.com/reports/158872) - 111 upvotes, $0
-3. [SQL Injection on https://www.olx.co.id](https://hackerone.com/reports/639876) - 63 upvotes, $0
-4. [web cache deception in https://tradus.com lead to name/user_id enumeration and other info](https://hackerone.com/reports/537564) - 53 upvotes, $0
+3. [SQL Injection on https://www.olx.co.id](https://hackerone.com/reports/639876) - 64 upvotes, $0
+4. [web cache deception in https://tradus.com lead to name/user_id enumeration and other info](https://hackerone.com/reports/537564) - 55 upvotes, $0
 5. [SQL Injection https://www.olx.co.id](https://hackerone.com/reports/446293) - 46 upvotes, $0
-6. [Reflected XSS on https://www.olx.co.id/iklan/*.html via "ad_type" parameter](https://hackerone.com/reports/630265) - 32 upvotes, $0
-7. [XSS inside HTML Link Tag](https://hackerone.com/reports/504984) - 28 upvotes, $0
+6. [Reflected XSS on https://www.olx.co.id/iklan/*.html via "ad_type" parameter](https://hackerone.com/reports/630265) - 33 upvotes, $0
+7. [XSS inside HTML Link Tag](https://hackerone.com/reports/504984) - 29 upvotes, $0
 8. [Public Vulnerable Version of Confluence https://confluence.olx.com](https://hackerone.com/reports/207013) - 28 upvotes, $0
-9. [Reflected XSS in www.olx.co.id](https://hackerone.com/reports/639796) - 24 upvotes, $0
+9. [Reflected XSS in www.olx.co.id](https://hackerone.com/reports/639796) - 25 upvotes, $0
 10. [Search Page Reflected XSS on sharjah.dubizzle.com through unencoded output of GET parameter in JavaScript](https://hackerone.com/reports/363571) - 18 upvotes, $0
 11. [Able to list user's public name, username, phone number, address, facebook ID...](https://hackerone.com/reports/167206) - 18 upvotes, $0
 12. [Cross Site Scripting -\> Reflected XSS](https://hackerone.com/reports/150568) - 17 upvotes, $0
 13. [XSS Reflected at SEARCH \>\>](https://hackerone.com/reports/429647) - 16 upvotes, $0
-14. [Subdomain Takeover (http://docs.olx.ph/ , http://calendar.olx.ph/, http://sites.olx.ph/)](https://hackerone.com/reports/206516) - 14 upvotes, $0
+14. [Subdomain Takeover (http://docs.olx.ph/ , http://calendar.olx.ph/, http://sites.olx.ph/)](https://hackerone.com/reports/206516) - 15 upvotes, $0
 15. [Reflective XSS at olx.ph](https://hackerone.com/reports/361647) - 14 upvotes, $0
 16. [XSS @ *.letgo.com](https://hackerone.com/reports/150822) - 13 upvotes, $0
 17. [Bypass CSP frame-ancestors at olx.co.za, olx.com.gh](https://hackerone.com/reports/371980) - 13 upvotes, $0

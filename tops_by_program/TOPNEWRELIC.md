@@ -2,7 +2,7 @@
 
 Top reports from New Relic program at HackerOne:
 
-1. [Password theft login.newrelic.com via Request Smuggling](https://hackerone.com/reports/498052) - 408 upvotes, $3000
+1. [Password theft login.newrelic.com via Request Smuggling](https://hackerone.com/reports/498052) - 422 upvotes, $3000
 2. [Insecure Infrastructure Integrations YML Loading leads to Windows Privilege Escalation](https://hackerone.com/reports/363971) - 61 upvotes, $2500
 3. [Stored XSS in Brower `name` field reflected in two pages](https://hackerone.com/reports/348076) - 35 upvotes, $3000
 4. [[NR Insights] Pull any Insights/NRQL data from any NR account](https://hackerone.com/reports/397137) - 33 upvotes, $2500
@@ -114,14 +114,14 @@ Top reports from New Relic program at HackerOne:
 110. [Emails and alert policies can be altered by malicious users.](https://hackerone.com/reports/123120) - 1 upvotes, $0
 111. [Stored Xss in rpm.newrelic.com](https://hackerone.com/reports/170241) - 1 upvotes, $0
 112. [WordPress User Enumeration - blog.newrelic.com](https://hackerone.com/reports/115817) - 1 upvotes, $0
-113. [Moniter Failed Sends too many emails](https://hackerone.com/reports/194952) - 0 upvotes, $0
-114. [Sensitive information disclosure](https://hackerone.com/reports/207388) - 0 upvotes, $0
-115. [Directory listing - i am able to download all php_agent archive](https://hackerone.com/reports/207384) - 0 upvotes, $0
-116. [Insecure transition from HTTP to HTTPS in form post](https://hackerone.com/reports/123915) - 0 upvotes, $0
-117. [XSS (Reflected)](https://hackerone.com/reports/176477) - 0 upvotes, $0
-118. [Broken Authentication and session management OWASP A2](https://hackerone.com/reports/205309) - 0 upvotes, $0
-119. [Newrelic s3 bucket is writeable and deleteable by authorized AWS users](https://hackerone.com/reports/277262) - 0 upvotes, $0
-120. [Can fake content email of newrelic to any user](https://hackerone.com/reports/694943) - 0 upvotes, $0
+113. [Can fake content email of newrelic to any user](https://hackerone.com/reports/694943) - 1 upvotes, $0
+114. [Moniter Failed Sends too many emails](https://hackerone.com/reports/194952) - 0 upvotes, $0
+115. [Sensitive information disclosure](https://hackerone.com/reports/207388) - 0 upvotes, $0
+116. [Directory listing - i am able to download all php_agent archive](https://hackerone.com/reports/207384) - 0 upvotes, $0
+117. [Insecure transition from HTTP to HTTPS in form post](https://hackerone.com/reports/123915) - 0 upvotes, $0
+118. [XSS (Reflected)](https://hackerone.com/reports/176477) - 0 upvotes, $0
+119. [Broken Authentication and session management OWASP A2](https://hackerone.com/reports/205309) - 0 upvotes, $0
+120. [Newrelic s3 bucket is writeable and deleteable by authorized AWS users](https://hackerone.com/reports/277262) - 0 upvotes, $0
 
 
 [Back](../README.md)

@@ -56,21 +56,21 @@ Top reports from Node.js third-party modules program at HackerOne:
 52. [`http-proxy-agent` passes unsanitized options to Buffer(arg), resulting in DoS and uninitialized memory leak](https://hackerone.com/reports/321631) - 7 upvotes, $0
 53. [url-parse package return wrong hostname](https://hackerone.com/reports/384029) - 7 upvotes, $0
 54. [Prototype pollution attack (defaults-deep / constructor.prototype)](https://hackerone.com/reports/380878) - 7 upvotes, $0
-55. [[626] Path Traversal allows to read arbitrary file from remote server](https://hackerone.com/reports/311216) - 6 upvotes, $0
-56. [[anywhere] An iframe element with url to malicious HTML file (with eg. JavaScript malware) can be used as filename and served via anywhere](https://hackerone.com/reports/309394) - 6 upvotes, $0
-57. [[simple-server] HTML with iframe element can be used as filename, which might lead to load and execute malicious JavaScript](https://hackerone.com/reports/309641) - 6 upvotes, $0
-58. [[metascraper] Stored XSS in Open Graph meta properties read by metascrapper](https://hackerone.com/reports/309367) - 6 upvotes, $0
-59. [`https-proxy-agent` passes unsanitized options to Buffer(arg), resulting in DoS and uninitialized memory leak](https://hackerone.com/reports/319532) - 6 upvotes, $0
-60. [[mcstatic] Server Directory Traversal](https://hackerone.com/reports/330285) - 6 upvotes, $0
-61. [Insecure implementation of deserialization in cryo](https://hackerone.com/reports/350418) - 6 upvotes, $0
-62. [[serve] Server Directory Traversal](https://hackerone.com/reports/358645) - 6 upvotes, $0
-63. [Stored XSS in Node-Red](https://hackerone.com/reports/349146) - 6 upvotes, $0
-64. [[egg-scripts] Command injection](https://hackerone.com/reports/388936) - 6 upvotes, $0
-65. [Command Injection is ps Package](https://hackerone.com/reports/390848) - 6 upvotes, $0
-66. [Prototype pollution attack (lodash / constructor.prototype)](https://hackerone.com/reports/380873) - 6 upvotes, $0
-67. [[takeapeek] Path traversal allow to expose directory and files](https://hackerone.com/reports/403736) - 6 upvotes, $0
-68. [[domokeeper] Unintended Require](https://hackerone.com/reports/538938) - 6 upvotes, $0
-69. [Path traversal using symlink](https://hackerone.com/reports/695416) - 6 upvotes, $0
+55. [Path traversal using symlink](https://hackerone.com/reports/695416) - 7 upvotes, $0
+56. [[626] Path Traversal allows to read arbitrary file from remote server](https://hackerone.com/reports/311216) - 6 upvotes, $0
+57. [[anywhere] An iframe element with url to malicious HTML file (with eg. JavaScript malware) can be used as filename and served via anywhere](https://hackerone.com/reports/309394) - 6 upvotes, $0
+58. [[simple-server] HTML with iframe element can be used as filename, which might lead to load and execute malicious JavaScript](https://hackerone.com/reports/309641) - 6 upvotes, $0
+59. [[metascraper] Stored XSS in Open Graph meta properties read by metascrapper](https://hackerone.com/reports/309367) - 6 upvotes, $0
+60. [`https-proxy-agent` passes unsanitized options to Buffer(arg), resulting in DoS and uninitialized memory leak](https://hackerone.com/reports/319532) - 6 upvotes, $0
+61. [[mcstatic] Server Directory Traversal](https://hackerone.com/reports/330285) - 6 upvotes, $0
+62. [Insecure implementation of deserialization in cryo](https://hackerone.com/reports/350418) - 6 upvotes, $0
+63. [[serve] Server Directory Traversal](https://hackerone.com/reports/358645) - 6 upvotes, $0
+64. [Stored XSS in Node-Red](https://hackerone.com/reports/349146) - 6 upvotes, $0
+65. [[egg-scripts] Command injection](https://hackerone.com/reports/388936) - 6 upvotes, $0
+66. [Command Injection is ps Package](https://hackerone.com/reports/390848) - 6 upvotes, $0
+67. [Prototype pollution attack (lodash / constructor.prototype)](https://hackerone.com/reports/380873) - 6 upvotes, $0
+68. [[takeapeek] Path traversal allow to expose directory and files](https://hackerone.com/reports/403736) - 6 upvotes, $0
+69. [[domokeeper] Unintended Require](https://hackerone.com/reports/538938) - 6 upvotes, $0
 70. [[uppy] Stored XSS due to crafted SVG file](https://hackerone.com/reports/311998) - 5 upvotes, $0
 71. [[node-srv] Path Traversal allows to read arbitrary files from remote server](https://hackerone.com/reports/309124) - 5 upvotes, $0
 72. [`sshpk` is vulnerable to ReDoS when parsing crafted invalid public keys](https://hackerone.com/reports/319593) - 5 upvotes, $0

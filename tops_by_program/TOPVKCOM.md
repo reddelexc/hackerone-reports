@@ -82,41 +82,42 @@ Top reports from VK.com program at HackerOne:
 78. [API: Bug in method auth.signup , дающий возможность бесконечно звонить](https://hackerone.com/reports/107877) - 6 upvotes, $500
 79. [XSS в комментариях от имени сообщества](https://hackerone.com/reports/264445) - 6 upvotes, $500
 80. [Уязвимость Создание фотографий без ведома пользователей](https://hackerone.com/reports/72775) - 6 upvotes, $300
-81. [Возможность смотреть видео рекомендации любого пользователя вконтакте](https://hackerone.com/reports/196937) - 6 upvotes, $100
-82. [Нет маркера на добавление песни в плейлист пользователя](https://hackerone.com/reports/242408) - 6 upvotes, $100
-83. [api.vk.com отдаёт в ответ HTML авторизированную страницу vk.com](https://hackerone.com/reports/219657) - 6 upvotes, $100
-84. [Узнаем название и аватарку частной группы, по ID приложения.](https://hackerone.com/reports/270119) - 6 upvotes, $100
-85. [Хранимая XSS на странице "Виджет для авторизации"](https://hackerone.com/reports/273960) - 6 upvotes, $0
-86. [Изменение текстов вариантов ответа в опросах](https://hackerone.com/reports/107664) - 6 upvotes, $0
-87. [CSRF создание опроса от имени пользователя, зная id приложения. + небольшой флуд сообщениями на стену](https://hackerone.com/reports/288540) - 6 upvotes, $0
-88. [Уязвимость получения всех номеров телефонов вк (по совместительству логинов профилей)](https://hackerone.com/reports/67317) - 5 upvotes, $200
-89. [Дорк](https://hackerone.com/reports/117902) - 5 upvotes, $100
-90. [Добавление в меню сообщества без ведома пользователя (нажатия пользователем)](https://hackerone.com/reports/106806) - 5 upvotes, $100
-91. [Раскрытие имени файла приватных документов](https://hackerone.com/reports/219715) - 5 upvotes, $100
-92. [Монипулирование на страницах пользоватлей значением "Подсказывать стикеры в полях ввода"](https://hackerone.com/reports/300622) - 5 upvotes, $100
-93. [DOM XSS в /activation.php?act=activate_mobile](https://hackerone.com/reports/146939) - 5 upvotes, $0
-94. [Способ узнать имя человека удаленной страницы](https://hackerone.com/reports/193419) - 5 upvotes, $0
-95. [Способ узнать имя человека удаленной страницы 2](https://hackerone.com/reports/193759) - 5 upvotes, $0
-96. [Внедрение произвольного javascript-сценария в функционале просмотра изображений мобильной версии сайта](https://hackerone.com/reports/80298) - 4 upvotes, $500
-97. [[0.vk.com] Reflected XSS на странице подтверждения.](https://hackerone.com/reports/502819) - 4 upvotes, $200
-98. [Просмотр инфы на странице пользователя или группы который тебя добавил в ЧС](https://hackerone.com/reports/505347) - 4 upvotes, $200
-99. [Checking whether user liked the media or not even when you are blocked](https://hackerone.com/reports/111417) - 4 upvotes, $100
-100. [Просмотр привязного к странице email, всего лишь раз скомпрометировав письмо-уведомление](https://hackerone.com/reports/223172) - 4 upvotes, $100
-101. [SSRF через Share-ботов](https://hackerone.com/reports/197365) - 3 upvotes, $300
-102. [Логирование ответов запросов VK API в приложении Клевер](https://hackerone.com/reports/475177) - 3 upvotes, $300
-103. [Отвязываем Twitter от любого профиля вк ! + несколько багов по дизайну](https://hackerone.com/reports/71337) - 3 upvotes, $250
-104. [vk.com/login.php](https://hackerone.com/reports/116764) - 3 upvotes, $200
-105. [Able to intercept app Traffic after choosing up the Secured Connection using SSL (HTTPS)](https://hackerone.com/reports/64731) - 3 upvotes, $100
-106. [Уязвимость в Указание мест на фото + фича + хакинг](https://hackerone.com/reports/66235) - 2 upvotes, $200
-107. [Подмена SSL-сертификата для любой группы в секции Управление группой-\>Работа с API неавторизированным пользователем.](https://hackerone.com/reports/215326) - 2 upvotes, $200
-108. [Способ узнать имя человека и ВУЗ удаленной страницы](https://hackerone.com/reports/93020) - 2 upvotes, $100
-109. [Паблики: Модератор паблика может удалять добавленные редакторами материалы с таймером на публикацию.](https://hackerone.com/reports/148467) - 2 upvotes, $100
-110. [Дайте swag](https://hackerone.com/reports/665688) - 2 upvotes, $0
-111. [Information Disclosure (phpinfo())](https://hackerone.com/reports/531146) - 2 upvotes, $0
-112. [API: Bug in method auth.validatePhone](https://hackerone.com/reports/64963) - 1 upvotes, $500
-113. [XSS at http://vk.com on IE using flash files](https://hackerone.com/reports/66121) - 1 upvotes, $500
-114. [Не достаточная проверка логина скайп](https://hackerone.com/reports/65330) - 0 upvotes, $100
-115. [XSS on added name album on videos.](https://hackerone.com/reports/65324) - 0 upvotes, $0
+81. [Узнаем новые email приглашенного нами пользователя после смены, и так же часть номера телефона](https://hackerone.com/reports/529367) - 6 upvotes, $300
+82. [Возможность смотреть видео рекомендации любого пользователя вконтакте](https://hackerone.com/reports/196937) - 6 upvotes, $100
+83. [Нет маркера на добавление песни в плейлист пользователя](https://hackerone.com/reports/242408) - 6 upvotes, $100
+84. [api.vk.com отдаёт в ответ HTML авторизированную страницу vk.com](https://hackerone.com/reports/219657) - 6 upvotes, $100
+85. [Узнаем название и аватарку частной группы, по ID приложения.](https://hackerone.com/reports/270119) - 6 upvotes, $100
+86. [Хранимая XSS на странице "Виджет для авторизации"](https://hackerone.com/reports/273960) - 6 upvotes, $0
+87. [Изменение текстов вариантов ответа в опросах](https://hackerone.com/reports/107664) - 6 upvotes, $0
+88. [CSRF создание опроса от имени пользователя, зная id приложения. + небольшой флуд сообщениями на стену](https://hackerone.com/reports/288540) - 6 upvotes, $0
+89. [Уязвимость получения всех номеров телефонов вк (по совместительству логинов профилей)](https://hackerone.com/reports/67317) - 5 upvotes, $200
+90. [Дорк](https://hackerone.com/reports/117902) - 5 upvotes, $100
+91. [Добавление в меню сообщества без ведома пользователя (нажатия пользователем)](https://hackerone.com/reports/106806) - 5 upvotes, $100
+92. [Раскрытие имени файла приватных документов](https://hackerone.com/reports/219715) - 5 upvotes, $100
+93. [Монипулирование на страницах пользоватлей значением "Подсказывать стикеры в полях ввода"](https://hackerone.com/reports/300622) - 5 upvotes, $100
+94. [DOM XSS в /activation.php?act=activate_mobile](https://hackerone.com/reports/146939) - 5 upvotes, $0
+95. [Способ узнать имя человека удаленной страницы](https://hackerone.com/reports/193419) - 5 upvotes, $0
+96. [Способ узнать имя человека удаленной страницы 2](https://hackerone.com/reports/193759) - 5 upvotes, $0
+97. [Внедрение произвольного javascript-сценария в функционале просмотра изображений мобильной версии сайта](https://hackerone.com/reports/80298) - 4 upvotes, $500
+98. [[0.vk.com] Reflected XSS на странице подтверждения.](https://hackerone.com/reports/502819) - 4 upvotes, $200
+99. [Просмотр инфы на странице пользователя или группы который тебя добавил в ЧС](https://hackerone.com/reports/505347) - 4 upvotes, $200
+100. [Checking whether user liked the media or not even when you are blocked](https://hackerone.com/reports/111417) - 4 upvotes, $100
+101. [Просмотр привязного к странице email, всего лишь раз скомпрометировав письмо-уведомление](https://hackerone.com/reports/223172) - 4 upvotes, $100
+102. [SSRF через Share-ботов](https://hackerone.com/reports/197365) - 3 upvotes, $300
+103. [Логирование ответов запросов VK API в приложении Клевер](https://hackerone.com/reports/475177) - 3 upvotes, $300
+104. [Отвязываем Twitter от любого профиля вк ! + несколько багов по дизайну](https://hackerone.com/reports/71337) - 3 upvotes, $250
+105. [vk.com/login.php](https://hackerone.com/reports/116764) - 3 upvotes, $200
+106. [Able to intercept app Traffic after choosing up the Secured Connection using SSL (HTTPS)](https://hackerone.com/reports/64731) - 3 upvotes, $100
+107. [Уязвимость в Указание мест на фото + фича + хакинг](https://hackerone.com/reports/66235) - 2 upvotes, $200
+108. [Подмена SSL-сертификата для любой группы в секции Управление группой-\>Работа с API неавторизированным пользователем.](https://hackerone.com/reports/215326) - 2 upvotes, $200
+109. [Способ узнать имя человека и ВУЗ удаленной страницы](https://hackerone.com/reports/93020) - 2 upvotes, $100
+110. [Паблики: Модератор паблика может удалять добавленные редакторами материалы с таймером на публикацию.](https://hackerone.com/reports/148467) - 2 upvotes, $100
+111. [Дайте swag](https://hackerone.com/reports/665688) - 2 upvotes, $0
+112. [Information Disclosure (phpinfo())](https://hackerone.com/reports/531146) - 2 upvotes, $0
+113. [API: Bug in method auth.validatePhone](https://hackerone.com/reports/64963) - 1 upvotes, $500
+114. [XSS at http://vk.com on IE using flash files](https://hackerone.com/reports/66121) - 1 upvotes, $500
+115. [Не достаточная проверка логина скайп](https://hackerone.com/reports/65330) - 0 upvotes, $100
+116. [XSS on added name album on videos.](https://hackerone.com/reports/65324) - 0 upvotes, $0
 
 
 [Back](../README.md)

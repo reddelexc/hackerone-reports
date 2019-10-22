@@ -4,7 +4,7 @@ Top reports from ownCloud program at HackerOne:
 
 1. [Banner Grabbing - Apache Server Version Disclousure](https://hackerone.com/reports/269467) - 17 upvotes, $0
 2. [Arbitrary Code Injection in ownCloud’s Windows Client](https://hackerone.com/reports/155657) - 16 upvotes, $100
-3. [Remote Code Execution through Deserialization Attack in OwnBackup app.](https://hackerone.com/reports/562335) - 14 upvotes, $0
+3. [Remote Code Execution through Deserialization Attack in OwnBackup app.](https://hackerone.com/reports/562335) - 15 upvotes, $0
 4. [Password Complexity Not Enforced On Password Change](https://hackerone.com/reports/276123) - 9 upvotes, $0
 5. [SMB User Authentication Bypass and Persistence](https://hackerone.com/reports/148151) - 7 upvotes, $150
 6. [HTML Injection in Owncloud](https://hackerone.com/reports/215410) - 6 upvotes, $150
@@ -32,33 +32,33 @@ Top reports from ownCloud program at HackerOne:
 28. [[s3.owncloud.com] Web Server HTTP Trace/Track Method Support](https://hackerone.com/reports/90601) - 1 upvotes, $0
 29. [demo.owncloud.org: HTTP compression is enabled potentially leading to BREACH attack](https://hackerone.com/reports/84105) - 1 upvotes, $0
 30. [Config](https://hackerone.com/reports/84797) - 1 upvotes, $0
-31. [apps.owncloud.com: Potential XSS](https://hackerone.com/reports/85577) - 1 upvotes, $0
-32. [owncloud.com: Content Sniffing not disabled](https://hackerone.com/reports/83251) - 1 upvotes, $0
-33. [XXE at host vpn.owncloud.com](https://hackerone.com/reports/105980) - 1 upvotes, $0
-34. [Self-XSS in mails sent by hello@owncloud.com](https://hackerone.com/reports/92111) - 1 upvotes, $0
-35. [owncloud.com: Persistent XSS In Account Profile](https://hackerone.com/reports/116254) - 1 upvotes, $0
-36. [Lack of HSTS on https://apps.owncloud.com](https://hackerone.com/reports/84453) - 1 upvotes, $0
-37. [CSRF in apps.owncloud.com](https://hackerone.com/reports/84395) - 1 upvotes, $0
-38. [owncloud.com: Parameter pollution in social sharing buttons](https://hackerone.com/reports/106024) - 1 upvotes, $0
-39. [doc.owncloud.org has missing PHP handler](https://hackerone.com/reports/121382) - 1 upvotes, $0
-40. [doc.owncloud.org: X-XSS-Protection not enabled](https://hackerone.com/reports/128493) - 1 upvotes, $0
-41. [Cross site scripting in apps.owncloud.com](https://hackerone.com/reports/129551) - 1 upvotes, $0
-42. [doc.owncloud.com: PHP info page disclosure](https://hackerone.com/reports/134216) - 1 upvotes, $0
-43. [password reset email spamming](https://hackerone.com/reports/224095) - 1 upvotes, $0
-44. [This is not the security issue.](https://hackerone.com/reports/257106) - 1 upvotes, $0
-45. [Information Exposure Through Directory Listing](https://hackerone.com/reports/110655) - 0 upvotes, $250
-46. [Full Path Disclosure](https://hackerone.com/reports/87505) - 0 upvotes, $25
-47. [Full Path Disclosure](https://hackerone.com/reports/85201) - 0 upvotes, $25
-48. [daily.owncloud.com: Information disclosure](https://hackerone.com/reports/84085) - 0 upvotes, $0
-49. [gallery_plus: Content Spoofing](https://hackerone.com/reports/87752) - 0 upvotes, $0
-50. [owncloud.com: Allowed an attacker to force a user to change profile details. (XCSRF)](https://hackerone.com/reports/83239) - 0 upvotes, $0
-51. [demo.owncloud.org: Web Server HTTP Trace/Track Method Support Cross-Site Tracing Vulnerability](https://hackerone.com/reports/83837) - 0 upvotes, $0
-52. [apps.owncloud.com: SSL Session cookie without secure flag set](https://hackerone.com/reports/83710) - 0 upvotes, $0
-53. [owncloud.com: CVE-2015-5477 BIND9 TKEY Vulnerability + Exploit (Denial of Service)](https://hackerone.com/reports/89097) - 0 upvotes, $0
-54. [No email verification during registration](https://hackerone.com/reports/90643) - 0 upvotes, $0
-55. [Webview Vulnerablity [OwnCloudAndroid Application]](https://hackerone.com/reports/87835) - 0 upvotes, $0
-56. [apps.owncloud.com: Mixed Active Scripting Issue](https://hackerone.com/reports/85541) - 0 upvotes, $0
-57. [apps.owncloud.com: XSS via referrer](https://hackerone.com/reports/83374) - 0 upvotes, $0
+31. [apps.owncloud.com: XSS via referrer](https://hackerone.com/reports/83374) - 1 upvotes, $0
+32. [apps.owncloud.com: Potential XSS](https://hackerone.com/reports/85577) - 1 upvotes, $0
+33. [owncloud.com: Content Sniffing not disabled](https://hackerone.com/reports/83251) - 1 upvotes, $0
+34. [XXE at host vpn.owncloud.com](https://hackerone.com/reports/105980) - 1 upvotes, $0
+35. [Self-XSS in mails sent by hello@owncloud.com](https://hackerone.com/reports/92111) - 1 upvotes, $0
+36. [owncloud.com: Persistent XSS In Account Profile](https://hackerone.com/reports/116254) - 1 upvotes, $0
+37. [Lack of HSTS on https://apps.owncloud.com](https://hackerone.com/reports/84453) - 1 upvotes, $0
+38. [CSRF in apps.owncloud.com](https://hackerone.com/reports/84395) - 1 upvotes, $0
+39. [owncloud.com: Parameter pollution in social sharing buttons](https://hackerone.com/reports/106024) - 1 upvotes, $0
+40. [doc.owncloud.org has missing PHP handler](https://hackerone.com/reports/121382) - 1 upvotes, $0
+41. [doc.owncloud.org: X-XSS-Protection not enabled](https://hackerone.com/reports/128493) - 1 upvotes, $0
+42. [Cross site scripting in apps.owncloud.com](https://hackerone.com/reports/129551) - 1 upvotes, $0
+43. [doc.owncloud.com: PHP info page disclosure](https://hackerone.com/reports/134216) - 1 upvotes, $0
+44. [password reset email spamming](https://hackerone.com/reports/224095) - 1 upvotes, $0
+45. [This is not the security issue.](https://hackerone.com/reports/257106) - 1 upvotes, $0
+46. [Information Exposure Through Directory Listing](https://hackerone.com/reports/110655) - 0 upvotes, $250
+47. [Full Path Disclosure](https://hackerone.com/reports/87505) - 0 upvotes, $25
+48. [Full Path Disclosure](https://hackerone.com/reports/85201) - 0 upvotes, $25
+49. [daily.owncloud.com: Information disclosure](https://hackerone.com/reports/84085) - 0 upvotes, $0
+50. [gallery_plus: Content Spoofing](https://hackerone.com/reports/87752) - 0 upvotes, $0
+51. [owncloud.com: Allowed an attacker to force a user to change profile details. (XCSRF)](https://hackerone.com/reports/83239) - 0 upvotes, $0
+52. [demo.owncloud.org: Web Server HTTP Trace/Track Method Support Cross-Site Tracing Vulnerability](https://hackerone.com/reports/83837) - 0 upvotes, $0
+53. [apps.owncloud.com: SSL Session cookie without secure flag set](https://hackerone.com/reports/83710) - 0 upvotes, $0
+54. [owncloud.com: CVE-2015-5477 BIND9 TKEY Vulnerability + Exploit (Denial of Service)](https://hackerone.com/reports/89097) - 0 upvotes, $0
+55. [No email verification during registration](https://hackerone.com/reports/90643) - 0 upvotes, $0
+56. [Webview Vulnerablity [OwnCloudAndroid Application]](https://hackerone.com/reports/87835) - 0 upvotes, $0
+57. [apps.owncloud.com: Mixed Active Scripting Issue](https://hackerone.com/reports/85541) - 0 upvotes, $0
 58. [apps.owncloud.com: Stored XSS in profile page](https://hackerone.com/reports/84371) - 0 upvotes, $0
 59. [owncloud.com: Outdated plugins contains public exploits](https://hackerone.com/reports/84581) - 0 upvotes, $0
 60. [owncloud.com: PermError SPF Permanent Error: Too many DNS lookups](https://hackerone.com/reports/83578) - 0 upvotes, $0

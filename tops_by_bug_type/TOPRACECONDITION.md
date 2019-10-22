@@ -7,8 +7,8 @@ Top Race Condition reports from HackerOne:
 3. [Race Conditions in Popular reports feature.](https://hackerone.com/reports/146845) - 95 upvotes, $500
 4. [Race Condition in Flag Submission](https://hackerone.com/reports/454949) - 59 upvotes, $500
 5. [Race condition leads to duplicate payouts](https://hackerone.com/reports/220445) - 53 upvotes, $750
-6. [Race Condition : Exploiting the loyalty claim https://xxx.vendhq.com/loyalty/claim/email/xxxxx url and gain x amount of loyalty bonus/cash](https://hackerone.com/reports/331940) - 49 upvotes, $0
-7. [Race condition in claiming program credentials](https://hackerone.com/reports/488985) - 40 upvotes, $500
+6. [Race Condition : Exploiting the loyalty claim https://xxx.vendhq.com/loyalty/claim/email/xxxxx url and gain x amount of loyalty bonus/cash](https://hackerone.com/reports/331940) - 50 upvotes, $0
+7. [Race condition in claiming program credentials](https://hackerone.com/reports/488985) - 41 upvotes, $500
 8. [Race Condition in Redeeming Coupons](https://hackerone.com/reports/157996) - 28 upvotes, $200
 9. [JSBeautifier BApp: Race condition leads to memory disclosure](https://hackerone.com/reports/187134) - 27 upvotes, $0
 10. [Race condition на market.games.mail.ru](https://hackerone.com/reports/317557) - 26 upvotes, $1000

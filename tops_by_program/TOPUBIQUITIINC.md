@@ -23,11 +23,11 @@ Top reports from Ubiquiti Inc. program at HackerOne:
 19. [UniFi Video Server web interface Configuration Restore CSRF leading to full application compromise](https://hackerone.com/reports/329749) - 20 upvotes, $0
 20. [Stored XSS in community.ubnt.com](https://hackerone.com/reports/179164) - 19 upvotes, $500
 21. [Arbritrary file Upload on AirMax](https://hackerone.com/reports/73480) - 19 upvotes, $0
-22. [Exposed API-key allows to control nightly builds of firmwares (█████████ & ████████)](https://hackerone.com/reports/179986) - 18 upvotes, $0
-23. [Read-Only user can execute arbitraty shell commands on AirOS](https://hackerone.com/reports/119317) - 17 upvotes, $1500
-24. [Shell Injection via Web Management Console (dl-fw.cgi)](https://hackerone.com/reports/121940) - 17 upvotes, $1300
-25. [Wordpress directories/files visible to internet](https://hackerone.com/reports/201984) - 17 upvotes, $600
-26. [JetBrains .idea project directory](https://hackerone.com/reports/80990) - 17 upvotes, $200
+22. [JetBrains .idea project directory](https://hackerone.com/reports/80990) - 18 upvotes, $200
+23. [Exposed API-key allows to control nightly builds of firmwares (█████████ & ████████)](https://hackerone.com/reports/179986) - 18 upvotes, $0
+24. [Read-Only user can execute arbitraty shell commands on AirOS](https://hackerone.com/reports/119317) - 17 upvotes, $1500
+25. [Shell Injection via Web Management Console (dl-fw.cgi)](https://hackerone.com/reports/121940) - 17 upvotes, $1300
+26. [Wordpress directories/files visible to internet](https://hackerone.com/reports/201984) - 17 upvotes, $600
 27. [Stored XSS in dev-ucrm-billing-demo.ubnt.com In Client Custom Attribute](https://hackerone.com/reports/275515) - 16 upvotes, $250
 28. [Privilege Escalation: From operator to ubnt (and root) with non-interactive Session Hijacking](https://hackerone.com/reports/241044) - 16 upvotes, $0
 29. [Reflected XSS](https://hackerone.com/reports/304175) - 16 upvotes, $0

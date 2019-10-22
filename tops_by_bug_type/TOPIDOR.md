@@ -2,7 +2,7 @@
 
 Top IDOR reports from HackerOne:
 
-1. [IDOR to add secondary users in www.paypal.com/businessmanage/users/api/v1/users](https://hackerone.com/reports/415081) - 586 upvotes, $10500
+1. [IDOR to add secondary users in www.paypal.com/businessmanage/users/api/v1/users](https://hackerone.com/reports/415081) - 596 upvotes, $10500
 2. [idor allows you to delete photos and album from a gallery](https://hackerone.com/reports/380410) - 256 upvotes, $1500
 3. [IDOR and statistics leakage in Orders](https://hackerone.com/reports/544329) - 93 upvotes, $289
 4. [IDOR in Facebook Messages webcam photos](https://hackerone.com/reports/390346) - 89 upvotes, $0
@@ -10,7 +10,7 @@ Top IDOR reports from HackerOne:
 6. [IDOR in Report CSV export discloses the IDs of Custom Field Attributes of Programs](https://hackerone.com/reports/510759) - 48 upvotes, $0
 7. [IDOR on HackerOne Feedback Review](https://hackerone.com/reports/262661) - 43 upvotes, $0
 8. [IDOR to delete images from other stores](https://hackerone.com/reports/404797) - 40 upvotes, $600
-9. [IDOR in sending support email upon Verifying user business domain](https://hackerone.com/reports/592090) - 34 upvotes, $150
+9. [IDOR in sending support email upon Verifying user business domain](https://hackerone.com/reports/592090) - 35 upvotes, $150
 10. [[api.pandao.ru] IDOR позволяет изменять адрес любого пользователя](https://hackerone.com/reports/484339) - 28 upvotes, $1000
 11. [IDOR to cancel any table booking and leak sensitive information such as email,mobile number,uuid](https://hackerone.com/reports/265258) - 27 upvotes, $0
 12. [IDOR - disclosure of private videos - /api_android_v3/getUserVideos](https://hackerone.com/reports/186279) - 26 upvotes, $1500
@@ -21,8 +21,8 @@ Top IDOR reports from HackerOne:
 17. [IDOR in editing courses](https://hackerone.com/reports/227522) - 19 upvotes, $300
 18. [IDOR in changing shared file name](https://hackerone.com/reports/547663) - 19 upvotes, $0
 19. [IDOR on Program Visibilty (Revealed / Concealed) against other team members](https://hackerone.com/reports/291721) - 18 upvotes, $0
-20. [Insecure Direct Object Reference (IDOR) Allowing me to claim other user's photos (driving license and selfies) as mine](https://hackerone.com/reports/268167) - 17 upvotes, $0
-21. [IDOR widget.support.my.com](https://hackerone.com/reports/328337) - 16 upvotes, $1000
+20. [IDOR widget.support.my.com](https://hackerone.com/reports/328337) - 17 upvotes, $1000
+21. [Insecure Direct Object Reference (IDOR) Allowing me to claim other user's photos (driving license and selfies) as mine](https://hackerone.com/reports/268167) - 17 upvotes, $0
 22. [IDOR to update folder name of other user](https://hackerone.com/reports/587687) - 16 upvotes, $0
 23. [IDOR in activateFuelCard id allows bulk lookup of driver uuids](https://hackerone.com/reports/254151) - 15 upvotes, $500
 24. [IDOR - Deleting other user's signature via /appsuite/api/snippet?action=update (although an error is thrown)](https://hackerone.com/reports/199321) - 15 upvotes, $300
@@ -36,12 +36,12 @@ Top IDOR reports from HackerOne:
 32. [IDOR bug to See hidden slowvote of any user even when you dont have access right](https://hackerone.com/reports/661978) - 12 upvotes, $300
 33. [IDOR on mcs.mail.ru](https://hackerone.com/reports/312555) - 12 upvotes, $150
 34. [IDOR to view User Order Information](https://hackerone.com/reports/287789) - 12 upvotes, $130
-35. [IDOR - Ability to view unlisted products](https://hackerone.com/reports/172545) - 12 upvotes, $50
-36. ['cnvID' parameter vulnerable to Insecure Direct Object References](https://hackerone.com/reports/265284) - 12 upvotes, $0
-37. [IDOR - Leaking other user's folder names from /appsuite/api/import?action=ICA](https://hackerone.com/reports/199281) - 11 upvotes, $300
-38. [IDOR - Deleting other user's reminders just by id](https://hackerone.com/reports/198969) - 11 upvotes, $300
-39. [IDOR - Folder names disclosure inside a domain, regardless of user](https://hackerone.com/reports/194574) - 11 upvotes, $250
-40. [[www.zomato.com] IDOR - Gold Subscription Details, Able to view "Membership ID" and "Validity Details" of other Users](https://hackerone.com/reports/344145) - 11 upvotes, $100
+35. [[www.zomato.com] IDOR - Gold Subscription Details, Able to view "Membership ID" and "Validity Details" of other Users](https://hackerone.com/reports/344145) - 12 upvotes, $100
+36. [IDOR - Ability to view unlisted products](https://hackerone.com/reports/172545) - 12 upvotes, $50
+37. ['cnvID' parameter vulnerable to Insecure Direct Object References](https://hackerone.com/reports/265284) - 12 upvotes, $0
+38. [IDOR - Leaking other user's folder names from /appsuite/api/import?action=ICA](https://hackerone.com/reports/199281) - 11 upvotes, $300
+39. [IDOR - Deleting other user's reminders just by id](https://hackerone.com/reports/198969) - 11 upvotes, $300
+40. [IDOR - Folder names disclosure inside a domain, regardless of user](https://hackerone.com/reports/194574) - 11 upvotes, $250
 41. [IDOR in merchant.rbmonkey.com allows deleting eShops of another user](https://hackerone.com/reports/281296) - 11 upvotes, $0
 42. [IDOR - setAttribute action of user object in API](https://hackerone.com/reports/285432) - 10 upvotes, $400
 43. [IDOR allow to extract all registered email](https://hackerone.com/reports/302485) - 10 upvotes, $300

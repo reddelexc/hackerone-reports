@@ -2,9 +2,9 @@
 
 Top reports from Coinbase program at HackerOne:
 
-1. [Ethereum account balance manipulation](https://hackerone.com/reports/300748) - 228 upvotes, $10000
+1. [Ethereum account balance manipulation](https://hackerone.com/reports/300748) - 229 upvotes, $10000
 2. [ETH contract handling errors](https://hackerone.com/reports/328526) - 188 upvotes, $21000
-3. [Double Payout via PayPal](https://hackerone.com/reports/307239) - 174 upvotes, $10000
+3. [Double Payout via PayPal](https://hackerone.com/reports/307239) - 179 upvotes, $10000
 4. [Authentication Issue](https://hackerone.com/reports/176979) - 21 upvotes, $200
 5. [[buy.coinbase.com]Content Injection](https://hackerone.com/reports/218680) - 17 upvotes, $100
 6. [Prepopulation of email address and name leaks information provided to other merchants](https://hackerone.com/reports/316290) - 14 upvotes, $250
@@ -16,9 +16,9 @@ Top reports from Coinbase program at HackerOne:
 12. [Captcha Bypass in Coinbase SignUp Form](https://hackerone.com/reports/246801) - 10 upvotes, $100
 13. [Bypassing 2FA for BTC transfers](https://hackerone.com/reports/10554) - 9 upvotes, $1000
 14. [Session Issue Maybe Can lead to huge loss [CRITICAL]](https://hackerone.com/reports/112496) - 9 upvotes, $1000
-15. [Stored-XSS in https://www.coinbase.com/](https://hackerone.com/reports/100829) - 8 upvotes, $5000
-16. [Coinbase Android Application - Bitcoin Wallet Leaks OAuth Response Code](https://hackerone.com/reports/5314) - 8 upvotes, $1000
-17. [Email leak in transcations in Android app](https://hackerone.com/reports/126376) - 8 upvotes, $500
+15. [Email leak in transcations in Android app](https://hackerone.com/reports/126376) - 9 upvotes, $500
+16. [Stored-XSS in https://www.coinbase.com/](https://hackerone.com/reports/100829) - 8 upvotes, $5000
+17. [Coinbase Android Application - Bitcoin Wallet Leaks OAuth Response Code](https://hackerone.com/reports/5314) - 8 upvotes, $1000
 18. [Information disclosure same issue #176002](https://hackerone.com/reports/248599) - 8 upvotes, $100
 19. [Blacklist bypass on Callback URLs](https://hackerone.com/reports/53004) - 7 upvotes, $100
 20. [Information disclosure of user by email using buy widget](https://hackerone.com/reports/176002) - 6 upvotes, $100

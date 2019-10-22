@@ -56,19 +56,19 @@ Top reports from Paragon Initiative Enterprises program at HackerOne:
 52. [Missing SPF for paragonie.com](https://hackerone.com/reports/115315) - 1 upvotes, $0
 53. [SSL certificate public key less than 2048 bit](https://hackerone.com/reports/115271) - 1 upvotes, $0
 54. [Email Authentication Bypass](https://hackerone.com/reports/135283) - 1 upvotes, $0
-55. [Email Authentication bypass Vulnerability](https://hackerone.com/reports/115245) - 1 upvotes, $0
-56. [Cross-domain AJAX request](https://hackerone.com/reports/113339) - 1 upvotes, $0
-57. [Email spoofing](https://hackerone.com/reports/115232) - 1 upvotes, $0
-58. [Missing SPF records for paragonie.com](https://hackerone.com/reports/115250) - 1 upvotes, $0
-59. [file full path discloser.](https://hackerone.com/reports/116057) - 1 upvotes, $0
-60. [Spf](https://hackerone.com/reports/116927) - 1 upvotes, $0
-61. [Missing SPF for paragonie.com](https://hackerone.com/reports/115390) - 1 upvotes, $0
-62. [Blind SQL INJ](https://hackerone.com/reports/115304) - 1 upvotes, $0
-63. [Airship doesn't reject weak passwords](https://hackerone.com/reports/148903) - 1 upvotes, $0
-64. [Using plain git protocol (vulnerable to MITM)](https://hackerone.com/reports/181214) - 1 upvotes, $0
-65. [There is an vulnerability in https://bridge.cspr.ng where an attacker can users directory](https://hackerone.com/reports/226505) - 1 upvotes, $0
-66. [Missing SPF for https://paragonie.com/](https://hackerone.com/reports/115214) - 0 upvotes, $0
-67. [Full path disclosure vulnerability on paragonie.com](https://hackerone.com/reports/145260) - 0 upvotes, $0
+55. [Full path disclosure vulnerability on paragonie.com](https://hackerone.com/reports/145260) - 1 upvotes, $0
+56. [Email Authentication bypass Vulnerability](https://hackerone.com/reports/115245) - 1 upvotes, $0
+57. [Cross-domain AJAX request](https://hackerone.com/reports/113339) - 1 upvotes, $0
+58. [Email spoofing](https://hackerone.com/reports/115232) - 1 upvotes, $0
+59. [Missing SPF records for paragonie.com](https://hackerone.com/reports/115250) - 1 upvotes, $0
+60. [file full path discloser.](https://hackerone.com/reports/116057) - 1 upvotes, $0
+61. [Spf](https://hackerone.com/reports/116927) - 1 upvotes, $0
+62. [Missing SPF for paragonie.com](https://hackerone.com/reports/115390) - 1 upvotes, $0
+63. [Blind SQL INJ](https://hackerone.com/reports/115304) - 1 upvotes, $0
+64. [Airship doesn't reject weak passwords](https://hackerone.com/reports/148903) - 1 upvotes, $0
+65. [Using plain git protocol (vulnerable to MITM)](https://hackerone.com/reports/181214) - 1 upvotes, $0
+66. [There is an vulnerability in https://bridge.cspr.ng where an attacker can users directory](https://hackerone.com/reports/226505) - 1 upvotes, $0
+67. [Missing SPF for https://paragonie.com/](https://hackerone.com/reports/115214) - 0 upvotes, $0
 68. [Missing GIT tag/commit verification in Docker](https://hackerone.com/reports/181212) - 0 upvotes, $0
 69. [Not using Binary::safe* functions for substr/strlen function](https://hackerone.com/reports/181315) - 0 upvotes, $0
 70. [Non-secure requests are not automatically upgraded to HTTPS](https://hackerone.com/reports/241950) - 0 upvotes, $0
