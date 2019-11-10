@@ -23,7 +23,7 @@ Top Race Condition reports from HackerOne:
 19. [race condition in adding team members](https://hackerone.com/reports/176127) - 11 upvotes, $500
 20. [Race Condition Vulnerability On Pornhubpremium.com](https://hackerone.com/reports/183624) - 9 upvotes, $520
 21. [Race Condition in Definition Votes](https://hackerone.com/reports/152717) - 9 upvotes, $0
-22. [Race Condition in Article "Helpful" Indicator](https://hackerone.com/reports/109485) - 7 upvotes, $0
+22. [Race Condition in Article "Helpful" Indicator](https://hackerone.com/reports/109485) - 7 upvotes, $50
 23. [Bypass subdomain limits using race condition](https://hackerone.com/reports/395351) - 5 upvotes, $100
 24. [Race condition allowing user to review app multiple times](https://hackerone.com/reports/106360) - 3 upvotes, $100
 25. [Race condition when redeeming coupon codes](https://hackerone.com/reports/59179) - 2 upvotes, $216

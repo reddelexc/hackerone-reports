@@ -2,14 +2,14 @@
 
 Top OAuth reports from HackerOne:
 
-1. [Chained Bugs to Leak Victim's Uber's FB Oauth Token](https://hackerone.com/reports/202781) - 322 upvotes, $7500
+1. [Chained Bugs to Leak Victim's Uber's FB Oauth Token](https://hackerone.com/reports/202781) - 323 upvotes, $7500
 2. [Insufficient OAuth callback validation which leads to Periscope account takeover](https://hackerone.com/reports/110293) - 244 upvotes, $5040
 3. [Unauthenticated blind SSRF in OAuth Jira authorization controller](https://hackerone.com/reports/398799) - 208 upvotes, $4000
 4. [Stealing Facebook OAuth Code Through Screenshot viewer](https://hackerone.com/reports/488269) - 176 upvotes, $750
 5. [Incorrect details on OAuth permissions screen allows DMs to be read without permission](https://hackerone.com/reports/434763) - 70 upvotes, $2940
 6. [Facebook OAuth Code Theft through referer leakage on support.rockstargames.com](https://hackerone.com/reports/482743) - 60 upvotes, $750
 7. [CSRF on Periscope Web OAuth authorization endpoint](https://hackerone.com/reports/215381) - 57 upvotes, $2520
-8. [Stealing Users OAuth Tokens through redirect_uri parameter](https://hackerone.com/reports/665651) - 40 upvotes, $750
+8. [Stealing Users OAuth Tokens through redirect_uri parameter](https://hackerone.com/reports/665651) - 41 upvotes, $750
 9. [[auth2.zomato.com] Reflected XSS at `oauth2/fallbacks/error` | ORY Hydra an OAuth 2.0 and OpenID Connect Provider](https://hackerone.com/reports/456333) - 38 upvotes, $250
 10. [Oauth flow on the comments widget login can lead to the access code leakage](https://hackerone.com/reports/292783) - 38 upvotes, $0
 11. [Smuggle SocialClub's Facebook OAuth Code via Referer Leakage](https://hackerone.com/reports/342709) - 34 upvotes, $750
@@ -21,7 +21,7 @@ Top OAuth reports from HackerOne:
 17. [[Critical] - Steal OAuth Tokens](https://hackerone.com/reports/131202) - 18 upvotes, $840
 18. [XSS in OAuth Redirect Url](https://hackerone.com/reports/163707) - 18 upvotes, $0
 19. [Account takeover via Pornhub Oauth](https://hackerone.com/reports/192648) - 17 upvotes, $1000
-20. [[qiwi.com] Oauth захват аккаунта](https://hackerone.com/reports/159507) - 17 upvotes, $0
+20. [[qiwi.com] Oauth захват аккаунта](https://hackerone.com/reports/159507) - 17 upvotes, $950
 21. [XSS on OAuth authorize/authenticate endpoint](https://hackerone.com/reports/87040) - 13 upvotes, $2520
 22. [SocialClub's Facebook OAuth Theft through Warehouse XSS.](https://hackerone.com/reports/316948) - 13 upvotes, $750
 23. [configure a redirect URI for Facebook OAuth](https://hackerone.com/reports/140432) - 13 upvotes, $10
@@ -31,8 +31,8 @@ Top OAuth reports from HackerOne:
 27. [Open redirection in OAuth](https://hackerone.com/reports/405697) - 8 upvotes, $0
 28. [OAuth Stealing Attack (New)](https://hackerone.com/reports/3930) - 4 upvotes, $400
 29. [Wordpress.com REST API oauth bypass via Cross Site Flashing](https://hackerone.com/reports/176308) - 4 upvotes, $150
-30. [XSS in uber oauth](https://hackerone.com/reports/131052) - 4 upvotes, $0
-31. [Registration bypass using OAuth logical bug](https://hackerone.com/reports/64946) - 4 upvotes, $0
+30. [Registration bypass using OAuth logical bug](https://hackerone.com/reports/64946) - 4 upvotes, $40
+31. [XSS in uber oauth](https://hackerone.com/reports/131052) - 4 upvotes, $0
 32. [OAuth authorization page vulnerable to clickjacking](https://hackerone.com/reports/65825) - 3 upvotes, $5000
 33. [Open redirection in OAuth](https://hackerone.com/reports/55525) - 3 upvotes, $500
 34. [OAuth access_token stealing in Phabricator](https://hackerone.com/reports/3596) - 3 upvotes, $450

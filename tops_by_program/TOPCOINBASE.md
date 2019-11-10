@@ -4,7 +4,7 @@ Top reports from Coinbase program at HackerOne:
 
 1. [Ethereum account balance manipulation](https://hackerone.com/reports/300748) - 229 upvotes, $10000
 2. [ETH contract handling errors](https://hackerone.com/reports/328526) - 188 upvotes, $21000
-3. [Double Payout via PayPal](https://hackerone.com/reports/307239) - 179 upvotes, $10000
+3. [Double Payout via PayPal](https://hackerone.com/reports/307239) - 180 upvotes, $10000
 4. [Authentication Issue](https://hackerone.com/reports/176979) - 21 upvotes, $200
 5. [[buy.coinbase.com]Content Injection](https://hackerone.com/reports/218680) - 17 upvotes, $100
 6. [Prepopulation of email address and name leaks information provided to other merchants](https://hackerone.com/reports/316290) - 14 upvotes, $250
@@ -43,42 +43,45 @@ Top reports from Coinbase program at HackerOne:
 39. [An adversary can overwhelm the resources by automating Forgot password/Sign Up requests](https://hackerone.com/reports/119605) - 2 upvotes, $0
 40. [Multiple Issues related to registering applications](https://hackerone.com/reports/5933) - 1 upvotes, $1000
 41. [Invoice Details activate JS that filled in](https://hackerone.com/reports/21034) - 1 upvotes, $1000
-42. [CSRF on "Set as primary" option on the accounts page](https://hackerone.com/reports/10563) - 1 upvotes, $100
-43. [Window.opener bug at www.coinbase.com](https://hackerone.com/reports/181088) - 1 upvotes, $100
-44. [User Enumeration, Information Disclosure and Lack of Rate Limitation on API](https://hackerone.com/reports/5200) - 1 upvotes, $0
-45. [Improper Validation of the Referrer header leading to Open URL Redirection](https://hackerone.com/reports/5199) - 1 upvotes, $0
-46. [IFRAME loaded from External Domains](https://hackerone.com/reports/5205) - 1 upvotes, $0
-47. [Cookie not secure](https://hackerone.com/reports/140742) - 1 upvotes, $0
-48. [Transaction Pending Via Ip Change](https://hackerone.com/reports/143541) - 1 upvotes, $0
-49. [X-Frame-Options](https://hackerone.com/reports/237071) - 1 upvotes, $0
-50. [New Device Confirmation Bug](https://hackerone.com/reports/266288) - 1 upvotes, $0
-51. [User provided values passed to PHP unset() function](https://hackerone.com/reports/292500) - 1 upvotes, $0
-52. [Sandboxed iframes don't show confirmation screen](https://hackerone.com/reports/54733) - 0 upvotes, $1000
-53. [Misconfiguration in 2 factor allows sensitive data expose](https://hackerone.com/reports/119129) - 0 upvotes, $500
-54. [Direct URL access to completed reports](https://hackerone.com/reports/109815) - 0 upvotes, $200
-55. [2 factor authentication design flaw](https://hackerone.com/reports/7369) - 0 upvotes, $100
-56. [CSRF in function "Set as primary" on accounts page](https://hackerone.com/reports/10829) - 0 upvotes, $100
-57. [open authentication bug](https://hackerone.com/reports/48065) - 0 upvotes, $100
-58. [Credit Card Validation Issue](https://hackerone.com/reports/29234) - 0 upvotes, $100
-59. [New Device Confirmation, token is valid until not used.](https://hackerone.com/reports/36594) - 0 upvotes, $100
-60. [SPF records not found](https://hackerone.com/reports/92740) - 0 upvotes, $100
-61. [OAUTH pemission set as true= lead to authorize malicious application](https://hackerone.com/reports/87561) - 0 upvotes, $100
-62. [User email enumuration using Gmail](https://hackerone.com/reports/90308) - 0 upvotes, $100
-63. [Cookie missing the HttpOnly flag](https://hackerone.com/reports/5204) - 0 upvotes, $0
-64. [2FA settings allowed to be changed with no delay/freeze on funds](https://hackerone.com/reports/16696) - 0 upvotes, $0
-65. [Simultaneous Session Logon : Improper Session Management](https://hackerone.com/reports/11722) - 0 upvotes, $0
-66. [Two-factor authentication (via SMS)](https://hackerone.com/reports/66223) - 0 upvotes, $0
-67. [iframes considered harmful](https://hackerone.com/reports/55827) - 0 upvotes, $0
-68. [XXE in OAuth2 Applications gallery profile App logo](https://hackerone.com/reports/104620) - 0 upvotes, $0
-69. [Potential for Double Spend via Sign Message Utility](https://hackerone.com/reports/106315) - 0 upvotes, $0
-70. [Runtime manipulation iOS app breaking the PIN](https://hackerone.com/reports/80512) - 0 upvotes, $0
-71. [Device confirmation Flaw](https://hackerone.com/reports/254869) - 0 upvotes, $0
-72. [CSRF bug on password change](https://hackerone.com/reports/230436) - 0 upvotes, $0
-73. [Information disclosue in Android Application](https://hackerone.com/reports/201855) - 0 upvotes, $0
-74. [Csrf bug on signup session](https://hackerone.com/reports/230428) - 0 upvotes, $0
-75. [Information disclosure in coinbase android app](https://hackerone.com/reports/192197) - 0 upvotes, $0
-76. [Inaccurate Payment receipt](https://hackerone.com/reports/121417) - 0 upvotes, $0
-77. [User provided values trusted in sensitive actions](https://hackerone.com/reports/327867) - 0 upvotes, $0
+42. [Sending payments via QR code does not require confirmation](https://hackerone.com/reports/126784) - 1 upvotes, $1000
+43. [CSRF on "Set as primary" option on the accounts page](https://hackerone.com/reports/10563) - 1 upvotes, $100
+44. [Window.opener bug at www.coinbase.com](https://hackerone.com/reports/181088) - 1 upvotes, $100
+45. [User Enumeration, Information Disclosure and Lack of Rate Limitation on API](https://hackerone.com/reports/5200) - 1 upvotes, $0
+46. [Improper Validation of the Referrer header leading to Open URL Redirection](https://hackerone.com/reports/5199) - 1 upvotes, $0
+47. [IFRAME loaded from External Domains](https://hackerone.com/reports/5205) - 1 upvotes, $0
+48. [Cookie not secure](https://hackerone.com/reports/140742) - 1 upvotes, $0
+49. [Transaction Pending Via](https://hackerone.com/reports/143541) - 1 upvotes, $0
+50. [X-Frame-Options](https://hackerone.com/reports/237071) - 1 upvotes, $0
+51. [New Device Confirmation Bug](https://hackerone.com/reports/266288) - 1 upvotes, $0
+52. [User provided values passed to PHP unset() function](https://hackerone.com/reports/292500) - 1 upvotes, $0
+53. [Big Bug with Vault which i have already reported: Case #606962](https://hackerone.com/reports/65084) - 0 upvotes, $5000
+54. [Sandboxed iframes don't show confirmation screen](https://hackerone.com/reports/54733) - 0 upvotes, $1000
+55. [Misconfiguration in 2 factor allows sensitive data expose](https://hackerone.com/reports/119129) - 0 upvotes, $500
+56. [Direct URL access to completed reports](https://hackerone.com/reports/109815) - 0 upvotes, $200
+57. [2 factor authentication design flaw](https://hackerone.com/reports/7369) - 0 upvotes, $100
+58. [CSRF in function "Set as primary" on](https://hackerone.com/reports/10829) - 0 upvotes, $100
+59. [open authentication bug](https://hackerone.com/reports/48065) - 0 upvotes, $100
+60. [Credit Card Validation Issue](https://hackerone.com/reports/29234) - 0 upvotes, $100
+61. [New Device Confirmation, token is valid until not used.](https://hackerone.com/reports/36594) - 0 upvotes, $100
+62. [SPF records not found](https://hackerone.com/reports/92740) - 0 upvotes, $100
+63. [OAUTH pemission set as true= lead to authorize malicious application](https://hackerone.com/reports/87561) - 0 upvotes, $100
+64. [User email enumuration using Gmail](https://hackerone.com/reports/90308) - 0 upvotes, $100
+65. [Cookie missing the HttpOnly flag](https://hackerone.com/reports/5204) - 0 upvotes, $0
+66. [2FA settings allowed to be changed with no delay/freeze on funds](https://hackerone.com/reports/16696) - 0 upvotes, $0
+67. [Simultaneous Session Logon : Improper Session Management](https://hackerone.com/reports/11722) - 0 upvotes, $0
+68. [Two-factor authentication (via SMS)](https://hackerone.com/reports/66223) - 0 upvotes, $0
+69. [iframes considered harmful](https://hackerone.com/reports/55827) - 0 upvotes, $0
+70. [XXE in OAuth2 Applications gallery profile App logo](https://hackerone.com/reports/104620) - 0 upvotes, $0
+71. [Potential for Double Spend via Sign Message Utility](https://hackerone.com/reports/106315) - 0 upvotes, $0
+72. [Balance Manipulation - BUG](https://hackerone.com/reports/94925) - 0 upvotes, $0
+73. [Runtime manipulation iOS app breaking the PIN](https://hackerone.com/reports/80512) - 0 upvotes, $0
+74. [Device confirmation Flaw](https://hackerone.com/reports/254869) - 0 upvotes, $0
+75. [CSRF bug on password change](https://hackerone.com/reports/230436) - 0 upvotes, $0
+76. [Information disclosue in Android Application](https://hackerone.com/reports/201855) - 0 upvotes, $0
+77. [Csrf bug on signup session](https://hackerone.com/reports/230428) - 0 upvotes, $0
+78. [Information disclosure in coinbase android app](https://hackerone.com/reports/192197) - 0 upvotes, $0
+79. [Inaccurate Payment receipt](https://hackerone.com/reports/121417) - 0 upvotes, $0
+80. [User provided values trusted in sensitive actions](https://hackerone.com/reports/327867) - 0 upvotes, $0
 
 
 [Back](../README.md)

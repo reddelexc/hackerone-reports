@@ -2,18 +2,18 @@
 
 Top reports from Paragon Initiative Enterprises program at HackerOne:
 
-1. [BAD Code !](https://hackerone.com/reports/180074) - 446 upvotes, $0
-2. [DMARC Not found for paragonie.com URGENT](https://hackerone.com/reports/179828) - 128 upvotes, $0
+1. [BAD Code !](https://hackerone.com/reports/180074) - 445 upvotes, $0
+2. [DMARC](https://hackerone.com/reports/179828) - 128 upvotes, $0
 3. [Subdomain Takeover](https://hackerone.com/reports/180393) - 47 upvotes, $0
 4. [I am because bug](https://hackerone.com/reports/226094) - 37 upvotes, $0
 5. [ssl info shown](https://hackerone.com/reports/149369) - 31 upvotes, $0
-6. [Stored Cross-Site-Scripting in CMS Airship's authors profiles](https://hackerone.com/reports/148741) - 23 upvotes, $50
+6. [Stored Cross-Site-Scripting in CMS Airship's](https://hackerone.com/reports/148741) - 23 upvotes, $50
 7. [[Critical] billion dollars issue](https://hackerone.com/reports/244836) - 23 upvotes, $0
 8. [Content-type sniffing leads to stored XSS in CMS Airship on Internet Explorer](https://hackerone.com/reports/151231) - 15 upvotes, $0
 9. [Site support SNI But Browser can't](https://hackerone.com/reports/149442) - 14 upvotes, $0
 10. [Paragonie Airship Admin CSRF on Extensions Pages](https://hackerone.com/reports/243094) - 11 upvotes, $100
-11. [Stored XSS using SVG](https://hackerone.com/reports/148853) - 10 upvotes, $50
-12. [Improper access control lead To delete anyone comment](https://hackerone.com/reports/273805) - 8 upvotes, $100
+11. [Stored XSS using](https://hackerone.com/reports/148853) - 10 upvotes, $50
+12. [Improper access control lead](https://hackerone.com/reports/273805) - 8 upvotes, $100
 13. [Directory Disclose,Email Disclose Zendmail vulnerability](https://hackerone.com/reports/228112) - 8 upvotes, $50
 14. [[Airship CMS] Local File Inclusion - RST Parser](https://hackerone.com/reports/179034) - 6 upvotes, $0
 15. [Incorrect detection of onion URLs](https://hackerone.com/reports/181210) - 5 upvotes, $50
@@ -26,10 +26,10 @@ Top reports from Paragon Initiative Enterprises program at HackerOne:
 22. [Airship: Persistent XSS via Comment](https://hackerone.com/reports/301973) - 4 upvotes, $0
 23. [Open-redirect on paragonie.com](https://hackerone.com/reports/113112) - 3 upvotes, $50
 24. [CSRF token does not valided during blog comment](https://hackerone.com/reports/273998) - 3 upvotes, $25
-25. [CSRF AT SUBSCRIBE TO LIST](https://hackerone.com/reports/115323) - 3 upvotes, $0
-26. [User enumeration via Password reset page [Minor]](https://hackerone.com/reports/148911) - 3 upvotes, $0
+25. [CSRF](https://hackerone.com/reports/115323) - 3 upvotes, $0
+26. [User enumeration](https://hackerone.com/reports/148911) - 3 upvotes, $0
 27. [Email Spoofing With Your Website's Email](https://hackerone.com/reports/163156) - 3 upvotes, $0
-28. [Broken Authentication & Session Management - Failure to Invalidate Session on all other browsers at Password change](https://hackerone.com/reports/226712) - 3 upvotes, $0
+28. [Broken Authentication &amp; Session Management - Failure to Invalidate Session on all other browsers at Password change](https://hackerone.com/reports/226712) - 3 upvotes, $0
 29. [SMTP server allows anonymous relay from internal addresses to internal addresses](https://hackerone.com/reports/144385) - 3 upvotes, $0
 30. [Github repo's wiki publicly editable](https://hackerone.com/reports/461429) - 3 upvotes, $0
 31. [Missing rel=noopener noreferrer in target=_blank links (Phishing attack)](https://hackerone.com/reports/181225) - 2 upvotes, $50
@@ -44,7 +44,7 @@ Top reports from Paragon Initiative Enterprises program at HackerOne:
 40. [Full Path Disclosure by removing CSRF token](https://hackerone.com/reports/150018) - 2 upvotes, $0
 41. [directory information disclose](https://hackerone.com/reports/226212) - 2 upvotes, $0
 42. [Full Path Disclousure on https://airship.paragonie.com](https://hackerone.com/reports/226514) - 2 upvotes, $0
-43. [no session logout after changing the password in https://bridge.cspr.ng/](https://hackerone.com/reports/226518) - 2 upvotes, $0
+43. [no session logout after changing the password](https://hackerone.com/reports/226518) - 2 upvotes, $0
 44. [Improper validation of Email](https://hackerone.com/reports/226334) - 2 upvotes, $0
 45. [Full directory path listing](https://hackerone.com/reports/230098) - 2 upvotes, $0
 46. [Your Application Have Cacheable SSL Pages](https://hackerone.com/reports/115296) - 2 upvotes, $0
@@ -66,15 +66,16 @@ Top reports from Paragon Initiative Enterprises program at HackerOne:
 62. [Missing SPF for paragonie.com](https://hackerone.com/reports/115390) - 1 upvotes, $0
 63. [Blind SQL INJ](https://hackerone.com/reports/115304) - 1 upvotes, $0
 64. [Airship doesn't reject weak passwords](https://hackerone.com/reports/148903) - 1 upvotes, $0
-65. [Using plain git protocol (vulnerable to MITM)](https://hackerone.com/reports/181214) - 1 upvotes, $0
-66. [There is an vulnerability in https://bridge.cspr.ng where an attacker can users directory](https://hackerone.com/reports/226505) - 1 upvotes, $0
-67. [Missing SPF for https://paragonie.com/](https://hackerone.com/reports/115214) - 0 upvotes, $0
-68. [Missing GIT tag/commit verification in Docker](https://hackerone.com/reports/181212) - 0 upvotes, $0
-69. [Not using Binary::safe* functions for substr/strlen function](https://hackerone.com/reports/181315) - 0 upvotes, $0
-70. [Non-secure requests are not automatically upgraded to HTTPS](https://hackerone.com/reports/241950) - 0 upvotes, $0
-71. [Full Path Disclosure in airship.paragonie.com '/cabins/'](https://hackerone.com/reports/226343) - 0 upvotes, $0
-72. [Full Path Disclosure in password lock](https://hackerone.com/reports/115422) - 0 upvotes, $0
-73. [Full Path Disclosure In EasyDB](https://hackerone.com/reports/119494) - 0 upvotes, $0
+65. [Not clearing hex-decoded variable after usage in Authentication](https://hackerone.com/reports/168293) - 1 upvotes, $0
+66. [Using plain git protocol (vulnerable to MITM)](https://hackerone.com/reports/181214) - 1 upvotes, $0
+67. [There is an vulnerability in https://bridge.cspr.ng where an attacker can users directory](https://hackerone.com/reports/226505) - 1 upvotes, $0
+68. [Missing SPF for https://paragonie.com/](https://hackerone.com/reports/115214) - 0 upvotes, $0
+69. [Missing GIT tag/commit verification in Docker](https://hackerone.com/reports/181212) - 0 upvotes, $0
+70. [Not using Binary::safe* functions for substr/strlen function](https://hackerone.com/reports/181315) - 0 upvotes, $0
+71. [Non-secure requests are not automatically upgraded to HTTPS](https://hackerone.com/reports/241950) - 0 upvotes, $0
+72. [Full Path Disclosure in airship.paragonie.com '/cabins/'](https://hackerone.com/reports/226343) - 0 upvotes, $0
+73. [Full Path Disclosure in password lock](https://hackerone.com/reports/115422) - 0 upvotes, $0
+74. [Full Path Disclosure In EasyDB](https://hackerone.com/reports/119494) - 0 upvotes, $0
 
 
 [Back](../README.md)
