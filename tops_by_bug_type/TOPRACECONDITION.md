@@ -11,9 +11,9 @@ Top Race Condition reports from HackerOne:
 7. [Race condition in claiming program credentials](https://hackerone.com/reports/488985) - 41 upvotes, $500
 8. [Race Condition in Redeeming Coupons](https://hackerone.com/reports/157996) - 28 upvotes, $200
 9. [JSBeautifier BApp: Race condition leads to memory disclosure](https://hackerone.com/reports/187134) - 27 upvotes, $0
-10. [Race condition на market.games.mail.ru](https://hackerone.com/reports/317557) - 26 upvotes, $1000
-11. [Race conditions can be used to bypass invitation limit](https://hackerone.com/reports/115007) - 26 upvotes, $350
-12. [Race Conditions in OAuth 2 API implementations](https://hackerone.com/reports/55140) - 25 upvotes, $2500
+10. [Race Conditions in OAuth 2 API implementations](https://hackerone.com/reports/55140) - 26 upvotes, $2500
+11. [Race condition на market.games.mail.ru](https://hackerone.com/reports/317557) - 26 upvotes, $1000
+12. [Race conditions can be used to bypass invitation limit](https://hackerone.com/reports/115007) - 26 upvotes, $350
 13. [Race condition at create new Location](https://hackerone.com/reports/413759) - 21 upvotes, $500
 14. [Race Condition in account survey](https://hackerone.com/reports/165570) - 19 upvotes, $150
 15. [Race condition in GitLab import, giving access to other people their imports due to filename collision](https://hackerone.com/reports/214028) - 17 upvotes, $0
@@ -24,11 +24,13 @@ Top Race Condition reports from HackerOne:
 20. [Race Condition Vulnerability On Pornhubpremium.com](https://hackerone.com/reports/183624) - 9 upvotes, $520
 21. [Race Condition in Definition Votes](https://hackerone.com/reports/152717) - 9 upvotes, $0
 22. [Race Condition in Article "Helpful" Indicator](https://hackerone.com/reports/109485) - 7 upvotes, $50
-23. [Bypass subdomain limits using race condition](https://hackerone.com/reports/395351) - 5 upvotes, $100
-24. [Race condition allowing user to review app multiple times](https://hackerone.com/reports/106360) - 3 upvotes, $100
-25. [Race condition when redeeming coupon codes](https://hackerone.com/reports/59179) - 2 upvotes, $216
-26. [Race Conditions Exist When Accepting Invitations](https://hackerone.com/reports/119354) - 2 upvotes, $0
-27. [Race condition in workers may cause an exploitable double free by abusing bytearray.compress()](https://hackerone.com/reports/47227) - 0 upvotes, $10000
+23. [Race condition in Flash workers may cause an exploitabl​e double free](https://hackerone.com/reports/37240) - 5 upvotes, $10000
+24. [Bypass subdomain limits using race condition](https://hackerone.com/reports/395351) - 5 upvotes, $100
+25. [Race condition allowing user to review app multiple times](https://hackerone.com/reports/106360) - 3 upvotes, $100
+26. [Race condition when redeeming coupon codes](https://hackerone.com/reports/59179) - 2 upvotes, $216
+27. [Race Conditions Exist When Accepting Invitations](https://hackerone.com/reports/119354) - 2 upvotes, $0
+28. [Adobe Flash Player Race Condition Vulnerability](https://hackerone.com/reports/119657) - 1 upvotes, $2000
+29. [Race condition in workers may cause an exploitable double free by abusing bytearray.compress()](https://hackerone.com/reports/47227) - 0 upvotes, $10000
 
 
 [Back](../README.md)

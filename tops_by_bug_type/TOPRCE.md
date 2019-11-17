@@ -2,15 +2,15 @@
 
 Top RCE reports from HackerOne:
 
-1. [RCE on Steam Client via buffer overflow in Server Info](https://hackerone.com/reports/470520) - 1199 upvotes, $18000
-2. [Potential pre-auth RCE on Twitter VPN](https://hackerone.com/reports/591295) - 982 upvotes, $20160
-3. [Remote Code Execution on www.semrush.com/my_reports on Logo upload](https://hackerone.com/reports/403417) - 694 upvotes, $10000
-4. [RCE and Complete Server Takeover of http://www.█████.starbucks.com.sg/](https://hackerone.com/reports/502758) - 446 upvotes, $4000
-5. [Panorama UI XSS leads to Remote Code Execution via Kick/Disconnect Message](https://hackerone.com/reports/631956) - 348 upvotes, $9000
-6. [[ RCE ] Through stopping the redirect in /admin/* the attacker able to bypass Authentication And Upload Malicious File](https://hackerone.com/reports/683957) - 266 upvotes, $4000
+1. [RCE on Steam Client via buffer overflow in Server Info](https://hackerone.com/reports/470520) - 1200 upvotes, $18000
+2. [Potential pre-auth RCE on Twitter VPN](https://hackerone.com/reports/591295) - 986 upvotes, $20160
+3. [Remote Code Execution on www.semrush.com/my_reports on Logo upload](https://hackerone.com/reports/403417) - 695 upvotes, $10000
+4. [RCE and Complete Server Takeover of http://www.█████.starbucks.com.sg/](https://hackerone.com/reports/502758) - 447 upvotes, $4000
+5. [Panorama UI XSS leads to Remote Code Execution via Kick/Disconnect Message](https://hackerone.com/reports/631956) - 357 upvotes, $9000
+6. [[ RCE ] Through stopping the redirect in /admin/* the attacker able to bypass Authentication And Upload Malicious File](https://hackerone.com/reports/683957) - 280 upvotes, $4000
 7. [Unchecked weapon id in WeaponList message parser on client leads to RCE](https://hackerone.com/reports/513154) - 215 upvotes, $3000
-8. [RCE by command line argument injection to `gm convert` in `/edit/process?a=crop`](https://hackerone.com/reports/212696) - 200 upvotes, $5000
-9. [Blind SQLi leading to RCE, from Unauthenticated access to a test API Webservice](https://hackerone.com/reports/592400) - 198 upvotes, $4000
+8. [RCE by command line argument injection to `gm convert` in `/edit/process?a=crop`](https://hackerone.com/reports/212696) - 201 upvotes, $5000
+9. [Blind SQLi leading to RCE, from Unauthenticated access to a test API Webservice](https://hackerone.com/reports/592400) - 199 upvotes, $4000
 10. [RCE using bash command injection on /system/images (toimitilat.lahitapiola.fi)](https://hackerone.com/reports/303061) - 197 upvotes, $6800
 11. [Path traversal, SSTI and RCE on a MailRu acquisition](https://hackerone.com/reports/536130) - 148 upvotes, $2000
 12. [Malformed .BSP Access Violation in CS:GO can lead to Remote Code Execution](https://hackerone.com/reports/351014) - 145 upvotes, $12500
@@ -70,12 +70,12 @@ Top RCE reports from HackerOne:
 66. [Remote Code Execution (RCE) in a Sony Pictures WebSystem](https://hackerone.com/reports/330028) - 14 upvotes, $0
 67. [Attention! Remote Code Execution at http://wpt.ec2.shopify.com/](https://hackerone.com/reports/73567) - 13 upvotes, $3000
 68. [Exposed, outdated nginx server (v1.4.6) potentially vulnerable to heap-based buffer overflow &amp; RCE](https://hackerone.com/reports/168485) - 13 upvotes, $50
-69. [Remote Code Execution (RCE) in DoD Websites](https://hackerone.com/reports/235605) - 12 upvotes, $0
-70. [Triggering RCE using XSS to bypass CSRF in PowerBeam M5 300](https://hackerone.com/reports/289264) - 11 upvotes, $1000
-71. [chrome://brave can still be navigated to, leading to RCE](https://hackerone.com/reports/415178) - 11 upvotes, $300
-72. [Remote Code Execution in NovaStor NovaBACKUP DataCenter backup software (Hiback)](https://hackerone.com/reports/138824) - 11 upvotes, $100
-73. [Remote Code Execution in Rocket.Chat Desktop](https://hackerone.com/reports/276031) - 11 upvotes, $0
-74. [LFI on Accounting server and RCE on FliteThermostat admin server](https://hackerone.com/reports/509080) - 11 upvotes, $0
+69. [LFI on Accounting server and RCE on FliteThermostat admin server](https://hackerone.com/reports/509080) - 13 upvotes, $0
+70. [Remote Code Execution (RCE) in DoD Websites](https://hackerone.com/reports/235605) - 12 upvotes, $0
+71. [Triggering RCE using XSS to bypass CSRF in PowerBeam M5 300](https://hackerone.com/reports/289264) - 11 upvotes, $1000
+72. [chrome://brave can still be navigated to, leading to RCE](https://hackerone.com/reports/415178) - 11 upvotes, $300
+73. [Remote Code Execution in NovaStor NovaBACKUP DataCenter backup software (Hiback)](https://hackerone.com/reports/138824) - 11 upvotes, $100
+74. [Remote Code Execution in Rocket.Chat Desktop](https://hackerone.com/reports/276031) - 11 upvotes, $0
 75. [Exim off-by-one RCE vulnerability](https://hackerone.com/reports/322935) - 10 upvotes, $1500
 76. [Remote Code Execution in Wordpress Desktop](https://hackerone.com/reports/301458) - 10 upvotes, $250
 77. [Remote Code Execution (RCE) in a DoD website](https://hackerone.com/reports/329397) - 10 upvotes, $0
@@ -109,16 +109,20 @@ Top RCE reports from HackerOne:
 105. [Remote Code Execution (RCE) vulnerability in multiple DoD websites](https://hackerone.com/reports/231687) - 3 upvotes, $0
 106. [accounts.informatica.com - RCE due to exposed Groovy console](https://hackerone.com/reports/672243) - 3 upvotes, $0
 107. [Remote Code Execution (RCE) in a DoD website](https://hackerone.com/reports/329399) - 3 upvotes, $0
-108. ['Limited' RCE in certain places where Liquid is accepted](https://hackerone.com/reports/98259) - 2 upvotes, $1500
-109. [apps.owncloud.com: Malicious file upload leads to remote code execution](https://hackerone.com/reports/84374) - 2 upvotes, $0
-110. [Java RMI (Remote Code Execution)](https://hackerone.com/reports/163547) - 2 upvotes, $0
-111. [Remote Code Execution (RCE) in a DoD website](https://hackerone.com/reports/329400) - 2 upvotes, $0
-112. [potential remote code execution with phar archive](https://hackerone.com/reports/126652) - 1 upvotes, $500
-113. [Sendmail Remote Code Execution Vulnerability in Concrete5 version 5.7.3.1](https://hackerone.com/reports/59663) - 1 upvotes, $0
-114. [SOAP serialize_function_call() type confusion / RCE](https://hackerone.com/reports/104010) - 0 upvotes, $1500
-115. [RCE через JDWP](https://hackerone.com/reports/49408) - 0 upvotes, $300
-116. [Possible xWork classLoader RCE: shared.mail.ru](https://hackerone.com/reports/67161) - 0 upvotes, $200
-117. [Missing/Breach of Internal Security Boundary - Access to Job Queue Results in Remote Code Execution](https://hackerone.com/reports/224198) - 0 upvotes, $0
+108. [RCE on default Ubuntu Desktop &gt;= 12.10 Quantal](https://hackerone.com/reports/192512) - 3 upvotes, $0
+109. ['Limited' RCE in certain places where Liquid is accepted](https://hackerone.com/reports/98259) - 2 upvotes, $1500
+110. [apps.owncloud.com: Malicious file upload leads to remote code execution](https://hackerone.com/reports/84374) - 2 upvotes, $0
+111. [Java RMI (Remote Code Execution)](https://hackerone.com/reports/163547) - 2 upvotes, $0
+112. [Remote Code Execution (RCE) in a DoD website](https://hackerone.com/reports/329400) - 2 upvotes, $0
+113. [Adobe Flash Player Regular Expression UAF Remote Code Execution Vulnerability](https://hackerone.com/reports/139879) - 1 upvotes, $5000
+114. [potential remote code execution with phar archive](https://hackerone.com/reports/126652) - 1 upvotes, $500
+115. [Sendmail Remote Code Execution Vulnerability in Concrete5 version 5.7.3.1](https://hackerone.com/reports/59663) - 1 upvotes, $0
+116. [SOAP serialize_function_call() type confusion / RCE](https://hackerone.com/reports/104010) - 0 upvotes, $1500
+117. [RCE через JDWP](https://hackerone.com/reports/49408) - 0 upvotes, $300
+118. [Possible xWork classLoader RCE: shared.mail.ru](https://hackerone.com/reports/67161) - 0 upvotes, $200
+119. [Missing/Breach of Internal Security Boundary - Access to Job Queue Results in Remote Code Execution](https://hackerone.com/reports/224198) - 0 upvotes, $0
+120. [WordPress Plugin Insert or Embed Articulate Content into WordPress Remote Code Execution (UNAUTHORIZED)](https://hackerone.com/reports/696198) - 0 upvotes, $0
+121. [The “Malstaller” Attack, global hijacking of any installation process to achieve RCE with elevated privileges, Windows OS (vendor agnostic)](https://hackerone.com/reports/165969) - 0 upvotes, $0
 
 
 [Back](../README.md)

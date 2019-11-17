@@ -126,31 +126,31 @@ Top reports from Node.js third-party modules program at HackerOne:
 122. [Prototype pollution attack (upmerge)](https://hackerone.com/reports/439120) - 4 upvotes, $0
 123. [Code Injection Vulnerability in dot Package](https://hackerone.com/reports/390929) - 4 upvotes, $0
 124. [XSS in Bootbox](https://hackerone.com/reports/508446) - 4 upvotes, $0
-125. [[https-proxy-agent] Socket returned without TLS upgrade on non-200 CONNECT response, allowing request data to be sent over unencrypted connection](https://hackerone.com/reports/541502) - 4 upvotes, $0
-126. [[lactate] Static Web Server Directory Traversal via Crafted GET Request](https://hackerone.com/reports/296645) - 3 upvotes, $0
-127. [[augustine] Static Web Server Directory Traversal via Crafted GET Request](https://hackerone.com/reports/296282) - 3 upvotes, $0
-128. [Prototype pollution attack (mixin-deep)](https://hackerone.com/reports/311236) - 3 upvotes, $0
-129. [Prototype pollution attack (assign-deep)](https://hackerone.com/reports/310707) - 3 upvotes, $0
-130. [Prototype pollution attack (merge-deep)](https://hackerone.com/reports/310708) - 3 upvotes, $0
-131. [Prototype pollution attack (defaults-deep)](https://hackerone.com/reports/310514) - 3 upvotes, $0
-132. [Prototype pollution attack (deep-extend)](https://hackerone.com/reports/311333) - 3 upvotes, $0
-133. [Bypass to defective fix of Path Traversal](https://hackerone.com/reports/329837) - 3 upvotes, $0
-134. [`npmconf` (and `npm` js api) allocate and write to disk uninitialized memory content when a typed number is passed as input on Node.js 4.x](https://hackerone.com/reports/320269) - 3 upvotes, $0
-135. [[sexstatic] HTML injection in directory name(s) leads to Stored XSS when malicious file is embed with &lt;iframe&gt; element used in directory name](https://hackerone.com/reports/328210) - 3 upvotes, $0
-136. [`utile` allocates uninitialized Buffers when number is passed in input](https://hackerone.com/reports/321701) - 3 upvotes, $0
-137. [[file-static-server] Path Traversal allows to read content of arbitrary file on the server](https://hackerone.com/reports/310671) - 3 upvotes, $0
-138. [Privilage escalation with malicious .npmrc](https://hackerone.com/reports/358359) - 3 upvotes, $0
-139. [[m-server] HTML Injection in filenames displayed as directory listing in the browser allows to embed iframe with malicious JavaScript code](https://hackerone.com/reports/319794) - 3 upvotes, $0
-140. [[exceljs] Possible XSS via cell value when worksheet is displayed in browser](https://hackerone.com/reports/356809) - 3 upvotes, $0
-141. [[serve] XSS via HTML tag injection in directory lisiting page](https://hackerone.com/reports/398285) - 3 upvotes, $0
-142. [Prototype pollution attack in just-extend](https://hackerone.com/reports/430291) - 3 upvotes, $0
-143. [Prototype pollution attack in node.extend](https://hackerone.com/reports/430831) - 3 upvotes, $0
-144. [Prototype pollution attack through jQuery $.extend](https://hackerone.com/reports/454365) - 3 upvotes, $0
-145. [[harp] File access even when they have been set to be ignored.](https://hackerone.com/reports/453820) - 3 upvotes, $0
-146. [[harp] Path traversal using symlink](https://hackerone.com/reports/530289) - 3 upvotes, $0
-147. [[min-http-server] Stored XSS in the filename when directories listing](https://hackerone.com/reports/570568) - 3 upvotes, $0
-148. [[larvitbase-api] Unintended Require](https://hackerone.com/reports/566056) - 3 upvotes, $0
-149. [[larvitbase-www] Unintended Require](https://hackerone.com/reports/579560) - 3 upvotes, $0
+125. [[larvitbase-api] Unintended Require](https://hackerone.com/reports/566056) - 4 upvotes, $0
+126. [[larvitbase-www] Unintended Require](https://hackerone.com/reports/579560) - 4 upvotes, $0
+127. [[https-proxy-agent] Socket returned without TLS upgrade on non-200 CONNECT response, allowing request data to be sent over unencrypted connection](https://hackerone.com/reports/541502) - 4 upvotes, $0
+128. [[lactate] Static Web Server Directory Traversal via Crafted GET Request](https://hackerone.com/reports/296645) - 3 upvotes, $0
+129. [[augustine] Static Web Server Directory Traversal via Crafted GET Request](https://hackerone.com/reports/296282) - 3 upvotes, $0
+130. [Prototype pollution attack (mixin-deep)](https://hackerone.com/reports/311236) - 3 upvotes, $0
+131. [Prototype pollution attack (assign-deep)](https://hackerone.com/reports/310707) - 3 upvotes, $0
+132. [Prototype pollution attack (merge-deep)](https://hackerone.com/reports/310708) - 3 upvotes, $0
+133. [Prototype pollution attack (defaults-deep)](https://hackerone.com/reports/310514) - 3 upvotes, $0
+134. [Prototype pollution attack (deep-extend)](https://hackerone.com/reports/311333) - 3 upvotes, $0
+135. [Bypass to defective fix of Path Traversal](https://hackerone.com/reports/329837) - 3 upvotes, $0
+136. [`npmconf` (and `npm` js api) allocate and write to disk uninitialized memory content when a typed number is passed as input on Node.js 4.x](https://hackerone.com/reports/320269) - 3 upvotes, $0
+137. [[sexstatic] HTML injection in directory name(s) leads to Stored XSS when malicious file is embed with &lt;iframe&gt; element used in directory name](https://hackerone.com/reports/328210) - 3 upvotes, $0
+138. [`utile` allocates uninitialized Buffers when number is passed in input](https://hackerone.com/reports/321701) - 3 upvotes, $0
+139. [[file-static-server] Path Traversal allows to read content of arbitrary file on the server](https://hackerone.com/reports/310671) - 3 upvotes, $0
+140. [Privilage escalation with malicious .npmrc](https://hackerone.com/reports/358359) - 3 upvotes, $0
+141. [[m-server] HTML Injection in filenames displayed as directory listing in the browser allows to embed iframe with malicious JavaScript code](https://hackerone.com/reports/319794) - 3 upvotes, $0
+142. [[exceljs] Possible XSS via cell value when worksheet is displayed in browser](https://hackerone.com/reports/356809) - 3 upvotes, $0
+143. [[serve] XSS via HTML tag injection in directory lisiting page](https://hackerone.com/reports/398285) - 3 upvotes, $0
+144. [Prototype pollution attack in just-extend](https://hackerone.com/reports/430291) - 3 upvotes, $0
+145. [Prototype pollution attack in node.extend](https://hackerone.com/reports/430831) - 3 upvotes, $0
+146. [Prototype pollution attack through jQuery $.extend](https://hackerone.com/reports/454365) - 3 upvotes, $0
+147. [[harp] File access even when they have been set to be ignored.](https://hackerone.com/reports/453820) - 3 upvotes, $0
+148. [[harp] Path traversal using symlink](https://hackerone.com/reports/530289) - 3 upvotes, $0
+149. [[min-http-server] Stored XSS in the filename when directories listing](https://hackerone.com/reports/570568) - 3 upvotes, $0
 150. [Trojan:JS/CoinMiner in npm files](https://hackerone.com/reports/687325) - 3 upvotes, $0
 151. [Command Injection in npm module name passed as an argument to pm2.install() function](https://hackerone.com/reports/633364) - 3 upvotes, $0
 152. [Command Injection due to lack of sanitisation of tar.gz filename passed as an argument to pm2.install()](https://hackerone.com/reports/630227) - 3 upvotes, $0

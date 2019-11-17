@@ -2,7 +2,7 @@
 
 Top reports from Slack program at HackerOne:
 
-1. [XSS vulnerable parameter in a location hash](https://hackerone.com/reports/146336) - 346 upvotes, $1100
+1. [XSS vulnerable parameter in a location hash](https://hackerone.com/reports/146336) - 362 upvotes, $1100
 2. [AWS bucket leading to iOS test build code and configuration exposure](https://hackerone.com/reports/404822) - 307 upvotes, $1500
 3. [XSS in gist integration](https://hackerone.com/reports/11073) - 148 upvotes, $500
 4. [Unauthenticated LFI revealing log information](https://hackerone.com/reports/272578) - 114 upvotes, $4000
@@ -17,24 +17,24 @@ Top reports from Slack program at HackerOne:
 13. [The Custom Emoji Page has a Reflected XSS](https://hackerone.com/reports/258198) - 55 upvotes, $1250
 14. [Internal SSRF bypass using slash commands at api.slack.com](https://hackerone.com/reports/356765) - 45 upvotes, $500
 15. [Store XSS](https://hackerone.com/reports/187410) - 43 upvotes, $500
-16. [Bypass of the SSRF protection in Event Subscriptions parameter.](https://hackerone.com/reports/386292) - 39 upvotes, $500
+16. [Bypass of the SSRF protection in Event Subscriptions parameter.](https://hackerone.com/reports/386292) - 40 upvotes, $500
 17. [Information leakage and default open port](https://hackerone.com/reports/305518) - 39 upvotes, $350
 18. [The POODLE attack (SSLv3 supported) at status.slack.com](https://hackerone.com/reports/375097) - 38 upvotes, $500
 19. [Snooping into messages via email service](https://hackerone.com/reports/163938) - 28 upvotes, $2500
 20. [Stored XSS(Cross Site Scripting) In Slack App Name](https://hackerone.com/reports/159460) - 28 upvotes, $1000
-21. [Bypass](https://hackerone.com/reports/121696) - 24 upvotes, $500
-22. [Source code leakage through GIT web access at host '52.91.137.42'](https://hackerone.com/reports/148068) - 23 upvotes, $1500
-23. [CSRF in github integration](https://hackerone.com/reports/174328) - 22 upvotes, $500
-24. [[Screenhero] Subdomain takeover](https://hackerone.com/reports/142096) - 22 upvotes, $200
-25. [Subdomain takeover on podcasts.slack-core.com](https://hackerone.com/reports/195350) - 22 upvotes, $100
-26. [Rate-limit bypass](https://hackerone.com/reports/165727) - 21 upvotes, $500
-27. [Race Condition in account survey](https://hackerone.com/reports/165570) - 19 upvotes, $150
-28. [HTTP parameter pollution from outdated Greenhouse.io JS dependency](https://hackerone.com/reports/335339) - 17 upvotes, $250
-29. [Access of Android protected components via embedded intent](https://hackerone.com/reports/200427) - 14 upvotes, $1000
-30. [Bypass to postMessage origin validation via FTP](https://hackerone.com/reports/210654) - 14 upvotes, $850
-31. [Code Injection in Slack's Windows Desktop Client leads to Privilege Escalation](https://hackerone.com/reports/162955) - 14 upvotes, $750
-32. [Information Disclosure on stun.screenhero.com](https://hackerone.com/reports/175061) - 14 upvotes, $700
-33. [CSS Injection to disable app &amp; potential message exfil](https://hackerone.com/reports/679969) - 14 upvotes, $500
+21. [CSS Injection to disable app &amp; potential message exfil](https://hackerone.com/reports/679969) - 27 upvotes, $500
+22. [Bypass](https://hackerone.com/reports/121696) - 24 upvotes, $500
+23. [Source code leakage through GIT web access at host '52.91.137.42'](https://hackerone.com/reports/148068) - 23 upvotes, $1500
+24. [CSRF in github integration](https://hackerone.com/reports/174328) - 22 upvotes, $500
+25. [[Screenhero] Subdomain takeover](https://hackerone.com/reports/142096) - 22 upvotes, $200
+26. [Subdomain takeover on podcasts.slack-core.com](https://hackerone.com/reports/195350) - 22 upvotes, $100
+27. [Rate-limit bypass](https://hackerone.com/reports/165727) - 21 upvotes, $500
+28. [Race Condition in account survey](https://hackerone.com/reports/165570) - 19 upvotes, $150
+29. [HTTP parameter pollution from outdated Greenhouse.io JS dependency](https://hackerone.com/reports/335339) - 17 upvotes, $250
+30. [Access of Android protected components via embedded intent](https://hackerone.com/reports/200427) - 14 upvotes, $1000
+31. [Bypass to postMessage origin validation via FTP](https://hackerone.com/reports/210654) - 14 upvotes, $850
+32. [Code Injection in Slack's Windows Desktop Client leads to Privilege Escalation](https://hackerone.com/reports/162955) - 14 upvotes, $750
+33. [Information Disclosure on stun.screenhero.com](https://hackerone.com/reports/175061) - 14 upvotes, $700
 34. [dom xss in https://www.slackatwork.com](https://hackerone.com/reports/196624) - 12 upvotes, $200
 35. [Open Redirect on slack.com](https://hackerone.com/reports/140447) - 11 upvotes, $500
 36. [Invitation reminder emails contain insecure links](https://hackerone.com/reports/327674) - 11 upvotes, $350

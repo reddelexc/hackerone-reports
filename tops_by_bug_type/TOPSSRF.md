@@ -2,7 +2,7 @@
 
 Top SSRF reports from HackerOne:
 
-1. [SSRF in Exchange leads to ROOT access in all instances](https://hackerone.com/reports/341876) - 412 upvotes, $25000
+1. [SSRF in Exchange leads to ROOT access in all instances](https://hackerone.com/reports/341876) - 413 upvotes, $25000
 2. [Unauthenticated blind SSRF in OAuth Jira authorization controller](https://hackerone.com/reports/398799) - 208 upvotes, $4000
 3. [SSRF in webhooks leads to AWS private keys disclosure](https://hackerone.com/reports/508459) - 176 upvotes, $700
 4. [SSRF on duckduckgo.com/iu/](https://hackerone.com/reports/398641) - 135 upvotes, $0
@@ -22,7 +22,7 @@ Top SSRF reports from HackerOne:
 18. [SSRF](https://hackerone.com/reports/522203) - 43 upvotes, $500
 19. [SSRF - Blacklist bypass for mail account addition](https://hackerone.com/reports/303378) - 42 upvotes, $500
 20. [SMB SSRF in emblem editor exposes taketwo domain credentials, may lead to RCE](https://hackerone.com/reports/288353) - 40 upvotes, $1500
-21. [Bypass of the SSRF protection in Event Subscriptions parameter.](https://hackerone.com/reports/386292) - 39 upvotes, $500
+21. [Bypass of the SSRF protection in Event Subscriptions parameter.](https://hackerone.com/reports/386292) - 40 upvotes, $500
 22. [SSRF - RSS feed, blacklist bypass (301 re-direct)](https://hackerone.com/reports/299135) - 33 upvotes, $850
 23. [SSRF - RSS feed, blacklist bypass (IP Formatting)](https://hackerone.com/reports/299130) - 31 upvotes, $850
 24. [SVG Server Side Request Forgery (SSRF)](https://hackerone.com/reports/223203) - 31 upvotes, $500
@@ -34,9 +34,9 @@ Top SSRF reports from HackerOne:
 30. [SSRF in https://imgur.com/vidgif/url](https://hackerone.com/reports/115748) - 23 upvotes, $2000
 31. [SSRF at ideas.starbucks.com](https://hackerone.com/reports/500468) - 23 upvotes, $1000
 32. [SSRF in Search.gov via ?url= parameter](https://hackerone.com/reports/514224) - 21 upvotes, $150
-33. [GitLab's GitHub integration is vulnerable to SSRF vulnerability](https://hackerone.com/reports/446593) - 19 upvotes, $2000
-34. [SSRF in /appsuite/api/autoconfig](https://hackerone.com/reports/293847) - 19 upvotes, $850
-35. [Blind SSRF [ Sentry Misconfiguraton ]](https://hackerone.com/reports/587012) - 19 upvotes, $250
+33. [Blind SSRF [ Sentry Misconfiguraton ]](https://hackerone.com/reports/587012) - 20 upvotes, $250
+34. [GitLab's GitHub integration is vulnerable to SSRF vulnerability](https://hackerone.com/reports/446593) - 19 upvotes, $2000
+35. [SSRF in /appsuite/api/autoconfig](https://hackerone.com/reports/293847) - 19 upvotes, $850
 36. [Server side request forgery on image upload for lists](https://hackerone.com/reports/158016) - 19 upvotes, $50
 37. [Wordpress 4.7 - CSRF -&gt; HTTP SSRF any private ip:port and basic-auth](https://hackerone.com/reports/187520) - 18 upvotes, $750
 38. [SSRF at iris.lystit.com](https://hackerone.com/reports/206894) - 18 upvotes, $100
@@ -47,9 +47,9 @@ Top SSRF reports from HackerOne:
 43. [Additional bypass allows SSRF for internal netblocks](https://hackerone.com/reports/288950) - 17 upvotes, $0
 44. [SSRF thru File Replace](https://hackerone.com/reports/243865) - 17 upvotes, $0
 45. [SSRF on jira.mariadb.org](https://hackerone.com/reports/397402) - 17 upvotes, $0
-46. [SSRF On [ allods.mail.ru ]](https://hackerone.com/reports/602498) - 15 upvotes, $750
-47. [SSRF vulnerability in gitlab.com via project import.](https://hackerone.com/reports/215105) - 15 upvotes, $0
-48. [SSRF vulnerability on proxy.duckduckgo.com (access to metadata server on AWS)](https://hackerone.com/reports/395521) - 15 upvotes, $0
+46. [SSRF On [ allods.mail.ru ]](https://hackerone.com/reports/602498) - 16 upvotes, $750
+47. [SSRF vulnerability on proxy.duckduckgo.com (access to metadata server on AWS)](https://hackerone.com/reports/395521) - 16 upvotes, $0
+48. [SSRF vulnerability in gitlab.com via project import.](https://hackerone.com/reports/215105) - 15 upvotes, $0
 49. [SSRF via webhook](https://hackerone.com/reports/243277) - 14 upvotes, $0
 50. [SSRF allows access to internal services like Ganglia](https://hackerone.com/reports/151086) - 13 upvotes, $729
 51. [SSRF in https://cards-dev.twitter.com/validator](https://hackerone.com/reports/178184) - 13 upvotes, $280

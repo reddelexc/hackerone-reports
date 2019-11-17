@@ -72,12 +72,12 @@ Top reports from LocalTapiola program at HackerOne:
 68. [Reflected XSS in LTContactFormReceiver (/cs/Satellite)](https://hackerone.com/reports/172595) - 6 upvotes, $50
 69. [Disclosure of IBM Websphere page](https://hackerone.com/reports/184452) - 6 upvotes, $50
 70. [CSRF bypass + XSS on verkkopalvelu.tapiola.fi](https://hackerone.com/reports/200683) - 6 upvotes, $50
-71. [Lahitapiola´s customer names send to 3rd party](https://hackerone.com/reports/177523) - 5 upvotes, $588
-72. [The PdfServlet-functionality used by the "Tee vakuutustodistus" allows injection of custom PDF-content via CSRF-attack](https://hackerone.com/reports/129002) - 5 upvotes, $300
-73. [Exposed authentication (/cs/Satellite)](https://hackerone.com/reports/292463) - 5 upvotes, $200
-74. [Option method enabled (viestinta.lahitapiola.fi)](https://hackerone.com/reports/182265) - 5 upvotes, $60
-75. [Possible sweet32 lahitapiola.fi](https://hackerone.com/reports/232463) - 5 upvotes, $50
-76. [Information exposure via error pages (www.lahitapiola.fi Tomcat)](https://hackerone.com/reports/304708) - 5 upvotes, $50
+71. [Information exposure via error pages (www.lahitapiola.fi Tomcat)](https://hackerone.com/reports/304708) - 6 upvotes, $50
+72. [Lahitapiola´s customer names send to 3rd party](https://hackerone.com/reports/177523) - 5 upvotes, $588
+73. [The PdfServlet-functionality used by the "Tee vakuutustodistus" allows injection of custom PDF-content via CSRF-attack](https://hackerone.com/reports/129002) - 5 upvotes, $300
+74. [Exposed authentication (/cs/Satellite)](https://hackerone.com/reports/292463) - 5 upvotes, $200
+75. [Option method enabled (viestinta.lahitapiola.fi)](https://hackerone.com/reports/182265) - 5 upvotes, $60
+76. [Possible sweet32 lahitapiola.fi](https://hackerone.com/reports/232463) - 5 upvotes, $50
 77. [DoS of www.lahitapiolarahoitus.fi via CVE-2018-6389 exploitation](https://hackerone.com/reports/335177) - 5 upvotes, $50
 78. [Abusing and Hacking the SMTP Server secure.lahitapiola.fi](https://hackerone.com/reports/138315) - 4 upvotes, $300
 79. [Reflected XSS Vulnerability in www.lahitapiola.fi/cs/Satellite](https://hackerone.com/reports/219140) - 4 upvotes, $250

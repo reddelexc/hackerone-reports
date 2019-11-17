@@ -71,37 +71,37 @@ Top 100 paid reports from HackerOne:
 67. [Null pointer derefence due to bug in codegen with negation without using value](https://hackerone.com/reports/187536) - $10000
 68. [Range#initialize_copy null pointer dereference](https://hackerone.com/reports/181685) - $10000
 69. [Range constructor type confusion DoS](https://hackerone.com/reports/181910) - $10000
-70. [Segfault in mruby, mruby_engine and the parent MRI Ruby due to null pointer dereference](https://hackerone.com/reports/181828) - $10000
-71. [Flash type confusion vulnerability leads to code execution](https://hackerone.com/reports/2106) - $10000
-72. [Flash double free vulnerability leads to code execution](https://hackerone.com/reports/2170) - $10000
-73. [Use after free during the StageVideoAvailabilityEvent can result in arbitrary code execution](https://hackerone.com/reports/47232) - $10000
-74. [Race condition in workers may cause an exploitable double free by abusing bytearray.compress()](https://hackerone.com/reports/47227) - $10000
-75. [DoS on PayPal via web cache poisoning](https://hackerone.com/reports/622122) - $9700
-76. [Full access to internal Gitlab instances at redash.gitlab.com, dashboards.gitlab.com, prometheus.gitlab.com](https://hackerone.com/reports/498964) - $9500
-77. [Panorama UI XSS leads to Remote Code Execution via Kick/Disconnect Message](https://hackerone.com/reports/631956) - $9000
-78. [Multiple Python integer overflows](https://hackerone.com/reports/55017) - $9000
-79. [SAML Authentication Bypass on uchat.uberinternal.com](https://hackerone.com/reports/223014) - $8500
-80. [Open Redirect on central.uber.com allows for account takeover](https://hackerone.com/reports/206591) - $8000
-81. [Multiple Subdomain takeovers via unclaimed instances](https://hackerone.com/reports/276269) - $8000
-82. [[CRITICAL] -- Complete Account Takeover](https://hackerone.com/reports/136885) - $8000
-83. [Account Takeover via billing](https://hackerone.com/reports/394329) - $8000
-84. [Null target_class DoS](https://hackerone.com/reports/183405) - $8000
-85. [Segmentation fault when a Ruby method is invoked by a C method via Object#send](https://hackerone.com/reports/183425) - $8000
-86. [Denial of service due to invalid memory access in mrb_ary_concat](https://hackerone.com/reports/184712) - $8000
-87. [Denial of Service in mruby due to null pointer dereference](https://hackerone.com/reports/181232) - $8000
-88. [Undefined method_missing null pointer dereference](https://hackerone.com/reports/181695) - $8000
-89. [SIGSEGV on mruby's mark_tbl() (Invalid memory access)](https://hackerone.com/reports/183239) - $8000
-90. [SIGSEGV on mruby mrb_str_modify() (Invalid memory access)](https://hackerone.com/reports/183231) - $8000
-91. [SIGSEV on mrb_ary_splice](https://hackerone.com/reports/182027) - $8000
-92. [ruby DoS https://www.mruby.science](https://hackerone.com/reports/180695) - $8000
-93. [Crash: mrb_any_to_s can't handle NilClass, Symbol and Fixnum](https://hackerone.com/reports/185794) - $8000
-94. [Segmentation fault due to bad memory access in kh_get_mt](https://hackerone.com/reports/188313) - $8000
-95. [Crash: calling Proc::initialize_copy with a Proc instance where initialize never ran leads to a crash](https://hackerone.com/reports/184857) - $8000
-96. [mruby-time: Crash host with uninitialized Time obj](https://hackerone.com/reports/184661) - $8000
-97. [Account Takeover in Periscope TV](https://hackerone.com/reports/317476) - $7560
-98. [[URGENT] Opportunity to publish tweets on any twitters account](https://hackerone.com/reports/208978) - $7560
-99. [Vine all registered user Private/sensitive information disclosure .[ Ip address/phone no/email and many other informations ]](https://hackerone.com/reports/202823) - $7560
-100. [XSS in steam react chat client](https://hackerone.com/reports/409850) - $7500
+70. [Race condition in Flash workers may cause an exploitabl​e double free](https://hackerone.com/reports/37240) - $10000
+71. [Segfault in mruby, mruby_engine and the parent MRI Ruby due to null pointer dereference](https://hackerone.com/reports/181828) - $10000
+72. [Flash type confusion vulnerability leads to code execution](https://hackerone.com/reports/2106) - $10000
+73. [Flash double free vulnerability leads to code execution](https://hackerone.com/reports/2170) - $10000
+74. [Use after free during the StageVideoAvailabilityEvent can result in arbitrary code execution](https://hackerone.com/reports/47232) - $10000
+75. [Race condition in workers may cause an exploitable double free by abusing bytearray.compress()](https://hackerone.com/reports/47227) - $10000
+76. [DoS on PayPal via web cache poisoning](https://hackerone.com/reports/622122) - $9700
+77. [Full access to internal Gitlab instances at redash.gitlab.com, dashboards.gitlab.com, prometheus.gitlab.com](https://hackerone.com/reports/498964) - $9500
+78. [Panorama UI XSS leads to Remote Code Execution via Kick/Disconnect Message](https://hackerone.com/reports/631956) - $9000
+79. [Multiple Python integer overflows](https://hackerone.com/reports/55017) - $9000
+80. [SAML Authentication Bypass on uchat.uberinternal.com](https://hackerone.com/reports/223014) - $8500
+81. [Open Redirect on central.uber.com allows for account takeover](https://hackerone.com/reports/206591) - $8000
+82. [Multiple Subdomain takeovers via unclaimed instances](https://hackerone.com/reports/276269) - $8000
+83. [[CRITICAL] -- Complete Account Takeover](https://hackerone.com/reports/136885) - $8000
+84. [Account Takeover via billing](https://hackerone.com/reports/394329) - $8000
+85. [Null target_class DoS](https://hackerone.com/reports/183405) - $8000
+86. [Segmentation fault when a Ruby method is invoked by a C method via Object#send](https://hackerone.com/reports/183425) - $8000
+87. [Denial of service due to invalid memory access in mrb_ary_concat](https://hackerone.com/reports/184712) - $8000
+88. [Denial of Service in mruby due to null pointer dereference](https://hackerone.com/reports/181232) - $8000
+89. [Undefined method_missing null pointer dereference](https://hackerone.com/reports/181695) - $8000
+90. [SIGSEGV on mruby's mark_tbl() (Invalid memory access)](https://hackerone.com/reports/183239) - $8000
+91. [SIGSEGV on mruby mrb_str_modify() (Invalid memory access)](https://hackerone.com/reports/183231) - $8000
+92. [SIGSEV on mrb_ary_splice](https://hackerone.com/reports/182027) - $8000
+93. [ruby DoS https://www.mruby.science](https://hackerone.com/reports/180695) - $8000
+94. [Crash: mrb_any_to_s can't handle NilClass, Symbol and Fixnum](https://hackerone.com/reports/185794) - $8000
+95. [Segmentation fault due to bad memory access in kh_get_mt](https://hackerone.com/reports/188313) - $8000
+96. [Crash: calling Proc::initialize_copy with a Proc instance where initialize never ran leads to a crash](https://hackerone.com/reports/184857) - $8000
+97. [mruby-time: Crash host with uninitialized Time obj](https://hackerone.com/reports/184661) - $8000
+98. [Account Takeover in Periscope TV](https://hackerone.com/reports/317476) - $7560
+99. [[URGENT] Opportunity to publish tweets on any twitters account](https://hackerone.com/reports/208978) - $7560
+100. [Vine all registered user Private/sensitive information disclosure .[ Ip address/phone no/email and many other informations ]](https://hackerone.com/reports/202823) - $7560
 
 
 [Back](../README.md)

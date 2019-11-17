@@ -2,14 +2,14 @@
 
 Top reports from Automattic program at HackerOne:
 
-1. [Stored XSS vulnerability in comments on *.wordpress.com](https://hackerone.com/reports/707720) - 108 upvotes, $350
+1. [Stored XSS vulnerability in comments on *.wordpress.com](https://hackerone.com/reports/707720) - 109 upvotes, $350
 2. [WordPress Flash XSS in *flashmediaelement.swf*](https://hackerone.com/reports/134546) - 63 upvotes, $1337
 3. [Disclosure of 152 cookie names via crafted input](https://hackerone.com/reports/310105) - 54 upvotes, $100
 4. [WordPress SOME bug in plupload.flash.swf leading to RCE](https://hackerone.com/reports/134738) - 48 upvotes, $1337
 5. [Wordpress VIP leaks email of the test a/c](https://hackerone.com/reports/540301) - 48 upvotes, $100
 6. [Broken Authentication - Security token gets captured via man in the middle attack](https://hackerone.com/reports/206650) - 47 upvotes, $200
 7. [SSRF and local file disclosure in https://wordpress.com/media/videos/ via FFmpeg HLS processing](https://hackerone.com/reports/237381) - 45 upvotes, $800
-8. [Stored Self XSS on https://app.crowdsignal.com (in Photo Insert App) + Stored XSS on https://*your-subdomain*.survey.fm](https://hackerone.com/reports/667188) - 42 upvotes, $150
+8. [Stored Self XSS on https://app.crowdsignal.com (in Photo Insert App) + Stored XSS on https://*your-subdomain*.survey.fm](https://hackerone.com/reports/667188) - 43 upvotes, $150
 9. [WooCommerce: Persistent XSS via customer address (state/county)](https://hackerone.com/reports/530499) - 38 upvotes, $350
 10. [DOM based XSS in the WooCommerce plugin](https://hackerone.com/reports/507139) - 37 upvotes, $275
 11. [Captcha bypass for the most important function - At en.instagram-brand.com](https://hackerone.com/reports/206653) - 37 upvotes, $150

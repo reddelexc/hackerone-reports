@@ -23,17 +23,17 @@ Top reports from Weblate program at HackerOne:
 19. [Insecure Account Removal](https://hackerone.com/reports/223355) - 7 upvotes, $0
 20. [Activation tokens are not expiring](https://hackerone.com/reports/223339) - 7 upvotes, $0
 21. [Missing restriction on string size of Full Name at https://demo.weblate.org/accounts/register/](https://hackerone.com/reports/223454) - 7 upvotes, $0
-22. [No Rate Limitting at Change Password](https://hackerone.com/reports/223694) - 6 upvotes, $0
-23. [Logout CSRF](https://hackerone.com/reports/223329) - 6 upvotes, $0
-24. [You can simply just use passwords that simply are as 123456](https://hackerone.com/reports/223374) - 6 upvotes, $0
-25. [Information Disclosure on demo.weblate.org](https://hackerone.com/reports/229620) - 6 upvotes, $0
-26. [Captcha Bypass at Email Reset can lead to Spamming users.](https://hackerone.com/reports/229541) - 6 upvotes, $0
-27. [Old password can be new password](https://hackerone.com/reports/229577) - 6 upvotes, $0
-28. [Password token validation in Weblate Bypass #2](https://hackerone.com/reports/244287) - 6 upvotes, $0
-29. [Browser Self XSS Protection not implemented](https://hackerone.com/reports/400781) - 6 upvotes, $0
-30. [2nd issue&gt;&gt;&gt; flood of email](https://hackerone.com/reports/404713) - 6 upvotes, $0
-31. [Stored XSS @ /engage/&lt;project_slug&gt;](https://hackerone.com/reports/472391) - 6 upvotes, $0
-32. [CSRF to Connect third party Account](https://hackerone.com/reports/225100) - 5 upvotes, $0
+22. [CSRF to Connect third party Account](https://hackerone.com/reports/225100) - 6 upvotes, $0
+23. [No Rate Limitting at Change Password](https://hackerone.com/reports/223694) - 6 upvotes, $0
+24. [Logout CSRF](https://hackerone.com/reports/223329) - 6 upvotes, $0
+25. [You can simply just use passwords that simply are as 123456](https://hackerone.com/reports/223374) - 6 upvotes, $0
+26. [Information Disclosure on demo.weblate.org](https://hackerone.com/reports/229620) - 6 upvotes, $0
+27. [Captcha Bypass at Email Reset can lead to Spamming users.](https://hackerone.com/reports/229541) - 6 upvotes, $0
+28. [Old password can be new password](https://hackerone.com/reports/229577) - 6 upvotes, $0
+29. [Password token validation in Weblate Bypass #2](https://hackerone.com/reports/244287) - 6 upvotes, $0
+30. [Browser Self XSS Protection not implemented](https://hackerone.com/reports/400781) - 6 upvotes, $0
+31. [2nd issue&gt;&gt;&gt; flood of email](https://hackerone.com/reports/404713) - 6 upvotes, $0
+32. [Stored XSS @ /engage/&lt;project_slug&gt;](https://hackerone.com/reports/472391) - 6 upvotes, $0
 33. [[hosted.weblate.org]Account Takeover](https://hackerone.com/reports/223637) - 5 upvotes, $0
 34. [CSV export filter bypass leads to formula injection.](https://hackerone.com/reports/223999) - 5 upvotes, $0
 35. [Rate Limit Bypass on login Page](https://hackerone.com/reports/224460) - 5 upvotes, $0

@@ -2,13 +2,13 @@
 
 Top reports from WordPress program at HackerOne:
 
-1. [Stored XSS Vulnerability](https://hackerone.com/reports/643908) - 332 upvotes, $500
+1. [Stored XSS Vulnerability](https://hackerone.com/reports/643908) - 333 upvotes, $500
 2. [Stored XSS in Private Message component (BuddyPress)](https://hackerone.com/reports/487081) - 331 upvotes, $500
 3. [Stored XSS on byddypress Plug-in via groups name](https://hackerone.com/reports/592316) - 125 upvotes, $450
-4. [Reflected XSS on https://make.wordpress.org via 'channel' parameter](https://hackerone.com/reports/659419) - 93 upvotes, $387
+4. [Reflected XSS on https://make.wordpress.org via 'channel' parameter](https://hackerone.com/reports/659419) - 94 upvotes, $387
 5. [CSRF to HTML Injection in Comments](https://hackerone.com/reports/428019) - 88 upvotes, $950
 6. [Mssing Authorization on Private Message replies (BuddyPress)](https://hackerone.com/reports/490782) - 63 upvotes, $375
-7. [plugins.trac.wordpress.org likely vulnerable to Cross Site Tracing (xst), TRACE HTTP method should be disabled](https://hackerone.com/reports/222692) - 49 upvotes, $150
+7. [plugins.trac.wordpress.org likely vulnerable to Cross Site Tracing (xst), TRACE HTTP method should be disabled](https://hackerone.com/reports/222692) - 50 upvotes, $150
 8. [Multiple stored XSS in WordPress](https://hackerone.com/reports/221507) - 35 upvotes, $1200
 9. [Logic flaw in the Post creation process allows creating posts with arbitrary types without needing the corresponding nonce](https://hackerone.com/reports/404323) - 30 upvotes, $900
 10. [Add users to groups who have restricted group invites](https://hackerone.com/reports/538008) - 28 upvotes, $275
@@ -56,11 +56,12 @@ Top reports from WordPress program at HackerOne:
 52. [Administrator(s) Information disclosure via JSON on wordpress.org](https://hackerone.com/reports/221734) - 4 upvotes, $0
 53. [Wordpress 4.8.1 - Rogue editor leads to RCE. And the risks of same origin frame scripting in general](https://hackerone.com/reports/263718) - 4 upvotes, $0
 54. [antispambot does not always escape &lt;, &gt;, &amp;, " and '](https://hackerone.com/reports/298218) - 3 upvotes, $0
-55. [Stored XSS in WordPress](https://hackerone.com/reports/276105) - 2 upvotes, $0
-56. [WordPress Automatic Update Protocol Does Not Authenticate Updates Provided by the Server](https://hackerone.com/reports/228854) - 2 upvotes, $0
-57. [Parameter tampering : Price Manipulation of Products](https://hackerone.com/reports/682344) - 1 upvotes, $0
-58. [Clickjacking irclogs.wordpress.org](https://hackerone.com/reports/267075) - 0 upvotes, $0
-59. [UnResolved ChangeSet are Visible to Public That also Causes Information Disclosure](https://hackerone.com/reports/282843) - 0 upvotes, $0
+55. ["Bad Protocols Validation" Bypass in "wp_kses_bad_protocol_once" using HTML-encoding without trailing semicolons](https://hackerone.com/reports/339483) - 2 upvotes, $350
+56. [Stored XSS in WordPress](https://hackerone.com/reports/276105) - 2 upvotes, $0
+57. [WordPress Automatic Update Protocol Does Not Authenticate Updates Provided by the Server](https://hackerone.com/reports/228854) - 2 upvotes, $0
+58. [Parameter tampering : Price Manipulation of Products](https://hackerone.com/reports/682344) - 1 upvotes, $0
+59. [Clickjacking irclogs.wordpress.org](https://hackerone.com/reports/267075) - 0 upvotes, $0
+60. [UnResolved ChangeSet are Visible to Public That also Causes Information Disclosure](https://hackerone.com/reports/282843) - 0 upvotes, $0
 
 
 [Back](../README.md)

@@ -2,8 +2,8 @@
 
 Top reports from Ubiquiti Inc. program at HackerOne:
 
-1. [Privilege-0 to Root Privilege Escalation on EdgeSwitch](https://hackerone.com/reports/511025) - 79 upvotes, $1604
-2. [Privilege Escalation From user to SYSTEM via unauthenticated command execution](https://hackerone.com/reports/544928) - 73 upvotes, $16109
+1. [Privilege Escalation From user to SYSTEM via unauthenticated command execution](https://hackerone.com/reports/544928) - 231 upvotes, $16109
+2. [Privilege-0 to Root Privilege Escalation on EdgeSwitch](https://hackerone.com/reports/511025) - 79 upvotes, $1604
 3. [Remote Code Execution at http://tw.corp.ubnt.com](https://hackerone.com/reports/269066) - 59 upvotes, $5000
 4. [Public Jenkins instance with /script enabled](https://hackerone.com/reports/403402) - 55 upvotes, $2500
 5. [Subdomain takeover on partners.ubnt.com due to non-used CloudFront DNS entry](https://hackerone.com/reports/145224) - 53 upvotes, $1000
@@ -32,8 +32,8 @@ Top reports from Ubiquiti Inc. program at HackerOne:
 28. [Privilege Escalation: From operator to ubnt (and root) with non-interactive Session Hijacking](https://hackerone.com/reports/241044) - 16 upvotes, $1500
 29. [Reflected XSS](https://hackerone.com/reports/304175) - 16 upvotes, $1000
 30. [Stored XSS in dev-ucrm-billing-demo.ubnt.com In Client Custom Attribute](https://hackerone.com/reports/275515) - 16 upvotes, $250
-31. [[account-global.ubnt.com] CRLF Injection](https://hackerone.com/reports/145128) - 15 upvotes, $150
-32. [[nutty.ubnt.com] DOM Based XSS nuttyapp github-btn.html](https://hackerone.com/reports/200753) - 15 upvotes, $100
+31. [[nutty.ubnt.com] DOM Based XSS nuttyapp github-btn.html](https://hackerone.com/reports/200753) - 16 upvotes, $100
+32. [[account-global.ubnt.com] CRLF Injection](https://hackerone.com/reports/145128) - 15 upvotes, $150
 33. [Subdomain Takeover (moderator.ubnt.com)](https://hackerone.com/reports/181665) - 14 upvotes, $500
 34. [CSRF: Replacing the router configuration backup having an 'operator' user and bypassing the "Referer:' whitelist protection](https://hackerone.com/reports/240098) - 14 upvotes, $500
 35. [EdgeSwitch Command Injection](https://hackerone.com/reports/508256) - 14 upvotes, $100

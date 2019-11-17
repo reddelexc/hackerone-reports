@@ -2,13 +2,13 @@
 
 Top OAuth reports from HackerOne:
 
-1. [Chained Bugs to Leak Victim's Uber's FB Oauth Token](https://hackerone.com/reports/202781) - 323 upvotes, $7500
+1. [Chained Bugs to Leak Victim's Uber's FB Oauth Token](https://hackerone.com/reports/202781) - 326 upvotes, $7500
 2. [Insufficient OAuth callback validation which leads to Periscope account takeover](https://hackerone.com/reports/110293) - 244 upvotes, $5040
 3. [Unauthenticated blind SSRF in OAuth Jira authorization controller](https://hackerone.com/reports/398799) - 208 upvotes, $4000
 4. [Stealing Facebook OAuth Code Through Screenshot viewer](https://hackerone.com/reports/488269) - 176 upvotes, $750
 5. [Incorrect details on OAuth permissions screen allows DMs to be read without permission](https://hackerone.com/reports/434763) - 70 upvotes, $2940
 6. [Facebook OAuth Code Theft through referer leakage on support.rockstargames.com](https://hackerone.com/reports/482743) - 60 upvotes, $750
-7. [CSRF on Periscope Web OAuth authorization endpoint](https://hackerone.com/reports/215381) - 57 upvotes, $2520
+7. [CSRF on Periscope Web OAuth authorization endpoint](https://hackerone.com/reports/215381) - 58 upvotes, $2520
 8. [Stealing Users OAuth Tokens through redirect_uri parameter](https://hackerone.com/reports/665651) - 41 upvotes, $750
 9. [[auth2.zomato.com] Reflected XSS at `oauth2/fallbacks/error` | ORY Hydra an OAuth 2.0 and OpenID Connect Provider](https://hackerone.com/reports/456333) - 38 upvotes, $250
 10. [Oauth flow on the comments widget login can lead to the access code leakage](https://hackerone.com/reports/292783) - 38 upvotes, $0
@@ -16,8 +16,8 @@ Top OAuth reports from HackerOne:
 12. [Twitter iOS fails to validate server certificate and sends oauth token](https://hackerone.com/reports/168538) - 33 upvotes, $2100
 13. [Gitlab Oauth Misconfiguration Lead To Account Takeover](https://hackerone.com/reports/541701) - 32 upvotes, $0
 14. [Stealing Users OAUTH Tokens via redirect_uri](https://hackerone.com/reports/405100) - 30 upvotes, $0
-15. [OAuth 2 Authorization Bypass via CSRF and Cross Site Flashing](https://hackerone.com/reports/136582) - 26 upvotes, $1000
-16. [Race Conditions in OAuth 2 API implementations](https://hackerone.com/reports/55140) - 25 upvotes, $2500
+15. [Race Conditions in OAuth 2 API implementations](https://hackerone.com/reports/55140) - 26 upvotes, $2500
+16. [OAuth 2 Authorization Bypass via CSRF and Cross Site Flashing](https://hackerone.com/reports/136582) - 26 upvotes, $1000
 17. [[Critical] - Steal OAuth Tokens](https://hackerone.com/reports/131202) - 18 upvotes, $840
 18. [XSS in OAuth Redirect Url](https://hackerone.com/reports/163707) - 18 upvotes, $0
 19. [Account takeover via Pornhub Oauth](https://hackerone.com/reports/192648) - 17 upvotes, $1000

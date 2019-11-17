@@ -2,13 +2,13 @@
 
 Top reports from New Relic program at HackerOne:
 
-1. [Password theft login.newrelic.com via Request Smuggling](https://hackerone.com/reports/498052) - 429 upvotes, $3000
+1. [Password theft login.newrelic.com via Request Smuggling](https://hackerone.com/reports/498052) - 435 upvotes, $3000
 2. [Insecure Infrastructure Integrations YML Loading leads to Windows Privilege Escalation](https://hackerone.com/reports/363971) - 61 upvotes, $2500
-3. [Stored XSS in Brower `name` field reflected in two pages](https://hackerone.com/reports/348076) - 35 upvotes, $3000
+3. [Stored XSS in Brower `name` field reflected in two pages](https://hackerone.com/reports/348076) - 36 upvotes, $3000
 4. [[NR Insights] Pull any Insights/NRQL data from any NR account](https://hackerone.com/reports/397137) - 33 upvotes, $2500
 5. [Bypass of my three other reports #267636 + #255894 + #271861 - (IDOR) Ability to see full name associated with other New Relic accounts](https://hackerone.com/reports/320173) - 29 upvotes, $1500
 6. [SSRF in alerts.newrelic.com exposes entire internal network](https://hackerone.com/reports/198690) - 28 upvotes, $0
-7. [The impossibility of inclusion of the trial (BROWSER)](https://hackerone.com/reports/460428) - 25 upvotes, $200
+7. [The impossibility of inclusion of the trial (BROWSER)](https://hackerone.com/reports/460428) - 26 upvotes, $200
 8. [Users can enable API access for free via mass assignment](https://hackerone.com/reports/267781) - 25 upvotes, $0
 9. [Cache-Control Misconfiguration Leads to Sensitive Information Leakage](https://hackerone.com/reports/132835) - 22 upvotes, $0
 10. [Open redirection](https://hackerone.com/reports/207285) - 17 upvotes, $0
