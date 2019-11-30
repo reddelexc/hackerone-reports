@@ -1,4 +1,34 @@
 program,title,link,upvotes,bounty
+Genasys Technologies,Login Bypass to OTP Enumeration,hackerone.com/reports/729961,20,0.0
+Lob,HTTP Request Smuggling on vpn.lob.com,hackerone.com/reports/694604,52,500.0
+GitLab,"Project Template functionality can be used to copy private project data, such as repository, confidential issues, snippets, and merge requests",hackerone.com/reports/689314,123,12000.0
+WakaTime,previous token seems to work even though it does not verify email,hackerone.com/reports/263672,26,0.0
+Nextcloud,Nextcloud domain and name of every user leaked to lookup server,hackerone.com/reports/508490,10,100.0
+QIWI,Раскрытие чувствительной информации composer.lock,hackerone.com/reports/714186,5,100.0
+Nextcloud,"Group admins can remove arbitrary data from ""data"" directory (including admin data)",hackerone.com/reports/508493,27,150.0
+Mail.ru,Reflected XSS on https://go.mail.ru/search?fr=mn&amp;q=&lt;payload&gt;,hackerone.com/reports/722977,15,0.0
+Mail.ru,XSS via message subject - mobile application,hackerone.com/reports/368912,70,1000.0
+Kaspersky,Chrome extension: Websites can uninstall browser extensions,hackerone.com/reports/470519,17,500.0
+Kaspersky,Override links for certificate warnings and similar UI are predictable,hackerone.com/reports/469372,36,2500.0
+Kaspersky,Kaspersky Password Manager allows websites to access user's address data,hackerone.com/reports/430854,51,300.0
+Kaspersky,[Firefox and Chrome browser integration] Websites can hijack Kaspersky's command interface,hackerone.com/reports/470553,6,500.0
+Kaspersky,[No browser integration] Websites can hijack Kaspersky's command interface,hackerone.com/reports/470544,10,500.0
+Kaspersky,[IE browser integration] Websites can hijack Kaspersky's command interface,hackerone.com/reports/470547,20,500.0
+Razer,DOM XSS at https://www.thx.com in IE/Edge browser,hackerone.com/reports/702981,75,250.0
+HackerOne,Team object in GraphQL disclosed of private programs via the industry,hackerone.com/reports/707406,54,500.0
+ZEIT,Unauthorized admission to any team in zeit.co,hackerone.com/reports/681882,3,0.0
+Nextcloud,The password recovery let users know whether an email address exists or not in the website,hackerone.com/reports/681468,10,0.0
+GitLab,DoS attack via comment on Issue,hackerone.com/reports/557154,57,1000.0
+Badoo,Reflected XSS,hackerone.com/reports/739601,185,1000.0
+LocalTapiola,CORS misconfiguration allows to steal customers data,hackerone.com/reports/577969,65,2100.0
+Zomato,[www.zomato.com] Blind XSS on one of the Admin Dashboard,hackerone.com/reports/724889,149,750.0
+Starbucks,Thailand - a small number of SMB CCTV footage backup servers were accessible without authentication.,hackerone.com/reports/417360,75,0.0
+Monero,CVE-2019-13132 - libzmq 4.1 series is vulnerable,hackerone.com/reports/652911,2,0.0
+Starbucks,Thailand – a small number of alarm system portals accessible with the default credentials,hackerone.com/reports/406486,17,500.0
+Starbucks,Improper handling of payment callback allows topping up a Swiss Starbucks Card bypassing actual payment via a crafted success message,hackerone.com/reports/682617,15,0.0
+Monero,Monero Wallet Gui for Windows (Arbitrary Code Execution),hackerone.com/reports/630903,4,0.0
+VK.com,"доступ к com.vk.usersstore.UsersContentProvider, возможна утечка exchange_token на android &lt; 21",hackerone.com/reports/473690,6,100.0
+Slack,Linux Desktop application slack executable does not use pie / no ASLR,hackerone.com/reports/415272,42,100.0
 WordPress,"""Bad Protocols Validation"" Bypass in ""wp_kses_bad_protocol_once"" using HTML-encoding without trailing semicolons",hackerone.com/reports/339483,2,350.0
 Ruby,WEBrick::HTTPAuth::DigestAuth authentication is vulnerable to regular expression denial of service (ReDoS),hackerone.com/reports/661722,6,200.0
 QIWI,какой-то исходный код в корне сайта http://shop.tochka.com,hackerone.com/reports/714024,2,50.0
