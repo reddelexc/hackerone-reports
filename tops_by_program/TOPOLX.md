@@ -4,7 +4,7 @@ Top reports from OLX program at HackerOne:
 
 1. [XSS - main page - search[user_id] parameter](https://hackerone.com/reports/477771) to OLX - 135 upvotes, $0
 2. [[Critical] Delete any account](https://hackerone.com/reports/158872) to OLX - 111 upvotes, $0
-3. [SQL Injection on https://www.olx.co.id](https://hackerone.com/reports/639876) to OLX - 65 upvotes, $0
+3. [SQL Injection on https://www.olx.co.id](https://hackerone.com/reports/639876) to OLX - 66 upvotes, $0
 4. [web cache deception in https://tradus.com lead to name/user_id enumeration and other info](https://hackerone.com/reports/537564) to OLX - 57 upvotes, $0
 5. [SQL Injection https://www.olx.co.id](https://hackerone.com/reports/446293) to OLX - 46 upvotes, $0
 6. [Reflected XSS on https://www.olx.co.id/iklan/*.html via "ad_type" parameter](https://hackerone.com/reports/630265) to OLX - 35 upvotes, $0
@@ -28,10 +28,10 @@ Top reports from OLX program at HackerOne:
 24. [Stored XSS in buy topup OLX Gold Credits](https://hackerone.com/reports/169625) to OLX - 10 upvotes, $0
 25. [I found a way to instantly take over ads by other users and change them (IDOR)](https://hackerone.com/reports/253929) to OLX - 10 upvotes, $0
 26. [Reflected XSS on m.olx.co.id via ad_type parameter](https://hackerone.com/reports/636278) to OLX - 10 upvotes, $0
-27. [Unauthorised access to olx.in user accounts.](https://hackerone.com/reports/155130) to OLX - 9 upvotes, $0
-28. [Full Account Takeover](https://hackerone.com/reports/159202) to OLX - 9 upvotes, $0
-29. [All Active user sessions should be destroyed when user change his password!](https://hackerone.com/reports/150540) to OLX - 9 upvotes, $0
-30. [Arbitrary File Reading](https://hackerone.com/reports/150783) to OLX - 8 upvotes, $0
+27. [Arbitrary File Reading](https://hackerone.com/reports/150783) to OLX - 9 upvotes, $0
+28. [Unauthorised access to olx.in user accounts.](https://hackerone.com/reports/155130) to OLX - 9 upvotes, $0
+29. [Full Account Takeover](https://hackerone.com/reports/159202) to OLX - 9 upvotes, $0
+30. [All Active user sessions should be destroyed when user change his password!](https://hackerone.com/reports/150540) to OLX - 9 upvotes, $0
 31. [CSRF in account configuration leads to complete account compromise](https://hackerone.com/reports/150586) to OLX - 8 upvotes, $0
 32. [Reflected XSS in www.olx.ph](https://hackerone.com/reports/150746) to OLX - 8 upvotes, $0
 33. [Directory Listing of all the resource files of olx.com.eg](https://hackerone.com/reports/175760) to OLX - 7 upvotes, $0

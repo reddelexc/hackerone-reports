@@ -18,7 +18,7 @@ Top reports from Pornhub program at HackerOne:
 14. [Unsecured Elasticsearch Instance](https://hackerone.com/reports/267161) to Pornhub - 30 upvotes, $3500
 15. [[IDOR] post to anyone even if their stream is restricted to friends only](https://hackerone.com/reports/137954) to Pornhub - 26 upvotes, $1500
 16. [IDOR - disclosure of private videos - /api_android_v3/getUserVideos](https://hackerone.com/reports/186279) to Pornhub - 26 upvotes, $1500
-17. [Weak user aunthentication on mobile application - I just broken userKey secret password](https://hackerone.com/reports/138101) to Pornhub - 24 upvotes, $5000
+17. [Weak user aunthentication on mobile application - I just broken userKey secret password](https://hackerone.com/reports/138101) to Pornhub - 25 upvotes, $5000
 18. [[IDOR] Deleting other users comment](https://hackerone.com/reports/138243) to Pornhub - 22 upvotes, $1000
 19. [Possibility to insert stored XSS inside &lt;img&gt; tag](https://hackerone.com/reports/267643) to Pornhub - 19 upvotes, $1500
 20. [Single User DOS by Poisoning Cookie via Get Parameter](https://hackerone.com/reports/416966) to Pornhub - 19 upvotes, $50
@@ -30,13 +30,13 @@ Top reports from Pornhub program at HackerOne:
 26. [Stored XSS in the any user profile using website link](https://hackerone.com/reports/242213) to Pornhub - 14 upvotes, $500
 27. [Mobile Reflect XSS / CSRF at Advertisement Section on Search page](https://hackerone.com/reports/379705) to Pornhub - 14 upvotes, $200
 28. [Mixed Reflected-Stored XSS on pornhub.com (without user interaction) in the playlist playing section](https://hackerone.com/reports/222506) to Pornhub - 13 upvotes, $350
-29. [Blind Stored XSS against Pornhub employees using Amateur Model Program](https://hackerone.com/reports/216379) to Pornhub - 11 upvotes, $500
-30. [Public Facing Barracuda Login](https://hackerone.com/reports/119918) to Pornhub - 11 upvotes, $250
-31. [XSS Vulnerability at https://www.pornhubpremium.com/premium_signup? URL endpoint](https://hackerone.com/reports/202548) to Pornhub - 11 upvotes, $250
-32. [XSS on pornhubselect.com](https://hackerone.com/reports/222556) to Pornhub - 11 upvotes, $0
-33. [Reflected XSS in login redirection module](https://hackerone.com/reports/216806) to Pornhub - 10 upvotes, $250
-34. [Debug.log file Exposed to Public \Full Path Disclosure\](https://hackerone.com/reports/202939) to Pornhub - 10 upvotes, $0
-35. [(Pornhub &amp; Youporn &amp; Brazzers ANDROID APP) : Upload Malicious APK / Overrite Existing APK](https://hackerone.com/reports/142352) to Pornhub - 9 upvotes, $1500
+29. [XSS on pornhubselect.com](https://hackerone.com/reports/222556) to Pornhub - 12 upvotes, $0
+30. [Blind Stored XSS against Pornhub employees using Amateur Model Program](https://hackerone.com/reports/216379) to Pornhub - 11 upvotes, $500
+31. [Public Facing Barracuda Login](https://hackerone.com/reports/119918) to Pornhub - 11 upvotes, $250
+32. [XSS Vulnerability at https://www.pornhubpremium.com/premium_signup? URL endpoint](https://hackerone.com/reports/202548) to Pornhub - 11 upvotes, $250
+33. [(Pornhub &amp; Youporn &amp; Brazzers ANDROID APP) : Upload Malicious APK / Overrite Existing APK](https://hackerone.com/reports/142352) to Pornhub - 10 upvotes, $1500
+34. [Reflected XSS in login redirection module](https://hackerone.com/reports/216806) to Pornhub - 10 upvotes, $250
+35. [Debug.log file Exposed to Public \Full Path Disclosure\](https://hackerone.com/reports/202939) to Pornhub - 10 upvotes, $0
 36. [Disclosure of private photos/albums - http://www.pornhub.com/album/show_image_box](https://hackerone.com/reports/167582) to Pornhub - 9 upvotes, $750
 37. [Race Condition Vulnerability On Pornhubpremium.com](https://hackerone.com/reports/183624) to Pornhub - 9 upvotes, $520
 38. [Stored XSS on the http://ht.pornhub.com/widgets/](https://hackerone.com/reports/186613) to Pornhub - 9 upvotes, $150

@@ -2,27 +2,27 @@
 
 Top reports from Vimeo program at HackerOne:
 
-1. [Domain pointing to vimeo portfolio are prone to takeover using on-demand.](https://hackerone.com/reports/387307) to Vimeo - 67 upvotes, $1500
-2. [Improper Authentication in Vimeo's API 'versions' endpoint.](https://hackerone.com/reports/328724) to Vimeo - 49 upvotes, $2000
+1. [Domain pointing to vimeo portfolio are prone to takeover using on-demand.](https://hackerone.com/reports/387307) to Vimeo - 68 upvotes, $1500
+2. [Improper Authentication in Vimeo's API 'versions' endpoint.](https://hackerone.com/reports/328724) to Vimeo - 51 upvotes, $2000
 3. [Reflected File Download (RFD) in download video](https://hackerone.com/reports/378941) to Vimeo - 48 upvotes, $700
 4. [Watch any Password Video without password](https://hackerone.com/reports/155618) to Vimeo - 41 upvotes, $500
 5. [Downloading password protected / restricted videos](https://hackerone.com/reports/145467) to Vimeo - 38 upvotes, $600
 6. [OAuth 2 Authorization Bypass via CSRF and Cross Site Flashing](https://hackerone.com/reports/136582) to Vimeo - 26 upvotes, $1000
 7. [All Vimeo Private videos disclosure via Authorization Bypass](https://hackerone.com/reports/137502) to Vimeo - 25 upvotes, $600
 8. [Disclosure of sensitive information through Google Cloud Storage bucket](https://hackerone.com/reports/176013) to Vimeo - 21 upvotes, $500
-9. [XSS on vimeo.com/home after other user follows you](https://hackerone.com/reports/87854) to Vimeo - 16 upvotes, $1500
-10. [Make API calls on behalf of another user (CSRF protection bypass)](https://hackerone.com/reports/44146) to Vimeo - 16 upvotes, $1000
+9. [Make API calls on behalf of another user (CSRF protection bypass)](https://hackerone.com/reports/44146) to Vimeo - 17 upvotes, $1000
+10. [XSS on vimeo.com/home after other user follows you](https://hackerone.com/reports/87854) to Vimeo - 16 upvotes, $1500
 11. [Images and Subtitles Leakage from private videos](https://hackerone.com/reports/136850) to Vimeo - 16 upvotes, $125
 12. [CSRF on Vimeo via cross site flashing leading to info disclosure and private videos go public](https://hackerone.com/reports/136481) to Vimeo - 14 upvotes, $750
 13. [URGENT - Subdomain Takeover on status.vimeo.com due to unclaimed domain pointing to statuspage.io](https://hackerone.com/reports/49663) to Vimeo - 10 upvotes, $100
 14. [[vimeopro.com] CRLF Injection](https://hackerone.com/reports/39181) to Vimeo - 6 upvotes, $500
 15. [Stored XSS on player.vimeo.com](https://hackerone.com/reports/85488) to Vimeo - 6 upvotes, $500
 16. [Application XSS filter function Bypass may allow Multiple stored XSS](https://hackerone.com/reports/44217) to Vimeo - 6 upvotes, $100
-17. [Vimeo.com Insecure Direct Object References Reset Password](https://hackerone.com/reports/42587) to Vimeo - 5 upvotes, $5000
-18. [XSS when using captions/subtitles on video player based on Flash (requires user interaction)](https://hackerone.com/reports/88508) to Vimeo - 5 upvotes, $200
-19. [XSS on vimeo.com | "Search within these results" feature (requires user interaction)](https://hackerone.com/reports/88105) to Vimeo - 5 upvotes, $100
-20. [Error page Text Injection.](https://hackerone.com/reports/130914) to Vimeo - 5 upvotes, $0
-21. [Securing "Reset password" pages from bots](https://hackerone.com/reports/43807) to Vimeo - 5 upvotes, $0
+17. [Securing "Reset password" pages from bots](https://hackerone.com/reports/43807) to Vimeo - 6 upvotes, $0
+18. [Vimeo.com Insecure Direct Object References Reset Password](https://hackerone.com/reports/42587) to Vimeo - 5 upvotes, $5000
+19. [XSS when using captions/subtitles on video player based on Flash (requires user interaction)](https://hackerone.com/reports/88508) to Vimeo - 5 upvotes, $200
+20. [XSS on vimeo.com | "Search within these results" feature (requires user interaction)](https://hackerone.com/reports/88105) to Vimeo - 5 upvotes, $100
+21. [Error page Text Injection.](https://hackerone.com/reports/130914) to Vimeo - 5 upvotes, $0
 22. [XSS on mobile version of vimeo.com where the button "Follow" appears](https://hackerone.com/reports/88088) to Vimeo - 5 upvotes, $0
 23. [Adding profile picture to anyone on Vimeo](https://hackerone.com/reports/43617) to Vimeo - 4 upvotes, $1000
 24. [XSS on player.vimeo.com without user interaction and vimeo.com with user interaction](https://hackerone.com/reports/96229) to Vimeo - 4 upvotes, $250

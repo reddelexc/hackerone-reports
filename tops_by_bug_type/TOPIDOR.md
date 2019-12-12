@@ -2,11 +2,11 @@
 
 Top IDOR reports from HackerOne:
 
-1. [IDOR to add secondary users in www.paypal.com/businessmanage/users/api/v1/users](https://hackerone.com/reports/415081) to PayPal - 607 upvotes, $10500
+1. [IDOR to add secondary users in www.paypal.com/businessmanage/users/api/v1/users](https://hackerone.com/reports/415081) to PayPal - 615 upvotes, $10500
 2. [idor allows you to delete photos and album from a gallery](https://hackerone.com/reports/380410) to Redtube - 257 upvotes, $1500
-3. [IDOR allows any user to edit others videos](https://hackerone.com/reports/681473) to YouPorn - 130 upvotes, $1500
+3. [IDOR allows any user to edit others videos](https://hackerone.com/reports/681473) to YouPorn - 205 upvotes, $1500
 4. [IDOR and statistics leakage in Orders](https://hackerone.com/reports/544329) to Twitter - 94 upvotes, $289
-5. [RCE, SQLi, IDOR, Auth Bypass and XSS at [staff.███.edu.eg ]](https://hackerone.com/reports/404874) to ██████ - 49 upvotes, $0
+5. [RCE, SQLi, IDOR, Auth Bypass and XSS at [staff.███.edu.eg ]](https://hackerone.com/reports/404874) to ██████ - 50 upvotes, $0
 6. [IDOR in Report CSV export discloses the IDs of Custom Field Attributes of Programs](https://hackerone.com/reports/510759) to HackerOne - 49 upvotes, $0
 7. [IDOR on HackerOne Feedback Review](https://hackerone.com/reports/262661) to HackerOne - 43 upvotes, $0
 8. [IDOR to delete images from other stores](https://hackerone.com/reports/404797) to Zomato - 40 upvotes, $600
@@ -47,13 +47,13 @@ Top IDOR reports from HackerOne:
 43. [IDOR allow to extract all registered email](https://hackerone.com/reports/302485) to OX App Suite - 10 upvotes, $300
 44. [[www.zomato.com] IDOR - Delete/Deactivate ANY/ALL Promos through a Post Request at **clients/promoDataHandler.php**](https://hackerone.com/reports/264754) to Zomato - 10 upvotes, $200
 45. [IDOR to view other user folder name](https://hackerone.com/reports/333767) to OX App Suite - 9 upvotes, $250
-46. [View &amp; add to cart unlisted items via IDOR](https://hackerone.com/reports/344284) to Instacart - 8 upvotes, $100
+46. [View &amp; add to cart unlisted items via IDOR](https://hackerone.com/reports/344284) to Instacart - 9 upvotes, $100
 47. [Comment restriction in subsection "Workshop" of domain "steamcommunity.com" can be bypassed using IDOR](https://hackerone.com/reports/365504) to Valve - 7 upvotes, $200
 48. [IDOR in tender.mail.ru leading to Information Disclosure](https://hackerone.com/reports/226640) to Mail.ru - 7 upvotes, $0
 49. [IDOR exposes receipts of all users.](https://hackerone.com/reports/283407) to RecargaPay - 7 upvotes, $0
-50. [[upload-X.my.mail.ru] /uploadphoto Insecure Direct Object References](https://hackerone.com/reports/140548) to Mail.ru - 6 upvotes, $160
-51. [IDOR create accounts and verify them with original account email](https://hackerone.com/reports/244636) to WakaTime - 6 upvotes, $0
-52. [IDOR on DoD Website exposes FTP users and passes linked to all accounts!](https://hackerone.com/reports/228383) to U.S. Dept Of Defense - 6 upvotes, $0
+50. [IDOR on DoD Website exposes FTP users and passes linked to all accounts!](https://hackerone.com/reports/228383) to U.S. Dept Of Defense - 7 upvotes, $0
+51. [[upload-X.my.mail.ru] /uploadphoto Insecure Direct Object References](https://hackerone.com/reports/140548) to Mail.ru - 6 upvotes, $160
+52. [IDOR create accounts and verify them with original account email](https://hackerone.com/reports/244636) to WakaTime - 6 upvotes, $0
 53. [Vimeo.com Insecure Direct Object References Reset Password](https://hackerone.com/reports/42587) to Vimeo - 5 upvotes, $5000
 54. [Insecure direct object reference vulnerability on a DoD website](https://hackerone.com/reports/184933) to U.S. Dept Of Defense - 5 upvotes, $0
 55. [IDOR- Activate Mopub on different organizations- steal api token- Fabric.io](https://hackerone.com/reports/95552) to Twitter - 4 upvotes, $5040
@@ -67,25 +67,26 @@ Top IDOR reports from HackerOne:
 63. [Insecure direct object reference - have access to deleted DM's](https://hackerone.com/reports/52646) to Twitter - 2 upvotes, $420
 64. [Generating Unlimited Free Travel Gift Invites | IDOR](https://hackerone.com/reports/49499) to Airbnb - 2 upvotes, $0
 65. [Insecure Direct Object Reference on badoo.com](https://hackerone.com/reports/126861) to Badoo - 2 upvotes, $0
-66. [Insecure Direct Object References in https://vimeo.com/forums](https://hackerone.com/reports/52176) to Vimeo - 1 upvotes, $500
-67. [Insecure Direct Object References that allows to read any comment (even if it should be private)](https://hackerone.com/reports/52181) to Vimeo - 1 upvotes, $150
-68. [IDOR](https://hackerone.com/reports/34728) to Eobot - 1 upvotes, $0
-69. [Critical IDOR - Get venue data of any organization remotely](https://hackerone.com/reports/120305) to Veris - 1 upvotes, $0
-70. [Critical IDOR - Can select any Parent while creating new Venue](https://hackerone.com/reports/120312) to Veris - 1 upvotes, $0
-71. [Critical IDOR - Make Rule for Any Group &amp; Any Venue remotely](https://hackerone.com/reports/120318) to Veris - 1 upvotes, $0
-72. [Critical IDOR - Get Rules of any organization remotely](https://hackerone.com/reports/120314) to Veris - 1 upvotes, $0
-73. [Critical IDOR - Get anyone's Terminal Data remotely](https://hackerone.com/reports/120289) to Veris - 1 upvotes, $0
-74. [Critical IDOR - Set anyone's Terminal Data remotely](https://hackerone.com/reports/120291) to Veris - 1 upvotes, $0
-75. [Critical IDOR - Get Authentication Details of any Terminal/Gatekeeper](https://hackerone.com/reports/120293) to Veris - 1 upvotes, $0
-76. [Critical IDOR - Delete any terminal/gatekeeper of any organization remotely](https://hackerone.com/reports/120288) to Veris - 1 upvotes, $0
-77. [Critical IDOR - Delete any rule of any organization remotely](https://hackerone.com/reports/120126) to Veris - 1 upvotes, $0
-78. [Critical IDOR - Delete any venue of any organization remotely](https://hackerone.com/reports/120123) to Veris - 1 upvotes, $0
-79. [Critical IDOR - Delete any group of any organization remotely](https://hackerone.com/reports/120121) to Veris - 1 upvotes, $0
-80. [Critical - Insecure Direct Object Reference - Deleting any member of any organization remotely](https://hackerone.com/reports/120115) to Veris - 1 upvotes, $0
-81. [IDOR spam anyone's cellphone number through Cuvva app link](https://hackerone.com/reports/232562) to Cuvva - 1 upvotes, $0
-82. [Insecure Direct Object Reference on API without API key](https://hackerone.com/reports/284963) to SEMrush - 1 upvotes, $0
-83. [CRITICAL vulnerability - Insecure Direct Object Reference - Unauthorized access to `Videos` of Channel whose privacy is set to `Private`.](https://hackerone.com/reports/45960) to Vimeo - 0 upvotes, $250
-84. [IDOR on remoing Share](https://hackerone.com/reports/85720) to Enter - 0 upvotes, $250
+66. [Insecure Direct Object Reference on API without API key](https://hackerone.com/reports/284963) to SEMrush - 2 upvotes, $0
+67. [Insecure Direct Object References in https://vimeo.com/forums](https://hackerone.com/reports/52176) to Vimeo - 1 upvotes, $500
+68. [Insecure Direct Object References that allows to read any comment (even if it should be private)](https://hackerone.com/reports/52181) to Vimeo - 1 upvotes, $150
+69. [IDOR](https://hackerone.com/reports/34728) to Eobot - 1 upvotes, $0
+70. [Critical IDOR - Get venue data of any organization remotely](https://hackerone.com/reports/120305) to Veris - 1 upvotes, $0
+71. [Critical IDOR - Can select any Parent while creating new Venue](https://hackerone.com/reports/120312) to Veris - 1 upvotes, $0
+72. [Critical IDOR - Make Rule for Any Group &amp; Any Venue remotely](https://hackerone.com/reports/120318) to Veris - 1 upvotes, $0
+73. [Critical IDOR - Get Rules of any organization remotely](https://hackerone.com/reports/120314) to Veris - 1 upvotes, $0
+74. [Critical IDOR - Get anyone's Terminal Data remotely](https://hackerone.com/reports/120289) to Veris - 1 upvotes, $0
+75. [Critical IDOR - Set anyone's Terminal Data remotely](https://hackerone.com/reports/120291) to Veris - 1 upvotes, $0
+76. [Critical IDOR - Get Authentication Details of any Terminal/Gatekeeper](https://hackerone.com/reports/120293) to Veris - 1 upvotes, $0
+77. [Critical IDOR - Delete any terminal/gatekeeper of any organization remotely](https://hackerone.com/reports/120288) to Veris - 1 upvotes, $0
+78. [Critical IDOR - Delete any rule of any organization remotely](https://hackerone.com/reports/120126) to Veris - 1 upvotes, $0
+79. [Critical IDOR - Delete any venue of any organization remotely](https://hackerone.com/reports/120123) to Veris - 1 upvotes, $0
+80. [Critical IDOR - Delete any group of any organization remotely](https://hackerone.com/reports/120121) to Veris - 1 upvotes, $0
+81. [Critical - Insecure Direct Object Reference - Deleting any member of any organization remotely](https://hackerone.com/reports/120115) to Veris - 1 upvotes, $0
+82. [IDOR spam anyone's cellphone number through Cuvva app link](https://hackerone.com/reports/232562) to Cuvva - 1 upvotes, $0
+83. [Insecure Direct Object Reference on in-scope .mil website](https://hackerone.com/reports/230026) to U.S. Dept Of Defense - 1 upvotes, $0
+84. [CRITICAL vulnerability - Insecure Direct Object Reference - Unauthorized access to `Videos` of Channel whose privacy is set to `Private`.](https://hackerone.com/reports/45960) to Vimeo - 0 upvotes, $250
+85. [IDOR on remoing Share](https://hackerone.com/reports/85720) to Enter - 0 upvotes, $250
 
 
 [Back](../README.md)

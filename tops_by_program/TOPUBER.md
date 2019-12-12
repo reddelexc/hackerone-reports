@@ -2,30 +2,30 @@
 
 Top reports from Uber program at HackerOne:
 
-1. [Sensitive user information disclosure at bonjour.uber.com/marketplace/_rpc via the 'userUuid' parameter](https://hackerone.com/reports/542340) to Uber - 557 upvotes, $6500
-2. [Chained Bugs to Leak Victim's Uber's FB Oauth Token](https://hackerone.com/reports/202781) to Uber - 326 upvotes, $7500
-3. [Change any Uber user's password through /rt/users/passwordless-signup - Account Takeover (critical)](https://hackerone.com/reports/143717) to Uber - 273 upvotes, $10000
+1. [Sensitive user information disclosure at bonjour.uber.com/marketplace/_rpc via the 'userUuid' parameter](https://hackerone.com/reports/542340) to Uber - 569 upvotes, $6500
+2. [Chained Bugs to Leak Victim's Uber's FB Oauth Token](https://hackerone.com/reports/202781) to Uber - 329 upvotes, $7500
+3. [Change any Uber user's password through /rt/users/passwordless-signup - Account Takeover (critical)](https://hackerone.com/reports/143717) to Uber - 274 upvotes, $10000
 4. [Stored XSS in developer.uber.com](https://hackerone.com/reports/131450) to Uber - 195 upvotes, $7500
-5. [XSS At "pages.et.uber.com"](https://hackerone.com/reports/156098) to Uber - 176 upvotes, $0
-6. [Authentication bypass on auth.uber.com via subdomain takeover of saostatic.uber.com](https://hackerone.com/reports/219205) to Uber - 141 upvotes, $5000
+5. [XSS At "pages.et.uber.com"](https://hackerone.com/reports/156098) to Uber - 179 upvotes, $0
+6. [Authentication bypass on auth.uber.com via subdomain takeover of saostatic.uber.com](https://hackerone.com/reports/219205) to Uber - 142 upvotes, $5000
 7. [Reading Emails in Uber Subdomains](https://hackerone.com/reports/156536) to Uber - 130 upvotes, $10000
 8. [Client secret, server tokens for developer applications returned by internal API](https://hackerone.com/reports/419655) to Uber - 106 upvotes, $5000
 9. [Stored XSS on any page in most Uber domains](https://hackerone.com/reports/217739) to Uber - 96 upvotes, $6000
-10. [Open Redirect on central.uber.com allows for account takeover](https://hackerone.com/reports/206591) to Uber - 92 upvotes, $8000
+10. [Open Redirect on central.uber.com allows for account takeover](https://hackerone.com/reports/206591) to Uber - 93 upvotes, $8000
 11. [password reset token leaking allowed for ATO of an Uber account](https://hackerone.com/reports/173551) to Uber - 82 upvotes, $10000
 12. [Possibility to get private email using UUID](https://hackerone.com/reports/127158) to Uber - 80 upvotes, $5000
 13. [SAML Authentication Bypass on uchat.uberinternal.com](https://hackerone.com/reports/223014) to Uber - 78 upvotes, $8500
 14. [[CRITICAL] -- Complete Account Takeover](https://hackerone.com/reports/136885) to Uber - 76 upvotes, $8000
-15. [SQL Injection on sctrack.email.uber.com.cn](https://hackerone.com/reports/150156) to Uber - 69 upvotes, $4000
+15. [SQL Injection on sctrack.email.uber.com.cn](https://hackerone.com/reports/150156) to Uber - 70 upvotes, $4000
 16. [Changing paymentProfileUuid when booking a trip allows free rides](https://hackerone.com/reports/162809) to Uber - 68 upvotes, $5000
-17. [Subdomain takeover at signup.uber.com](https://hackerone.com/reports/197489) to Uber - 67 upvotes, $3000
+17. [Subdomain takeover at signup.uber.com](https://hackerone.com/reports/197489) to Uber - 68 upvotes, $3000
 18. [Lack of proper paymentProfileUUID validation allows any number of free rides without any outstanding balance](https://hackerone.com/reports/574638) to Uber - 65 upvotes, $1500
 19. [xss in https://www.uber.com](https://hackerone.com/reports/145278) to Uber - 62 upvotes, $7000
-20. [Subdomain takeover on rider.uber.com due to non-existent distribution on Cloudfront](https://hackerone.com/reports/175070) to Uber - 61 upvotes, $1000
+20. [Subdomain takeover on rider.uber.com due to non-existent distribution on Cloudfront](https://hackerone.com/reports/175070) to Uber - 62 upvotes, $1000
 21. [Authorization issue in Google G Suite allows DoS through HTTP redirect](https://hackerone.com/reports/191196) to Uber - 59 upvotes, $2500
 22. [Hack The World 2017 Top 2 Bonus](https://hackerone.com/reports/300779) to Uber - 57 upvotes, $5000
-23. [SQL injection in 3rd party software Anomali](https://hackerone.com/reports/206872) to Uber - 56 upvotes, $2500
-24. [uber.com may RCE by Flask Jinja2 Template Injection](https://hackerone.com/reports/125980) to Uber - 54 upvotes, $10000
+23. [uber.com may RCE by Flask Jinja2 Template Injection](https://hackerone.com/reports/125980) to Uber - 56 upvotes, $10000
+24. [SQL injection in 3rd party software Anomali](https://hackerone.com/reports/206872) to Uber - 56 upvotes, $2500
 25. [OneLogin authentication bypass on WordPress sites via XMLRPC](https://hackerone.com/reports/138869) to Uber - 53 upvotes, $7000
 26. [Lack of payment type validation in dial.uber.com allows for free rides](https://hackerone.com/reports/162199) to Uber - 52 upvotes, $5000
 27. [Blind OOB XXE At "http://ubermovement.com/"](https://hackerone.com/reports/154096) to Uber - 52 upvotes, $500
@@ -34,18 +34,18 @@ Top reports from Uber program at HackerOne:
 30. [Avoiding Surge Pricing](https://hackerone.com/reports/125250) to Uber - 44 upvotes, $3000
 31. [OneLogin authentication bypass on WordPress sites](https://hackerone.com/reports/136169) to Uber - 42 upvotes, $10000
 32. [Reflected XSS on multiple uberinternal.com domains](https://hackerone.com/reports/326449) to Uber - 38 upvotes, $2000
-33. [phone number exposure for riders/drivers given email/uuid](https://hackerone.com/reports/225243) to Uber - 35 upvotes, $2000
-34. [Attacker could setup reminder remotely using brute force](https://hackerone.com/reports/158393) to Uber - 35 upvotes, $0
-35. [SQL injection in Wordpress Plugin Huge IT Video Gallery at https://drive.uber.com/frmarketplace/](https://hackerone.com/reports/125932) to Uber - 34 upvotes, $3000
-36. [Reflected XSS in lert.uber.com](https://hackerone.com/reports/191810) to Uber - 34 upvotes, $3000
+33. [Reflected XSS in lert.uber.com](https://hackerone.com/reports/191810) to Uber - 35 upvotes, $3000
+34. [phone number exposure for riders/drivers given email/uuid](https://hackerone.com/reports/225243) to Uber - 35 upvotes, $2000
+35. [Attacker could setup reminder remotely using brute force](https://hackerone.com/reports/158393) to Uber - 35 upvotes, $0
+36. [SQL injection in Wordpress Plugin Huge IT Video Gallery at https://drive.uber.com/frmarketplace/](https://hackerone.com/reports/125932) to Uber - 34 upvotes, $3000
 37. [Stealing users password (Limited Scenario)](https://hackerone.com/reports/163067) to Uber - 31 upvotes, $100
 38. [Possibility to brute force invite codes in riders.uber.com](https://hackerone.com/reports/125505) to Uber - 30 upvotes, $5000
 39. [Reflected XSS POST method at partners.uber.com](https://hackerone.com/reports/129582) to Uber - 30 upvotes, $3000
 40. [Reflected XSS on Partners Subdomain](https://hackerone.com/reports/390181) to Uber - 30 upvotes, $2000
 41. [Stored XSS on developer.uber.com via admin account compromise](https://hackerone.com/reports/152067) to Uber - 27 upvotes, $5000
 42. [Information Leakage - GitHub - VCenter configuration scripts, StorMagic usernames and password along with default ESXi root password](https://hackerone.com/reports/365199) to Uber - 27 upvotes, $1000
-43. [Site-wide CSRF on eats.uber.com](https://hackerone.com/reports/161529) to Uber - 25 upvotes, $6000
-44. [Improper Access Control on Onelogin in multi-layered architecture](https://hackerone.com/reports/326080) to Uber - 25 upvotes, $500
+43. [Improper Access Control on Onelogin in multi-layered architecture](https://hackerone.com/reports/326080) to Uber - 26 upvotes, $500
+44. [Site-wide CSRF on eats.uber.com](https://hackerone.com/reports/161529) to Uber - 25 upvotes, $6000
 45. [Possible to View Driver Waybill via Driver UUID](https://hackerone.com/reports/127087) to Uber - 23 upvotes, $3000
 46. [pam-ussh may be tricked into using another logged in user's ssh-agent](https://hackerone.com/reports/204802) to Uber - 22 upvotes, $1500
 47. [Get organization info base on uuid](https://hackerone.com/reports/151465) to Uber - 21 upvotes, $3000
@@ -106,32 +106,32 @@ Top reports from Uber program at HackerOne:
 102. [Email Address Enumeration](https://hackerone.com/reports/144803) to Uber - 4 upvotes, $0
 103. [Uber is Flooding my Mobile with SMS Daily](https://hackerone.com/reports/141339) to Uber - 4 upvotes, $0
 104. [XSS in uber oauth](https://hackerone.com/reports/131052) to Uber - 4 upvotes, $0
-105. [Configuration and/or source code files on uchat-staging.uberinternal.com can be viewed without OneLogin SSO Authentication](https://hackerone.com/reports/298990) to Uber - 4 upvotes, $0
-106. [SQLi in love.uber.com](https://hackerone.com/reports/125181) to Uber - 3 upvotes, $3000
-107. [CSV Injection in business.uber.com](https://hackerone.com/reports/126109) to Uber - 3 upvotes, $1000
-108. [Mass Assignment Vulnerability in partners.uber.com](https://hackerone.com/reports/99424) to Uber - 3 upvotes, $1000
-109. [Wordpress Vulnerabilities in transparencyreport.uber.com and eng.uber.com domains](https://hackerone.com/reports/148163) to Uber - 3 upvotes, $1000
-110. [Brute-Forcing invite codes](https://hackerone.com/reports/144616) to Uber - 3 upvotes, $750
-111. [CSRF on eng.uber.com may lead to server-side compromise](https://hackerone.com/reports/125594) to Uber - 3 upvotes, $0
-112. [Unsubscribe any user from receiving email](https://hackerone.com/reports/130521) to Uber - 3 upvotes, $0
-113. [Use Partner/Driver App Without Being Activated](https://hackerone.com/reports/127085) to Uber - 3 upvotes, $0
-114. [Phone Number Enumeration](https://hackerone.com/reports/138881) to Uber - 3 upvotes, $0
-115. [Information Disclosure on lite.uber.com](https://hackerone.com/reports/133375) to Uber - 3 upvotes, $0
-116. [Header Injection](https://hackerone.com/reports/143076) to Uber - 3 upvotes, $0
-117. [Text Only Content Spoofing on ubermovement.com Community Page](https://hackerone.com/reports/153095) to Uber - 3 upvotes, $0
-118. [XSS via password recovering](https://hackerone.com/reports/131123) to Uber - 3 upvotes, $0
-119. [reopen #128853 (Information disclosure at lite.uber.com)](https://hackerone.com/reports/129712) to Uber - 3 upvotes, $0
-120. [XSS in people.uber.com](https://hackerone.com/reports/140791) to Uber - 3 upvotes, $0
-121. [text injection in get.uber.com/check-otp](https://hackerone.com/reports/126235) to Uber - 3 upvotes, $0
-122. [The Microsoft Store Uber App Does Not Implement Server-side Token Revocation](https://hackerone.com/reports/293363) to Uber - 3 upvotes, $0
-123. [The Uber Promo Customer Endpoint Does Not Implement Multifactor Authentication, Blacklisting or Rate Limiting](https://hackerone.com/reports/293359) to Uber - 3 upvotes, $0
-124. [SSL-protected Reflected XSS in https://m.uber.com/0-dfffb25d2cf6ceeb0a27.js Endpoint](https://hackerone.com/reports/300080) to Uber - 3 upvotes, $0
-125. [SSL-protected Reflected XSS in m.uber.com](https://hackerone.com/reports/296701) to Uber - 3 upvotes, $0
-126. [SSL-protected Reflected XSS in https://m.uber.com/0-dfffb25d2cf6ceeb0a27.js Endpoint](https://hackerone.com/reports/300081) to Uber - 3 upvotes, $0
-127. [udi-id Query Parameter Can Generate SSL-protected Reflected XSS in https://m.uber.com/0-dfffb25d2cf6ceeb0a27.js Endpoint](https://hackerone.com/reports/300103) to Uber - 3 upvotes, $0
-128. [lite:sess Query Parameter Can Generate SSL-protected Reflected XSS in https://m.uber.com/0-dfffb25d2cf6ceeb0a27.js Endpoint](https://hackerone.com/reports/300101) to Uber - 3 upvotes, $0
-129. [XSS in getrush.uber.com](https://hackerone.com/reports/125112) to Uber - 2 upvotes, $3000
-130. [Dom Based Xss](https://hackerone.com/reports/125498) to Uber - 2 upvotes, $3000
+105. [reopen #128853 (Information disclosure at lite.uber.com)](https://hackerone.com/reports/129712) to Uber - 4 upvotes, $0
+106. [Configuration and/or source code files on uchat-staging.uberinternal.com can be viewed without OneLogin SSO Authentication](https://hackerone.com/reports/298990) to Uber - 4 upvotes, $0
+107. [SQLi in love.uber.com](https://hackerone.com/reports/125181) to Uber - 3 upvotes, $3000
+108. [Dom Based Xss](https://hackerone.com/reports/125498) to Uber - 3 upvotes, $3000
+109. [CSV Injection in business.uber.com](https://hackerone.com/reports/126109) to Uber - 3 upvotes, $1000
+110. [Mass Assignment Vulnerability in partners.uber.com](https://hackerone.com/reports/99424) to Uber - 3 upvotes, $1000
+111. [Wordpress Vulnerabilities in transparencyreport.uber.com and eng.uber.com domains](https://hackerone.com/reports/148163) to Uber - 3 upvotes, $1000
+112. [Brute-Forcing invite codes](https://hackerone.com/reports/144616) to Uber - 3 upvotes, $750
+113. [CSRF on eng.uber.com may lead to server-side compromise](https://hackerone.com/reports/125594) to Uber - 3 upvotes, $0
+114. [Unsubscribe any user from receiving email](https://hackerone.com/reports/130521) to Uber - 3 upvotes, $0
+115. [Use Partner/Driver App Without Being Activated](https://hackerone.com/reports/127085) to Uber - 3 upvotes, $0
+116. [Phone Number Enumeration](https://hackerone.com/reports/138881) to Uber - 3 upvotes, $0
+117. [Information Disclosure on lite.uber.com](https://hackerone.com/reports/133375) to Uber - 3 upvotes, $0
+118. [Header Injection](https://hackerone.com/reports/143076) to Uber - 3 upvotes, $0
+119. [Text Only Content Spoofing on ubermovement.com Community Page](https://hackerone.com/reports/153095) to Uber - 3 upvotes, $0
+120. [XSS via password recovering](https://hackerone.com/reports/131123) to Uber - 3 upvotes, $0
+121. [XSS in people.uber.com](https://hackerone.com/reports/140791) to Uber - 3 upvotes, $0
+122. [text injection in get.uber.com/check-otp](https://hackerone.com/reports/126235) to Uber - 3 upvotes, $0
+123. [The Microsoft Store Uber App Does Not Implement Server-side Token Revocation](https://hackerone.com/reports/293363) to Uber - 3 upvotes, $0
+124. [The Uber Promo Customer Endpoint Does Not Implement Multifactor Authentication, Blacklisting or Rate Limiting](https://hackerone.com/reports/293359) to Uber - 3 upvotes, $0
+125. [SSL-protected Reflected XSS in https://m.uber.com/0-dfffb25d2cf6ceeb0a27.js Endpoint](https://hackerone.com/reports/300080) to Uber - 3 upvotes, $0
+126. [SSL-protected Reflected XSS in m.uber.com](https://hackerone.com/reports/296701) to Uber - 3 upvotes, $0
+127. [SSL-protected Reflected XSS in https://m.uber.com/0-dfffb25d2cf6ceeb0a27.js Endpoint](https://hackerone.com/reports/300081) to Uber - 3 upvotes, $0
+128. [udi-id Query Parameter Can Generate SSL-protected Reflected XSS in https://m.uber.com/0-dfffb25d2cf6ceeb0a27.js Endpoint](https://hackerone.com/reports/300103) to Uber - 3 upvotes, $0
+129. [lite:sess Query Parameter Can Generate SSL-protected Reflected XSS in https://m.uber.com/0-dfffb25d2cf6ceeb0a27.js Endpoint](https://hackerone.com/reports/300101) to Uber - 3 upvotes, $0
+130. [XSS in getrush.uber.com](https://hackerone.com/reports/125112) to Uber - 2 upvotes, $3000
 131. [Drivers can change profile picture](https://hackerone.com/reports/101063) to Uber - 2 upvotes, $500
 132. [Estimation of a Lower Bound on Number of Uber Drivers via Enumeration](https://hackerone.com/reports/125488) to Uber - 2 upvotes, $500
 133. [LIsting of](https://hackerone.com/reports/125068) to Uber - 2 upvotes, $0

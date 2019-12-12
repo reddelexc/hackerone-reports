@@ -9,8 +9,8 @@ Top reports from Gratipay program at HackerOne:
 5. [configure a redirect URI for Facebook OAuth](https://hackerone.com/reports/140432) to Gratipay - 13 upvotes, $10
 6. [fix bug in username restriction](https://hackerone.com/reports/128121) to Gratipay - 13 upvotes, $10
 7. [User Supplied links on profile page is not validated and redirected via gratipay.](https://hackerone.com/reports/151831) to Gratipay - 12 upvotes, $0
-8. [don't leak Server version for assets.gratipay.com](https://hackerone.com/reports/149710) to Gratipay - 11 upvotes, $0
-9. [Application-level DoS on image's "size" parameter.](https://hackerone.com/reports/247700) to Gratipay - 11 upvotes, $0
+8. [Application-level DoS on image's "size" parameter.](https://hackerone.com/reports/247700) to Gratipay - 12 upvotes, $0
+9. [don't leak Server version for assets.gratipay.com](https://hackerone.com/reports/149710) to Gratipay - 11 upvotes, $0
 10. [Limit email address length](https://hackerone.com/reports/127995) to Gratipay - 10 upvotes, $1
 11. [HTTP trace method is enabled on aspen.io](https://hackerone.com/reports/203409) to Gratipay - 10 upvotes, $0
 12. [Content length restriction bypass can lead to DOS by reading large files on gip.rocks](https://hackerone.com/reports/203388) to Gratipay - 10 upvotes, $0

@@ -5,9 +5,9 @@ Top Race Condition reports from HackerOne:
 1. [Race condition in performing retest allows duplicated payments](https://hackerone.com/reports/429026) to HackerOne - 187 upvotes, $2100
 2. [Client-Side Race Condition using Marketo, allows sending user to data-protocol in Safari when form without onSuccess is submitted on www.hackerone.com](https://hackerone.com/reports/381356) to HackerOne - 125 upvotes, $1250
 3. [Race Conditions in Popular reports feature.](https://hackerone.com/reports/146845) to HackerOne - 95 upvotes, $500
-4. [Race Condition in Flag Submission](https://hackerone.com/reports/454949) to HackerOne - 59 upvotes, $500
+4. [Race Condition in Flag Submission](https://hackerone.com/reports/454949) to HackerOne - 60 upvotes, $500
 5. [Race condition leads to duplicate payouts](https://hackerone.com/reports/220445) to HackerOne - 53 upvotes, $750
-6. [Race Condition : Exploiting the loyalty claim https://xxx.vendhq.com/loyalty/claim/email/xxxxx url and gain x amount of loyalty bonus/cash](https://hackerone.com/reports/331940) to Vend - 50 upvotes, $0
+6. [Race Condition : Exploiting the loyalty claim https://xxx.vendhq.com/loyalty/claim/email/xxxxx url and gain x amount of loyalty bonus/cash](https://hackerone.com/reports/331940) to Vend - 52 upvotes, $0
 7. [Race condition in claiming program credentials](https://hackerone.com/reports/488985) to HackerOne - 41 upvotes, $500
 8. [Race Condition in Redeeming Coupons](https://hackerone.com/reports/157996) to Instacart - 28 upvotes, $200
 9. [JSBeautifier BApp: Race condition leads to memory disclosure](https://hackerone.com/reports/187134) to PortSwigger Web Security - 27 upvotes, $0
@@ -23,8 +23,8 @@ Top Race Condition reports from HackerOne:
 19. [race condition in adding team members](https://hackerone.com/reports/176127) to Shopify - 11 upvotes, $500
 20. [Race Condition Vulnerability On Pornhubpremium.com](https://hackerone.com/reports/183624) to Pornhub - 9 upvotes, $520
 21. [Race Condition in Definition Votes](https://hackerone.com/reports/152717) to Urban Dictionary - 9 upvotes, $0
-22. [Race Condition in Article "Helpful" Indicator](https://hackerone.com/reports/109485) to Zendesk - 7 upvotes, $50
-23. [Race condition in Flash workers may cause an exploitabl​e double free](https://hackerone.com/reports/37240) to Flash (IBB) - 5 upvotes, $10000
+22. [Race condition in Flash workers may cause an exploitabl​e double free](https://hackerone.com/reports/37240) to Flash (IBB) - 7 upvotes, $10000
+23. [Race Condition in Article "Helpful" Indicator](https://hackerone.com/reports/109485) to Zendesk - 7 upvotes, $50
 24. [Bypass subdomain limits using race condition](https://hackerone.com/reports/395351) to Chaturbate - 5 upvotes, $100
 25. [Race condition allowing user to review app multiple times](https://hackerone.com/reports/106360) to Coinbase - 3 upvotes, $100
 26. [Race condition when redeeming coupon codes](https://hackerone.com/reports/59179) to Dropbox - 2 upvotes, $216

@@ -2,20 +2,20 @@
 
 Top OAuth reports from HackerOne:
 
-1. [Chained Bugs to Leak Victim's Uber's FB Oauth Token](https://hackerone.com/reports/202781) to Uber - 326 upvotes, $7500
+1. [Chained Bugs to Leak Victim's Uber's FB Oauth Token](https://hackerone.com/reports/202781) to Uber - 329 upvotes, $7500
 2. [Insufficient OAuth callback validation which leads to Periscope account takeover](https://hackerone.com/reports/110293) to Twitter - 244 upvotes, $5040
 3. [Unauthenticated blind SSRF in OAuth Jira authorization controller](https://hackerone.com/reports/398799) to GitLab - 208 upvotes, $4000
-4. [Stealing Facebook OAuth Code Through Screenshot viewer](https://hackerone.com/reports/488269) to Rockstar Games - 176 upvotes, $750
+4. [Stealing Facebook OAuth Code Through Screenshot viewer](https://hackerone.com/reports/488269) to Rockstar Games - 177 upvotes, $750
 5. [Incorrect details on OAuth permissions screen allows DMs to be read without permission](https://hackerone.com/reports/434763) to Twitter - 70 upvotes, $2940
 6. [Facebook OAuth Code Theft through referer leakage on support.rockstargames.com](https://hackerone.com/reports/482743) to Rockstar Games - 60 upvotes, $750
 7. [CSRF on Periscope Web OAuth authorization endpoint](https://hackerone.com/reports/215381) to Twitter - 58 upvotes, $2520
-8. [Stealing Users OAuth Tokens through redirect_uri parameter](https://hackerone.com/reports/665651) to TTS Bug Bounty - 41 upvotes, $750
+8. [Stealing Users OAuth Tokens through redirect_uri parameter](https://hackerone.com/reports/665651) to TTS Bug Bounty - 42 upvotes, $750
 9. [[auth2.zomato.com] Reflected XSS at `oauth2/fallbacks/error` | ORY Hydra an OAuth 2.0 and OpenID Connect Provider](https://hackerone.com/reports/456333) to Zomato - 38 upvotes, $250
 10. [Oauth flow on the comments widget login can lead to the access code leakage](https://hackerone.com/reports/292783) to Ed - 38 upvotes, $0
-11. [Smuggle SocialClub's Facebook OAuth Code via Referer Leakage](https://hackerone.com/reports/342709) to Rockstar Games - 34 upvotes, $750
-12. [Twitter iOS fails to validate server certificate and sends oauth token](https://hackerone.com/reports/168538) to Twitter - 33 upvotes, $2100
-13. [Gitlab Oauth Misconfiguration Lead To Account Takeover](https://hackerone.com/reports/541701) to ZEIT - 32 upvotes, $0
-14. [Stealing Users OAUTH Tokens via redirect_uri](https://hackerone.com/reports/405100) to BOHEMIA INTERACTIVE a.s. - 30 upvotes, $0
+11. [Twitter iOS fails to validate server certificate and sends oauth token](https://hackerone.com/reports/168538) to Twitter - 34 upvotes, $2100
+12. [Smuggle SocialClub's Facebook OAuth Code via Referer Leakage](https://hackerone.com/reports/342709) to Rockstar Games - 34 upvotes, $750
+13. [Gitlab Oauth Misconfiguration Lead To Account Takeover](https://hackerone.com/reports/541701) to ZEIT - 33 upvotes, $0
+14. [Stealing Users OAUTH Tokens via redirect_uri](https://hackerone.com/reports/405100) to BOHEMIA INTERACTIVE a.s. - 31 upvotes, $0
 15. [Race Conditions in OAuth 2 API implementations](https://hackerone.com/reports/55140) to The Internet - 26 upvotes, $2500
 16. [OAuth 2 Authorization Bypass via CSRF and Cross Site Flashing](https://hackerone.com/reports/136582) to Vimeo - 26 upvotes, $1000
 17. [[Critical] - Steal OAuth Tokens](https://hackerone.com/reports/131202) to Twitter - 18 upvotes, $840
