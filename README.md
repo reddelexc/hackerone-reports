@@ -1,4 +1,13 @@
 Tops of HackerOne reports. All reports' raw info stored in `data.csv`.
+Scripts to update `data.csv` are written in Python 3 and require `selenium`.
+Every script contains some info about how it works.
+The run order of scripts:
+
+1) `fetcher.py`
+1) `filler.py`
+1) `rater.py`
+
+Tops 100.
 
 - [Top 100 upvoted reports](tops_100/TOP100UPVOTED.md)
 - [Top 100 paid reports](tops_100/TOP100PAID.md)
