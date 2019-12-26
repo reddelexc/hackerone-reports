@@ -2,7 +2,7 @@
 
 Top reports from Verizon Media program at HackerOne:
 
-1. [Local File Include on marketing-dam.yahoo.com](https://hackerone.com/reports/7779) to Verizon Media - 12 upvotes, $2500
+1. [Local File Include on marketing-dam.yahoo.com](https://hackerone.com/reports/7779) to Verizon Media - 13 upvotes, $2500
 2. [Header injection on rmaitrack.ads.vip.bf1.yahoo.com](https://hackerone.com/reports/6322) to Verizon Media - 11 upvotes, $1000
 3. [Store XSS Flicker main page](https://hackerone.com/reports/940) to Verizon Media - 10 upvotes, $1960
 4. [Cross-site scripting on the main page of flickr by tagging a user.](https://hackerone.com/reports/916) to Verizon Media - 9 upvotes, $2173

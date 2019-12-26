@@ -131,78 +131,78 @@ Top reports from PHP (IBB) program at HackerOne:
 127. [heap-buffer-overflow (write) simplestring_addn simplestring.c](https://hackerone.com/reports/153863) to PHP (IBB) - 2 upvotes, $500
 128. [Trivial age-old heap overflow in 32-bit PHP](https://hackerone.com/reports/112863) to PHP (IBB) - 2 upvotes, $500
 129. [Heap BufferOver Flow in escapeshellargs and escapeshellcmd functions](https://hackerone.com/reports/110722) to PHP (IBB) - 2 upvotes, $500
-130. [3 heap corruptions in PHP](https://hackerone.com/reports/188102) to PHP (IBB) - 1 upvotes, $1500
-131. [Stack Buffer Overflow in GD dynamicGetbuf](https://hackerone.com/reports/175587) to PHP (IBB) - 1 upvotes, $1500
-132. [Inadequate error handling in bzread()](https://hackerone.com/reports/152772) to PHP (IBB) - 1 upvotes, $1500
-133. [Negative size parameter (-1) in memcpy mbfl_strcut](https://hackerone.com/reports/127242) to PHP (IBB) - 1 upvotes, $1000
-134. [Memory Leakage In exif_process_IFD_in_TIFF (CVE-2016-7128)](https://hackerone.com/reports/160294) to PHP (IBB) - 1 upvotes, $1000
-135. [Stack-based buffer overflow vulnerability in php_stream_zip_opener](https://hackerone.com/reports/152278) to PHP (IBB) - 1 upvotes, $1000
-136. [Heap Overflow Due To Integer Overflow](https://hackerone.com/reports/146360) to PHP (IBB) - 1 upvotes, $1000
-137. [Invalid free in phar_extract_file()](https://hackerone.com/reports/146202) to PHP (IBB) - 1 upvotes, $1000
-138. [Use-after-free vulnerability in SPL(SplObjectStorage, unserialize)](https://hackerone.com/reports/114079) to PHP (IBB) - 1 upvotes, $1000
-139. [Use-after-free vulnerability in SPL(ArrayObject, unserialize)](https://hackerone.com/reports/114078) to PHP (IBB) - 1 upvotes, $1000
-140. [openssl_seal() uninitialized memory usage](https://hackerone.com/reports/114414) to PHP (IBB) - 1 upvotes, $1000
-141. [out of bounds read crashes php-cgi](https://hackerone.com/reports/73234) to PHP (IBB) - 1 upvotes, $500
-142. [memcpy negative size parameter in php_resolve_path](https://hackerone.com/reports/175311) to PHP (IBB) - 1 upvotes, $500
-143. [potential remote code execution with phar archive](https://hackerone.com/reports/126652) to PHP (IBB) - 1 upvotes, $500
-144. [xml_parse_into_struct segmentation fault](https://hackerone.com/reports/135294) to PHP (IBB) - 1 upvotes, $500
-145. [stack-buffer-overflow through "ResourceBundle" methods](https://hackerone.com/reports/175316) to PHP (IBB) - 1 upvotes, $500
-146. [bcpowmod accepts negative scale and corrupts _one_ definition](https://hackerone.com/reports/135293) to PHP (IBB) - 1 upvotes, $500
-147. [get_icu_value_internal out-of-bounds read](https://hackerone.com/reports/141197) to PHP (IBB) - 1 upvotes, $500
-148. [locale_accept_from_http out-of-bounds access](https://hackerone.com/reports/152782) to PHP (IBB) - 1 upvotes, $500
-149. [Illegal write access through Locale methods](https://hackerone.com/reports/175315) to PHP (IBB) - 1 upvotes, $500
-150. [CVE-2015-8874 Stack overflow with imagefilltoborder](https://hackerone.com/reports/146936) to PHP (IBB) - 1 upvotes, $500
-151. [imagegif/output out-of-bounds access](https://hackerone.com/reports/152784) to PHP (IBB) - 1 upvotes, $500
-152. [Integer underflow / arbitrary null write in fread/gzread](https://hackerone.com/reports/141212) to PHP (IBB) - 1 upvotes, $500
-153. [Null pointer deref with ob_start with get_defined_vars](https://hackerone.com/reports/113799) to PHP (IBB) - 1 upvotes, $500
-154. [Null pointer deref with ob_start with compact](https://hackerone.com/reports/113798) to PHP (IBB) - 1 upvotes, $500
-155. [memory corruption while parsing HTTP response](https://hackerone.com/reports/320222) to PHP (IBB) - 1 upvotes, $500
-156. [imagescale out-of-bounds read](https://hackerone.com/reports/141202) to PHP (IBB) - 1 upvotes, $500
-157. [gdImageTrueColorToPaletteBody allows arbitrary write/read access](https://hackerone.com/reports/153776) to PHP (IBB) - 1 upvotes, $500
-158. [wddx_deserialize null dereference](https://hackerone.com/reports/161216) to PHP (IBB) - 1 upvotes, $500
-159. [NULL Pointer Dereference while unserialize php object](https://hackerone.com/reports/195688) to PHP (IBB) - 1 upvotes, $500
-160. [Invalid read when wddx decodes empty boolean element](https://hackerone.com/reports/188661) to PHP (IBB) - 1 upvotes, $500
-161. [NULL pointer dereference in SimpleXMLElement::asXML()](https://hackerone.com/reports/175262) to PHP (IBB) - 1 upvotes, $500
-162. [crash in openssl_random_pseudo_bytes function](https://hackerone.com/reports/175263) to PHP (IBB) - 1 upvotes, $500
-163. [missing NULL check in dom_document_save_html](https://hackerone.com/reports/175260) to PHP (IBB) - 1 upvotes, $500
-164. [heap overflow in php_ereg_replace function](https://hackerone.com/reports/175264) to PHP (IBB) - 1 upvotes, $500
-165. [crash in implode() function](https://hackerone.com/reports/180110) to PHP (IBB) - 1 upvotes, $500
-166. [iconv() function missing string length check](https://hackerone.com/reports/180112) to PHP (IBB) - 1 upvotes, $500
-167. [crash in bzcompress function](https://hackerone.com/reports/180111) to PHP (IBB) - 1 upvotes, $500
-168. [crash in get_icu_value_internal function](https://hackerone.com/reports/180113) to PHP (IBB) - 1 upvotes, $500
-169. [crash in locale_get_keywords() when keyword value in locale string too long](https://hackerone.com/reports/180115) to PHP (IBB) - 1 upvotes, $500
-170. [another crash in locale_get_keywords function](https://hackerone.com/reports/180116) to PHP (IBB) - 1 upvotes, $500
-171. [CachingIterator null dereference when convert to string](https://hackerone.com/reports/176226) to PHP (IBB) - 1 upvotes, $500
-172. [Memory corruption in _php_math_number_format_ex()](https://hackerone.com/reports/180562) to PHP (IBB) - 1 upvotes, $500
-173. [Heap overflow due to integer overflow in bzdecompress() function](https://hackerone.com/reports/180563) to PHP (IBB) - 1 upvotes, $500
-174. [Memory corruption due to missing check size in _php_math_number_format_ex()](https://hackerone.com/reports/180572) to PHP (IBB) - 1 upvotes, $500
-175. [Heap overflow due to integer overflow in pg_escape_string() function](https://hackerone.com/reports/180584) to PHP (IBB) - 1 upvotes, $500
-176. [Heap overflow due to integer overflow in php_escape_html_entities_ex() function](https://hackerone.com/reports/180582) to PHP (IBB) - 1 upvotes, $500
-177. [Invalid memory access in zend_strtod() function](https://hackerone.com/reports/180588) to PHP (IBB) - 1 upvotes, $500
-178. [crash in simplestring_addn function](https://hackerone.com/reports/180589) to PHP (IBB) - 1 upvotes, $500
-179. [Invalid memory access in spl_filesystem_dir_open function](https://hackerone.com/reports/180590) to PHP (IBB) - 1 upvotes, $500
-180. [Invalid memory access in php_basename function](https://hackerone.com/reports/180591) to PHP (IBB) - 1 upvotes, $500
-181. [Invalid memory access in spl_filesystem_info_set_filename function](https://hackerone.com/reports/180592) to PHP (IBB) - 1 upvotes, $500
-182. [malloc negative size parameter](https://hackerone.com/reports/181073) to PHP (IBB) - 1 upvotes, $500
-183. [php_snmp_parse_oid integer overflow in memory allocation](https://hackerone.com/reports/178094) to PHP (IBB) - 1 upvotes, $500
-184. [gzuncompress does NOT check output string size which leads to an overflow](https://hackerone.com/reports/168028) to PHP (IBB) - 1 upvotes, $500
-185. [gzdecode does NOT check output string size which leads to an overflow](https://hackerone.com/reports/168027) to PHP (IBB) - 1 upvotes, $500
-186. [Missing type check when unserializing SplArray](https://hackerone.com/reports/167977) to PHP (IBB) - 1 upvotes, $500
-187. [integer overflow in xml_utf8_encode](https://hackerone.com/reports/167921) to PHP (IBB) - 1 upvotes, $500
-188. [Heap overflow in curl_escape](https://hackerone.com/reports/160295) to PHP (IBB) - 1 upvotes, $500
-189. [Out of bound when verify signature of tar phar in phar_parse_tarfile](https://hackerone.com/reports/167896) to PHP (IBB) - 1 upvotes, $500
-190. [Out of bound when verify signature of zip phar in phar_parse_zipfile](https://hackerone.com/reports/167895) to PHP (IBB) - 1 upvotes, $500
-191. [Heap Overflow due to integer overflows](https://hackerone.com/reports/159988) to PHP (IBB) - 1 upvotes, $500
-192. [Integer Overflow in gdImagePaletteToTrueColor() resulting in heap overflow](https://hackerone.com/reports/147125) to PHP (IBB) - 1 upvotes, $500
-193. [NULL Pointer Dereference at _gdScaleVert](https://hackerone.com/reports/146944) to PHP (IBB) - 1 upvotes, $500
-194. [Integer Overflow in _gd2GetHeader() resulting in heap overflow](https://hackerone.com/reports/143234) to PHP (IBB) - 1 upvotes, $500
-195. [Double Free Corruption in wddx.c (extension)](https://hackerone.com/reports/146255) to PHP (IBB) - 1 upvotes, $500
-196. [_php_mb_regex_ereg_replace_exec - double free](https://hackerone.com/reports/146200) to PHP (IBB) - 1 upvotes, $500
-197. [Multiple vulnerabilities related to PCRE functions (already fixed)](https://hackerone.com/reports/141839) to PHP (IBB) - 1 upvotes, $500
-198. [An integer overflow bug in php_str_to_str_ex() led arbitrary code execution.](https://hackerone.com/reports/113122) to PHP (IBB) - 1 upvotes, $500
-199. [PHP-FPM fpm_log.c memory leak and buffer overflow](https://hackerone.com/reports/112723) to PHP (IBB) - 1 upvotes, $500
-200. [An integer overflow bug in php_implode() could lead heap overflow, make PHP to crash](https://hackerone.com/reports/113120) to PHP (IBB) - 1 upvotes, $500
-201. [Arbitary Memory Read via gdImageRotateInterpolated Array Index Out of Bounds](https://hackerone.com/reports/110720) to PHP (IBB) - 1 upvotes, $500
+130. [Arbitary Memory Read via gdImageRotateInterpolated Array Index Out of Bounds](https://hackerone.com/reports/110720) to PHP (IBB) - 2 upvotes, $500
+131. [3 heap corruptions in PHP](https://hackerone.com/reports/188102) to PHP (IBB) - 1 upvotes, $1500
+132. [Stack Buffer Overflow in GD dynamicGetbuf](https://hackerone.com/reports/175587) to PHP (IBB) - 1 upvotes, $1500
+133. [Inadequate error handling in bzread()](https://hackerone.com/reports/152772) to PHP (IBB) - 1 upvotes, $1500
+134. [Negative size parameter (-1) in memcpy mbfl_strcut](https://hackerone.com/reports/127242) to PHP (IBB) - 1 upvotes, $1000
+135. [Memory Leakage In exif_process_IFD_in_TIFF (CVE-2016-7128)](https://hackerone.com/reports/160294) to PHP (IBB) - 1 upvotes, $1000
+136. [Stack-based buffer overflow vulnerability in php_stream_zip_opener](https://hackerone.com/reports/152278) to PHP (IBB) - 1 upvotes, $1000
+137. [Heap Overflow Due To Integer Overflow](https://hackerone.com/reports/146360) to PHP (IBB) - 1 upvotes, $1000
+138. [Invalid free in phar_extract_file()](https://hackerone.com/reports/146202) to PHP (IBB) - 1 upvotes, $1000
+139. [Use-after-free vulnerability in SPL(SplObjectStorage, unserialize)](https://hackerone.com/reports/114079) to PHP (IBB) - 1 upvotes, $1000
+140. [Use-after-free vulnerability in SPL(ArrayObject, unserialize)](https://hackerone.com/reports/114078) to PHP (IBB) - 1 upvotes, $1000
+141. [openssl_seal() uninitialized memory usage](https://hackerone.com/reports/114414) to PHP (IBB) - 1 upvotes, $1000
+142. [out of bounds read crashes php-cgi](https://hackerone.com/reports/73234) to PHP (IBB) - 1 upvotes, $500
+143. [memcpy negative size parameter in php_resolve_path](https://hackerone.com/reports/175311) to PHP (IBB) - 1 upvotes, $500
+144. [potential remote code execution with phar archive](https://hackerone.com/reports/126652) to PHP (IBB) - 1 upvotes, $500
+145. [xml_parse_into_struct segmentation fault](https://hackerone.com/reports/135294) to PHP (IBB) - 1 upvotes, $500
+146. [stack-buffer-overflow through "ResourceBundle" methods](https://hackerone.com/reports/175316) to PHP (IBB) - 1 upvotes, $500
+147. [bcpowmod accepts negative scale and corrupts _one_ definition](https://hackerone.com/reports/135293) to PHP (IBB) - 1 upvotes, $500
+148. [get_icu_value_internal out-of-bounds read](https://hackerone.com/reports/141197) to PHP (IBB) - 1 upvotes, $500
+149. [locale_accept_from_http out-of-bounds access](https://hackerone.com/reports/152782) to PHP (IBB) - 1 upvotes, $500
+150. [Illegal write access through Locale methods](https://hackerone.com/reports/175315) to PHP (IBB) - 1 upvotes, $500
+151. [CVE-2015-8874 Stack overflow with imagefilltoborder](https://hackerone.com/reports/146936) to PHP (IBB) - 1 upvotes, $500
+152. [imagegif/output out-of-bounds access](https://hackerone.com/reports/152784) to PHP (IBB) - 1 upvotes, $500
+153. [Integer underflow / arbitrary null write in fread/gzread](https://hackerone.com/reports/141212) to PHP (IBB) - 1 upvotes, $500
+154. [Null pointer deref with ob_start with get_defined_vars](https://hackerone.com/reports/113799) to PHP (IBB) - 1 upvotes, $500
+155. [Null pointer deref with ob_start with compact](https://hackerone.com/reports/113798) to PHP (IBB) - 1 upvotes, $500
+156. [memory corruption while parsing HTTP response](https://hackerone.com/reports/320222) to PHP (IBB) - 1 upvotes, $500
+157. [imagescale out-of-bounds read](https://hackerone.com/reports/141202) to PHP (IBB) - 1 upvotes, $500
+158. [gdImageTrueColorToPaletteBody allows arbitrary write/read access](https://hackerone.com/reports/153776) to PHP (IBB) - 1 upvotes, $500
+159. [wddx_deserialize null dereference](https://hackerone.com/reports/161216) to PHP (IBB) - 1 upvotes, $500
+160. [NULL Pointer Dereference while unserialize php object](https://hackerone.com/reports/195688) to PHP (IBB) - 1 upvotes, $500
+161. [Invalid read when wddx decodes empty boolean element](https://hackerone.com/reports/188661) to PHP (IBB) - 1 upvotes, $500
+162. [NULL pointer dereference in SimpleXMLElement::asXML()](https://hackerone.com/reports/175262) to PHP (IBB) - 1 upvotes, $500
+163. [crash in openssl_random_pseudo_bytes function](https://hackerone.com/reports/175263) to PHP (IBB) - 1 upvotes, $500
+164. [missing NULL check in dom_document_save_html](https://hackerone.com/reports/175260) to PHP (IBB) - 1 upvotes, $500
+165. [heap overflow in php_ereg_replace function](https://hackerone.com/reports/175264) to PHP (IBB) - 1 upvotes, $500
+166. [crash in implode() function](https://hackerone.com/reports/180110) to PHP (IBB) - 1 upvotes, $500
+167. [iconv() function missing string length check](https://hackerone.com/reports/180112) to PHP (IBB) - 1 upvotes, $500
+168. [crash in bzcompress function](https://hackerone.com/reports/180111) to PHP (IBB) - 1 upvotes, $500
+169. [crash in get_icu_value_internal function](https://hackerone.com/reports/180113) to PHP (IBB) - 1 upvotes, $500
+170. [crash in locale_get_keywords() when keyword value in locale string too long](https://hackerone.com/reports/180115) to PHP (IBB) - 1 upvotes, $500
+171. [another crash in locale_get_keywords function](https://hackerone.com/reports/180116) to PHP (IBB) - 1 upvotes, $500
+172. [CachingIterator null dereference when convert to string](https://hackerone.com/reports/176226) to PHP (IBB) - 1 upvotes, $500
+173. [Memory corruption in _php_math_number_format_ex()](https://hackerone.com/reports/180562) to PHP (IBB) - 1 upvotes, $500
+174. [Heap overflow due to integer overflow in bzdecompress() function](https://hackerone.com/reports/180563) to PHP (IBB) - 1 upvotes, $500
+175. [Memory corruption due to missing check size in _php_math_number_format_ex()](https://hackerone.com/reports/180572) to PHP (IBB) - 1 upvotes, $500
+176. [Heap overflow due to integer overflow in pg_escape_string() function](https://hackerone.com/reports/180584) to PHP (IBB) - 1 upvotes, $500
+177. [Heap overflow due to integer overflow in php_escape_html_entities_ex() function](https://hackerone.com/reports/180582) to PHP (IBB) - 1 upvotes, $500
+178. [Invalid memory access in zend_strtod() function](https://hackerone.com/reports/180588) to PHP (IBB) - 1 upvotes, $500
+179. [crash in simplestring_addn function](https://hackerone.com/reports/180589) to PHP (IBB) - 1 upvotes, $500
+180. [Invalid memory access in spl_filesystem_dir_open function](https://hackerone.com/reports/180590) to PHP (IBB) - 1 upvotes, $500
+181. [Invalid memory access in php_basename function](https://hackerone.com/reports/180591) to PHP (IBB) - 1 upvotes, $500
+182. [Invalid memory access in spl_filesystem_info_set_filename function](https://hackerone.com/reports/180592) to PHP (IBB) - 1 upvotes, $500
+183. [malloc negative size parameter](https://hackerone.com/reports/181073) to PHP (IBB) - 1 upvotes, $500
+184. [php_snmp_parse_oid integer overflow in memory allocation](https://hackerone.com/reports/178094) to PHP (IBB) - 1 upvotes, $500
+185. [gzuncompress does NOT check output string size which leads to an overflow](https://hackerone.com/reports/168028) to PHP (IBB) - 1 upvotes, $500
+186. [gzdecode does NOT check output string size which leads to an overflow](https://hackerone.com/reports/168027) to PHP (IBB) - 1 upvotes, $500
+187. [Missing type check when unserializing SplArray](https://hackerone.com/reports/167977) to PHP (IBB) - 1 upvotes, $500
+188. [integer overflow in xml_utf8_encode](https://hackerone.com/reports/167921) to PHP (IBB) - 1 upvotes, $500
+189. [Heap overflow in curl_escape](https://hackerone.com/reports/160295) to PHP (IBB) - 1 upvotes, $500
+190. [Out of bound when verify signature of tar phar in phar_parse_tarfile](https://hackerone.com/reports/167896) to PHP (IBB) - 1 upvotes, $500
+191. [Out of bound when verify signature of zip phar in phar_parse_zipfile](https://hackerone.com/reports/167895) to PHP (IBB) - 1 upvotes, $500
+192. [Heap Overflow due to integer overflows](https://hackerone.com/reports/159988) to PHP (IBB) - 1 upvotes, $500
+193. [Integer Overflow in gdImagePaletteToTrueColor() resulting in heap overflow](https://hackerone.com/reports/147125) to PHP (IBB) - 1 upvotes, $500
+194. [NULL Pointer Dereference at _gdScaleVert](https://hackerone.com/reports/146944) to PHP (IBB) - 1 upvotes, $500
+195. [Integer Overflow in _gd2GetHeader() resulting in heap overflow](https://hackerone.com/reports/143234) to PHP (IBB) - 1 upvotes, $500
+196. [Double Free Corruption in wddx.c (extension)](https://hackerone.com/reports/146255) to PHP (IBB) - 1 upvotes, $500
+197. [_php_mb_regex_ereg_replace_exec - double free](https://hackerone.com/reports/146200) to PHP (IBB) - 1 upvotes, $500
+198. [Multiple vulnerabilities related to PCRE functions (already fixed)](https://hackerone.com/reports/141839) to PHP (IBB) - 1 upvotes, $500
+199. [An integer overflow bug in php_str_to_str_ex() led arbitrary code execution.](https://hackerone.com/reports/113122) to PHP (IBB) - 1 upvotes, $500
+200. [PHP-FPM fpm_log.c memory leak and buffer overflow](https://hackerone.com/reports/112723) to PHP (IBB) - 1 upvotes, $500
+201. [An integer overflow bug in php_implode() could lead heap overflow, make PHP to crash](https://hackerone.com/reports/113120) to PHP (IBB) - 1 upvotes, $500
 202. [Null pointer deref (segfault) in stream_context_get_default](https://hackerone.com/reports/125397) to PHP (IBB) - 1 upvotes, $0
 203. [Use after free vulnerability in unserialize()](https://hackerone.com/reports/55033) to PHP (IBB) - 0 upvotes, $3000
 204. [SPL ArrayObject/SPLObjectStorage Unserialization Type Confusion Vulnerabilities](https://hackerone.com/reports/28445) to PHP (IBB) - 0 upvotes, $2500

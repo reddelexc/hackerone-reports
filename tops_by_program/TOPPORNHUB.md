@@ -16,9 +16,9 @@ Top reports from Pornhub program at HackerOne:
 12. [[stored xss, pornhub.com] stream post function](https://hackerone.com/reports/138075) to Pornhub - 35 upvotes, $1500
 13. [RCE Possible Via Video Manager Export using @ character in Video Title](https://hackerone.com/reports/146593) to Pornhub - 35 upvotes, $500
 14. [Unsecured Elasticsearch Instance](https://hackerone.com/reports/267161) to Pornhub - 30 upvotes, $3500
-15. [[IDOR] post to anyone even if their stream is restricted to friends only](https://hackerone.com/reports/137954) to Pornhub - 26 upvotes, $1500
-16. [IDOR - disclosure of private videos - /api_android_v3/getUserVideos](https://hackerone.com/reports/186279) to Pornhub - 26 upvotes, $1500
-17. [Weak user aunthentication on mobile application - I just broken userKey secret password](https://hackerone.com/reports/138101) to Pornhub - 25 upvotes, $5000
+15. [Weak user aunthentication on mobile application - I just broken userKey secret password](https://hackerone.com/reports/138101) to Pornhub - 26 upvotes, $5000
+16. [[IDOR] post to anyone even if their stream is restricted to friends only](https://hackerone.com/reports/137954) to Pornhub - 26 upvotes, $1500
+17. [IDOR - disclosure of private videos - /api_android_v3/getUserVideos](https://hackerone.com/reports/186279) to Pornhub - 26 upvotes, $1500
 18. [[IDOR] Deleting other users comment](https://hackerone.com/reports/138243) to Pornhub - 22 upvotes, $1000
 19. [Possibility to insert stored XSS inside &lt;img&gt; tag](https://hackerone.com/reports/267643) to Pornhub - 19 upvotes, $1500
 20. [Single User DOS by Poisoning Cookie via Get Parameter](https://hackerone.com/reports/416966) to Pornhub - 19 upvotes, $50

@@ -2,10 +2,10 @@
 
 Top XXE reports from HackerOne:
 
-1. [XXE at ecjobs.starbucks.com.cn/retail/hxpublic_v6/hxdynamicpage6.aspx](https://hackerone.com/reports/500515) to Starbucks - 269 upvotes, $4000
-2. [XXE on pulse.mail.ru](https://hackerone.com/reports/505947) to Mail.ru - 258 upvotes, $6000
-3. [XXE on sms-be-vip.twitter.com in SXMP Processor](https://hackerone.com/reports/248668) to Twitter - 226 upvotes, $10080
-4. [XXE on https://duckduckgo.com](https://hackerone.com/reports/483774) to DuckDuckGo - 194 upvotes, $0
+1. [XXE at ecjobs.starbucks.com.cn/retail/hxpublic_v6/hxdynamicpage6.aspx](https://hackerone.com/reports/500515) to Starbucks - 273 upvotes, $4000
+2. [XXE on pulse.mail.ru](https://hackerone.com/reports/505947) to Mail.ru - 259 upvotes, $6000
+3. [XXE on sms-be-vip.twitter.com in SXMP Processor](https://hackerone.com/reports/248668) to Twitter - 228 upvotes, $10080
+4. [XXE on https://duckduckgo.com](https://hackerone.com/reports/483774) to DuckDuckGo - 195 upvotes, $0
 5. [Partial bypass of #483774 with Blind XXE on https://duckduckgo.com](https://hackerone.com/reports/486732) to DuckDuckGo - 143 upvotes, $0
 6. [Phone Call to XXE via Interactive Voice Response](https://hackerone.com/reports/395296) to ██████ - 139 upvotes, $0
 7. [Multiple endpoints are vulnerable to XML External Entity injection (XXE)](https://hackerone.com/reports/72272) to Pornhub - 134 upvotes, $2500
@@ -37,7 +37,7 @@ Top XXE reports from HackerOne:
 33. [XXE крит](https://hackerone.com/reports/449627) to Mail.ru - 7 upvotes, $300
 34. [h1-5411-CTF report: LFI / Deserialization / XXE vulnerability,](https://hackerone.com/reports/415233) to h1-5411-CTF - 7 upvotes, $0
 35. [XXE at Informatica sub-domain](https://hackerone.com/reports/150520) to Informatica - 6 upvotes, $0
-36. [OOB XXE](https://hackerone.com/reports/690295) to Mail.ru - 4 upvotes, $500
+36. [OOB XXE](https://hackerone.com/reports/690295) to Mail.ru - 5 upvotes, $500
 37. [XXE and SSRF on webmaster.mail.ru](https://hackerone.com/reports/12583) to Mail.ru - 1 upvotes, $700
 38. [XXE at host vpn.owncloud.com](https://hackerone.com/reports/105980) to ownCloud - 1 upvotes, $0
 39. [Pippo XML Entity Expansion (Billion Laughs Attack)](https://hackerone.com/reports/506791) to Central Security Project - 1 upvotes, $0

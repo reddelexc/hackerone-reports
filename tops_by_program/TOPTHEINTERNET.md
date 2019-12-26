@@ -17,21 +17,21 @@ Top reports from The Internet program at HackerOne:
 13. [Cross-site information assertion leak via Content Security Policy](https://hackerone.com/reports/16910) to The Internet - 11 upvotes, $0
 14. [GNU Bourne-Again Shell (Bash) 'Shellshock' Vulnerability](https://hackerone.com/reports/29839) to The Internet - 10 upvotes, $20000
 15. [Linux kernel: CVE-2017-7308: a signedness issue in AF_PACKET sockets](https://hackerone.com/reports/684567) to The Internet - 10 upvotes, $0
-16. [Linux kernel: CVE-2017-1000112: a memory corruption due to UFO to non-UFO path switch](https://hackerone.com/reports/684573) to The Internet - 9 upvotes, $0
-17. [rpcbind "rpcbomb" CVE-2017-8779, CVE-2017-8804](https://hackerone.com/reports/235016) to The Internet - 9 upvotes, $0
-18. [Mercurial git subrepo lead to arbritary command injection](https://hackerone.com/reports/294147) to The Internet - 8 upvotes, $1500
-19. [Linux kernel: CVE-2017-6074: DCCP double-free vulnerability](https://hackerone.com/reports/347282) to The Internet - 8 upvotes, $1000
-20. [Critical vulnerability in JSON Web Encryption (JWE) - RFC 7516 Invalid Curve attack](https://hackerone.com/reports/213437) to The Internet - 8 upvotes, $1000
-21. [ntpd: read_mru_list() does inadequate incoming packet checks](https://hackerone.com/reports/147310) to The Internet - 7 upvotes, $500
-22. [[bower] Arbitrary File Write through improper validation of symlinks while package extraction](https://hackerone.com/reports/492512) to The Internet - 7 upvotes, $500
-23. [Multiple HTTP Smuggling reports](https://hackerone.com/reports/648434) to The Internet - 7 upvotes, $0
+16. [Critical vulnerability in JSON Web Encryption (JWE) - RFC 7516 Invalid Curve attack](https://hackerone.com/reports/213437) to The Internet - 9 upvotes, $1000
+17. [Linux kernel: CVE-2017-1000112: a memory corruption due to UFO to non-UFO path switch](https://hackerone.com/reports/684573) to The Internet - 9 upvotes, $0
+18. [rpcbind "rpcbomb" CVE-2017-8779, CVE-2017-8804](https://hackerone.com/reports/235016) to The Internet - 9 upvotes, $0
+19. [Multiple HTTP Smuggling reports](https://hackerone.com/reports/648434) to The Internet - 9 upvotes, $0
+20. [Mercurial git subrepo lead to arbritary command injection](https://hackerone.com/reports/294147) to The Internet - 8 upvotes, $1500
+21. [Linux kernel: CVE-2017-6074: DCCP double-free vulnerability](https://hackerone.com/reports/347282) to The Internet - 8 upvotes, $1000
+22. [ntpd: read_mru_list() does inadequate incoming packet checks](https://hackerone.com/reports/147310) to The Internet - 7 upvotes, $500
+23. [[bower] Arbitrary File Write through improper validation of symlinks while package extraction](https://hackerone.com/reports/492512) to The Internet - 7 upvotes, $500
 24. [TLS Triple Handshake Attack](https://hackerone.com/reports/7277) to The Internet - 6 upvotes, $7500
-25. [RCE on default Ubuntu Desktop &gt;= 12.10 Quantal](https://hackerone.com/reports/192512) to The Internet - 6 upvotes, $0
-26. [Drupal 7 pre auth sql injection and remote code execution](https://hackerone.com/reports/31756) to The Internet - 5 upvotes, $3000
-27. [libtiff 4.0.6 segfault / read outside of buffer (CVE-2016-9297)](https://hackerone.com/reports/182140) to The Internet - 5 upvotes, $500
-28. [libtiff 4.0.6 heap bufer overflow / out of bounds read (CVE-2016-9273)](https://hackerone.com/reports/181642) to The Internet - 5 upvotes, $500
-29. [Unsecure: Bypass alerts of Little Flocker / Little Snitch / HandsOff! / BlockBlock (same concept can be applied to other security tools)](https://hackerone.com/reports/265232) to The Internet - 5 upvotes, $0
-30. [Industry-Wide MITM Vulnerability Impacting the JVM Ecosystem](https://hackerone.com/reports/608620) to The Internet - 5 upvotes, $0
+25. [Industry-Wide MITM Vulnerability Impacting the JVM Ecosystem](https://hackerone.com/reports/608620) to The Internet - 6 upvotes, $0
+26. [RCE on default Ubuntu Desktop &gt;= 12.10 Quantal](https://hackerone.com/reports/192512) to The Internet - 6 upvotes, $0
+27. [Drupal 7 pre auth sql injection and remote code execution](https://hackerone.com/reports/31756) to The Internet - 5 upvotes, $3000
+28. [libtiff 4.0.6 segfault / read outside of buffer (CVE-2016-9297)](https://hackerone.com/reports/182140) to The Internet - 5 upvotes, $500
+29. [libtiff 4.0.6 heap bufer overflow / out of bounds read (CVE-2016-9273)](https://hackerone.com/reports/181642) to The Internet - 5 upvotes, $500
+30. [Unsecure: Bypass alerts of Little Flocker / Little Snitch / HandsOff! / BlockBlock (same concept can be applied to other security tools)](https://hackerone.com/reports/265232) to The Internet - 5 upvotes, $0
 31. [CVE-2017-10966: Heap-use-after-free in Irssi &lt;1.0.4](https://hackerone.com/reports/247028) to The Internet - 5 upvotes, $0
 32. [Exim use-after-free vulnerability while reading mail header involving BDAT commands](https://hackerone.com/reports/296991) to The Internet - 5 upvotes, $0
 33. [Bypassing Same Origin Policy With JSONP APIs and Flash](https://hackerone.com/reports/10373) to The Internet - 4 upvotes, $3000

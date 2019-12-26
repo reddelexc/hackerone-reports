@@ -12,7 +12,7 @@ Top reports from Brave Software program at HackerOne:
 8. [[iOS/Android] Address Bar Spoofing Vulnerability](https://hackerone.com/reports/175958) to Brave Software - 27 upvotes, $200
 9. [Navigation to protocol handler URL from the opened page displayed as a request from this page.](https://hackerone.com/reports/374969) to Brave Software - 25 upvotes, $200
 10. [Local files reading from the "file://" origin through `brave://`](https://hackerone.com/reports/390362) to Brave Software - 23 upvotes, $400
-11. [chrome://brave navigation from web](https://hackerone.com/reports/415967) to Brave Software - 19 upvotes, $650
+11. [chrome://brave navigation from web](https://hackerone.com/reports/415967) to Brave Software - 20 upvotes, $650
 12. [URL Spoof / Brave Shield Bypass](https://hackerone.com/reports/255991) to Brave Software - 19 upvotes, $200
 13. [RCE: DnDing shortcut files to chrome://brave allows loading HTML files in Muon's context](https://hackerone.com/reports/415258) to Brave Software - 16 upvotes, $300
 14. [Homograph attack](https://hackerone.com/reports/175286) to Brave Software - 14 upvotes, $100
@@ -54,13 +54,13 @@ Top reports from Brave Software program at HackerOne:
 50. [There is vulnebility Click Here TO fix](https://hackerone.com/reports/319036) to Brave Software - 5 upvotes, $0
 51. [JavaScript URL Issues in the latest version of Brave Browser](https://hackerone.com/reports/176083) to Brave Software - 4 upvotes, $0
 52. [invalid homepage URL causes 'uncaught typeerror' or blank state](https://hackerone.com/reports/177184) to Brave Software - 4 upvotes, $0
-53. [Link obfuscation bug](https://hackerone.com/reports/669440) to Brave Software - 4 upvotes, $0
-54. [[iOS] URI Obfuscation in iOS application](https://hackerone.com/reports/176159) to Brave Software - 3 upvotes, $0
-55. [Javascript confirm() crashes Brave on PC](https://hackerone.com/reports/176076) to Brave Software - 3 upvotes, $0
-56. [Information disclosure of website](https://hackerone.com/reports/179121) to Brave Software - 3 upvotes, $0
-57. [No user confirmation when an auto-updated extension gets more permissions](https://hackerone.com/reports/199243) to Brave Software - 3 upvotes, $0
-58. [Address bar spoofing in Brave browser via. window close warnings](https://hackerone.com/reports/208834) to Brave Software - 3 upvotes, $0
-59. [Directory Listing on https://promo-services-staging.brave.com](https://hackerone.com/reports/371464) to Brave Software - 3 upvotes, $0
+53. [Directory Listing on https://promo-services-staging.brave.com](https://hackerone.com/reports/371464) to Brave Software - 4 upvotes, $0
+54. [Link obfuscation bug](https://hackerone.com/reports/669440) to Brave Software - 4 upvotes, $0
+55. [[iOS] URI Obfuscation in iOS application](https://hackerone.com/reports/176159) to Brave Software - 3 upvotes, $0
+56. [Javascript confirm() crashes Brave on PC](https://hackerone.com/reports/176076) to Brave Software - 3 upvotes, $0
+57. [Information disclosure of website](https://hackerone.com/reports/179121) to Brave Software - 3 upvotes, $0
+58. [No user confirmation when an auto-updated extension gets more permissions](https://hackerone.com/reports/199243) to Brave Software - 3 upvotes, $0
+59. [Address bar spoofing in Brave browser via. window close warnings](https://hackerone.com/reports/208834) to Brave Software - 3 upvotes, $0
 60. [Denial of service attack(window object) on brave browser](https://hackerone.com/reports/176197) to Brave Software - 2 upvotes, $100
 61. [links the user may download can be a malicious files](https://hackerone.com/reports/182557) to Brave Software - 2 upvotes, $0
 62. [Brave payments remembers history even after clearing all browser data.](https://hackerone.com/reports/203088) to Brave Software - 2 upvotes, $0

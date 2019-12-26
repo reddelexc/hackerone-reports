@@ -2,18 +2,18 @@
 
 Top SQLI reports from HackerOne:
 
-1. [SQL Injection Extracts Starbucks Enterprise Accounting, Financial, Payroll Database](https://hackerone.com/reports/531051) to Starbucks - 621 upvotes, $4000
+1. [SQL Injection Extracts Starbucks Enterprise Accounting, Financial, Payroll Database](https://hackerone.com/reports/531051) to Starbucks - 624 upvotes, $4000
 2. [SQL injection in https://labs.data.gov/dashboard/datagov/csv_to_json via User-agent](https://hackerone.com/reports/297478) to TTS Bug Bounty - 618 upvotes, $2000
 3. [SQL Injection in report_xml.php through countryFilter[] parameter](https://hackerone.com/reports/383127) to Valve - 328 upvotes, $25000
 4. [[www.zomato.com] SQLi - /php/██████████ - item_id](https://hackerone.com/reports/403616) to Zomato - 263 upvotes, $4500
-5. [Blind SQLi leading to RCE, from Unauthenticated access to a test API Webservice](https://hackerone.com/reports/592400) to Starbucks - 202 upvotes, $4000
-6. [Blind SQL injection and making any profile comments from any users to disappear using "like" function (2 in 1 issues)](https://hackerone.com/reports/363815) to Tube8 - 192 upvotes, $2500
+5. [Blind SQLi leading to RCE, from Unauthenticated access to a test API Webservice](https://hackerone.com/reports/592400) to Starbucks - 203 upvotes, $4000
+6. [Blind SQL injection and making any profile comments from any users to disappear using "like" function (2 in 1 issues)](https://hackerone.com/reports/363815) to Tube8 - 193 upvotes, $2500
 7. [Blind SQL Injection on starbucks.com.gt and WAF Bypass](https://hackerone.com/reports/549355) to Starbucks - 191 upvotes, $500
 8. [www.drivegrab.com SQL injection](https://hackerone.com/reports/273946) to Grab - 151 upvotes, $4500
-9. [SQL injection in GraphQL endpoint through embedded_submission_form_uuid parameter](https://hackerone.com/reports/435066) to HackerOne - 132 upvotes, $0
+9. [SQL injection in GraphQL endpoint through embedded_submission_form_uuid parameter](https://hackerone.com/reports/435066) to HackerOne - 133 upvotes, $0
 10. [SQL Injection on www.██████████ on countID parameter](https://hackerone.com/reports/390879) to U.S. Dept Of Defense - 73 upvotes, $0
 11. [SQL Injection on sctrack.email.uber.com.cn](https://hackerone.com/reports/150156) to Uber - 70 upvotes, $4000
-12. [Arbitrary SQL command injection](https://hackerone.com/reports/508487) to Nextcloud - 67 upvotes, $500
+12. [Arbitrary SQL command injection](https://hackerone.com/reports/508487) to Nextcloud - 68 upvotes, $500
 13. [SQL Injection on https://www.olx.co.id](https://hackerone.com/reports/639876) to OLX - 66 upvotes, $0
 14. [Found Origin IP's Lead To Access To [ Grafana Instance , PgHero Instance [ Can SQL Injection ]](https://hackerone.com/reports/687908) to Omise - 64 upvotes, $200
 15. [SQL Injection in ████](https://hackerone.com/reports/419017) to U.S. Dept Of Defense - 64 upvotes, $0
