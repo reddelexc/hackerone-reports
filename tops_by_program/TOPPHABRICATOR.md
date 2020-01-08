@@ -4,8 +4,8 @@ Top reports from Phabricator program at HackerOne:
 
 1. [Command injection on Phabricator instance with an evil hg branch name](https://hackerone.com/reports/288704) to Phabricator - 37 upvotes, $1000
 2. [Phabricator is vulnerable to padding oracle attacks and chosen-ciphertext attacks.](https://hackerone.com/reports/216746) to Phabricator - 20 upvotes, $750
-3. [Window.opener protection](https://hackerone.com/reports/306414) to Phabricator - 17 upvotes, $300
-4. [Markdown parsing issue enables insertion of malicious tags](https://hackerone.com/reports/758002) to Phabricator - 16 upvotes, $500
+3. [Markdown parsing issue enables insertion of malicious tags](https://hackerone.com/reports/758002) to Phabricator - 18 upvotes, $500
+4. [Window.opener protection](https://hackerone.com/reports/306414) to Phabricator - 17 upvotes, $300
 5. [User with only Viewing Privilege can send message to Room](https://hackerone.com/reports/202499) to Phabricator - 14 upvotes, $300
 6. [HTML in Diffusion not escaped in certain circumstances](https://hackerone.com/reports/148865) to Phabricator - 12 upvotes, $600
 7. [Window.opener fix bypass](https://hackerone.com/reports/317243) to Phabricator - 12 upvotes, $300
@@ -19,27 +19,27 @@ Top reports from Phabricator program at HackerOne:
 15. [TOTP Key is shorter than RFC 4226 recommended minimum](https://hackerone.com/reports/435648) to Phabricator - 6 upvotes, $300
 16. [Improperly implemented password recovery link functionality](https://hackerone.com/reports/809) to Phabricator - 5 upvotes, $300
 17. [OAuth Stealing Attack (New)](https://hackerone.com/reports/3930) to Phabricator - 4 upvotes, $400
-18. [Broken Authentication and Session Management](https://hackerone.com/reports/17474) to Phabricator - 4 upvotes, $300
-19. [The special code in editor has no Authority control and can lead to Information Disclosure](https://hackerone.com/reports/221950) to Phabricator - 4 upvotes, $0
-20. [Bypass auth.email-domains](https://hackerone.com/reports/2224) to Phabricator - 3 upvotes, $1000
-21. [OAuth access_token stealing in Phabricator](https://hackerone.com/reports/3596) to Phabricator - 3 upvotes, $450
-22. [Persistent XSS: Editor link](https://hackerone.com/reports/4114) to Phabricator - 3 upvotes, $300
+18. [Persistent XSS: Editor link](https://hackerone.com/reports/4114) to Phabricator - 4 upvotes, $300
+19. [Broken Authentication and Session Management](https://hackerone.com/reports/17474) to Phabricator - 4 upvotes, $300
+20. [The special code in editor has no Authority control and can lead to Information Disclosure](https://hackerone.com/reports/221950) to Phabricator - 4 upvotes, $0
+21. [Bypass auth.email-domains](https://hackerone.com/reports/2224) to Phabricator - 3 upvotes, $1000
+22. [OAuth access_token stealing in Phabricator](https://hackerone.com/reports/3596) to Phabricator - 3 upvotes, $450
 23. [Enumerating emails through "Forgot Password" form](https://hackerone.com/reports/203614) to Phabricator - 3 upvotes, $0
 24. [Restricted file access when it exists in old versions of task or wiki document](https://hackerone.com/reports/203658) to Phabricator - 3 upvotes, $0
 25. [Autoclose can close any task regardless of policies/spaces](https://hackerone.com/reports/220909) to Phabricator - 3 upvotes, $0
 26. [Request vulnerable to CSRF](https://hackerone.com/reports/513137) to Phabricator - 3 upvotes, $0
 27. [Bypass auth.email-domains (2)](https://hackerone.com/reports/2233) to Phabricator - 2 upvotes, $500
 28. [Login CSRF using Twitter OAuth](https://hackerone.com/reports/2228) to Phabricator - 2 upvotes, $300
-29. [Control character allowed in username](https://hackerone.com/reports/3921) to Phabricator - 2 upvotes, $300
-30. [Content Spoofing through URL](https://hackerone.com/reports/28792) to Phabricator - 2 upvotes, $0
-31. [Password Policy issue](https://hackerone.com/reports/26758) to Phabricator - 2 upvotes, $0
-32. [Error page Text Injection.](https://hackerone.com/reports/156196) to Phabricator - 2 upvotes, $0
-33. [An unsafe design practice in the Passphrase may result in Secret being accidentally changed.](https://hackerone.com/reports/218324) to Phabricator - 2 upvotes, $0
-34. [Issue:Form does not contain an anti-CSRF token](https://hackerone.com/reports/513134) to Phabricator - 2 upvotes, $0
-35. [XSS in editor by any user](https://hackerone.com/reports/18691) to Phabricator - 1 upvotes, $1000
-36. [Multiple so called](https://hackerone.com/reports/86022) to Phabricator - 1 upvotes, $450
-37. [Open redirection on secure.phabricator.com](https://hackerone.com/reports/25160) to Phabricator - 1 upvotes, $400
-38. [UnAuthorized Editorial Publishing to Blogs](https://hackerone.com/reports/3356) to Phabricator - 1 upvotes, $300
+29. [UnAuthorized Editorial Publishing to Blogs](https://hackerone.com/reports/3356) to Phabricator - 2 upvotes, $300
+30. [Control character allowed in username](https://hackerone.com/reports/3921) to Phabricator - 2 upvotes, $300
+31. [Content Spoofing through URL](https://hackerone.com/reports/28792) to Phabricator - 2 upvotes, $0
+32. [Password Policy issue](https://hackerone.com/reports/26758) to Phabricator - 2 upvotes, $0
+33. [Error page Text Injection.](https://hackerone.com/reports/156196) to Phabricator - 2 upvotes, $0
+34. [An unsafe design practice in the Passphrase may result in Secret being accidentally changed.](https://hackerone.com/reports/218324) to Phabricator - 2 upvotes, $0
+35. [Issue:Form does not contain an anti-CSRF token](https://hackerone.com/reports/513134) to Phabricator - 2 upvotes, $0
+36. [XSS in editor by any user](https://hackerone.com/reports/18691) to Phabricator - 1 upvotes, $1000
+37. [Multiple so called](https://hackerone.com/reports/86022) to Phabricator - 1 upvotes, $450
+38. [Open redirection on secure.phabricator.com](https://hackerone.com/reports/25160) to Phabricator - 1 upvotes, $400
 39. [Abusing daemon logs for Privilege escalation under certain scenarios](https://hackerone.com/reports/16392) to Phabricator - 1 upvotes, $300
 40. [Passphrase credential lock bypass](https://hackerone.com/reports/139626) to Phabricator - 1 upvotes, $300
 41. [CSRF token valid even after the session logout of a particular user](https://hackerone.com/reports/2857) to Phabricator - 1 upvotes, $0

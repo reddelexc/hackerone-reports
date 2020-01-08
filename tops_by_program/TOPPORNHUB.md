@@ -2,20 +2,20 @@
 
 Top reports from Pornhub program at HackerOne:
 
-1. [[phpobject in cookie] Remote shell/command execution](https://hackerone.com/reports/141956) to Pornhub - 581 upvotes, $20000
-2. [Publicly exposed SVN repository, ht.pornhub.com](https://hackerone.com/reports/72243) to Pornhub - 198 upvotes, $10000
+1. [[phpobject in cookie] Remote shell/command execution](https://hackerone.com/reports/141956) to Pornhub - 582 upvotes, $20000
+2. [Publicly exposed SVN repository, ht.pornhub.com](https://hackerone.com/reports/72243) to Pornhub - 199 upvotes, $10000
 3. [Multiple endpoints are vulnerable to XML External Entity injection (XXE)](https://hackerone.com/reports/72272) to Pornhub - 134 upvotes, $2500
 4. [vulnerabilitie](https://hackerone.com/reports/137723) to Pornhub - 127 upvotes, $0
 5. [[RCE] Unserialize to XXE - file disclosure on ams.upload.pornhub.com](https://hackerone.com/reports/142562) to Pornhub - 86 upvotes, $10000
-6. [xss](https://hackerone.com/reports/306554) to Pornhub - 78 upvotes, $100
+6. [xss](https://hackerone.com/reports/306554) to Pornhub - 79 upvotes, $100
 7. [Unsecured DB instance](https://hackerone.com/reports/189192) to Pornhub - 64 upvotes, $5000
 8. [[idor] Unauthorized Read access to all the private posts(Including Photos,Videos,Gifs)](https://hackerone.com/reports/148764) to Pornhub - 55 upvotes, $1500
 9. [Wordpress Content injection](https://hackerone.com/reports/202949) to Pornhub - 44 upvotes, $1500
 10. [Stored XSS in photo comment functionality](https://hackerone.com/reports/172227) to Pornhub - 40 upvotes, $1500
-11. [Stored XSS (client-side, using cookie poisoning) on the pornhubpremium.com](https://hackerone.com/reports/311948) to Pornhub - 37 upvotes, $250
+11. [Stored XSS (client-side, using cookie poisoning) on the pornhubpremium.com](https://hackerone.com/reports/311948) to Pornhub - 38 upvotes, $250
 12. [[stored xss, pornhub.com] stream post function](https://hackerone.com/reports/138075) to Pornhub - 35 upvotes, $1500
 13. [RCE Possible Via Video Manager Export using @ character in Video Title](https://hackerone.com/reports/146593) to Pornhub - 35 upvotes, $500
-14. [Unsecured Elasticsearch Instance](https://hackerone.com/reports/267161) to Pornhub - 30 upvotes, $3500
+14. [Unsecured Elasticsearch Instance](https://hackerone.com/reports/267161) to Pornhub - 31 upvotes, $3500
 15. [Weak user aunthentication on mobile application - I just broken userKey secret password](https://hackerone.com/reports/138101) to Pornhub - 26 upvotes, $5000
 16. [[IDOR] post to anyone even if their stream is restricted to friends only](https://hackerone.com/reports/137954) to Pornhub - 26 upvotes, $1500
 17. [IDOR - disclosure of private videos - /api_android_v3/getUserVideos](https://hackerone.com/reports/186279) to Pornhub - 26 upvotes, $1500

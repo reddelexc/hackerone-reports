@@ -4,7 +4,7 @@ Top reports from OLX program at HackerOne:
 
 1. [XSS - main page - search[user_id] parameter](https://hackerone.com/reports/477771) to OLX - 135 upvotes, $0
 2. [[Critical] Delete any account](https://hackerone.com/reports/158872) to OLX - 111 upvotes, $0
-3. [SQL Injection on https://www.olx.co.id](https://hackerone.com/reports/639876) to OLX - 66 upvotes, $0
+3. [SQL Injection on https://www.olx.co.id](https://hackerone.com/reports/639876) to OLX - 67 upvotes, $0
 4. [web cache deception in https://tradus.com lead to name/user_id enumeration and other info](https://hackerone.com/reports/537564) to OLX - 57 upvotes, $0
 5. [SQL Injection https://www.olx.co.id](https://hackerone.com/reports/446293) to OLX - 46 upvotes, $0
 6. [Reflected XSS on https://www.olx.co.id/iklan/*.html via "ad_type" parameter](https://hackerone.com/reports/630265) to OLX - 35 upvotes, $0
@@ -15,10 +15,10 @@ Top reports from OLX program at HackerOne:
 11. [Able to list user's public name, username, phone number, address, facebook ID...](https://hackerone.com/reports/167206) to OLX - 18 upvotes, $0
 12. [Updating and Deleting any Ads on OLX Philippines](https://hackerone.com/reports/150631) to OLX - 17 upvotes, $0
 13. [Cross Site Scripting -&gt; Reflected XSS](https://hackerone.com/reports/150568) to OLX - 17 upvotes, $0
-14. [XSS Reflected at SEARCH &gt;&gt;](https://hackerone.com/reports/429647) to OLX - 16 upvotes, $0
+14. [XSS Reflected at SEARCH &gt;&gt;](https://hackerone.com/reports/429647) to OLX - 17 upvotes, $0
 15. [Subdomain Takeover (http://docs.olx.ph/ , http://calendar.olx.ph/, http://sites.olx.ph/)](https://hackerone.com/reports/206516) to OLX - 15 upvotes, $0
-16. [Reflective XSS at olx.ph](https://hackerone.com/reports/361647) to OLX - 14 upvotes, $0
-17. [XSS @ *.letgo.com](https://hackerone.com/reports/150822) to OLX - 13 upvotes, $0
+16. [XSS @ *.letgo.com](https://hackerone.com/reports/150822) to OLX - 14 upvotes, $0
+17. [Reflective XSS at olx.ph](https://hackerone.com/reports/361647) to OLX - 14 upvotes, $0
 18. [Bypass CSP](https://hackerone.com/reports/371980) to OLX - 13 upvotes, $0
 19. [Combined attacks leading to stealing user's account](https://hackerone.com/reports/205529) to OLX - 12 upvotes, $0
 20. [Manipulating joinolx.com Job Vacancy alert subscription emails (HTML Injection / Script Injection)](https://hackerone.com/reports/151149) to OLX - 11 upvotes, $0

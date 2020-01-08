@@ -15,9 +15,9 @@ Top reports from Paragon Initiative Enterprises program at HackerOne:
 11. [Stored XSS using](https://hackerone.com/reports/148853) to Paragon Initiative Enterprises - 10 upvotes, $50
 12. [Improper access control lead](https://hackerone.com/reports/273805) to Paragon Initiative Enterprises - 8 upvotes, $100
 13. [Directory Disclose,Email Disclose Zendmail vulnerability](https://hackerone.com/reports/228112) to Paragon Initiative Enterprises - 8 upvotes, $50
-14. [[Airship CMS] Local File Inclusion - RST Parser](https://hackerone.com/reports/179034) to Paragon Initiative Enterprises - 6 upvotes, $0
-15. [Incorrect detection of onion URLs](https://hackerone.com/reports/181210) to Paragon Initiative Enterprises - 5 upvotes, $50
-16. [Stored XSS in comments](https://hackerone.com/reports/148751) to Paragon Initiative Enterprises - 5 upvotes, $25
+14. [Stored XSS in comments](https://hackerone.com/reports/148751) to Paragon Initiative Enterprises - 6 upvotes, $25
+15. [[Airship CMS] Local File Inclusion - RST Parser](https://hackerone.com/reports/179034) to Paragon Initiative Enterprises - 6 upvotes, $0
+16. [Incorrect detection of onion URLs](https://hackerone.com/reports/181210) to Paragon Initiative Enterprises - 5 upvotes, $50
 17. [Session Management](https://hackerone.com/reports/145300) to Paragon Initiative Enterprises - 5 upvotes, $0
 18. [Issue with password reset functionality [Minor]](https://hackerone.com/reports/149027) to Paragon Initiative Enterprises - 5 upvotes, $0
 19. [Incomplete fix for #181225 (target=_blank vulnerability)](https://hackerone.com/reports/226104) to Paragon Initiative Enterprises - 5 upvotes, $0

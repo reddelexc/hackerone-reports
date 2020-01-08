@@ -2,13 +2,13 @@
 
 Top reports from Vimeo program at HackerOne:
 
-1. [SSRF](https://hackerone.com/reports/549882) to Vimeo - 168 upvotes, $5000
+1. [SSRF](https://hackerone.com/reports/549882) to Vimeo - 193 upvotes, $5000
 2. [Domain pointing to vimeo portfolio are prone to takeover using on-demand.](https://hackerone.com/reports/387307) to Vimeo - 68 upvotes, $1500
 3. [Improper Authentication in Vimeo's API 'versions' endpoint.](https://hackerone.com/reports/328724) to Vimeo - 51 upvotes, $2000
 4. [Reflected File Download (RFD) in download video](https://hackerone.com/reports/378941) to Vimeo - 49 upvotes, $700
 5. [Watch any Password Video without password](https://hackerone.com/reports/155618) to Vimeo - 41 upvotes, $500
 6. [Downloading password protected / restricted videos](https://hackerone.com/reports/145467) to Vimeo - 38 upvotes, $600
-7. [OAuth 2 Authorization Bypass via CSRF and Cross Site Flashing](https://hackerone.com/reports/136582) to Vimeo - 26 upvotes, $1000
+7. [OAuth 2 Authorization Bypass via CSRF and Cross Site Flashing](https://hackerone.com/reports/136582) to Vimeo - 27 upvotes, $1000
 8. [All Vimeo Private videos disclosure via Authorization Bypass](https://hackerone.com/reports/137502) to Vimeo - 25 upvotes, $600
 9. [Disclosure of sensitive information through Google Cloud Storage bucket](https://hackerone.com/reports/176013) to Vimeo - 21 upvotes, $500
 10. [Make API calls on behalf of another user (CSRF protection bypass)](https://hackerone.com/reports/44146) to Vimeo - 17 upvotes, $1000

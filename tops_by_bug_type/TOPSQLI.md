@@ -2,19 +2,19 @@
 
 Top SQLI reports from HackerOne:
 
-1. [SQL Injection Extracts Starbucks Enterprise Accounting, Financial, Payroll Database](https://hackerone.com/reports/531051) to Starbucks - 624 upvotes, $4000
-2. [SQL injection in https://labs.data.gov/dashboard/datagov/csv_to_json via User-agent](https://hackerone.com/reports/297478) to TTS Bug Bounty - 618 upvotes, $2000
+1. [SQL Injection Extracts Starbucks Enterprise Accounting, Financial, Payroll Database](https://hackerone.com/reports/531051) to Starbucks - 636 upvotes, $4000
+2. [SQL injection in https://labs.data.gov/dashboard/datagov/csv_to_json via User-agent](https://hackerone.com/reports/297478) to TTS Bug Bounty - 620 upvotes, $2000
 3. [SQL Injection in report_xml.php through countryFilter[] parameter](https://hackerone.com/reports/383127) to Valve - 328 upvotes, $25000
 4. [[www.zomato.com] SQLi - /php/██████████ - item_id](https://hackerone.com/reports/403616) to Zomato - 263 upvotes, $4500
-5. [Blind SQLi leading to RCE, from Unauthenticated access to a test API Webservice](https://hackerone.com/reports/592400) to Starbucks - 203 upvotes, $4000
-6. [Blind SQL injection and making any profile comments from any users to disappear using "like" function (2 in 1 issues)](https://hackerone.com/reports/363815) to Tube8 - 193 upvotes, $2500
+5. [Blind SQLi leading to RCE, from Unauthenticated access to a test API Webservice](https://hackerone.com/reports/592400) to Starbucks - 206 upvotes, $4000
+6. [Blind SQL injection and making any profile comments from any users to disappear using "like" function (2 in 1 issues)](https://hackerone.com/reports/363815) to Tube8 - 197 upvotes, $2500
 7. [Blind SQL Injection on starbucks.com.gt and WAF Bypass](https://hackerone.com/reports/549355) to Starbucks - 191 upvotes, $500
 8. [www.drivegrab.com SQL injection](https://hackerone.com/reports/273946) to Grab - 151 upvotes, $4500
 9. [SQL injection in GraphQL endpoint through embedded_submission_form_uuid parameter](https://hackerone.com/reports/435066) to HackerOne - 133 upvotes, $0
-10. [SQL Injection on www.██████████ on countID parameter](https://hackerone.com/reports/390879) to U.S. Dept Of Defense - 73 upvotes, $0
+10. [SQL Injection on www.██████████ on countID parameter](https://hackerone.com/reports/390879) to U.S. Dept Of Defense - 74 upvotes, $0
 11. [SQL Injection on sctrack.email.uber.com.cn](https://hackerone.com/reports/150156) to Uber - 70 upvotes, $4000
 12. [Arbitrary SQL command injection](https://hackerone.com/reports/508487) to Nextcloud - 68 upvotes, $500
-13. [SQL Injection on https://www.olx.co.id](https://hackerone.com/reports/639876) to OLX - 66 upvotes, $0
+13. [SQL Injection on https://www.olx.co.id](https://hackerone.com/reports/639876) to OLX - 67 upvotes, $0
 14. [Found Origin IP's Lead To Access To [ Grafana Instance , PgHero Instance [ Can SQL Injection ]](https://hackerone.com/reports/687908) to Omise - 64 upvotes, $200
 15. [SQL Injection in ████](https://hackerone.com/reports/419017) to U.S. Dept Of Defense - 64 upvotes, $0
 16. [[https://reviews.zomato.com] Time Based SQL Injection](https://hackerone.com/reports/300176) to Zomato - 58 upvotes, $1000
@@ -49,7 +49,7 @@ Top SQLI reports from HackerOne:
 45. [SQL injection in partner id field on https://www.teavana.com (Sign-up form)](https://hackerone.com/reports/269279) to Starbucks - 24 upvotes, $250
 46. [SQL Injection found in NextCloud Android App Content Provider](https://hackerone.com/reports/291764) to Nextcloud - 24 upvotes, $150
 47. [SQL Injection, exploitable in boolean mode](https://hackerone.com/reports/246412) to Zomato - 20 upvotes, $300
-48. [gmmovinparts.com SQLi via forgot_password.jsp](https://hackerone.com/reports/109395) to General Motors - 19 upvotes, $0
+48. [gmmovinparts.com SQLi via forgot_password.jsp](https://hackerone.com/reports/109395) to General Motors - 20 upvotes, $0
 49. [SQLi allow query restriction bypass on exposed FileContentProvider](https://hackerone.com/reports/518669) to Nextcloud - 18 upvotes, $100
 50. [[critical] sql injection by GET method](https://hackerone.com/reports/319279) to Khan Academy - 18 upvotes, $0
 51. [SQL Injection on /webApp/sijoitustalousuk email-parameter + potential lack of CSRF Token (viestinta.lahitapiola.fi)](https://hackerone.com/reports/191601) to LocalTapiola - 17 upvotes, $1350
@@ -65,7 +65,7 @@ Top SQLI reports from HackerOne:
 61. [[untitled-model] sql injection](https://hackerone.com/reports/507222) to Node.js third-party modules - 14 upvotes, $0
 62. [SQL injection vulnerability on a DoD website](https://hackerone.com/reports/189332) to U.S. Dept Of Defense - 13 upvotes, $0
 63. [[query-mysql] SQL Injection due to lack of user input sanitization allows to run arbitrary SQL queries when fetching data from database](https://hackerone.com/reports/311244) to Node.js third-party modules - 13 upvotes, $0
-64. [Blind SQL injection on ████████](https://hackerone.com/reports/313037) to U.S. Dept Of Defense - 12 upvotes, $0
+64. [Blind SQL injection on ████████](https://hackerone.com/reports/313037) to U.S. Dept Of Defense - 13 upvotes, $0
 65. [Code source discloure &amp; ability to get database information "SQL injection" in](https://hackerone.com/reports/141329) to Mail.ru - 11 upvotes, $150
 66. [blind sql injection](https://hackerone.com/reports/374027) to Hanno's projects - 11 upvotes, $0
 67. [SQL injections](https://hackerone.com/reports/272506) to U.S. Dept Of Defense - 11 upvotes, $0
@@ -89,14 +89,14 @@ Top SQLI reports from HackerOne:
 85. [Drupal 7 pre auth sql injection and remote code execution](https://hackerone.com/reports/31756) to The Internet - 5 upvotes, $3000
 86. [SQL Injection vulnerability in a DoD website](https://hackerone.com/reports/201512) to U.S. Dept Of Defense - 5 upvotes, $0
 87. [sql injection on](https://hackerone.com/reports/381758) to U.S. Dept Of Defense - 5 upvotes, $0
-88. [[townwars.mail.ru] Time-Based SQL Injection](https://hackerone.com/reports/144674) to Mail.ru - 4 upvotes, $150
-89. [SQL injection vulnerability on a DoD website](https://hackerone.com/reports/193436) to U.S. Dept Of Defense - 4 upvotes, $0
-90. [SQL Injection vulnerability in a DoD website](https://hackerone.com/reports/192079) to U.S. Dept Of Defense - 4 upvotes, $0
-91. [SQL Injection vulnerability in a DoD website](https://hackerone.com/reports/192110) to U.S. Dept Of Defense - 4 upvotes, $0
-92. [SQL injection vulnerability in a DoD website](https://hackerone.com/reports/195051) to U.S. Dept Of Defense - 4 upvotes, $0
-93. [SQL Injection vulnerability in a DoD website](https://hackerone.com/reports/227587) to U.S. Dept Of Defense - 4 upvotes, $0
-94. [Code reversion allowing SQLI again in ███████](https://hackerone.com/reports/348047) to U.S. Dept Of Defense - 4 upvotes, $0
-95. [[████████] Boolean SQL Injection (/personnel.php?content=profile&amp;rcnum=*)](https://hackerone.com/reports/648346) to U.S. Dept Of Defense - 4 upvotes, $0
+88. [[████████] Boolean SQL Injection (/personnel.php?content=profile&amp;rcnum=*)](https://hackerone.com/reports/648346) to U.S. Dept Of Defense - 5 upvotes, $0
+89. [[townwars.mail.ru] Time-Based SQL Injection](https://hackerone.com/reports/144674) to Mail.ru - 4 upvotes, $150
+90. [SQL injection vulnerability on a DoD website](https://hackerone.com/reports/193436) to U.S. Dept Of Defense - 4 upvotes, $0
+91. [SQL Injection vulnerability in a DoD website](https://hackerone.com/reports/192079) to U.S. Dept Of Defense - 4 upvotes, $0
+92. [SQL Injection vulnerability in a DoD website](https://hackerone.com/reports/192110) to U.S. Dept Of Defense - 4 upvotes, $0
+93. [SQL injection vulnerability in a DoD website](https://hackerone.com/reports/195051) to U.S. Dept Of Defense - 4 upvotes, $0
+94. [SQL Injection vulnerability in a DoD website](https://hackerone.com/reports/227587) to U.S. Dept Of Defense - 4 upvotes, $0
+95. [Code reversion allowing SQLI again in ███████](https://hackerone.com/reports/348047) to U.S. Dept Of Defense - 4 upvotes, $0
 96. [SQLi on http://sports.yahoo.com/nfl/draft](https://hackerone.com/reports/1538) to Verizon Media - 3 upvotes, $3705
 97. [SQLi in love.uber.com](https://hackerone.com/reports/125181) to Uber - 3 upvotes, $3000
 98. [Time Based SQL Injection vulnerability on a DoD website](https://hackerone.com/reports/188929) to U.S. Dept Of Defense - 3 upvotes, $0
@@ -119,24 +119,24 @@ Top SQLI reports from HackerOne:
 115. [[tidaltrek.mail.ru] SQL Injection](https://hackerone.com/reports/140899) to Mail.ru - 1 upvotes, $150
 116. [Possible SQL injection on "Jump to twitter"](https://hackerone.com/reports/81701) to Gratipay - 1 upvotes, $1
 117. [SQL injection, tile ID](https://hackerone.com/reports/17225) to Uzbey - 1 upvotes, $0
-118. [Sql injection And XSS](https://hackerone.com/reports/31023) to Khan Academy - 1 upvotes, $0
-119. [SQL injection in conc/index.php/ccm/system/search/users/submit](https://hackerone.com/reports/38778) to concrete5 - 1 upvotes, $0
-120. [Blind SQL INJ](https://hackerone.com/reports/115304) to Paragon Initiative Enterprises - 1 upvotes, $0
-121. [Time Based SQL injection in url parameter](https://hackerone.com/reports/144359) to WebSummit - 1 upvotes, $0
-122. [typeorm does not properly escape parameters when building SQL queries, resulting in potential SQLi](https://hackerone.com/reports/319458) to Node.js third-party modules - 1 upvotes, $0
-123. [SQL injection on https://███████](https://hackerone.com/reports/214798) to U.S. Dept Of Defense - 1 upvotes, $0
-124. [[afisha.mail.ru] SQL Injection](https://hackerone.com/reports/112555) to Mail.ru - 0 upvotes, $300
-125. [SQL injection update.mail.ru](https://hackerone.com/reports/11861) to Mail.ru - 0 upvotes, $250
-126. [SQL injection [дырка в движке форума]](https://hackerone.com/reports/9919) to Mail.ru - 0 upvotes, $200
-127. [Time based sql injection](https://hackerone.com/reports/9921) to Mail.ru - 0 upvotes, $200
-128. [SQL inj](https://hackerone.com/reports/10037) to Mail.ru - 0 upvotes, $150
-129. [SQL inj](https://hackerone.com/reports/10468) to Mail.ru - 0 upvotes, $150
-130. [SQL Injection on 11x11.mail.ru](https://hackerone.com/reports/15762) to Mail.ru - 0 upvotes, $150
-131. [[cfire.mail.ru] Time Based SQL Injection](https://hackerone.com/reports/107780) to Mail.ru - 0 upvotes, $150
-132. [[parapa.mail.ru] SQL Injection](https://hackerone.com/reports/109212) to Mail.ru - 0 upvotes, $150
-133. [Time-Based Blind SQL Injection Attacks](https://hackerone.com/reports/78443) to Mail.ru - 0 upvotes, $150
-134. [SQL injection, time zoom script, tile ID](https://hackerone.com/reports/17227) to Uzbey - 0 upvotes, $0
-135. [caesary.yahoo.net Blind Sql Injection](https://hackerone.com/reports/21899) to Verizon Media - 0 upvotes, $0
+118. [caesary.yahoo.net Blind Sql Injection](https://hackerone.com/reports/21899) to Verizon Media - 1 upvotes, $0
+119. [Sql injection And XSS](https://hackerone.com/reports/31023) to Khan Academy - 1 upvotes, $0
+120. [SQL injection in conc/index.php/ccm/system/search/users/submit](https://hackerone.com/reports/38778) to concrete5 - 1 upvotes, $0
+121. [Blind SQL INJ](https://hackerone.com/reports/115304) to Paragon Initiative Enterprises - 1 upvotes, $0
+122. [Time Based SQL injection in url parameter](https://hackerone.com/reports/144359) to WebSummit - 1 upvotes, $0
+123. [typeorm does not properly escape parameters when building SQL queries, resulting in potential SQLi](https://hackerone.com/reports/319458) to Node.js third-party modules - 1 upvotes, $0
+124. [SQL injection on https://███████](https://hackerone.com/reports/214798) to U.S. Dept Of Defense - 1 upvotes, $0
+125. [[afisha.mail.ru] SQL Injection](https://hackerone.com/reports/112555) to Mail.ru - 0 upvotes, $300
+126. [SQL injection update.mail.ru](https://hackerone.com/reports/11861) to Mail.ru - 0 upvotes, $250
+127. [SQL injection [дырка в движке форума]](https://hackerone.com/reports/9919) to Mail.ru - 0 upvotes, $200
+128. [Time based sql injection](https://hackerone.com/reports/9921) to Mail.ru - 0 upvotes, $200
+129. [SQL inj](https://hackerone.com/reports/10037) to Mail.ru - 0 upvotes, $150
+130. [SQL inj](https://hackerone.com/reports/10468) to Mail.ru - 0 upvotes, $150
+131. [SQL Injection on 11x11.mail.ru](https://hackerone.com/reports/15762) to Mail.ru - 0 upvotes, $150
+132. [[cfire.mail.ru] Time Based SQL Injection](https://hackerone.com/reports/107780) to Mail.ru - 0 upvotes, $150
+133. [[parapa.mail.ru] SQL Injection](https://hackerone.com/reports/109212) to Mail.ru - 0 upvotes, $150
+134. [Time-Based Blind SQL Injection Attacks](https://hackerone.com/reports/78443) to Mail.ru - 0 upvotes, $150
+135. [SQL injection, time zoom script, tile ID](https://hackerone.com/reports/17227) to Uzbey - 0 upvotes, $0
 136. [SQL Injection](https://hackerone.com/reports/23014) to Uzbey - 0 upvotes, $0
 137. [SQL Injection Vulnerability in Concrete5 version 5.7.3.1](https://hackerone.com/reports/59664) to concrete5 - 0 upvotes, $0
 138. [Possible Blind SQL injection | Language choice in presentation](https://hackerone.com/reports/131047) to Gratipay - 0 upvotes, $0

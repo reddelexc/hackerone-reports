@@ -13,11 +13,11 @@ Top reports from Localize program at HackerOne:
 9. [XSS in main page (invitation)](https://hackerone.com/reports/7886) to Localize - 3 upvotes, $0
 10. [Sensitive file](https://hackerone.com/reports/7968) to Localize - 3 upvotes, $0
 11. [HTML/Javascript possible in "Discussion" section of reviews](https://hackerone.com/reports/7897) to Localize - 3 upvotes, $0
-12. [Path Disclosure (Info Disclosure) in](https://hackerone.com/reports/7903) to Localize - 2 upvotes, $0
-13. [Criptographic Issue: Strisct Transport Security with not good max age..(TOO SHORT!)](https://hackerone.com/reports/9008) to Localize - 2 upvotes, $0
-14. [Full Path Disclosure (FPD) in www.localize.im](https://hackerone.com/reports/9256) to Localize - 2 upvotes, $0
-15. [Atttacker can send "Invitation Request" to a Project that is not even created yet!](https://hackerone.com/reports/9088) to Localize - 2 upvotes, $0
-16. [Business logic Failure - Browser cache management and logout vulnerability.](https://hackerone.com/reports/7909) to Localize - 2 upvotes, $0
+12. [Business logic Failure - Browser cache management and logout vulnerability.](https://hackerone.com/reports/7909) to Localize - 3 upvotes, $0
+13. [Path Disclosure (Info Disclosure) in](https://hackerone.com/reports/7903) to Localize - 2 upvotes, $0
+14. [Criptographic Issue: Strisct Transport Security with not good max age..(TOO SHORT!)](https://hackerone.com/reports/9008) to Localize - 2 upvotes, $0
+15. [Full Path Disclosure (FPD) in www.localize.im](https://hackerone.com/reports/9256) to Localize - 2 upvotes, $0
+16. [Atttacker can send "Invitation Request" to a Project that is not even created yet!](https://hackerone.com/reports/9088) to Localize - 2 upvotes, $0
 17. [XSS in Localize.io](https://hackerone.com/reports/7890) to Localize - 1 upvotes, $0
 18. [User credentials are sent in clear text](https://hackerone.com/reports/7950) to Localize - 1 upvotes, $0
 19. [HTML Form Without CSRF protection](https://hackerone.com/reports/7863) to Localize - 1 upvotes, $0

@@ -28,17 +28,17 @@ Top reports from PHP (IBB) program at HackerOne:
 24. [Out of Bounds Memory Read in unserialize()](https://hackerone.com/reports/261336) to PHP (IBB) - 7 upvotes, $500
 25. [Out-of-Bound Read in phar_parse_zipfile()](https://hackerone.com/reports/114172) to PHP (IBB) - 7 upvotes, $500
 26. [Illegal write/read access caused by gdImageAALine overflow](https://hackerone.com/reports/182420) to PHP (IBB) - 7 upvotes, $500
-27. [integer overflow in imap_binary caused heap corruption](https://hackerone.com/reports/167906) to PHP (IBB) - 7 upvotes, $500
-28. [heap overflow in substr_replace](https://hackerone.com/reports/167904) to PHP (IBB) - 7 upvotes, $500
-29. [Out of bounds memory read in unserialize()](https://hackerone.com/reports/200909) to PHP (IBB) - 6 upvotes, $500
-30. [linkinfo - openbasedir bypass on Windows PHP](https://hackerone.com/reports/384719) to PHP (IBB) - 6 upvotes, $500
-31. [Integer Overflow in php_html_entities()](https://hackerone.com/reports/140865) to PHP (IBB) - 6 upvotes, $500
-32. [Use-after-free in PHP7's unserialize()](https://hackerone.com/reports/245956) to PHP (IBB) - 6 upvotes, $500
-33. [Inappropriately parsing HTTP response leads to PHP segment fault!](https://hackerone.com/reports/305973) to PHP (IBB) - 6 upvotes, $500
-34. [Potential infinite loop in gdImageCreateFromGifCtx!](https://hackerone.com/reports/305972) to PHP (IBB) - 6 upvotes, $500
-35. [integer overflow in fgetcsv caused heap corruption](https://hackerone.com/reports/167911) to PHP (IBB) - 6 upvotes, $500
-36. [memory corruption in wordwrap function](https://hackerone.com/reports/167910) to PHP (IBB) - 6 upvotes, $500
-37. [PHP openssl_x509_parse() Memory Corruption Vulnerability](https://hackerone.com/reports/523) to PHP (IBB) - 5 upvotes, $4000
+27. [memory corruption in wordwrap function](https://hackerone.com/reports/167910) to PHP (IBB) - 7 upvotes, $500
+28. [integer overflow in imap_binary caused heap corruption](https://hackerone.com/reports/167906) to PHP (IBB) - 7 upvotes, $500
+29. [heap overflow in substr_replace](https://hackerone.com/reports/167904) to PHP (IBB) - 7 upvotes, $500
+30. [PHP openssl_x509_parse() Memory Corruption Vulnerability](https://hackerone.com/reports/523) to PHP (IBB) - 6 upvotes, $4000
+31. [Out of bounds memory read in unserialize()](https://hackerone.com/reports/200909) to PHP (IBB) - 6 upvotes, $500
+32. [linkinfo - openbasedir bypass on Windows PHP](https://hackerone.com/reports/384719) to PHP (IBB) - 6 upvotes, $500
+33. [Integer Overflow in php_html_entities()](https://hackerone.com/reports/140865) to PHP (IBB) - 6 upvotes, $500
+34. [Use-after-free in PHP7's unserialize()](https://hackerone.com/reports/245956) to PHP (IBB) - 6 upvotes, $500
+35. [Inappropriately parsing HTTP response leads to PHP segment fault!](https://hackerone.com/reports/305973) to PHP (IBB) - 6 upvotes, $500
+36. [Potential infinite loop in gdImageCreateFromGifCtx!](https://hackerone.com/reports/305972) to PHP (IBB) - 6 upvotes, $500
+37. [integer overflow in fgetcsv caused heap corruption](https://hackerone.com/reports/167911) to PHP (IBB) - 6 upvotes, $500
 38. [Out of bound read in exif_process_IFD_in_MAKERNOTE](https://hackerone.com/reports/152231) to PHP (IBB) - 5 upvotes, $1000
 39. [Type Confusion in WDDX Packet Deserialization](https://hackerone.com/reports/114339) to PHP (IBB) - 5 upvotes, $1000
 40. [Integer Overflow in addcslashes()/addslashes()](https://hackerone.com/reports/146184) to PHP (IBB) - 5 upvotes, $500

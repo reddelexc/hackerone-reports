@@ -13,12 +13,12 @@ Top reports from Coinbase program at HackerOne:
 9. [Requestor Email Disclosure via Email Notification](https://hackerone.com/reports/202361) to Coinbase - 13 upvotes, $0
 10. [HTML injection in apps user review](https://hackerone.com/reports/104543) to Coinbase - 12 upvotes, $200
 11. [Application error message](https://hackerone.com/reports/147577) to Coinbase - 11 upvotes, $100
-12. [Email leak in transcations in Android app](https://hackerone.com/reports/126376) to Coinbase - 10 upvotes, $500
-13. [Captcha Bypass in Coinbase SignUp Form](https://hackerone.com/reports/246801) to Coinbase - 10 upvotes, $100
+12. [Captcha Bypass in Coinbase SignUp Form](https://hackerone.com/reports/246801) to Coinbase - 11 upvotes, $100
+13. [Email leak in transcations in Android app](https://hackerone.com/reports/126376) to Coinbase - 10 upvotes, $500
 14. [Bypassing 2FA for BTC transfers](https://hackerone.com/reports/10554) to Coinbase - 9 upvotes, $1000
-15. [Session Issue Maybe Can lead to huge loss [CRITICAL]](https://hackerone.com/reports/112496) to Coinbase - 9 upvotes, $1000
-16. [Stored-XSS in https://www.coinbase.com/](https://hackerone.com/reports/100829) to Coinbase - 8 upvotes, $5000
-17. [Coinbase Android Application - Bitcoin Wallet Leaks OAuth Response Code](https://hackerone.com/reports/5314) to Coinbase - 8 upvotes, $1000
+15. [Coinbase Android Application - Bitcoin Wallet Leaks OAuth Response Code](https://hackerone.com/reports/5314) to Coinbase - 9 upvotes, $1000
+16. [Session Issue Maybe Can lead to huge loss [CRITICAL]](https://hackerone.com/reports/112496) to Coinbase - 9 upvotes, $1000
+17. [Stored-XSS in https://www.coinbase.com/](https://hackerone.com/reports/100829) to Coinbase - 8 upvotes, $5000
 18. [Blacklist bypass on Callback URLs](https://hackerone.com/reports/53004) to Coinbase - 8 upvotes, $100
 19. [Information disclosure same issue #176002](https://hackerone.com/reports/248599) to Coinbase - 8 upvotes, $100
 20. [Information disclosure of user by email using buy widget](https://hackerone.com/reports/176002) to Coinbase - 6 upvotes, $100
