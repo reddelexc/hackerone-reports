@@ -2,7 +2,7 @@
 
 Top XXE reports from HackerOne:
 
-1. [XXE at ecjobs.starbucks.com.cn/retail/hxpublic_v6/hxdynamicpage6.aspx](https://hackerone.com/reports/500515) to Starbucks - 278 upvotes, $4000
+1. [XXE at ecjobs.starbucks.com.cn/retail/hxpublic_v6/hxdynamicpage6.aspx](https://hackerone.com/reports/500515) to Starbucks - 285 upvotes, $4000
 2. [XXE on pulse.mail.ru](https://hackerone.com/reports/505947) to Mail.ru - 259 upvotes, $6000
 3. [XXE on sms-be-vip.twitter.com in SXMP Processor](https://hackerone.com/reports/248668) to Twitter - 228 upvotes, $10080
 4. [XXE on https://duckduckgo.com](https://hackerone.com/reports/483774) to DuckDuckGo - 195 upvotes, $0
@@ -12,16 +12,16 @@ Top XXE reports from HackerOne:
 8. [XXE in Site Audit function exposing file and directory contents](https://hackerone.com/reports/312543) to SEMrush - 88 upvotes, $2000
 9. [[RCE] Unserialize to XXE - file disclosure on ams.upload.pornhub.com](https://hackerone.com/reports/142562) to Pornhub - 86 upvotes, $10000
 10. [XXE in DoD website that may lead to RCE](https://hackerone.com/reports/227880) to U.S. Dept Of Defense - 83 upvotes, $0
-11. [Blind XXE via Powerpoint files](https://hackerone.com/reports/334488) to OX App Suite - 73 upvotes, $2000
+11. [Blind XXE via Powerpoint files](https://hackerone.com/reports/334488) to Open-Xchange - 73 upvotes, $2000
 12. [blind XXE in autodiscover parser](https://hackerone.com/reports/315837) to Mail.ru - 65 upvotes, $5000
-13. [LFI and SSRF via XXE in emblem editor](https://hackerone.com/reports/347139) to Rockstar Games - 52 upvotes, $1500
+13. [LFI and SSRF via XXE in emblem editor](https://hackerone.com/reports/347139) to Rockstar Games - 53 upvotes, $1500
 14. [Blind OOB XXE At "http://ubermovement.com/"](https://hackerone.com/reports/154096) to Uber - 52 upvotes, $500
 15. [XXE on ██████████ by bypassing WAF ████](https://hackerone.com/reports/433996) to QIWI - 46 upvotes, $5000
 16. [[rev-app.informatica.com] - XXE](https://hackerone.com/reports/105434) to Informatica - 42 upvotes, $0
 17. [XML External Entity (XXE) in qiwi.com + waf bypass](https://hackerone.com/reports/99279) to QIWI - 39 upvotes, $3137
 18. [RCE via Local File Read -&gt; php unserialization-&gt; XXE -&gt; unpickling](https://hackerone.com/reports/415501) to h1-5411-CTF - 33 upvotes, $0
 19. [XML Parser Bug: XXE over which leads to RCE](https://hackerone.com/reports/55431) to drchrono - 30 upvotes, $700
-20. [XXE on DoD web server](https://hackerone.com/reports/188743) to U.S. Dept Of Defense - 25 upvotes, $0
+20. [XXE on DoD web server](https://hackerone.com/reports/188743) to U.S. Dept Of Defense - 26 upvotes, $0
 21. [Blind XXE on my.mail.ru](https://hackerone.com/reports/276276) to Mail.ru - 23 upvotes, $800
 22. [[app.informaticaondemand.com] XXE](https://hackerone.com/reports/105753) to Informatica - 23 upvotes, $0
 23. [XXE in upload file feature](https://hackerone.com/reports/105787) to Informatica - 21 upvotes, $0
@@ -38,7 +38,7 @@ Top XXE reports from HackerOne:
 34. [h1-5411-CTF report: LFI / Deserialization / XXE vulnerability,](https://hackerone.com/reports/415233) to h1-5411-CTF - 7 upvotes, $0
 35. [XXE at Informatica sub-domain](https://hackerone.com/reports/150520) to Informatica - 6 upvotes, $0
 36. [OOB XXE](https://hackerone.com/reports/690295) to Mail.ru - 5 upvotes, $500
-37. [XXE and SSRF on webmaster.mail.ru](https://hackerone.com/reports/12583) to Mail.ru - 1 upvotes, $700
+37. [XXE and SSRF on webmaster.mail.ru](https://hackerone.com/reports/12583) to Mail.ru - 2 upvotes, $700
 38. [XXE at host vpn.owncloud.com](https://hackerone.com/reports/105980) to ownCloud - 1 upvotes, $0
 39. [Pippo XML Entity Expansion (Billion Laughs Attack)](https://hackerone.com/reports/506791) to Central Security Project - 1 upvotes, $0
 40. [XXE in OAuth2 Applications gallery profile App logo](https://hackerone.com/reports/104620) to Coinbase - 0 upvotes, $0

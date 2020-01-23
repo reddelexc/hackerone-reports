@@ -8,8 +8,8 @@ Top reports from VK.com program at HackerOne:
 4. [Определение id по номеру телефона](https://hackerone.com/reports/331040) to VK.com - 60 upvotes, $5000
 5. [Stealing Private Information in VK Android App through PlayerProxy Port Remotely](https://hackerone.com/reports/292761) to VK.com - 50 upvotes, $700
 6. [Вставляем свой код в мобильном приложении в разделе помощи сообществам](https://hackerone.com/reports/433904) to VK.com - 43 upvotes, $300
-7. [Мини-уязвимость в обработке ссылок](https://hackerone.com/reports/726063) to VK.com - 39 upvotes, $500
-8. [Clickjacking vkpay](https://hackerone.com/reports/374817) to VK.com - 39 upvotes, $0
+7. [Clickjacking vkpay](https://hackerone.com/reports/374817) to VK.com - 42 upvotes, $0
+8. [Мини-уязвимость в обработке ссылок](https://hackerone.com/reports/726063) to VK.com - 40 upvotes, $500
 9. [Bypass User Interaction to initiate a VoIP call to Another User](https://hackerone.com/reports/386144) to VK.com - 38 upvotes, $500
 10. [XSS в upload.php](https://hackerone.com/reports/142135) to VK.com - 37 upvotes, $1500
 11. [Просмотр приватных видео записей у Пользователей](https://hackerone.com/reports/317985) to VK.com - 33 upvotes, $300
@@ -67,11 +67,11 @@ Top reports from VK.com program at HackerOne:
 63. [error](https://hackerone.com/reports/309594) to VK.com - 10 upvotes, $0
 64. [clickjacking в /lead_forms_app.php](https://hackerone.com/reports/294334) to VK.com - 10 upvotes, $0
 65. [Page replacement and redirect loop](https://hackerone.com/reports/64529) to VK.com - 10 upvotes, $0
-66. [SSRF (open) - via GET request](https://hackerone.com/reports/180527) to VK.com - 9 upvotes, $300
-67. [Просмотр любого видео из частной группы и кто загрузил](https://hackerone.com/reports/319674) to VK.com - 9 upvotes, $300
-68. [CSRF отредактировать карточки в посте у группы](https://hackerone.com/reports/307382) to VK.com - 9 upvotes, $100
-69. [Часть](https://hackerone.com/reports/341637) to VK.com - 9 upvotes, $100
-70. [Внедрение внешних сущностей в функционале импорта пользователей YouTrack](https://hackerone.com/reports/114476) to VK.com - 8 upvotes, $2500
+66. [Внедрение внешних сущностей в функционале импорта пользователей YouTrack](https://hackerone.com/reports/114476) to VK.com - 9 upvotes, $2500
+67. [SSRF (open) - via GET request](https://hackerone.com/reports/180527) to VK.com - 9 upvotes, $300
+68. [Просмотр любого видео из частной группы и кто загрузил](https://hackerone.com/reports/319674) to VK.com - 9 upvotes, $300
+69. [CSRF отредактировать карточки в посте у группы](https://hackerone.com/reports/307382) to VK.com - 9 upvotes, $100
+70. [Часть](https://hackerone.com/reports/341637) to VK.com - 9 upvotes, $100
 71. [Новый 2FA Bypass](https://hackerone.com/reports/179421) to VK.com - 8 upvotes, $1000
 72. [Возможность провести DoS атаку от имени vk.com сервера](https://hackerone.com/reports/183352) to VK.com - 8 upvotes, $500
 73. [CSRF в получении резервных токенов+framing , приводящие к компроментации 2fa](https://hackerone.com/reports/90165) to VK.com - 8 upvotes, $500

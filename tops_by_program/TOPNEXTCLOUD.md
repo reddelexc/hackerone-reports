@@ -9,8 +9,8 @@ Top reports from Nextcloud program at HackerOne:
 5. [Passwords being stored as plain text in logging](https://hackerone.com/reports/469668) to Nextcloud - 30 upvotes, $0
 6. [Group admins can remove arbitrary data from "data" directory (including admin data)](https://hackerone.com/reports/508493) to Nextcloud - 29 upvotes, $150
 7. [Group admins can remove arbitrary data from "data" directory (including admin data)](https://hackerone.com/reports/508493) to Nextcloud - 29 upvotes, $150
-8. [Reflected XSS in error pages (NC-SA-2017-008)](https://hackerone.com/reports/216812) to Nextcloud - 25 upvotes, $450
-9. [CSRF vulnerability that allows an attacker to modify encryption settings](https://hackerone.com/reports/630146) to Nextcloud - 25 upvotes, $0
+8. [CSRF vulnerability that allows an attacker to modify encryption settings](https://hackerone.com/reports/630146) to Nextcloud - 26 upvotes, $0
+9. [Reflected XSS in error pages (NC-SA-2017-008)](https://hackerone.com/reports/216812) to Nextcloud - 25 upvotes, $450
 10. [SQL Injection found in NextCloud Android App Content Provider](https://hackerone.com/reports/291764) to Nextcloud - 24 upvotes, $150
 11. [I am because bug](https://hackerone.com/reports/226097) to Nextcloud - 24 upvotes, $0
 12. [Stored XSS on Share-popup of a directory's Gallery-view](https://hackerone.com/reports/145355) to Nextcloud - 21 upvotes, $750
@@ -66,23 +66,23 @@ Top reports from Nextcloud program at HackerOne:
 62. [In Dockerized Environments, Failing to Read config.php Grants Any Anonymous User Full Admin Access](https://hackerone.com/reports/522876) to Nextcloud - 9 upvotes, $0
 63. [User Editable nextcloud Wiki pages of Public Repositories](https://hackerone.com/reports/498878) to Nextcloud - 9 upvotes, $0
 64. [twofactor_auth bypassable if provider fails to load](https://hackerone.com/reports/317711) to Nextcloud - 8 upvotes, $50
-65. [Files Drop: WebDAV endpoint is leaking existence of resources](https://hackerone.com/reports/187460) to Nextcloud - 8 upvotes, $0
-66. [User Information Disclosure via REST API](https://hackerone.com/reports/197877) to Nextcloud - 8 upvotes, $0
-67. [Wordpress Vulnerable to Potential Unauthorized Password Reset](https://hackerone.com/reports/226037) to Nextcloud - 8 upvotes, $0
-68. [Reflected XSS in Gallery App](https://hackerone.com/reports/165686) to Nextcloud - 7 upvotes, $500
-69. [Calendar and addressbook names disclosed (NC-SA-2017-012)](https://hackerone.com/reports/203594) to Nextcloud - 7 upvotes, $183
-70. [Content (Text) Injection at NextCloud Server 9.0.52 - via http://custom_nextcloud_url/remote.php/dav/files/](https://hackerone.com/reports/149798) to Nextcloud - 7 upvotes, $50
-71. [Uploading large avatar images cause excessive CPU usage](https://hackerone.com/reports/504759) to Nextcloud - 7 upvotes, $50
-72. [Bad content-type in response header when getting document can lead to html injection](https://hackerone.com/reports/173721) to Nextcloud - 7 upvotes, $0
-73. [Android - Possible to intercept broadcasts about uploaded files](https://hackerone.com/reports/167481) to Nextcloud - 7 upvotes, $0
-74. [Update php-saml library to 2.10.5](https://hackerone.com/reports/213789) to Nextcloud - 7 upvotes, $0
-75. [Missing Rate Limit for Current Password field in nextcloud.com](https://hackerone.com/reports/199714) to Nextcloud - 7 upvotes, $0
-76. [WordPress &lt; 4.8.2 vulnerable to multiple attacks](https://hackerone.com/reports/269705) to Nextcloud - 7 upvotes, $0
-77. [Wordpress Users Disclosure](https://hackerone.com/reports/625199) to Nextcloud - 7 upvotes, $0
-78. [Click Jacking Nextcloud](https://hackerone.com/reports/347782) to Nextcloud - 7 upvotes, $0
-79. [File access control rules not enforced on image files](https://hackerone.com/reports/358339) to Nextcloud - 6 upvotes, $150
-80. [Stored XSS/HTML injection in autocomplete suggestions for sharing](https://hackerone.com/reports/478957) to Nextcloud - 6 upvotes, $100
-81. [Server-Side request forgery in New-Subscription feature of the calendar app](https://hackerone.com/reports/427835) to Nextcloud - 6 upvotes, $100
+65. [Uploading large avatar images cause excessive CPU usage](https://hackerone.com/reports/504759) to Nextcloud - 8 upvotes, $50
+66. [Files Drop: WebDAV endpoint is leaking existence of resources](https://hackerone.com/reports/187460) to Nextcloud - 8 upvotes, $0
+67. [User Information Disclosure via REST API](https://hackerone.com/reports/197877) to Nextcloud - 8 upvotes, $0
+68. [Wordpress Vulnerable to Potential Unauthorized Password Reset](https://hackerone.com/reports/226037) to Nextcloud - 8 upvotes, $0
+69. [Reflected XSS in Gallery App](https://hackerone.com/reports/165686) to Nextcloud - 7 upvotes, $500
+70. [Calendar and addressbook names disclosed (NC-SA-2017-012)](https://hackerone.com/reports/203594) to Nextcloud - 7 upvotes, $183
+71. [Server-Side request forgery in New-Subscription feature of the calendar app](https://hackerone.com/reports/427835) to Nextcloud - 7 upvotes, $100
+72. [Content (Text) Injection at NextCloud Server 9.0.52 - via http://custom_nextcloud_url/remote.php/dav/files/](https://hackerone.com/reports/149798) to Nextcloud - 7 upvotes, $50
+73. [Bad content-type in response header when getting document can lead to html injection](https://hackerone.com/reports/173721) to Nextcloud - 7 upvotes, $0
+74. [Android - Possible to intercept broadcasts about uploaded files](https://hackerone.com/reports/167481) to Nextcloud - 7 upvotes, $0
+75. [Update php-saml library to 2.10.5](https://hackerone.com/reports/213789) to Nextcloud - 7 upvotes, $0
+76. [Missing Rate Limit for Current Password field in nextcloud.com](https://hackerone.com/reports/199714) to Nextcloud - 7 upvotes, $0
+77. [WordPress &lt; 4.8.2 vulnerable to multiple attacks](https://hackerone.com/reports/269705) to Nextcloud - 7 upvotes, $0
+78. [Wordpress Users Disclosure](https://hackerone.com/reports/625199) to Nextcloud - 7 upvotes, $0
+79. [Click Jacking Nextcloud](https://hackerone.com/reports/347782) to Nextcloud - 7 upvotes, $0
+80. [File access control rules not enforced on image files](https://hackerone.com/reports/358339) to Nextcloud - 6 upvotes, $150
+81. [Stored XSS/HTML injection in autocomplete suggestions for sharing](https://hackerone.com/reports/478957) to Nextcloud - 6 upvotes, $100
 82. [Expired SSL certificate](https://hackerone.com/reports/163342) to Nextcloud - 6 upvotes, $0
 83. [Wordpress: Directory Traversal / Denial of Serivce](https://hackerone.com/reports/163421) to Nextcloud - 6 upvotes, $0
 84. [Directory listening enabled in: 88.198.160.130](https://hackerone.com/reports/156510) to Nextcloud - 6 upvotes, $0

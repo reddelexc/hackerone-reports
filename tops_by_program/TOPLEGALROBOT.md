@@ -12,10 +12,10 @@ Top reports from Legal Robot program at HackerOne:
 8. [Homograph IDNs displayed in Description](https://hackerone.com/reports/260938) to Legal Robot - 13 upvotes, $40
 9. [TabNabbing issue (due to taget=_blank)](https://hackerone.com/reports/260278) to Legal Robot - 13 upvotes, $20
 10. [Legal Robot AWS S3 Bucket Directory Listing](https://hackerone.com/reports/194142) to Legal Robot - 13 upvotes, $0
-11. [Password complexity not evenly enforced](https://hackerone.com/reports/249398) to Legal Robot - 12 upvotes, $40
-12. [2FA manual entry uses wrong encoding](https://hackerone.com/reports/260390) to Legal Robot - 12 upvotes, $30
-13. [Information Disclosure on rate limit defense mechanism](https://hackerone.com/reports/172296) to Legal Robot - 12 upvotes, $20
-14. [2FA Error Handling on Google Authenticator](https://hackerone.com/reports/249695) to Legal Robot - 11 upvotes, $60
+11. [2FA Error Handling on Google Authenticator](https://hackerone.com/reports/249695) to Legal Robot - 12 upvotes, $60
+12. [Password complexity not evenly enforced](https://hackerone.com/reports/249398) to Legal Robot - 12 upvotes, $40
+13. [2FA manual entry uses wrong encoding](https://hackerone.com/reports/260390) to Legal Robot - 12 upvotes, $30
+14. [Information Disclosure on rate limit defense mechanism](https://hackerone.com/reports/172296) to Legal Robot - 12 upvotes, $20
 15. [AWS S3 website can't serve security headers, may allow clickjacking](https://hackerone.com/reports/149572) to Legal Robot - 11 upvotes, $40
 16. [Near-duplicate accounts allowed with ignored email mutations](https://hackerone.com/reports/171337) to Legal Robot - 11 upvotes, $20
 17. [Logic issue in email change process](https://hackerone.com/reports/265931) to Legal Robot - 10 upvotes, $70

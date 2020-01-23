@@ -2,25 +2,25 @@
 
 Top OAuth reports from HackerOne:
 
-1. [Shopify Stocky App OAuth Misconfiguration](https://hackerone.com/reports/740989) to Shopify - 433 upvotes, $5000
-2. [Chained Bugs to Leak Victim's Uber's FB Oauth Token](https://hackerone.com/reports/202781) to Uber - 334 upvotes, $7500
+1. [Shopify Stocky App OAuth Misconfiguration](https://hackerone.com/reports/740989) to Shopify - 467 upvotes, $5000
+2. [Chained Bugs to Leak Victim's Uber's FB Oauth Token](https://hackerone.com/reports/202781) to Uber - 335 upvotes, $7500
 3. [Insufficient OAuth callback validation which leads to Periscope account takeover](https://hackerone.com/reports/110293) to Twitter - 245 upvotes, $5040
 4. [Unauthenticated blind SSRF in OAuth Jira authorization controller](https://hackerone.com/reports/398799) to GitLab - 208 upvotes, $4000
-5. [Stealing Facebook OAuth Code Through Screenshot viewer](https://hackerone.com/reports/488269) to Rockstar Games - 177 upvotes, $750
+5. [Stealing Facebook OAuth Code Through Screenshot viewer](https://hackerone.com/reports/488269) to Rockstar Games - 178 upvotes, $750
 6. [Incorrect details on OAuth permissions screen allows DMs to be read without permission](https://hackerone.com/reports/434763) to Twitter - 70 upvotes, $2940
-7. [Facebook OAuth Code Theft through referer leakage on support.rockstargames.com](https://hackerone.com/reports/482743) to Rockstar Games - 60 upvotes, $750
+7. [Facebook OAuth Code Theft through referer leakage on support.rockstargames.com](https://hackerone.com/reports/482743) to Rockstar Games - 61 upvotes, $750
 8. [CSRF on Periscope Web OAuth authorization endpoint](https://hackerone.com/reports/215381) to Twitter - 59 upvotes, $2520
 9. [Stealing Users OAuth Tokens through redirect_uri parameter](https://hackerone.com/reports/665651) to TTS Bug Bounty - 42 upvotes, $750
-10. [[auth2.zomato.com] Reflected XSS at `oauth2/fallbacks/error` | ORY Hydra an OAuth 2.0 and OpenID Connect Provider](https://hackerone.com/reports/456333) to Zomato - 38 upvotes, $250
+10. [[auth2.zomato.com] Reflected XSS at `oauth2/fallbacks/error` | ORY Hydra an OAuth 2.0 and OpenID Connect Provider](https://hackerone.com/reports/456333) to Zomato - 40 upvotes, $250
 11. [Oauth flow on the comments widget login can lead to the access code leakage](https://hackerone.com/reports/292783) to Ed - 38 upvotes, $0
 12. [Twitter iOS fails to validate server certificate and sends oauth token](https://hackerone.com/reports/168538) to Twitter - 34 upvotes, $2100
 13. [Smuggle SocialClub's Facebook OAuth Code via Referer Leakage](https://hackerone.com/reports/342709) to Rockstar Games - 34 upvotes, $750
 14. [Ability to bypass social OAuth and take over any account [d2c-api]](https://hackerone.com/reports/729960) to Genasys Technologies - 34 upvotes, $0
 15. [Gitlab Oauth Misconfiguration Lead To Account Takeover](https://hackerone.com/reports/541701) to ZEIT - 33 upvotes, $0
 16. [Stealing Users OAUTH Tokens via redirect_uri](https://hackerone.com/reports/405100) to BOHEMIA INTERACTIVE a.s. - 31 upvotes, $0
-17. [Open Redirect on Gitllab Oauth leading to Acount Takeover](https://hackerone.com/reports/677617) to ZEIT - 28 upvotes, $0
-18. [OAuth 2 Authorization Bypass via CSRF and Cross Site Flashing](https://hackerone.com/reports/136582) to Vimeo - 27 upvotes, $1000
-19. [Race Conditions in OAuth 2 API implementations](https://hackerone.com/reports/55140) to The Internet - 26 upvotes, $2500
+17. [Open Redirect on Gitllab Oauth leading to Acount Takeover](https://hackerone.com/reports/677617) to ZEIT - 30 upvotes, $0
+18. [Race Conditions in OAuth 2 API implementations](https://hackerone.com/reports/55140) to The Internet - 27 upvotes, $2500
+19. [OAuth 2 Authorization Bypass via CSRF and Cross Site Flashing](https://hackerone.com/reports/136582) to Vimeo - 27 upvotes, $1000
 20. [[Critical] - Steal OAuth Tokens](https://hackerone.com/reports/131202) to Twitter - 18 upvotes, $840
 21. [XSS in OAuth Redirect Url](https://hackerone.com/reports/163707) to Dropbox - 18 upvotes, $0
 22. [Account takeover via Pornhub Oauth](https://hackerone.com/reports/192648) to YouPorn - 17 upvotes, $1000
@@ -33,14 +33,14 @@ Top OAuth reports from HackerOne:
 29. [leaking Digits OAuth authorization to third party websites](https://hackerone.com/reports/166942) to Twitter - 9 upvotes, $560
 30. [Open redirection in OAuth](https://hackerone.com/reports/405697) to Shopify - 8 upvotes, $0
 31. [Bug in OAuth Success Redirect URI Validation](https://hackerone.com/reports/753547) to Polymail, Inc. - 6 upvotes, $0
-32. [OAuth Stealing Attack (New)](https://hackerone.com/reports/3930) to Phabricator - 4 upvotes, $400
-33. [Wordpress.com REST API oauth bypass via Cross Site Flashing](https://hackerone.com/reports/176308) to Automattic - 4 upvotes, $150
-34. [Registration bypass using OAuth logical bug](https://hackerone.com/reports/64946) to Legal Robot - 4 upvotes, $40
-35. [XSS in uber oauth](https://hackerone.com/reports/131052) to Uber - 4 upvotes, $0
-36. [OAuth authorization page vulnerable to clickjacking](https://hackerone.com/reports/65825) to Coinbase - 3 upvotes, $5000
-37. [Open redirection in OAuth](https://hackerone.com/reports/55525) to Shopify - 3 upvotes, $500
-38. [OAuth access_token stealing in Phabricator](https://hackerone.com/reports/3596) to Phabricator - 3 upvotes, $450
-39. [API OAuth Public Key disclosure in mobile app](https://hackerone.com/reports/160120) to Instacart - 3 upvotes, $0
+32. [Open redirection in OAuth](https://hackerone.com/reports/55525) to Shopify - 4 upvotes, $500
+33. [OAuth Stealing Attack (New)](https://hackerone.com/reports/3930) to Phabricator - 4 upvotes, $400
+34. [Wordpress.com REST API oauth bypass via Cross Site Flashing](https://hackerone.com/reports/176308) to Automattic - 4 upvotes, $150
+35. [Registration bypass using OAuth logical bug](https://hackerone.com/reports/64946) to Legal Robot - 4 upvotes, $40
+36. [XSS in uber oauth](https://hackerone.com/reports/131052) to Uber - 4 upvotes, $0
+37. [API OAuth Public Key disclosure in mobile app](https://hackerone.com/reports/160120) to Instacart - 4 upvotes, $0
+38. [OAuth authorization page vulnerable to clickjacking](https://hackerone.com/reports/65825) to Coinbase - 3 upvotes, $5000
+39. [OAuth access_token stealing in Phabricator](https://hackerone.com/reports/3596) to Phabricator - 3 upvotes, $450
 40. [Login CSRF using Twitter OAuth](https://hackerone.com/reports/2228) to Phabricator - 2 upvotes, $300
 41. [Problem with OAuth](https://hackerone.com/reports/46485) to Twitter - 1 upvotes, $1260
 42. [Attach Pinterest account - no State/CSRF parameter in Oauth Call back](https://hackerone.com/reports/111218) to Shopify - 1 upvotes, $500

@@ -2,8 +2,8 @@
 
 Top SQLI reports from HackerOne:
 
-1. [SQL Injection Extracts Starbucks Enterprise Accounting, Financial, Payroll Database](https://hackerone.com/reports/531051) to Starbucks - 636 upvotes, $4000
-2. [SQL injection in https://labs.data.gov/dashboard/datagov/csv_to_json via User-agent](https://hackerone.com/reports/297478) to TTS Bug Bounty - 620 upvotes, $2000
+1. [SQL Injection Extracts Starbucks Enterprise Accounting, Financial, Payroll Database](https://hackerone.com/reports/531051) to Starbucks - 642 upvotes, $4000
+2. [SQL injection in https://labs.data.gov/dashboard/datagov/csv_to_json via User-agent](https://hackerone.com/reports/297478) to TTS Bug Bounty - 621 upvotes, $2000
 3. [SQL Injection in report_xml.php through countryFilter[] parameter](https://hackerone.com/reports/383127) to Valve - 328 upvotes, $25000
 4. [[www.zomato.com] SQLi - /php/██████████ - item_id](https://hackerone.com/reports/403616) to Zomato - 263 upvotes, $4500
 5. [Blind SQLi leading to RCE, from Unauthenticated access to a test API Webservice](https://hackerone.com/reports/592400) to Starbucks - 206 upvotes, $4000
@@ -12,7 +12,7 @@ Top SQLI reports from HackerOne:
 8. [www.drivegrab.com SQL injection](https://hackerone.com/reports/273946) to Grab - 151 upvotes, $4500
 9. [SQL injection in GraphQL endpoint through embedded_submission_form_uuid parameter](https://hackerone.com/reports/435066) to HackerOne - 133 upvotes, $0
 10. [SQL Injection on www.██████████ on countID parameter](https://hackerone.com/reports/390879) to U.S. Dept Of Defense - 74 upvotes, $0
-11. [SQL Injection on sctrack.email.uber.com.cn](https://hackerone.com/reports/150156) to Uber - 70 upvotes, $4000
+11. [SQL Injection on sctrack.email.uber.com.cn](https://hackerone.com/reports/150156) to Uber - 71 upvotes, $4000
 12. [Arbitrary SQL command injection](https://hackerone.com/reports/508487) to Nextcloud - 68 upvotes, $500
 13. [SQL Injection on https://www.olx.co.id](https://hackerone.com/reports/639876) to OLX - 67 upvotes, $0
 14. [Found Origin IP's Lead To Access To [ Grafana Instance , PgHero Instance [ Can SQL Injection ]](https://hackerone.com/reports/687908) to Omise - 64 upvotes, $200
@@ -35,10 +35,10 @@ Top SQLI reports from HackerOne:
 31. [Type Juggling -&gt; PHP Object Injection -&gt; SQL Injection Chain](https://hackerone.com/reports/202774) to ExpressionEngine - 37 upvotes, $0
 32. [SQL Injection in sijoitustalous_peruutus (viestinta.lahitapiola.fi)](https://hackerone.com/reports/190434) to LocalTapiola - 36 upvotes, $1350
 33. [SQL injection in Wordpress Plugin Huge IT Video Gallery at https://drive.uber.com/frmarketplace/](https://hackerone.com/reports/125932) to Uber - 34 upvotes, $3000
-34. [[www.zomato.com] Boolean SQLi - /███████.php](https://hackerone.com/reports/301257) to Zomato - 32 upvotes, $1000
-35. [[lk.contact-sys.com] SQL Injection reset_password FP_LK_USER_LOGIN](https://hackerone.com/reports/164684) to QIWI - 32 upvotes, $300
-36. [sqli](https://hackerone.com/reports/207695) to Ubiquiti Inc. - 31 upvotes, $1000
-37. [[www.zomato.com] Boolean SQLi - /█████.php](https://hackerone.com/reports/297534) to Zomato - 31 upvotes, $1000
+34. [[www.zomato.com] Boolean SQLi - /█████.php](https://hackerone.com/reports/297534) to Zomato - 32 upvotes, $1000
+35. [[www.zomato.com] Boolean SQLi - /███████.php](https://hackerone.com/reports/301257) to Zomato - 32 upvotes, $1000
+36. [[lk.contact-sys.com] SQL Injection reset_password FP_LK_USER_LOGIN](https://hackerone.com/reports/164684) to QIWI - 32 upvotes, $300
+37. [sqli](https://hackerone.com/reports/207695) to Ubiquiti Inc. - 31 upvotes, $1000
 38. [Time-based Blind SQLi on news.starbucks.com](https://hackerone.com/reports/198292) to Starbucks - 31 upvotes, $0
 39. [Time Based SQL-inject in post-parametr login[username] [domain - youporn.com]](https://hackerone.com/reports/203935) to YouPorn - 30 upvotes, $2500
 40. [Sql-inj in https://maximum.com/ajax/people](https://hackerone.com/reports/94584) to Maximum - 27 upvotes, $40
@@ -52,9 +52,9 @@ Top SQLI reports from HackerOne:
 48. [gmmovinparts.com SQLi via forgot_password.jsp](https://hackerone.com/reports/109395) to General Motors - 20 upvotes, $0
 49. [SQLi allow query restriction bypass on exposed FileContentProvider](https://hackerone.com/reports/518669) to Nextcloud - 18 upvotes, $100
 50. [[critical] sql injection by GET method](https://hackerone.com/reports/319279) to Khan Academy - 18 upvotes, $0
-51. [SQL Injection on /webApp/sijoitustalousuk email-parameter + potential lack of CSRF Token (viestinta.lahitapiola.fi)](https://hackerone.com/reports/191601) to LocalTapiola - 17 upvotes, $1350
-52. [WordPress DB Class, bad implementation of prepare method guides to sqli and information disclosure](https://hackerone.com/reports/179920) to WordPress - 17 upvotes, $0
-53. [SQL injection on the https://████/](https://hackerone.com/reports/488795) to U.S. Dept Of Defense - 17 upvotes, $0
+51. [SQL injection on the https://████/](https://hackerone.com/reports/488795) to U.S. Dept Of Defense - 18 upvotes, $0
+52. [SQL Injection on /webApp/sijoitustalousuk email-parameter + potential lack of CSRF Token (viestinta.lahitapiola.fi)](https://hackerone.com/reports/191601) to LocalTapiola - 17 upvotes, $1350
+53. [WordPress DB Class, bad implementation of prepare method guides to sqli and information disclosure](https://hackerone.com/reports/179920) to WordPress - 17 upvotes, $0
 54. [SQL Injection in lapsuudenturva (viestinta.lahitapiola.fi)](https://hackerone.com/reports/191146) to LocalTapiola - 16 upvotes, $1350
 55. [Unsafe deserialization in Libera Pay allows to escalate a SQL injection to Remote Command Execution](https://hackerone.com/reports/361341) to Liberapay - 16 upvotes, $0
 56. [SQL Injection /webApp/sijoitustalous_peruutus locId parameter (viestinta.lahitapiola.fi)](https://hackerone.com/reports/181826) to LocalTapiola - 15 upvotes, $350
@@ -81,12 +81,12 @@ Top SQLI reports from HackerOne:
 77. [SQL Injection on /webApp/viivanalle (viestinta.lahitapiola.fi)](https://hackerone.com/reports/200210) to LocalTapiola - 7 upvotes, $350
 78. [SQL injection vulnerability on a DoD website](https://hackerone.com/reports/193936) to U.S. Dept Of Defense - 7 upvotes, $0
 79. [Blind SQLi in a DoD Website](https://hackerone.com/reports/196300) to U.S. Dept Of Defense - 7 upvotes, $0
-80. [Blind SQL Injection](https://hackerone.com/reports/221757) to ok.ru - 6 upvotes, $300
-81. [[informatica.com] Blind SQL Injection](https://hackerone.com/reports/117073) to Informatica - 6 upvotes, $0
-82. [SQL Injection vulnerability on a DoD website](https://hackerone.com/reports/186156) to U.S. Dept Of Defense - 6 upvotes, $0
-83. [SQL injection vulnerability on a DoD website](https://hackerone.com/reports/189069) to U.S. Dept Of Defense - 6 upvotes, $0
-84. [Weak credentials, Blind SQLi, Timing attack, that leads to web admin access](https://hackerone.com/reports/514584) to 50m-ctf - 6 upvotes, $0
-85. [Drupal 7 pre auth sql injection and remote code execution](https://hackerone.com/reports/31756) to The Internet - 5 upvotes, $3000
+80. [Drupal 7 pre auth sql injection and remote code execution](https://hackerone.com/reports/31756) to The Internet - 6 upvotes, $3000
+81. [Blind SQL Injection](https://hackerone.com/reports/221757) to ok.ru - 6 upvotes, $300
+82. [[informatica.com] Blind SQL Injection](https://hackerone.com/reports/117073) to Informatica - 6 upvotes, $0
+83. [SQL Injection vulnerability on a DoD website](https://hackerone.com/reports/186156) to U.S. Dept Of Defense - 6 upvotes, $0
+84. [SQL injection vulnerability on a DoD website](https://hackerone.com/reports/189069) to U.S. Dept Of Defense - 6 upvotes, $0
+85. [Weak credentials, Blind SQLi, Timing attack, that leads to web admin access](https://hackerone.com/reports/514584) to 50m-ctf - 6 upvotes, $0
 86. [SQL Injection vulnerability in a DoD website](https://hackerone.com/reports/201512) to U.S. Dept Of Defense - 5 upvotes, $0
 87. [sql injection on](https://hackerone.com/reports/381758) to U.S. Dept Of Defense - 5 upvotes, $0
 88. [[████████] Boolean SQL Injection (/personnel.php?content=profile&amp;rcnum=*)](https://hackerone.com/reports/648346) to U.S. Dept Of Defense - 5 upvotes, $0

@@ -2,7 +2,7 @@
 
 Top reports from Slack program at HackerOne:
 
-1. [XSS vulnerable parameter in a location hash](https://hackerone.com/reports/146336) to Slack - 411 upvotes, $1100
+1. [XSS vulnerable parameter in a location hash](https://hackerone.com/reports/146336) to Slack - 417 upvotes, $1100
 2. [AWS bucket leading to iOS test build code and configuration exposure](https://hackerone.com/reports/404822) to Slack - 307 upvotes, $1500
 3. [XSS in gist integration](https://hackerone.com/reports/11073) to Slack - 149 upvotes, $500
 4. [Unauthenticated LFI revealing log information](https://hackerone.com/reports/272578) to Slack - 115 upvotes, $4000
@@ -15,13 +15,13 @@ Top reports from Slack program at HackerOne:
 11. [OSX slack:// protocol handler javascript injection](https://hackerone.com/reports/79348) to Slack - 71 upvotes, $1000
 12. [Eavesdropping on private Slack calls](https://hackerone.com/reports/184698) to Slack - 63 upvotes, $1000
 13. [The Custom Emoji Page has a Reflected XSS](https://hackerone.com/reports/258198) to Slack - 55 upvotes, $1250
-14. [Internal SSRF bypass using slash commands at api.slack.com](https://hackerone.com/reports/356765) to Slack - 45 upvotes, $500
-15. [Linux Desktop application slack executable does not use pie / no ASLR](https://hackerone.com/reports/415272) to Slack - 44 upvotes, $100
+14. [Internal SSRF bypass using slash commands at api.slack.com](https://hackerone.com/reports/356765) to Slack - 46 upvotes, $500
+15. [Linux Desktop application slack executable does not use pie / no ASLR](https://hackerone.com/reports/415272) to Slack - 45 upvotes, $100
 16. [Store XSS](https://hackerone.com/reports/187410) to Slack - 43 upvotes, $500
-17. [Bypass of the SSRF protection in Event Subscriptions parameter.](https://hackerone.com/reports/386292) to Slack - 41 upvotes, $500
+17. [Bypass of the SSRF protection in Event Subscriptions parameter.](https://hackerone.com/reports/386292) to Slack - 42 upvotes, $500
 18. [The POODLE attack (SSLv3 supported) at status.slack.com](https://hackerone.com/reports/375097) to Slack - 39 upvotes, $500
 19. [Information leakage and default open port](https://hackerone.com/reports/305518) to Slack - 39 upvotes, $350
-20. [CSS Injection to disable app &amp; potential message exfil](https://hackerone.com/reports/679969) to Slack - 31 upvotes, $500
+20. [CSS Injection to disable app &amp; potential message exfil](https://hackerone.com/reports/679969) to Slack - 32 upvotes, $500
 21. [Snooping into messages via email service](https://hackerone.com/reports/163938) to Slack - 28 upvotes, $2500
 22. [Stored XSS(Cross Site Scripting) In Slack App Name](https://hackerone.com/reports/159460) to Slack - 28 upvotes, $1000
 23. [Bypass](https://hackerone.com/reports/121696) to Slack - 24 upvotes, $500

@@ -28,16 +28,16 @@ Top reports from OLX program at HackerOne:
 24. [Stored XSS in buy topup OLX Gold Credits](https://hackerone.com/reports/169625) to OLX - 10 upvotes, $0
 25. [I found a way to instantly take over ads by other users and change them (IDOR)](https://hackerone.com/reports/253929) to OLX - 10 upvotes, $0
 26. [Reflected XSS on m.olx.co.id via ad_type parameter](https://hackerone.com/reports/636278) to OLX - 10 upvotes, $0
-27. [Arbitrary File Reading](https://hackerone.com/reports/150783) to OLX - 9 upvotes, $0
-28. [Unauthorised access to olx.in user accounts.](https://hackerone.com/reports/155130) to OLX - 9 upvotes, $0
-29. [Full Account Takeover](https://hackerone.com/reports/159202) to OLX - 9 upvotes, $0
-30. [All Active user sessions should be destroyed when user change his password!](https://hackerone.com/reports/150540) to OLX - 9 upvotes, $0
-31. [CSRF in account configuration leads to complete account compromise](https://hackerone.com/reports/150586) to OLX - 8 upvotes, $0
-32. [Reflected XSS in www.olx.ph](https://hackerone.com/reports/150746) to OLX - 8 upvotes, $0
-33. [Bypass Rejected ads so user can view it as normal live ad.](https://hackerone.com/reports/669736) to OLX - 8 upvotes, $0
-34. [Directory Listing of all the resource files of olx.com.eg](https://hackerone.com/reports/175760) to OLX - 7 upvotes, $0
-35. [XSS on Meta Tag at https://m.olx.ph](https://hackerone.com/reports/157813) to OLX - 7 upvotes, $0
-36. [Multiple vulnerabilities in http://blog.dubizzle.com/uae](https://hackerone.com/reports/188279) to OLX - 7 upvotes, $0
+27. [Unauthorised access to olx.in user accounts.](https://hackerone.com/reports/155130) to OLX - 9 upvotes, $0
+28. [Full Account Takeover](https://hackerone.com/reports/159202) to OLX - 9 upvotes, $0
+29. [All Active user sessions should be destroyed when user change his password!](https://hackerone.com/reports/150540) to OLX - 9 upvotes, $0
+30. [Bypass Rejected ads so user can view it as normal live ad.](https://hackerone.com/reports/669736) to OLX - 9 upvotes, $0
+31. [Arbitrary File Reading](https://hackerone.com/reports/150783) to OLX - 8 upvotes, $0
+32. [CSRF in account configuration leads to complete account compromise](https://hackerone.com/reports/150586) to OLX - 8 upvotes, $0
+33. [Reflected XSS in www.olx.ph](https://hackerone.com/reports/150746) to OLX - 8 upvotes, $0
+34. [Multiple vulnerabilities in http://blog.dubizzle.com/uae](https://hackerone.com/reports/188279) to OLX - 8 upvotes, $0
+35. [Directory Listing of all the resource files of olx.com.eg](https://hackerone.com/reports/175760) to OLX - 7 upvotes, $0
+36. [XSS on Meta Tag at https://m.olx.ph](https://hackerone.com/reports/157813) to OLX - 7 upvotes, $0
 37. [XSS @ *.olx.com.ar](https://hackerone.com/reports/150560) to OLX - 6 upvotes, $0
 38. [Reflected XSS in [olx.qa]](https://hackerone.com/reports/191332) to OLX - 6 upvotes, $0
 39. [CSRF in delete advertisement on olx.com.eg](https://hackerone.com/reports/178384) to OLX - 6 upvotes, $0

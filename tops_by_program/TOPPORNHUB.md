@@ -12,7 +12,7 @@ Top reports from Pornhub program at HackerOne:
 8. [[idor] Unauthorized Read access to all the private posts(Including Photos,Videos,Gifs)](https://hackerone.com/reports/148764) to Pornhub - 55 upvotes, $1500
 9. [Wordpress Content injection](https://hackerone.com/reports/202949) to Pornhub - 44 upvotes, $1500
 10. [Stored XSS in photo comment functionality](https://hackerone.com/reports/172227) to Pornhub - 40 upvotes, $1500
-11. [Stored XSS (client-side, using cookie poisoning) on the pornhubpremium.com](https://hackerone.com/reports/311948) to Pornhub - 38 upvotes, $250
+11. [Stored XSS (client-side, using cookie poisoning) on the pornhubpremium.com](https://hackerone.com/reports/311948) to Pornhub - 39 upvotes, $250
 12. [[stored xss, pornhub.com] stream post function](https://hackerone.com/reports/138075) to Pornhub - 35 upvotes, $1500
 13. [RCE Possible Via Video Manager Export using @ character in Video Title](https://hackerone.com/reports/146593) to Pornhub - 35 upvotes, $500
 14. [Unsecured Elasticsearch Instance](https://hackerone.com/reports/267161) to Pornhub - 31 upvotes, $3500
@@ -23,10 +23,10 @@ Top reports from Pornhub program at HackerOne:
 19. [Possibility to insert stored XSS inside &lt;img&gt; tag](https://hackerone.com/reports/267643) to Pornhub - 19 upvotes, $1500
 20. [Single User DOS by Poisoning Cookie via Get Parameter](https://hackerone.com/reports/416966) to Pornhub - 19 upvotes, $50
 21. [XSS vulnerability using GIF tags](https://hackerone.com/reports/191674) to Pornhub - 18 upvotes, $1000
-22. [Partial disclosure of Private Videos through data-mediabook attribute information leak](https://hackerone.com/reports/228495) to Pornhub - 15 upvotes, $250
-23. [Private Photo Disclosure - /user/stream_photo_attach?load=album&amp;id= endpoint](https://hackerone.com/reports/141868) to Pornhub - 14 upvotes, $1000
-24. [Unsecured Grafana instance](https://hackerone.com/reports/167585) to Pornhub - 14 upvotes, $750
-25. [Unsecured Kibana/Elasticsearch instance](https://hackerone.com/reports/188482) to Pornhub - 14 upvotes, $750
+22. [Unsecured Kibana/Elasticsearch instance](https://hackerone.com/reports/188482) to Pornhub - 15 upvotes, $750
+23. [Partial disclosure of Private Videos through data-mediabook attribute information leak](https://hackerone.com/reports/228495) to Pornhub - 15 upvotes, $250
+24. [Private Photo Disclosure - /user/stream_photo_attach?load=album&amp;id= endpoint](https://hackerone.com/reports/141868) to Pornhub - 14 upvotes, $1000
+25. [Unsecured Grafana instance](https://hackerone.com/reports/167585) to Pornhub - 14 upvotes, $750
 26. [Stored XSS in the any user profile using website link](https://hackerone.com/reports/242213) to Pornhub - 14 upvotes, $500
 27. [Mobile Reflect XSS / CSRF at Advertisement Section on Search page](https://hackerone.com/reports/379705) to Pornhub - 14 upvotes, $200
 28. [Mixed Reflected-Stored XSS on pornhub.com (without user interaction) in the playlist playing section](https://hackerone.com/reports/222506) to Pornhub - 13 upvotes, $350

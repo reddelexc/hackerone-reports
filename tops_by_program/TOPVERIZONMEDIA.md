@@ -26,16 +26,16 @@ Top reports from Verizon Media program at HackerOne:
 22. [invite1.us2.msg.vip.bf1.yahoo.com/ - CSRF/email disclosure](https://hackerone.com/reports/7608) to Verizon Media - 2 upvotes, $400
 23. [reflected XSS, http://extprodweb11.cc.gq1.yahoo.com/, 4/8/14, #SpringClean](https://hackerone.com/reports/6195) to Verizon Media - 2 upvotes, $300
 24. [Java Applet Execution On Y! Messenger](https://hackerone.com/reports/933) to Verizon Media - 2 upvotes, $0
-25. [http://us.rd.yahoo.com/](https://hackerone.com/reports/12035) to Verizon Media - 2 upvotes, $0
-26. [Server Side Request Forgery](https://hackerone.com/reports/4461) to Verizon Media - 1 upvotes, $500
-27. [XSS in https://hk.user.auctions.yahoo.com](https://hackerone.com/reports/7266) to Verizon Media - 1 upvotes, $500
-28. [Comment Spoofing](https://hackerone.com/reports/6665) to Verizon Media - 1 upvotes, $500
-29. [information disclosure (LOAD BALANCER + URI XSS)](https://hackerone.com/reports/8284) to Verizon Media - 1 upvotes, $300
-30. [XSS Vulnerability (my.yahoo.com)](https://hackerone.com/reports/4256) to Verizon Media - 1 upvotes, $250
-31. [Cross-origin issue on rmaiauth.ads.vip.bf1.yahoo.com](https://hackerone.com/reports/6268) to Verizon Media - 1 upvotes, $250
-32. [http://conf.member.yahoo.com configuration file disclosure](https://hackerone.com/reports/2598) to Verizon Media - 1 upvotes, $100
-33. [Default /docs folder of PHPBB3 installation on gamesnet.yahoo.com](https://hackerone.com/reports/17506) to Verizon Media - 1 upvotes, $50
-34. [Information Disclosure](https://hackerone.com/reports/1091) to Verizon Media - 1 upvotes, $0
+25. [Information Disclosure](https://hackerone.com/reports/1091) to Verizon Media - 2 upvotes, $0
+26. [http://us.rd.yahoo.com/](https://hackerone.com/reports/12035) to Verizon Media - 2 upvotes, $0
+27. [Server Side Request Forgery](https://hackerone.com/reports/4461) to Verizon Media - 1 upvotes, $500
+28. [XSS in https://hk.user.auctions.yahoo.com](https://hackerone.com/reports/7266) to Verizon Media - 1 upvotes, $500
+29. [Comment Spoofing](https://hackerone.com/reports/6665) to Verizon Media - 1 upvotes, $500
+30. [information disclosure (LOAD BALANCER + URI XSS)](https://hackerone.com/reports/8284) to Verizon Media - 1 upvotes, $300
+31. [XSS Vulnerability (my.yahoo.com)](https://hackerone.com/reports/4256) to Verizon Media - 1 upvotes, $250
+32. [Cross-origin issue on rmaiauth.ads.vip.bf1.yahoo.com](https://hackerone.com/reports/6268) to Verizon Media - 1 upvotes, $250
+33. [http://conf.member.yahoo.com configuration file disclosure](https://hackerone.com/reports/2598) to Verizon Media - 1 upvotes, $100
+34. [Default /docs folder of PHPBB3 installation on gamesnet.yahoo.com](https://hackerone.com/reports/17506) to Verizon Media - 1 upvotes, $50
 35. [ClickJacking on http://au.launch.yahoo.com](https://hackerone.com/reports/1229) to Verizon Media - 1 upvotes, $0
 36. [Yahoo open redirect using ad](https://hackerone.com/reports/2322) to Verizon Media - 1 upvotes, $0
 37. [caesary.yahoo.net Blind Sql Injection](https://hackerone.com/reports/21899) to Verizon Media - 1 upvotes, $0

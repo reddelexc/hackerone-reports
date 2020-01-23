@@ -5,11 +5,11 @@ Top reports from Phabricator program at HackerOne:
 1. [Command injection on Phabricator instance with an evil hg branch name](https://hackerone.com/reports/288704) to Phabricator - 37 upvotes, $1000
 2. [Phabricator is vulnerable to padding oracle attacks and chosen-ciphertext attacks.](https://hackerone.com/reports/216746) to Phabricator - 20 upvotes, $750
 3. [Markdown parsing issue enables insertion of malicious tags](https://hackerone.com/reports/758002) to Phabricator - 18 upvotes, $500
-4. [Window.opener protection](https://hackerone.com/reports/306414) to Phabricator - 17 upvotes, $300
+4. [Window.opener protection](https://hackerone.com/reports/306414) to Phabricator - 18 upvotes, $300
 5. [User with only Viewing Privilege can send message to Room](https://hackerone.com/reports/202499) to Phabricator - 14 upvotes, $300
-6. [HTML in Diffusion not escaped in certain circumstances](https://hackerone.com/reports/148865) to Phabricator - 12 upvotes, $600
-7. [Window.opener fix bypass](https://hackerone.com/reports/317243) to Phabricator - 12 upvotes, $300
-8. [IDOR bug to See hidden slowvote of any user even when you dont have access right](https://hackerone.com/reports/661978) to Phabricator - 12 upvotes, $300
+6. [IDOR bug to See hidden slowvote of any user even when you dont have access right](https://hackerone.com/reports/661978) to Phabricator - 13 upvotes, $300
+7. [HTML in Diffusion not escaped in certain circumstances](https://hackerone.com/reports/148865) to Phabricator - 12 upvotes, $600
+8. [Window.opener fix bypass](https://hackerone.com/reports/317243) to Phabricator - 12 upvotes, $300
 9. [Exposing voting results on the Slowvote application without actually voting](https://hackerone.com/reports/434116) to Phabricator - 11 upvotes, $300
 10. [Differential "Show Raw File" feature exposes generated files to unauthorised users](https://hackerone.com/reports/213942) to Phabricator - 10 upvotes, $600
 11. [Administrator can create user without entering high security mode](https://hackerone.com/reports/351361) to Phabricator - 10 upvotes, $300
