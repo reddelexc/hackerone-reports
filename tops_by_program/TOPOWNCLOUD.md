@@ -7,9 +7,9 @@ Top reports from ownCloud program at HackerOne:
 3. [Remote Code Execution through Deserialization Attack in OwnBackup app.](https://hackerone.com/reports/562335) to ownCloud - 15 upvotes, $0
 4. [Password Complexity Not Enforced On Password Change](https://hackerone.com/reports/276123) to ownCloud - 9 upvotes, $0
 5. [SMB User Authentication Bypass and Persistence](https://hackerone.com/reports/148151) to ownCloud - 7 upvotes, $150
-6. [HTML Injection in Owncloud](https://hackerone.com/reports/215410) to ownCloud - 6 upvotes, $150
-7. [User Information Disclosure via REST API](https://hackerone.com/reports/197786) to ownCloud - 6 upvotes, $0
-8. [RCE in ci.owncloud.com / ci.owncloud.org](https://hackerone.com/reports/98559) to ownCloud - 5 upvotes, $0
+6. [RCE in ci.owncloud.com / ci.owncloud.org](https://hackerone.com/reports/98559) to ownCloud - 7 upvotes, $0
+7. [HTML Injection in Owncloud](https://hackerone.com/reports/215410) to ownCloud - 6 upvotes, $150
+8. [User Information Disclosure via REST API](https://hackerone.com/reports/197786) to ownCloud - 6 upvotes, $0
 9. [Accessable Htaccess](https://hackerone.com/reports/171272) to ownCloud - 5 upvotes, $0
 10. [[api.owncloud.org] CRLF Injection](https://hackerone.com/reports/154306) to ownCloud - 5 upvotes, $0
 11. [Outdated Jenkins server hosted at OwnCloud.org](https://hackerone.com/reports/208566) to ownCloud - 5 upvotes, $0

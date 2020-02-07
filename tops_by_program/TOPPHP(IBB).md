@@ -6,9 +6,9 @@ Top reports from PHP (IBB) program at HackerOne:
 2. [Type Confusion Vulnerability - SOAP / make_http_soap_request()](https://hackerone.com/reports/116773) to PHP (IBB) - 64 upvotes, $1000
 3. [GMP Deserialization Type Confusion Vulnerability [MyBB &lt;= 1.8.3 RCE Vulnerability]](https://hackerone.com/reports/198734) to PHP (IBB) - 61 upvotes, $1500
 4. [Heap overflow in mysqlnd related to BIT fields (CVE-2016-7412)](https://hackerone.com/reports/176279) to PHP (IBB) - 50 upvotes, $1000
-5. [Inappropriate URL parsing may cause security risk!](https://hackerone.com/reports/305974) to PHP (IBB) - 48 upvotes, $1000
+5. [Inappropriate URL parsing may cause security risk!](https://hackerone.com/reports/305974) to PHP (IBB) - 49 upvotes, $1000
 6. [Int Overflow lead to Heap OverFlow in exif_thumbnail_extract of exif.c](https://hackerone.com/reports/384477) to PHP (IBB) - 42 upvotes, $500
-7. [PHP mbstring / Oniguruma multiple remote heap/stack corruptions](https://hackerone.com/reports/237915) to PHP (IBB) - 34 upvotes, $1500
+7. [PHP mbstring / Oniguruma multiple remote heap/stack corruptions](https://hackerone.com/reports/237915) to PHP (IBB) - 35 upvotes, $1500
 8. [select_colors write out-of-bounds](https://hackerone.com/reports/161189) to PHP (IBB) - 23 upvotes, $1000
 9. [PHP Session Data Injection Vulnerability](https://hackerone.com/reports/159946) to PHP (IBB) - 16 upvotes, $1000
 10. [php curl ext size_t overflow lead to heap corruption](https://hackerone.com/reports/152399) to PHP (IBB) - 14 upvotes, $1000

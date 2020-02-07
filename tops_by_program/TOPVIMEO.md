@@ -2,7 +2,7 @@
 
 Top reports from Vimeo program at HackerOne:
 
-1. [SSRF](https://hackerone.com/reports/549882) to Vimeo - 211 upvotes, $5000
+1. [SSRF](https://hackerone.com/reports/549882) to Vimeo - 212 upvotes, $5000
 2. [Domain pointing to vimeo portfolio are prone to takeover using on-demand.](https://hackerone.com/reports/387307) to Vimeo - 68 upvotes, $1500
 3. [Improper Authentication in Vimeo's API 'versions' endpoint.](https://hackerone.com/reports/328724) to Vimeo - 51 upvotes, $2000
 4. [Reflected File Download (RFD) in download video](https://hackerone.com/reports/378941) to Vimeo - 49 upvotes, $700
@@ -16,11 +16,11 @@ Top reports from Vimeo program at HackerOne:
 12. [Images and Subtitles Leakage from private videos](https://hackerone.com/reports/136850) to Vimeo - 16 upvotes, $125
 13. [CSRF on Vimeo via cross site flashing leading to info disclosure and private videos go public](https://hackerone.com/reports/136481) to Vimeo - 14 upvotes, $750
 14. [URGENT - Subdomain Takeover on status.vimeo.com due to unclaimed domain pointing to statuspage.io](https://hackerone.com/reports/49663) to Vimeo - 10 upvotes, $100
-15. [[vimeopro.com] CRLF Injection](https://hackerone.com/reports/39181) to Vimeo - 6 upvotes, $500
-16. [Stored XSS on player.vimeo.com](https://hackerone.com/reports/85488) to Vimeo - 6 upvotes, $500
-17. [Application XSS filter function Bypass may allow Multiple stored XSS](https://hackerone.com/reports/44217) to Vimeo - 6 upvotes, $100
-18. [Securing "Reset password" pages from bots](https://hackerone.com/reports/43807) to Vimeo - 6 upvotes, $0
-19. [Vimeo.com Insecure Direct Object References Reset Password](https://hackerone.com/reports/42587) to Vimeo - 5 upvotes, $5000
+15. [Vimeo.com Insecure Direct Object References Reset Password](https://hackerone.com/reports/42587) to Vimeo - 6 upvotes, $5000
+16. [[vimeopro.com] CRLF Injection](https://hackerone.com/reports/39181) to Vimeo - 6 upvotes, $500
+17. [Stored XSS on player.vimeo.com](https://hackerone.com/reports/85488) to Vimeo - 6 upvotes, $500
+18. [Application XSS filter function Bypass may allow Multiple stored XSS](https://hackerone.com/reports/44217) to Vimeo - 6 upvotes, $100
+19. [Securing "Reset password" pages from bots](https://hackerone.com/reports/43807) to Vimeo - 6 upvotes, $0
 20. [XSS when using captions/subtitles on video player based on Flash (requires user interaction)](https://hackerone.com/reports/88508) to Vimeo - 5 upvotes, $200
 21. [XSS on vimeo.com | "Search within these results" feature (requires user interaction)](https://hackerone.com/reports/88105) to Vimeo - 5 upvotes, $100
 22. [Error page Text Injection.](https://hackerone.com/reports/130914) to Vimeo - 5 upvotes, $0

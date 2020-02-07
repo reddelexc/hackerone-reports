@@ -2,8 +2,8 @@
 
 Top reports from Pornhub program at HackerOne:
 
-1. [[phpobject in cookie] Remote shell/command execution](https://hackerone.com/reports/141956) to Pornhub - 582 upvotes, $20000
-2. [Publicly exposed SVN repository, ht.pornhub.com](https://hackerone.com/reports/72243) to Pornhub - 199 upvotes, $10000
+1. [[phpobject in cookie] Remote shell/command execution](https://hackerone.com/reports/141956) to Pornhub - 585 upvotes, $20000
+2. [Publicly exposed SVN repository, ht.pornhub.com](https://hackerone.com/reports/72243) to Pornhub - 200 upvotes, $10000
 3. [Multiple endpoints are vulnerable to XML External Entity injection (XXE)](https://hackerone.com/reports/72272) to Pornhub - 134 upvotes, $2500
 4. [vulnerabilitie](https://hackerone.com/reports/137723) to Pornhub - 127 upvotes, $0
 5. [[RCE] Unserialize to XXE - file disclosure on ams.upload.pornhub.com](https://hackerone.com/reports/142562) to Pornhub - 86 upvotes, $10000

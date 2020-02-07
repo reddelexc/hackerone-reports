@@ -2,7 +2,7 @@
 
 Top reports from Paragon Initiative Enterprises program at HackerOne:
 
-1. [BAD Code !](https://hackerone.com/reports/180074) to Paragon Initiative Enterprises - 445 upvotes, $0
+1. [BAD Code !](https://hackerone.com/reports/180074) to Paragon Initiative Enterprises - 447 upvotes, $0
 2. [DMARC](https://hackerone.com/reports/179828) to Paragon Initiative Enterprises - 128 upvotes, $0
 3. [Subdomain Takeover](https://hackerone.com/reports/180393) to Paragon Initiative Enterprises - 47 upvotes, $0
 4. [I am because bug](https://hackerone.com/reports/226094) to Paragon Initiative Enterprises - 37 upvotes, $0

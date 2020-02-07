@@ -25,31 +25,31 @@ Top reports from Legal Robot program at HackerOne:
 21. [Password reset access control](https://hackerone.com/reports/180895) to Legal Robot - 9 upvotes, $40
 22. [Pages don't render in old browsers like IE11](https://hackerone.com/reports/251468) to Legal Robot - 9 upvotes, $20
 23. [Meta characters are not filtered into full name on profile page](https://hackerone.com/reports/251469) to Legal Robot - 9 upvotes, $20
-24. [Update any profile](https://hackerone.com/reports/260604) to Legal Robot - 8 upvotes, $100
-25. [Missing link to TOTP manual enroll option](https://hackerone.com/reports/249339) to Legal Robot - 8 upvotes, $90
-26. [User enumeration](https://hackerone.com/reports/250457) to Legal Robot - 8 upvotes, $20
-27. [[New Feature] Password history check](https://hackerone.com/reports/250741) to Legal Robot - 8 upvotes, $20
-28. [[Cross-domain Referer leakage] Password reset token leakage via referer](https://hackerone.com/reports/253448) to Legal Robot - 8 upvotes, $20
-29. [Improper validation of parameters while creating issues](https://hackerone.com/reports/260632) to Legal Robot - 8 upvotes, $20
-30. [first name and last name restrictions bypass](https://hackerone.com/reports/260468) to Legal Robot - 8 upvotes, $20
-31. [Big XSS vulnerability!](https://hackerone.com/reports/216330) to Legal Robot - 8 upvotes, $0
-32. [I cant login to my account](https://hackerone.com/reports/263743) to Legal Robot - 8 upvotes, $0
+24. [I cant login to my account](https://hackerone.com/reports/263743) to Legal Robot - 9 upvotes, $0
+25. [Update any profile](https://hackerone.com/reports/260604) to Legal Robot - 8 upvotes, $100
+26. [Missing link to TOTP manual enroll option](https://hackerone.com/reports/249339) to Legal Robot - 8 upvotes, $90
+27. [User enumeration](https://hackerone.com/reports/250457) to Legal Robot - 8 upvotes, $20
+28. [[New Feature] Password history check](https://hackerone.com/reports/250741) to Legal Robot - 8 upvotes, $20
+29. [[Cross-domain Referer leakage] Password reset token leakage via referer](https://hackerone.com/reports/253448) to Legal Robot - 8 upvotes, $20
+30. [Improper validation of parameters while creating issues](https://hackerone.com/reports/260632) to Legal Robot - 8 upvotes, $20
+31. [first name and last name restrictions bypass](https://hackerone.com/reports/260468) to Legal Robot - 8 upvotes, $20
+32. [Big XSS vulnerability!](https://hackerone.com/reports/216330) to Legal Robot - 8 upvotes, $0
 33. [External links to be in HTTP](https://hackerone.com/reports/269288) to Legal Robot - 8 upvotes, $0
 34. [Clickjacking in Legalrobot app](https://hackerone.com/reports/270454) to Legal Robot - 8 upvotes, $0
-35. [User Information sent to client through websockets](https://hackerone.com/reports/163464) to Legal Robot - 7 upvotes, $120
-36. [Missing link to 2FA recovery code](https://hackerone.com/reports/249346) to Legal Robot - 7 upvotes, $90
-37. [Validation bypass on user profile](https://hackerone.com/reports/164687) to Legal Robot - 7 upvotes, $60
-38. [Token leakage by referrer](https://hackerone.com/reports/213936) to Legal Robot - 7 upvotes, $60
-39. [Logic issue in email change process](https://hackerone.com/reports/266017) to Legal Robot - 7 upvotes, $60
-40. [Information Disclosure in AWS S3 Bucket](https://hackerone.com/reports/163476) to Legal Robot - 7 upvotes, $20
-41. [No notification on change password feature](https://hackerone.com/reports/251526) to Legal Robot - 7 upvotes, $20
-42. [Profile shows incorrect account creation date](https://hackerone.com/reports/255021) to Legal Robot - 7 upvotes, $20
-43. [Change password logic inversion](https://hackerone.com/reports/255679) to Legal Robot - 7 upvotes, $20
-44. [Password reset token issue](https://hackerone.com/reports/265775) to Legal Robot - 7 upvotes, $20
-45. [User enumeration from failed login error message](https://hackerone.com/reports/257035) to Legal Robot - 7 upvotes, $20
-46. [UI Redressing ( ClickJacking ) Issue on Information submit form](https://hackerone.com/reports/163753) to Legal Robot - 7 upvotes, $0
-47. [News Feed Detected](https://hackerone.com/reports/163730) to Legal Robot - 7 upvotes, $0
-48. [User Information leak allows user to bypass email verification.](https://hackerone.com/reports/163467) to Legal Robot - 6 upvotes, $120
+35. [User Information leak allows user to bypass email verification.](https://hackerone.com/reports/163467) to Legal Robot - 7 upvotes, $120
+36. [User Information sent to client through websockets](https://hackerone.com/reports/163464) to Legal Robot - 7 upvotes, $120
+37. [Missing link to 2FA recovery code](https://hackerone.com/reports/249346) to Legal Robot - 7 upvotes, $90
+38. [Validation bypass on user profile](https://hackerone.com/reports/164687) to Legal Robot - 7 upvotes, $60
+39. [Token leakage by referrer](https://hackerone.com/reports/213936) to Legal Robot - 7 upvotes, $60
+40. [Logic issue in email change process](https://hackerone.com/reports/266017) to Legal Robot - 7 upvotes, $60
+41. [Information Disclosure in AWS S3 Bucket](https://hackerone.com/reports/163476) to Legal Robot - 7 upvotes, $20
+42. [No notification on change password feature](https://hackerone.com/reports/251526) to Legal Robot - 7 upvotes, $20
+43. [Profile shows incorrect account creation date](https://hackerone.com/reports/255021) to Legal Robot - 7 upvotes, $20
+44. [Change password logic inversion](https://hackerone.com/reports/255679) to Legal Robot - 7 upvotes, $20
+45. [Password reset token issue](https://hackerone.com/reports/265775) to Legal Robot - 7 upvotes, $20
+46. [User enumeration from failed login error message](https://hackerone.com/reports/257035) to Legal Robot - 7 upvotes, $20
+47. [UI Redressing ( ClickJacking ) Issue on Information submit form](https://hackerone.com/reports/163753) to Legal Robot - 7 upvotes, $0
+48. [News Feed Detected](https://hackerone.com/reports/163730) to Legal Robot - 7 upvotes, $0
 49. [Non-functional 2FA recovery codes](https://hackerone.com/reports/249337) to Legal Robot - 6 upvotes, $60
 50. [Enhancement: email confirmation for 2FA recovery](https://hackerone.com/reports/250082) to Legal Robot - 6 upvotes, $60
 51. [Missing Issuer parameter on TOTP 2FA](https://hackerone.com/reports/251200) to Legal Robot - 6 upvotes, $60
@@ -71,24 +71,24 @@ Top reports from Legal Robot program at HackerOne:
 67. [Futureoflife organization URL should be HTTPS](https://hackerone.com/reports/260591) to Legal Robot - 5 upvotes, $0
 68. [Missing homograph filter character](https://hackerone.com/reports/268981) to Legal Robot - 5 upvotes, $0
 69. [Improper Implementation of Password strength checker](https://hackerone.com/reports/271950) to Legal Robot - 5 upvotes, $0
-70. [2FA user enumeration via password reset](https://hackerone.com/reports/249431) to Legal Robot - 4 upvotes, $90
-71. [Registration bypass using OAuth logical bug](https://hackerone.com/reports/64946) to Legal Robot - 4 upvotes, $40
-72. [Password reset form ignores email field](https://hackerone.com/reports/213180) to Legal Robot - 4 upvotes, $40
-73. [[UX] Notify user on likely email address typo](https://hackerone.com/reports/255026) to Legal Robot - 4 upvotes, $40
-74. [- Guessing registered users in legalrobot.com](https://hackerone.com/reports/66845) to Legal Robot - 4 upvotes, $20
-75. [CORS (Cross-Origin Resource Sharing)](https://hackerone.com/reports/163491) to Legal Robot - 4 upvotes, $20
-76. [Password complexity ignores empty spaces](https://hackerone.com/reports/250253) to Legal Robot - 4 upvotes, $20
-77. [No length limit in invite_code can cause server degradation](https://hackerone.com/reports/260662) to Legal Robot - 4 upvotes, $20
-78. [Amazon Bucket Accessible (http://legalrobot.s3.amazonaws.com/)](https://hackerone.com/reports/163599) to Legal Robot - 4 upvotes, $0
-79. [SWEET32 TLS attack](https://hackerone.com/reports/199438) to Legal Robot - 4 upvotes, $0
-80. [UX: JS error on Password Safety link](https://hackerone.com/reports/262109) to Legal Robot - 4 upvotes, $0
-81. [Autocomplete feature](https://hackerone.com/reports/267356) to Legal Robot - 4 upvotes, $0
-82. [UX: JS error on Password Safety link](https://hackerone.com/reports/260941) to Legal Robot - 4 upvotes, $0
-83. [app.legalrobot.com opens FireFox but not in FireFox ESR](https://hackerone.com/reports/255481) to Legal Robot - 4 upvotes, $0
-84. [Wrong password validation message](https://hackerone.com/reports/265863) to Legal Robot - 4 upvotes, $0
-85. [External links should be served in HTTPS.](https://hackerone.com/reports/272863) to Legal Robot - 4 upvotes, $0
-86. [Broken links for stale domains may be leveraged for Phishing, Misinformation, Defaming](https://hackerone.com/reports/276244) to Legal Robot - 4 upvotes, $0
-87. [Exposes a series of other private credentials](https://hackerone.com/reports/289189) to Legal Robot - 4 upvotes, $0
+70. [Exposes a series of other private credentials](https://hackerone.com/reports/289189) to Legal Robot - 5 upvotes, $0
+71. [2FA user enumeration via password reset](https://hackerone.com/reports/249431) to Legal Robot - 4 upvotes, $90
+72. [Registration bypass using OAuth logical bug](https://hackerone.com/reports/64946) to Legal Robot - 4 upvotes, $40
+73. [Password reset form ignores email field](https://hackerone.com/reports/213180) to Legal Robot - 4 upvotes, $40
+74. [[UX] Notify user on likely email address typo](https://hackerone.com/reports/255026) to Legal Robot - 4 upvotes, $40
+75. [- Guessing registered users in legalrobot.com](https://hackerone.com/reports/66845) to Legal Robot - 4 upvotes, $20
+76. [CORS (Cross-Origin Resource Sharing)](https://hackerone.com/reports/163491) to Legal Robot - 4 upvotes, $20
+77. [Password complexity ignores empty spaces](https://hackerone.com/reports/250253) to Legal Robot - 4 upvotes, $20
+78. [No length limit in invite_code can cause server degradation](https://hackerone.com/reports/260662) to Legal Robot - 4 upvotes, $20
+79. [Amazon Bucket Accessible (http://legalrobot.s3.amazonaws.com/)](https://hackerone.com/reports/163599) to Legal Robot - 4 upvotes, $0
+80. [SWEET32 TLS attack](https://hackerone.com/reports/199438) to Legal Robot - 4 upvotes, $0
+81. [UX: JS error on Password Safety link](https://hackerone.com/reports/262109) to Legal Robot - 4 upvotes, $0
+82. [Autocomplete feature](https://hackerone.com/reports/267356) to Legal Robot - 4 upvotes, $0
+83. [UX: JS error on Password Safety link](https://hackerone.com/reports/260941) to Legal Robot - 4 upvotes, $0
+84. [app.legalrobot.com opens FireFox but not in FireFox ESR](https://hackerone.com/reports/255481) to Legal Robot - 4 upvotes, $0
+85. [Wrong password validation message](https://hackerone.com/reports/265863) to Legal Robot - 4 upvotes, $0
+86. [External links should be served in HTTPS.](https://hackerone.com/reports/272863) to Legal Robot - 4 upvotes, $0
+87. [Broken links for stale domains may be leveraged for Phishing, Misinformation, Defaming](https://hackerone.com/reports/276244) to Legal Robot - 4 upvotes, $0
 88. [Missing security headers, possible clickjacking](https://hackerone.com/reports/64645) to Legal Robot - 3 upvotes, $20
 89. [Rate limiting on Email confirmation link](https://hackerone.com/reports/115845) to Legal Robot - 3 upvotes, $20
 90. [No valid SPF record](https://hackerone.com/reports/66385) to Legal Robot - 3 upvotes, $20

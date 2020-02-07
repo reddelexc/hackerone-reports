@@ -4,19 +4,19 @@ Top reports from Automattic program at HackerOne:
 
 1. [Stored XSS vulnerability in comments on *.wordpress.com](https://hackerone.com/reports/707720) to Automattic - 114 upvotes, $350
 2. [Authenticated Code Execution through Phar deserialization in CSV Importer as Shop manager in WooCommerce](https://hackerone.com/reports/403083) to Automattic - 78 upvotes, $350
-3. [WordPress Flash XSS in *flashmediaelement.swf*](https://hackerone.com/reports/134546) to Automattic - 65 upvotes, $1337
+3. [WordPress Flash XSS in *flashmediaelement.swf*](https://hackerone.com/reports/134546) to Automattic - 66 upvotes, $1337
 4. [Disclosure of 152 cookie names via crafted input](https://hackerone.com/reports/310105) to Automattic - 56 upvotes, $100
 5. [Broken Authentication - Security token gets captured via man in the middle attack](https://hackerone.com/reports/206650) to Automattic - 51 upvotes, $200
 6. [Wordpress VIP leaks email of the test a/c](https://hackerone.com/reports/540301) to Automattic - 49 upvotes, $100
 7. [WordPress SOME bug in plupload.flash.swf leading to RCE](https://hackerone.com/reports/134738) to Automattic - 48 upvotes, $1337
 8. [Stored Self XSS on https://app.crowdsignal.com (in Photo Insert App) + Stored XSS on https://*your-subdomain*.survey.fm](https://hackerone.com/reports/667188) to Automattic - 48 upvotes, $150
-9. [SSRF and local file disclosure in https://wordpress.com/media/videos/ via FFmpeg HLS processing](https://hackerone.com/reports/237381) to Automattic - 46 upvotes, $800
+9. [SSRF and local file disclosure in https://wordpress.com/media/videos/ via FFmpeg HLS processing](https://hackerone.com/reports/237381) to Automattic - 47 upvotes, $800
 10. [WooCommerce: Persistent XSS via customer address (state/county)](https://hackerone.com/reports/530499) to Automattic - 39 upvotes, $350
 11. [Captcha bypass for the most important function - At en.instagram-brand.com](https://hackerone.com/reports/206653) to Automattic - 39 upvotes, $150
 12. [Stored XSS in Jetpack's Simple Payment Module by Contributors / Authors](https://hackerone.com/reports/402753) to Automattic - 38 upvotes, $350
 13. [DOM based XSS in the WooCommerce plugin](https://hackerone.com/reports/507139) to Automattic - 37 upvotes, $275
 14. [cloudup Subdomain Takeover That resolves to Desk.com ( CNAME cloudup.desk.com )](https://hackerone.com/reports/201796) to Automattic - 35 upvotes, $250
-15. [[IDOR] Attacker user can Approve/Decline AFK on the behalf of other users](https://hackerone.com/reports/725569) to Automattic - 33 upvotes, $100
+15. [[IDOR] Attacker user can Approve/Decline AFK on the behalf of other users](https://hackerone.com/reports/725569) to Automattic - 34 upvotes, $100
 16. [Unauthenticated RCE in Vaultpress](https://hackerone.com/reports/236552) to Automattic - 31 upvotes, $500
 17. [[FG-VD-19-022] Wordpress WooCommerce Cross-Site Scripting Vulnerability Notification](https://hackerone.com/reports/495583) to Automattic - 30 upvotes, $200
 18. [Insufficient DKIM record with RSA 512-bit key used on WordPress.com](https://hackerone.com/reports/550937) to Automattic - 26 upvotes, $250
@@ -25,7 +25,7 @@ Top reports from Automattic program at HackerOne:
 21. [RCE via Print function [Simplenote 1.1.3 - Desktop app]](https://hackerone.com/reports/358049) to Automattic - 24 upvotes, $250
 22. [Stored XSS in learnboost.com via the lesson[goals] parameter.](https://hackerone.com/reports/300270) to Automattic - 21 upvotes, $100
 23. [xss filter bypass [polldaddy]](https://hackerone.com/reports/264832) to Automattic - 20 upvotes, $150
-24. [Authentication Bypass - Chaining two vulnerabilities leads to account takeover at en.instagram-brand.com](https://hackerone.com/reports/209008) to Automattic - 18 upvotes, $175
+24. [Authentication Bypass - Chaining two vulnerabilities leads to account takeover at en.instagram-brand.com](https://hackerone.com/reports/209008) to Automattic - 19 upvotes, $175
 25. [Improper markup sanitization.](https://hackerone.com/reports/289823) to Automattic - 18 upvotes, $150
 26. [Improper markup sanitisation in Simplenote Android application.](https://hackerone.com/reports/297547) to Automattic - 16 upvotes, $300
 27. [[app.simplenote.com] Stored XSS via Markdown SVG filter bypass](https://hackerone.com/reports/271007) to Automattic - 16 upvotes, $200

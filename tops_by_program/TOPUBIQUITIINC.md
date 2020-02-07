@@ -2,7 +2,7 @@
 
 Top reports from Ubiquiti Inc. program at HackerOne:
 
-1. [Privilege Escalation From user to SYSTEM via unauthenticated command execution](https://hackerone.com/reports/544928) to Ubiquiti Inc. - 491 upvotes, $16109
+1. [Privilege Escalation From user to SYSTEM via unauthenticated command execution](https://hackerone.com/reports/544928) to Ubiquiti Inc. - 505 upvotes, $16109
 2. [Privilege-0 to Root Privilege Escalation on EdgeSwitch](https://hackerone.com/reports/511025) to Ubiquiti Inc. - 79 upvotes, $1604
 3. [Remote Code Execution at http://tw.corp.ubnt.com](https://hackerone.com/reports/269066) to Ubiquiti Inc. - 59 upvotes, $5000
 4. [Public Jenkins instance with /script enabled](https://hackerone.com/reports/403402) to Ubiquiti Inc. - 56 upvotes, $2500
