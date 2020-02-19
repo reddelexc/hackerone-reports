@@ -6,8 +6,8 @@ Top reports from The Internet program at HackerOne:
 2. [Ubuntu Linux privilege escalation (dirty_sock)](https://hackerone.com/reports/496285) to The Internet - 97 upvotes, $1000
 3. [RCE via ssh:// URIs in multiple VCS](https://hackerone.com/reports/260005) to The Internet - 38 upvotes, $3000
 4. [ACME TLS-SNI-01/02 challenge vulnerable when combined with shared hosting providers](https://hackerone.com/reports/304378) to The Internet - 34 upvotes, $0
-5. [ZeroMQ libzmq remote code execution](https://hackerone.com/reports/477073) to The Internet - 28 upvotes, $1000
-6. [Race Conditions in OAuth 2 API implementations](https://hackerone.com/reports/55140) to The Internet - 27 upvotes, $2500
+5. [Race Conditions in OAuth 2 API implementations](https://hackerone.com/reports/55140) to The Internet - 28 upvotes, $2500
+6. [ZeroMQ libzmq remote code execution](https://hackerone.com/reports/477073) to The Internet - 28 upvotes, $1000
 7. [Mailsploit: a sender spoofing bug in over 30 email clients](https://hackerone.com/reports/295339) to The Internet - 26 upvotes, $0
 8. [4 severe remote + several minor OpenVPN vulnerabilities](https://hackerone.com/reports/242579) to The Internet - 26 upvotes, $0
 9. [Insufficient shell characters filtering leads to (potentially remote) code execution (CVE-2016-3714)](https://hackerone.com/reports/143966) to The Internet - 20 upvotes, $7500
@@ -57,23 +57,23 @@ Top reports from The Internet program at HackerOne:
 53. [CVE-2016-7163 OpenJPEG opj_pi_create_decode Integer Overflow Vulnerability](https://hackerone.com/reports/167512) to The Internet - 2 upvotes, $0
 54. [putty pscp client-side post-auth stack buffer overwrite when processing remote file size](https://hackerone.com/reports/120903) to The Internet - 2 upvotes, $0
 55. [Heap overflow in H. Spencer’s regex library on 32 bit systems](https://hackerone.com/reports/47779) to The Internet - 1 upvotes, $3000
-56. [external entity expansion in Apache POI](https://hackerone.com/reports/25537) to The Internet - 1 upvotes, $0
-57. [CVE-2017-13090 wget heap smash](https://hackerone.com/reports/287667) to The Internet - 1 upvotes, $0
-58. [CVE-2017-13089 wget stack smash](https://hackerone.com/reports/287666) to The Internet - 1 upvotes, $0
-59. [Ericsson Erlang OTP Core Allocation Subsystem Integer Overflow (All Versions)](https://hackerone.com/reports/28640) to The Internet - 1 upvotes, $0
-60. [Widespread failure of certificate validation in Android apps](https://hackerone.com/reports/2293) to The Internet - 1 upvotes, $0
-61. [Roundcube virtualmin privilege escalation (CVE-2017-8114)](https://hackerone.com/reports/242119) to The Internet - 1 upvotes, $0
-62. [The “Malstaller” Attack, global hijacking of any installation process to achieve RCE with elevated privileges, Windows OS (vendor agnostic)](https://hackerone.com/reports/165969) to The Internet - 1 upvotes, $0
-63. [CVE-2016-4796 OpenJPEG color_cmyk_to_rgb Out-of-Bounds Read Vulnerability](https://hackerone.com/reports/167955) to The Internet - 1 upvotes, $0
-64. [CVE-2016-3182 OpenJPEG color_esycc_to_rgb Out-of-Bounds Read Vulnerability](https://hackerone.com/reports/167953) to The Internet - 1 upvotes, $0
-65. [CVE-2016-3183 OpenJPEG sycc422_to_rgb Out-of-Bounds Read Vulnerability](https://hackerone.com/reports/167947) to The Internet - 1 upvotes, $0
-66. [LZ4 Core](https://hackerone.com/reports/17688) to The Internet - 0 upvotes, $6000
-67. [Multiple issues in looking-glass software (aka from web to BGP injections)](https://hackerone.com/reports/16330) to The Internet - 0 upvotes, $5000
-68. [Bad Write in TTF font parsing (win32k.sys)](https://hackerone.com/reports/48100) to The Internet - 0 upvotes, $5000
-69. [rsync hash collisions may allow an attacker to corrupt or modify files](https://hackerone.com/reports/20873) to The Internet - 0 upvotes, $3000
-70. [libcurl: URL request injection](https://hackerone.com/reports/73242) to The Internet - 0 upvotes, $3000
-71. [libcurl duphandle read out of bounds](https://hackerone.com/reports/104014) to The Internet - 0 upvotes, $1000
-72. [Uncontrolled Resource Consumption with XMPP-Layer Compression](https://hackerone.com/reports/5928) to The Internet - 0 upvotes, $500
+56. [Uncontrolled Resource Consumption with XMPP-Layer Compression](https://hackerone.com/reports/5928) to The Internet - 1 upvotes, $500
+57. [external entity expansion in Apache POI](https://hackerone.com/reports/25537) to The Internet - 1 upvotes, $0
+58. [CVE-2017-13090 wget heap smash](https://hackerone.com/reports/287667) to The Internet - 1 upvotes, $0
+59. [CVE-2017-13089 wget stack smash](https://hackerone.com/reports/287666) to The Internet - 1 upvotes, $0
+60. [Ericsson Erlang OTP Core Allocation Subsystem Integer Overflow (All Versions)](https://hackerone.com/reports/28640) to The Internet - 1 upvotes, $0
+61. [Widespread failure of certificate validation in Android apps](https://hackerone.com/reports/2293) to The Internet - 1 upvotes, $0
+62. [Roundcube virtualmin privilege escalation (CVE-2017-8114)](https://hackerone.com/reports/242119) to The Internet - 1 upvotes, $0
+63. [The “Malstaller” Attack, global hijacking of any installation process to achieve RCE with elevated privileges, Windows OS (vendor agnostic)](https://hackerone.com/reports/165969) to The Internet - 1 upvotes, $0
+64. [CVE-2016-4796 OpenJPEG color_cmyk_to_rgb Out-of-Bounds Read Vulnerability](https://hackerone.com/reports/167955) to The Internet - 1 upvotes, $0
+65. [CVE-2016-3182 OpenJPEG color_esycc_to_rgb Out-of-Bounds Read Vulnerability](https://hackerone.com/reports/167953) to The Internet - 1 upvotes, $0
+66. [CVE-2016-3183 OpenJPEG sycc422_to_rgb Out-of-Bounds Read Vulnerability](https://hackerone.com/reports/167947) to The Internet - 1 upvotes, $0
+67. [LZ4 Core](https://hackerone.com/reports/17688) to The Internet - 0 upvotes, $6000
+68. [Multiple issues in looking-glass software (aka from web to BGP injections)](https://hackerone.com/reports/16330) to The Internet - 0 upvotes, $5000
+69. [Bad Write in TTF font parsing (win32k.sys)](https://hackerone.com/reports/48100) to The Internet - 0 upvotes, $5000
+70. [rsync hash collisions may allow an attacker to corrupt or modify files](https://hackerone.com/reports/20873) to The Internet - 0 upvotes, $3000
+71. [libcurl: URL request injection](https://hackerone.com/reports/73242) to The Internet - 0 upvotes, $3000
+72. [libcurl duphandle read out of bounds](https://hackerone.com/reports/104014) to The Internet - 0 upvotes, $1000
 73. [CVE-2016-1924 OpenJPEG opj_tgt_reset Out-of-Bounds Read Vulnerability](https://hackerone.com/reports/167957) to The Internet - 0 upvotes, $0
 74. [CVE-2016-5157 OpenJPEG opj_dwt_interleave_v Out-of-Bounds Write Vulnerability](https://hackerone.com/reports/167510) to The Internet - 0 upvotes, $0
 

@@ -2,14 +2,14 @@
 
 Top reports from Open-Xchange program at HackerOne:
 
-1. [Arbitrary local system file read on open-xchange server](https://hackerone.com/reports/303744) to Open-Xchange - 114 upvotes, $2000
+1. [Arbitrary local system file read on open-xchange server](https://hackerone.com/reports/303744) to Open-Xchange - 120 upvotes, $2000
 2. [Blind XXE via Powerpoint files](https://hackerone.com/reports/334488) to Open-Xchange - 73 upvotes, $2000
 3. [SSRF in VCARD photo upload functionality](https://hackerone.com/reports/296045) to Open-Xchange - 49 upvotes, $850
 4. [OX (Guard): Stored Cross-Site Scripting via Incoming Email](https://hackerone.com/reports/156258) to Open-Xchange - 48 upvotes, $1000
 5. [Memory corruption in imap-parser.c](https://hackerone.com/reports/537550) to Open-Xchange - 46 upvotes, $5000
 6. [CSRF combined with IDOR within Document Converter exposes files](https://hackerone.com/reports/398316) to Open-Xchange - 44 upvotes, $500
 7. [SSRF - Blacklist bypass for mail account addition](https://hackerone.com/reports/303378) to Open-Xchange - 43 upvotes, $500
-8. [[XSS] Style/Event Filter Bypass v3.0](https://hackerone.com/reports/314204) to Open-Xchange - 38 upvotes, $500
+8. [[XSS] Style/Event Filter Bypass v3.0](https://hackerone.com/reports/314204) to Open-Xchange - 39 upvotes, $500
 9. [SSRF - RSS feed, blacklist bypass (301 re-direct)](https://hackerone.com/reports/299135) to Open-Xchange - 33 upvotes, $850
 10. [Stored XSS](https://hackerone.com/reports/299806) to Open-Xchange - 32 upvotes, $500
 11. [SSRF - RSS feed, blacklist bypass (IP Formatting)](https://hackerone.com/reports/299130) to Open-Xchange - 31 upvotes, $850
@@ -18,12 +18,12 @@ Top reports from Open-Xchange program at HackerOne:
 14. [Set Cookie Via SVG](https://hackerone.com/reports/195045) to Open-Xchange - 28 upvotes, $250
 15. [Two heap use-after-free errors in IMAP operations](https://hackerone.com/reports/546644) to Open-Xchange - 25 upvotes, $1200
 16. [Username restriction bypass with SSL client authentication](https://hackerone.com/reports/480928) to Open-Xchange - 25 upvotes, $1000
-17. [IDOR - Downloading all attachements if having access to a shared link](https://hackerone.com/reports/194790) to Open-Xchange - 20 upvotes, $888
+17. [IDOR - Downloading all attachements if having access to a shared link](https://hackerone.com/reports/194790) to Open-Xchange - 21 upvotes, $888
 18. [SSRF in /appsuite/api/autoconfig](https://hackerone.com/reports/293847) to Open-Xchange - 20 upvotes, $850
 19. [OX (Guard): Stored Cross-Site Scripting via Email Attachment](https://hackerone.com/reports/165275) to Open-Xchange - 17 upvotes, $300
 20. [Dovecot authentication is vulnerable to timing attacks.](https://hackerone.com/reports/219607) to Open-Xchange - 16 upvotes, $600
-21. [IDOR - Deleting other user's signature via /appsuite/api/snippet?action=update (although an error is thrown)](https://hackerone.com/reports/199321) to Open-Xchange - 15 upvotes, $300
-22. [IDOR - Accessing other user's attachements via PUT /appsuite/api/files?action=saveAs](https://hackerone.com/reports/204984) to Open-Xchange - 14 upvotes, $888
+21. [IDOR - Accessing other user's attachements via PUT /appsuite/api/files?action=saveAs](https://hackerone.com/reports/204984) to Open-Xchange - 15 upvotes, $888
+22. [IDOR - Deleting other user's signature via /appsuite/api/snippet?action=update (although an error is thrown)](https://hackerone.com/reports/199321) to Open-Xchange - 15 upvotes, $300
 23. [Reflected Cross-Site Scripting due to vulnerable Flash component (Flashmediaelement.swf)](https://hackerone.com/reports/180253) to Open-Xchange - 14 upvotes, $500
 24. [Another Stored XSS in mail app using Drive app](https://hackerone.com/reports/538632) to Open-Xchange - 14 upvotes, $500
 25. [store xss in calendar via upload filename](https://hackerone.com/reports/385407) to Open-Xchange - 12 upvotes, $250
@@ -35,12 +35,12 @@ Top reports from Open-Xchange program at HackerOne:
 31. [Stored XSS in mail app](https://hackerone.com/reports/538323) to Open-Xchange - 10 upvotes, $500
 32. [IDOR - setAttribute action of user object in API](https://hackerone.com/reports/285432) to Open-Xchange - 10 upvotes, $400
 33. [IDOR allow to extract all registered email](https://hackerone.com/reports/302485) to Open-Xchange - 10 upvotes, $300
-34. [Stored XSS in Template Documents](https://hackerone.com/reports/179559) to Open-Xchange - 9 upvotes, $300
-35. [IDOR to view other user folder name](https://hackerone.com/reports/333767) to Open-Xchange - 9 upvotes, $250
-36. [[SSRF] PDF documentconverterws](https://hackerone.com/reports/361793) to Open-Xchange - 8 upvotes, $850
-37. [[XSS/CSRF] filter content-type bypass in Files](https://hackerone.com/reports/304098) to Open-Xchange - 8 upvotes, $750
-38. [OX Guard: DOM Based Cross-Site Scripting](https://hackerone.com/reports/158853) to Open-Xchange - 8 upvotes, $500
-39. [No session expiry after log-out and session id exposed in URL](https://hackerone.com/reports/434715) to Open-Xchange - 8 upvotes, $300
+34. [[SSRF] PDF documentconverterws](https://hackerone.com/reports/361793) to Open-Xchange - 9 upvotes, $850
+35. [Stored XSS in Template Documents](https://hackerone.com/reports/179559) to Open-Xchange - 9 upvotes, $300
+36. [No session expiry after log-out and session id exposed in URL](https://hackerone.com/reports/434715) to Open-Xchange - 9 upvotes, $300
+37. [IDOR to view other user folder name](https://hackerone.com/reports/333767) to Open-Xchange - 9 upvotes, $250
+38. [[XSS/CSRF] filter content-type bypass in Files](https://hackerone.com/reports/304098) to Open-Xchange - 8 upvotes, $750
+39. [OX Guard: DOM Based Cross-Site Scripting](https://hackerone.com/reports/158853) to Open-Xchange - 8 upvotes, $500
 40. [RTLO character in file names](https://hackerone.com/reports/210354) to Open-Xchange - 8 upvotes, $250
 41. [Incomplete HTML sanitization + Session id leaking + private information disclosure](https://hackerone.com/reports/200487) to Open-Xchange - 8 upvotes, $200
 42. [Selecting encryption for email with drive attachment overrides the drive email password](https://hackerone.com/reports/180037) to Open-Xchange - 8 upvotes, $100

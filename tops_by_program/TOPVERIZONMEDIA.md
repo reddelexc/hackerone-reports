@@ -2,9 +2,9 @@
 
 Top reports from Verizon Media program at HackerOne:
 
-1. [Local File Include on marketing-dam.yahoo.com](https://hackerone.com/reports/7779) to Verizon Media - 14 upvotes, $2500
-2. [Header injection on rmaitrack.ads.vip.bf1.yahoo.com](https://hackerone.com/reports/6322) to Verizon Media - 12 upvotes, $1000
-3. [Cross-site scripting on the main page of flickr by tagging a user.](https://hackerone.com/reports/916) to Verizon Media - 11 upvotes, $2173
+1. [Local File Include on marketing-dam.yahoo.com](https://hackerone.com/reports/7779) to Verizon Media - 15 upvotes, $2500
+2. [Cross-site scripting on the main page of flickr by tagging a user.](https://hackerone.com/reports/916) to Verizon Media - 12 upvotes, $2173
+3. [Header injection on rmaitrack.ads.vip.bf1.yahoo.com](https://hackerone.com/reports/6322) to Verizon Media - 12 upvotes, $1000
 4. [Store XSS Flicker main page](https://hackerone.com/reports/940) to Verizon Media - 11 upvotes, $1960
 5. [XSS Yahoo Messenger Via Calendar.Yahoo.Com](https://hackerone.com/reports/914) to Verizon Media - 10 upvotes, $677
 6. [Loadbalancer + URI XSS #3](https://hackerone.com/reports/9703) to Verizon Media - 9 upvotes, $0
@@ -19,12 +19,12 @@ Top reports from Verizon Media program at HackerOne:
 15. [Security.allowDomain("*") in SWFs on img.autos.yahoo.com allows data theft from Yahoo Mail (and others)](https://hackerone.com/reports/1171) to Verizon Media - 3 upvotes, $2500
 16. [Local file inclusion](https://hackerone.com/reports/1675) to Verizon Media - 3 upvotes, $1390
 17. [SQL Injection ON HK.Promotion](https://hackerone.com/reports/3039) to Verizon Media - 3 upvotes, $1000
-18. [ads.yahoo.com Unvalidate open url redirection](https://hackerone.com/reports/7731) to Verizon Media - 3 upvotes, $0
-19. [XSS in my yahoo](https://hackerone.com/reports/1203) to Verizon Media - 2 upvotes, $800
-20. [Flickr: Invitations disclosure (resend feature)](https://hackerone.com/reports/1533) to Verizon Media - 2 upvotes, $750
-21. [https://caldav.calendar.yahoo.com/ - XSS (STORED)](https://hackerone.com/reports/8281) to Verizon Media - 2 upvotes, $500
-22. [invite1.us2.msg.vip.bf1.yahoo.com/ - CSRF/email disclosure](https://hackerone.com/reports/7608) to Verizon Media - 2 upvotes, $400
-23. [reflected XSS, http://extprodweb11.cc.gq1.yahoo.com/, 4/8/14, #SpringClean](https://hackerone.com/reports/6195) to Verizon Media - 2 upvotes, $300
+18. [reflected XSS, http://extprodweb11.cc.gq1.yahoo.com/, 4/8/14, #SpringClean](https://hackerone.com/reports/6195) to Verizon Media - 3 upvotes, $300
+19. [ads.yahoo.com Unvalidate open url redirection](https://hackerone.com/reports/7731) to Verizon Media - 3 upvotes, $0
+20. [XSS in my yahoo](https://hackerone.com/reports/1203) to Verizon Media - 2 upvotes, $800
+21. [Flickr: Invitations disclosure (resend feature)](https://hackerone.com/reports/1533) to Verizon Media - 2 upvotes, $750
+22. [https://caldav.calendar.yahoo.com/ - XSS (STORED)](https://hackerone.com/reports/8281) to Verizon Media - 2 upvotes, $500
+23. [invite1.us2.msg.vip.bf1.yahoo.com/ - CSRF/email disclosure](https://hackerone.com/reports/7608) to Verizon Media - 2 upvotes, $400
 24. [Java Applet Execution On Y! Messenger](https://hackerone.com/reports/933) to Verizon Media - 2 upvotes, $0
 25. [Information Disclosure](https://hackerone.com/reports/1091) to Verizon Media - 2 upvotes, $0
 26. [http://us.rd.yahoo.com/](https://hackerone.com/reports/12035) to Verizon Media - 2 upvotes, $0

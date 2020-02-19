@@ -116,9 +116,9 @@ Top reports from VK.com program at HackerOne:
 112. [Логирование ответов запросов VK API в приложении Клевер](https://hackerone.com/reports/475177) to VK.com - 3 upvotes, $300
 113. [Отвязываем Twitter от любого профиля вк ! + несколько багов по дизайну](https://hackerone.com/reports/71337) to VK.com - 3 upvotes, $250
 114. [vk.com/login.php](https://hackerone.com/reports/116764) to VK.com - 3 upvotes, $200
-115. [Able to intercept app Traffic after choosing up the Secured Connection using SSL (HTTPS)](https://hackerone.com/reports/64731) to VK.com - 3 upvotes, $100
-116. [Уязвимость в Указание мест на фото + фича + хакинг](https://hackerone.com/reports/66235) to VK.com - 2 upvotes, $200
-117. [Подмена SSL-сертификата для любой группы в секции Управление группой-&gt;Работа с API неавторизированным пользователем.](https://hackerone.com/reports/215326) to VK.com - 2 upvotes, $200
+115. [Подмена SSL-сертификата для любой группы в секции Управление группой-&gt;Работа с API неавторизированным пользователем.](https://hackerone.com/reports/215326) to VK.com - 3 upvotes, $200
+116. [Able to intercept app Traffic after choosing up the Secured Connection using SSL (HTTPS)](https://hackerone.com/reports/64731) to VK.com - 3 upvotes, $100
+117. [Уязвимость в Указание мест на фото + фича + хакинг](https://hackerone.com/reports/66235) to VK.com - 2 upvotes, $200
 118. [Способ узнать имя человека и ВУЗ удаленной страницы](https://hackerone.com/reports/93020) to VK.com - 2 upvotes, $100
 119. [Паблики: Модератор паблика может удалять добавленные редакторами материалы с таймером на публикацию.](https://hackerone.com/reports/148467) to VK.com - 2 upvotes, $100
 120. [Дайте swag](https://hackerone.com/reports/665688) to VK.com - 2 upvotes, $0

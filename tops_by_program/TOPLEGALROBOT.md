@@ -21,12 +21,12 @@ Top reports from Legal Robot program at HackerOne:
 17. [Logic issue in email change process](https://hackerone.com/reports/265931) to Legal Robot - 10 upvotes, $70
 18. [Failed OutLink on Terms of Service](https://hackerone.com/reports/268629) to Legal Robot - 10 upvotes, $0
 19. [Venturebeat.com URL should be HTTPS](https://hackerone.com/reports/268612) to Legal Robot - 10 upvotes, $0
-20. [Missing restriction on string size in profile fields](https://hackerone.com/reports/180548) to Legal Robot - 9 upvotes, $40
-21. [Password reset access control](https://hackerone.com/reports/180895) to Legal Robot - 9 upvotes, $40
-22. [Pages don't render in old browsers like IE11](https://hackerone.com/reports/251468) to Legal Robot - 9 upvotes, $20
-23. [Meta characters are not filtered into full name on profile page](https://hackerone.com/reports/251469) to Legal Robot - 9 upvotes, $20
-24. [I cant login to my account](https://hackerone.com/reports/263743) to Legal Robot - 9 upvotes, $0
-25. [Update any profile](https://hackerone.com/reports/260604) to Legal Robot - 8 upvotes, $100
+20. [Update any profile](https://hackerone.com/reports/260604) to Legal Robot - 9 upvotes, $100
+21. [Missing restriction on string size in profile fields](https://hackerone.com/reports/180548) to Legal Robot - 9 upvotes, $40
+22. [Password reset access control](https://hackerone.com/reports/180895) to Legal Robot - 9 upvotes, $40
+23. [Pages don't render in old browsers like IE11](https://hackerone.com/reports/251468) to Legal Robot - 9 upvotes, $20
+24. [Meta characters are not filtered into full name on profile page](https://hackerone.com/reports/251469) to Legal Robot - 9 upvotes, $20
+25. [I cant login to my account](https://hackerone.com/reports/263743) to Legal Robot - 9 upvotes, $0
 26. [Missing link to TOTP manual enroll option](https://hackerone.com/reports/249339) to Legal Robot - 8 upvotes, $90
 27. [User enumeration](https://hackerone.com/reports/250457) to Legal Robot - 8 upvotes, $20
 28. [[New Feature] Password history check](https://hackerone.com/reports/250741) to Legal Robot - 8 upvotes, $20
@@ -123,17 +123,17 @@ Top reports from Legal Robot program at HackerOne:
 119. [Bypass email verification when register new account](https://hackerone.com/reports/265749) to Legal Robot - 2 upvotes, $0
 120. [Password Complexity](https://hackerone.com/reports/263728) to Legal Robot - 2 upvotes, $0
 121. [Allowance of Meta/Null characters](https://hackerone.com/reports/274013) to Legal Robot - 2 upvotes, $0
-122. [Null Byte Injection in all fields of Profile](https://hackerone.com/reports/255125) to Legal Robot - 2 upvotes, $0
-123. [Profile fields validation mismatch](https://hackerone.com/reports/260316) to Legal Robot - 1 upvotes, $20
-124. [No DMARC Record in](https://hackerone.com/reports/133360) to Legal Robot - 1 upvotes, $0
-125. [Email spoofing possible via Legal Robot domain](https://hackerone.com/reports/163475) to Legal Robot - 1 upvotes, $0
-126. [Tampering the mail id on chatbox](https://hackerone.com/reports/260239) to Legal Robot - 1 upvotes, $0
-127. [Weak Cryptography for Passwords](https://hackerone.com/reports/260689) to Legal Robot - 1 upvotes, $0
-128. [The websocket traffic is not secure enough](https://hackerone.com/reports/178990) to Legal Robot - 1 upvotes, $0
-129. [Information Discloser](https://hackerone.com/reports/260645) to Legal Robot - 1 upvotes, $0
-130. [cross site web socket hijacking](https://hackerone.com/reports/274324) to Legal Robot - 1 upvotes, $0
-131. [Two accounts can be made with same password](https://hackerone.com/reports/277213) to Legal Robot - 1 upvotes, $0
-132. [Legal Robot](https://hackerone.com/reports/276427) to Legal Robot - 1 upvotes, $0
+122. [Legal Robot](https://hackerone.com/reports/276427) to Legal Robot - 2 upvotes, $0
+123. [Null Byte Injection in all fields of Profile](https://hackerone.com/reports/255125) to Legal Robot - 2 upvotes, $0
+124. [Profile fields validation mismatch](https://hackerone.com/reports/260316) to Legal Robot - 1 upvotes, $20
+125. [No DMARC Record in](https://hackerone.com/reports/133360) to Legal Robot - 1 upvotes, $0
+126. [Email spoofing possible via Legal Robot domain](https://hackerone.com/reports/163475) to Legal Robot - 1 upvotes, $0
+127. [Tampering the mail id on chatbox](https://hackerone.com/reports/260239) to Legal Robot - 1 upvotes, $0
+128. [Weak Cryptography for Passwords](https://hackerone.com/reports/260689) to Legal Robot - 1 upvotes, $0
+129. [The websocket traffic is not secure enough](https://hackerone.com/reports/178990) to Legal Robot - 1 upvotes, $0
+130. [Information Discloser](https://hackerone.com/reports/260645) to Legal Robot - 1 upvotes, $0
+131. [cross site web socket hijacking](https://hackerone.com/reports/274324) to Legal Robot - 1 upvotes, $0
+132. [Two accounts can be made with same password](https://hackerone.com/reports/277213) to Legal Robot - 1 upvotes, $0
 133. [Add arbitrary value in reset password cookie](https://hackerone.com/reports/266030) to Legal Robot - 1 upvotes, $0
 134. [SSL BREACH attack (CVE-2013-3587)](https://hackerone.com/reports/254895) to Legal Robot - 0 upvotes, $0
 135. [LUCKY13 (CVE-2013-0169) effects legalrobot.com](https://hackerone.com/reports/255041) to Legal Robot - 0 upvotes, $0

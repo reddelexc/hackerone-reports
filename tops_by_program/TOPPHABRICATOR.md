@@ -18,17 +18,17 @@ Top reports from Phabricator program at HackerOne:
 14. [IRC-Bot exposes information](https://hackerone.com/reports/222870) to Phabricator - 7 upvotes, $300
 15. [TOTP Key is shorter than RFC 4226 recommended minimum](https://hackerone.com/reports/435648) to Phabricator - 6 upvotes, $300
 16. [Improperly implemented password recovery link functionality](https://hackerone.com/reports/809) to Phabricator - 5 upvotes, $300
-17. [Broken Authentication and Session Management](https://hackerone.com/reports/17474) to Phabricator - 5 upvotes, $300
-18. [OAuth Stealing Attack (New)](https://hackerone.com/reports/3930) to Phabricator - 4 upvotes, $400
-19. [Persistent XSS: Editor link](https://hackerone.com/reports/4114) to Phabricator - 4 upvotes, $300
+17. [Persistent XSS: Editor link](https://hackerone.com/reports/4114) to Phabricator - 5 upvotes, $300
+18. [Broken Authentication and Session Management](https://hackerone.com/reports/17474) to Phabricator - 5 upvotes, $300
+19. [OAuth Stealing Attack (New)](https://hackerone.com/reports/3930) to Phabricator - 4 upvotes, $400
 20. [The special code in editor has no Authority control and can lead to Information Disclosure](https://hackerone.com/reports/221950) to Phabricator - 4 upvotes, $0
 21. [Bypass auth.email-domains](https://hackerone.com/reports/2224) to Phabricator - 3 upvotes, $1000
-22. [OAuth access_token stealing in Phabricator](https://hackerone.com/reports/3596) to Phabricator - 3 upvotes, $450
-23. [Enumerating emails through "Forgot Password" form](https://hackerone.com/reports/203614) to Phabricator - 3 upvotes, $0
-24. [Restricted file access when it exists in old versions of task or wiki document](https://hackerone.com/reports/203658) to Phabricator - 3 upvotes, $0
-25. [Autoclose can close any task regardless of policies/spaces](https://hackerone.com/reports/220909) to Phabricator - 3 upvotes, $0
-26. [Request vulnerable to CSRF](https://hackerone.com/reports/513137) to Phabricator - 3 upvotes, $0
-27. [Bypass auth.email-domains (2)](https://hackerone.com/reports/2233) to Phabricator - 2 upvotes, $500
+22. [Bypass auth.email-domains (2)](https://hackerone.com/reports/2233) to Phabricator - 3 upvotes, $500
+23. [OAuth access_token stealing in Phabricator](https://hackerone.com/reports/3596) to Phabricator - 3 upvotes, $450
+24. [Enumerating emails through "Forgot Password" form](https://hackerone.com/reports/203614) to Phabricator - 3 upvotes, $0
+25. [Restricted file access when it exists in old versions of task or wiki document](https://hackerone.com/reports/203658) to Phabricator - 3 upvotes, $0
+26. [Autoclose can close any task regardless of policies/spaces](https://hackerone.com/reports/220909) to Phabricator - 3 upvotes, $0
+27. [Request vulnerable to CSRF](https://hackerone.com/reports/513137) to Phabricator - 3 upvotes, $0
 28. [Login CSRF using Twitter OAuth](https://hackerone.com/reports/2228) to Phabricator - 2 upvotes, $300
 29. [UnAuthorized Editorial Publishing to Blogs](https://hackerone.com/reports/3356) to Phabricator - 2 upvotes, $300
 30. [Control character allowed in username](https://hackerone.com/reports/3921) to Phabricator - 2 upvotes, $300

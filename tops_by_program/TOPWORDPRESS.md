@@ -5,9 +5,9 @@ Top reports from WordPress program at HackerOne:
 1. [Stored XSS Vulnerability](https://hackerone.com/reports/643908) to WordPress - 345 upvotes, $500
 2. [Stored XSS in Private Message component (BuddyPress)](https://hackerone.com/reports/487081) to WordPress - 331 upvotes, $500
 3. [Stored XSS on byddypress Plug-in via groups name](https://hackerone.com/reports/592316) to WordPress - 125 upvotes, $450
-4. [Reflected XSS on https://make.wordpress.org via 'channel' parameter](https://hackerone.com/reports/659419) to WordPress - 95 upvotes, $387
-5. [CSRF to HTML Injection in Comments](https://hackerone.com/reports/428019) to WordPress - 90 upvotes, $950
-6. [Wordpress unzip_file path traversal](https://hackerone.com/reports/205481) to WordPress - 81 upvotes, $800
+4. [Wordpress unzip_file path traversal](https://hackerone.com/reports/205481) to WordPress - 96 upvotes, $800
+5. [Reflected XSS on https://make.wordpress.org via 'channel' parameter](https://hackerone.com/reports/659419) to WordPress - 95 upvotes, $387
+6. [CSRF to HTML Injection in Comments](https://hackerone.com/reports/428019) to WordPress - 90 upvotes, $950
 7. [Potential unprivileged Stored XSS through wp_targeted_link_rel](https://hackerone.com/reports/509930) to WordPress - 78 upvotes, $650
 8. [Mssing Authorization on Private Message replies (BuddyPress)](https://hackerone.com/reports/490782) to WordPress - 63 upvotes, $375
 9. [plugins.trac.wordpress.org likely vulnerable to Cross Site Tracing (xst), TRACE HTTP method should be disabled](https://hackerone.com/reports/222692) to WordPress - 55 upvotes, $150
@@ -32,9 +32,9 @@ Top reports from WordPress program at HackerOne:
 28. [CSRF to add admin [wordpress]](https://hackerone.com/reports/149589) to WordPress - 15 upvotes, $1337
 29. [Authenticated Cross-site Scripting in Template Name](https://hackerone.com/reports/220903) to WordPress - 15 upvotes, $350
 30. [Reflected XSS: Taxonomy Converter via tax parameter](https://hackerone.com/reports/495515) to WordPress - 15 upvotes, $275
-31. [Stored self-XSS in mercantile.wordpress.org checkout](https://hackerone.com/reports/230232) to WordPress - 14 upvotes, $275
-32. [Buddypress 2.9.1 - Exceeding the maximum upload size](https://hackerone.com/reports/263109) to WordPress - 14 upvotes, $275
-33. [Clickjacking In jobs.wordpress.net](https://hackerone.com/reports/223024) to WordPress - 14 upvotes, $0
+31. [Clickjacking In jobs.wordpress.net](https://hackerone.com/reports/223024) to WordPress - 15 upvotes, $0
+32. [Stored self-XSS in mercantile.wordpress.org checkout](https://hackerone.com/reports/230232) to WordPress - 14 upvotes, $275
+33. [Buddypress 2.9.1 - Exceeding the maximum upload size](https://hackerone.com/reports/263109) to WordPress - 14 upvotes, $275
 34. [Open Redirect on the nl.wordpress.net](https://hackerone.com/reports/309058) to WordPress - 13 upvotes, $50
 35. [Clickjacking wordcamp.org](https://hackerone.com/reports/230581) to WordPress - 12 upvotes, $0
 36. [[mercantile.wordpress.org] Reflected XSS](https://hackerone.com/reports/240256) to WordPress - 11 upvotes, $225

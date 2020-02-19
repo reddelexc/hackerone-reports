@@ -7,8 +7,8 @@ Top reports from concrete5 program at HackerOne:
 3. [SSRF thru File Replace](https://hackerone.com/reports/243865) to concrete5 - 17 upvotes, $0
 4. [Reflected XSS vulnerability in Database name field on installation screen](https://hackerone.com/reports/289330) to concrete5 - 17 upvotes, $0
 5. [Local File Inclusion path bypass](https://hackerone.com/reports/147570) to concrete5 - 13 upvotes, $0
-6. [Stored XSS in Headline TextControl element in Express forms [ concrete5 8.1.0 ]](https://hackerone.com/reports/230278) to concrete5 - 12 upvotes, $0
-7. ['cnvID' parameter vulnerable to Insecure Direct Object References](https://hackerone.com/reports/265284) to concrete5 - 12 upvotes, $0
+6. ['cnvID' parameter vulnerable to Insecure Direct Object References](https://hackerone.com/reports/265284) to concrete5 - 13 upvotes, $0
+7. [Stored XSS in Headline TextControl element in Express forms [ concrete5 8.1.0 ]](https://hackerone.com/reports/230278) to concrete5 - 12 upvotes, $0
 8. [Unauthenticated reflected XSS in preview_as_user function](https://hackerone.com/reports/643442) to concrete5 - 11 upvotes, $0
 9. [Stored XSS in Pages SEO dialog Name field (concrete5 8.1.0)](https://hackerone.com/reports/230029) to concrete5 - 9 upvotes, $0
 10. [Stored XSS vulnerability in RSS Feeds Description field](https://hackerone.com/reports/248133) to concrete5 - 9 upvotes, $0
