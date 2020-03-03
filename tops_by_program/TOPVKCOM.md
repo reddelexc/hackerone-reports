@@ -41,11 +41,11 @@ Top reports from VK.com program at HackerOne:
 37. [CSRF Проверить является ли пользователь админом группы.](https://hackerone.com/reports/250386) to VK.com - 15 upvotes, $100
 38. [Уязвимость дает возможность смотреть кто лайкал приватным фото или видео](https://hackerone.com/reports/92113) to VK.com - 15 upvotes, $100
 39. [Второй способ обхода 2FA](https://hackerone.com/reports/167121) to VK.com - 14 upvotes, $1050
-40. [Missing Server Side Rate Limiting can Lead to VK Account Take over](https://hackerone.com/reports/202740) to VK.com - 14 upvotes, $400
-41. [Open Redirection Vulnerability in m.vk.com](https://hackerone.com/reports/347645) to VK.com - 14 upvotes, $300
-42. [Просмотр Участников ЧАСТНОЙ встречи](https://hackerone.com/reports/261764) to VK.com - 14 upvotes, $100
-43. [Просмотр записей пользователя, который тебя заблокировал](https://hackerone.com/reports/369063) to VK.com - 14 upvotes, $100
-44. [XSS в приглашении в группу](https://hackerone.com/reports/269940) to VK.com - 13 upvotes, $500
+40. [XSS в приглашении в группу](https://hackerone.com/reports/269940) to VK.com - 14 upvotes, $500
+41. [Missing Server Side Rate Limiting can Lead to VK Account Take over](https://hackerone.com/reports/202740) to VK.com - 14 upvotes, $400
+42. [Open Redirection Vulnerability in m.vk.com](https://hackerone.com/reports/347645) to VK.com - 14 upvotes, $300
+43. [Просмотр Участников ЧАСТНОЙ встречи](https://hackerone.com/reports/261764) to VK.com - 14 upvotes, $100
+44. [Просмотр записей пользователя, который тебя заблокировал](https://hackerone.com/reports/369063) to VK.com - 14 upvotes, $100
 45. [Раскрытие информации о частной группе или приложении](https://hackerone.com/reports/216289) to VK.com - 13 upvotes, $100
 46. [новенькое (старенькое upgreid) хакерство: делаем демократию во всем в контакте (XSS - на англиском)](https://hackerone.com/reports/316946) to VK.com - 13 upvotes, $0
 47. [Просмотр лайков и репостов фотографии, которая находятся в приватном альбоме](https://hackerone.com/reports/64754) to VK.com - 12 upvotes, $300

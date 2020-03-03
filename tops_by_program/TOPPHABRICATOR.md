@@ -12,8 +12,8 @@ Top reports from Phabricator program at HackerOne:
 8. [Window.opener fix bypass](https://hackerone.com/reports/317243) to Phabricator - 12 upvotes, $300
 9. [Exposing voting results on the Slowvote application without actually voting](https://hackerone.com/reports/434116) to Phabricator - 11 upvotes, $300
 10. [Differential "Show Raw File" feature exposes generated files to unauthorised users](https://hackerone.com/reports/213942) to Phabricator - 10 upvotes, $600
-11. [Administrator can create user without entering high security mode](https://hackerone.com/reports/351361) to Phabricator - 10 upvotes, $300
-12. [Log in a user to another account](https://hackerone.com/reports/774) to Phabricator - 9 upvotes, $300
+11. [Log in a user to another account](https://hackerone.com/reports/774) to Phabricator - 10 upvotes, $300
+12. [Administrator can create user without entering high security mode](https://hackerone.com/reports/351361) to Phabricator - 10 upvotes, $300
 13. [Fetching binaries (for software installation) over HTTP without verification (RCE as ROOT by MITM)](https://hackerone.com/reports/186352) to Phabricator - 7 upvotes, $300
 14. [IRC-Bot exposes information](https://hackerone.com/reports/222870) to Phabricator - 7 upvotes, $300
 15. [TOTP Key is shorter than RFC 4226 recommended minimum](https://hackerone.com/reports/435648) to Phabricator - 6 upvotes, $300

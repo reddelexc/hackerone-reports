@@ -54,18 +54,18 @@ Top reports from The Internet program at HackerOne:
 50. [Multiple issues in Libxml2 (2.9.2 - 2.9.5)](https://hackerone.com/reports/293126) to The Internet - 2 upvotes, $0
 51. [GarlicRust - heartbleed style vulnerability in major I2P C++ router implementations](https://hackerone.com/reports/295740) to The Internet - 2 upvotes, $0
 52. [CVE-2017-8798 - miniupnp getHTTPResponse chunked encoding integer signedness error](https://hackerone.com/reports/227344) to The Internet - 2 upvotes, $0
-53. [CVE-2016-7163 OpenJPEG opj_pi_create_decode Integer Overflow Vulnerability](https://hackerone.com/reports/167512) to The Internet - 2 upvotes, $0
-54. [putty pscp client-side post-auth stack buffer overwrite when processing remote file size](https://hackerone.com/reports/120903) to The Internet - 2 upvotes, $0
-55. [Heap overflow in H. Spencer’s regex library on 32 bit systems](https://hackerone.com/reports/47779) to The Internet - 1 upvotes, $3000
-56. [Uncontrolled Resource Consumption with XMPP-Layer Compression](https://hackerone.com/reports/5928) to The Internet - 1 upvotes, $500
-57. [external entity expansion in Apache POI](https://hackerone.com/reports/25537) to The Internet - 1 upvotes, $0
-58. [CVE-2017-13090 wget heap smash](https://hackerone.com/reports/287667) to The Internet - 1 upvotes, $0
-59. [CVE-2017-13089 wget stack smash](https://hackerone.com/reports/287666) to The Internet - 1 upvotes, $0
-60. [Ericsson Erlang OTP Core Allocation Subsystem Integer Overflow (All Versions)](https://hackerone.com/reports/28640) to The Internet - 1 upvotes, $0
-61. [Widespread failure of certificate validation in Android apps](https://hackerone.com/reports/2293) to The Internet - 1 upvotes, $0
-62. [Roundcube virtualmin privilege escalation (CVE-2017-8114)](https://hackerone.com/reports/242119) to The Internet - 1 upvotes, $0
-63. [The “Malstaller” Attack, global hijacking of any installation process to achieve RCE with elevated privileges, Windows OS (vendor agnostic)](https://hackerone.com/reports/165969) to The Internet - 1 upvotes, $0
-64. [CVE-2016-4796 OpenJPEG color_cmyk_to_rgb Out-of-Bounds Read Vulnerability](https://hackerone.com/reports/167955) to The Internet - 1 upvotes, $0
+53. [CVE-2016-4796 OpenJPEG color_cmyk_to_rgb Out-of-Bounds Read Vulnerability](https://hackerone.com/reports/167955) to The Internet - 2 upvotes, $0
+54. [CVE-2016-7163 OpenJPEG opj_pi_create_decode Integer Overflow Vulnerability](https://hackerone.com/reports/167512) to The Internet - 2 upvotes, $0
+55. [putty pscp client-side post-auth stack buffer overwrite when processing remote file size](https://hackerone.com/reports/120903) to The Internet - 2 upvotes, $0
+56. [Heap overflow in H. Spencer’s regex library on 32 bit systems](https://hackerone.com/reports/47779) to The Internet - 1 upvotes, $3000
+57. [Uncontrolled Resource Consumption with XMPP-Layer Compression](https://hackerone.com/reports/5928) to The Internet - 1 upvotes, $500
+58. [external entity expansion in Apache POI](https://hackerone.com/reports/25537) to The Internet - 1 upvotes, $0
+59. [CVE-2017-13090 wget heap smash](https://hackerone.com/reports/287667) to The Internet - 1 upvotes, $0
+60. [CVE-2017-13089 wget stack smash](https://hackerone.com/reports/287666) to The Internet - 1 upvotes, $0
+61. [Ericsson Erlang OTP Core Allocation Subsystem Integer Overflow (All Versions)](https://hackerone.com/reports/28640) to The Internet - 1 upvotes, $0
+62. [Widespread failure of certificate validation in Android apps](https://hackerone.com/reports/2293) to The Internet - 1 upvotes, $0
+63. [Roundcube virtualmin privilege escalation (CVE-2017-8114)](https://hackerone.com/reports/242119) to The Internet - 1 upvotes, $0
+64. [The “Malstaller” Attack, global hijacking of any installation process to achieve RCE with elevated privileges, Windows OS (vendor agnostic)](https://hackerone.com/reports/165969) to The Internet - 1 upvotes, $0
 65. [CVE-2016-3182 OpenJPEG color_esycc_to_rgb Out-of-Bounds Read Vulnerability](https://hackerone.com/reports/167953) to The Internet - 1 upvotes, $0
 66. [CVE-2016-3183 OpenJPEG sycc422_to_rgb Out-of-Bounds Read Vulnerability](https://hackerone.com/reports/167947) to The Internet - 1 upvotes, $0
 67. [LZ4 Core](https://hackerone.com/reports/17688) to The Internet - 0 upvotes, $6000

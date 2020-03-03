@@ -27,17 +27,17 @@ Top reports from Gratipay program at HackerOne:
 23. [Sub Domain Take over](https://hackerone.com/reports/111078) to Gratipay - 5 upvotes, $15
 24. [Email Forgery through Mandrillapp SPF](https://hackerone.com/reports/117097) to Gratipay - 5 upvotes, $10
 25. [Prevent content spoofing on /~username/emails/verify.html](https://hackerone.com/reports/117187) to Gratipay - 5 upvotes, $10
-26. [Cross Site Scripting In Profile Statement](https://hackerone.com/reports/162120) to Gratipay - 5 upvotes, $0
-27. [Gratipay uses the random module's cryptographically insecure PRNG.](https://hackerone.com/reports/190373) to Gratipay - 5 upvotes, $0
-28. [Username can be used to trick the victim on the name of www.gratipay.com](https://hackerone.com/reports/163904) to Gratipay - 5 upvotes, $0
-29. [Content-Length restriction bypass to heap overflow in gip.rocks.](https://hackerone.com/reports/214449) to Gratipay - 5 upvotes, $0
-30. [HTTP trace method is enabled on gip.rocks](https://hackerone.com/reports/203384) to Gratipay - 5 upvotes, $0
-31. [Harden resend throttling](https://hackerone.com/reports/108645) to Gratipay - 5 upvotes, $0
-32. [clickjacking on https://gratipay.com/on/npm/[text]](https://hackerone.com/reports/267189) to Gratipay - 5 upvotes, $0
-33. [suppress version in Server header on gratipay.com or grtp.co](https://hackerone.com/reports/123742) to Gratipay - 4 upvotes, $1
-34. [Content Spoofing/Text Injection](https://hackerone.com/reports/154921) to Gratipay - 4 upvotes, $1
-35. [Incomplete or No Cache-control and Pragma HTTP Header Set](https://hackerone.com/reports/185833) to Gratipay - 4 upvotes, $1
-36. [Inadequate/dangerous jQuery behavior](https://hackerone.com/reports/211149) to Gratipay - 4 upvotes, $1
+26. [Inadequate/dangerous jQuery behavior](https://hackerone.com/reports/211149) to Gratipay - 5 upvotes, $1
+27. [Cross Site Scripting In Profile Statement](https://hackerone.com/reports/162120) to Gratipay - 5 upvotes, $0
+28. [Gratipay uses the random module's cryptographically insecure PRNG.](https://hackerone.com/reports/190373) to Gratipay - 5 upvotes, $0
+29. [Username can be used to trick the victim on the name of www.gratipay.com](https://hackerone.com/reports/163904) to Gratipay - 5 upvotes, $0
+30. [Content-Length restriction bypass to heap overflow in gip.rocks.](https://hackerone.com/reports/214449) to Gratipay - 5 upvotes, $0
+31. [HTTP trace method is enabled on gip.rocks](https://hackerone.com/reports/203384) to Gratipay - 5 upvotes, $0
+32. [Harden resend throttling](https://hackerone.com/reports/108645) to Gratipay - 5 upvotes, $0
+33. [clickjacking on https://gratipay.com/on/npm/[text]](https://hackerone.com/reports/267189) to Gratipay - 5 upvotes, $0
+34. [suppress version in Server header on gratipay.com or grtp.co](https://hackerone.com/reports/123742) to Gratipay - 4 upvotes, $1
+35. [Content Spoofing/Text Injection](https://hackerone.com/reports/154921) to Gratipay - 4 upvotes, $1
+36. [Incomplete or No Cache-control and Pragma HTTP Header Set](https://hackerone.com/reports/185833) to Gratipay - 4 upvotes, $1
 37. [prevent null bytes in email field](https://hackerone.com/reports/150917) to Gratipay - 4 upvotes, $0
 38. [don't allow directory browsing on grtp.co](https://hackerone.com/reports/151295) to Gratipay - 4 upvotes, $0
 39. [Secure Pages Include Mixed Content](https://hackerone.com/reports/185835) to Gratipay - 4 upvotes, $0
@@ -102,39 +102,39 @@ Top reports from Gratipay program at HackerOne:
 98. [CSP "script-src" includes "unsafe-inline" in https://gratipay.com](https://hackerone.com/reports/231086) to Gratipay - 1 upvotes, $0
 99. [Lack of CSRF token validation at server side](https://hackerone.com/reports/163815) to Gratipay - 1 upvotes, $0
 100. [Host Header poisoning on gratipay.com](https://hackerone.com/reports/158482) to Gratipay - 1 upvotes, $0
-101. [xss](https://hackerone.com/reports/262005) to Gratipay - 1 upvotes, $0
-102. [400 Bad Request [Use a third-party provider to sign in or create an account on Gratipay]](https://hackerone.com/reports/267212) to Gratipay - 1 upvotes, $0
-103. [Missing Certificate Authority Authorization rule](https://hackerone.com/reports/261706) to Gratipay - 1 upvotes, $0
-104. [XSS found In Your Web](https://hackerone.com/reports/164922) to Gratipay - 1 upvotes, $0
-105. [Adding Used Primary Email Address to attacker account and Account takeover](https://hackerone.com/reports/273647) to Gratipay - 1 upvotes, $0
-106. [Bypassing X-frame options](https://hackerone.com/reports/283951) to Gratipay - 1 upvotes, $0
-107. [Mail spaming](https://hackerone.com/reports/87531) to Gratipay - 0 upvotes, $20
-108. [DKIM records not present, Email Hijacking is possible](https://hackerone.com/reports/84287) to Gratipay - 0 upvotes, $10
-109. [Self XSS Protection not used , I can trick users to insert JavaScript](https://hackerone.com/reports/76307) to Gratipay - 0 upvotes, $5
-110. [Authentication errors in server side validaton of E-MAIL](https://hackerone.com/reports/80883) to Gratipay - 0 upvotes, $0
-111. [grtp.co is vulnerable to http-vuln-cve2011-3192](https://hackerone.com/reports/112687) to Gratipay - 0 upvotes, $0
-112. [nginx SPDY heap buffer overflow for https://grtp.co/](https://hackerone.com/reports/116352) to Gratipay - 0 upvotes, $0
-113. [UDP port 5060 (SIP) Open](https://hackerone.com/reports/116774) to Gratipay - 0 upvotes, $0
-114. [proxy port 7000 and shell port 514 not filtered](https://hackerone.com/reports/116618) to Gratipay - 0 upvotes, $0
-115. [server calendar and server status available to public](https://hackerone.com/reports/116621) to Gratipay - 0 upvotes, $0
-116. [X-Content-Type Header Missing For aspen.io](https://hackerone.com/reports/118033) to Gratipay - 0 upvotes, $0
-117. [CSP Policy Bypass and javascript execution Still Not Fixed](https://hackerone.com/reports/241341) to Gratipay - 0 upvotes, $0
-118. [self cross site scripting](https://hackerone.com/reports/245762) to Gratipay - 0 upvotes, $0
-119. [Insecure Transportation Security Protocol Supported (TLS 1.0)](https://hackerone.com/reports/163812) to Gratipay - 0 upvotes, $0
-120. [SSl Weak Ciphers](https://hackerone.com/reports/244070) to Gratipay - 0 upvotes, $0
-121. [x-xss protection header is not set in response header](https://hackerone.com/reports/162336) to Gratipay - 0 upvotes, $0
-122. [Usernames ending in .json are not restricted](https://hackerone.com/reports/161935) to Gratipay - 0 upvotes, $0
-123. [Sub domain take over in gratipay.com](https://hackerone.com/reports/257331) to Gratipay - 0 upvotes, $0
-124. [SPF Protection not used, I can hijack your email server](https://hackerone.com/reports/93157) to Gratipay - 0 upvotes, $0
-125. [Directory Listing on grtp.co](https://hackerone.com/reports/109116) to Gratipay - 0 upvotes, $0
-126. [Submit a non valid syntax email](https://hackerone.com/reports/131053) to Gratipay - 0 upvotes, $0
-127. [Markdown parsing issue enables insertion of malicious tags](https://hackerone.com/reports/116512) to Gratipay - 0 upvotes, $0
-128. [Possible Blind SQL injection | Language choice in presentation](https://hackerone.com/reports/131047) to Gratipay - 0 upvotes, $0
-129. [Login csrf.](https://hackerone.com/reports/117195) to Gratipay - 0 upvotes, $0
-130. [PHP 5.4.45 is Outdated and Full of Preformance Interupting Arbitrary Code Execution Bugs](https://hackerone.com/reports/131452) to Gratipay - 0 upvotes, $0
-131. [prevent %2f spoofed URLs in profile statement](https://hackerone.com/reports/128910) to Gratipay - 0 upvotes, $0
-132. [set Expires header](https://hackerone.com/reports/145207) to Gratipay - 0 upvotes, $0
-133. [After removing app from facebook app session not expiring.](https://hackerone.com/reports/129209) to Gratipay - 0 upvotes, $0
+101. [After removing app from facebook app session not expiring.](https://hackerone.com/reports/129209) to Gratipay - 1 upvotes, $0
+102. [xss](https://hackerone.com/reports/262005) to Gratipay - 1 upvotes, $0
+103. [400 Bad Request [Use a third-party provider to sign in or create an account on Gratipay]](https://hackerone.com/reports/267212) to Gratipay - 1 upvotes, $0
+104. [Missing Certificate Authority Authorization rule](https://hackerone.com/reports/261706) to Gratipay - 1 upvotes, $0
+105. [XSS found In Your Web](https://hackerone.com/reports/164922) to Gratipay - 1 upvotes, $0
+106. [Adding Used Primary Email Address to attacker account and Account takeover](https://hackerone.com/reports/273647) to Gratipay - 1 upvotes, $0
+107. [Bypassing X-frame options](https://hackerone.com/reports/283951) to Gratipay - 1 upvotes, $0
+108. [Mail spaming](https://hackerone.com/reports/87531) to Gratipay - 0 upvotes, $20
+109. [DKIM records not present, Email Hijacking is possible](https://hackerone.com/reports/84287) to Gratipay - 0 upvotes, $10
+110. [Self XSS Protection not used , I can trick users to insert JavaScript](https://hackerone.com/reports/76307) to Gratipay - 0 upvotes, $5
+111. [Authentication errors in server side validaton of E-MAIL](https://hackerone.com/reports/80883) to Gratipay - 0 upvotes, $0
+112. [grtp.co is vulnerable to http-vuln-cve2011-3192](https://hackerone.com/reports/112687) to Gratipay - 0 upvotes, $0
+113. [nginx SPDY heap buffer overflow for https://grtp.co/](https://hackerone.com/reports/116352) to Gratipay - 0 upvotes, $0
+114. [UDP port 5060 (SIP) Open](https://hackerone.com/reports/116774) to Gratipay - 0 upvotes, $0
+115. [proxy port 7000 and shell port 514 not filtered](https://hackerone.com/reports/116618) to Gratipay - 0 upvotes, $0
+116. [server calendar and server status available to public](https://hackerone.com/reports/116621) to Gratipay - 0 upvotes, $0
+117. [X-Content-Type Header Missing For aspen.io](https://hackerone.com/reports/118033) to Gratipay - 0 upvotes, $0
+118. [CSP Policy Bypass and javascript execution Still Not Fixed](https://hackerone.com/reports/241341) to Gratipay - 0 upvotes, $0
+119. [self cross site scripting](https://hackerone.com/reports/245762) to Gratipay - 0 upvotes, $0
+120. [Insecure Transportation Security Protocol Supported (TLS 1.0)](https://hackerone.com/reports/163812) to Gratipay - 0 upvotes, $0
+121. [SSl Weak Ciphers](https://hackerone.com/reports/244070) to Gratipay - 0 upvotes, $0
+122. [x-xss protection header is not set in response header](https://hackerone.com/reports/162336) to Gratipay - 0 upvotes, $0
+123. [Usernames ending in .json are not restricted](https://hackerone.com/reports/161935) to Gratipay - 0 upvotes, $0
+124. [Sub domain take over in gratipay.com](https://hackerone.com/reports/257331) to Gratipay - 0 upvotes, $0
+125. [SPF Protection not used, I can hijack your email server](https://hackerone.com/reports/93157) to Gratipay - 0 upvotes, $0
+126. [Directory Listing on grtp.co](https://hackerone.com/reports/109116) to Gratipay - 0 upvotes, $0
+127. [Submit a non valid syntax email](https://hackerone.com/reports/131053) to Gratipay - 0 upvotes, $0
+128. [Markdown parsing issue enables insertion of malicious tags](https://hackerone.com/reports/116512) to Gratipay - 0 upvotes, $0
+129. [Possible Blind SQL injection | Language choice in presentation](https://hackerone.com/reports/131047) to Gratipay - 0 upvotes, $0
+130. [Login csrf.](https://hackerone.com/reports/117195) to Gratipay - 0 upvotes, $0
+131. [PHP 5.4.45 is Outdated and Full of Preformance Interupting Arbitrary Code Execution Bugs](https://hackerone.com/reports/131452) to Gratipay - 0 upvotes, $0
+132. [prevent %2f spoofed URLs in profile statement](https://hackerone.com/reports/128910) to Gratipay - 0 upvotes, $0
+133. [set Expires header](https://hackerone.com/reports/145207) to Gratipay - 0 upvotes, $0
 134. [Missing Certificate Authority Authorization rule](https://hackerone.com/reports/260928) to Gratipay - 0 upvotes, $0
 135. [set Pragma header](https://hackerone.com/reports/145206) to Gratipay - 0 upvotes, $0
 136. [Broken link for stale DNS entry may be leveraged for Phishing, Misinformation, Serving Malware](https://hackerone.com/reports/279351) to Gratipay - 0 upvotes, $0

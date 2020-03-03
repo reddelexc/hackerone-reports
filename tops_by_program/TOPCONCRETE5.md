@@ -9,17 +9,17 @@ Top reports from concrete5 program at HackerOne:
 5. [Local File Inclusion path bypass](https://hackerone.com/reports/147570) to concrete5 - 13 upvotes, $0
 6. ['cnvID' parameter vulnerable to Insecure Direct Object References](https://hackerone.com/reports/265284) to concrete5 - 13 upvotes, $0
 7. [Stored XSS in Headline TextControl element in Express forms [ concrete5 8.1.0 ]](https://hackerone.com/reports/230278) to concrete5 - 12 upvotes, $0
-8. [Unauthenticated reflected XSS in preview_as_user function](https://hackerone.com/reports/643442) to concrete5 - 11 upvotes, $0
+8. [Unauthenticated reflected XSS in preview_as_user function](https://hackerone.com/reports/643442) to concrete5 - 12 upvotes, $0
 9. [Stored XSS in Pages SEO dialog Name field (concrete5 8.1.0)](https://hackerone.com/reports/230029) to concrete5 - 9 upvotes, $0
 10. [Stored XSS vulnerability in RSS Feeds Description field](https://hackerone.com/reports/248133) to concrete5 - 9 upvotes, $0
 11. [CSRF Full Account Takeover](https://hackerone.com/reports/152052) to concrete5 - 8 upvotes, $0
 12. [Stored XSS in Private Messages 'Reply' allows to execute malicious JavaScript against any user while replying to the message which contains payload](https://hackerone.com/reports/247517) to concrete5 - 8 upvotes, $0
 13. [Bypass auth.email-domains](https://hackerone.com/reports/4795) to concrete5 - 7 upvotes, $0
-14. [Stored XSS vulnerability in additional URLs in 'Location' dialog [Sitemap]](https://hackerone.com/reports/251358) to concrete5 - 7 upvotes, $0
-15. [Stored XSS on Add Event in Calendar](https://hackerone.com/reports/300532) to concrete5 - 7 upvotes, $0
-16. [Stored XSS on Add Calendar](https://hackerone.com/reports/300571) to concrete5 - 7 upvotes, $0
-17. [HttpOnly flag not set for cookie on concrete5.org](https://hackerone.com/reports/4792) to concrete5 - 6 upvotes, $0
-18. [Local File Inclusion Vulnerability in Concrete5 version 5.7.3.1](https://hackerone.com/reports/59665) to concrete5 - 6 upvotes, $0
+14. [Local File Inclusion Vulnerability in Concrete5 version 5.7.3.1](https://hackerone.com/reports/59665) to concrete5 - 7 upvotes, $0
+15. [Stored XSS vulnerability in additional URLs in 'Location' dialog [Sitemap]](https://hackerone.com/reports/251358) to concrete5 - 7 upvotes, $0
+16. [Stored XSS on Add Event in Calendar](https://hackerone.com/reports/300532) to concrete5 - 7 upvotes, $0
+17. [Stored XSS on Add Calendar](https://hackerone.com/reports/300571) to concrete5 - 7 upvotes, $0
+18. [HttpOnly flag not set for cookie on concrete5.org](https://hackerone.com/reports/4792) to concrete5 - 6 upvotes, $0
 19. [Stored XSS in Express Objects - Concrete5 v8.1.0](https://hackerone.com/reports/221325) to concrete5 - 6 upvotes, $0
 20. [Stored XSS in Name field in User Groups/Group Details form](https://hackerone.com/reports/247521) to concrete5 - 6 upvotes, $0
 21. [XSS on [/concrete/concrete/elements/dashboard/sitemap.php]](https://hackerone.com/reports/6853) to concrete5 - 4 upvotes, $0
