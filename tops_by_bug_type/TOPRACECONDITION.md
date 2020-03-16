@@ -2,12 +2,12 @@
 
 Top Race Condition reports from HackerOne:
 
-1. [Race Condition allows to redeem multiple times gift cards which leads to free "money"](https://hackerone.com/reports/759247) to Reverb.com - 215 upvotes, $1500
+1. [Race Condition allows to redeem multiple times gift cards which leads to free "money"](https://hackerone.com/reports/759247) to Reverb.com - 225 upvotes, $1500
 2. [Race condition in performing retest allows duplicated payments](https://hackerone.com/reports/429026) to HackerOne - 189 upvotes, $2100
 3. [Client-Side Race Condition using Marketo, allows sending user to data-protocol in Safari when form without onSuccess is submitted on www.hackerone.com](https://hackerone.com/reports/381356) to HackerOne - 127 upvotes, $1250
 4. [Race Conditions in Popular reports feature.](https://hackerone.com/reports/146845) to HackerOne - 95 upvotes, $500
 5. [Race Condition in Flag Submission](https://hackerone.com/reports/454949) to HackerOne - 61 upvotes, $500
-6. [Race Condition : Exploiting the loyalty claim https://xxx.vendhq.com/loyalty/claim/email/xxxxx url and gain x amount of loyalty bonus/cash](https://hackerone.com/reports/331940) to Vend VDP - 56 upvotes, $0
+6. [Race Condition : Exploiting the loyalty claim https://xxx.vendhq.com/loyalty/claim/email/xxxxx url and gain x amount of loyalty bonus/cash](https://hackerone.com/reports/331940) to Vend VDP - 58 upvotes, $0
 7. [Race condition leads to duplicate payouts](https://hackerone.com/reports/220445) to HackerOne - 55 upvotes, $750
 8. [Race condition in claiming program credentials](https://hackerone.com/reports/488985) to HackerOne - 41 upvotes, $500
 9. [Race Condition in Redeeming Coupons](https://hackerone.com/reports/157996) to Instacart - 29 upvotes, $200

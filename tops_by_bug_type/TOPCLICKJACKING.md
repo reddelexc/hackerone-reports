@@ -3,18 +3,18 @@
 Top Clickjacking reports from HackerOne:
 
 1. [Highly wormable clickjacking in player card](https://hackerone.com/reports/85624) to Twitter - 123 upvotes, $5040
-2. [Twitter Periscope Clickjacking Vulnerability](https://hackerone.com/reports/591432) to Twitter - 119 upvotes, $1120
+2. [Twitter Periscope Clickjacking Vulnerability](https://hackerone.com/reports/591432) to Twitter - 120 upvotes, $1120
 3. [Viral Direct Message Clickjacking via link truncation leading to capture of both Google credentials &amp; installation of malicious 3rd party Twitter App](https://hackerone.com/reports/643274) to Twitter - 64 upvotes, $1120
 4. [Sensitive Clickjacking on admin login page.](https://hackerone.com/reports/389145) to Shipt - 50 upvotes, $100
 5. [Stealing User emails by clickjacking cards.twitter.com/xxx/xxx](https://hackerone.com/reports/154963) to Twitter - 48 upvotes, $1120
 6. [Clickjacking vkpay](https://hackerone.com/reports/374817) to VK.com - 43 upvotes, $0
 7. [URL is vulnerable to clickjacking](https://hackerone.com/reports/530008) to Passit - 27 upvotes, $0
 8. [Clickjacking in the admin page](https://hackerone.com/reports/728004) to Rocket.Chat - 16 upvotes, $0
-9. [Clickjacking In jobs.wordpress.net](https://hackerone.com/reports/223024) to WordPress - 15 upvotes, $0
-10. [Make user buy items via clickjacking possibility](https://hackerone.com/reports/471967) to Mail.ru - 14 upvotes, $200
-11. [Modifying application settings via clickjacking on o2.mail.ru](https://hackerone.com/reports/355774) to Mail.ru - 13 upvotes, $150
-12. [Clickjacking Vulnerability found on Yelp](https://hackerone.com/reports/214087) to Yelp - 13 upvotes, $100
-13. [Clickjacking at join.nordvpn.com](https://hackerone.com/reports/765955) to NordVPN - 13 upvotes, $100
+9. [Clickjacking at join.nordvpn.com](https://hackerone.com/reports/765955) to NordVPN - 15 upvotes, $100
+10. [Clickjacking In jobs.wordpress.net](https://hackerone.com/reports/223024) to WordPress - 15 upvotes, $0
+11. [Make user buy items via clickjacking possibility](https://hackerone.com/reports/471967) to Mail.ru - 14 upvotes, $200
+12. [Modifying application settings via clickjacking on o2.mail.ru](https://hackerone.com/reports/355774) to Mail.ru - 13 upvotes, $150
+13. [Clickjacking Vulnerability found on Yelp](https://hackerone.com/reports/214087) to Yelp - 13 upvotes, $100
 14. [Clickjacking at ylands.com](https://hackerone.com/reports/405342) to BOHEMIA INTERACTIVE a.s. - 13 upvotes, $80
 15. [Clickjacking in [exchangemarketplace.com]](https://hackerone.com/reports/658217) to Shopify - 13 upvotes, $0
 16. [Clickjacking wordcamp.org](https://hackerone.com/reports/230581) to WordPress - 12 upvotes, $0

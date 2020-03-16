@@ -7,14 +7,14 @@ Top reports from Open-Xchange program at HackerOne:
 3. [SSRF in VCARD photo upload functionality](https://hackerone.com/reports/296045) to Open-Xchange - 49 upvotes, $850
 4. [OX (Guard): Stored Cross-Site Scripting via Incoming Email](https://hackerone.com/reports/156258) to Open-Xchange - 48 upvotes, $1000
 5. [Memory corruption in imap-parser.c](https://hackerone.com/reports/537550) to Open-Xchange - 46 upvotes, $5000
-6. [CSRF combined with IDOR within Document Converter exposes files](https://hackerone.com/reports/398316) to Open-Xchange - 44 upvotes, $500
+6. [CSRF combined with IDOR within Document Converter exposes files](https://hackerone.com/reports/398316) to Open-Xchange - 46 upvotes, $500
 7. [SSRF - Blacklist bypass for mail account addition](https://hackerone.com/reports/303378) to Open-Xchange - 43 upvotes, $500
-8. [SSRF - Image Sources in HTML Snippets - 727234 bypass](https://hackerone.com/reports/737163) to Open-Xchange - 40 upvotes, $400
+8. [SSRF - Image Sources in HTML Snippets - 727234 bypass](https://hackerone.com/reports/737163) to Open-Xchange - 41 upvotes, $400
 9. [[XSS] Style/Event Filter Bypass v3.0](https://hackerone.com/reports/314204) to Open-Xchange - 39 upvotes, $500
 10. [SSRF - URL Attachments - 725307 bypass](https://hackerone.com/reports/737161) to Open-Xchange - 35 upvotes, $400
 11. [SSRF - RSS feed, blacklist bypass (301 re-direct)](https://hackerone.com/reports/299135) to Open-Xchange - 33 upvotes, $850
-12. [Stored XSS](https://hackerone.com/reports/299806) to Open-Xchange - 32 upvotes, $500
-13. [SSRF - RSS feed, blacklist bypass (IP Formatting)](https://hackerone.com/reports/299130) to Open-Xchange - 31 upvotes, $850
+12. [SSRF - RSS feed, blacklist bypass (IP Formatting)](https://hackerone.com/reports/299130) to Open-Xchange - 32 upvotes, $850
+13. [Stored XSS](https://hackerone.com/reports/299806) to Open-Xchange - 32 upvotes, $500
 14. [Another window.opener issue](https://hackerone.com/reports/537840) to Open-Xchange - 30 upvotes, $900
 15. [Tab nabbing via window.opener](https://hackerone.com/reports/179568) to Open-Xchange - 28 upvotes, $666
 16. [Set Cookie Via SVG](https://hackerone.com/reports/195045) to Open-Xchange - 28 upvotes, $250

@@ -2,7 +2,7 @@
 
 Top reports from Vimeo program at HackerOne:
 
-1. [SSRF](https://hackerone.com/reports/549882) to Vimeo - 216 upvotes, $5000
+1. [SSRF](https://hackerone.com/reports/549882) to Vimeo - 219 upvotes, $5000
 2. [Domain pointing to vimeo portfolio are prone to takeover using on-demand.](https://hackerone.com/reports/387307) to Vimeo - 68 upvotes, $1500
 3. [Improper Authentication in Vimeo's API 'versions' endpoint.](https://hackerone.com/reports/328724) to Vimeo - 51 upvotes, $2000
 4. [Reflected File Download (RFD) in download video](https://hackerone.com/reports/378941) to Vimeo - 50 upvotes, $700

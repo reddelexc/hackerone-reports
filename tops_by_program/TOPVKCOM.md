@@ -17,7 +17,7 @@ Top reports from VK.com program at HackerOne:
 13. [Получение БД кэша из Android-приложения через стороннее приложение](https://hackerone.com/reports/377582) to VK.com - 31 upvotes, $500
 14. [XSS-уязвимость, связанная с загрузкой файлов](https://hackerone.com/reports/375886) to VK.com - 30 upvotes, $1000
 15. [XSS в колбек апи в сообществах](https://hackerone.com/reports/261966) to VK.com - 29 upvotes, $500
-16. [Доступ к администраторским faq](https://hackerone.com/reports/370629) to VK.com - 25 upvotes, $500
+16. [Доступ к администраторским faq](https://hackerone.com/reports/370629) to VK.com - 26 upvotes, $500
 17. [XSS в личных сообщениях](https://hackerone.com/reports/281851) to VK.com - 24 upvotes, $1000
 18. [Reflected XSS в /al_audio.php](https://hackerone.com/reports/334691) to VK.com - 23 upvotes, $700
 19. [Уязвимый класс WebView](https://hackerone.com/reports/452835) to VK.com - 22 upvotes, $200

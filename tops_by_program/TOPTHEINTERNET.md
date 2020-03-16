@@ -23,11 +23,11 @@ Top reports from The Internet program at HackerOne:
 19. [rpcbind "rpcbomb" CVE-2017-8779, CVE-2017-8804](https://hackerone.com/reports/235016) to The Internet - 9 upvotes, $0
 20. [Mercurial git subrepo lead to arbritary command injection](https://hackerone.com/reports/294147) to The Internet - 8 upvotes, $1500
 21. [Linux kernel: CVE-2017-6074: DCCP double-free vulnerability](https://hackerone.com/reports/347282) to The Internet - 8 upvotes, $1000
-22. [ntpd: read_mru_list() does inadequate incoming packet checks](https://hackerone.com/reports/147310) to The Internet - 7 upvotes, $500
-23. [[bower] Arbitrary File Write through improper validation of symlinks while package extraction](https://hackerone.com/reports/492512) to The Internet - 7 upvotes, $500
-24. [TLS Triple Handshake Attack](https://hackerone.com/reports/7277) to The Internet - 6 upvotes, $7500
-25. [Drupal 7 pre auth sql injection and remote code execution](https://hackerone.com/reports/31756) to The Internet - 6 upvotes, $3000
-26. [Industry-Wide MITM Vulnerability Impacting the JVM Ecosystem](https://hackerone.com/reports/608620) to The Internet - 6 upvotes, $0
+22. [Drupal 7 pre auth sql injection and remote code execution](https://hackerone.com/reports/31756) to The Internet - 7 upvotes, $3000
+23. [ntpd: read_mru_list() does inadequate incoming packet checks](https://hackerone.com/reports/147310) to The Internet - 7 upvotes, $500
+24. [[bower] Arbitrary File Write through improper validation of symlinks while package extraction](https://hackerone.com/reports/492512) to The Internet - 7 upvotes, $500
+25. [Industry-Wide MITM Vulnerability Impacting the JVM Ecosystem](https://hackerone.com/reports/608620) to The Internet - 7 upvotes, $0
+26. [TLS Triple Handshake Attack](https://hackerone.com/reports/7277) to The Internet - 6 upvotes, $7500
 27. [RCE on default Ubuntu Desktop &gt;= 12.10 Quantal](https://hackerone.com/reports/192512) to The Internet - 6 upvotes, $0
 28. [libtiff 4.0.6 segfault / read outside of buffer (CVE-2016-9297)](https://hackerone.com/reports/182140) to The Internet - 5 upvotes, $500
 29. [libtiff 4.0.6 heap bufer overflow / out of bounds read (CVE-2016-9273)](https://hackerone.com/reports/181642) to The Internet - 5 upvotes, $500
