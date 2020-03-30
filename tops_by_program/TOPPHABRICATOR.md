@@ -2,10 +2,10 @@
 
 Top reports from Phabricator program at HackerOne:
 
-1. [Command injection on Phabricator instance with an evil hg branch name](https://hackerone.com/reports/288704) to Phabricator - 37 upvotes, $1000
+1. [Command injection on Phabricator instance with an evil hg branch name](https://hackerone.com/reports/288704) to Phabricator - 38 upvotes, $1000
 2. [Phabricator is vulnerable to padding oracle attacks and chosen-ciphertext attacks.](https://hackerone.com/reports/216746) to Phabricator - 20 upvotes, $750
 3. [Markdown parsing issue enables insertion of malicious tags](https://hackerone.com/reports/758002) to Phabricator - 18 upvotes, $500
-4. [Window.opener protection](https://hackerone.com/reports/306414) to Phabricator - 18 upvotes, $300
+4. [Window.opener protection  Bypass](https://hackerone.com/reports/306414) to Phabricator - 18 upvotes, $300
 5. [User with only Viewing Privilege can send message to Room](https://hackerone.com/reports/202499) to Phabricator - 14 upvotes, $300
 6. [IDOR bug to See hidden slowvote of any user even when you dont have access right](https://hackerone.com/reports/661978) to Phabricator - 13 upvotes, $300
 7. [HTML in Diffusion not escaped in certain circumstances](https://hackerone.com/reports/148865) to Phabricator - 12 upvotes, $600
@@ -16,10 +16,10 @@ Top reports from Phabricator program at HackerOne:
 12. [Administrator can create user without entering high security mode](https://hackerone.com/reports/351361) to Phabricator - 10 upvotes, $300
 13. [Fetching binaries (for software installation) over HTTP without verification (RCE as ROOT by MITM)](https://hackerone.com/reports/186352) to Phabricator - 7 upvotes, $300
 14. [IRC-Bot exposes information](https://hackerone.com/reports/222870) to Phabricator - 7 upvotes, $300
-15. [TOTP Key is shorter than RFC 4226 recommended minimum](https://hackerone.com/reports/435648) to Phabricator - 6 upvotes, $300
-16. [Improperly implemented password recovery link functionality](https://hackerone.com/reports/809) to Phabricator - 5 upvotes, $300
-17. [Persistent XSS: Editor link](https://hackerone.com/reports/4114) to Phabricator - 5 upvotes, $300
-18. [Broken Authentication and Session Management](https://hackerone.com/reports/17474) to Phabricator - 5 upvotes, $300
+15. [Broken Authentication and Session Management](https://hackerone.com/reports/17474) to Phabricator - 6 upvotes, $300
+16. [TOTP Key is shorter than RFC 4226 recommended minimum](https://hackerone.com/reports/435648) to Phabricator - 6 upvotes, $300
+17. [Improperly implemented password recovery link functionality](https://hackerone.com/reports/809) to Phabricator - 5 upvotes, $300
+18. [Persistent XSS: Editor link](https://hackerone.com/reports/4114) to Phabricator - 5 upvotes, $300
 19. [OAuth Stealing Attack (New)](https://hackerone.com/reports/3930) to Phabricator - 4 upvotes, $400
 20. [The special code in editor has no Authority control and can lead to Information Disclosure](https://hackerone.com/reports/221950) to Phabricator - 4 upvotes, $0
 21. [Bypass auth.email-domains](https://hackerone.com/reports/2224) to Phabricator - 3 upvotes, $1000
@@ -38,7 +38,7 @@ Top reports from Phabricator program at HackerOne:
 34. [An unsafe design practice in the Passphrase may result in Secret being accidentally changed.](https://hackerone.com/reports/218324) to Phabricator - 2 upvotes, $0
 35. [Issue:Form does not contain an anti-CSRF token](https://hackerone.com/reports/513134) to Phabricator - 2 upvotes, $0
 36. [XSS in editor by any user](https://hackerone.com/reports/18691) to Phabricator - 1 upvotes, $1000
-37. [Multiple so called](https://hackerone.com/reports/86022) to Phabricator - 1 upvotes, $450
+37. [Multiple so called  'type juggling' attacks. Most notably PhabricatorUser::validateCSRFToken() is 'bypassable' in certain cases.](https://hackerone.com/reports/86022) to Phabricator - 1 upvotes, $450
 38. [Open redirection on secure.phabricator.com](https://hackerone.com/reports/25160) to Phabricator - 1 upvotes, $400
 39. [Abusing daemon logs for Privilege escalation under certain scenarios](https://hackerone.com/reports/16392) to Phabricator - 1 upvotes, $300
 40. [Passphrase credential lock bypass](https://hackerone.com/reports/139626) to Phabricator - 1 upvotes, $300
@@ -58,10 +58,10 @@ Top reports from Phabricator program at HackerOne:
 54. [XSS with Time-of-Day Format](https://hackerone.com/reports/52822) to Phabricator - 0 upvotes, $300
 55. [Information leakage through Graphviz blocks](https://hackerone.com/reports/88395) to Phabricator - 0 upvotes, $300
 56. [Extended policy checks are buggy](https://hackerone.com/reports/109959) to Phabricator - 0 upvotes, $300
-57. [Back - Refresh - Attack To](https://hackerone.com/reports/21064) to Phabricator - 0 upvotes, $0
+57. [Back - Refresh - Attack To  Obtain User Credentials](https://hackerone.com/reports/21064) to Phabricator - 0 upvotes, $0
 58. [Password Reset Links Not Expiring](https://hackerone.com/reports/22858) to Phabricator - 0 upvotes, $0
 59. [Content spoofing](https://hackerone.com/reports/27564) to Phabricator - 0 upvotes, $0
-60. [Content injection](https://hackerone.com/reports/36112) to Phabricator - 0 upvotes, $0
+60. [Content injection ](https://hackerone.com/reports/36112) to Phabricator - 0 upvotes, $0
 61. [Server Side Request Forgery in macro creation](https://hackerone.com/reports/50537) to Phabricator - 0 upvotes, $0
 62. [Dashboard panel embedded onto itself causes a denial of service](https://hackerone.com/reports/85011) to Phabricator - 0 upvotes, $0
 63. [libphutil: removing bytes from a PhutilRope does not work as intended](https://hackerone.com/reports/105657) to Phabricator - 0 upvotes, $0

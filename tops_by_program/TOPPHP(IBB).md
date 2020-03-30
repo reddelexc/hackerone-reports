@@ -4,7 +4,7 @@ Top reports from PHP (IBB) program at HackerOne:
 
 1. [In correct casting from size_t to int lead to heap overflow in mcrypt_generic](https://hackerone.com/reports/152398) to PHP (IBB) - 80 upvotes, $1000
 2. [Type Confusion Vulnerability - SOAP / make_http_soap_request()](https://hackerone.com/reports/116773) to PHP (IBB) - 64 upvotes, $1000
-3. [GMP Deserialization Type Confusion Vulnerability [MyBB &lt;= 1.8.3 RCE Vulnerability]](https://hackerone.com/reports/198734) to PHP (IBB) - 62 upvotes, $1500
+3. [GMP Deserialization Type Confusion Vulnerability [MyBB \<= 1.8.3 RCE Vulnerability]](https://hackerone.com/reports/198734) to PHP (IBB) - 62 upvotes, $1500
 4. [Heap overflow in mysqlnd related to BIT fields (CVE-2016-7412)](https://hackerone.com/reports/176279) to PHP (IBB) - 50 upvotes, $1000
 5. [Inappropriate URL parsing may cause security risk!](https://hackerone.com/reports/305974) to PHP (IBB) - 49 upvotes, $1000
 6. [Int Overflow lead to Heap OverFlow in exif_thumbnail_extract of exif.c](https://hackerone.com/reports/384477) to PHP (IBB) - 42 upvotes, $500
@@ -26,7 +26,7 @@ Top reports from PHP (IBB) program at HackerOne:
 22. [Use After Free Vulnerability in SNMP with GC and unserialize()](https://hackerone.com/reports/152266) to PHP (IBB) - 7 upvotes, $1000
 23. [Heap Use After Free in unserialize()](https://hackerone.com/reports/261338) to PHP (IBB) - 7 upvotes, $500
 24. [Out of Bounds Memory Read in unserialize()](https://hackerone.com/reports/261336) to PHP (IBB) - 7 upvotes, $500
-25. [Out-of-Bound Read in phar_parse_zipfile()](https://hackerone.com/reports/114172) to PHP (IBB) - 7 upvotes, $500
+25. [	Out-of-Bound Read in phar_parse_zipfile()](https://hackerone.com/reports/114172) to PHP (IBB) - 7 upvotes, $500
 26. [Illegal write/read access caused by gdImageAALine overflow](https://hackerone.com/reports/182420) to PHP (IBB) - 7 upvotes, $500
 27. [memory corruption in wordwrap function](https://hackerone.com/reports/167910) to PHP (IBB) - 7 upvotes, $500
 28. [integer overflow in imap_binary caused heap corruption](https://hackerone.com/reports/167906) to PHP (IBB) - 7 upvotes, $500
@@ -74,7 +74,7 @@ Top reports from PHP (IBB) program at HackerOne:
 70. [Create an Unexpected Object and Don't Invoke __wakeup() in Deserialization](https://hackerone.com/reports/198723) to PHP (IBB) - 4 upvotes, $500
 71. [memory allocator fails to realloc small block to large one](https://hackerone.com/reports/159992) to PHP (IBB) - 4 upvotes, $500
 72. [integer overflow in fgets cause heap corruption](https://hackerone.com/reports/167908) to PHP (IBB) - 4 upvotes, $500
-73. [integer overflow in str_pad caused heap corruption](https://hackerone.com/reports/167903) to PHP (IBB) - 4 upvotes, $500
+73. [ integer overflow in str_pad caused heap corruption](https://hackerone.com/reports/167903) to PHP (IBB) - 4 upvotes, $500
 74. [integer overflow in php_ldap_do_escape caused heap corruption](https://hackerone.com/reports/167902) to PHP (IBB) - 4 upvotes, $500
 75. [integer overflow in urlencode caused heap corruption](https://hackerone.com/reports/159960) to PHP (IBB) - 4 upvotes, $500
 76. [integer overflow in quoted_printable_encode caused heap corruption](https://hackerone.com/reports/159959) to PHP (IBB) - 4 upvotes, $500
@@ -135,7 +135,7 @@ Top reports from PHP (IBB) program at HackerOne:
 131. [3 heap corruptions in PHP](https://hackerone.com/reports/188102) to PHP (IBB) - 1 upvotes, $1500
 132. [Stack Buffer Overflow in GD dynamicGetbuf](https://hackerone.com/reports/175587) to PHP (IBB) - 1 upvotes, $1500
 133. [Inadequate error handling in bzread()](https://hackerone.com/reports/152772) to PHP (IBB) - 1 upvotes, $1500
-134. [Negative size parameter (-1) in memcpy mbfl_strcut](https://hackerone.com/reports/127242) to PHP (IBB) - 1 upvotes, $1000
+134. [Negative size parameter (-1) in memcpy mbfl_strcut ](https://hackerone.com/reports/127242) to PHP (IBB) - 1 upvotes, $1000
 135. [Memory Leakage In exif_process_IFD_in_TIFF (CVE-2016-7128)](https://hackerone.com/reports/160294) to PHP (IBB) - 1 upvotes, $1000
 136. [Stack-based buffer overflow vulnerability in php_stream_zip_opener](https://hackerone.com/reports/152278) to PHP (IBB) - 1 upvotes, $1000
 137. [Heap Overflow Due To Integer Overflow](https://hackerone.com/reports/146360) to PHP (IBB) - 1 upvotes, $1000
@@ -145,7 +145,7 @@ Top reports from PHP (IBB) program at HackerOne:
 141. [openssl_seal() uninitialized memory usage](https://hackerone.com/reports/114414) to PHP (IBB) - 1 upvotes, $1000
 142. [out of bounds read crashes php-cgi](https://hackerone.com/reports/73234) to PHP (IBB) - 1 upvotes, $500
 143. [memcpy negative size parameter in php_resolve_path](https://hackerone.com/reports/175311) to PHP (IBB) - 1 upvotes, $500
-144. [potential remote code execution with phar archive](https://hackerone.com/reports/126652) to PHP (IBB) - 1 upvotes, $500
+144. [potential remote code execution with phar archive ](https://hackerone.com/reports/126652) to PHP (IBB) - 1 upvotes, $500
 145. [xml_parse_into_struct segmentation fault](https://hackerone.com/reports/135294) to PHP (IBB) - 1 upvotes, $500
 146. [stack-buffer-overflow through "ResourceBundle" methods](https://hackerone.com/reports/175316) to PHP (IBB) - 1 upvotes, $500
 147. [bcpowmod accepts negative scale and corrupts _one_ definition](https://hackerone.com/reports/135293) to PHP (IBB) - 1 upvotes, $500

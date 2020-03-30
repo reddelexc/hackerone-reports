@@ -2,7 +2,7 @@
 
 Top reports from concrete5 program at HackerOne:
 
-1. [Password Reset link hijacking via Host Header Poisoning](https://hackerone.com/reports/226659) to concrete5 - 44 upvotes, $0
+1. [Password Reset link hijacking via Host Header Poisoning ](https://hackerone.com/reports/226659) to concrete5 - 44 upvotes, $0
 2. [SVG file that HTML Included is able to upload via File Manager](https://hackerone.com/reports/437863) to concrete5 - 24 upvotes, $0
 3. [SSRF thru File Replace](https://hackerone.com/reports/243865) to concrete5 - 17 upvotes, $0
 4. [Reflected XSS vulnerability in Database name field on installation screen](https://hackerone.com/reports/289330) to concrete5 - 17 upvotes, $0
@@ -25,7 +25,7 @@ Top reports from concrete5 program at HackerOne:
 21. [XSS on [/concrete/concrete/elements/dashboard/sitemap.php]](https://hackerone.com/reports/6853) to concrete5 - 4 upvotes, $0
 22. [Stored XSS in RSS Feeds Title (Concrete5 v8.1.0)](https://hackerone.com/reports/221380) to concrete5 - 4 upvotes, $0
 23. [XSS in private message](https://hackerone.com/reports/4826) to concrete5 - 3 upvotes, $0
-24. [FULL PATH DISCLOSUR](https://hackerone.com/reports/7736) to concrete5 - 2 upvotes, $0
+24. [FULL PATH DISCLOSUR ](https://hackerone.com/reports/7736) to concrete5 - 2 upvotes, $0
 25. [Multiple Cross Site Request Forgery Vulnerabilities in Concrete5 version 5.7.3.1](https://hackerone.com/reports/59660) to concrete5 - 2 upvotes, $0
 26. [Multiple Stored Cross Site Scripting Vulnerabilities in Concrete5 version 5.7.3.1](https://hackerone.com/reports/59662) to concrete5 - 2 upvotes, $0
 27. [Content Spoofing possible in concrete5.org](https://hackerone.com/reports/168078) to concrete5 - 2 upvotes, $0
@@ -54,9 +54,9 @@ Top reports from concrete5 program at HackerOne:
 50. [Stored XSS in Contact Form](https://hackerone.com/reports/50564) to concrete5 - 0 upvotes, $0
 51. [Stored XSS in Title of the topic List](https://hackerone.com/reports/50626) to concrete5 - 0 upvotes, $0
 52. [Stored XSS in title of date navigation](https://hackerone.com/reports/50627) to concrete5 - 0 upvotes, $0
-53. [Stored XSS in Feature tile](https://hackerone.com/reports/50639) to concrete5 - 0 upvotes, $0
+53. [Stored XSS in Feature tile ](https://hackerone.com/reports/50639) to concrete5 - 0 upvotes, $0
 54. [Stored Xss in Feature Paragraph](https://hackerone.com/reports/50642) to concrete5 - 0 upvotes, $0
-55. [Stored XSS in](https://hackerone.com/reports/50644) to concrete5 - 0 upvotes, $0
+55. [Stored XSS in  Testimonial  name](https://hackerone.com/reports/50644) to concrete5 - 0 upvotes, $0
 56. [Stored XSS in testimonial Company](https://hackerone.com/reports/50656) to concrete5 - 0 upvotes, $0
 57. [Stored XSS in Testimonial Position](https://hackerone.com/reports/50645) to concrete5 - 0 upvotes, $0
 58. [Stored XSS In Company URL](https://hackerone.com/reports/50662) to concrete5 - 0 upvotes, $0
