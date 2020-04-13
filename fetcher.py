@@ -37,7 +37,8 @@ def extract_reports(raw_reports):
             'title': '',
             'link': link,
             'upvotes': 0,
-            'bounty': 0.
+            'bounty': 0.,
+            'vuln_type': ''
         }
         reports.append(report)
 
