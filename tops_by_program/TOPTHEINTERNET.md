@@ -6,16 +6,16 @@ Top reports from The Internet program at HackerOne:
 2. [Ubuntu Linux privilege escalation (dirty_sock)](https://hackerone.com/reports/496285) to The Internet - 97 upvotes, $1000
 3. [RCE via ssh:// URIs in multiple VCS ](https://hackerone.com/reports/260005) to The Internet - 38 upvotes, $3000
 4. [ACME TLS-SNI-01/02 challenge vulnerable when combined with shared hosting providers](https://hackerone.com/reports/304378) to The Internet - 34 upvotes, $0
-5. [Race Conditions in OAuth 2 API implementations](https://hackerone.com/reports/55140) to The Internet - 29 upvotes, $2500
+5. [Race Conditions in OAuth 2 API implementations](https://hackerone.com/reports/55140) to The Internet - 30 upvotes, $2500
 6. [ZeroMQ libzmq remote code execution](https://hackerone.com/reports/477073) to The Internet - 28 upvotes, $1000
 7. [Mailsploit: a sender spoofing bug in over 30 email clients](https://hackerone.com/reports/295339) to The Internet - 26 upvotes, $0
 8. [4 severe remote + several minor OpenVPN vulnerabilities](https://hackerone.com/reports/242579) to The Internet - 26 upvotes, $0
 9. [Insufficient shell characters filtering leads to (potentially remote) code execution (CVE-2016-3714)](https://hackerone.com/reports/143966) to The Internet - 20 upvotes, $7500
-10. [TLS Virtual Host Confusion](https://hackerone.com/reports/501) to The Internet - 16 upvotes, $7500
+10. [TLS Virtual Host Confusion](https://hackerone.com/reports/501) to The Internet - 17 upvotes, $7500
 11. [CVE-2019-5736: Escape from Docker and Kubernetes containers to root on host](https://hackerone.com/reports/495495) to The Internet - 13 upvotes, $1000
-12. [Exim off-by-one RCE vulnerability](https://hackerone.com/reports/322935) to The Internet - 11 upvotes, $1500
-13. [Cross-site information assertion leak via Content Security Policy](https://hackerone.com/reports/16910) to The Internet - 11 upvotes, $0
-14. [GNU Bourne-Again Shell (Bash) 'Shellshock' Vulnerability](https://hackerone.com/reports/29839) to The Internet - 10 upvotes, $20000
+12. [GNU Bourne-Again Shell (Bash) 'Shellshock' Vulnerability](https://hackerone.com/reports/29839) to The Internet - 11 upvotes, $20000
+13. [Exim off-by-one RCE vulnerability](https://hackerone.com/reports/322935) to The Internet - 11 upvotes, $1500
+14. [Cross-site information assertion leak via Content Security Policy](https://hackerone.com/reports/16910) to The Internet - 11 upvotes, $0
 15. [Linux kernel: CVE-2017-7308: a signedness issue in AF_PACKET sockets](https://hackerone.com/reports/684567) to The Internet - 10 upvotes, $0
 16. [Multiple HTTP Smuggling reports](https://hackerone.com/reports/648434) to The Internet - 10 upvotes, $0
 17. [Critical vulnerability in JSON Web Encryption (JWE) - RFC 7516 Invalid Curve attack](https://hackerone.com/reports/213437) to The Internet - 9 upvotes, $1000
@@ -23,10 +23,10 @@ Top reports from The Internet program at HackerOne:
 19. [rpcbind "rpcbomb" CVE-2017-8779, CVE-2017-8804](https://hackerone.com/reports/235016) to The Internet - 9 upvotes, $0
 20. [Mercurial git subrepo lead to arbritary command injection](https://hackerone.com/reports/294147) to The Internet - 8 upvotes, $1500
 21. [Linux kernel: CVE-2017-6074: DCCP double-free vulnerability](https://hackerone.com/reports/347282) to The Internet - 8 upvotes, $1000
-22. [Drupal 7 pre auth sql injection and remote code execution](https://hackerone.com/reports/31756) to The Internet - 7 upvotes, $3000
-23. [ntpd: read_mru_list() does inadequate incoming packet checks](https://hackerone.com/reports/147310) to The Internet - 7 upvotes, $500
-24. [[bower] Arbitrary File Write through improper validation of symlinks while package extraction](https://hackerone.com/reports/492512) to The Internet - 7 upvotes, $500
-25. [Industry-Wide MITM Vulnerability Impacting the JVM Ecosystem](https://hackerone.com/reports/608620) to The Internet - 7 upvotes, $0
+22. [Industry-Wide MITM Vulnerability Impacting the JVM Ecosystem](https://hackerone.com/reports/608620) to The Internet - 8 upvotes, $0
+23. [Drupal 7 pre auth sql injection and remote code execution](https://hackerone.com/reports/31756) to The Internet - 7 upvotes, $3000
+24. [ntpd: read_mru_list() does inadequate incoming packet checks](https://hackerone.com/reports/147310) to The Internet - 7 upvotes, $500
+25. [[bower] Arbitrary File Write through improper validation of symlinks while package extraction](https://hackerone.com/reports/492512) to The Internet - 7 upvotes, $500
 26. [TLS Triple Handshake Attack](https://hackerone.com/reports/7277) to The Internet - 6 upvotes, $7500
 27. [RCE on default Ubuntu Desktop \>= 12.10 Quantal](https://hackerone.com/reports/192512) to The Internet - 6 upvotes, $0
 28. [libtiff 4.0.6 segfault / read outside of buffer (CVE-2016-9297)](https://hackerone.com/reports/182140) to The Internet - 5 upvotes, $500

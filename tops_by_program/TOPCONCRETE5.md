@@ -2,7 +2,7 @@
 
 Top reports from concrete5 program at HackerOne:
 
-1. [Password Reset link hijacking via Host Header Poisoning ](https://hackerone.com/reports/226659) to concrete5 - 44 upvotes, $0
+1. [Password Reset link hijacking via Host Header Poisoning ](https://hackerone.com/reports/226659) to concrete5 - 46 upvotes, $0
 2. [SVG file that HTML Included is able to upload via File Manager](https://hackerone.com/reports/437863) to concrete5 - 24 upvotes, $0
 3. [SSRF thru File Replace](https://hackerone.com/reports/243865) to concrete5 - 17 upvotes, $0
 4. [Reflected XSS vulnerability in Database name field on installation screen](https://hackerone.com/reports/289330) to concrete5 - 17 upvotes, $0

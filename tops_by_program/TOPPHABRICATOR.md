@@ -3,7 +3,7 @@
 Top reports from Phabricator program at HackerOne:
 
 1. [Command injection on Phabricator instance with an evil hg branch name](https://hackerone.com/reports/288704) to Phabricator - 38 upvotes, $1000
-2. [Phabricator is vulnerable to padding oracle attacks and chosen-ciphertext attacks.](https://hackerone.com/reports/216746) to Phabricator - 20 upvotes, $750
+2. [Phabricator is vulnerable to padding oracle attacks and chosen-ciphertext attacks.](https://hackerone.com/reports/216746) to Phabricator - 21 upvotes, $750
 3. [Markdown parsing issue enables insertion of malicious tags](https://hackerone.com/reports/758002) to Phabricator - 18 upvotes, $500
 4. [Window.opener protection  Bypass](https://hackerone.com/reports/306414) to Phabricator - 18 upvotes, $300
 5. [User with only Viewing Privilege can send message to Room](https://hackerone.com/reports/202499) to Phabricator - 14 upvotes, $300
@@ -25,13 +25,13 @@ Top reports from Phabricator program at HackerOne:
 21. [Bypass auth.email-domains](https://hackerone.com/reports/2224) to Phabricator - 3 upvotes, $1000
 22. [Bypass auth.email-domains (2)](https://hackerone.com/reports/2233) to Phabricator - 3 upvotes, $500
 23. [OAuth access_token stealing in Phabricator](https://hackerone.com/reports/3596) to Phabricator - 3 upvotes, $450
-24. [Enumerating emails through "Forgot Password" form](https://hackerone.com/reports/203614) to Phabricator - 3 upvotes, $0
-25. [Restricted file access when it exists in old versions of task or wiki document](https://hackerone.com/reports/203658) to Phabricator - 3 upvotes, $0
-26. [Autoclose can close any task regardless of policies/spaces](https://hackerone.com/reports/220909) to Phabricator - 3 upvotes, $0
-27. [Request vulnerable to CSRF](https://hackerone.com/reports/513137) to Phabricator - 3 upvotes, $0
-28. [Login CSRF using Twitter OAuth](https://hackerone.com/reports/2228) to Phabricator - 2 upvotes, $300
-29. [UnAuthorized Editorial Publishing to Blogs](https://hackerone.com/reports/3356) to Phabricator - 2 upvotes, $300
-30. [Control character allowed in username](https://hackerone.com/reports/3921) to Phabricator - 2 upvotes, $300
+24. [Control character allowed in username](https://hackerone.com/reports/3921) to Phabricator - 3 upvotes, $300
+25. [Enumerating emails through "Forgot Password" form](https://hackerone.com/reports/203614) to Phabricator - 3 upvotes, $0
+26. [Restricted file access when it exists in old versions of task or wiki document](https://hackerone.com/reports/203658) to Phabricator - 3 upvotes, $0
+27. [Autoclose can close any task regardless of policies/spaces](https://hackerone.com/reports/220909) to Phabricator - 3 upvotes, $0
+28. [Request vulnerable to CSRF](https://hackerone.com/reports/513137) to Phabricator - 3 upvotes, $0
+29. [Login CSRF using Twitter OAuth](https://hackerone.com/reports/2228) to Phabricator - 2 upvotes, $300
+30. [UnAuthorized Editorial Publishing to Blogs](https://hackerone.com/reports/3356) to Phabricator - 2 upvotes, $300
 31. [Content Spoofing through URL](https://hackerone.com/reports/28792) to Phabricator - 2 upvotes, $0
 32. [Password Policy issue](https://hackerone.com/reports/26758) to Phabricator - 2 upvotes, $0
 33. [Error page Text Injection.](https://hackerone.com/reports/156196) to Phabricator - 2 upvotes, $0

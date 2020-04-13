@@ -9,8 +9,8 @@ Top Clickjacking reports from HackerOne:
 5. [Stealing User emails by clickjacking cards.twitter.com/xxx/xxx](https://hackerone.com/reports/154963) to Twitter - 49 upvotes, $1120
 6. [Clickjacking vkpay](https://hackerone.com/reports/374817) to VK.com - 43 upvotes, $0
 7. [URL is vulnerable to clickjacking  https://app.passit.io/](https://hackerone.com/reports/530008) to Passit - 27 upvotes, $0
-8. [Clickjacking in the admin page](https://hackerone.com/reports/728004) to Rocket.Chat - 16 upvotes, $0
-9. [Clickjacking at join.nordvpn.com](https://hackerone.com/reports/765955) to NordVPN - 15 upvotes, $100
+8. [Clickjacking at join.nordvpn.com](https://hackerone.com/reports/765955) to NordVPN - 16 upvotes, $100
+9. [Clickjacking in the admin page](https://hackerone.com/reports/728004) to Rocket.Chat - 16 upvotes, $0
 10. [Clickjacking In jobs.wordpress.net](https://hackerone.com/reports/223024) to WordPress - 15 upvotes, $0
 11. [Make user buy items via clickjacking possibility](https://hackerone.com/reports/471967) to Mail.ru - 14 upvotes, $200
 12. [Modifying application settings via clickjacking on o2.mail.ru](https://hackerone.com/reports/355774) to Mail.ru - 13 upvotes, $150
@@ -25,8 +25,8 @@ Top Clickjacking reports from HackerOne:
 21. [Clickjacking on Mixmax.com](https://hackerone.com/reports/234713) to Mixmax - 11 upvotes, $0
 22. [Clickjacking on https://www.goodhire.com/api](https://hackerone.com/reports/298028) to Inflection - 11 upvotes, $0
 23. [clickjacking в /lead_forms_app.php](https://hackerone.com/reports/294334) to VK.com - 10 upvotes, $0
-24. [Clickjacking mercantile.wordpress.org](https://hackerone.com/reports/264125) to WordPress - 9 upvotes, $0
-25. [Clickjacking Periscope.tv on Chrome](https://hackerone.com/reports/198622) to Twitter - 8 upvotes, $560
+24. [Clickjacking Periscope.tv on Chrome](https://hackerone.com/reports/198622) to Twitter - 9 upvotes, $560
+25. [Clickjacking mercantile.wordpress.org](https://hackerone.com/reports/264125) to WordPress - 9 upvotes, $0
 26. [Clickjacking on authorized page https://wakatime.com/share/embed](https://hackerone.com/reports/244967) to WakaTime - 8 upvotes, $0
 27. [Clickjacking - https://mercantile.wordpress.org/](https://hackerone.com/reports/258283) to WordPress - 8 upvotes, $0
 28. [Clickjacking in Legalrobot app](https://hackerone.com/reports/270454) to Legal Robot - 8 upvotes, $0
@@ -43,9 +43,9 @@ Top Clickjacking reports from HackerOne:
 39. [Clickjacking docs.weblate.org](https://hackerone.com/reports/223391) to Weblate - 5 upvotes, $0
 40. [clickjacking on https://gratipay.com/on/npm/[text]](https://hackerone.com/reports/267189) to Gratipay - 5 upvotes, $0
 41. [Account takeover vulnerability by editor role privileged users/attackers via clickjacking](https://hackerone.com/reports/388254) to WordPress - 5 upvotes, $0
-42. [Clickjacking In https://demo.nextcloud.com](https://hackerone.com/reports/222762) to Nextcloud - 4 upvotes, $0
-43. [Clickjacking Full account takeover and editing the personal information at [account.my.com]](https://hackerone.com/reports/261652) to Mail.ru - 4 upvotes, $0
-44. [OAuth authorization page vulnerable to clickjacking](https://hackerone.com/reports/65825) to Coinbase - 3 upvotes, $5000
+42. [OAuth authorization page vulnerable to clickjacking](https://hackerone.com/reports/65825) to Coinbase - 4 upvotes, $5000
+43. [Clickjacking In https://demo.nextcloud.com](https://hackerone.com/reports/222762) to Nextcloud - 4 upvotes, $0
+44. [Clickjacking Full account takeover and editing the personal information at [account.my.com]](https://hackerone.com/reports/261652) to Mail.ru - 4 upvotes, $0
 45. [Missing security headers, possible clickjacking](https://hackerone.com/reports/64645) to Legal Robot - 3 upvotes, $20
 46. [Clickjacking login page of http://book.zomato.com/](https://hackerone.com/reports/146948) to Zomato - 3 upvotes, $0
 47. [Clickjacking: Delete Account, Change privacy settings, Rate business, follow/unfollow (IE)](https://hackerone.com/reports/338569) to Zomato - 3 upvotes, $0

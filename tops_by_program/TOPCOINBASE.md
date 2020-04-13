@@ -3,10 +3,10 @@
 Top reports from Coinbase program at HackerOne:
 
 1. [Ethereum account balance manipulation](https://hackerone.com/reports/300748) to Coinbase - 231 upvotes, $10000
-2. [Double Payout via PayPal](https://hackerone.com/reports/307239) to Coinbase - 198 upvotes, $10000
+2. [Double Payout via PayPal](https://hackerone.com/reports/307239) to Coinbase - 200 upvotes, $10000
 3. [ETH contract handling errors](https://hackerone.com/reports/328526) to Coinbase - 190 upvotes, $21000
 4. [Authentication Issue](https://hackerone.com/reports/176979) to Coinbase - 21 upvotes, $200
-5. [[buy.coinbase.com]Content Injection](https://hackerone.com/reports/218680) to Coinbase - 17 upvotes, $100
+5. [[buy.coinbase.com]Content Injection](https://hackerone.com/reports/218680) to Coinbase - 18 upvotes, $100
 6. [HTML injection in apps user review ](https://hackerone.com/reports/104543) to Coinbase - 15 upvotes, $200
 7. [Prepopulation of email address and name leaks information provided to other merchants](https://hackerone.com/reports/316290) to Coinbase - 14 upvotes, $250
 8. [Stored CSS Injection](https://hackerone.com/reports/315865) to Coinbase - 14 upvotes, $100
@@ -26,9 +26,9 @@ Top reports from Coinbase program at HackerOne:
 22. [Content Injection error page](https://hackerone.com/reports/148952) to Coinbase - 6 upvotes, $0
 23. [Create Multiple Account Using Similar X-CSRF token](https://hackerone.com/reports/155726) to Coinbase - 5 upvotes, $0
 24. [coinbase Email leak while sending and requesting](https://hackerone.com/reports/168289) to Coinbase - 5 upvotes, $0
-25. [window.opener is leaking to external domains upon redirect on Safari](https://hackerone.com/reports/160498) to Coinbase - 4 upvotes, $300
-26. [No authorization required in iOS device web-application](https://hackerone.com/reports/148538) to Coinbase - 4 upvotes, $0
-27. [OAuth authorization page vulnerable to clickjacking](https://hackerone.com/reports/65825) to Coinbase - 3 upvotes, $5000
+25. [OAuth authorization page vulnerable to clickjacking](https://hackerone.com/reports/65825) to Coinbase - 4 upvotes, $5000
+26. [window.opener is leaking to external domains upon redirect on Safari](https://hackerone.com/reports/160498) to Coinbase - 4 upvotes, $300
+27. [No authorization required in iOS device web-application](https://hackerone.com/reports/148538) to Coinbase - 4 upvotes, $0
 28. [Transactions visible on Unconfirmed devices](https://hackerone.com/reports/100186) to Coinbase - 3 upvotes, $500
 29. [Coinbase Android Security Vulnerabilities](https://hackerone.com/reports/5786) to Coinbase - 3 upvotes, $100
 30. [New Device confirmation tokens are not properly validated.](https://hackerone.com/reports/30238) to Coinbase - 3 upvotes, $100

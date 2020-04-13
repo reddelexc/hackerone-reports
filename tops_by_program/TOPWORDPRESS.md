@@ -2,17 +2,17 @@
 
 Top reports from WordPress program at HackerOne:
 
-1. [Stored XSS Vulnerability](https://hackerone.com/reports/643908) to WordPress - 345 upvotes, $500
+1. [Stored XSS Vulnerability](https://hackerone.com/reports/643908) to WordPress - 347 upvotes, $500
 2. [Stored XSS in Private Message component (BuddyPress)](https://hackerone.com/reports/487081) to WordPress - 331 upvotes, $500
 3. [Stored XSS on byddypress Plug-in via groups name](https://hackerone.com/reports/592316) to WordPress - 126 upvotes, $450
-4. [Wordpress unzip_file path traversal](https://hackerone.com/reports/205481) to WordPress - 105 upvotes, $800
+4. [Wordpress unzip_file path traversal](https://hackerone.com/reports/205481) to WordPress - 106 upvotes, $800
 5. [Reflected XSS on https://make.wordpress.org via 'channel' parameter](https://hackerone.com/reports/659419) to WordPress - 95 upvotes, $387
 6. [CSRF to HTML Injection in Comments](https://hackerone.com/reports/428019) to WordPress - 90 upvotes, $950
 7. [Potential unprivileged Stored XSS through wp_targeted_link_rel](https://hackerone.com/reports/509930) to WordPress - 79 upvotes, $650
 8. [Mssing Authorization on Private Message replies (BuddyPress)](https://hackerone.com/reports/490782) to WordPress - 63 upvotes, $375
 9. [plugins.trac.wordpress.org likely vulnerable to Cross Site Tracing (xst), TRACE HTTP method should be disabled](https://hackerone.com/reports/222692) to WordPress - 55 upvotes, $150
 10. [Multiple stored XSS in WordPress](https://hackerone.com/reports/221507) to WordPress - 35 upvotes, $1200
-11. ["Bad Protocols Validation" Bypass in "wp_kses_bad_protocol_once" using HTML-encoding without trailing semicolons](https://hackerone.com/reports/339483) to WordPress - 33 upvotes, $350
+11. ["Bad Protocols Validation" Bypass in "wp_kses_bad_protocol_once" using HTML-encoding without trailing semicolons](https://hackerone.com/reports/339483) to WordPress - 34 upvotes, $350
 12. [Logic flaw in the Post creation process allows creating posts with arbitrary types without needing the corresponding nonce](https://hackerone.com/reports/404323) to WordPress - 32 upvotes, $900
 13. [Add users to groups who have restricted group invites](https://hackerone.com/reports/538008) to WordPress - 28 upvotes, $275
 14. [[mercantile.wordpress.org] Reflected XSS via AngularJS Template Injection](https://hackerone.com/reports/230234) to WordPress - 27 upvotes, $300

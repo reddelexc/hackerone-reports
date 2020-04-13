@@ -2,10 +2,10 @@
 
 Top reports from Localize program at HackerOne:
 
-1. [2-factor authentication can be disabled when logged in without confirming account password](https://hackerone.com/reports/783258) to Localize - 135 upvotes, $500
-2. [The password limit is not set, [DoS].](https://hackerone.com/reports/783356) to Localize - 10 upvotes, $50
-3. [CSRF in adding phrase.](https://hackerone.com/reports/7962) to Localize - 10 upvotes, $0
-4. [Stored XSS in Name of Team Member Invitation](https://hackerone.com/reports/786301) to Localize - 9 upvotes, $50
+1. [2-factor authentication can be disabled when logged in without confirming account password](https://hackerone.com/reports/783258) to Localize - 136 upvotes, $500
+2. [Stored XSS in Name of Team Member Invitation](https://hackerone.com/reports/786301) to Localize - 10 upvotes, $50
+3. [The password limit is not set, [DoS].](https://hackerone.com/reports/783356) to Localize - 10 upvotes, $50
+4. [CSRF in adding phrase.](https://hackerone.com/reports/7962) to Localize - 10 upvotes, $0
 5. [Full Path Disclosure / Info Disclosure in Creating New Group](https://hackerone.com/reports/8090) to Localize - 9 upvotes, $0
 6. [Private Project Access Request Invitation Sent Via CSRF ](https://hackerone.com/reports/8226) to Localize - 6 upvotes, $0
 7. [XSS & HTML injection](https://hackerone.com/reports/7876) to Localize - 5 upvotes, $0
@@ -19,18 +19,18 @@ Top reports from Localize program at HackerOne:
 15. [HTML/Javascript possible in "Discussion" section of reviews](https://hackerone.com/reports/7897) to Localize - 3 upvotes, $0
 16. [Business logic Failure - Browser cache management and logout vulnerability.](https://hackerone.com/reports/7909) to Localize - 3 upvotes, $0
 17. [Path Disclosure (Info Disclosure) in  http://www.localize.io](https://hackerone.com/reports/7903) to Localize - 2 upvotes, $0
-18. [Criptographic Issue: Strisct Transport Security with not good max age..(TOO SHORT!)](https://hackerone.com/reports/9008) to Localize - 2 upvotes, $0
-19. [Full Path Disclosure (FPD) in www.localize.im](https://hackerone.com/reports/9256) to Localize - 2 upvotes, $0
-20. [Atttacker can send "Invitation Request" to a Project that is not even created yet!](https://hackerone.com/reports/9088) to Localize - 2 upvotes, $0
-21. [XSS in Localize.io](https://hackerone.com/reports/7890) to Localize - 1 upvotes, $0
-22. [User credentials are sent in clear text](https://hackerone.com/reports/7950) to Localize - 1 upvotes, $0
-23. [HTML Form Without CSRF protection](https://hackerone.com/reports/7863) to Localize - 1 upvotes, $0
-24. [Full path disclosure](https://hackerone.com/reports/7894) to Localize - 1 upvotes, $0
-25. [No Cross-Site Request Forgery protection at multiple locations](https://hackerone.com/reports/7916) to Localize - 1 upvotes, $0
-26. [Unexpected array leaks information about the system](https://hackerone.com/reports/7888) to Localize - 1 upvotes, $0
-27. [Information Disclosure (Directory Structure)](https://hackerone.com/reports/7930) to Localize - 1 upvotes, $0
-28. [Uninitialized variable error message leaks information ](https://hackerone.com/reports/7915) to Localize - 1 upvotes, $0
-29. [Apache Documentation](https://hackerone.com/reports/8055) to Localize - 1 upvotes, $0
+18. [Apache Documentation](https://hackerone.com/reports/8055) to Localize - 2 upvotes, $0
+19. [Criptographic Issue: Strisct Transport Security with not good max age..(TOO SHORT!)](https://hackerone.com/reports/9008) to Localize - 2 upvotes, $0
+20. [Full Path Disclosure (FPD) in www.localize.im](https://hackerone.com/reports/9256) to Localize - 2 upvotes, $0
+21. [Atttacker can send "Invitation Request" to a Project that is not even created yet!](https://hackerone.com/reports/9088) to Localize - 2 upvotes, $0
+22. [XSS in Localize.io](https://hackerone.com/reports/7890) to Localize - 1 upvotes, $0
+23. [User credentials are sent in clear text](https://hackerone.com/reports/7950) to Localize - 1 upvotes, $0
+24. [HTML Form Without CSRF protection](https://hackerone.com/reports/7863) to Localize - 1 upvotes, $0
+25. [Full path disclosure](https://hackerone.com/reports/7894) to Localize - 1 upvotes, $0
+26. [No Cross-Site Request Forgery protection at multiple locations](https://hackerone.com/reports/7916) to Localize - 1 upvotes, $0
+27. [Unexpected array leaks information about the system](https://hackerone.com/reports/7888) to Localize - 1 upvotes, $0
+28. [Information Disclosure (Directory Structure)](https://hackerone.com/reports/7930) to Localize - 1 upvotes, $0
+29. [Uninitialized variable error message leaks information ](https://hackerone.com/reports/7915) to Localize - 1 upvotes, $0
 30. [Full Path Disclosure (FPD) in www.localize.io](https://hackerone.com/reports/8088) to Localize - 1 upvotes, $0
 31. [Full Path Disclosure / Info Disclosure in Importing XML Section!](https://hackerone.com/reports/8091) to Localize - 1 upvotes, $0
 32. [Full Path Disclosure (2)](https://hackerone.com/reports/8013) to Localize - 1 upvotes, $0

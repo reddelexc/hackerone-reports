@@ -5,8 +5,8 @@ Top reports from PHP (IBB) program at HackerOne:
 1. [In correct casting from size_t to int lead to heap overflow in mcrypt_generic](https://hackerone.com/reports/152398) to PHP (IBB) - 80 upvotes, $1000
 2. [Type Confusion Vulnerability - SOAP / make_http_soap_request()](https://hackerone.com/reports/116773) to PHP (IBB) - 64 upvotes, $1000
 3. [GMP Deserialization Type Confusion Vulnerability [MyBB \<= 1.8.3 RCE Vulnerability]](https://hackerone.com/reports/198734) to PHP (IBB) - 62 upvotes, $1500
-4. [Heap overflow in mysqlnd related to BIT fields (CVE-2016-7412)](https://hackerone.com/reports/176279) to PHP (IBB) - 50 upvotes, $1000
-5. [Inappropriate URL parsing may cause security risk!](https://hackerone.com/reports/305974) to PHP (IBB) - 49 upvotes, $1000
+4. [Inappropriate URL parsing may cause security risk!](https://hackerone.com/reports/305974) to PHP (IBB) - 50 upvotes, $1000
+5. [Heap overflow in mysqlnd related to BIT fields (CVE-2016-7412)](https://hackerone.com/reports/176279) to PHP (IBB) - 50 upvotes, $1000
 6. [Int Overflow lead to Heap OverFlow in exif_thumbnail_extract of exif.c](https://hackerone.com/reports/384477) to PHP (IBB) - 42 upvotes, $500
 7. [PHP mbstring / Oniguruma multiple remote heap/stack corruptions](https://hackerone.com/reports/237915) to PHP (IBB) - 35 upvotes, $1500
 8. [select_colors write out-of-bounds](https://hackerone.com/reports/161189) to PHP (IBB) - 23 upvotes, $1000
@@ -23,15 +23,15 @@ Top reports from PHP (IBB) program at HackerOne:
 19. [Heap Buffer Overflow (READ: 1786) in exif_iif_add_value](https://hackerone.com/reports/344035) to PHP (IBB) - 11 upvotes, $500
 20. [Heap Use After Free Read in unserialize()](https://hackerone.com/reports/261335) to PHP (IBB) - 11 upvotes, $500
 21. [Improper handling of Chunked data request in sapi_apache2.c leads to Reflected XSS](https://hackerone.com/reports/409986) to PHP (IBB) - 10 upvotes, $500
-22. [Use After Free Vulnerability in SNMP with GC and unserialize()](https://hackerone.com/reports/152266) to PHP (IBB) - 7 upvotes, $1000
-23. [Heap Use After Free in unserialize()](https://hackerone.com/reports/261338) to PHP (IBB) - 7 upvotes, $500
-24. [Out of Bounds Memory Read in unserialize()](https://hackerone.com/reports/261336) to PHP (IBB) - 7 upvotes, $500
-25. [	Out-of-Bound Read in phar_parse_zipfile()](https://hackerone.com/reports/114172) to PHP (IBB) - 7 upvotes, $500
-26. [Illegal write/read access caused by gdImageAALine overflow](https://hackerone.com/reports/182420) to PHP (IBB) - 7 upvotes, $500
-27. [memory corruption in wordwrap function](https://hackerone.com/reports/167910) to PHP (IBB) - 7 upvotes, $500
-28. [integer overflow in imap_binary caused heap corruption](https://hackerone.com/reports/167906) to PHP (IBB) - 7 upvotes, $500
-29. [heap overflow in substr_replace](https://hackerone.com/reports/167904) to PHP (IBB) - 7 upvotes, $500
-30. [PHP openssl_x509_parse() Memory Corruption Vulnerability](https://hackerone.com/reports/523) to PHP (IBB) - 6 upvotes, $4000
+22. [PHP openssl_x509_parse() Memory Corruption Vulnerability](https://hackerone.com/reports/523) to PHP (IBB) - 7 upvotes, $4000
+23. [Use After Free Vulnerability in SNMP with GC and unserialize()](https://hackerone.com/reports/152266) to PHP (IBB) - 7 upvotes, $1000
+24. [Heap Use After Free in unserialize()](https://hackerone.com/reports/261338) to PHP (IBB) - 7 upvotes, $500
+25. [Out of Bounds Memory Read in unserialize()](https://hackerone.com/reports/261336) to PHP (IBB) - 7 upvotes, $500
+26. [	Out-of-Bound Read in phar_parse_zipfile()](https://hackerone.com/reports/114172) to PHP (IBB) - 7 upvotes, $500
+27. [Illegal write/read access caused by gdImageAALine overflow](https://hackerone.com/reports/182420) to PHP (IBB) - 7 upvotes, $500
+28. [memory corruption in wordwrap function](https://hackerone.com/reports/167910) to PHP (IBB) - 7 upvotes, $500
+29. [integer overflow in imap_binary caused heap corruption](https://hackerone.com/reports/167906) to PHP (IBB) - 7 upvotes, $500
+30. [heap overflow in substr_replace](https://hackerone.com/reports/167904) to PHP (IBB) - 7 upvotes, $500
 31. [Out of bound read in exif_process_IFD_in_MAKERNOTE](https://hackerone.com/reports/152231) to PHP (IBB) - 6 upvotes, $1000
 32. [Out of bounds memory read in unserialize()](https://hackerone.com/reports/200909) to PHP (IBB) - 6 upvotes, $500
 33. [linkinfo - openbasedir bypass on Windows PHP](https://hackerone.com/reports/384719) to PHP (IBB) - 6 upvotes, $500

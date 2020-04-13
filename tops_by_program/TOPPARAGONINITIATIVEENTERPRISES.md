@@ -27,15 +27,15 @@ Top reports from Paragon Initiative Enterprises program at HackerOne:
 23. [Open-redirect on paragonie.com](https://hackerone.com/reports/113112) to Paragon Initiative Enterprises - 3 upvotes, $50
 24. [CSRF token does not valided during blog comment](https://hackerone.com/reports/273998) to Paragon Initiative Enterprises - 3 upvotes, $25
 25. [CSRF  AT SUBSCRIBE TO LIST ](https://hackerone.com/reports/115323) to Paragon Initiative Enterprises - 3 upvotes, $0
-26. [User enumeration  via Password reset page [Minor]](https://hackerone.com/reports/148911) to Paragon Initiative Enterprises - 3 upvotes, $0
-27. [Email Spoofing With Your Website's Email](https://hackerone.com/reports/163156) to Paragon Initiative Enterprises - 3 upvotes, $0
-28. [Broken Authentication & Session Management - Failure to Invalidate Session on all other browsers at Password change](https://hackerone.com/reports/226712) to Paragon Initiative Enterprises - 3 upvotes, $0
-29. [SMTP server allows anonymous relay from internal addresses to internal addresses](https://hackerone.com/reports/144385) to Paragon Initiative Enterprises - 3 upvotes, $0
-30. [Github repo's wiki publicly editable](https://hackerone.com/reports/461429) to Paragon Initiative Enterprises - 3 upvotes, $0
-31. [Missing rel=noopener noreferrer in target=_blank links (Phishing attack)](https://hackerone.com/reports/181225) to Paragon Initiative Enterprises - 2 upvotes, $50
-32. [Information Disclosure in Error Page](https://hackerone.com/reports/115219) to Paragon Initiative Enterprises - 2 upvotes, $0
-33. [Email Spoof](https://hackerone.com/reports/115452) to Paragon Initiative Enterprises - 2 upvotes, $0
-34. [Spf ](https://hackerone.com/reports/116927) to Paragon Initiative Enterprises - 2 upvotes, $0
+26. [Email Spoof](https://hackerone.com/reports/115452) to Paragon Initiative Enterprises - 3 upvotes, $0
+27. [Spf ](https://hackerone.com/reports/116927) to Paragon Initiative Enterprises - 3 upvotes, $0
+28. [User enumeration  via Password reset page [Minor]](https://hackerone.com/reports/148911) to Paragon Initiative Enterprises - 3 upvotes, $0
+29. [Email Spoofing With Your Website's Email](https://hackerone.com/reports/163156) to Paragon Initiative Enterprises - 3 upvotes, $0
+30. [Broken Authentication & Session Management - Failure to Invalidate Session on all other browsers at Password change](https://hackerone.com/reports/226712) to Paragon Initiative Enterprises - 3 upvotes, $0
+31. [SMTP server allows anonymous relay from internal addresses to internal addresses](https://hackerone.com/reports/144385) to Paragon Initiative Enterprises - 3 upvotes, $0
+32. [Github repo's wiki publicly editable](https://hackerone.com/reports/461429) to Paragon Initiative Enterprises - 3 upvotes, $0
+33. [Missing rel=noopener noreferrer in target=_blank links (Phishing attack)](https://hackerone.com/reports/181225) to Paragon Initiative Enterprises - 2 upvotes, $50
+34. [Information Disclosure in Error Page](https://hackerone.com/reports/115219) to Paragon Initiative Enterprises - 2 upvotes, $0
 35. [Missing SPF](https://hackerone.com/reports/115294) to Paragon Initiative Enterprises - 2 upvotes, $0
 36. [Email spoofing in security@paragonie.com](https://hackerone.com/reports/148763) to Paragon Initiative Enterprises - 2 upvotes, $0
 37. [Nginx Version Disclosure On Forbidden Page](https://hackerone.com/reports/148768) to Paragon Initiative Enterprises - 2 upvotes, $0
