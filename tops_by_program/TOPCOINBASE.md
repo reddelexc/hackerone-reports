@@ -3,7 +3,7 @@
 Top reports from Coinbase program at HackerOne:
 
 1. [Ethereum account balance manipulation](https://hackerone.com/reports/300748) to Coinbase - 231 upvotes, $10000
-2. [Double Payout via PayPal](https://hackerone.com/reports/307239) to Coinbase - 200 upvotes, $10000
+2. [Double Payout via PayPal](https://hackerone.com/reports/307239) to Coinbase - 203 upvotes, $10000
 3. [ETH contract handling errors](https://hackerone.com/reports/328526) to Coinbase - 190 upvotes, $21000
 4. [Authentication Issue](https://hackerone.com/reports/176979) to Coinbase - 21 upvotes, $200
 5. [[buy.coinbase.com]Content Injection](https://hackerone.com/reports/218680) to Coinbase - 18 upvotes, $100
@@ -24,9 +24,9 @@ Top reports from Coinbase program at HackerOne:
 20. [Information disclosure of user by email using buy widget](https://hackerone.com/reports/176002) to Coinbase - 6 upvotes, $100
 21. [Information leakage on https://docs.gdax.com](https://hackerone.com/reports/168509) to Coinbase - 6 upvotes, $100
 22. [Content Injection error page](https://hackerone.com/reports/148952) to Coinbase - 6 upvotes, $0
-23. [Create Multiple Account Using Similar X-CSRF token](https://hackerone.com/reports/155726) to Coinbase - 5 upvotes, $0
-24. [coinbase Email leak while sending and requesting](https://hackerone.com/reports/168289) to Coinbase - 5 upvotes, $0
-25. [OAuth authorization page vulnerable to clickjacking](https://hackerone.com/reports/65825) to Coinbase - 4 upvotes, $5000
+23. [OAuth authorization page vulnerable to clickjacking](https://hackerone.com/reports/65825) to Coinbase - 5 upvotes, $5000
+24. [Create Multiple Account Using Similar X-CSRF token](https://hackerone.com/reports/155726) to Coinbase - 5 upvotes, $0
+25. [coinbase Email leak while sending and requesting](https://hackerone.com/reports/168289) to Coinbase - 5 upvotes, $0
 26. [window.opener is leaking to external domains upon redirect on Safari](https://hackerone.com/reports/160498) to Coinbase - 4 upvotes, $300
 27. [No authorization required in iOS device web-application](https://hackerone.com/reports/148538) to Coinbase - 4 upvotes, $0
 28. [Transactions visible on Unconfirmed devices](https://hackerone.com/reports/100186) to Coinbase - 3 upvotes, $500

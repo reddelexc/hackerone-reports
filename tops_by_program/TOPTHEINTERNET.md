@@ -3,7 +3,7 @@
 Top reports from The Internet program at HackerOne:
 
 1. [Key Reinstallation Attacks: Breaking WPA2 by forcing nonce reuse](https://hackerone.com/reports/286740) to The Internet - 185 upvotes, $25000
-2. [Ubuntu Linux privilege escalation (dirty_sock)](https://hackerone.com/reports/496285) to The Internet - 97 upvotes, $1000
+2. [Ubuntu Linux privilege escalation (dirty_sock)](https://hackerone.com/reports/496285) to The Internet - 98 upvotes, $1000
 3. [RCE via ssh:// URIs in multiple VCS ](https://hackerone.com/reports/260005) to The Internet - 38 upvotes, $3000
 4. [ACME TLS-SNI-01/02 challenge vulnerable when combined with shared hosting providers](https://hackerone.com/reports/304378) to The Internet - 34 upvotes, $0
 5. [Race Conditions in OAuth 2 API implementations](https://hackerone.com/reports/55140) to The Internet - 30 upvotes, $2500
@@ -16,18 +16,18 @@ Top reports from The Internet program at HackerOne:
 12. [GNU Bourne-Again Shell (Bash) 'Shellshock' Vulnerability](https://hackerone.com/reports/29839) to The Internet - 11 upvotes, $20000
 13. [Exim off-by-one RCE vulnerability](https://hackerone.com/reports/322935) to The Internet - 11 upvotes, $1500
 14. [Cross-site information assertion leak via Content Security Policy](https://hackerone.com/reports/16910) to The Internet - 11 upvotes, $0
-15. [Linux kernel: CVE-2017-7308: a signedness issue in AF_PACKET sockets](https://hackerone.com/reports/684567) to The Internet - 10 upvotes, $0
-16. [Multiple HTTP Smuggling reports](https://hackerone.com/reports/648434) to The Internet - 10 upvotes, $0
+15. [Multiple HTTP Smuggling reports](https://hackerone.com/reports/648434) to The Internet - 11 upvotes, $0
+16. [Linux kernel: CVE-2017-7308: a signedness issue in AF_PACKET sockets](https://hackerone.com/reports/684567) to The Internet - 10 upvotes, $0
 17. [Critical vulnerability in JSON Web Encryption (JWE) - RFC 7516 Invalid Curve attack](https://hackerone.com/reports/213437) to The Internet - 9 upvotes, $1000
 18. [Linux kernel: CVE-2017-1000112: a memory corruption due to UFO to non-UFO path switch](https://hackerone.com/reports/684573) to The Internet - 9 upvotes, $0
 19. [rpcbind "rpcbomb" CVE-2017-8779, CVE-2017-8804](https://hackerone.com/reports/235016) to The Internet - 9 upvotes, $0
-20. [Mercurial git subrepo lead to arbritary command injection](https://hackerone.com/reports/294147) to The Internet - 8 upvotes, $1500
-21. [Linux kernel: CVE-2017-6074: DCCP double-free vulnerability](https://hackerone.com/reports/347282) to The Internet - 8 upvotes, $1000
-22. [Industry-Wide MITM Vulnerability Impacting the JVM Ecosystem](https://hackerone.com/reports/608620) to The Internet - 8 upvotes, $0
-23. [Drupal 7 pre auth sql injection and remote code execution](https://hackerone.com/reports/31756) to The Internet - 7 upvotes, $3000
-24. [ntpd: read_mru_list() does inadequate incoming packet checks](https://hackerone.com/reports/147310) to The Internet - 7 upvotes, $500
-25. [[bower] Arbitrary File Write through improper validation of symlinks while package extraction](https://hackerone.com/reports/492512) to The Internet - 7 upvotes, $500
-26. [TLS Triple Handshake Attack](https://hackerone.com/reports/7277) to The Internet - 6 upvotes, $7500
+20. [Drupal 7 pre auth sql injection and remote code execution](https://hackerone.com/reports/31756) to The Internet - 8 upvotes, $3000
+21. [Mercurial git subrepo lead to arbritary command injection](https://hackerone.com/reports/294147) to The Internet - 8 upvotes, $1500
+22. [Linux kernel: CVE-2017-6074: DCCP double-free vulnerability](https://hackerone.com/reports/347282) to The Internet - 8 upvotes, $1000
+23. [Industry-Wide MITM Vulnerability Impacting the JVM Ecosystem](https://hackerone.com/reports/608620) to The Internet - 8 upvotes, $0
+24. [TLS Triple Handshake Attack](https://hackerone.com/reports/7277) to The Internet - 7 upvotes, $7500
+25. [ntpd: read_mru_list() does inadequate incoming packet checks](https://hackerone.com/reports/147310) to The Internet - 7 upvotes, $500
+26. [[bower] Arbitrary File Write through improper validation of symlinks while package extraction](https://hackerone.com/reports/492512) to The Internet - 7 upvotes, $500
 27. [RCE on default Ubuntu Desktop \>= 12.10 Quantal](https://hackerone.com/reports/192512) to The Internet - 6 upvotes, $0
 28. [libtiff 4.0.6 segfault / read outside of buffer (CVE-2016-9297)](https://hackerone.com/reports/182140) to The Internet - 5 upvotes, $500
 29. [libtiff 4.0.6 heap bufer overflow / out of bounds read (CVE-2016-9273)](https://hackerone.com/reports/181642) to The Internet - 5 upvotes, $500
@@ -44,15 +44,15 @@ Top reports from The Internet program at HackerOne:
 40. [pngcrush double-free/segfault could result in DoS (CVE-2015-7700)](https://hackerone.com/reports/93546) to The Internet - 3 upvotes, $0
 41. [CVE-2017-5969: libxml2 when used in recover mode, allows remote attackers to cause a denial of service (NULL pointer dereference)](https://hackerone.com/reports/262665) to The Internet - 3 upvotes, $0
 42. [CVE-2017-10965: Null pointer dereference in Irssi \<1.0.4 ](https://hackerone.com/reports/247027) to The Internet - 3 upvotes, $0
-43. [Exim handles BDAT data incorrectly and leads to crash/hang](https://hackerone.com/reports/296994) to The Internet - 3 upvotes, $0
-44. [Incorrect logic in MySQL & MariaDB protocol leads to remote SSRF/Remote file read](https://hackerone.com/reports/156511) to The Internet - 3 upvotes, $0
-45. [FREAK: Factoring RSA_EXPORT Keys to Impersonate TLS Servers](https://hackerone.com/reports/50170) to The Internet - 2 upvotes, $7500
-46. [open redirect in rfc6749](https://hackerone.com/reports/26962) to The Internet - 2 upvotes, $3000
-47. [OpenSSH / dropbearSSHd xauth command injection](https://hackerone.com/reports/122113) to The Internet - 2 upvotes, $1500
-48. [Silent omission of certificate hostname verification in LibreSSL and BoringSSL](https://hackerone.com/reports/329645) to The Internet - 2 upvotes, $0
-49. [pngcrush_measure_idat() off-by-one error (CVE-2015-2158)](https://hackerone.com/reports/73429) to The Internet - 2 upvotes, $0
-50. [Multiple issues in Libxml2 (2.9.2 - 2.9.5)](https://hackerone.com/reports/293126) to The Internet - 2 upvotes, $0
-51. [GarlicRust - heartbleed style vulnerability in major I2P C++ router implementations](https://hackerone.com/reports/295740) to The Internet - 2 upvotes, $0
+43. [GarlicRust - heartbleed style vulnerability in major I2P C++ router implementations](https://hackerone.com/reports/295740) to The Internet - 3 upvotes, $0
+44. [Exim handles BDAT data incorrectly and leads to crash/hang](https://hackerone.com/reports/296994) to The Internet - 3 upvotes, $0
+45. [Incorrect logic in MySQL & MariaDB protocol leads to remote SSRF/Remote file read](https://hackerone.com/reports/156511) to The Internet - 3 upvotes, $0
+46. [FREAK: Factoring RSA_EXPORT Keys to Impersonate TLS Servers](https://hackerone.com/reports/50170) to The Internet - 2 upvotes, $7500
+47. [open redirect in rfc6749](https://hackerone.com/reports/26962) to The Internet - 2 upvotes, $3000
+48. [OpenSSH / dropbearSSHd xauth command injection](https://hackerone.com/reports/122113) to The Internet - 2 upvotes, $1500
+49. [Silent omission of certificate hostname verification in LibreSSL and BoringSSL](https://hackerone.com/reports/329645) to The Internet - 2 upvotes, $0
+50. [pngcrush_measure_idat() off-by-one error (CVE-2015-2158)](https://hackerone.com/reports/73429) to The Internet - 2 upvotes, $0
+51. [Multiple issues in Libxml2 (2.9.2 - 2.9.5)](https://hackerone.com/reports/293126) to The Internet - 2 upvotes, $0
 52. [CVE-2017-8798 - miniupnp getHTTPResponse chunked encoding integer signedness error](https://hackerone.com/reports/227344) to The Internet - 2 upvotes, $0
 53. [CVE-2016-4796 OpenJPEG color_cmyk_to_rgb Out-of-Bounds Read Vulnerability](https://hackerone.com/reports/167955) to The Internet - 2 upvotes, $0
 54. [CVE-2016-7163 OpenJPEG opj_pi_create_decode Integer Overflow Vulnerability](https://hackerone.com/reports/167512) to The Internet - 2 upvotes, $0

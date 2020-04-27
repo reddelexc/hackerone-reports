@@ -2,27 +2,27 @@
 
 Top reports from New Relic program at HackerOne:
 
-1. [Password theft login.newrelic.com via Request Smuggling](https://hackerone.com/reports/498052) to New Relic - 451 upvotes, $3000
+1. [Password theft login.newrelic.com via Request Smuggling](https://hackerone.com/reports/498052) to New Relic - 453 upvotes, $3000
 2. [Insecure Infrastructure Integrations YML Loading leads to Windows Privilege Escalation](https://hackerone.com/reports/363971) to New Relic - 61 upvotes, $2500
 3. [Host Header Injection](https://hackerone.com/reports/698416) to New Relic - 58 upvotes, $500
 4. [Stored XSS in Brower `name` field reflected in two pages](https://hackerone.com/reports/348076) to New Relic - 37 upvotes, $3000
 5. [[NR Insights] Pull any Insights/NRQL data from any NR account](https://hackerone.com/reports/397137) to New Relic - 34 upvotes, $2500
 6. [Bypass of my three other reports #267636 + #255894 + #271861 - (IDOR) Ability to see full name associated with other New Relic accounts](https://hackerone.com/reports/320173) to New Relic - 32 upvotes, $1500
-7. [SSRF in alerts.newrelic.com exposes entire internal network](https://hackerone.com/reports/198690) to New Relic - 30 upvotes, $0
+7. [SSRF in alerts.newrelic.com exposes entire internal network](https://hackerone.com/reports/198690) to New Relic - 31 upvotes, $0
 8. [The impossibility of inclusion of the trial (BROWSER)](https://hackerone.com/reports/460428) to New Relic - 26 upvotes, $200
 9. [Users can enable API access for free via mass assignment](https://hackerone.com/reports/267781) to New Relic - 25 upvotes, $0
 10. [Cache-Control Misconfiguration Leads to Sensitive Information Leakage](https://hackerone.com/reports/132835) to New Relic - 22 upvotes, $0
 11. [Open redirection ](https://hackerone.com/reports/207285) to New Relic - 17 upvotes, $0
 12. [A user with restricted privileges is able to view Phone Number + Billing Email of account owner](https://hackerone.com/reports/197059) to New Relic - 16 upvotes, $0
-13. [User to Admin privilege escalation in Infrastructure Conditions - /v2/accounts/1835740/alerts/conditions](https://hackerone.com/reports/300879) to New Relic - 14 upvotes, $500
+13. [User to Admin privilege escalation in Infrastructure Conditions - /v2/accounts/1835740/alerts/conditions](https://hackerone.com/reports/300879) to New Relic - 15 upvotes, $500
 14. [Mobile Authentication Endpoint Credentials Brute-Force Vulnerability](https://hackerone.com/reports/127202) to New Relic - 14 upvotes, $0
 15. [NR Internal_API call allows me to read the events/violations/policies/messages of ANY New Relic account (AND pull data from infrastructure)](https://hackerone.com/reports/271393) to New Relic - 13 upvotes, $1000
 16. [Missing rate limit on password](https://hackerone.com/reports/138863) to New Relic - 13 upvotes, $0
 17. [Blind SSRF in Ticketing Integrations Jira webhooks leading to internal network enumeration and blind HTTP requests](https://hackerone.com/reports/344032) to New Relic - 13 upvotes, $0
 18. [Giving myself access to NR1 UI / one.newrelic.com without the proper feature flags on my account](https://hackerone.com/reports/520623) to New Relic - 12 upvotes, $500
-19. [APT repository is signed using weak digest (SHA-1)](https://hackerone.com/reports/129138) to New Relic - 12 upvotes, $0
-20. [Internal Ports Scanning via Blind SSRF](https://hackerone.com/reports/263169) to New Relic - 12 upvotes, $0
-21. [Blind SSRF on synthetics.newrelic.com](https://hackerone.com/reports/141304) to New Relic - 11 upvotes, $0
+19. [Blind SSRF on synthetics.newrelic.com](https://hackerone.com/reports/141304) to New Relic - 12 upvotes, $0
+20. [APT repository is signed using weak digest (SHA-1)](https://hackerone.com/reports/129138) to New Relic - 12 upvotes, $0
+21. [Internal Ports Scanning via Blind SSRF](https://hackerone.com/reports/263169) to New Relic - 12 upvotes, $0
 22. [SSO Authentication Bypass](https://hackerone.com/reports/168108) to New Relic - 11 upvotes, $0
 23. [CSRF- delete all empty server policy](https://hackerone.com/reports/123095) to New Relic - 11 upvotes, $0
 24. [[docs-ra.newrelic.com] subdomain and Drupal takeover via unconfigured endpoint](https://hackerone.com/reports/207381) to New Relic - 11 upvotes, $0

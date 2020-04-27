@@ -3,8 +3,8 @@
 Top reports from Localize program at HackerOne:
 
 1. [2-factor authentication can be disabled when logged in without confirming account password](https://hackerone.com/reports/783258) to Localize - 136 upvotes, $500
-2. [Stored XSS in Name of Team Member Invitation](https://hackerone.com/reports/786301) to Localize - 10 upvotes, $50
-3. [The password limit is not set, [DoS].](https://hackerone.com/reports/783356) to Localize - 10 upvotes, $50
+2. [The password limit is not set, [DoS].](https://hackerone.com/reports/783356) to Localize - 11 upvotes, $50
+3. [Stored XSS in Name of Team Member Invitation](https://hackerone.com/reports/786301) to Localize - 10 upvotes, $50
 4. [CSRF in adding phrase.](https://hackerone.com/reports/7962) to Localize - 10 upvotes, $0
 5. [Full Path Disclosure / Info Disclosure in Creating New Group](https://hackerone.com/reports/8090) to Localize - 9 upvotes, $0
 6. [Private Project Access Request Invitation Sent Via CSRF ](https://hackerone.com/reports/8226) to Localize - 6 upvotes, $0

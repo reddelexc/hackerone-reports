@@ -3,7 +3,7 @@
 Top reports from Open-Xchange program at HackerOne:
 
 1. [Arbitrary local system file read on open-xchange server ](https://hackerone.com/reports/303744) to Open-Xchange - 122 upvotes, $2000
-2. [Blind XXE via Powerpoint files](https://hackerone.com/reports/334488) to Open-Xchange - 75 upvotes, $2000
+2. [Blind XXE via Powerpoint files](https://hackerone.com/reports/334488) to Open-Xchange - 77 upvotes, $2000
 3. [SSRF in VCARD photo upload functionality](https://hackerone.com/reports/296045) to Open-Xchange - 49 upvotes, $850
 4. [OX (Guard): Stored Cross-Site Scripting via Incoming Email](https://hackerone.com/reports/156258) to Open-Xchange - 48 upvotes, $1000
 5. [CSRF combined with IDOR within Document Converter exposes files](https://hackerone.com/reports/398316) to Open-Xchange - 47 upvotes, $500
@@ -16,7 +16,7 @@ Top reports from Open-Xchange program at HackerOne:
 12. [SSRF - RSS feed, blacklist bypass (301 re-direct)](https://hackerone.com/reports/299135) to Open-Xchange - 33 upvotes, $850
 13. [SSRF - RSS feed, blacklist bypass (IP Formatting)](https://hackerone.com/reports/299130) to Open-Xchange - 32 upvotes, $850
 14. [Stored XSS ](https://hackerone.com/reports/299806) to Open-Xchange - 32 upvotes, $500
-15. [Another window.opener issue](https://hackerone.com/reports/537840) to Open-Xchange - 30 upvotes, $900
+15. [Another window.opener issue](https://hackerone.com/reports/537840) to Open-Xchange - 31 upvotes, $900
 16. [Tab nabbing via window.opener](https://hackerone.com/reports/179568) to Open-Xchange - 28 upvotes, $666
 17. [Set Cookie Via SVG](https://hackerone.com/reports/195045) to Open-Xchange - 28 upvotes, $250
 18. [Two heap use-after-free errors in IMAP operations](https://hackerone.com/reports/546644) to Open-Xchange - 26 upvotes, $1200
@@ -51,10 +51,10 @@ Top reports from Open-Xchange program at HackerOne:
 47. [Incomplete HTML sanitization + Session id leaking + private information disclosure](https://hackerone.com/reports/200487) to Open-Xchange - 8 upvotes, $200
 48. [Selecting encryption for email with drive attachment overrides the drive email password](https://hackerone.com/reports/180037) to Open-Xchange - 8 upvotes, $100
 49. [Stored XSS in Email attachment file name](https://hackerone.com/reports/388506) to Open-Xchange - 7 upvotes, $500
-50. [Stored-XSS with user interaction on [sandbox.open-xchange.com] via inserted link in mail](https://hackerone.com/reports/325510) to Open-Xchange - 6 upvotes, $500
-51. [Adding external participants to unaccessible appointments](https://hackerone.com/reports/294232) to Open-Xchange - 6 upvotes, $300
-52. [Buffer overflow in sha3](https://hackerone.com/reports/356763) to Open-Xchange - 6 upvotes, $0
-53. [[XSS] Style/Event Filter Bypass v4.0](https://hackerone.com/reports/342610) to Open-Xchange - 5 upvotes, $500
+50. [[XSS] Style/Event Filter Bypass v4.0](https://hackerone.com/reports/342610) to Open-Xchange - 6 upvotes, $500
+51. [Stored-XSS with user interaction on [sandbox.open-xchange.com] via inserted link in mail](https://hackerone.com/reports/325510) to Open-Xchange - 6 upvotes, $500
+52. [Adding external participants to unaccessible appointments](https://hackerone.com/reports/294232) to Open-Xchange - 6 upvotes, $300
+53. [Buffer overflow in sha3](https://hackerone.com/reports/356763) to Open-Xchange - 6 upvotes, $0
 54. [nginx server vulnerable](https://hackerone.com/reports/137230) to Open-Xchange - 5 upvotes, $0
 55. [Information About Your System(Sensitive Directories)](https://hackerone.com/reports/200572) to Open-Xchange - 5 upvotes, $0
 56. [[XSS] Mail \<style\> v2.0](https://hackerone.com/reports/299466) to Open-Xchange - 4 upvotes, $500

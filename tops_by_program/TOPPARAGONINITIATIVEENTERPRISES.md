@@ -2,7 +2,7 @@
 
 Top reports from Paragon Initiative Enterprises program at HackerOne:
 
-1. [BAD Code ! ](https://hackerone.com/reports/180074) to Paragon Initiative Enterprises - 452 upvotes, $0
+1. [BAD Code ! ](https://hackerone.com/reports/180074) to Paragon Initiative Enterprises - 453 upvotes, $0
 2. [DMARC  Not found for paragonie.com   URGENT](https://hackerone.com/reports/179828) to Paragon Initiative Enterprises - 128 upvotes, $0
 3. [Subdomain Takeover](https://hackerone.com/reports/180393) to Paragon Initiative Enterprises - 49 upvotes, $0
 4. [I am because bug](https://hackerone.com/reports/226094) to Paragon Initiative Enterprises - 37 upvotes, $0
@@ -23,11 +23,11 @@ Top reports from Paragon Initiative Enterprises program at HackerOne:
 19. [Incomplete fix for #181225 (target=_blank vulnerability)](https://hackerone.com/reports/226104) to Paragon Initiative Enterprises - 5 upvotes, $0
 20. [Cross-site-Scripting](https://hackerone.com/reports/226203) to Paragon Initiative Enterprises - 4 upvotes, $50
 21. [Invited user to a Author profile can remove the owner of that Author](https://hackerone.com/reports/274541) to Paragon Initiative Enterprises - 4 upvotes, $50
-22. [Airship: Persistent XSS via Comment](https://hackerone.com/reports/301973) to Paragon Initiative Enterprises - 4 upvotes, $0
-23. [Open-redirect on paragonie.com](https://hackerone.com/reports/113112) to Paragon Initiative Enterprises - 3 upvotes, $50
-24. [CSRF token does not valided during blog comment](https://hackerone.com/reports/273998) to Paragon Initiative Enterprises - 3 upvotes, $25
-25. [CSRF  AT SUBSCRIBE TO LIST ](https://hackerone.com/reports/115323) to Paragon Initiative Enterprises - 3 upvotes, $0
-26. [Email Spoof](https://hackerone.com/reports/115452) to Paragon Initiative Enterprises - 3 upvotes, $0
+22. [Email Spoof](https://hackerone.com/reports/115452) to Paragon Initiative Enterprises - 4 upvotes, $0
+23. [Airship: Persistent XSS via Comment](https://hackerone.com/reports/301973) to Paragon Initiative Enterprises - 4 upvotes, $0
+24. [Open-redirect on paragonie.com](https://hackerone.com/reports/113112) to Paragon Initiative Enterprises - 3 upvotes, $50
+25. [CSRF token does not valided during blog comment](https://hackerone.com/reports/273998) to Paragon Initiative Enterprises - 3 upvotes, $25
+26. [CSRF  AT SUBSCRIBE TO LIST ](https://hackerone.com/reports/115323) to Paragon Initiative Enterprises - 3 upvotes, $0
 27. [Spf ](https://hackerone.com/reports/116927) to Paragon Initiative Enterprises - 3 upvotes, $0
 28. [User enumeration  via Password reset page [Minor]](https://hackerone.com/reports/148911) to Paragon Initiative Enterprises - 3 upvotes, $0
 29. [Email Spoofing With Your Website's Email](https://hackerone.com/reports/163156) to Paragon Initiative Enterprises - 3 upvotes, $0

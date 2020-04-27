@@ -27,17 +27,17 @@ Top reports from Weblate program at HackerOne:
 23. [No Rate Limitting at Change Password](https://hackerone.com/reports/223694) to Weblate - 6 upvotes, $0
 24. [Logout CSRF](https://hackerone.com/reports/223329) to Weblate - 6 upvotes, $0
 25. [CSV export filter bypass leads to formula injection.](https://hackerone.com/reports/223999) to Weblate - 6 upvotes, $0
-26. [CSRF : Reset API ](https://hackerone.com/reports/223333) to Weblate - 6 upvotes, $0
-27. [You can simply just use passwords that simply are as 123456](https://hackerone.com/reports/223374) to Weblate - 6 upvotes, $0
-28. [Information Disclosure on demo.weblate.org](https://hackerone.com/reports/229620) to Weblate - 6 upvotes, $0
-29. [Captcha Bypass at Email Reset can lead to Spamming users.](https://hackerone.com/reports/229541) to Weblate - 6 upvotes, $0
-30. [Old password can be new password](https://hackerone.com/reports/229577) to Weblate - 6 upvotes, $0
-31. [Password token validation in Weblate Bypass #2](https://hackerone.com/reports/244287) to Weblate - 6 upvotes, $0
-32. [Browser Self XSS Protection not implemented](https://hackerone.com/reports/400781) to Weblate - 6 upvotes, $0
-33. [2nd issue\>\>\> flood of email  no rate limit on delete account confirmation email \>\> ](https://hackerone.com/reports/404713) to Weblate - 6 upvotes, $0
-34. [Stored XSS @ /engage/\<project_slug\>](https://hackerone.com/reports/472391) to Weblate - 6 upvotes, $0
-35. [[hosted.weblate.org]Account Takeover](https://hackerone.com/reports/223637) to Weblate - 5 upvotes, $0
-36. [Rate Limit Bypass on login Page](https://hackerone.com/reports/224460) to Weblate - 5 upvotes, $0
+26. [Rate Limit Bypass on login Page](https://hackerone.com/reports/224460) to Weblate - 6 upvotes, $0
+27. [CSRF : Reset API ](https://hackerone.com/reports/223333) to Weblate - 6 upvotes, $0
+28. [You can simply just use passwords that simply are as 123456](https://hackerone.com/reports/223374) to Weblate - 6 upvotes, $0
+29. [Information Disclosure on demo.weblate.org](https://hackerone.com/reports/229620) to Weblate - 6 upvotes, $0
+30. [Captcha Bypass at Email Reset can lead to Spamming users.](https://hackerone.com/reports/229541) to Weblate - 6 upvotes, $0
+31. [Old password can be new password](https://hackerone.com/reports/229577) to Weblate - 6 upvotes, $0
+32. [Password token validation in Weblate Bypass #2](https://hackerone.com/reports/244287) to Weblate - 6 upvotes, $0
+33. [Browser Self XSS Protection not implemented](https://hackerone.com/reports/400781) to Weblate - 6 upvotes, $0
+34. [2nd issue\>\>\> flood of email  no rate limit on delete account confirmation email \>\> ](https://hackerone.com/reports/404713) to Weblate - 6 upvotes, $0
+35. [Stored XSS @ /engage/\<project_slug\>](https://hackerone.com/reports/472391) to Weblate - 6 upvotes, $0
+36. [[hosted.weblate.org]Account Takeover](https://hackerone.com/reports/223637) to Weblate - 5 upvotes, $0
 37. [Option method enabled](https://hackerone.com/reports/230194) to Weblate - 5 upvotes, $0
 38. [Self-XSS can be achieved in the editor link using filter bypass](https://hackerone.com/reports/229735) to Weblate - 5 upvotes, $0
 39. [Missing restriction on string size](https://hackerone.com/reports/229796) to Weblate - 5 upvotes, $0
