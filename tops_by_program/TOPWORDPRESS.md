@@ -2,7 +2,7 @@
 
 Top reports from WordPress program at HackerOne:
 
-1. [Stored XSS Vulnerability](https://hackerone.com/reports/643908) to WordPress - 349 upvotes, $500
+1. [Stored XSS Vulnerability](https://hackerone.com/reports/643908) to WordPress - 351 upvotes, $500
 2. [Stored XSS in Private Message component (BuddyPress)](https://hackerone.com/reports/487081) to WordPress - 331 upvotes, $500
 3. [Stored XSS on byddypress Plug-in via groups name](https://hackerone.com/reports/592316) to WordPress - 126 upvotes, $450
 4. [Wordpress unzip_file path traversal](https://hackerone.com/reports/205481) to WordPress - 107 upvotes, $800
@@ -14,16 +14,16 @@ Top reports from WordPress program at HackerOne:
 10. [Multiple stored XSS in WordPress](https://hackerone.com/reports/221507) to WordPress - 35 upvotes, $1200
 11. ["Bad Protocols Validation" Bypass in "wp_kses_bad_protocol_once" using HTML-encoding without trailing semicolons](https://hackerone.com/reports/339483) to WordPress - 34 upvotes, $350
 12. [Logic flaw in the Post creation process allows creating posts with arbitrary types without needing the corresponding nonce](https://hackerone.com/reports/404323) to WordPress - 32 upvotes, $900
-13. [Add users to groups who have restricted group invites](https://hackerone.com/reports/538008) to WordPress - 28 upvotes, $275
-14. [[mercantile.wordpress.org] Reflected XSS via AngularJS Template Injection](https://hackerone.com/reports/230234) to WordPress - 27 upvotes, $300
+13. [[mercantile.wordpress.org] Reflected XSS via AngularJS Template Injection](https://hackerone.com/reports/230234) to WordPress - 28 upvotes, $300
+14. [Add users to groups who have restricted group invites](https://hackerone.com/reports/538008) to WordPress - 28 upvotes, $275
 15. [Information / sensitive data disclosure on some endpoints](https://hackerone.com/reports/273726) to WordPress - 27 upvotes, $0
 16. [Open API For Username enumeration](https://hackerone.com/reports/385322) to WordPress - 24 upvotes, $0
 17. [Wordpress 4.7.2 - Two XSS in Media Upload when file too large.](https://hackerone.com/reports/203515) to WordPress - 23 upvotes, $350
 18. [DOM Based XSS In mercantile.wordpress.org](https://hackerone.com/reports/230435) to WordPress - 21 upvotes, $275
 19. [[FG-VD-18-165] Wordpress Cross-Site Scripting Vulnerability Notification II](https://hackerone.com/reports/460911) to WordPress - 20 upvotes, $650
-20. [Content Spoofing @ https://irclogs.wordpress.org/](https://hackerone.com/reports/278151) to WordPress - 20 upvotes, $0
-21. [Wordpress 4.7 - CSRF -\> HTTP SSRF any private ip:port and basic-auth](https://hackerone.com/reports/187520) to WordPress - 19 upvotes, $750
-22. [Reflected Swf XSS In ( plugins.svn.wordpress.org )](https://hackerone.com/reports/270060) to WordPress - 19 upvotes, $350
+20. [Reflected Swf XSS In ( plugins.svn.wordpress.org )](https://hackerone.com/reports/270060) to WordPress - 20 upvotes, $350
+21. [Content Spoofing @ https://irclogs.wordpress.org/](https://hackerone.com/reports/278151) to WordPress - 20 upvotes, $0
+22. [Wordpress 4.7 - CSRF -\> HTTP SSRF any private ip:port and basic-auth](https://hackerone.com/reports/187520) to WordPress - 19 upvotes, $750
 23. [Infrastructure - Photon - SSRF](https://hackerone.com/reports/204513) to WordPress - 18 upvotes, $350
 24. [XSS in the search bar of mercantile.wordpress.org](https://hackerone.com/reports/221893) to WordPress - 18 upvotes, $275
 25. [WordPress DB Class, bad implementation of prepare method guides to sqli and information disclosure](https://hackerone.com/reports/179920) to WordPress - 17 upvotes, $0

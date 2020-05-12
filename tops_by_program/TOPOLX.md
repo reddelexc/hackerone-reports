@@ -53,11 +53,11 @@ Top reports from OLX program at HackerOne:
 49. [these are my old reports and still i have not receive any good replys, these all are Cross Site Scripting(XSS) issues: POC1: https://www.youtube.com/w](https://hackerone.com/reports/157889) to OLX - 4 upvotes, $0
 50. [full path disclosure vulnerability at https://security.olx.com/*](https://hackerone.com/reports/159481) to OLX - 4 upvotes, $0
 51. [XSS on Home page olx.com.ar via auto save search text](https://hackerone.com/reports/151691) to OLX - 4 upvotes, $0
-52. [Reflected XSS in OLX.in](https://hackerone.com/reports/175801) to OLX - 4 upvotes, $0
-53. [REFLECTED CROSS SITE SCRIPTING IN OLX](https://hackerone.com/reports/151305) to OLX - 4 upvotes, $0
-54. [Reflected XSS in olx.pt](https://hackerone.com/reports/206125) to OLX - 4 upvotes, $0
-55. [Bypassing Phone Verification For Posting AD On OLX](https://hackerone.com/reports/165854) to OLX - 3 upvotes, $0
-56. [Reflected XSS at m.olx.ph](https://hackerone.com/reports/175410) to OLX - 3 upvotes, $0
+52. [Reflected XSS at m.olx.ph](https://hackerone.com/reports/175410) to OLX - 4 upvotes, $0
+53. [Reflected XSS in OLX.in](https://hackerone.com/reports/175801) to OLX - 4 upvotes, $0
+54. [REFLECTED CROSS SITE SCRIPTING IN OLX](https://hackerone.com/reports/151305) to OLX - 4 upvotes, $0
+55. [Reflected XSS in olx.pt](https://hackerone.com/reports/206125) to OLX - 4 upvotes, $0
+56. [Bypassing Phone Verification For Posting AD On OLX](https://hackerone.com/reports/165854) to OLX - 3 upvotes, $0
 57. [cross-site scripting in get request](https://hackerone.com/reports/150944) to OLX - 3 upvotes, $0
 58. [ OLX is vulnerable to clickjaking](https://hackerone.com/reports/231713) to OLX - 3 upvotes, $0
 59. [xss yaman.olx.ph](https://hackerone.com/reports/151310) to OLX - 2 upvotes, $0

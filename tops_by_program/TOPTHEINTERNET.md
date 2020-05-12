@@ -2,7 +2,7 @@
 
 Top reports from The Internet program at HackerOne:
 
-1. [Key Reinstallation Attacks: Breaking WPA2 by forcing nonce reuse](https://hackerone.com/reports/286740) to The Internet - 185 upvotes, $25000
+1. [Key Reinstallation Attacks: Breaking WPA2 by forcing nonce reuse](https://hackerone.com/reports/286740) to The Internet - 186 upvotes, $25000
 2. [Ubuntu Linux privilege escalation (dirty_sock)](https://hackerone.com/reports/496285) to The Internet - 98 upvotes, $1000
 3. [RCE via ssh:// URIs in multiple VCS ](https://hackerone.com/reports/260005) to The Internet - 38 upvotes, $3000
 4. [ACME TLS-SNI-01/02 challenge vulnerable when combined with shared hosting providers](https://hackerone.com/reports/304378) to The Internet - 34 upvotes, $0
@@ -34,48 +34,49 @@ Top reports from The Internet program at HackerOne:
 30. [Unsecure: Bypass alerts of Little Flocker / Little Snitch / HandsOff! / BlockBlock (same concept can be applied to other security tools)](https://hackerone.com/reports/265232) to The Internet - 5 upvotes, $0
 31. [CVE-2017-10966: Heap-use-after-free in Irssi \<1.0.4](https://hackerone.com/reports/247028) to The Internet - 5 upvotes, $0
 32. [Exim use-after-free vulnerability while reading mail header involving BDAT commands](https://hackerone.com/reports/296991) to The Internet - 5 upvotes, $0
-33. [Bypassing Same Origin Policy With JSONP APIs and Flash](https://hackerone.com/reports/10373) to The Internet - 4 upvotes, $3000
-34. [OpenSSH: Memory corruption in AES-GCM support](https://hackerone.com/reports/500) to The Internet - 4 upvotes, $1500
-35. [Denial of service in libxml2, using malicious lzma file to consume available system memory](https://hackerone.com/reports/270059) to The Internet - 4 upvotes, $0
-36. [CVE-2017-11367: Global buffer overflow (READ of size 4) in shoco C library ](https://hackerone.com/reports/250581) to The Internet - 4 upvotes, $0
-37. [Two vulnerability in GNU binutils](https://hackerone.com/reports/323017) to The Internet - 4 upvotes, $0
-38. [Malicious Server can force read any file on clients system with default configuration in MySQL Clients](https://hackerone.com/reports/171593) to The Internet - 4 upvotes, $0
-39. [Mercurial can be tricked into granting authorized users access to the Python debugger](https://hackerone.com/reports/222020) to The Internet - 3 upvotes, $500
-40. [pngcrush double-free/segfault could result in DoS (CVE-2015-7700)](https://hackerone.com/reports/93546) to The Internet - 3 upvotes, $0
-41. [CVE-2017-5969: libxml2 when used in recover mode, allows remote attackers to cause a denial of service (NULL pointer dereference)](https://hackerone.com/reports/262665) to The Internet - 3 upvotes, $0
-42. [CVE-2017-10965: Null pointer dereference in Irssi \<1.0.4 ](https://hackerone.com/reports/247027) to The Internet - 3 upvotes, $0
-43. [GarlicRust - heartbleed style vulnerability in major I2P C++ router implementations](https://hackerone.com/reports/295740) to The Internet - 3 upvotes, $0
-44. [Exim handles BDAT data incorrectly and leads to crash/hang](https://hackerone.com/reports/296994) to The Internet - 3 upvotes, $0
-45. [Incorrect logic in MySQL & MariaDB protocol leads to remote SSRF/Remote file read](https://hackerone.com/reports/156511) to The Internet - 3 upvotes, $0
-46. [FREAK: Factoring RSA_EXPORT Keys to Impersonate TLS Servers](https://hackerone.com/reports/50170) to The Internet - 2 upvotes, $7500
-47. [open redirect in rfc6749](https://hackerone.com/reports/26962) to The Internet - 2 upvotes, $3000
-48. [OpenSSH / dropbearSSHd xauth command injection](https://hackerone.com/reports/122113) to The Internet - 2 upvotes, $1500
-49. [Silent omission of certificate hostname verification in LibreSSL and BoringSSL](https://hackerone.com/reports/329645) to The Internet - 2 upvotes, $0
-50. [pngcrush_measure_idat() off-by-one error (CVE-2015-2158)](https://hackerone.com/reports/73429) to The Internet - 2 upvotes, $0
-51. [Multiple issues in Libxml2 (2.9.2 - 2.9.5)](https://hackerone.com/reports/293126) to The Internet - 2 upvotes, $0
-52. [CVE-2017-8798 - miniupnp getHTTPResponse chunked encoding integer signedness error](https://hackerone.com/reports/227344) to The Internet - 2 upvotes, $0
-53. [CVE-2016-4796 OpenJPEG color_cmyk_to_rgb Out-of-Bounds Read Vulnerability](https://hackerone.com/reports/167955) to The Internet - 2 upvotes, $0
-54. [CVE-2016-7163 OpenJPEG opj_pi_create_decode Integer Overflow Vulnerability](https://hackerone.com/reports/167512) to The Internet - 2 upvotes, $0
-55. [putty pscp client-side post-auth stack buffer overwrite when processing remote file size ](https://hackerone.com/reports/120903) to The Internet - 2 upvotes, $0
-56. [Heap overflow in H. Spencer’s regex library on 32 bit systems ](https://hackerone.com/reports/47779) to The Internet - 1 upvotes, $3000
-57. [Uncontrolled Resource Consumption with XMPP-Layer Compression](https://hackerone.com/reports/5928) to The Internet - 1 upvotes, $500
-58. [external entity expansion in Apache POI ](https://hackerone.com/reports/25537) to The Internet - 1 upvotes, $0
-59. [CVE-2017-13090 wget heap smash](https://hackerone.com/reports/287667) to The Internet - 1 upvotes, $0
-60. [CVE-2017-13089 wget stack smash](https://hackerone.com/reports/287666) to The Internet - 1 upvotes, $0
-61. [Ericsson Erlang OTP Core Allocation Subsystem Integer Overflow (All Versions)](https://hackerone.com/reports/28640) to The Internet - 1 upvotes, $0
-62. [Widespread failure of certificate validation in Android apps](https://hackerone.com/reports/2293) to The Internet - 1 upvotes, $0
-63. [Roundcube virtualmin privilege escalation (CVE-2017-8114)](https://hackerone.com/reports/242119) to The Internet - 1 upvotes, $0
-64. [The “Malstaller” Attack, global hijacking of any installation process to achieve RCE with elevated privileges, Windows OS (vendor agnostic) ](https://hackerone.com/reports/165969) to The Internet - 1 upvotes, $0
-65. [CVE-2016-3182 OpenJPEG color_esycc_to_rgb Out-of-Bounds Read Vulnerability](https://hackerone.com/reports/167953) to The Internet - 1 upvotes, $0
-66. [CVE-2016-3183 OpenJPEG sycc422_to_rgb Out-of-Bounds Read Vulnerability](https://hackerone.com/reports/167947) to The Internet - 1 upvotes, $0
-67. [LZ4 Core](https://hackerone.com/reports/17688) to The Internet - 0 upvotes, $6000
-68. [Multiple issues in looking-glass software (aka from web to BGP injections)](https://hackerone.com/reports/16330) to The Internet - 0 upvotes, $5000
-69. [Bad Write in TTF font parsing (win32k.sys)](https://hackerone.com/reports/48100) to The Internet - 0 upvotes, $5000
-70. [rsync hash collisions may allow an attacker to corrupt or modify files](https://hackerone.com/reports/20873) to The Internet - 0 upvotes, $3000
-71. [libcurl: URL request injection](https://hackerone.com/reports/73242) to The Internet - 0 upvotes, $3000
-72. [libcurl duphandle read out of bounds](https://hackerone.com/reports/104014) to The Internet - 0 upvotes, $1000
-73. [CVE-2016-1924 OpenJPEG opj_tgt_reset Out-of-Bounds Read Vulnerability](https://hackerone.com/reports/167957) to The Internet - 0 upvotes, $0
-74. [CVE-2016-5157 OpenJPEG opj_dwt_interleave_v Out-of-Bounds Write Vulnerability](https://hackerone.com/reports/167510) to The Internet - 0 upvotes, $0
+33. [Malicious Server can force read any file on clients system with default configuration in MySQL Clients](https://hackerone.com/reports/171593) to The Internet - 5 upvotes, $0
+34. [Bypassing Same Origin Policy With JSONP APIs and Flash](https://hackerone.com/reports/10373) to The Internet - 4 upvotes, $3000
+35. [OpenSSH: Memory corruption in AES-GCM support](https://hackerone.com/reports/500) to The Internet - 4 upvotes, $1500
+36. [Dragonblood: Design and Implementation Flaws in WPA3 and EAP-pwd](https://hackerone.com/reports/745276) to The Internet - 4 upvotes, $750
+37. [Denial of service in libxml2, using malicious lzma file to consume available system memory](https://hackerone.com/reports/270059) to The Internet - 4 upvotes, $0
+38. [CVE-2017-11367: Global buffer overflow (READ of size 4) in shoco C library ](https://hackerone.com/reports/250581) to The Internet - 4 upvotes, $0
+39. [Two vulnerability in GNU binutils](https://hackerone.com/reports/323017) to The Internet - 4 upvotes, $0
+40. [Mercurial can be tricked into granting authorized users access to the Python debugger](https://hackerone.com/reports/222020) to The Internet - 3 upvotes, $500
+41. [pngcrush double-free/segfault could result in DoS (CVE-2015-7700)](https://hackerone.com/reports/93546) to The Internet - 3 upvotes, $0
+42. [CVE-2017-5969: libxml2 when used in recover mode, allows remote attackers to cause a denial of service (NULL pointer dereference)](https://hackerone.com/reports/262665) to The Internet - 3 upvotes, $0
+43. [CVE-2017-10965: Null pointer dereference in Irssi \<1.0.4 ](https://hackerone.com/reports/247027) to The Internet - 3 upvotes, $0
+44. [GarlicRust - heartbleed style vulnerability in major I2P C++ router implementations](https://hackerone.com/reports/295740) to The Internet - 3 upvotes, $0
+45. [Exim handles BDAT data incorrectly and leads to crash/hang](https://hackerone.com/reports/296994) to The Internet - 3 upvotes, $0
+46. [Incorrect logic in MySQL & MariaDB protocol leads to remote SSRF/Remote file read](https://hackerone.com/reports/156511) to The Internet - 3 upvotes, $0
+47. [FREAK: Factoring RSA_EXPORT Keys to Impersonate TLS Servers](https://hackerone.com/reports/50170) to The Internet - 2 upvotes, $7500
+48. [open redirect in rfc6749](https://hackerone.com/reports/26962) to The Internet - 2 upvotes, $3000
+49. [OpenSSH / dropbearSSHd xauth command injection](https://hackerone.com/reports/122113) to The Internet - 2 upvotes, $1500
+50. [Silent omission of certificate hostname verification in LibreSSL and BoringSSL](https://hackerone.com/reports/329645) to The Internet - 2 upvotes, $0
+51. [pngcrush_measure_idat() off-by-one error (CVE-2015-2158)](https://hackerone.com/reports/73429) to The Internet - 2 upvotes, $0
+52. [Multiple issues in Libxml2 (2.9.2 - 2.9.5)](https://hackerone.com/reports/293126) to The Internet - 2 upvotes, $0
+53. [CVE-2017-8798 - miniupnp getHTTPResponse chunked encoding integer signedness error](https://hackerone.com/reports/227344) to The Internet - 2 upvotes, $0
+54. [CVE-2016-4796 OpenJPEG color_cmyk_to_rgb Out-of-Bounds Read Vulnerability](https://hackerone.com/reports/167955) to The Internet - 2 upvotes, $0
+55. [CVE-2016-7163 OpenJPEG opj_pi_create_decode Integer Overflow Vulnerability](https://hackerone.com/reports/167512) to The Internet - 2 upvotes, $0
+56. [putty pscp client-side post-auth stack buffer overwrite when processing remote file size ](https://hackerone.com/reports/120903) to The Internet - 2 upvotes, $0
+57. [Heap overflow in H. Spencer’s regex library on 32 bit systems ](https://hackerone.com/reports/47779) to The Internet - 1 upvotes, $3000
+58. [Uncontrolled Resource Consumption with XMPP-Layer Compression](https://hackerone.com/reports/5928) to The Internet - 1 upvotes, $500
+59. [external entity expansion in Apache POI ](https://hackerone.com/reports/25537) to The Internet - 1 upvotes, $0
+60. [CVE-2017-13090 wget heap smash](https://hackerone.com/reports/287667) to The Internet - 1 upvotes, $0
+61. [CVE-2017-13089 wget stack smash](https://hackerone.com/reports/287666) to The Internet - 1 upvotes, $0
+62. [Ericsson Erlang OTP Core Allocation Subsystem Integer Overflow (All Versions)](https://hackerone.com/reports/28640) to The Internet - 1 upvotes, $0
+63. [Widespread failure of certificate validation in Android apps](https://hackerone.com/reports/2293) to The Internet - 1 upvotes, $0
+64. [Roundcube virtualmin privilege escalation (CVE-2017-8114)](https://hackerone.com/reports/242119) to The Internet - 1 upvotes, $0
+65. [The “Malstaller” Attack, global hijacking of any installation process to achieve RCE with elevated privileges, Windows OS (vendor agnostic) ](https://hackerone.com/reports/165969) to The Internet - 1 upvotes, $0
+66. [CVE-2016-3182 OpenJPEG color_esycc_to_rgb Out-of-Bounds Read Vulnerability](https://hackerone.com/reports/167953) to The Internet - 1 upvotes, $0
+67. [CVE-2016-3183 OpenJPEG sycc422_to_rgb Out-of-Bounds Read Vulnerability](https://hackerone.com/reports/167947) to The Internet - 1 upvotes, $0
+68. [LZ4 Core](https://hackerone.com/reports/17688) to The Internet - 0 upvotes, $6000
+69. [Multiple issues in looking-glass software (aka from web to BGP injections)](https://hackerone.com/reports/16330) to The Internet - 0 upvotes, $5000
+70. [Bad Write in TTF font parsing (win32k.sys)](https://hackerone.com/reports/48100) to The Internet - 0 upvotes, $5000
+71. [rsync hash collisions may allow an attacker to corrupt or modify files](https://hackerone.com/reports/20873) to The Internet - 0 upvotes, $3000
+72. [libcurl: URL request injection](https://hackerone.com/reports/73242) to The Internet - 0 upvotes, $3000
+73. [libcurl duphandle read out of bounds](https://hackerone.com/reports/104014) to The Internet - 0 upvotes, $1000
+74. [CVE-2016-1924 OpenJPEG opj_tgt_reset Out-of-Bounds Read Vulnerability](https://hackerone.com/reports/167957) to The Internet - 0 upvotes, $0
+75. [CVE-2016-5157 OpenJPEG opj_dwt_interleave_v Out-of-Bounds Write Vulnerability](https://hackerone.com/reports/167510) to The Internet - 0 upvotes, $0
 
 
 [Back](../README.md)

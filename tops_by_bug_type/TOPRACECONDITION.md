@@ -2,13 +2,13 @@
 
 Top Race Condition reports from HackerOne:
 
-1. [Race Condition allows to redeem multiple times gift cards which leads to free "money"](https://hackerone.com/reports/759247) to Reverb.com - 232 upvotes, $1500
+1. [Race Condition allows to redeem multiple times gift cards which leads to free "money"](https://hackerone.com/reports/759247) to Reverb.com - 239 upvotes, $1500
 2. [Race condition in performing retest allows duplicated payments](https://hackerone.com/reports/429026) to HackerOne - 189 upvotes, $2100
-3. [Client-Side Race Condition using Marketo, allows sending user to data-protocol in Safari when form without onSuccess is submitted on www.hackerone.com](https://hackerone.com/reports/381356) to HackerOne - 128 upvotes, $1250
-4. [Race Condition leads to undeletable group member](https://hackerone.com/reports/604534) to HackerOne - 107 upvotes, $500
+3. [Client-Side Race Condition using Marketo, allows sending user to data-protocol in Safari when form without onSuccess is submitted on www.hackerone.com](https://hackerone.com/reports/381356) to HackerOne - 130 upvotes, $1250
+4. [Race Condition leads to undeletable group member](https://hackerone.com/reports/604534) to HackerOne - 108 upvotes, $500
 5. [Race Conditions in Popular reports feature.](https://hackerone.com/reports/146845) to HackerOne - 95 upvotes, $500
 6. [Race Condition in Flag Submission](https://hackerone.com/reports/454949) to HackerOne - 63 upvotes, $500
-7. [Race Condition : Exploiting the loyalty claim https://xxx.vendhq.com/loyalty/claim/email/xxxxx url and gain x amount of loyalty bonus/cash](https://hackerone.com/reports/331940) to Vend VDP - 60 upvotes, $0
+7. [Race Condition : Exploiting the loyalty claim https://xxx.vendhq.com/loyalty/claim/email/xxxxx url and gain x amount of loyalty bonus/cash](https://hackerone.com/reports/331940) to Vend VDP - 63 upvotes, $0
 8. [Race condition leads to duplicate payouts](https://hackerone.com/reports/220445) to HackerOne - 56 upvotes, $750
 9. [Race condition in claiming program credentials ](https://hackerone.com/reports/488985) to HackerOne - 41 upvotes, $500
 10. [Race Conditions in OAuth 2 API implementations](https://hackerone.com/reports/55140) to The Internet - 30 upvotes, $2500

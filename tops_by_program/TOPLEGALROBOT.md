@@ -3,7 +3,7 @@
 Top reports from Legal Robot program at HackerOne:
 
 1. [Remote Code Execution (upload)](https://hackerone.com/reports/116575) to Legal Robot - 59 upvotes, $120
-2. [Subdomain takeover at api.legalrobot.com due to non-used domain in Modulus.io.](https://hackerone.com/reports/148770) to Legal Robot - 29 upvotes, $100
+2. [Subdomain takeover at api.legalrobot.com due to non-used domain in Modulus.io.](https://hackerone.com/reports/148770) to Legal Robot - 31 upvotes, $100
 3. [Privilege Escalation to Admin-level Account](https://hackerone.com/reports/261285) to Legal Robot - 23 upvotes, $400
 4. [Bypass 8 chars password complexity with 6 chars only due to insecure password reset functionaliy](https://hackerone.com/reports/173195) to Legal Robot - 19 upvotes, $40
 5. [Password complexity requirements not enforced](https://hackerone.com/reports/191643) to Legal Robot - 15 upvotes, $20
@@ -50,19 +50,19 @@ Top reports from Legal Robot program at HackerOne:
 46. [User enumeration from failed login error message](https://hackerone.com/reports/257035) to Legal Robot - 7 upvotes, $20
 47. [UI Redressing ( ClickJacking ) Issue on Information submit form ](https://hackerone.com/reports/163753) to Legal Robot - 7 upvotes, $0
 48. [News Feed Detected ](https://hackerone.com/reports/163730) to Legal Robot - 7 upvotes, $0
-49. [Non-functional 2FA recovery codes](https://hackerone.com/reports/249337) to Legal Robot - 6 upvotes, $60
-50. [Enhancement: email confirmation for 2FA recovery](https://hackerone.com/reports/250082) to Legal Robot - 6 upvotes, $60
-51. [Missing Issuer parameter on TOTP 2FA](https://hackerone.com/reports/251200) to Legal Robot - 6 upvotes, $60
-52. [Missing access control at password change](https://hackerone.com/reports/164648) to Legal Robot - 6 upvotes, $40
-53. [CSRF](https://hackerone.com/reports/65167) to Legal Robot - 6 upvotes, $20
-54. [SSL Issue on legalrobot.com](https://hackerone.com/reports/116805) to Legal Robot - 6 upvotes, $20
-55. [Domain takeover (legalrobot.co.za)](https://hackerone.com/reports/230525) to Legal Robot - 6 upvotes, $20
-56. [2 vulns ](https://hackerone.com/reports/163677) to Legal Robot - 6 upvotes, $0
-57. [Server version disclosure](https://hackerone.com/reports/167041) to Legal Robot - 6 upvotes, $0
-58. [2FA user enumeration via login](https://hackerone.com/reports/249467) to Legal Robot - 6 upvotes, $0
-59. [observer.com URL should HTTPS](https://hackerone.com/reports/260299) to Legal Robot - 6 upvotes, $0
-60. [Futureoflife organization URL should be HTTPS](https://hackerone.com/reports/260591) to Legal Robot - 6 upvotes, $0
-61. [Exposes a series of other private credentials](https://hackerone.com/reports/289189) to Legal Robot - 6 upvotes, $0
+49. [Exposes a series of other private credentials](https://hackerone.com/reports/289189) to Legal Robot - 7 upvotes, $0
+50. [Non-functional 2FA recovery codes](https://hackerone.com/reports/249337) to Legal Robot - 6 upvotes, $60
+51. [Enhancement: email confirmation for 2FA recovery](https://hackerone.com/reports/250082) to Legal Robot - 6 upvotes, $60
+52. [Missing Issuer parameter on TOTP 2FA](https://hackerone.com/reports/251200) to Legal Robot - 6 upvotes, $60
+53. [Missing access control at password change](https://hackerone.com/reports/164648) to Legal Robot - 6 upvotes, $40
+54. [CSRF](https://hackerone.com/reports/65167) to Legal Robot - 6 upvotes, $20
+55. [SSL Issue on legalrobot.com](https://hackerone.com/reports/116805) to Legal Robot - 6 upvotes, $20
+56. [Domain takeover (legalrobot.co.za)](https://hackerone.com/reports/230525) to Legal Robot - 6 upvotes, $20
+57. [2 vulns ](https://hackerone.com/reports/163677) to Legal Robot - 6 upvotes, $0
+58. [Server version disclosure](https://hackerone.com/reports/167041) to Legal Robot - 6 upvotes, $0
+59. [2FA user enumeration via login](https://hackerone.com/reports/249467) to Legal Robot - 6 upvotes, $0
+60. [observer.com URL should HTTPS](https://hackerone.com/reports/260299) to Legal Robot - 6 upvotes, $0
+61. [Futureoflife organization URL should be HTTPS](https://hackerone.com/reports/260591) to Legal Robot - 6 upvotes, $0
 62. [No notification of change email feature](https://hackerone.com/reports/265930) to Legal Robot - 6 upvotes, $0
 63. [Users with 2FA can have multiple sessions](https://hackerone.com/reports/250243) to Legal Robot - 5 upvotes, $60
 64. [SPF Issue ](https://hackerone.com/reports/116609) to Legal Robot - 5 upvotes, $20

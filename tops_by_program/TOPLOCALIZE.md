@@ -20,24 +20,24 @@ Top reports from Localize program at HackerOne:
 16. [Business logic Failure - Browser cache management and logout vulnerability.](https://hackerone.com/reports/7909) to Localize - 3 upvotes, $0
 17. [Path Disclosure (Info Disclosure) in  http://www.localize.io](https://hackerone.com/reports/7903) to Localize - 2 upvotes, $0
 18. [Apache Documentation](https://hackerone.com/reports/8055) to Localize - 2 upvotes, $0
-19. [Criptographic Issue: Strisct Transport Security with not good max age..(TOO SHORT!)](https://hackerone.com/reports/9008) to Localize - 2 upvotes, $0
-20. [Full Path Disclosure (FPD) in www.localize.im](https://hackerone.com/reports/9256) to Localize - 2 upvotes, $0
-21. [Atttacker can send "Invitation Request" to a Project that is not even created yet!](https://hackerone.com/reports/9088) to Localize - 2 upvotes, $0
-22. [XSS in Localize.io](https://hackerone.com/reports/7890) to Localize - 1 upvotes, $0
-23. [User credentials are sent in clear text](https://hackerone.com/reports/7950) to Localize - 1 upvotes, $0
-24. [HTML Form Without CSRF protection](https://hackerone.com/reports/7863) to Localize - 1 upvotes, $0
-25. [Full path disclosure](https://hackerone.com/reports/7894) to Localize - 1 upvotes, $0
-26. [No Cross-Site Request Forgery protection at multiple locations](https://hackerone.com/reports/7916) to Localize - 1 upvotes, $0
-27. [Unexpected array leaks information about the system](https://hackerone.com/reports/7888) to Localize - 1 upvotes, $0
-28. [Information Disclosure (Directory Structure)](https://hackerone.com/reports/7930) to Localize - 1 upvotes, $0
-29. [Uninitialized variable error message leaks information ](https://hackerone.com/reports/7915) to Localize - 1 upvotes, $0
-30. [Full Path Disclosure (FPD) in www.localize.io](https://hackerone.com/reports/8088) to Localize - 1 upvotes, $0
-31. [Full Path Disclosure / Info Disclosure in Importing XML Section!](https://hackerone.com/reports/8091) to Localize - 1 upvotes, $0
-32. [Full Path Disclosure (2)](https://hackerone.com/reports/8013) to Localize - 1 upvotes, $0
-33. [Full Path Disclosure](https://hackerone.com/reports/7972) to Localize - 1 upvotes, $0
-34. [Assigning a non-existing role to user causes exception when opening project page](https://hackerone.com/reports/7921) to Localize - 1 upvotes, $0
-35. [Password type input with auto-complete enabled](https://hackerone.com/reports/7954) to Localize - 1 upvotes, $0
-36. [Numerous open ports/services](https://hackerone.com/reports/8064) to Localize - 1 upvotes, $0
+19. [Numerous open ports/services](https://hackerone.com/reports/8064) to Localize - 2 upvotes, $0
+20. [Criptographic Issue: Strisct Transport Security with not good max age..(TOO SHORT!)](https://hackerone.com/reports/9008) to Localize - 2 upvotes, $0
+21. [Full Path Disclosure (FPD) in www.localize.im](https://hackerone.com/reports/9256) to Localize - 2 upvotes, $0
+22. [Atttacker can send "Invitation Request" to a Project that is not even created yet!](https://hackerone.com/reports/9088) to Localize - 2 upvotes, $0
+23. [XSS in Localize.io](https://hackerone.com/reports/7890) to Localize - 1 upvotes, $0
+24. [User credentials are sent in clear text](https://hackerone.com/reports/7950) to Localize - 1 upvotes, $0
+25. [HTML Form Without CSRF protection](https://hackerone.com/reports/7863) to Localize - 1 upvotes, $0
+26. [Full path disclosure](https://hackerone.com/reports/7894) to Localize - 1 upvotes, $0
+27. [No Cross-Site Request Forgery protection at multiple locations](https://hackerone.com/reports/7916) to Localize - 1 upvotes, $0
+28. [Unexpected array leaks information about the system](https://hackerone.com/reports/7888) to Localize - 1 upvotes, $0
+29. [Information Disclosure (Directory Structure)](https://hackerone.com/reports/7930) to Localize - 1 upvotes, $0
+30. [Uninitialized variable error message leaks information ](https://hackerone.com/reports/7915) to Localize - 1 upvotes, $0
+31. [Full Path Disclosure (FPD) in www.localize.io](https://hackerone.com/reports/8088) to Localize - 1 upvotes, $0
+32. [Full Path Disclosure / Info Disclosure in Importing XML Section!](https://hackerone.com/reports/8091) to Localize - 1 upvotes, $0
+33. [Full Path Disclosure (2)](https://hackerone.com/reports/8013) to Localize - 1 upvotes, $0
+34. [Full Path Disclosure](https://hackerone.com/reports/7972) to Localize - 1 upvotes, $0
+35. [Assigning a non-existing role to user causes exception when opening project page](https://hackerone.com/reports/7921) to Localize - 1 upvotes, $0
+36. [Password type input with auto-complete enabled](https://hackerone.com/reports/7954) to Localize - 1 upvotes, $0
 37. [infinite number of new project creation!](https://hackerone.com/reports/8093) to Localize - 1 upvotes, $0
 38. [XSS in password](https://hackerone.com/reports/7995) to Localize - 1 upvotes, $0
 39. [Apache2 /icons/ folder accessible](https://hackerone.com/reports/7923) to Localize - 1 upvotes, $0

@@ -11,12 +11,12 @@ Top reports from Vimeo program at HackerOne:
 7. [OAuth 2 Authorization Bypass via CSRF and Cross Site Flashing](https://hackerone.com/reports/136582) to Vimeo - 28 upvotes, $1000
 8. [All Vimeo Private videos disclosure via Authorization Bypass](https://hackerone.com/reports/137502) to Vimeo - 27 upvotes, $600
 9. [Disclosure of sensitive information through Google Cloud Storage bucket](https://hackerone.com/reports/176013) to Vimeo - 21 upvotes, $500
-10. [Make API calls on behalf of another user (CSRF protection bypass)](https://hackerone.com/reports/44146) to Vimeo - 19 upvotes, $1000
+10. [Make API calls on behalf of another user (CSRF protection bypass)](https://hackerone.com/reports/44146) to Vimeo - 20 upvotes, $1000
 11. [XSS on vimeo.com/home after other user follows you](https://hackerone.com/reports/87854) to Vimeo - 16 upvotes, $1500
 12. [Images and Subtitles Leakage from private videos](https://hackerone.com/reports/136850) to Vimeo - 16 upvotes, $125
 13. [CSRF on Vimeo via cross site flashing leading to info disclosure and private videos go public](https://hackerone.com/reports/136481) to Vimeo - 14 upvotes, $750
 14. [URGENT - Subdomain Takeover on status.vimeo.com due to unclaimed domain pointing to statuspage.io](https://hackerone.com/reports/49663) to Vimeo - 11 upvotes, $100
-15. [Vimeo.com Insecure Direct Object References Reset Password](https://hackerone.com/reports/42587) to Vimeo - 6 upvotes, $5000
+15. [Vimeo.com Insecure Direct Object References Reset Password](https://hackerone.com/reports/42587) to Vimeo - 7 upvotes, $5000
 16. [[vimeopro.com] CRLF Injection](https://hackerone.com/reports/39181) to Vimeo - 6 upvotes, $500
 17. [Stored XSS on player.vimeo.com](https://hackerone.com/reports/85488) to Vimeo - 6 upvotes, $500
 18. [XSS when using captions/subtitles on video player based on Flash (requires user interaction)](https://hackerone.com/reports/88508) to Vimeo - 6 upvotes, $200
@@ -31,31 +31,31 @@ Top reports from Vimeo program at HackerOne:
 27. [Can message users without the proper authorization](https://hackerone.com/reports/46113) to Vimeo - 3 upvotes, $100
 28. [Reflected XSS on vimeo.com/musicstore](https://hackerone.com/reports/85615) to Vimeo - 3 upvotes, $100
 29. [Poodle bleed vulnerability in cloud sub domain](https://hackerone.com/reports/44202) to Vimeo - 3 upvotes, $0
-30. [API: missing invalidation of OAuth2 Authorization Code during access revocation causes authorization bypass](https://hackerone.com/reports/57603) to Vimeo - 2 upvotes, $500
-31. [subdomain takeover 1511493148.cloud.vimeo.com](https://hackerone.com/reports/46954) to Vimeo - 2 upvotes, $250
-32. [A user can add videos to other user's private groups](https://hackerone.com/reports/50786) to Vimeo - 2 upvotes, $250
-33. [CRITICAL full source code/config disclosure for Cameo](https://hackerone.com/reports/43998) to Vimeo - 2 upvotes, $100
-34. [Missing rate limit on private videos password](https://hackerone.com/reports/124564) to Vimeo - 2 upvotes, $0
-35. [XSS in Subtitles of Vimeo Flash Player and Hubnut ](https://hackerone.com/reports/137023) to Vimeo - 2 upvotes, $0
-36. [XSS on any site that includes the moogaloop flash player | deprecated embed code ](https://hackerone.com/reports/44512) to Vimeo - 1 upvotes, $1000
-37. [abusing Thumbnails(https://vimeo.com/upload/select_thumb) to see a private video](https://hackerone.com/reports/43850) to Vimeo - 1 upvotes, $1000
-38. [A user can post comments on other user's private videos](https://hackerone.com/reports/50829) to Vimeo - 1 upvotes, $500
-39. [Insecure Direct Object References in https://vimeo.com/forums](https://hackerone.com/reports/52176) to Vimeo - 1 upvotes, $500
-40. [Buying ondemand videos that  0.1  and sometimes for free ](https://hackerone.com/reports/43602) to Vimeo - 1 upvotes, $260
-41. [Ability to Download Music Tracks Without Paying (Missing permission check on`/musicstore/download`)](https://hackerone.com/reports/43770) to Vimeo - 1 upvotes, $250
-42. [A user can edit comments even after video comments are disabled](https://hackerone.com/reports/50776) to Vimeo - 1 upvotes, $250
-43. [Vimeo + & Vimeo PRO Unautorised Tax bypass](https://hackerone.com/reports/49561) to Vimeo - 1 upvotes, $250
-44. [Post in private groups after getting removed](https://hackerone.com/reports/51817) to Vimeo - 1 upvotes, $250
-45. [A user can enhance their videos with paid tracks without buying the track](https://hackerone.com/reports/50941) to Vimeo - 1 upvotes, $250
-46. [Stored XSS on vimeo.com and player.vimeo.com](https://hackerone.com/reports/87577) to Vimeo - 1 upvotes, $200
-47. [Insecure Direct Object References that allows to read any comment (even if it should be private)](https://hackerone.com/reports/52181) to Vimeo - 1 upvotes, $150
-48. [Vimeo Search - XSS Vulnerability [http://vimeo.com/search]](https://hackerone.com/reports/44798) to Vimeo - 1 upvotes, $100
-49. [XSS on Vimeo](https://hackerone.com/reports/45484) to Vimeo - 1 upvotes, $100
-50. [Private, embeddable videos leaks data through Facebook & Open Graph](https://hackerone.com/reports/121919) to Vimeo - 1 upvotes, $100
-51. [USER PRIVACY VIOLATED (PRIVATE DATA GETTING TRANSFER OVER INSECURE CHANNEL ) ](https://hackerone.com/reports/44056) to Vimeo - 1 upvotes, $0
-52. [Full account takeover via Add a New Email to account without email verified and without password confirmation.](https://hackerone.com/reports/45084) to Vimeo - 1 upvotes, $0
-53. [No Limitation on Following allows user to follow people automatically!](https://hackerone.com/reports/43846) to Vimeo - 1 upvotes, $0
-54. [CRITICAL vulnerability - Insecure Direct Object Reference - Unauthorized access to `Videos` of Channel whose privacy is set to `Private`.](https://hackerone.com/reports/45960) to Vimeo - 0 upvotes, $250
+30. [Insecure Direct Object References in https://vimeo.com/forums](https://hackerone.com/reports/52176) to Vimeo - 2 upvotes, $500
+31. [API: missing invalidation of OAuth2 Authorization Code during access revocation causes authorization bypass](https://hackerone.com/reports/57603) to Vimeo - 2 upvotes, $500
+32. [subdomain takeover 1511493148.cloud.vimeo.com](https://hackerone.com/reports/46954) to Vimeo - 2 upvotes, $250
+33. [A user can add videos to other user's private groups](https://hackerone.com/reports/50786) to Vimeo - 2 upvotes, $250
+34. [Insecure Direct Object References that allows to read any comment (even if it should be private)](https://hackerone.com/reports/52181) to Vimeo - 2 upvotes, $150
+35. [CRITICAL full source code/config disclosure for Cameo](https://hackerone.com/reports/43998) to Vimeo - 2 upvotes, $100
+36. [Missing rate limit on private videos password](https://hackerone.com/reports/124564) to Vimeo - 2 upvotes, $0
+37. [XSS in Subtitles of Vimeo Flash Player and Hubnut ](https://hackerone.com/reports/137023) to Vimeo - 2 upvotes, $0
+38. [XSS on any site that includes the moogaloop flash player | deprecated embed code ](https://hackerone.com/reports/44512) to Vimeo - 1 upvotes, $1000
+39. [abusing Thumbnails(https://vimeo.com/upload/select_thumb) to see a private video](https://hackerone.com/reports/43850) to Vimeo - 1 upvotes, $1000
+40. [A user can post comments on other user's private videos](https://hackerone.com/reports/50829) to Vimeo - 1 upvotes, $500
+41. [Buying ondemand videos that  0.1  and sometimes for free ](https://hackerone.com/reports/43602) to Vimeo - 1 upvotes, $260
+42. [Ability to Download Music Tracks Without Paying (Missing permission check on`/musicstore/download`)](https://hackerone.com/reports/43770) to Vimeo - 1 upvotes, $250
+43. [A user can edit comments even after video comments are disabled](https://hackerone.com/reports/50776) to Vimeo - 1 upvotes, $250
+44. [CRITICAL vulnerability - Insecure Direct Object Reference - Unauthorized access to `Videos` of Channel whose privacy is set to `Private`.](https://hackerone.com/reports/45960) to Vimeo - 1 upvotes, $250
+45. [Vimeo + & Vimeo PRO Unautorised Tax bypass](https://hackerone.com/reports/49561) to Vimeo - 1 upvotes, $250
+46. [Post in private groups after getting removed](https://hackerone.com/reports/51817) to Vimeo - 1 upvotes, $250
+47. [A user can enhance their videos with paid tracks without buying the track](https://hackerone.com/reports/50941) to Vimeo - 1 upvotes, $250
+48. [Stored XSS on vimeo.com and player.vimeo.com](https://hackerone.com/reports/87577) to Vimeo - 1 upvotes, $200
+49. [Vimeo Search - XSS Vulnerability [http://vimeo.com/search]](https://hackerone.com/reports/44798) to Vimeo - 1 upvotes, $100
+50. [XSS on Vimeo](https://hackerone.com/reports/45484) to Vimeo - 1 upvotes, $100
+51. [Private, embeddable videos leaks data through Facebook & Open Graph](https://hackerone.com/reports/121919) to Vimeo - 1 upvotes, $100
+52. [USER PRIVACY VIOLATED (PRIVATE DATA GETTING TRANSFER OVER INSECURE CHANNEL ) ](https://hackerone.com/reports/44056) to Vimeo - 1 upvotes, $0
+53. [Full account takeover via Add a New Email to account without email verified and without password confirmation.](https://hackerone.com/reports/45084) to Vimeo - 1 upvotes, $0
+54. [No Limitation on Following allows user to follow people automatically!](https://hackerone.com/reports/43846) to Vimeo - 1 upvotes, $0
 55. [[URGENT ISSUE] Add or Delete the videos in watch later list of any user .](https://hackerone.com/reports/52982) to Vimeo - 0 upvotes, $250
 56. [Share your channel to any user on vimeo without following him](https://hackerone.com/reports/52708) to Vimeo - 0 upvotes, $250
 57. [APIs for channels allow HTML entities that may cause XSS issue](https://hackerone.com/reports/42702) to Vimeo - 0 upvotes, $100
