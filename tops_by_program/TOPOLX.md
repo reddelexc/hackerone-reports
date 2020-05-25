@@ -6,7 +6,7 @@ Top reports from OLX program at HackerOne:
 2. [[Critical] Delete any account ](https://hackerone.com/reports/158872) to OLX - 112 upvotes, $0
 3. [SQL Injection on https://www.olx.co.id](https://hackerone.com/reports/639876) to OLX - 69 upvotes, $0
 4. [web cache deception in https://tradus.com lead to name/user_id enumeration and other info](https://hackerone.com/reports/537564) to OLX - 57 upvotes, $0
-5. [SQL Injection https://www.olx.co.id](https://hackerone.com/reports/446293) to OLX - 46 upvotes, $0
+5. [SQL Injection https://www.olx.co.id](https://hackerone.com/reports/446293) to OLX - 47 upvotes, $0
 6. [Reflected XSS on https://www.olx.co.id/iklan/*.html via "ad_type" parameter](https://hackerone.com/reports/630265) to OLX - 35 upvotes, $0
 7. [XSS inside HTML Link Tag](https://hackerone.com/reports/504984) to OLX - 29 upvotes, $0
 8. [Public Vulnerable Version of Confluence https://confluence.olx.com](https://hackerone.com/reports/207013) to OLX - 28 upvotes, $0
@@ -33,22 +33,22 @@ Top reports from OLX program at HackerOne:
 29. [Full Account Takeover ](https://hackerone.com/reports/159202) to OLX - 9 upvotes, $0
 30. [All Active user sessions should be destroyed when user change his password!](https://hackerone.com/reports/150540) to OLX - 9 upvotes, $0
 31. [Bypass Rejected ads so user can view it as normal live ad.](https://hackerone.com/reports/669736) to OLX - 9 upvotes, $0
-32. [CSRF in account configuration leads to complete account compromise](https://hackerone.com/reports/150586) to OLX - 8 upvotes, $0
-33. [Reflected XSS in www.olx.ph](https://hackerone.com/reports/150746) to OLX - 8 upvotes, $0
-34. [Multiple vulnerabilities in http://blog.dubizzle.com/uae](https://hackerone.com/reports/188279) to OLX - 8 upvotes, $0
-35. [load scripts DOS vulnerability](https://hackerone.com/reports/694467) to OLX - 8 upvotes, $0
+32. [load scripts DOS vulnerability](https://hackerone.com/reports/694467) to OLX - 9 upvotes, $0
+33. [CSRF in account configuration leads to complete account compromise](https://hackerone.com/reports/150586) to OLX - 8 upvotes, $0
+34. [Reflected XSS in www.olx.ph](https://hackerone.com/reports/150746) to OLX - 8 upvotes, $0
+35. [Multiple vulnerabilities in http://blog.dubizzle.com/uae](https://hackerone.com/reports/188279) to OLX - 8 upvotes, $0
 36. [Directory Listing of all the resource files of olx.com.eg ](https://hackerone.com/reports/175760) to OLX - 7 upvotes, $0
 37. [XSS on Meta Tag at https://m.olx.ph](https://hackerone.com/reports/157813) to OLX - 7 upvotes, $0
 38. [blog.praca.olx.pl database credentials exposure](https://hackerone.com/reports/448985) to OLX - 7 upvotes, $0
 39. [XSS @ *.olx.com.ar](https://hackerone.com/reports/150560) to OLX - 6 upvotes, $0
 40. [Reflected XSS in [olx.qa]](https://hackerone.com/reports/191332) to OLX - 6 upvotes, $0
 41. [CSRF in delete advertisement on olx.com.eg](https://hackerone.com/reports/178384) to OLX - 6 upvotes, $0
-42. [XSS yaman.olx.ph](https://hackerone.com/reports/151147) to OLX - 5 upvotes, $0
-43. [Stored XSS on contact name](https://hackerone.com/reports/152069) to OLX - 5 upvotes, $0
-44. [Name, email, phone and more disclosure on user ID (API)](https://hackerone.com/reports/171917) to OLX - 5 upvotes, $0
-45. [Reflective XSS at m.olx.ph](https://hackerone.com/reports/177230) to OLX - 5 upvotes, $0
-46. [yaman.olx.ph/wordpress is using a very vulnerable version of WordPress and contains directory listing](https://hackerone.com/reports/202918) to OLX - 5 upvotes, $0
-47. [XSS in OLX.pl ("title" in new advertisement)](https://hackerone.com/reports/267473) to OLX - 5 upvotes, $0
+42. [XSS in OLX.pl ("title" in new advertisement)](https://hackerone.com/reports/267473) to OLX - 6 upvotes, $0
+43. [XSS yaman.olx.ph](https://hackerone.com/reports/151147) to OLX - 5 upvotes, $0
+44. [Stored XSS on contact name](https://hackerone.com/reports/152069) to OLX - 5 upvotes, $0
+45. [Name, email, phone and more disclosure on user ID (API)](https://hackerone.com/reports/171917) to OLX - 5 upvotes, $0
+46. [Reflective XSS at m.olx.ph](https://hackerone.com/reports/177230) to OLX - 5 upvotes, $0
+47. [yaman.olx.ph/wordpress is using a very vulnerable version of WordPress and contains directory listing](https://hackerone.com/reports/202918) to OLX - 5 upvotes, $0
 48. [Reflected XSS at yaman.olx.ph](https://hackerone.com/reports/151258) to OLX - 4 upvotes, $0
 49. [these are my old reports and still i have not receive any good replys, these all are Cross Site Scripting(XSS) issues: POC1: https://www.youtube.com/w](https://hackerone.com/reports/157889) to OLX - 4 upvotes, $0
 50. [full path disclosure vulnerability at https://security.olx.com/*](https://hackerone.com/reports/159481) to OLX - 4 upvotes, $0

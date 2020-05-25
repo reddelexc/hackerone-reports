@@ -30,17 +30,17 @@ Top reports from concrete5 program at HackerOne:
 26. [Multiple Cross Site Request Forgery Vulnerabilities in Concrete5 version 5.7.3.1](https://hackerone.com/reports/59660) to concrete5 - 2 upvotes, $0
 27. [Multiple Stored Cross Site Scripting Vulnerabilities in Concrete5 version 5.7.3.1](https://hackerone.com/reports/59662) to concrete5 - 2 upvotes, $0
 28. [Content Spoofing possible in concrete5.org](https://hackerone.com/reports/168078) to concrete5 - 2 upvotes, $0
-29. [XSS IN member List (Because of City Textbox)](https://hackerone.com/reports/4839) to concrete5 - 1 upvotes, $0
-30. [/index.php/dashboard/sitemap/explore/ Cross-site scripting](https://hackerone.com/reports/4808) to concrete5 - 1 upvotes, $0
-31. [Weak random number generator used in concrete/authentication/concrete/controller.php](https://hackerone.com/reports/31171) to concrete5 - 1 upvotes, $0
-32. [Sendmail Remote Code Execution Vulnerability in Concrete5 version 5.7.3.1](https://hackerone.com/reports/59663) to concrete5 - 1 upvotes, $0
-33. [stored XSS in concrete5 5.7.2.1](https://hackerone.com/reports/38890) to concrete5 - 1 upvotes, $0
-34. [Stored XSS in adding fileset](https://hackerone.com/reports/42248) to concrete5 - 1 upvotes, $0
-35. [SQL injection in conc/index.php/ccm/system/search/users/submit](https://hackerone.com/reports/38778) to concrete5 - 1 upvotes, $0
-36. [ProBlog 2.6.6 CSRF Exploit](https://hackerone.com/reports/133847) to concrete5 - 1 upvotes, $0
-37. [Full Page Caching Stored XSS Vulnerability](https://hackerone.com/reports/148300) to concrete5 - 1 upvotes, $0
-38. [Unsafe usage of Host HTTP header in Concrete5 version 5.7.3.1](https://hackerone.com/reports/59666) to concrete5 - 1 upvotes, $0
-39. [Administrators can add other administrators](https://hackerone.com/reports/304642) to concrete5 - 1 upvotes, $0
+29. [Administrators can add other administrators](https://hackerone.com/reports/304642) to concrete5 - 2 upvotes, $0
+30. [XSS IN member List (Because of City Textbox)](https://hackerone.com/reports/4839) to concrete5 - 1 upvotes, $0
+31. [/index.php/dashboard/sitemap/explore/ Cross-site scripting](https://hackerone.com/reports/4808) to concrete5 - 1 upvotes, $0
+32. [Weak random number generator used in concrete/authentication/concrete/controller.php](https://hackerone.com/reports/31171) to concrete5 - 1 upvotes, $0
+33. [Sendmail Remote Code Execution Vulnerability in Concrete5 version 5.7.3.1](https://hackerone.com/reports/59663) to concrete5 - 1 upvotes, $0
+34. [stored XSS in concrete5 5.7.2.1](https://hackerone.com/reports/38890) to concrete5 - 1 upvotes, $0
+35. [Stored XSS in adding fileset](https://hackerone.com/reports/42248) to concrete5 - 1 upvotes, $0
+36. [SQL injection in conc/index.php/ccm/system/search/users/submit](https://hackerone.com/reports/38778) to concrete5 - 1 upvotes, $0
+37. [ProBlog 2.6.6 CSRF Exploit](https://hackerone.com/reports/133847) to concrete5 - 1 upvotes, $0
+38. [Full Page Caching Stored XSS Vulnerability](https://hackerone.com/reports/148300) to concrete5 - 1 upvotes, $0
+39. [Unsafe usage of Host HTTP header in Concrete5 version 5.7.3.1](https://hackerone.com/reports/59666) to concrete5 - 1 upvotes, $0
 40. [page_controls_menu_js can reveal collection version of page](https://hackerone.com/reports/4938) to concrete5 - 0 upvotes, $0
 41. [https://concrete5.org ::: HeartBleed Attack (CVE-2014-0160)](https://hackerone.com/reports/6475) to concrete5 - 0 upvotes, $0
 42. [dashboard/pages/types [Unknown column 'Array' in 'where clause'] disclosure.](https://hackerone.com/reports/4811) to concrete5 - 0 upvotes, $0

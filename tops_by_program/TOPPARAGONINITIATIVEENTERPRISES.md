@@ -18,12 +18,12 @@ Top reports from Paragon Initiative Enterprises program at HackerOne:
 14. [Stored XSS in comments](https://hackerone.com/reports/148751) to Paragon Initiative Enterprises - 6 upvotes, $25
 15. [[Airship CMS] Local File Inclusion - RST Parser](https://hackerone.com/reports/179034) to Paragon Initiative Enterprises - 6 upvotes, $0
 16. [Incorrect detection of onion URLs](https://hackerone.com/reports/181210) to Paragon Initiative Enterprises - 5 upvotes, $50
-17. [Session Management](https://hackerone.com/reports/145300) to Paragon Initiative Enterprises - 5 upvotes, $0
-18. [Issue with password reset functionality [Minor]](https://hackerone.com/reports/149027) to Paragon Initiative Enterprises - 5 upvotes, $0
-19. [Incomplete fix for #181225 (target=_blank vulnerability)](https://hackerone.com/reports/226104) to Paragon Initiative Enterprises - 5 upvotes, $0
-20. [Cross-site-Scripting](https://hackerone.com/reports/226203) to Paragon Initiative Enterprises - 4 upvotes, $50
-21. [Invited user to a Author profile can remove the owner of that Author](https://hackerone.com/reports/274541) to Paragon Initiative Enterprises - 4 upvotes, $50
-22. [Email Spoof](https://hackerone.com/reports/115452) to Paragon Initiative Enterprises - 4 upvotes, $0
+17. [Email Spoof](https://hackerone.com/reports/115452) to Paragon Initiative Enterprises - 5 upvotes, $0
+18. [Session Management](https://hackerone.com/reports/145300) to Paragon Initiative Enterprises - 5 upvotes, $0
+19. [Issue with password reset functionality [Minor]](https://hackerone.com/reports/149027) to Paragon Initiative Enterprises - 5 upvotes, $0
+20. [Incomplete fix for #181225 (target=_blank vulnerability)](https://hackerone.com/reports/226104) to Paragon Initiative Enterprises - 5 upvotes, $0
+21. [Cross-site-Scripting](https://hackerone.com/reports/226203) to Paragon Initiative Enterprises - 4 upvotes, $50
+22. [Invited user to a Author profile can remove the owner of that Author](https://hackerone.com/reports/274541) to Paragon Initiative Enterprises - 4 upvotes, $50
 23. [Airship: Persistent XSS via Comment](https://hackerone.com/reports/301973) to Paragon Initiative Enterprises - 4 upvotes, $0
 24. [Open-redirect on paragonie.com](https://hackerone.com/reports/113112) to Paragon Initiative Enterprises - 3 upvotes, $50
 25. [CSRF token does not valided during blog comment](https://hackerone.com/reports/273998) to Paragon Initiative Enterprises - 3 upvotes, $25

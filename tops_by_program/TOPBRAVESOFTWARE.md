@@ -3,7 +3,7 @@
 Top reports from Brave Software program at HackerOne:
 
 1. [Stored XSS in localhost:* via integrated torrent downloader](https://hackerone.com/reports/681617) to Brave Software - 119 upvotes, $0
-2. [Local files reading from the web using `brave://`](https://hackerone.com/reports/390013) to Brave Software - 67 upvotes, $5000
+2. [Local files reading from the web using `brave://`](https://hackerone.com/reports/390013) to Brave Software - 68 upvotes, $5000
 3. [Sending arbitrary IPC messages via overriding Function.prototype.apply](https://hackerone.com/reports/188086) to Brave Software - 51 upvotes, $5300
 4. [Lack of quarantine meta-attribute for downloaded files leads to GateKeeper bypass](https://hackerone.com/reports/374106) to Brave Software - 51 upvotes, $50
 5. [`chrome://brave` available for navigation in Release build [-\> RCE] + navigation to `chrome://*` using tab_helper ["Open in new tab"]](https://hackerone.com/reports/395737) to Brave Software - 46 upvotes, $2000

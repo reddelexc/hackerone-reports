@@ -6,7 +6,7 @@ Top reports from The Internet program at HackerOne:
 2. [Ubuntu Linux privilege escalation (dirty_sock)](https://hackerone.com/reports/496285) to The Internet - 98 upvotes, $1000
 3. [RCE via ssh:// URIs in multiple VCS ](https://hackerone.com/reports/260005) to The Internet - 38 upvotes, $3000
 4. [ACME TLS-SNI-01/02 challenge vulnerable when combined with shared hosting providers](https://hackerone.com/reports/304378) to The Internet - 34 upvotes, $0
-5. [Race Conditions in OAuth 2 API implementations](https://hackerone.com/reports/55140) to The Internet - 30 upvotes, $2500
+5. [Race Conditions in OAuth 2 API implementations](https://hackerone.com/reports/55140) to The Internet - 31 upvotes, $2500
 6. [ZeroMQ libzmq remote code execution](https://hackerone.com/reports/477073) to The Internet - 28 upvotes, $1000
 7. [Mailsploit: a sender spoofing bug in over 30 email clients](https://hackerone.com/reports/295339) to The Internet - 26 upvotes, $0
 8. [4 severe remote + several minor OpenVPN vulnerabilities](https://hackerone.com/reports/242579) to The Internet - 26 upvotes, $0
@@ -28,16 +28,16 @@ Top reports from The Internet program at HackerOne:
 24. [TLS Triple Handshake Attack](https://hackerone.com/reports/7277) to The Internet - 7 upvotes, $7500
 25. [ntpd: read_mru_list() does inadequate incoming packet checks](https://hackerone.com/reports/147310) to The Internet - 7 upvotes, $500
 26. [[bower] Arbitrary File Write through improper validation of symlinks while package extraction](https://hackerone.com/reports/492512) to The Internet - 7 upvotes, $500
-27. [RCE on default Ubuntu Desktop \>= 12.10 Quantal](https://hackerone.com/reports/192512) to The Internet - 6 upvotes, $0
-28. [libtiff 4.0.6 segfault / read outside of buffer (CVE-2016-9297)](https://hackerone.com/reports/182140) to The Internet - 5 upvotes, $500
-29. [libtiff 4.0.6 heap bufer overflow / out of bounds read (CVE-2016-9273)](https://hackerone.com/reports/181642) to The Internet - 5 upvotes, $500
-30. [Unsecure: Bypass alerts of Little Flocker / Little Snitch / HandsOff! / BlockBlock (same concept can be applied to other security tools)](https://hackerone.com/reports/265232) to The Internet - 5 upvotes, $0
-31. [CVE-2017-10966: Heap-use-after-free in Irssi \<1.0.4](https://hackerone.com/reports/247028) to The Internet - 5 upvotes, $0
-32. [Exim use-after-free vulnerability while reading mail header involving BDAT commands](https://hackerone.com/reports/296991) to The Internet - 5 upvotes, $0
-33. [Malicious Server can force read any file on clients system with default configuration in MySQL Clients](https://hackerone.com/reports/171593) to The Internet - 5 upvotes, $0
-34. [Bypassing Same Origin Policy With JSONP APIs and Flash](https://hackerone.com/reports/10373) to The Internet - 4 upvotes, $3000
-35. [OpenSSH: Memory corruption in AES-GCM support](https://hackerone.com/reports/500) to The Internet - 4 upvotes, $1500
-36. [Dragonblood: Design and Implementation Flaws in WPA3 and EAP-pwd](https://hackerone.com/reports/745276) to The Internet - 4 upvotes, $750
+27. [libtiff 4.0.6 heap bufer overflow / out of bounds read (CVE-2016-9273)](https://hackerone.com/reports/181642) to The Internet - 6 upvotes, $500
+28. [RCE on default Ubuntu Desktop \>= 12.10 Quantal](https://hackerone.com/reports/192512) to The Internet - 6 upvotes, $0
+29. [Dragonblood: Design and Implementation Flaws in WPA3 and EAP-pwd](https://hackerone.com/reports/745276) to The Internet - 5 upvotes, $750
+30. [libtiff 4.0.6 segfault / read outside of buffer (CVE-2016-9297)](https://hackerone.com/reports/182140) to The Internet - 5 upvotes, $500
+31. [Unsecure: Bypass alerts of Little Flocker / Little Snitch / HandsOff! / BlockBlock (same concept can be applied to other security tools)](https://hackerone.com/reports/265232) to The Internet - 5 upvotes, $0
+32. [CVE-2017-10966: Heap-use-after-free in Irssi \<1.0.4](https://hackerone.com/reports/247028) to The Internet - 5 upvotes, $0
+33. [Exim use-after-free vulnerability while reading mail header involving BDAT commands](https://hackerone.com/reports/296991) to The Internet - 5 upvotes, $0
+34. [Malicious Server can force read any file on clients system with default configuration in MySQL Clients](https://hackerone.com/reports/171593) to The Internet - 5 upvotes, $0
+35. [Bypassing Same Origin Policy With JSONP APIs and Flash](https://hackerone.com/reports/10373) to The Internet - 4 upvotes, $3000
+36. [OpenSSH: Memory corruption in AES-GCM support](https://hackerone.com/reports/500) to The Internet - 4 upvotes, $1500
 37. [Denial of service in libxml2, using malicious lzma file to consume available system memory](https://hackerone.com/reports/270059) to The Internet - 4 upvotes, $0
 38. [CVE-2017-11367: Global buffer overflow (READ of size 4) in shoco C library ](https://hackerone.com/reports/250581) to The Internet - 4 upvotes, $0
 39. [Two vulnerability in GNU binutils](https://hackerone.com/reports/323017) to The Internet - 4 upvotes, $0

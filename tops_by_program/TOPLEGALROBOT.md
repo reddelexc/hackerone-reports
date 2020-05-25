@@ -27,18 +27,18 @@ Top reports from Legal Robot program at HackerOne:
 23. [Pages don't render in old browsers like IE11](https://hackerone.com/reports/251468) to Legal Robot - 9 upvotes, $20
 24. [Meta characters are not filtered into full name on profile page](https://hackerone.com/reports/251469) to Legal Robot - 9 upvotes, $20
 25. [I cant login to my account](https://hackerone.com/reports/263743) to Legal Robot - 9 upvotes, $0
-26. [User Information sent to client through websockets](https://hackerone.com/reports/163464) to Legal Robot - 8 upvotes, $120
-27. [Missing link to TOTP manual enroll option](https://hackerone.com/reports/249339) to Legal Robot - 8 upvotes, $90
-28. [Information Disclosure in AWS S3 Bucket](https://hackerone.com/reports/163476) to Legal Robot - 8 upvotes, $20
-29. [User enumeration](https://hackerone.com/reports/250457) to Legal Robot - 8 upvotes, $20
-30. [[New Feature] Password history check](https://hackerone.com/reports/250741) to Legal Robot - 8 upvotes, $20
-31. [[Cross-domain Referer leakage] Password reset token leakage via referer](https://hackerone.com/reports/253448) to Legal Robot - 8 upvotes, $20
-32. [Improper validation of parameters while creating issues](https://hackerone.com/reports/260632) to Legal Robot - 8 upvotes, $20
-33. [first name and last name restrictions bypass](https://hackerone.com/reports/260468) to Legal Robot - 8 upvotes, $20
-34. [Big XSS vulnerability!](https://hackerone.com/reports/216330) to Legal Robot - 8 upvotes, $0
-35. [External links to be in HTTP](https://hackerone.com/reports/269288) to Legal Robot - 8 upvotes, $0
-36. [Clickjacking in Legalrobot app](https://hackerone.com/reports/270454) to Legal Robot - 8 upvotes, $0
-37. [User Information leak allows user to bypass email verification.](https://hackerone.com/reports/163467) to Legal Robot - 7 upvotes, $120
+26. [User Information leak allows user to bypass email verification.](https://hackerone.com/reports/163467) to Legal Robot - 8 upvotes, $120
+27. [User Information sent to client through websockets](https://hackerone.com/reports/163464) to Legal Robot - 8 upvotes, $120
+28. [Missing link to TOTP manual enroll option](https://hackerone.com/reports/249339) to Legal Robot - 8 upvotes, $90
+29. [Information Disclosure in AWS S3 Bucket](https://hackerone.com/reports/163476) to Legal Robot - 8 upvotes, $20
+30. [User enumeration](https://hackerone.com/reports/250457) to Legal Robot - 8 upvotes, $20
+31. [[New Feature] Password history check](https://hackerone.com/reports/250741) to Legal Robot - 8 upvotes, $20
+32. [[Cross-domain Referer leakage] Password reset token leakage via referer](https://hackerone.com/reports/253448) to Legal Robot - 8 upvotes, $20
+33. [Improper validation of parameters while creating issues](https://hackerone.com/reports/260632) to Legal Robot - 8 upvotes, $20
+34. [first name and last name restrictions bypass](https://hackerone.com/reports/260468) to Legal Robot - 8 upvotes, $20
+35. [Big XSS vulnerability!](https://hackerone.com/reports/216330) to Legal Robot - 8 upvotes, $0
+36. [External links to be in HTTP](https://hackerone.com/reports/269288) to Legal Robot - 8 upvotes, $0
+37. [Clickjacking in Legalrobot app](https://hackerone.com/reports/270454) to Legal Robot - 8 upvotes, $0
 38. [Missing link to 2FA recovery code](https://hackerone.com/reports/249346) to Legal Robot - 7 upvotes, $90
 39. [Validation bypass on user profile](https://hackerone.com/reports/164687) to Legal Robot - 7 upvotes, $60
 40. [Token leakage by referrer](https://hackerone.com/reports/213936) to Legal Robot - 7 upvotes, $60
