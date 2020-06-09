@@ -2,10 +2,10 @@
 
 Top reports from WordPress program at HackerOne:
 
-1. [Stored XSS Vulnerability](https://hackerone.com/reports/643908) to WordPress - 354 upvotes, $500
+1. [Stored XSS Vulnerability](https://hackerone.com/reports/643908) to WordPress - 355 upvotes, $500
 2. [Stored XSS in Private Message component (BuddyPress)](https://hackerone.com/reports/487081) to WordPress - 331 upvotes, $500
 3. [Stored XSS on byddypress Plug-in via groups name](https://hackerone.com/reports/592316) to WordPress - 127 upvotes, $450
-4. [Wordpress unzip_file path traversal](https://hackerone.com/reports/205481) to WordPress - 107 upvotes, $800
+4. [Wordpress unzip_file path traversal](https://hackerone.com/reports/205481) to WordPress - 108 upvotes, $800
 5. [Reflected XSS on https://make.wordpress.org via 'channel' parameter](https://hackerone.com/reports/659419) to WordPress - 95 upvotes, $387
 6. [CSRF to HTML Injection in Comments](https://hackerone.com/reports/428019) to WordPress - 92 upvotes, $950
 7. [Potential unprivileged Stored XSS through wp_targeted_link_rel](https://hackerone.com/reports/509930) to WordPress - 79 upvotes, $650
@@ -40,8 +40,8 @@ Top reports from WordPress program at HackerOne:
 36. [[mercantile.wordpress.org] Reflected XSS](https://hackerone.com/reports/240256) to WordPress - 11 upvotes, $225
 37. [Missing SSL can leak job token ](https://hackerone.com/reports/222036) to WordPress - 11 upvotes, $0
 38. [Stored xss via template injection](https://hackerone.com/reports/250837) to WordPress - 10 upvotes, $300
-39. [MediaElements XSS](https://hackerone.com/reports/299112) to WordPress - 9 upvotes, $450
-40. [Clickjacking mercantile.wordpress.org](https://hackerone.com/reports/264125) to WordPress - 9 upvotes, $0
+39. [Clickjacking mercantile.wordpress.org](https://hackerone.com/reports/264125) to WordPress - 10 upvotes, $0
+40. [MediaElements XSS](https://hackerone.com/reports/299112) to WordPress - 9 upvotes, $450
 41. [[Buddypress] Arbitrary File Deletion through bp_avatar_set](https://hackerone.com/reports/183568) to WordPress - 8 upvotes, $350
 42. [Lack of Sanitization and Insufficient Authentication](https://hackerone.com/reports/249759) to WordPress - 8 upvotes, $300
 43. [XSS on support.wordcamp.org in ajax-quote.php](https://hackerone.com/reports/355773) to WordPress - 8 upvotes, $225
@@ -57,12 +57,12 @@ Top reports from WordPress program at HackerOne:
 53. [[support.wordcamp.org] - publicly accessible .svn repository](https://hackerone.com/reports/309714) to WordPress - 7 upvotes, $0
 54. [Unauthenticated hidden groups disclosure via Ajax groups search](https://hackerone.com/reports/282176) to WordPress - 5 upvotes, $275
 55. [WordPress core  - Denial of Service via Cross Site Request Forgery](https://hackerone.com/reports/153093) to WordPress - 5 upvotes, $250
-56. [Account takeover vulnerability by editor role privileged users/attackers via clickjacking](https://hackerone.com/reports/388254) to WordPress - 5 upvotes, $0
-57. [CSRF in Profile Fields allows deleting any field in BuddyPress](https://hackerone.com/reports/836187) to WordPress - 4 upvotes, $225
-58. [Administrator(s) Information disclosure via JSON on wordpress.org](https://hackerone.com/reports/221734) to WordPress - 4 upvotes, $0
-59. [Wordpress 4.8.1 - Rogue editor leads to RCE. And the risks of same origin frame scripting in general](https://hackerone.com/reports/263718) to WordPress - 4 upvotes, $0
-60. [Privilege Escalation in BuddyPress core allows Moderate to Administrator ](https://hackerone.com/reports/837018) to WordPress - 3 upvotes, $225
-61. [Improper Access Control in Buddypress core allows reply,delete any user's activity](https://hackerone.com/reports/837256) to WordPress - 3 upvotes, $225
+56. [CSRF in Profile Fields allows deleting any field in BuddyPress](https://hackerone.com/reports/836187) to WordPress - 5 upvotes, $225
+57. [Account takeover vulnerability by editor role privileged users/attackers via clickjacking](https://hackerone.com/reports/388254) to WordPress - 5 upvotes, $0
+58. [Improper Access Control in Buddypress core allows reply,delete any user's activity](https://hackerone.com/reports/837256) to WordPress - 4 upvotes, $225
+59. [Administrator(s) Information disclosure via JSON on wordpress.org](https://hackerone.com/reports/221734) to WordPress - 4 upvotes, $0
+60. [Wordpress 4.8.1 - Rogue editor leads to RCE. And the risks of same origin frame scripting in general](https://hackerone.com/reports/263718) to WordPress - 4 upvotes, $0
+61. [Privilege Escalation in BuddyPress core allows Moderate to Administrator ](https://hackerone.com/reports/837018) to WordPress - 3 upvotes, $225
 62. [antispambot does not always escape \<, \>, &, " and '](https://hackerone.com/reports/298218) to WordPress - 3 upvotes, $0
 63. [Stored XSS in WordPress](https://hackerone.com/reports/276105) to WordPress - 2 upvotes, $0
 64. [WordPress Automatic Update Protocol Does Not Authenticate Updates Provided by the Server](https://hackerone.com/reports/228854) to WordPress - 2 upvotes, $0

@@ -3,7 +3,7 @@
 Top Clickjacking reports from HackerOne:
 
 1. [Highly wormable clickjacking in player card](https://hackerone.com/reports/85624) to Twitter - 124 upvotes, $5040
-2. [Twitter Periscope Clickjacking Vulnerability](https://hackerone.com/reports/591432) to Twitter - 121 upvotes, $1120
+2. [Twitter Periscope Clickjacking Vulnerability](https://hackerone.com/reports/591432) to Twitter - 122 upvotes, $1120
 3. [Viral Direct Message Clickjacking via link truncation leading to capture of both Google credentials & installation of malicious 3rd party Twitter App](https://hackerone.com/reports/643274) to Twitter - 64 upvotes, $1120
 4. [Sensitive Clickjacking on admin login page.](https://hackerone.com/reports/389145) to Shipt - 50 upvotes, $100
 5. [Stealing User emails by clickjacking cards.twitter.com/xxx/xxx](https://hackerone.com/reports/154963) to Twitter - 49 upvotes, $1120
@@ -25,8 +25,8 @@ Top Clickjacking reports from HackerOne:
 21. [Modify account details by exploiting clickjacking vulnerability on refer.wordpress.com](https://hackerone.com/reports/765355) to Automattic - 11 upvotes, $75
 22. [AWS S3 website can't serve security headers, may allow clickjacking](https://hackerone.com/reports/149572) to Legal Robot - 11 upvotes, $40
 23. [Clickjacking Periscope.tv on Chrome](https://hackerone.com/reports/198622) to Twitter - 10 upvotes, $560
-24. [clickjacking в /lead_forms_app.php](https://hackerone.com/reports/294334) to VK.com - 10 upvotes, $0
-25. [Clickjacking mercantile.wordpress.org](https://hackerone.com/reports/264125) to WordPress - 9 upvotes, $0
+24. [Clickjacking mercantile.wordpress.org](https://hackerone.com/reports/264125) to WordPress - 10 upvotes, $0
+25. [clickjacking в /lead_forms_app.php](https://hackerone.com/reports/294334) to VK.com - 10 upvotes, $0
 26. [Delete images of users  with clickjacking in https://pw.mail.ru](https://hackerone.com/reports/675614) to Mail.ru - 9 upvotes, $0
 27. [Following links are vulnerable to clickjacking](https://hackerone.com/reports/289246) to SEMrush - 8 upvotes, $150
 28. [Clickjacking on authorized page https://wakatime.com/share/embed](https://hackerone.com/reports/244967) to WakaTime - 8 upvotes, $0

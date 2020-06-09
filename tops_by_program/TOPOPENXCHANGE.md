@@ -3,8 +3,8 @@
 Top reports from Open-Xchange program at HackerOne:
 
 1. [Arbitrary local system file read on open-xchange server ](https://hackerone.com/reports/303744) to Open-Xchange - 124 upvotes, $2000
-2. [Null pointer dereference in SMTP server function smtp_string_parse](https://hackerone.com/reports/827729) to Open-Xchange - 82 upvotes, $1500
-3. [Blind XXE via Powerpoint files](https://hackerone.com/reports/334488) to Open-Xchange - 79 upvotes, $2000
+2. [Null pointer dereference in SMTP server function smtp_string_parse](https://hackerone.com/reports/827729) to Open-Xchange - 103 upvotes, $1500
+3. [Blind XXE via Powerpoint files](https://hackerone.com/reports/334488) to Open-Xchange - 81 upvotes, $2000
 4. [SSRF in VCARD photo upload functionality](https://hackerone.com/reports/296045) to Open-Xchange - 49 upvotes, $850
 5. [OX (Guard): Stored Cross-Site Scripting via Incoming Email](https://hackerone.com/reports/156258) to Open-Xchange - 48 upvotes, $1000
 6. [CSRF combined with IDOR within Document Converter exposes files](https://hackerone.com/reports/398316) to Open-Xchange - 48 upvotes, $500
@@ -83,6 +83,7 @@ Top reports from Open-Xchange program at HackerOne:
 79. [DIrectory Listing Found](https://hackerone.com/reports/138558) to Open-Xchange - 1 upvotes, $0
 80. [Apache version disclosure](https://hackerone.com/reports/139547) to Open-Xchange - 1 upvotes, $0
 81. [Outdated Apache Server in www.dovecot.fi is vulnerable to various attack.](https://hackerone.com/reports/139591) to Open-Xchange - 1 upvotes, $0
+82. [Missing (or redundant) null check in `dcrypt_openssl_sign`](https://hackerone.com/reports/883606) to Open-Xchange - 0 upvotes, $0
 
 
 [Back](../README.md)

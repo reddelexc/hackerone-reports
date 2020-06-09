@@ -2,19 +2,19 @@
 
 Top reports from Automattic program at HackerOne:
 
-1. [Denial of service to WP-JSON API by cache poisoning the CORS allow origin header](https://hackerone.com/reports/591302) to Automattic - 371 upvotes, $550
-2. [Stored XSS in wordpress.com](https://hackerone.com/reports/733248) to Automattic - 341 upvotes, $650
+1. [Denial of service to WP-JSON API by cache poisoning the CORS allow origin header](https://hackerone.com/reports/591302) to Automattic - 374 upvotes, $550
+2. [Stored XSS in wordpress.com](https://hackerone.com/reports/733248) to Automattic - 342 upvotes, $650
 3. [Stored XSS vulnerability in comments on *.wordpress.com](https://hackerone.com/reports/707720) to Automattic - 114 upvotes, $350
 4. [Authenticated Code Execution through Phar deserialization in CSV Importer as Shop manager in WooCommerce](https://hackerone.com/reports/403083) to Automattic - 80 upvotes, $350
-5. [WordPress Flash XSS in *flashmediaelement.swf*](https://hackerone.com/reports/134546) to Automattic - 66 upvotes, $1337
-6. [Disclosure of 152 cookie names via crafted input](https://hackerone.com/reports/310105) to Automattic - 57 upvotes, $100
-7. [Broken Authentication - Security token gets captured via man in the middle attack](https://hackerone.com/reports/206650) to Automattic - 52 upvotes, $200
-8. [Stored Self XSS on https://app.crowdsignal.com (in Photo Insert App) + Stored XSS on https://*your-subdomain*.survey.fm](https://hackerone.com/reports/667188) to Automattic - 52 upvotes, $150
+5. [WordPress Flash XSS in *flashmediaelement.swf*](https://hackerone.com/reports/134546) to Automattic - 67 upvotes, $1337
+6. [Disclosure of 152 cookie names via crafted input](https://hackerone.com/reports/310105) to Automattic - 58 upvotes, $100
+7. [Stored Self XSS on https://app.crowdsignal.com (in Photo Insert App) + Stored XSS on https://*your-subdomain*.survey.fm](https://hackerone.com/reports/667188) to Automattic - 53 upvotes, $150
+8. [Broken Authentication - Security token gets captured via man in the middle attack](https://hackerone.com/reports/206650) to Automattic - 52 upvotes, $200
 9. [Wordpress VIP leaks email of the test a/c](https://hackerone.com/reports/540301) to Automattic - 50 upvotes, $100
 10. [SSRF and local file disclosure in https://wordpress.com/media/videos/ via FFmpeg HLS processing](https://hackerone.com/reports/237381) to Automattic - 49 upvotes, $800
 11. [WordPress SOME bug in plupload.flash.swf leading to RCE](https://hackerone.com/reports/134738) to Automattic - 48 upvotes, $1337
-12. [WooCommerce: Persistent XSS via customer address (state/county)](https://hackerone.com/reports/530499) to Automattic - 39 upvotes, $350
-13. [Captcha bypass for the most important function - At en.instagram-brand.com](https://hackerone.com/reports/206653) to Automattic - 39 upvotes, $150
+12. [Captcha bypass for the most important function - At en.instagram-brand.com](https://hackerone.com/reports/206653) to Automattic - 41 upvotes, $150
+13. [WooCommerce: Persistent XSS via customer address (state/county)](https://hackerone.com/reports/530499) to Automattic - 39 upvotes, $350
 14. [[IDOR] Attacker user can Approve/Decline AFK on the behalf of other users](https://hackerone.com/reports/725569) to Automattic - 39 upvotes, $100
 15. [Stored XSS in Jetpack's Simple Payment Module by Contributors / Authors](https://hackerone.com/reports/402753) to Automattic - 38 upvotes, $350
 16. [DOM based XSS in the WooCommerce plugin](https://hackerone.com/reports/507139) to Automattic - 37 upvotes, $275
@@ -25,7 +25,7 @@ Top reports from Automattic program at HackerOne:
 21. [WordPress core stored XSS via attachment file name](https://hackerone.com/reports/139245) to Automattic - 25 upvotes, $500
 22. [WooCommerce Blacklist in 'map_meta_cap' leads to Privilege Escalation of Shopmanagers](https://hackerone.com/reports/403039) to Automattic - 25 upvotes, $350
 23. [RCE via Print function [Simplenote 1.1.3 - Desktop app] ](https://hackerone.com/reports/358049) to Automattic - 25 upvotes, $250
-24. [Authentication Bypass - Chaining two vulnerabilities leads to account takeover at en.instagram-brand.com](https://hackerone.com/reports/209008) to Automattic - 21 upvotes, $175
+24. [Authentication Bypass - Chaining two vulnerabilities leads to account takeover at en.instagram-brand.com](https://hackerone.com/reports/209008) to Automattic - 24 upvotes, $175
 25. [Stored XSS in learnboost.com via the lesson[goals] parameter.](https://hackerone.com/reports/300270) to Automattic - 21 upvotes, $100
 26. [xss filter bypass [polldaddy]](https://hackerone.com/reports/264832) to Automattic - 20 upvotes, $150
 27. [Improper markup sanitization.](https://hackerone.com/reports/289823) to Automattic - 18 upvotes, $150

@@ -6,7 +6,7 @@ Top reports from The Internet program at HackerOne:
 2. [Ubuntu Linux privilege escalation (dirty_sock)](https://hackerone.com/reports/496285) to The Internet - 98 upvotes, $1000
 3. [RCE via ssh:// URIs in multiple VCS ](https://hackerone.com/reports/260005) to The Internet - 38 upvotes, $3000
 4. [ACME TLS-SNI-01/02 challenge vulnerable when combined with shared hosting providers](https://hackerone.com/reports/304378) to The Internet - 34 upvotes, $0
-5. [Race Conditions in OAuth 2 API implementations](https://hackerone.com/reports/55140) to The Internet - 31 upvotes, $2500
+5. [Race Conditions in OAuth 2 API implementations](https://hackerone.com/reports/55140) to The Internet - 32 upvotes, $2500
 6. [ZeroMQ libzmq remote code execution](https://hackerone.com/reports/477073) to The Internet - 28 upvotes, $1000
 7. [Mailsploit: a sender spoofing bug in over 30 email clients](https://hackerone.com/reports/295339) to The Internet - 26 upvotes, $0
 8. [4 severe remote + several minor OpenVPN vulnerabilities](https://hackerone.com/reports/242579) to The Internet - 26 upvotes, $0
@@ -41,16 +41,16 @@ Top reports from The Internet program at HackerOne:
 37. [Denial of service in libxml2, using malicious lzma file to consume available system memory](https://hackerone.com/reports/270059) to The Internet - 4 upvotes, $0
 38. [CVE-2017-11367: Global buffer overflow (READ of size 4) in shoco C library ](https://hackerone.com/reports/250581) to The Internet - 4 upvotes, $0
 39. [Two vulnerability in GNU binutils](https://hackerone.com/reports/323017) to The Internet - 4 upvotes, $0
-40. [Mercurial can be tricked into granting authorized users access to the Python debugger](https://hackerone.com/reports/222020) to The Internet - 3 upvotes, $500
-41. [pngcrush double-free/segfault could result in DoS (CVE-2015-7700)](https://hackerone.com/reports/93546) to The Internet - 3 upvotes, $0
-42. [CVE-2017-5969: libxml2 when used in recover mode, allows remote attackers to cause a denial of service (NULL pointer dereference)](https://hackerone.com/reports/262665) to The Internet - 3 upvotes, $0
-43. [CVE-2017-10965: Null pointer dereference in Irssi \<1.0.4 ](https://hackerone.com/reports/247027) to The Internet - 3 upvotes, $0
-44. [GarlicRust - heartbleed style vulnerability in major I2P C++ router implementations](https://hackerone.com/reports/295740) to The Internet - 3 upvotes, $0
-45. [Exim handles BDAT data incorrectly and leads to crash/hang](https://hackerone.com/reports/296994) to The Internet - 3 upvotes, $0
-46. [Incorrect logic in MySQL & MariaDB protocol leads to remote SSRF/Remote file read](https://hackerone.com/reports/156511) to The Internet - 3 upvotes, $0
-47. [FREAK: Factoring RSA_EXPORT Keys to Impersonate TLS Servers](https://hackerone.com/reports/50170) to The Internet - 2 upvotes, $7500
-48. [open redirect in rfc6749](https://hackerone.com/reports/26962) to The Internet - 2 upvotes, $3000
-49. [OpenSSH / dropbearSSHd xauth command injection](https://hackerone.com/reports/122113) to The Internet - 2 upvotes, $1500
+40. [OpenSSH / dropbearSSHd xauth command injection](https://hackerone.com/reports/122113) to The Internet - 3 upvotes, $1500
+41. [Mercurial can be tricked into granting authorized users access to the Python debugger](https://hackerone.com/reports/222020) to The Internet - 3 upvotes, $500
+42. [pngcrush double-free/segfault could result in DoS (CVE-2015-7700)](https://hackerone.com/reports/93546) to The Internet - 3 upvotes, $0
+43. [CVE-2017-5969: libxml2 when used in recover mode, allows remote attackers to cause a denial of service (NULL pointer dereference)](https://hackerone.com/reports/262665) to The Internet - 3 upvotes, $0
+44. [CVE-2017-10965: Null pointer dereference in Irssi \<1.0.4 ](https://hackerone.com/reports/247027) to The Internet - 3 upvotes, $0
+45. [GarlicRust - heartbleed style vulnerability in major I2P C++ router implementations](https://hackerone.com/reports/295740) to The Internet - 3 upvotes, $0
+46. [Exim handles BDAT data incorrectly and leads to crash/hang](https://hackerone.com/reports/296994) to The Internet - 3 upvotes, $0
+47. [Incorrect logic in MySQL & MariaDB protocol leads to remote SSRF/Remote file read](https://hackerone.com/reports/156511) to The Internet - 3 upvotes, $0
+48. [FREAK: Factoring RSA_EXPORT Keys to Impersonate TLS Servers](https://hackerone.com/reports/50170) to The Internet - 2 upvotes, $7500
+49. [open redirect in rfc6749](https://hackerone.com/reports/26962) to The Internet - 2 upvotes, $3000
 50. [Silent omission of certificate hostname verification in LibreSSL and BoringSSL](https://hackerone.com/reports/329645) to The Internet - 2 upvotes, $0
 51. [pngcrush_measure_idat() off-by-one error (CVE-2015-2158)](https://hackerone.com/reports/73429) to The Internet - 2 upvotes, $0
 52. [Multiple issues in Libxml2 (2.9.2 - 2.9.5)](https://hackerone.com/reports/293126) to The Internet - 2 upvotes, $0

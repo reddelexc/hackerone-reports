@@ -26,12 +26,12 @@ Top reports from concrete5 program at HackerOne:
 22. [XSS on [/concrete/concrete/elements/dashboard/sitemap.php]](https://hackerone.com/reports/6853) to concrete5 - 4 upvotes, $0
 23. [Stored XSS in RSS Feeds Title (Concrete5 v8.1.0)](https://hackerone.com/reports/221380) to concrete5 - 4 upvotes, $0
 24. [XSS in private message](https://hackerone.com/reports/4826) to concrete5 - 3 upvotes, $0
-25. [FULL PATH DISCLOSUR ](https://hackerone.com/reports/7736) to concrete5 - 2 upvotes, $0
-26. [Multiple Cross Site Request Forgery Vulnerabilities in Concrete5 version 5.7.3.1](https://hackerone.com/reports/59660) to concrete5 - 2 upvotes, $0
-27. [Multiple Stored Cross Site Scripting Vulnerabilities in Concrete5 version 5.7.3.1](https://hackerone.com/reports/59662) to concrete5 - 2 upvotes, $0
-28. [Content Spoofing possible in concrete5.org](https://hackerone.com/reports/168078) to concrete5 - 2 upvotes, $0
-29. [Administrators can add other administrators](https://hackerone.com/reports/304642) to concrete5 - 2 upvotes, $0
-30. [XSS IN member List (Because of City Textbox)](https://hackerone.com/reports/4839) to concrete5 - 1 upvotes, $0
+25. [XSS IN member List (Because of City Textbox)](https://hackerone.com/reports/4839) to concrete5 - 2 upvotes, $0
+26. [FULL PATH DISCLOSUR ](https://hackerone.com/reports/7736) to concrete5 - 2 upvotes, $0
+27. [Multiple Cross Site Request Forgery Vulnerabilities in Concrete5 version 5.7.3.1](https://hackerone.com/reports/59660) to concrete5 - 2 upvotes, $0
+28. [Multiple Stored Cross Site Scripting Vulnerabilities in Concrete5 version 5.7.3.1](https://hackerone.com/reports/59662) to concrete5 - 2 upvotes, $0
+29. [Content Spoofing possible in concrete5.org](https://hackerone.com/reports/168078) to concrete5 - 2 upvotes, $0
+30. [Administrators can add other administrators](https://hackerone.com/reports/304642) to concrete5 - 2 upvotes, $0
 31. [/index.php/dashboard/sitemap/explore/ Cross-site scripting](https://hackerone.com/reports/4808) to concrete5 - 1 upvotes, $0
 32. [Weak random number generator used in concrete/authentication/concrete/controller.php](https://hackerone.com/reports/31171) to concrete5 - 1 upvotes, $0
 33. [Sendmail Remote Code Execution Vulnerability in Concrete5 version 5.7.3.1](https://hackerone.com/reports/59663) to concrete5 - 1 upvotes, $0

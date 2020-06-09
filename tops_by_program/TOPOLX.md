@@ -4,8 +4,8 @@ Top reports from OLX program at HackerOne:
 
 1. [XSS - main page - search[user_id] parameter](https://hackerone.com/reports/477771) to OLX - 135 upvotes, $0
 2. [[Critical] Delete any account ](https://hackerone.com/reports/158872) to OLX - 112 upvotes, $0
-3. [SQL Injection on https://www.olx.co.id](https://hackerone.com/reports/639876) to OLX - 69 upvotes, $0
-4. [web cache deception in https://tradus.com lead to name/user_id enumeration and other info](https://hackerone.com/reports/537564) to OLX - 57 upvotes, $0
+3. [SQL Injection on https://www.olx.co.id](https://hackerone.com/reports/639876) to OLX - 70 upvotes, $0
+4. [web cache deception in https://tradus.com lead to name/user_id enumeration and other info](https://hackerone.com/reports/537564) to OLX - 58 upvotes, $0
 5. [SQL Injection https://www.olx.co.id](https://hackerone.com/reports/446293) to OLX - 47 upvotes, $0
 6. [Reflected XSS on https://www.olx.co.id/iklan/*.html via "ad_type" parameter](https://hackerone.com/reports/630265) to OLX - 35 upvotes, $0
 7. [XSS inside HTML Link Tag](https://hackerone.com/reports/504984) to OLX - 29 upvotes, $0

@@ -2,39 +2,39 @@
 
 Top Open Redirect reports from HackerOne:
 
-1. [XSS and Open Redirect on MoPub Login](https://hackerone.com/reports/683298) to Twitter - 214 upvotes, $1540
-2. [Open Redirect in secure.showmax.com](https://hackerone.com/reports/749338) to Showmax - 209 upvotes, $550
-3. [Open redirect at https://inventory.upserve.com/http://google.com/](https://hackerone.com/reports/469803) to Upserve  - 154 upvotes, $1200
-4. [Open Redirect on central.uber.com allows for account takeover](https://hackerone.com/reports/206591) to Uber - 105 upvotes, $8000
+1. [XSS and Open Redirect on MoPub Login](https://hackerone.com/reports/683298) to Twitter - 215 upvotes, $1540
+2. [Open Redirect in secure.showmax.com](https://hackerone.com/reports/749338) to Showmax - 212 upvotes, $550
+3. [Open redirect at https://inventory.upserve.com/http://google.com/](https://hackerone.com/reports/469803) to Upserve  - 155 upvotes, $1200
+4. [Open Redirect on central.uber.com allows for account takeover](https://hackerone.com/reports/206591) to Uber - 109 upvotes, $8000
 5. [Twitter lite(Android): Vulnerable to local file steal, Javascript injection, Open redirect ](https://hackerone.com/reports/499348) to Twitter - 80 upvotes, $1120
-6. [Open redirect vulnerability](https://hackerone.com/reports/380760) to Rockstar Games - 78 upvotes, $250
-7. [Open redirect](https://hackerone.com/reports/753399) to NordVPN - 71 upvotes, $500
-8. [Open Redirect](https://hackerone.com/reports/504751) to Omise - 54 upvotes, $100
-9. [[dev.twitter.com] XSS and Open Redirect](https://hackerone.com/reports/260744) to Twitter - 53 upvotes, $1120
-10. [Open redirection at https://chaturbate.com/auth/login/](https://hackerone.com/reports/411723) to Chaturbate - 51 upvotes, $200
-11. [Open Redirection in index.php page](https://hackerone.com/reports/320376) to HackerOne - 49 upvotes, $250
-12. [Open Redirection in Login - Korean Starbucks](https://hackerone.com/reports/380939) to Starbucks - 49 upvotes, $0
+6. [Open redirect vulnerability](https://hackerone.com/reports/380760) to Rockstar Games - 79 upvotes, $250
+7. [Open redirect](https://hackerone.com/reports/753399) to NordVPN - 72 upvotes, $500
+8. [[dev.twitter.com] XSS and Open Redirect](https://hackerone.com/reports/260744) to Twitter - 55 upvotes, $1120
+9. [Open Redirect](https://hackerone.com/reports/504751) to Omise - 55 upvotes, $100
+10. [Open redirection at https://chaturbate.com/auth/login/](https://hackerone.com/reports/411723) to Chaturbate - 52 upvotes, $200
+11. [Open Redirection in index.php page](https://hackerone.com/reports/320376) to HackerOne - 50 upvotes, $250
+12. [Open Redirection in Login - Korean Starbucks](https://hackerone.com/reports/380939) to Starbucks - 50 upvotes, $0
 13. [[crm.unikrn.com] Open Redirect](https://hackerone.com/reports/297803) to Unikrn - 46 upvotes, $50
-14. [Open redirect vuln on login](https://hackerone.com/reports/608031) to Vercel - 43 upvotes, $0
-15. [[dev.twitter.com] XSS and Open Redirect Protection Bypass](https://hackerone.com/reports/330008) to Twitter - 41 upvotes, $1120
-16. [Open redirect on https://hq-api.upserve.com/](https://hackerone.com/reports/497664) to Upserve  - 39 upvotes, $1000
-17. [(HackerOne SSO-SAML) Login CSRF, Open Redirect, and Self-XSS Possible Exploitation](https://hackerone.com/reports/171398) to HackerOne - 39 upvotes, $0
-18. [Open Redirect](https://hackerone.com/reports/246897) to Twitter - 38 upvotes, $420
-19. [Open redirect vulnerability in index.php](https://hackerone.com/reports/439075) to HackerOne - 37 upvotes, $0
-20. [[keybase.io] Open Redirect](https://hackerone.com/reports/87027) to Keybase - 35 upvotes, $500
-21. [(BYPASS) Open redirect and XSS in supporthiring.shopify.com](https://hackerone.com/reports/158434) to Shopify - 32 upvotes, $1000
-22. [Open redirect protection (https://www.pixiv.net/jump.php) is broken for novels](https://hackerone.com/reports/541862) to pixiv - 32 upvotes, $200
-23. [Open Redirect on Gitllab Oauth leading to Acount Takeover](https://hackerone.com/reports/677617) to Vercel - 32 upvotes, $0
-24. [Open Redirect filter bypass through '\' character via URL parameter](https://hackerone.com/reports/840736) to Myndr - 32 upvotes, $0
-25. [Open Redirection in [https://www.hackerone.com/index.php]](https://hackerone.com/reports/562417) to HackerOne - 31 upvotes, $0
-26. [[http2.cloudflare.com] Open Redirect](https://hackerone.com/reports/193027) to Cloudflare Vulnerability Disclosure - 28 upvotes, $0
-27. [Open redirect bypass &  SSRF Security Vulnerability](https://hackerone.com/reports/771465) to Smule - 26 upvotes, $0
-28. [Open redirect in bulk edit](https://hackerone.com/reports/169759) to Shopify - 25 upvotes, $500
-29. [Open Redirect (verkkopalvelu.lahitapiola.fi)](https://hackerone.com/reports/179328) to LocalTapiola - 25 upvotes, $400
-30. [Open redirect using theme install](https://hackerone.com/reports/101962) to Shopify - 24 upvotes, $500
-31. [Open redirect on the https://tt.hboeck.de](https://hackerone.com/reports/503922) to Hanno's projects - 24 upvotes, $0
-32. [Open Redirect via login avito.ru | Protection bypass](https://hackerone.com/reports/355558) to Avito - 24 upvotes, $0
-33. [http://www.nextcloud.com/wp-includes/js/swfupload/swfupload.swf allows open redirect / site defacement](https://hackerone.com/reports/209520) to Nextcloud - 24 upvotes, $0
+14. [Open redirect vuln on login](https://hackerone.com/reports/608031) to Vercel - 44 upvotes, $0
+15. [[dev.twitter.com] XSS and Open Redirect Protection Bypass](https://hackerone.com/reports/330008) to Twitter - 42 upvotes, $1120
+16. [Open redirect on https://hq-api.upserve.com/](https://hackerone.com/reports/497664) to Upserve  - 40 upvotes, $1000
+17. [Open Redirect](https://hackerone.com/reports/246897) to Twitter - 39 upvotes, $420
+18. [(HackerOne SSO-SAML) Login CSRF, Open Redirect, and Self-XSS Possible Exploitation](https://hackerone.com/reports/171398) to HackerOne - 39 upvotes, $0
+19. [Open redirect vulnerability in index.php](https://hackerone.com/reports/439075) to HackerOne - 38 upvotes, $0
+20. [[keybase.io] Open Redirect](https://hackerone.com/reports/87027) to Keybase - 36 upvotes, $500
+21. [Open redirect protection (https://www.pixiv.net/jump.php) is broken for novels](https://hackerone.com/reports/541862) to pixiv - 34 upvotes, $200
+22. [(BYPASS) Open redirect and XSS in supporthiring.shopify.com](https://hackerone.com/reports/158434) to Shopify - 33 upvotes, $1000
+23. [Open Redirect on Gitllab Oauth leading to Acount Takeover](https://hackerone.com/reports/677617) to Vercel - 33 upvotes, $0
+24. [Open Redirect filter bypass through '\' character via URL parameter](https://hackerone.com/reports/840736) to Myndr - 33 upvotes, $0
+25. [Open Redirection in [https://www.hackerone.com/index.php]](https://hackerone.com/reports/562417) to HackerOne - 32 upvotes, $0
+26. [[http2.cloudflare.com] Open Redirect](https://hackerone.com/reports/193027) to Cloudflare Vulnerability Disclosure - 29 upvotes, $0
+27. [Open redirect bypass &  SSRF Security Vulnerability](https://hackerone.com/reports/771465) to Smule - 27 upvotes, $0
+28. [Open Redirect (verkkopalvelu.lahitapiola.fi)](https://hackerone.com/reports/179328) to LocalTapiola - 26 upvotes, $400
+29. [Open redirect using theme install](https://hackerone.com/reports/101962) to Shopify - 25 upvotes, $500
+30. [Open redirect in bulk edit](https://hackerone.com/reports/169759) to Shopify - 25 upvotes, $500
+31. [http://www.nextcloud.com/wp-includes/js/swfupload/swfupload.swf allows open redirect / site defacement](https://hackerone.com/reports/209520) to Nextcloud - 25 upvotes, $0
+32. [Open redirect on the https://tt.hboeck.de](https://hackerone.com/reports/503922) to Hanno's projects - 24 upvotes, $0
+33. [Open Redirect via login avito.ru | Protection bypass](https://hackerone.com/reports/355558) to Avito - 24 upvotes, $0
 34. [Open Redirect & Information Disclosure [mijn.werkenbijdefensie.nl]](https://hackerone.com/reports/239503) to Maximum - 23 upvotes, $350
 35. [Open Redirect Protection Bypass](https://hackerone.com/reports/283460) to Twitter - 23 upvotes, $280
 36. [[idp.fr.cloud.gov] Open Redirect](https://hackerone.com/reports/387007) to TTS Bug Bounty - 23 upvotes, $150
@@ -75,10 +75,10 @@ Top Open Redirect reports from HackerOne:
 71. [[apps.shopify.com] Open Redirect](https://hackerone.com/reports/160047) to Shopify - 10 upvotes, $500
 72. [Open redirect on rush.uber.com, business.uber.com, and help.uber.com](https://hackerone.com/reports/126070) to Uber - 10 upvotes, $500
 73. [Open Redirect bypass and cookie leakage on www.lahitapiola.com](https://hackerone.com/reports/190188) to LocalTapiola - 10 upvotes, $400
-74. [https://xmpp.nextcloud.com///;@www.google.com allows open redirect](https://hackerone.com/reports/211213) to Nextcloud - 10 upvotes, $0
-75. [Open Redirect in riders.uber.com](https://hackerone.com/reports/125003) to Uber - 9 upvotes, $500
-76. [Open redirect in securegatewayaccess.com / secure.chaturbate.com via prejoin_data parameter](https://hackerone.com/reports/400982) to Chaturbate - 9 upvotes, $250
-77. [open redirect in eb9f.pivcac.prod.login.gov](https://hackerone.com/reports/798742) to TTS Bug Bounty - 9 upvotes, $150
+74. [open redirect in eb9f.pivcac.prod.login.gov](https://hackerone.com/reports/798742) to TTS Bug Bounty - 10 upvotes, $150
+75. [https://xmpp.nextcloud.com///;@www.google.com allows open redirect](https://hackerone.com/reports/211213) to Nextcloud - 10 upvotes, $0
+76. [Open Redirect in riders.uber.com](https://hackerone.com/reports/125003) to Uber - 9 upvotes, $500
+77. [Open redirect in securegatewayaccess.com / secure.chaturbate.com via prejoin_data parameter](https://hackerone.com/reports/400982) to Chaturbate - 9 upvotes, $250
 78. [[admin.c2fo.com] Open Redirect](https://hackerone.com/reports/39198) to C2FO - 9 upvotes, $0
 79. [[hekto] open redirect when target domain name is used as html filename on server](https://hackerone.com/reports/320693) to Node.js third-party modules - 9 upvotes, $0
 80. [Open Redirect On Your Login Panel](https://hackerone.com/reports/473064) to Zomato - 9 upvotes, $0
@@ -88,37 +88,37 @@ Top Open Redirect reports from HackerOne:
 84. [Open Redirection on Uber.com](https://hackerone.com/reports/119236) to Uber - 8 upvotes, $500
 85. [Open Redirect in m.uber.com](https://hackerone.com/reports/125000) to Uber - 8 upvotes, $500
 86. [Open redirection protection bypass (/cs/Satellite)](https://hackerone.com/reports/164895) to LocalTapiola - 8 upvotes, $400
-87. [Open Redirect in \<customer\>.greenhouse.io](https://hackerone.com/reports/203726) to Greenhouse.io - 8 upvotes, $100
-88. [Open Redirection Found in users.whisper.sh](https://hackerone.com/reports/261592) to Whisper - 8 upvotes, $30
-89. [[zaption.com] Open Redirect](https://hackerone.com/reports/45516) to Zaption - 8 upvotes, $0
-90. [[parc.informatica.com] Reflected Cross Site Scripting and Open Redirect](https://hackerone.com/reports/178278) to Informatica - 8 upvotes, $0
-91. [[connect.teavana.com] Open Redirect and abuse of connect.teavana.com](https://hackerone.com/reports/217430) to Starbucks - 8 upvotes, $0
-92. [Open redirection in OAuth](https://hackerone.com/reports/405697) to Shopify - 8 upvotes, $0
-93. [Open redirect in "Language change".](https://hackerone.com/reports/52035) to HackerOne - 7 upvotes, $500
-94. [[BuddyPress 2.9.1] Open Redirect via "wp_http_referer" parameter on "bp-profile-edit" endpoint](https://hackerone.com/reports/277502) to WordPress - 7 upvotes, $275
-95. [Open Redirect located at https://www.robinhood.com/oauth2/authorize/?](https://hackerone.com/reports/206811) to Robinhood - 7 upvotes, $100
-96. [[cooking.lady.mail.ru] Open Redirect](https://hackerone.com/reports/192373) to Mail.ru - 7 upvotes, $0
-97. [Open Redirection on auth.rbk.money](https://hackerone.com/reports/295865) to RBKmoney - 7 upvotes, $0
-98. [Open redirection in https://zeit.co/login?next=](https://hackerone.com/reports/618214) to Vercel - 7 upvotes, $0
-99. [Open Redirect in comment section](https://hackerone.com/reports/603196) to ExpressionEngine - 7 upvotes, $0
-100. [[Bypass] Code injection to open redirect in https://insights.newrelic.com/accounts/2521182/dashboards/1026927](https://hackerone.com/reports/727368) to New Relic - 7 upvotes, $0
-101. [Potential Open-Redirection](https://hackerone.com/reports/765227) to Ian Dunn - 7 upvotes, $0
-102. [Open redirection bypass in /www/admin/campaign-modify.php](https://hackerone.com/reports/794144) to Revive Adserver - 7 upvotes, $0
-103. [Reflected XSS via Unvalidated / Open Redirect in uber.com](https://hackerone.com/reports/125791) to Uber - 6 upvotes, $3000
-104. [XSS and open redirect in verkkopalvelu.lahitapiola.fi](https://hackerone.com/reports/183796) to LocalTapiola - 6 upvotes, $450
+87. [Open Redirect located at https://www.robinhood.com/oauth2/authorize/?](https://hackerone.com/reports/206811) to Robinhood - 8 upvotes, $100
+88. [Open Redirect in \<customer\>.greenhouse.io](https://hackerone.com/reports/203726) to Greenhouse.io - 8 upvotes, $100
+89. [Open Redirection Found in users.whisper.sh](https://hackerone.com/reports/261592) to Whisper - 8 upvotes, $30
+90. [[zaption.com] Open Redirect](https://hackerone.com/reports/45516) to Zaption - 8 upvotes, $0
+91. [[parc.informatica.com] Reflected Cross Site Scripting and Open Redirect](https://hackerone.com/reports/178278) to Informatica - 8 upvotes, $0
+92. [[connect.teavana.com] Open Redirect and abuse of connect.teavana.com](https://hackerone.com/reports/217430) to Starbucks - 8 upvotes, $0
+93. [Open redirection in OAuth](https://hackerone.com/reports/405697) to Shopify - 8 upvotes, $0
+94. [Open redirect in "Language change".](https://hackerone.com/reports/52035) to HackerOne - 7 upvotes, $500
+95. [XSS and open redirect in verkkopalvelu.lahitapiola.fi](https://hackerone.com/reports/183796) to LocalTapiola - 7 upvotes, $450
+96. [[BuddyPress 2.9.1] Open Redirect via "wp_http_referer" parameter on "bp-profile-edit" endpoint](https://hackerone.com/reports/277502) to WordPress - 7 upvotes, $275
+97. [[cooking.lady.mail.ru] Open Redirect](https://hackerone.com/reports/192373) to Mail.ru - 7 upvotes, $0
+98. [Open Redirection on auth.rbk.money](https://hackerone.com/reports/295865) to RBKmoney - 7 upvotes, $0
+99. [Open redirection in https://zeit.co/login?next=](https://hackerone.com/reports/618214) to Vercel - 7 upvotes, $0
+100. [Open Redirect in comment section](https://hackerone.com/reports/603196) to ExpressionEngine - 7 upvotes, $0
+101. [[Bypass] Code injection to open redirect in https://insights.newrelic.com/accounts/2521182/dashboards/1026927](https://hackerone.com/reports/727368) to New Relic - 7 upvotes, $0
+102. [Potential Open-Redirection](https://hackerone.com/reports/765227) to Ian Dunn - 7 upvotes, $0
+103. [Open redirection bypass in /www/admin/campaign-modify.php](https://hackerone.com/reports/794144) to Revive Adserver - 7 upvotes, $0
+104. [Reflected XSS via Unvalidated / Open Redirect in uber.com](https://hackerone.com/reports/125791) to Uber - 6 upvotes, $3000
 105. [Open redirect helps to steal Facebook access_token](https://hackerone.com/reports/99435) to Badoo - 6 upvotes, $153
 106. [Open Redirect in meeting.qiwi.com](https://hackerone.com/reports/100200) to QIWI - 6 upvotes, $100
-107. [Open redirection on login](https://hackerone.com/reports/123172) to New Relic - 6 upvotes, $0
-108. [[rabota.mail.ru] Open Redirect](https://hackerone.com/reports/87804) to Mail.ru - 6 upvotes, $0
-109. [[ml.money.mail.ru] Open Redirect](https://hackerone.com/reports/192375) to Mail.ru - 6 upvotes, $0
-110. [[qpt.mail.ru] CRLF Injection / Open Redirect](https://hackerone.com/reports/181939) to Mail.ru - 6 upvotes, $0
-111. [Open Redirection at https://it.mail.ru/](https://hackerone.com/reports/219599) to Mail.ru - 6 upvotes, $0
-112. [Open Redirect in shopify app URL](https://hackerone.com/reports/226408) to Shopify - 6 upvotes, $0
-113. [Open Redirect in the Path of vendhq.com](https://hackerone.com/reports/692154) to Vend VDP - 6 upvotes, $0
-114. [Hong Kong - Open Redirect on card.starbucks.com.hk](https://hackerone.com/reports/743524) to Starbucks - 6 upvotes, $0
-115. [Open Redirect possible in https://www.shopify.com/admin/](https://hackerone.com/reports/161991) to Shopify - 5 upvotes, $500
-116. [Open Redirect vulnerability in moneybird.com](https://hackerone.com/reports/131728) to Moneybird - 5 upvotes, $50
-117. [Open redirect vulnerability ](https://hackerone.com/reports/2731) to Slack - 5 upvotes, $0
+107. [Open redirect vulnerability ](https://hackerone.com/reports/2731) to Slack - 6 upvotes, $0
+108. [Open redirection on login](https://hackerone.com/reports/123172) to New Relic - 6 upvotes, $0
+109. [[rabota.mail.ru] Open Redirect](https://hackerone.com/reports/87804) to Mail.ru - 6 upvotes, $0
+110. [[ml.money.mail.ru] Open Redirect](https://hackerone.com/reports/192375) to Mail.ru - 6 upvotes, $0
+111. [[qpt.mail.ru] CRLF Injection / Open Redirect](https://hackerone.com/reports/181939) to Mail.ru - 6 upvotes, $0
+112. [Open Redirection at https://it.mail.ru/](https://hackerone.com/reports/219599) to Mail.ru - 6 upvotes, $0
+113. [Open Redirect in shopify app URL](https://hackerone.com/reports/226408) to Shopify - 6 upvotes, $0
+114. [Open Redirect in the Path of vendhq.com](https://hackerone.com/reports/692154) to Vend VDP - 6 upvotes, $0
+115. [Hong Kong - Open Redirect on card.starbucks.com.hk](https://hackerone.com/reports/743524) to Starbucks - 6 upvotes, $0
+116. [Open Redirect possible in https://www.shopify.com/admin/](https://hackerone.com/reports/161991) to Shopify - 5 upvotes, $500
+117. [Open Redirect vulnerability in moneybird.com](https://hackerone.com/reports/131728) to Moneybird - 5 upvotes, $50
 118. [[skyliner.io / qa.skyliner.io] Open Redirect](https://hackerone.com/reports/163124) to Skyliner - 5 upvotes, $0
 119. [Open Redirect in a DoD website](https://hackerone.com/reports/187006) to U.S. Dept Of Defense - 5 upvotes, $0
 120. [Open-redirect on login.xero.com ](https://hackerone.com/reports/122054) to Xero - 5 upvotes, $0

@@ -4,7 +4,7 @@ Top reports from PHP (IBB) program at HackerOne:
 
 1. [In correct casting from size_t to int lead to heap overflow in mcrypt_generic](https://hackerone.com/reports/152398) to PHP (IBB) - 81 upvotes, $1000
 2. [Type Confusion Vulnerability - SOAP / make_http_soap_request()](https://hackerone.com/reports/116773) to PHP (IBB) - 64 upvotes, $1000
-3. [GMP Deserialization Type Confusion Vulnerability [MyBB \<= 1.8.3 RCE Vulnerability]](https://hackerone.com/reports/198734) to PHP (IBB) - 62 upvotes, $1500
+3. [GMP Deserialization Type Confusion Vulnerability [MyBB \<= 1.8.3 RCE Vulnerability]](https://hackerone.com/reports/198734) to PHP (IBB) - 63 upvotes, $1500
 4. [Inappropriate URL parsing may cause security risk!](https://hackerone.com/reports/305974) to PHP (IBB) - 51 upvotes, $1000
 5. [Heap overflow in mysqlnd related to BIT fields (CVE-2016-7412)](https://hackerone.com/reports/176279) to PHP (IBB) - 50 upvotes, $1000
 6. [Int Overflow lead to Heap OverFlow in exif_thumbnail_extract of exif.c](https://hackerone.com/reports/384477) to PHP (IBB) - 42 upvotes, $500
