@@ -2,7 +2,7 @@
 
 Top Clickjacking reports from HackerOne:
 
-1. [Highly wormable clickjacking in player card](https://hackerone.com/reports/85624) to Twitter - 124 upvotes, $5040
+1. [Highly wormable clickjacking in player card](https://hackerone.com/reports/85624) to Twitter - 125 upvotes, $5040
 2. [Twitter Periscope Clickjacking Vulnerability](https://hackerone.com/reports/591432) to Twitter - 122 upvotes, $1120
 3. [Viral Direct Message Clickjacking via link truncation leading to capture of both Google credentials & installation of malicious 3rd party Twitter App](https://hackerone.com/reports/643274) to Twitter - 64 upvotes, $1120
 4. [Sensitive Clickjacking on admin login page.](https://hackerone.com/reports/389145) to Shipt - 50 upvotes, $100

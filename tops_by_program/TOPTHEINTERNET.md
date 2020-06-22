@@ -11,12 +11,12 @@ Top reports from The Internet program at HackerOne:
 7. [Mailsploit: a sender spoofing bug in over 30 email clients](https://hackerone.com/reports/295339) to The Internet - 26 upvotes, $0
 8. [4 severe remote + several minor OpenVPN vulnerabilities](https://hackerone.com/reports/242579) to The Internet - 26 upvotes, $0
 9. [Insufficient shell characters filtering leads to (potentially remote) code execution (CVE-2016-3714)](https://hackerone.com/reports/143966) to The Internet - 20 upvotes, $7500
-10. [TLS Virtual Host Confusion](https://hackerone.com/reports/501) to The Internet - 17 upvotes, $7500
-11. [CVE-2019-5736: Escape from Docker and Kubernetes containers to root on host](https://hackerone.com/reports/495495) to The Internet - 13 upvotes, $1000
-12. [GNU Bourne-Again Shell (Bash) 'Shellshock' Vulnerability](https://hackerone.com/reports/29839) to The Internet - 11 upvotes, $20000
-13. [Exim off-by-one RCE vulnerability](https://hackerone.com/reports/322935) to The Internet - 11 upvotes, $1500
-14. [Cross-site information assertion leak via Content Security Policy](https://hackerone.com/reports/16910) to The Internet - 11 upvotes, $0
-15. [Multiple HTTP Smuggling reports](https://hackerone.com/reports/648434) to The Internet - 11 upvotes, $0
+10. [TLS Virtual Host Confusion](https://hackerone.com/reports/501) to The Internet - 18 upvotes, $7500
+11. [CVE-2019-5736: Escape from Docker and Kubernetes containers to root on host](https://hackerone.com/reports/495495) to The Internet - 14 upvotes, $1000
+12. [Multiple HTTP Smuggling reports](https://hackerone.com/reports/648434) to The Internet - 12 upvotes, $0
+13. [GNU Bourne-Again Shell (Bash) 'Shellshock' Vulnerability](https://hackerone.com/reports/29839) to The Internet - 11 upvotes, $20000
+14. [Exim off-by-one RCE vulnerability](https://hackerone.com/reports/322935) to The Internet - 11 upvotes, $1500
+15. [Cross-site information assertion leak via Content Security Policy](https://hackerone.com/reports/16910) to The Internet - 11 upvotes, $0
 16. [Linux kernel: CVE-2017-7308: a signedness issue in AF_PACKET sockets](https://hackerone.com/reports/684567) to The Internet - 10 upvotes, $0
 17. [Critical vulnerability in JSON Web Encryption (JWE) - RFC 7516 Invalid Curve attack](https://hackerone.com/reports/213437) to The Internet - 9 upvotes, $1000
 18. [Linux kernel: CVE-2017-1000112: a memory corruption due to UFO to non-UFO path switch](https://hackerone.com/reports/684573) to The Internet - 9 upvotes, $0
