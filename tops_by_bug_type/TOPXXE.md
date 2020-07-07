@@ -2,16 +2,16 @@
 
 Top XXE reports from HackerOne:
 
-1. [XXE at ecjobs.starbucks.com.cn/retail/hxpublic_v6/hxdynamicpage6.aspx](https://hackerone.com/reports/500515) to Starbucks - 294 upvotes, $4000
+1. [XXE at ecjobs.starbucks.com.cn/retail/hxpublic_v6/hxdynamicpage6.aspx](https://hackerone.com/reports/500515) to Starbucks - 295 upvotes, $4000
 2. [XXE on pulse.mail.ru](https://hackerone.com/reports/505947) to Mail.ru - 260 upvotes, $6000
 3. [XXE on sms-be-vip.twitter.com in SXMP Processor](https://hackerone.com/reports/248668) to Twitter - 240 upvotes, $10080
-4. [XXE on https://duckduckgo.com](https://hackerone.com/reports/483774) to DuckDuckGo - 199 upvotes, $0
-5. [Phone Call to XXE via Interactive Voice Response](https://hackerone.com/reports/395296) to ██████ - 153 upvotes, $0
-6. [Partial bypass of #483774 with Blind XXE on https://duckduckgo.com](https://hackerone.com/reports/486732) to DuckDuckGo - 145 upvotes, $0
+4. [XXE on https://duckduckgo.com](https://hackerone.com/reports/483774) to DuckDuckGo - 200 upvotes, $0
+5. [Phone Call to XXE via Interactive Voice Response](https://hackerone.com/reports/395296) to ██████ - 154 upvotes, $0
+6. [Partial bypass of #483774 with Blind XXE on https://duckduckgo.com](https://hackerone.com/reports/486732) to DuckDuckGo - 146 upvotes, $0
 7. [Multiple endpoints are vulnerable to XML External Entity injection (XXE) ](https://hackerone.com/reports/72272) to Pornhub - 134 upvotes, $2500
 8. [XXE through injection of a payload in the XMP metadata of a JPEG file](https://hackerone.com/reports/836877) to Informatica - 122 upvotes, $0
 9. [XXE in Site Audit function exposing file and directory contents](https://hackerone.com/reports/312543) to SEMrush - 92 upvotes, $2000
-10. [[RCE] Unserialize to XXE - file disclosure on ams.upload.pornhub.com](https://hackerone.com/reports/142562) to Pornhub - 87 upvotes, $10000
+10. [[RCE] Unserialize to XXE - file disclosure on ams.upload.pornhub.com](https://hackerone.com/reports/142562) to Pornhub - 88 upvotes, $10000
 11. [XXE in DoD website that may lead to RCE](https://hackerone.com/reports/227880) to U.S. Dept Of Defense - 86 upvotes, $0
 12. [Blind XXE via Powerpoint files](https://hackerone.com/reports/334488) to Open-Xchange - 81 upvotes, $2000
 13. [blind XXE in autodiscover parser](https://hackerone.com/reports/315837) to Mail.ru - 68 upvotes, $5000
@@ -27,7 +27,7 @@ Top XXE reports from HackerOne:
 23. [[app.informaticaondemand.com] XXE](https://hackerone.com/reports/105753) to Informatica - 23 upvotes, $0
 24. [ XXE in upload file feature](https://hackerone.com/reports/105787) to Informatica - 21 upvotes, $0
 25. [Blind XXE on pu.vk.com](https://hackerone.com/reports/296622) to VK.com - 16 upvotes, $500
-26. [[send.qiwi.ru] Soap-based XXE vulnerability /soapserver/ ](https://hackerone.com/reports/36450) to QIWI - 14 upvotes, $1000
+26. [[send.qiwi.ru] Soap-based XXE vulnerability /soapserver/ ](https://hackerone.com/reports/36450) to QIWI - 15 upvotes, $1000
 27. [XXE in the Connector Designer](https://hackerone.com/reports/112116) to Bime - 13 upvotes, $750
 28. [[marketplace.informatica.com] - XXE](https://hackerone.com/reports/106797) to Informatica - 12 upvotes, $0
 29. [blind XXE when uploading avatar in mymail phone app](https://hackerone.com/reports/277341) to Mail.ru - 11 upvotes, $1000

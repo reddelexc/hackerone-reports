@@ -2,15 +2,15 @@
 
 Top reports from New Relic program at HackerOne:
 
-1. [Password theft login.newrelic.com via Request Smuggling](https://hackerone.com/reports/498052) to New Relic - 456 upvotes, $3000
+1. [Password theft login.newrelic.com via Request Smuggling](https://hackerone.com/reports/498052) to New Relic - 457 upvotes, $3000
 2. [Insecure Infrastructure Integrations YML Loading leads to Windows Privilege Escalation](https://hackerone.com/reports/363971) to New Relic - 61 upvotes, $2500
-3. [Host Header Injection](https://hackerone.com/reports/698416) to New Relic - 58 upvotes, $500
+3. [Host Header Injection](https://hackerone.com/reports/698416) to New Relic - 59 upvotes, $500
 4. [Stored XSS in Brower `name` field reflected in two pages](https://hackerone.com/reports/348076) to New Relic - 37 upvotes, $3000
 5. [[NR Insights] Pull any Insights/NRQL data from any NR account](https://hackerone.com/reports/397137) to New Relic - 34 upvotes, $2500
 6. [Bypass of my three other reports #267636 + #255894 + #271861 - (IDOR) Ability to see full name associated with other New Relic accounts](https://hackerone.com/reports/320173) to New Relic - 33 upvotes, $1500
 7. [SSRF in alerts.newrelic.com exposes entire internal network](https://hackerone.com/reports/198690) to New Relic - 32 upvotes, $0
-8. [The impossibility of inclusion of the trial (BROWSER)](https://hackerone.com/reports/460428) to New Relic - 26 upvotes, $200
-9. [Users can enable API access for free via mass assignment](https://hackerone.com/reports/267781) to New Relic - 26 upvotes, $0
+8. [Users can enable API access for free via mass assignment](https://hackerone.com/reports/267781) to New Relic - 27 upvotes, $0
+9. [The impossibility of inclusion of the trial (BROWSER)](https://hackerone.com/reports/460428) to New Relic - 26 upvotes, $200
 10. [Cache-Control Misconfiguration Leads to Sensitive Information Leakage](https://hackerone.com/reports/132835) to New Relic - 22 upvotes, $0
 11. [User to Admin privilege escalation in Infrastructure Conditions - /v2/accounts/1835740/alerts/conditions](https://hackerone.com/reports/300879) to New Relic - 17 upvotes, $500
 12. [Open redirection ](https://hackerone.com/reports/207285) to New Relic - 17 upvotes, $0
@@ -24,10 +24,10 @@ Top reports from New Relic program at HackerOne:
 20. [APT repository is signed using weak digest (SHA-1)](https://hackerone.com/reports/129138) to New Relic - 12 upvotes, $0
 21. [SSO Authentication Bypass](https://hackerone.com/reports/168108) to New Relic - 12 upvotes, $0
 22. [Internal Ports Scanning via Blind SSRF](https://hackerone.com/reports/263169) to New Relic - 12 upvotes, $0
-23. [CSRF- delete all empty server policy](https://hackerone.com/reports/123095) to New Relic - 11 upvotes, $0
-24. [[docs-ra.newrelic.com] subdomain and Drupal takeover via unconfigured endpoint](https://hackerone.com/reports/207381) to New Relic - 11 upvotes, $0
-25. [stamp2-azure-ext.newrelic.com is vulnerable to MS12-020](https://hackerone.com/reports/384882) to New Relic - 11 upvotes, $0
-26. [Swiftype key stored in JavaScript source](https://hackerone.com/reports/427373) to New Relic - 11 upvotes, $0
+23. [Swiftype key stored in JavaScript source](https://hackerone.com/reports/427373) to New Relic - 12 upvotes, $0
+24. [CSRF- delete all empty server policy](https://hackerone.com/reports/123095) to New Relic - 11 upvotes, $0
+25. [[docs-ra.newrelic.com] subdomain and Drupal takeover via unconfigured endpoint](https://hackerone.com/reports/207381) to New Relic - 11 upvotes, $0
+26. [stamp2-azure-ext.newrelic.com is vulnerable to MS12-020](https://hackerone.com/reports/384882) to New Relic - 11 upvotes, $0
 27. [No validation on account names](https://hackerone.com/reports/114796) to New Relic - 9 upvotes, $0
 28. [newrelic.atlassian.net - jira information disclosure](https://hackerone.com/reports/197726) to New Relic - 9 upvotes, $0
 29. [Captcha Bypass on SignUp Form](https://hackerone.com/reports/277300) to New Relic - 9 upvotes, $0
@@ -68,25 +68,25 @@ Top reports from New Relic program at HackerOne:
 64. [Restricted User can view multiple account details including customer_root_account_id, payment method, date of first payment, etc.](https://hackerone.com/reports/198221) to New Relic - 4 upvotes, $0
 65. [Cross site scripting in a subdomain of newrelic.com](https://hackerone.com/reports/181528) to New Relic - 4 upvotes, $0
 66. [Stored XSS on BillingCountry parameter](https://hackerone.com/reports/182414) to New Relic - 4 upvotes, $0
-67. [SSL Padding Oracle On Downgraded Legacy Encryption (POODLE) Vulnerability](https://hackerone.com/reports/216271) to New Relic - 4 upvotes, $0
-68. [Hyperlink Injection on adding active users](https://hackerone.com/reports/176494) to New Relic - 4 upvotes, $0
-69. [Bypassing Protection Mechanism: Change of Account Name after Session Log out ](https://hackerone.com/reports/789305) to New Relic - 4 upvotes, $0
-70. [New Relic - Session Hijacking](https://hackerone.com/reports/137480) to New Relic - 3 upvotes, $0
-71. [https://rpm.newrelic.com/.htaccess file is world readable](https://hackerone.com/reports/123074) to New Relic - 3 upvotes, $0
-72. [Basic Authorization over HTTP](https://hackerone.com/reports/114870) to New Relic - 3 upvotes, $0
-73. [Login Open Redirect](https://hackerone.com/reports/131552) to New Relic - 3 upvotes, $0
-74. [Unsafe HTML in reset password email    and Account verification in email  is missing in Sign up](https://hackerone.com/reports/114807) to New Relic - 3 upvotes, $0
-75. [Password disclosure during signup process](https://hackerone.com/reports/127766) to New Relic - 3 upvotes, $0
-76. [HOST HEADER INJECTION in rpm.newrelic.com ](https://hackerone.com/reports/167809) to New Relic - 3 upvotes, $0
-77. [Open redirection ](https://hackerone.com/reports/132251) to New Relic - 3 upvotes, $0
-78. [Cookie Misconfiguration](https://hackerone.com/reports/163227) to New Relic - 3 upvotes, $0
-79. [Open redirection bypass .](https://hackerone.com/reports/144525) to New Relic - 3 upvotes, $0
-80. [[download.newrelic.com] Access to private directories](https://hackerone.com/reports/115922) to New Relic - 3 upvotes, $0
-81. [Html injection in monitor name textbox](https://hackerone.com/reports/146318) to New Relic - 3 upvotes, $0
-82. [A Signup page does not properly validate the authenticity token at the server side.](https://hackerone.com/reports/114799) to New Relic - 3 upvotes, $0
-83. [XSS in a newrelic.com site](https://hackerone.com/reports/152368) to New Relic - 3 upvotes, $0
-84. [Open Redirect ](https://hackerone.com/reports/177485) to New Relic - 3 upvotes, $0
-85. [Sub domain issues.](https://hackerone.com/reports/183577) to New Relic - 3 upvotes, $0
+67. [Sub domain issues.](https://hackerone.com/reports/183577) to New Relic - 4 upvotes, $0
+68. [SSL Padding Oracle On Downgraded Legacy Encryption (POODLE) Vulnerability](https://hackerone.com/reports/216271) to New Relic - 4 upvotes, $0
+69. [Hyperlink Injection on adding active users](https://hackerone.com/reports/176494) to New Relic - 4 upvotes, $0
+70. [Bypassing Protection Mechanism: Change of Account Name after Session Log out ](https://hackerone.com/reports/789305) to New Relic - 4 upvotes, $0
+71. [New Relic - Session Hijacking](https://hackerone.com/reports/137480) to New Relic - 3 upvotes, $0
+72. [https://rpm.newrelic.com/.htaccess file is world readable](https://hackerone.com/reports/123074) to New Relic - 3 upvotes, $0
+73. [Basic Authorization over HTTP](https://hackerone.com/reports/114870) to New Relic - 3 upvotes, $0
+74. [Login Open Redirect](https://hackerone.com/reports/131552) to New Relic - 3 upvotes, $0
+75. [Unsafe HTML in reset password email    and Account verification in email  is missing in Sign up](https://hackerone.com/reports/114807) to New Relic - 3 upvotes, $0
+76. [Password disclosure during signup process](https://hackerone.com/reports/127766) to New Relic - 3 upvotes, $0
+77. [HOST HEADER INJECTION in rpm.newrelic.com ](https://hackerone.com/reports/167809) to New Relic - 3 upvotes, $0
+78. [Open redirection ](https://hackerone.com/reports/132251) to New Relic - 3 upvotes, $0
+79. [Cookie Misconfiguration](https://hackerone.com/reports/163227) to New Relic - 3 upvotes, $0
+80. [Open redirection bypass .](https://hackerone.com/reports/144525) to New Relic - 3 upvotes, $0
+81. [[download.newrelic.com] Access to private directories](https://hackerone.com/reports/115922) to New Relic - 3 upvotes, $0
+82. [Html injection in monitor name textbox](https://hackerone.com/reports/146318) to New Relic - 3 upvotes, $0
+83. [A Signup page does not properly validate the authenticity token at the server side.](https://hackerone.com/reports/114799) to New Relic - 3 upvotes, $0
+84. [XSS in a newrelic.com site](https://hackerone.com/reports/152368) to New Relic - 3 upvotes, $0
+85. [Open Redirect ](https://hackerone.com/reports/177485) to New Relic - 3 upvotes, $0
 86. [CRLF Injection in email address](https://hackerone.com/reports/796013) to New Relic - 3 upvotes, $0
 87. [Old CAPTCHA offers no protection](https://hackerone.com/reports/127028) to New Relic - 2 upvotes, $0
 88. [Stored Cross-Site Scripting via Angular Template Injection](https://hackerone.com/reports/132658) to New Relic - 2 upvotes, $0

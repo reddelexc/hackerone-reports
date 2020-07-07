@@ -15,7 +15,7 @@ Top reports from Vimeo program at HackerOne:
 11. [XSS on vimeo.com/home after other user follows you](https://hackerone.com/reports/87854) to Vimeo - 16 upvotes, $1500
 12. [Images and Subtitles Leakage from private videos](https://hackerone.com/reports/136850) to Vimeo - 16 upvotes, $125
 13. [CSRF on Vimeo via cross site flashing leading to info disclosure and private videos go public](https://hackerone.com/reports/136481) to Vimeo - 14 upvotes, $750
-14. [URGENT - Subdomain Takeover on status.vimeo.com due to unclaimed domain pointing to statuspage.io](https://hackerone.com/reports/49663) to Vimeo - 12 upvotes, $100
+14. [URGENT - Subdomain Takeover on status.vimeo.com due to unclaimed domain pointing to statuspage.io](https://hackerone.com/reports/49663) to Vimeo - 13 upvotes, $100
 15. [Vimeo.com Insecure Direct Object References Reset Password](https://hackerone.com/reports/42587) to Vimeo - 7 upvotes, $5000
 16. [[vimeopro.com] CRLF Injection](https://hackerone.com/reports/39181) to Vimeo - 6 upvotes, $500
 17. [Stored XSS on player.vimeo.com](https://hackerone.com/reports/85488) to Vimeo - 6 upvotes, $500

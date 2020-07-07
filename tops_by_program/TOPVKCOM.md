@@ -18,7 +18,7 @@ Top reports from VK.com program at HackerOne:
 14. [XSS-уязвимость, связанная с загрузкой файлов](https://hackerone.com/reports/375886) to VK.com - 30 upvotes, $1000
 15. [XSS в колбек апи в сообществах ](https://hackerone.com/reports/261966) to VK.com - 29 upvotes, $500
 16. [Доступ к администраторским faq ](https://hackerone.com/reports/370629) to VK.com - 26 upvotes, $500
-17. [Отправка подарков/стикерпаков не теряя голоса.](https://hackerone.com/reports/729064) to VK.com - 25 upvotes, $200
+17. [Отправка подарков/стикерпаков не теряя голоса.](https://hackerone.com/reports/729064) to VK.com - 26 upvotes, $200
 18. [XSS в личных сообщениях](https://hackerone.com/reports/281851) to VK.com - 23 upvotes, $1000
 19. [Reflected XSS в /al_audio.php](https://hackerone.com/reports/334691) to VK.com - 23 upvotes, $700
 20. [Уязвимый класс WebView](https://hackerone.com/reports/452835) to VK.com - 22 upvotes, $200
@@ -51,12 +51,12 @@ Top reports from VK.com program at HackerOne:
 47. [Раскрытие информации о частной группе или приложении](https://hackerone.com/reports/216289) to VK.com - 13 upvotes, $100
 48. [Просмотр лайков и репостов фотографии, которая находятся в приватном альбоме](https://hackerone.com/reports/64754) to VK.com - 12 upvotes, $300
 49. [Issue in the implementation of captcha and race condition](https://hackerone.com/reports/67562) to VK.com - 12 upvotes, $100
-50. [[Привязка email к странице] by admin@notify.vk.com | email-flood](https://hackerone.com/reports/344223) to VK.com - 12 upvotes, $0
-51. [Бесконечный доступ к аккаунту если мы смогли хотя бы раз зайти на аккаунт.](https://hackerone.com/reports/596363) to VK.com - 11 upvotes, $500
-52. [Opcode Cache](https://hackerone.com/reports/308355) to VK.com - 11 upvotes, $300
-53. [CSRF на сброс ключа трансляции.](https://hackerone.com/reports/230688) to VK.com - 11 upvotes, $100
-54. [CSRF Добавить просмотр к записи без ведома пользователя.](https://hackerone.com/reports/252324) to VK.com - 11 upvotes, $100
-55. [Отсутствие flood контроля в ИСТОРИЯХ вк](https://hackerone.com/reports/249786) to VK.com - 11 upvotes, $100
+50. [Отсутствие flood контроля в ИСТОРИЯХ вк](https://hackerone.com/reports/249786) to VK.com - 12 upvotes, $100
+51. [[Привязка email к странице] by admin@notify.vk.com | email-flood](https://hackerone.com/reports/344223) to VK.com - 12 upvotes, $0
+52. [Бесконечный доступ к аккаунту если мы смогли хотя бы раз зайти на аккаунт.](https://hackerone.com/reports/596363) to VK.com - 11 upvotes, $500
+53. [Opcode Cache](https://hackerone.com/reports/308355) to VK.com - 11 upvotes, $300
+54. [CSRF на сброс ключа трансляции.](https://hackerone.com/reports/230688) to VK.com - 11 upvotes, $100
+55. [CSRF Добавить просмотр к записи без ведома пользователя.](https://hackerone.com/reports/252324) to VK.com - 11 upvotes, $100
 56. [Внедрение внешних сущностей в функционале импорта пользователей YouTrack](https://hackerone.com/reports/114476) to VK.com - 10 upvotes, $2500
 57. [Хранимая XSS в функционале добавления аудио в WYSIWYG](https://hackerone.com/reports/274112) to VK.com - 10 upvotes, $500
 58. [Backup Source Code Detected](https://hackerone.com/reports/309537) to VK.com - 10 upvotes, $500

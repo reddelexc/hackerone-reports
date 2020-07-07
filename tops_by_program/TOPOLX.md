@@ -4,7 +4,7 @@ Top reports from OLX program at HackerOne:
 
 1. [XSS - main page - search[user_id] parameter](https://hackerone.com/reports/477771) to OLX - 135 upvotes, $0
 2. [[Critical] Delete any account ](https://hackerone.com/reports/158872) to OLX - 112 upvotes, $0
-3. [SQL Injection on https://www.olx.co.id](https://hackerone.com/reports/639876) to OLX - 70 upvotes, $0
+3. [SQL Injection on https://www.olx.co.id](https://hackerone.com/reports/639876) to OLX - 71 upvotes, $0
 4. [web cache deception in https://tradus.com lead to name/user_id enumeration and other info](https://hackerone.com/reports/537564) to OLX - 59 upvotes, $0
 5. [SQL Injection https://www.olx.co.id](https://hackerone.com/reports/446293) to OLX - 48 upvotes, $0
 6. [Reflected XSS on https://www.olx.co.id/iklan/*.html via "ad_type" parameter](https://hackerone.com/reports/630265) to OLX - 35 upvotes, $0
@@ -41,12 +41,12 @@ Top reports from OLX program at HackerOne:
 37. [XSS on Meta Tag at https://m.olx.ph](https://hackerone.com/reports/157813) to OLX - 7 upvotes, $0
 38. [blog.praca.olx.pl database credentials exposure](https://hackerone.com/reports/448985) to OLX - 7 upvotes, $0
 39. [XSS @ *.olx.com.ar](https://hackerone.com/reports/150560) to OLX - 6 upvotes, $0
-40. [Reflected XSS in [olx.qa]](https://hackerone.com/reports/191332) to OLX - 6 upvotes, $0
-41. [CSRF in delete advertisement on olx.com.eg](https://hackerone.com/reports/178384) to OLX - 6 upvotes, $0
-42. [XSS in OLX.pl ("title" in new advertisement)](https://hackerone.com/reports/267473) to OLX - 6 upvotes, $0
-43. [XSS yaman.olx.ph](https://hackerone.com/reports/151147) to OLX - 5 upvotes, $0
-44. [Stored XSS on contact name](https://hackerone.com/reports/152069) to OLX - 5 upvotes, $0
-45. [Name, email, phone and more disclosure on user ID (API)](https://hackerone.com/reports/171917) to OLX - 5 upvotes, $0
+40. [Name, email, phone and more disclosure on user ID (API)](https://hackerone.com/reports/171917) to OLX - 6 upvotes, $0
+41. [Reflected XSS in [olx.qa]](https://hackerone.com/reports/191332) to OLX - 6 upvotes, $0
+42. [CSRF in delete advertisement on olx.com.eg](https://hackerone.com/reports/178384) to OLX - 6 upvotes, $0
+43. [XSS in OLX.pl ("title" in new advertisement)](https://hackerone.com/reports/267473) to OLX - 6 upvotes, $0
+44. [XSS yaman.olx.ph](https://hackerone.com/reports/151147) to OLX - 5 upvotes, $0
+45. [Stored XSS on contact name](https://hackerone.com/reports/152069) to OLX - 5 upvotes, $0
 46. [Reflective XSS at m.olx.ph](https://hackerone.com/reports/177230) to OLX - 5 upvotes, $0
 47. [yaman.olx.ph/wordpress is using a very vulnerable version of WordPress and contains directory listing](https://hackerone.com/reports/202918) to OLX - 5 upvotes, $0
 48. [Reflected XSS at yaman.olx.ph](https://hackerone.com/reports/151258) to OLX - 4 upvotes, $0
