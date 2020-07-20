@@ -21,13 +21,13 @@ Top reports from concrete5 program at HackerOne:
 17. [Stored XSS vulnerability in additional URLs in 'Location' dialog [Sitemap]](https://hackerone.com/reports/251358) to concrete5 - 7 upvotes, $0
 18. [Stored XSS on Add Event in Calendar](https://hackerone.com/reports/300532) to concrete5 - 7 upvotes, $0
 19. [Stored XSS on Add Calendar](https://hackerone.com/reports/300571) to concrete5 - 7 upvotes, $0
-20. [HttpOnly flag not set for cookie on concrete5.org](https://hackerone.com/reports/4792) to concrete5 - 6 upvotes, $0
-21. [Stored XSS in Express Objects - Concrete5 v8.1.0](https://hackerone.com/reports/221325) to concrete5 - 6 upvotes, $0
-22. [Stored XSS in Name field in User Groups/Group Details form](https://hackerone.com/reports/247521) to concrete5 - 6 upvotes, $0
-23. [Stored XSS in the file search filter](https://hackerone.com/reports/873584) to concrete5 - 5 upvotes, $0
-24. [XSS on [/concrete/concrete/elements/dashboard/sitemap.php]](https://hackerone.com/reports/6853) to concrete5 - 4 upvotes, $0
-25. [Stored XSS in RSS Feeds Title (Concrete5 v8.1.0)](https://hackerone.com/reports/221380) to concrete5 - 4 upvotes, $0
-26. [Stored XSS on express entries](https://hackerone.com/reports/873474) to concrete5 - 4 upvotes, $0
+20. [Stored XSS in the file search filter](https://hackerone.com/reports/873584) to concrete5 - 7 upvotes, $0
+21. [HttpOnly flag not set for cookie on concrete5.org](https://hackerone.com/reports/4792) to concrete5 - 6 upvotes, $0
+22. [Stored XSS in Express Objects - Concrete5 v8.1.0](https://hackerone.com/reports/221325) to concrete5 - 6 upvotes, $0
+23. [Stored XSS in Name field in User Groups/Group Details form](https://hackerone.com/reports/247521) to concrete5 - 6 upvotes, $0
+24. [Stored XSS on express entries](https://hackerone.com/reports/873474) to concrete5 - 5 upvotes, $0
+25. [XSS on [/concrete/concrete/elements/dashboard/sitemap.php]](https://hackerone.com/reports/6853) to concrete5 - 4 upvotes, $0
+26. [Stored XSS in RSS Feeds Title (Concrete5 v8.1.0)](https://hackerone.com/reports/221380) to concrete5 - 4 upvotes, $0
 27. [XSS in private message](https://hackerone.com/reports/4826) to concrete5 - 3 upvotes, $0
 28. [XSS IN member List (Because of City Textbox)](https://hackerone.com/reports/4839) to concrete5 - 2 upvotes, $0
 29. [FULL PATH DISCLOSUR ](https://hackerone.com/reports/7736) to concrete5 - 2 upvotes, $0

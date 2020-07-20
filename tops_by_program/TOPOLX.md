@@ -11,8 +11,8 @@ Top reports from OLX program at HackerOne:
 7. [XSS inside HTML Link Tag](https://hackerone.com/reports/504984) to OLX - 29 upvotes, $0
 8. [Public Vulnerable Version of Confluence https://confluence.olx.com](https://hackerone.com/reports/207013) to OLX - 29 upvotes, $0
 9. [Reflected XSS in www.olx.co.id](https://hackerone.com/reports/639796) to OLX - 27 upvotes, $0
-10. [Search Page Reflected XSS on sharjah.dubizzle.com through unencoded output of GET parameter in JavaScript](https://hackerone.com/reports/363571) to OLX - 18 upvotes, $0
-11. [Able to list user's public name, username, phone number, address, facebook ID...](https://hackerone.com/reports/167206) to OLX - 18 upvotes, $0
+10. [Able to list user's public name, username, phone number, address, facebook ID...](https://hackerone.com/reports/167206) to OLX - 19 upvotes, $0
+11. [Search Page Reflected XSS on sharjah.dubizzle.com through unencoded output of GET parameter in JavaScript](https://hackerone.com/reports/363571) to OLX - 18 upvotes, $0
 12. [Updating and Deleting any Ads on OLX Philippines ](https://hackerone.com/reports/150631) to OLX - 17 upvotes, $0
 13. [Cross Site Scripting -\> Reflected XSS](https://hackerone.com/reports/150568) to OLX - 17 upvotes, $0
 14. [XSS Reflected at SEARCH \>\>](https://hackerone.com/reports/429647) to OLX - 17 upvotes, $0

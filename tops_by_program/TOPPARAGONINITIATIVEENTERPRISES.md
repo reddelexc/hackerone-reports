@@ -7,7 +7,7 @@ Top reports from Paragon Initiative Enterprises program at HackerOne:
 3. [Subdomain Takeover](https://hackerone.com/reports/180393) to Paragon Initiative Enterprises - 50 upvotes, $0
 4. [I am because bug](https://hackerone.com/reports/226094) to Paragon Initiative Enterprises - 37 upvotes, $0
 5. [ssl info shown ](https://hackerone.com/reports/149369) to Paragon Initiative Enterprises - 31 upvotes, $0
-6. [[Critical] billion dollars issue](https://hackerone.com/reports/244836) to Paragon Initiative Enterprises - 24 upvotes, $0
+6. [[Critical] billion dollars issue](https://hackerone.com/reports/244836) to Paragon Initiative Enterprises - 25 upvotes, $0
 7. [Stored Cross-Site-Scripting in CMS Airship's  authors profiles](https://hackerone.com/reports/148741) to Paragon Initiative Enterprises - 23 upvotes, $50
 8. [Content-type sniffing leads to stored XSS in CMS Airship on Internet Explorer ](https://hackerone.com/reports/151231) to Paragon Initiative Enterprises - 15 upvotes, $0
 9. [Site support SNI But Browser can't](https://hackerone.com/reports/149442) to Paragon Initiative Enterprises - 14 upvotes, $0

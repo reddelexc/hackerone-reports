@@ -67,3 +67,5 @@ Tops by program.
 - [Top WordPress reports](tops_by_program/TOPWORDPRESS.md)
 - [Top The Internet reports](tops_by_program/TOPTHEINTERNET.md)
 - [Top Open-Xchange reports](tops_by_program/TOPOPENXCHANGE.md)
+- [Top Razer reports](tops_by_program/TOPRAZER.md)
+- [Top Rockstar Games](tops_by_program/TOPROCKSTARGAMES.md)

@@ -2,10 +2,10 @@
 
 Top reports from Ubiquiti Inc. program at HackerOne:
 
-1. [Privilege Escalation From user to SYSTEM via unauthenticated command execution ](https://hackerone.com/reports/544928) to Ubiquiti Inc. - 528 upvotes, $16109
+1. [Privilege Escalation From user to SYSTEM via unauthenticated command execution ](https://hackerone.com/reports/544928) to Ubiquiti Inc. - 529 upvotes, $16109
 2. [Privilege-0 to Root Privilege Escalation on EdgeSwitch](https://hackerone.com/reports/511025) to Ubiquiti Inc. - 79 upvotes, $1604
-3. [Remote Code Execution at http://tw.corp.ubnt.com](https://hackerone.com/reports/269066) to Ubiquiti Inc. - 60 upvotes, $5000
-4. [Public Jenkins instance with /script enabled](https://hackerone.com/reports/403402) to Ubiquiti Inc. - 60 upvotes, $2500
+3. [Public Jenkins instance with /script enabled](https://hackerone.com/reports/403402) to Ubiquiti Inc. - 61 upvotes, $2500
+4. [Remote Code Execution at http://tw.corp.ubnt.com](https://hackerone.com/reports/269066) to Ubiquiti Inc. - 60 upvotes, $5000
 5. [Subdomain takeover on partners.ubnt.com due to non-used CloudFront DNS entry](https://hackerone.com/reports/145224) to Ubiquiti Inc. - 54 upvotes, $1000
 6. [Login as root without password on EdgeSwitchX](https://hackerone.com/reports/512958) to Ubiquiti Inc. - 54 upvotes, $100
 7. [Ability to log in as any user without authentication if █████████ is empty](https://hackerone.com/reports/215053) to Ubiquiti Inc. - 51 upvotes, $6000
@@ -77,15 +77,15 @@ Top reports from Ubiquiti Inc. program at HackerOne:
 73. [Content Spoofing or Text Injection in (403 forbidden page injection) and Nginx version disclosure via response header](https://hackerone.com/reports/203391) to Ubiquiti Inc. - 7 upvotes, $0
 74. [XSS via SVG file](https://hackerone.com/reports/212253) to Ubiquiti Inc. - 7 upvotes, $0
 75. [CRLF Injection on openvpn.svc.ubnt.com](https://hackerone.com/reports/232327) to Ubiquiti Inc. - 7 upvotes, $0
-76. [UniFi Video web interface Configuration Restore user privilege escalation](https://hackerone.com/reports/329659) to Ubiquiti Inc. - 6 upvotes, $1500
-77. [Privilege Escalation with Session Hijacking Having a Non-privileged Valid User](https://hackerone.com/reports/242407) to Ubiquiti Inc. - 6 upvotes, $1000
-78. [Authenticated RCE in ToughSwitch](https://hackerone.com/reports/273449) to Ubiquiti Inc. - 6 upvotes, $150
-79. [RCE in AirOS 6.2.0 Devices with CSRF bypass](https://hackerone.com/reports/703659) to Ubiquiti Inc. - 5 upvotes, $6839
+76. [RCE in AirOS 6.2.0 Devices with CSRF bypass](https://hackerone.com/reports/703659) to Ubiquiti Inc. - 6 upvotes, $6839
+77. [UniFi Video web interface Configuration Restore user privilege escalation](https://hackerone.com/reports/329659) to Ubiquiti Inc. - 6 upvotes, $1500
+78. [Privilege Escalation with Session Hijacking Having a Non-privileged Valid User](https://hackerone.com/reports/242407) to Ubiquiti Inc. - 6 upvotes, $1000
+79. [Authenticated RCE in ToughSwitch](https://hackerone.com/reports/273449) to Ubiquiti Inc. - 6 upvotes, $150
 80. [UniFi v3.2.10 Cross-Site Request Forgeries / Referer-Check Bypass](https://hackerone.com/reports/52635) to Ubiquiti Inc. - 4 upvotes, $1000
-81. [200 http code in 403 forbidden directories on main Ubnt.com domain](https://hackerone.com/reports/220150) to Ubiquiti Inc. - 4 upvotes, $0
-82. [Security: Publicly accessible x.509 Public and Private Key of Ubiquiti Networks.](https://hackerone.com/reports/265701) to Ubiquiti Inc. - 4 upvotes, $0
-83. [Auth bypass on directory.corp.ubnt.com](https://hackerone.com/reports/116504) to Ubiquiti Inc. - 3 upvotes, $1000
-84. [Local File Disclosure (+XSS+CSRF) in AirOS 6.2.0 devices](https://hackerone.com/reports/661647) to Ubiquiti Inc. - 3 upvotes, $594
+81. [Local File Disclosure (+XSS+CSRF) in AirOS 6.2.0 devices](https://hackerone.com/reports/661647) to Ubiquiti Inc. - 4 upvotes, $594
+82. [200 http code in 403 forbidden directories on main Ubnt.com domain](https://hackerone.com/reports/220150) to Ubiquiti Inc. - 4 upvotes, $0
+83. [Security: Publicly accessible x.509 Public and Private Key of Ubiquiti Networks.](https://hackerone.com/reports/265701) to Ubiquiti Inc. - 4 upvotes, $0
+84. [Auth bypass on directory.corp.ubnt.com](https://hackerone.com/reports/116504) to Ubiquiti Inc. - 3 upvotes, $1000
 85. [Other Buffer Overflow in PHP of the AirMax Products](https://hackerone.com/reports/74004) to Ubiquiti Inc. - 3 upvotes, $500
 86. [UniFi Video v3.2.2 (Windows) Local Privileges Escalation due to weak default install directory ACLs](https://hackerone.com/reports/140793) to Ubiquiti Inc. - 3 upvotes, $500
 87. [Can upload files without authentication on AirFibre 3.2](https://hackerone.com/reports/201529) to Ubiquiti Inc. - 3 upvotes, $150
