@@ -19,16 +19,16 @@ Top reports from ownCloud program at HackerOne:
 15. [Open Redirector via (apps/files_pdfviewer) for un-authenticated users.](https://hackerone.com/reports/131082) to ownCloud - 4 upvotes, $150
 16. [[doc.owncloud.org] CRLF Injection](https://hackerone.com/reports/154275) to ownCloud - 4 upvotes, $0
 17. [Stored xss](https://hackerone.com/reports/187380) to ownCloud - 4 upvotes, $0
-18. [Reflected XSS in owncloud.com](https://hackerone.com/reports/127259) to ownCloud - 3 upvotes, $0
-19. [doc.owncloud.org: XSS via Referrer](https://hackerone.com/reports/130951) to ownCloud - 3 upvotes, $0
-20. [bug reporting template encourages users to paste config file with passwords](https://hackerone.com/reports/196969) to ownCloud - 3 upvotes, $0
-21. [doc.owncloud.com: CVE-2015-5477 BIND9 TKEY Vulnerability + Exploit (Denial of Service)](https://hackerone.com/reports/217381) to ownCloud - 3 upvotes, $0
-22. [apps.owncloud.com: Malicious file upload leads to remote code execution](https://hackerone.com/reports/84374) to ownCloud - 2 upvotes, $0
-23. [Password appears in user name field](https://hackerone.com/reports/85559) to ownCloud - 2 upvotes, $0
-24. [apps.owncloud.com: SSL Server Allows Anonymous Authentication Vulnerability (SMTP)](https://hackerone.com/reports/83803) to ownCloud - 2 upvotes, $0
-25. [apps.owncloud.com: XSS via referrer](https://hackerone.com/reports/83374) to ownCloud - 2 upvotes, $0
-26. [owncloud.com: Content Sniffing not disabled](https://hackerone.com/reports/83251) to ownCloud - 2 upvotes, $0
-27. [owncloud.com: Parameter pollution in social sharing buttons](https://hackerone.com/reports/106024) to ownCloud - 2 upvotes, $0
+18. [owncloud.com: Parameter pollution in social sharing buttons](https://hackerone.com/reports/106024) to ownCloud - 3 upvotes, $0
+19. [Reflected XSS in owncloud.com](https://hackerone.com/reports/127259) to ownCloud - 3 upvotes, $0
+20. [doc.owncloud.org: XSS via Referrer](https://hackerone.com/reports/130951) to ownCloud - 3 upvotes, $0
+21. [bug reporting template encourages users to paste config file with passwords](https://hackerone.com/reports/196969) to ownCloud - 3 upvotes, $0
+22. [doc.owncloud.com: CVE-2015-5477 BIND9 TKEY Vulnerability + Exploit (Denial of Service)](https://hackerone.com/reports/217381) to ownCloud - 3 upvotes, $0
+23. [apps.owncloud.com: Malicious file upload leads to remote code execution](https://hackerone.com/reports/84374) to ownCloud - 2 upvotes, $0
+24. [Password appears in user name field](https://hackerone.com/reports/85559) to ownCloud - 2 upvotes, $0
+25. [apps.owncloud.com: SSL Server Allows Anonymous Authentication Vulnerability (SMTP)](https://hackerone.com/reports/83803) to ownCloud - 2 upvotes, $0
+26. [apps.owncloud.com: XSS via referrer](https://hackerone.com/reports/83374) to ownCloud - 2 upvotes, $0
+27. [owncloud.com: Content Sniffing not disabled](https://hackerone.com/reports/83251) to ownCloud - 2 upvotes, $0
 28. [Cross site scripting in apps.owncloud.com](https://hackerone.com/reports/129551) to ownCloud - 2 upvotes, $0
 29. [[forum.owncloud.org] IE, Edge XSS via Request-URI](https://hackerone.com/reports/154319) to ownCloud - 2 upvotes, $0
 30. [password reset email spamming](https://hackerone.com/reports/224095) to ownCloud - 2 upvotes, $0

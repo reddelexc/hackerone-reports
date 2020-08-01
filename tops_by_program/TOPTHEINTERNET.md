@@ -14,7 +14,7 @@ Top reports from The Internet program at HackerOne:
 10. [TLS Virtual Host Confusion](https://hackerone.com/reports/501) to The Internet - 18 upvotes, $7500
 11. [CVE-2019-5736: Escape from Docker and Kubernetes containers to root on host](https://hackerone.com/reports/495495) to The Internet - 14 upvotes, $1000
 12. [Multiple HTTP Smuggling reports](https://hackerone.com/reports/648434) to The Internet - 14 upvotes, $0
-13. [GNU Bourne-Again Shell (Bash) 'Shellshock' Vulnerability](https://hackerone.com/reports/29839) to The Internet - 11 upvotes, $20000
+13. [GNU Bourne-Again Shell (Bash) 'Shellshock' Vulnerability](https://hackerone.com/reports/29839) to The Internet - 12 upvotes, $20000
 14. [Exim off-by-one RCE vulnerability](https://hackerone.com/reports/322935) to The Internet - 11 upvotes, $1500
 15. [Cross-site information assertion leak via Content Security Policy](https://hackerone.com/reports/16910) to The Internet - 11 upvotes, $0
 16. [Linux kernel: CVE-2017-7308: a signedness issue in AF_PACKET sockets](https://hackerone.com/reports/684567) to The Internet - 10 upvotes, $0

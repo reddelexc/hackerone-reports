@@ -12,7 +12,7 @@ Top reports from Paragon Initiative Enterprises program at HackerOne:
 8. [Content-type sniffing leads to stored XSS in CMS Airship on Internet Explorer ](https://hackerone.com/reports/151231) to Paragon Initiative Enterprises - 15 upvotes, $0
 9. [Site support SNI But Browser can't](https://hackerone.com/reports/149442) to Paragon Initiative Enterprises - 14 upvotes, $0
 10. [Paragonie Airship Admin CSRF on Extensions Pages](https://hackerone.com/reports/243094) to Paragon Initiative Enterprises - 11 upvotes, $100
-11. [Stored XSS using  SVG ](https://hackerone.com/reports/148853) to Paragon Initiative Enterprises - 10 upvotes, $50
+11. [Stored XSS using  SVG ](https://hackerone.com/reports/148853) to Paragon Initiative Enterprises - 11 upvotes, $50
 12. [Improper access control lead  To delete anyone comment](https://hackerone.com/reports/273805) to Paragon Initiative Enterprises - 8 upvotes, $100
 13. [Directory Disclose,Email Disclose Zendmail vulnerability](https://hackerone.com/reports/228112) to Paragon Initiative Enterprises - 8 upvotes, $50
 14. [Stored XSS in comments](https://hackerone.com/reports/148751) to Paragon Initiative Enterprises - 6 upvotes, $25

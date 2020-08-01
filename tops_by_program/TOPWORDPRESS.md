@@ -2,16 +2,16 @@
 
 Top reports from WordPress program at HackerOne:
 
-1. [Stored XSS Vulnerability](https://hackerone.com/reports/643908) to WordPress - 359 upvotes, $500
+1. [Stored XSS Vulnerability](https://hackerone.com/reports/643908) to WordPress - 363 upvotes, $500
 2. [Stored XSS in Private Message component (BuddyPress)](https://hackerone.com/reports/487081) to WordPress - 331 upvotes, $500
 3. [RCE as Admin defeats WordPress hardening and file permissions](https://hackerone.com/reports/436928) to WordPress - 150 upvotes, $800
 4. [Stored XSS on byddypress Plug-in via groups name](https://hackerone.com/reports/592316) to WordPress - 127 upvotes, $450
 5. [Wordpress unzip_file path traversal](https://hackerone.com/reports/205481) to WordPress - 109 upvotes, $800
 6. [Reflected XSS on https://make.wordpress.org via 'channel' parameter](https://hackerone.com/reports/659419) to WordPress - 95 upvotes, $387
 7. [CSRF to HTML Injection in Comments](https://hackerone.com/reports/428019) to WordPress - 93 upvotes, $950
-8. [Potential unprivileged Stored XSS through wp_targeted_link_rel](https://hackerone.com/reports/509930) to WordPress - 80 upvotes, $650
-9. [Mssing Authorization on Private Message replies (BuddyPress)](https://hackerone.com/reports/490782) to WordPress - 63 upvotes, $375
-10. [Clickjacking on donation page](https://hackerone.com/reports/921709) to WordPress - 59 upvotes, $50
+8. [Clickjacking on donation page](https://hackerone.com/reports/921709) to WordPress - 84 upvotes, $50
+9. [Potential unprivileged Stored XSS through wp_targeted_link_rel](https://hackerone.com/reports/509930) to WordPress - 80 upvotes, $650
+10. [Mssing Authorization on Private Message replies (BuddyPress)](https://hackerone.com/reports/490782) to WordPress - 63 upvotes, $375
 11. [plugins.trac.wordpress.org likely vulnerable to Cross Site Tracing (xst), TRACE HTTP method should be disabled](https://hackerone.com/reports/222692) to WordPress - 55 upvotes, $150
 12. [Multiple stored XSS in WordPress](https://hackerone.com/reports/221507) to WordPress - 35 upvotes, $1200
 13. ["Bad Protocols Validation" Bypass in "wp_kses_bad_protocol_once" using HTML-encoding without trailing semicolons](https://hackerone.com/reports/339483) to WordPress - 34 upvotes, $350
@@ -21,7 +21,7 @@ Top reports from WordPress program at HackerOne:
 17. [Information / sensitive data disclosure on some endpoints](https://hackerone.com/reports/273726) to WordPress - 27 upvotes, $0
 18. [Open API For Username enumeration](https://hackerone.com/reports/385322) to WordPress - 24 upvotes, $0
 19. [Wordpress 4.7.2 - Two XSS in Media Upload when file too large.](https://hackerone.com/reports/203515) to WordPress - 23 upvotes, $350
-20. [Authenticated Stored Cross-site Scripting in bbPress](https://hackerone.com/reports/881918) to WordPress - 22 upvotes, $225
+20. [Authenticated Stored Cross-site Scripting in bbPress](https://hackerone.com/reports/881918) to WordPress - 23 upvotes, $225
 21. [DOM Based XSS In mercantile.wordpress.org](https://hackerone.com/reports/230435) to WordPress - 21 upvotes, $275
 22. [[FG-VD-18-165] Wordpress Cross-Site Scripting Vulnerability Notification II](https://hackerone.com/reports/460911) to WordPress - 20 upvotes, $650
 23. [Reflected Swf XSS In ( plugins.svn.wordpress.org )](https://hackerone.com/reports/270060) to WordPress - 20 upvotes, $350

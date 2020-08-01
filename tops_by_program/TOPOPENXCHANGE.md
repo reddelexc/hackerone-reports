@@ -3,7 +3,7 @@
 Top reports from Open-Xchange program at HackerOne:
 
 1. [Arbitrary local system file read on open-xchange server ](https://hackerone.com/reports/303744) to Open-Xchange - 124 upvotes, $2000
-2. [Null pointer dereference in SMTP server function smtp_string_parse](https://hackerone.com/reports/827729) to Open-Xchange - 104 upvotes, $1500
+2. [Null pointer dereference in SMTP server function smtp_string_parse](https://hackerone.com/reports/827729) to Open-Xchange - 105 upvotes, $1500
 3. [Blind XXE via Powerpoint files](https://hackerone.com/reports/334488) to Open-Xchange - 81 upvotes, $2000
 4. [SSRF in VCARD photo upload functionality](https://hackerone.com/reports/296045) to Open-Xchange - 49 upvotes, $850
 5. [OX (Guard): Stored Cross-Site Scripting via Incoming Email](https://hackerone.com/reports/156258) to Open-Xchange - 48 upvotes, $1000

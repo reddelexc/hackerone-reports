@@ -2,9 +2,9 @@
 
 Top Open Redirect reports from HackerOne:
 
-1. [XSS and Open Redirect on MoPub Login](https://hackerone.com/reports/683298) to Twitter - 217 upvotes, $1540
-2. [Open Redirect in secure.showmax.com](https://hackerone.com/reports/749338) to Showmax - 213 upvotes, $550
-3. [Open redirect at https://inventory.upserve.com/http://google.com/](https://hackerone.com/reports/469803) to Upserve  - 155 upvotes, $1200
+1. [XSS and Open Redirect on MoPub Login](https://hackerone.com/reports/683298) to Twitter - 218 upvotes, $1540
+2. [Open Redirect in secure.showmax.com](https://hackerone.com/reports/749338) to Showmax - 214 upvotes, $550
+3. [Open redirect at https://inventory.upserve.com/http://google.com/](https://hackerone.com/reports/469803) to Upserve  - 156 upvotes, $1200
 4. [Open Redirect on central.uber.com allows for account takeover](https://hackerone.com/reports/206591) to Uber - 111 upvotes, $8000
 5. [Twitter lite(Android): Vulnerable to local file steal, Javascript injection, Open redirect ](https://hackerone.com/reports/499348) to Twitter - 81 upvotes, $1120
 6. [Open redirect vulnerability](https://hackerone.com/reports/380760) to Rockstar Games - 80 upvotes, $250
@@ -23,9 +23,9 @@ Top Open Redirect reports from HackerOne:
 19. [Open redirect vulnerability in index.php](https://hackerone.com/reports/439075) to HackerOne - 39 upvotes, $0
 20. [[keybase.io] Open Redirect](https://hackerone.com/reports/87027) to Keybase - 36 upvotes, $500
 21. [Open redirect protection (https://www.pixiv.net/jump.php) is broken for novels](https://hackerone.com/reports/541862) to pixiv - 34 upvotes, $200
-22. [(BYPASS) Open redirect and XSS in supporthiring.shopify.com](https://hackerone.com/reports/158434) to Shopify - 33 upvotes, $1000
-23. [Open Redirect on Gitllab Oauth leading to Acount Takeover](https://hackerone.com/reports/677617) to Vercel - 33 upvotes, $0
-24. [Open Redirect filter bypass through '\' character via URL parameter](https://hackerone.com/reports/840736) to Myndr - 33 upvotes, $0
+22. [Open Redirect filter bypass through '\' character via URL parameter](https://hackerone.com/reports/840736) to Myndr - 34 upvotes, $0
+23. [(BYPASS) Open redirect and XSS in supporthiring.shopify.com](https://hackerone.com/reports/158434) to Shopify - 33 upvotes, $1000
+24. [Open Redirect on Gitllab Oauth leading to Acount Takeover](https://hackerone.com/reports/677617) to Vercel - 33 upvotes, $0
 25. [Open Redirection in [https://www.hackerone.com/index.php]](https://hackerone.com/reports/562417) to HackerOne - 32 upvotes, $0
 26. [[http2.cloudflare.com] Open Redirect](https://hackerone.com/reports/193027) to Cloudflare Vulnerability Disclosure - 30 upvotes, $0
 27. [Open redirect using theme install](https://hackerone.com/reports/101962) to Shopify - 28 upvotes, $500
@@ -46,8 +46,8 @@ Top Open Redirect reports from HackerOne:
 42. [Open Redirect](https://hackerone.com/reports/311330) to SEMrush - 19 upvotes, $100
 43. [Open Redirect through POST Request](https://hackerone.com/reports/242243) to Inflection - 18 upvotes, $350
 44. [open redirect while login at https://apps.dev.jupiterone.io can leak access code.](https://hackerone.com/reports/591266) to LifeOmic - 18 upvotes, $350
-45. [CBC "cut and paste" attack may cause Open Redirect(even XSS)](https://hackerone.com/reports/126203) to Uber - 17 upvotes, $500
-46. [Open Redirection leads to redirect Users to malicious website](https://hackerone.com/reports/625546) to Unikrn - 17 upvotes, $50
+45. [Open Redirection leads to redirect Users to malicious website](https://hackerone.com/reports/625546) to Unikrn - 18 upvotes, $50
+46. [CBC "cut and paste" attack may cause Open Redirect(even XSS)](https://hackerone.com/reports/126203) to Uber - 17 upvotes, $500
 47. [Open redirection ](https://hackerone.com/reports/207285) to New Relic - 17 upvotes, $0
 48. [Open Redirect on smule.com](https://hackerone.com/reports/440484) to Smule - 17 upvotes, $0
 49. [Open redirect in https://www.rockstargames.com/GTAOnline/restricted-content/agegate/form may lead to Facebook OAuth token theft](https://hackerone.com/reports/798121) to Rockstar Games - 16 upvotes, $750
@@ -68,12 +68,12 @@ Top Open Redirect reports from HackerOne:
 64. [open redirect in \<your_zendesk\>.zendesk.com](https://hackerone.com/reports/99516) to Zendesk - 12 upvotes, $100
 65. [Open redirect on https://werkenbijdefensie.nl/](https://hackerone.com/reports/242314) to Maximum - 12 upvotes, $50
 66. [Open redirect on marketing site](https://hackerone.com/reports/219447) to Shipt - 12 upvotes, $50
-67. [Open Redirect on slack.com](https://hackerone.com/reports/140447) to Slack - 11 upvotes, $500
-68. [Open redirect / Reflected XSS payload in root that affects all your sites (store.starbucks.* / shop.starbucks.* / teavana.com)](https://hackerone.com/reports/196846) to Starbucks - 11 upvotes, $375
-69. [Open Redirect in unifi.ubnt.com [Controller Finder]](https://hackerone.com/reports/141355) to Ubiquiti Inc. - 11 upvotes, $260
-70. [Goodhire Open Redirect](https://hackerone.com/reports/277078) to Inflection - 11 upvotes, $0
-71. [Open Redirect In passport.maps.me/logout/?next=//fb.com/](https://hackerone.com/reports/448841) to Mail.ru - 11 upvotes, $0
-72. [Open Redirect - www.shopify.com](https://hackerone.com/reports/905737) to Shopify - 11 upvotes, $0
+67. [Open Redirect - www.shopify.com](https://hackerone.com/reports/905737) to Shopify - 12 upvotes, $0
+68. [Open Redirect on slack.com](https://hackerone.com/reports/140447) to Slack - 11 upvotes, $500
+69. [Open redirect / Reflected XSS payload in root that affects all your sites (store.starbucks.* / shop.starbucks.* / teavana.com)](https://hackerone.com/reports/196846) to Starbucks - 11 upvotes, $375
+70. [Open Redirect in unifi.ubnt.com [Controller Finder]](https://hackerone.com/reports/141355) to Ubiquiti Inc. - 11 upvotes, $260
+71. [Goodhire Open Redirect](https://hackerone.com/reports/277078) to Inflection - 11 upvotes, $0
+72. [Open Redirect In passport.maps.me/logout/?next=//fb.com/](https://hackerone.com/reports/448841) to Mail.ru - 11 upvotes, $0
 73. [(BYPASS) Open Redirect after login at http://ecommerce.shopify.com](https://hackerone.com/reports/155222) to Shopify - 10 upvotes, $500
 74. [[apps.shopify.com] Open Redirect](https://hackerone.com/reports/160047) to Shopify - 10 upvotes, $500
 75. [Open redirect on rush.uber.com, business.uber.com, and help.uber.com](https://hackerone.com/reports/126070) to Uber - 10 upvotes, $500
