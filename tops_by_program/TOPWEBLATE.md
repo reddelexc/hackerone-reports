@@ -13,20 +13,20 @@ Top reports from Weblate program at HackerOne:
 9. [Account Takeover using Third party Auth CSRF](https://hackerone.com/reports/225653) to Weblate - 9 upvotes, $0
 10. [Login CSRF : Login Authentication Flaw](https://hackerone.com/reports/229528) to Weblate - 9 upvotes, $0
 11. [Rate Limit Issue on hosted.weblate.org](https://hackerone.com/reports/229825) to Weblate - 9 upvotes, $0
-12. [Missing filteration of meta characters in full name field on registration page https://demo.weblate.org/accounts/register](https://hackerone.com/reports/225901) to Weblate - 8 upvotes, $0
-13. [No Rate Limiting at /contact](https://hackerone.com/reports/229511) to Weblate - 8 upvotes, $0
-14. [Weak password policy](https://hackerone.com/reports/224572) to Weblate - 8 upvotes, $0
-15. [Missing Restriction On String Size](https://hackerone.com/reports/257376) to Weblate - 8 upvotes, $0
-16. [Broken Authentication – Session Token bug](https://hackerone.com/reports/400826) to Weblate - 8 upvotes, $0
-17. [no notification send to victim if attacker hacks/accesses his victims WebLate account.](https://hackerone.com/reports/282772) to Weblate - 8 upvotes, $0
-18. [No Rate On Add Suggest](https://hackerone.com/reports/481654) to Weblate - 8 upvotes, $0
-19. [CSRF to Connect third party Account](https://hackerone.com/reports/225100) to Weblate - 7 upvotes, $0
-20. [Insecure Account Removal](https://hackerone.com/reports/223355) to Weblate - 7 upvotes, $0
-21. [Activation tokens are not expiring](https://hackerone.com/reports/223339) to Weblate - 7 upvotes, $0
-22. [Missing restriction on string size of Full Name at https://demo.weblate.org/accounts/register/](https://hackerone.com/reports/223454) to Weblate - 7 upvotes, $0
-23. [Password token validation in Weblate Bypass #2](https://hackerone.com/reports/244287) to Weblate - 7 upvotes, $0
-24. [Browser Self XSS Protection not implemented](https://hackerone.com/reports/400781) to Weblate - 7 upvotes, $0
-25. [Open Github Repo Leaking WEBLATE SECRET KEY](https://hackerone.com/reports/942146) to Weblate - 7 upvotes, $0
+12. [Open Github Repo Leaking WEBLATE SECRET KEY](https://hackerone.com/reports/942146) to Weblate - 9 upvotes, $0
+13. [Missing filteration of meta characters in full name field on registration page https://demo.weblate.org/accounts/register](https://hackerone.com/reports/225901) to Weblate - 8 upvotes, $0
+14. [No Rate Limiting at /contact](https://hackerone.com/reports/229511) to Weblate - 8 upvotes, $0
+15. [Weak password policy](https://hackerone.com/reports/224572) to Weblate - 8 upvotes, $0
+16. [Missing Restriction On String Size](https://hackerone.com/reports/257376) to Weblate - 8 upvotes, $0
+17. [Broken Authentication – Session Token bug](https://hackerone.com/reports/400826) to Weblate - 8 upvotes, $0
+18. [no notification send to victim if attacker hacks/accesses his victims WebLate account.](https://hackerone.com/reports/282772) to Weblate - 8 upvotes, $0
+19. [No Rate On Add Suggest](https://hackerone.com/reports/481654) to Weblate - 8 upvotes, $0
+20. [CSRF to Connect third party Account](https://hackerone.com/reports/225100) to Weblate - 7 upvotes, $0
+21. [Insecure Account Removal](https://hackerone.com/reports/223355) to Weblate - 7 upvotes, $0
+22. [Activation tokens are not expiring](https://hackerone.com/reports/223339) to Weblate - 7 upvotes, $0
+23. [Missing restriction on string size of Full Name at https://demo.weblate.org/accounts/register/](https://hackerone.com/reports/223454) to Weblate - 7 upvotes, $0
+24. [Password token validation in Weblate Bypass #2](https://hackerone.com/reports/244287) to Weblate - 7 upvotes, $0
+25. [Browser Self XSS Protection not implemented](https://hackerone.com/reports/400781) to Weblate - 7 upvotes, $0
 26. [No Rate Limitting at Change Password](https://hackerone.com/reports/223694) to Weblate - 6 upvotes, $0
 27. [Logout CSRF](https://hackerone.com/reports/223329) to Weblate - 6 upvotes, $0
 28. [CSV export filter bypass leads to formula injection.](https://hackerone.com/reports/223999) to Weblate - 6 upvotes, $0

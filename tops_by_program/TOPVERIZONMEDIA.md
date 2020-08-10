@@ -37,24 +37,24 @@ Top reports from Verizon Media program at HackerOne:
 33. [information disclosure (LOAD BALANCER + URI XSS)](https://hackerone.com/reports/8284) to Verizon Media - 1 upvotes, $300
 34. [XSS Vulnerability (my.yahoo.com)](https://hackerone.com/reports/4256) to Verizon Media - 1 upvotes, $250
 35. [Cross-origin issue on rmaiauth.ads.vip.bf1.yahoo.com](https://hackerone.com/reports/6268) to Verizon Media - 1 upvotes, $250
-36. [ClickJacking on http://au.launch.yahoo.com](https://hackerone.com/reports/1229) to Verizon Media - 1 upvotes, $0
-37. [Yahoo open redirect using ad](https://hackerone.com/reports/2322) to Verizon Media - 1 upvotes, $0
-38. [Open Redirect via Request-URI](https://hackerone.com/reports/15298) to Verizon Media - 1 upvotes, $0
-39. [XSS Reflected - Yahoo Travel](https://hackerone.com/reports/1553) to Verizon Media - 1 upvotes, $0
-40. [Yahoo mail login page bruteforce protection bypass](https://hackerone.com/reports/2596) to Verizon Media - 1 upvotes, $0
-41. [Authentication bypass at fast.corp.yahoo.com](https://hackerone.com/reports/3577) to Verizon Media - 1 upvotes, $0
-42. [Clickjacking at surveylink.yahoo.com](https://hackerone.com/reports/3578) to Verizon Media - 1 upvotes, $0
-43. [Stored Cross Site Scripting Vulnerability in Yahoo Mail](https://hackerone.com/reports/4277) to Verizon Media - 1 upvotes, $0
-44. [Almost all the subdomains are infected.](https://hackerone.com/reports/4359) to Verizon Media - 1 upvotes, $0
-45. [Yahoo! Messenger v11.5.0.228 emoticons.xml shortcut Value Handling Stack-Based Buffer Overflow](https://hackerone.com/reports/10767) to Verizon Media - 1 upvotes, $0
-46. [Open Proxy, http://www.smushit.com/ysmush.it/, 4/09/14, #SpringClean](https://hackerone.com/reports/6704) to Verizon Media - 0 upvotes, $2000
-47. [XSS on Every sports.yahoo.com page](https://hackerone.com/reports/2168) to Verizon Media - 0 upvotes, $1500
-48. [CSRF Token missing on  http://baseball.fantasysports.yahoo.com/b1/127146/messages](https://hackerone.com/reports/6700) to Verizon Media - 0 upvotes, $400
-49. [Yahoo! Reflected XSS](https://hackerone.com/reports/18279) to Verizon Media - 0 upvotes, $250
-50. [Infrastructure and Application Admin Interfaces (OWASP‐CM‐007)](https://hackerone.com/reports/11414) to Verizon Media - 0 upvotes, $250
-51. [Yahoo Sports Fantasy Golf (Join Public Group)](https://hackerone.com/reports/16414) to Verizon Media - 0 upvotes, $200
-52. [CSRF Token is missing on DELETE message option on  http://baseball.fantasysports.yahoo.com/b1/127146/messages](https://hackerone.com/reports/6702) to Verizon Media - 0 upvotes, $200
-53. [XSS in Yahoo! Web Analytics](https://hackerone.com/reports/5442) to Verizon Media - 0 upvotes, $100
+36. [XSS in Yahoo! Web Analytics](https://hackerone.com/reports/5442) to Verizon Media - 1 upvotes, $100
+37. [ClickJacking on http://au.launch.yahoo.com](https://hackerone.com/reports/1229) to Verizon Media - 1 upvotes, $0
+38. [Yahoo open redirect using ad](https://hackerone.com/reports/2322) to Verizon Media - 1 upvotes, $0
+39. [Open Redirect via Request-URI](https://hackerone.com/reports/15298) to Verizon Media - 1 upvotes, $0
+40. [XSS Reflected - Yahoo Travel](https://hackerone.com/reports/1553) to Verizon Media - 1 upvotes, $0
+41. [Yahoo mail login page bruteforce protection bypass](https://hackerone.com/reports/2596) to Verizon Media - 1 upvotes, $0
+42. [Authentication bypass at fast.corp.yahoo.com](https://hackerone.com/reports/3577) to Verizon Media - 1 upvotes, $0
+43. [Clickjacking at surveylink.yahoo.com](https://hackerone.com/reports/3578) to Verizon Media - 1 upvotes, $0
+44. [Stored Cross Site Scripting Vulnerability in Yahoo Mail](https://hackerone.com/reports/4277) to Verizon Media - 1 upvotes, $0
+45. [Almost all the subdomains are infected.](https://hackerone.com/reports/4359) to Verizon Media - 1 upvotes, $0
+46. [Yahoo! Messenger v11.5.0.228 emoticons.xml shortcut Value Handling Stack-Based Buffer Overflow](https://hackerone.com/reports/10767) to Verizon Media - 1 upvotes, $0
+47. [Open Proxy, http://www.smushit.com/ysmush.it/, 4/09/14, #SpringClean](https://hackerone.com/reports/6704) to Verizon Media - 0 upvotes, $2000
+48. [XSS on Every sports.yahoo.com page](https://hackerone.com/reports/2168) to Verizon Media - 0 upvotes, $1500
+49. [CSRF Token missing on  http://baseball.fantasysports.yahoo.com/b1/127146/messages](https://hackerone.com/reports/6700) to Verizon Media - 0 upvotes, $400
+50. [Yahoo! Reflected XSS](https://hackerone.com/reports/18279) to Verizon Media - 0 upvotes, $250
+51. [Infrastructure and Application Admin Interfaces (OWASP‐CM‐007)](https://hackerone.com/reports/11414) to Verizon Media - 0 upvotes, $250
+52. [Yahoo Sports Fantasy Golf (Join Public Group)](https://hackerone.com/reports/16414) to Verizon Media - 0 upvotes, $200
+53. [CSRF Token is missing on DELETE message option on  http://baseball.fantasysports.yahoo.com/b1/127146/messages](https://hackerone.com/reports/6702) to Verizon Media - 0 upvotes, $200
 54. [Testing for user enumeration (OWASP‐AT‐002) - https://gh.bouncer.login.yahoo.com](https://hackerone.com/reports/12708) to Verizon Media - 0 upvotes, $100
 55. [Authorization issue on creative.yahoo.com](https://hackerone.com/reports/12685) to Verizon Media - 0 upvotes, $50
 56. [Directory Traversal ](https://hackerone.com/reports/1092) to Verizon Media - 0 upvotes, $0

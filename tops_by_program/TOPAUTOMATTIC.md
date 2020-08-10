@@ -2,17 +2,17 @@
 
 Top reports from Automattic program at HackerOne:
 
-1. [Denial of service to WP-JSON API by cache poisoning the CORS allow origin header](https://hackerone.com/reports/591302) to Automattic - 377 upvotes, $550
+1. [Denial of service to WP-JSON API by cache poisoning the CORS allow origin header](https://hackerone.com/reports/591302) to Automattic - 378 upvotes, $550
 2. [Stored XSS in wordpress.com](https://hackerone.com/reports/733248) to Automattic - 343 upvotes, $650
 3. [Stored XSS vulnerability in comments on *.wordpress.com](https://hackerone.com/reports/707720) to Automattic - 114 upvotes, $350
 4. [Authenticated Code Execution through Phar deserialization in CSV Importer as Shop manager in WooCommerce](https://hackerone.com/reports/403083) to Automattic - 81 upvotes, $350
-5. [WordPress Flash XSS in *flashmediaelement.swf*](https://hackerone.com/reports/134546) to Automattic - 68 upvotes, $1337
-6. [DOM-Based XSS in tumblr.com](https://hackerone.com/reports/882546) to Automattic - 60 upvotes, $350
+5. [DOM-Based XSS in tumblr.com](https://hackerone.com/reports/882546) to Automattic - 78 upvotes, $350
+6. [WordPress Flash XSS in *flashmediaelement.swf*](https://hackerone.com/reports/134546) to Automattic - 68 upvotes, $1337
 7. [Disclosure of 152 cookie names via crafted input](https://hackerone.com/reports/310105) to Automattic - 59 upvotes, $100
 8. [Stored Self XSS on https://app.crowdsignal.com (in Photo Insert App) + Stored XSS on https://*your-subdomain*.survey.fm](https://hackerone.com/reports/667188) to Automattic - 56 upvotes, $150
 9. [Broken Authentication - Security token gets captured via man in the middle attack](https://hackerone.com/reports/206650) to Automattic - 54 upvotes, $200
 10. [Wordpress VIP leaks email of the test a/c](https://hackerone.com/reports/540301) to Automattic - 51 upvotes, $100
-11. [SSRF and local file disclosure in https://wordpress.com/media/videos/ via FFmpeg HLS processing](https://hackerone.com/reports/237381) to Automattic - 49 upvotes, $800
+11. [SSRF and local file disclosure in https://wordpress.com/media/videos/ via FFmpeg HLS processing](https://hackerone.com/reports/237381) to Automattic - 50 upvotes, $800
 12. [WordPress SOME bug in plupload.flash.swf leading to RCE](https://hackerone.com/reports/134738) to Automattic - 48 upvotes, $1337
 13. [Captcha bypass for the most important function - At en.instagram-brand.com](https://hackerone.com/reports/206653) to Automattic - 42 upvotes, $150
 14. [WooCommerce: Persistent XSS via customer address (state/county)](https://hackerone.com/reports/530499) to Automattic - 39 upvotes, $350
@@ -29,13 +29,13 @@ Top reports from Automattic program at HackerOne:
 25. [Authentication Bypass - Chaining two vulnerabilities leads to account takeover at en.instagram-brand.com](https://hackerone.com/reports/209008) to Automattic - 25 upvotes, $175
 26. [xss filter bypass [polldaddy]](https://hackerone.com/reports/264832) to Automattic - 21 upvotes, $150
 27. [Stored XSS in learnboost.com via the lesson[goals] parameter.](https://hackerone.com/reports/300270) to Automattic - 21 upvotes, $100
-28. [[tumblr.com] 69\< Firefox Only  XSS Reflected](https://hackerone.com/reports/915756) to Automattic - 19 upvotes, $250
+28. [[tumblr.com] 69\< Firefox Only  XSS Reflected](https://hackerone.com/reports/915756) to Automattic - 20 upvotes, $250
 29. [Improper markup sanitization.](https://hackerone.com/reports/289823) to Automattic - 18 upvotes, $150
-30. [Improper markup sanitisation in Simplenote Android application.](https://hackerone.com/reports/297547) to Automattic - 16 upvotes, $300
-31. [[Simplenote for Windows] Client RCE via External JavaScript Inclusion leveraging Electron](https://hackerone.com/reports/291539) to Automattic - 16 upvotes, $250
-32. [[app.simplenote.com] Stored XSS via Markdown SVG filter bypass](https://hackerone.com/reports/271007) to Automattic - 16 upvotes, $200
-33. [https://secure.gravatar.com](https://hackerone.com/reports/260755) to Automattic - 16 upvotes, $150
-34. [Gaining unlimited bonus points on websites with WooCommerce Points and Rewards](https://hackerone.com/reports/592803) to Automattic - 16 upvotes, $150
+30. [Gaining unlimited bonus points on websites with WooCommerce Points and Rewards](https://hackerone.com/reports/592803) to Automattic - 17 upvotes, $150
+31. [Improper markup sanitisation in Simplenote Android application.](https://hackerone.com/reports/297547) to Automattic - 16 upvotes, $300
+32. [[Simplenote for Windows] Client RCE via External JavaScript Inclusion leveraging Electron](https://hackerone.com/reports/291539) to Automattic - 16 upvotes, $250
+33. [[app.simplenote.com] Stored XSS via Markdown SVG filter bypass](https://hackerone.com/reports/271007) to Automattic - 16 upvotes, $200
+34. [https://secure.gravatar.com](https://hackerone.com/reports/260755) to Automattic - 16 upvotes, $150
 35. [Stored XSS in www.learnboost.com via ZIP codes.](https://hackerone.com/reports/300812) to Automattic - 16 upvotes, $100
 36. [No rate limit on app.crowdsignal.com (Finish quiz)](https://hackerone.com/reports/568832) to Automattic - 16 upvotes, $75
 37. [Arbitrary File Download as Shopmanager](https://hackerone.com/reports/402473) to Automattic - 15 upvotes, $350

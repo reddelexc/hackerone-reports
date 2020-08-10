@@ -37,15 +37,15 @@ Top reports from LocalTapiola program at HackerOne:
 33. [Reflected XSS (myynti.lahitapiolarahoitus.fi)](https://hackerone.com/reports/324423) to LocalTapiola - 12 upvotes, $250
 34. [Reflected XSS of bbe-child-starter Theme via "value"-GET-parameter](https://hackerone.com/reports/335735) to LocalTapiola - 11 upvotes, $250
 35. [Remote Code Execution in NovaStor NovaBACKUP DataCenter backup software (Hiback)](https://hackerone.com/reports/138824) to LocalTapiola - 11 upvotes, $100
-36. [Open Redirect bypass and cookie leakage on www.lahitapiola.com](https://hackerone.com/reports/190188) to LocalTapiola - 10 upvotes, $400
-37. [The parameter in the POST query allows to control size of returned page which in turn can lead to the potential DOS attack](https://hackerone.com/reports/300391) to LocalTapiola - 10 upvotes, $315
-38. [Content Spoofing or Text Injection (404 error page injection on yrityspalvelu)](https://hackerone.com/reports/134388) to LocalTapiola - 10 upvotes, $100
-39. [CSRF possible when SOP Bypass/UXSS is available](https://hackerone.com/reports/207399) to LocalTapiola - 10 upvotes, $50
-40. [WordPress username enumeration (/author)](https://hackerone.com/reports/335427) to LocalTapiola - 10 upvotes, $50
-41. [F5 BigIP Backend Cookie Disclosure](https://hackerone.com/reports/384905) to LocalTapiola - 10 upvotes, $50
-42. [Non-secure requests to www.lahitapiola.fi are not automatically upgraded to HTTPS](https://hackerone.com/reports/161485) to LocalTapiola - 10 upvotes, $50
-43. [Multiple Vulnerabilities in Oracle Webcenter Sites (/cs/Satellite)](https://hackerone.com/reports/199082) to LocalTapiola - 9 upvotes, $600
-44. [CRLF injection in https://verkkopalvelu.lahitapiola.fi/](https://hackerone.com/reports/121489) to LocalTapiola - 9 upvotes, $400
+36. [CRLF injection in https://verkkopalvelu.lahitapiola.fi/](https://hackerone.com/reports/121489) to LocalTapiola - 10 upvotes, $400
+37. [Open Redirect bypass and cookie leakage on www.lahitapiola.com](https://hackerone.com/reports/190188) to LocalTapiola - 10 upvotes, $400
+38. [The parameter in the POST query allows to control size of returned page which in turn can lead to the potential DOS attack](https://hackerone.com/reports/300391) to LocalTapiola - 10 upvotes, $315
+39. [Content Spoofing or Text Injection (404 error page injection on yrityspalvelu)](https://hackerone.com/reports/134388) to LocalTapiola - 10 upvotes, $100
+40. [CSRF possible when SOP Bypass/UXSS is available](https://hackerone.com/reports/207399) to LocalTapiola - 10 upvotes, $50
+41. [WordPress username enumeration (/author)](https://hackerone.com/reports/335427) to LocalTapiola - 10 upvotes, $50
+42. [F5 BigIP Backend Cookie Disclosure](https://hackerone.com/reports/384905) to LocalTapiola - 10 upvotes, $50
+43. [Non-secure requests to www.lahitapiola.fi are not automatically upgraded to HTTPS](https://hackerone.com/reports/161485) to LocalTapiola - 10 upvotes, $50
+44. [Multiple Vulnerabilities in Oracle Webcenter Sites (/cs/Satellite)](https://hackerone.com/reports/199082) to LocalTapiola - 9 upvotes, $600
 45. [Reflected XSS on bbe_open_htmleditor_popup.php of BBE Theme via "value"-GET-parameter](https://hackerone.com/reports/324442) to LocalTapiola - 9 upvotes, $250
 46. [Mixed Active Scripting Issue on https://www.lahitapiola.fi](https://hackerone.com/reports/146707) to LocalTapiola - 9 upvotes, $150
 47. [Creating arbitrary cookies values /cs/CookieServer (www.lahitapiola.fi)](https://hackerone.com/reports/192618) to LocalTapiola - 9 upvotes, $150

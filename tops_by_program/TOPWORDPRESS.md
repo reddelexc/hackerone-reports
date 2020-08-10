@@ -2,14 +2,14 @@
 
 Top reports from WordPress program at HackerOne:
 
-1. [Stored XSS Vulnerability](https://hackerone.com/reports/643908) to WordPress - 363 upvotes, $500
+1. [Stored XSS Vulnerability](https://hackerone.com/reports/643908) to WordPress - 364 upvotes, $500
 2. [Stored XSS in Private Message component (BuddyPress)](https://hackerone.com/reports/487081) to WordPress - 331 upvotes, $500
 3. [RCE as Admin defeats WordPress hardening and file permissions](https://hackerone.com/reports/436928) to WordPress - 150 upvotes, $800
 4. [Stored XSS on byddypress Plug-in via groups name](https://hackerone.com/reports/592316) to WordPress - 127 upvotes, $450
 5. [Wordpress unzip_file path traversal](https://hackerone.com/reports/205481) to WordPress - 109 upvotes, $800
 6. [Reflected XSS on https://make.wordpress.org via 'channel' parameter](https://hackerone.com/reports/659419) to WordPress - 95 upvotes, $387
 7. [CSRF to HTML Injection in Comments](https://hackerone.com/reports/428019) to WordPress - 93 upvotes, $950
-8. [Clickjacking on donation page](https://hackerone.com/reports/921709) to WordPress - 84 upvotes, $50
+8. [Clickjacking on donation page](https://hackerone.com/reports/921709) to WordPress - 87 upvotes, $50
 9. [Potential unprivileged Stored XSS through wp_targeted_link_rel](https://hackerone.com/reports/509930) to WordPress - 80 upvotes, $650
 10. [Mssing Authorization on Private Message replies (BuddyPress)](https://hackerone.com/reports/490782) to WordPress - 63 upvotes, $375
 11. [plugins.trac.wordpress.org likely vulnerable to Cross Site Tracing (xst), TRACE HTTP method should be disabled](https://hackerone.com/reports/222692) to WordPress - 55 upvotes, $150

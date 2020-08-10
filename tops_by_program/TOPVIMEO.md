@@ -54,18 +54,18 @@ Top reports from Vimeo program at HackerOne:
 50. [XSS on Vimeo](https://hackerone.com/reports/45484) to Vimeo - 1 upvotes, $100
 51. [Private, embeddable videos leaks data through Facebook & Open Graph](https://hackerone.com/reports/121919) to Vimeo - 1 upvotes, $100
 52. [USER PRIVACY VIOLATED (PRIVATE DATA GETTING TRANSFER OVER INSECURE CHANNEL ) ](https://hackerone.com/reports/44056) to Vimeo - 1 upvotes, $0
-53. [Full account takeover via Add a New Email to account without email verified and without password confirmation.](https://hackerone.com/reports/45084) to Vimeo - 1 upvotes, $0
-54. [No Limitation on Following allows user to follow people automatically!](https://hackerone.com/reports/43846) to Vimeo - 1 upvotes, $0
-55. [[URGENT ISSUE] Add or Delete the videos in watch later list of any user .](https://hackerone.com/reports/52982) to Vimeo - 0 upvotes, $250
-56. [Share your channel to any user on vimeo without following him](https://hackerone.com/reports/52708) to Vimeo - 0 upvotes, $250
-57. [APIs for channels allow HTML entities that may cause XSS issue](https://hackerone.com/reports/42702) to Vimeo - 0 upvotes, $100
-58. [ftp upload of video allows naming that is not sanitized as the manual naming](https://hackerone.com/reports/45368) to Vimeo - 0 upvotes, $100
-59. [Vimeo.com - reflected xss vulnerability](https://hackerone.com/reports/42584) to Vimeo - 0 upvotes, $100
-60. [player.vimeo.com - Reflected XSS Vulnerability](https://hackerone.com/reports/43672) to Vimeo - 0 upvotes, $100
-61. [Vimeo.com - Reflected XSS Vulnerability](https://hackerone.com/reports/42582) to Vimeo - 0 upvotes, $100
-62. [Legacy API exposes private video titles](https://hackerone.com/reports/111386) to Vimeo - 0 upvotes, $100
-63. [unvalid open authentication with facebook](https://hackerone.com/reports/44425) to Vimeo - 0 upvotes, $0
-64. [CSRF bypass](https://hackerone.com/reports/45428) to Vimeo - 0 upvotes, $0
+53. [CSRF bypass](https://hackerone.com/reports/45428) to Vimeo - 1 upvotes, $0
+54. [Full account takeover via Add a New Email to account without email verified and without password confirmation.](https://hackerone.com/reports/45084) to Vimeo - 1 upvotes, $0
+55. [No Limitation on Following allows user to follow people automatically!](https://hackerone.com/reports/43846) to Vimeo - 1 upvotes, $0
+56. [[URGENT ISSUE] Add or Delete the videos in watch later list of any user .](https://hackerone.com/reports/52982) to Vimeo - 0 upvotes, $250
+57. [Share your channel to any user on vimeo without following him](https://hackerone.com/reports/52708) to Vimeo - 0 upvotes, $250
+58. [APIs for channels allow HTML entities that may cause XSS issue](https://hackerone.com/reports/42702) to Vimeo - 0 upvotes, $100
+59. [ftp upload of video allows naming that is not sanitized as the manual naming](https://hackerone.com/reports/45368) to Vimeo - 0 upvotes, $100
+60. [Vimeo.com - reflected xss vulnerability](https://hackerone.com/reports/42584) to Vimeo - 0 upvotes, $100
+61. [player.vimeo.com - Reflected XSS Vulnerability](https://hackerone.com/reports/43672) to Vimeo - 0 upvotes, $100
+62. [Vimeo.com - Reflected XSS Vulnerability](https://hackerone.com/reports/42582) to Vimeo - 0 upvotes, $100
+63. [Legacy API exposes private video titles](https://hackerone.com/reports/111386) to Vimeo - 0 upvotes, $100
+64. [unvalid open authentication with facebook](https://hackerone.com/reports/44425) to Vimeo - 0 upvotes, $0
 65. [Brute force on "vimeo" cookie](https://hackerone.com/reports/46109) to Vimeo - 0 upvotes, $0
 66. [Misconfigured crossdomain.xml - vimeo.com](https://hackerone.com/reports/43070) to Vimeo - 0 upvotes, $0
 67. [profile photo update bypass ](https://hackerone.com/reports/43758) to Vimeo - 0 upvotes, $0
