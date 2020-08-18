@@ -2,14 +2,14 @@
 
 Top reports from WordPress program at HackerOne:
 
-1. [Stored XSS Vulnerability](https://hackerone.com/reports/643908) to WordPress - 364 upvotes, $500
+1. [Stored XSS Vulnerability](https://hackerone.com/reports/643908) to WordPress - 365 upvotes, $500
 2. [Stored XSS in Private Message component (BuddyPress)](https://hackerone.com/reports/487081) to WordPress - 331 upvotes, $500
 3. [RCE as Admin defeats WordPress hardening and file permissions](https://hackerone.com/reports/436928) to WordPress - 150 upvotes, $800
 4. [Stored XSS on byddypress Plug-in via groups name](https://hackerone.com/reports/592316) to WordPress - 127 upvotes, $450
 5. [Wordpress unzip_file path traversal](https://hackerone.com/reports/205481) to WordPress - 109 upvotes, $800
 6. [Reflected XSS on https://make.wordpress.org via 'channel' parameter](https://hackerone.com/reports/659419) to WordPress - 95 upvotes, $387
 7. [CSRF to HTML Injection in Comments](https://hackerone.com/reports/428019) to WordPress - 93 upvotes, $950
-8. [Clickjacking on donation page](https://hackerone.com/reports/921709) to WordPress - 87 upvotes, $50
+8. [Clickjacking on donation page](https://hackerone.com/reports/921709) to WordPress - 88 upvotes, $50
 9. [Potential unprivileged Stored XSS through wp_targeted_link_rel](https://hackerone.com/reports/509930) to WordPress - 80 upvotes, $650
 10. [Mssing Authorization on Private Message replies (BuddyPress)](https://hackerone.com/reports/490782) to WordPress - 63 upvotes, $375
 11. [plugins.trac.wordpress.org likely vulnerable to Cross Site Tracing (xst), TRACE HTTP method should be disabled](https://hackerone.com/reports/222692) to WordPress - 55 upvotes, $150
@@ -54,10 +54,10 @@ Top reports from WordPress program at HackerOne:
 50. [xss - reflected](https://hackerone.com/reports/384112) to WordPress - 8 upvotes, $50
 51. [code.wordpress.net subdomain Takeover](https://hackerone.com/reports/295330) to WordPress - 8 upvotes, $25
 52. [Clickjacking - https://mercantile.wordpress.org/](https://hackerone.com/reports/258283) to WordPress - 8 upvotes, $0
-53. [Stored XSS on Wordpress 5.3 via Title Post](https://hackerone.com/reports/754352) to WordPress - 8 upvotes, $0
-54. [[BuddyPress 2.9.1] Open Redirect via "wp_http_referer" parameter on "bp-profile-edit" endpoint](https://hackerone.com/reports/277502) to WordPress - 7 upvotes, $275
-55. [Lack of Password Confirmation when Changing Password and Email](https://hackerone.com/reports/224214) to WordPress - 7 upvotes, $0
-56. [[support.wordcamp.org] - publicly accessible .svn repository](https://hackerone.com/reports/309714) to WordPress - 7 upvotes, $0
+53. [[support.wordcamp.org] - publicly accessible .svn repository](https://hackerone.com/reports/309714) to WordPress - 8 upvotes, $0
+54. [Stored XSS on Wordpress 5.3 via Title Post](https://hackerone.com/reports/754352) to WordPress - 8 upvotes, $0
+55. [[BuddyPress 2.9.1] Open Redirect via "wp_http_referer" parameter on "bp-profile-edit" endpoint](https://hackerone.com/reports/277502) to WordPress - 7 upvotes, $275
+56. [Lack of Password Confirmation when Changing Password and Email](https://hackerone.com/reports/224214) to WordPress - 7 upvotes, $0
 57. [Unauthenticated hidden groups disclosure via Ajax groups search](https://hackerone.com/reports/282176) to WordPress - 5 upvotes, $275
 58. [WordPress core  - Denial of Service via Cross Site Request Forgery](https://hackerone.com/reports/153093) to WordPress - 5 upvotes, $250
 59. [CSRF in Profile Fields allows deleting any field in BuddyPress](https://hackerone.com/reports/836187) to WordPress - 5 upvotes, $225

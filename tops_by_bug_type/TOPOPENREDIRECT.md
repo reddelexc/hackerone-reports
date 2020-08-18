@@ -29,7 +29,7 @@ Top Open Redirect reports from HackerOne:
 25. [Open Redirection in [https://www.hackerone.com/index.php]](https://hackerone.com/reports/562417) to HackerOne - 32 upvotes, $0
 26. [[http2.cloudflare.com] Open Redirect](https://hackerone.com/reports/193027) to Cloudflare Vulnerability Disclosure - 30 upvotes, $0
 27. [Open redirect using theme install](https://hackerone.com/reports/101962) to Shopify - 29 upvotes, $500
-28. [http://www.nextcloud.com/wp-includes/js/swfupload/swfupload.swf allows open redirect / site defacement](https://hackerone.com/reports/209520) to Nextcloud - 28 upvotes, $0
+28. [http://www.nextcloud.com/wp-includes/js/swfupload/swfupload.swf allows open redirect / site defacement](https://hackerone.com/reports/209520) to Nextcloud - 29 upvotes, $0
 29. [Open redirect bypass &  SSRF Security Vulnerability](https://hackerone.com/reports/771465) to Smule - 27 upvotes, $0
 30. [Open redirect in bulk edit](https://hackerone.com/reports/169759) to Shopify - 26 upvotes, $500
 31. [Open Redirect (verkkopalvelu.lahitapiola.fi)](https://hackerone.com/reports/179328) to LocalTapiola - 26 upvotes, $400

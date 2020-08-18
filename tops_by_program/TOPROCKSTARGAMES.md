@@ -8,7 +8,7 @@ Top reports from Rockstar Games program at HackerOne:
 4. [xss on https://www.rockstargames.com/GTAOnline/jp/screens/ ](https://hackerone.com/reports/507494) to Rockstar Games - 146 upvotes, $750
 5. [Unserialize leading to arbitrary PHP function invoke](https://hackerone.com/reports/210741) to Rockstar Games - 112 upvotes, $5000
 6. [Stored XSS in Snapmatic + R★Editor comments](https://hackerone.com/reports/309531) to Rockstar Games - 107 upvotes, $1000
-7. [Referer Leakage Vulnerability in  socialclub.rockstargames.com/crew/ leads to FB'S OAuth token theft.](https://hackerone.com/reports/787160) to Rockstar Games - 95 upvotes, $750
+7. [Referer Leakage Vulnerability in  socialclub.rockstargames.com/crew/ leads to FB'S OAuth token theft.](https://hackerone.com/reports/787160) to Rockstar Games - 96 upvotes, $750
 8. [CSRF Vulnerability on https://signin.rockstargames.com/tpa/facebook/link/](https://hackerone.com/reports/474833) to Rockstar Games - 93 upvotes, $1000
 9. [Open redirect vulnerability](https://hackerone.com/reports/380760) to Rockstar Games - 80 upvotes, $250
 10. [Blind SSRF in emblem editor (2)](https://hackerone.com/reports/265050) to Rockstar Games - 70 upvotes, $1500
@@ -49,9 +49,9 @@ Top reports from Rockstar Games program at HackerOne:
 45. [Race condition vulnerability on "This Rocks" button.](https://hackerone.com/reports/474021) to Rockstar Games - 17 upvotes, $250
 46. [Stored XSS via Send crew invite](https://hackerone.com/reports/272997) to Rockstar Games - 16 upvotes, $1000
 47. [Open redirect in https://www.rockstargames.com/GTAOnline/restricted-content/agegate/form may lead to Facebook OAuth token theft](https://hackerone.com/reports/798121) to Rockstar Games - 16 upvotes, $750
-48. [[IMP] - Blind XSS in the admin panel for reviewing comments](https://hackerone.com/reports/197337) to Rockstar Games - 16 upvotes, $650
-49. [Table and Column Exposure](https://hackerone.com/reports/218898) to Rockstar Games - 16 upvotes, $150
-50. [Dom based xss on https://www.rockstargames.com/ via `returnUrl` parameter](https://hackerone.com/reports/505157) to Rockstar Games - 15 upvotes, $750
+48. [Dom based xss on https://www.rockstargames.com/ via `returnUrl` parameter](https://hackerone.com/reports/505157) to Rockstar Games - 16 upvotes, $750
+49. [[IMP] - Blind XSS in the admin panel for reviewing comments](https://hackerone.com/reports/197337) to Rockstar Games - 16 upvotes, $650
+50. [Table and Column Exposure](https://hackerone.com/reports/218898) to Rockstar Games - 16 upvotes, $150
 51. [Open redirect affecting  m.rockstargames.com/](https://hackerone.com/reports/781718) to Rockstar Games - 14 upvotes, $750
 52. [Dom based xss on /reddeadredemption2/br/videos](https://hackerone.com/reports/488108) to Rockstar Games - 14 upvotes, $750
 53. [SocialClub's Facebook OAuth Theft through Warehouse XSS.](https://hackerone.com/reports/316948) to Rockstar Games - 13 upvotes, $750

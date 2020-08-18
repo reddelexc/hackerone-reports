@@ -23,13 +23,13 @@ Top reports from LocalTapiola program at HackerOne:
 19. [SQL Injection in lapsuudenturva (viestinta.lahitapiola.fi)](https://hackerone.com/reports/191146) to LocalTapiola - 18 upvotes, $1350
 20. [F5 BIG-IP Cookie Remote Information Disclosure](https://hackerone.com/reports/330716) to LocalTapiola - 18 upvotes, $50
 21. [SQL Injection on /webApp/sijoitustalousuk email-parameter + potential lack of CSRF Token (viestinta.lahitapiola.fi)](https://hackerone.com/reports/191601) to LocalTapiola - 17 upvotes, $1350
-22. [xmlrpc.php FILE IS enable it will used for bruteforce attack and denial of service](https://hackerone.com/reports/325040) to LocalTapiola - 16 upvotes, $315
+22. [xmlrpc.php FILE IS enable it will used for bruteforce attack and denial of service](https://hackerone.com/reports/325040) to LocalTapiola - 17 upvotes, $315
 23. [Single user DOS on selectedLanguage -cookie (yrityspalvelu.lahitapiola.fi)](https://hackerone.com/reports/201723) to LocalTapiola - 15 upvotes, $400
 24. [SQL Injection /webApp/sijoitustalous_peruutus locId parameter (viestinta.lahitapiola.fi)](https://hackerone.com/reports/181826) to LocalTapiola - 15 upvotes, $350
 25. [Error Page Content Spoofing or Text Injection (viestinta.lahitapiola.fi)](https://hackerone.com/reports/181594) to LocalTapiola - 15 upvotes, $100
-26. [Email Server Compromised at secure.lahitapiola.fi](https://hackerone.com/reports/177225) to LocalTapiola - 14 upvotes, $750
-27. [CSRF allows attacker to delete item from customer's "Postilaatikko"](https://hackerone.com/reports/123339) to LocalTapiola - 14 upvotes, $500
-28. [User Information Disclosure via the REST API - /?_method=GET](https://hackerone.com/reports/384782) to LocalTapiola - 14 upvotes, $50
+26. [User Information Disclosure via the REST API - /?_method=GET](https://hackerone.com/reports/384782) to LocalTapiola - 15 upvotes, $50
+27. [Email Server Compromised at secure.lahitapiola.fi](https://hackerone.com/reports/177225) to LocalTapiola - 14 upvotes, $750
+28. [CSRF allows attacker to delete item from customer's "Postilaatikko"](https://hackerone.com/reports/123339) to LocalTapiola - 14 upvotes, $500
 29. [Cookie-based client-side denial-of-service to all of the Lähitapiola domains](https://hackerone.com/reports/129001) to LocalTapiola - 13 upvotes, $400
 30. [Sitemap causing strain on your Lahitapiola.fi server](https://hackerone.com/reports/318603) to LocalTapiola - 13 upvotes, $315
 31. [Reflected XSS and Open Redirect in several parameters (viestinta.lahitapiola.fi)](https://hackerone.com/reports/191387) to LocalTapiola - 12 upvotes, $450
