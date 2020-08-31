@@ -3,21 +3,21 @@
 Top reports from Automattic program at HackerOne:
 
 1. [Denial of service to WP-JSON API by cache poisoning the CORS allow origin header](https://hackerone.com/reports/591302) to Automattic - 378 upvotes, $550
-2. [Stored XSS in wordpress.com](https://hackerone.com/reports/733248) to Automattic - 343 upvotes, $650
+2. [Stored XSS in wordpress.com](https://hackerone.com/reports/733248) to Automattic - 344 upvotes, $650
 3. [Stored XSS vulnerability in comments on *.wordpress.com](https://hackerone.com/reports/707720) to Automattic - 114 upvotes, $350
 4. [Authenticated Code Execution through Phar deserialization in CSV Importer as Shop manager in WooCommerce](https://hackerone.com/reports/403083) to Automattic - 81 upvotes, $350
-5. [DOM-Based XSS in tumblr.com](https://hackerone.com/reports/882546) to Automattic - 78 upvotes, $350
+5. [DOM-Based XSS in tumblr.com](https://hackerone.com/reports/882546) to Automattic - 81 upvotes, $350
 6. [WordPress Flash XSS in *flashmediaelement.swf*](https://hackerone.com/reports/134546) to Automattic - 68 upvotes, $1337
 7. [Disclosure of 152 cookie names via crafted input](https://hackerone.com/reports/310105) to Automattic - 59 upvotes, $100
-8. [Stored Self XSS on https://app.crowdsignal.com (in Photo Insert App) + Stored XSS on https://*your-subdomain*.survey.fm](https://hackerone.com/reports/667188) to Automattic - 56 upvotes, $150
+8. [Stored Self XSS on https://app.crowdsignal.com (in Photo Insert App) + Stored XSS on https://*your-subdomain*.survey.fm](https://hackerone.com/reports/667188) to Automattic - 57 upvotes, $150
 9. [Broken Authentication - Security token gets captured via man in the middle attack](https://hackerone.com/reports/206650) to Automattic - 55 upvotes, $200
 10. [Wordpress VIP leaks email of the test a/c](https://hackerone.com/reports/540301) to Automattic - 51 upvotes, $100
 11. [SSRF and local file disclosure in https://wordpress.com/media/videos/ via FFmpeg HLS processing](https://hackerone.com/reports/237381) to Automattic - 50 upvotes, $800
 12. [WordPress SOME bug in plupload.flash.swf leading to RCE](https://hackerone.com/reports/134738) to Automattic - 48 upvotes, $1337
 13. [Captcha bypass for the most important function - At en.instagram-brand.com](https://hackerone.com/reports/206653) to Automattic - 43 upvotes, $150
-14. [WooCommerce: Persistent XSS via customer address (state/county)](https://hackerone.com/reports/530499) to Automattic - 39 upvotes, $350
-15. [Stored XSS in Jetpack's Simple Payment Module by Contributors / Authors](https://hackerone.com/reports/402753) to Automattic - 39 upvotes, $350
-16. [[IDOR] Attacker user can Approve/Decline AFK on the behalf of other users](https://hackerone.com/reports/725569) to Automattic - 39 upvotes, $100
+14. [[IDOR] Attacker user can Approve/Decline AFK on the behalf of other users](https://hackerone.com/reports/725569) to Automattic - 40 upvotes, $100
+15. [WooCommerce: Persistent XSS via customer address (state/county)](https://hackerone.com/reports/530499) to Automattic - 39 upvotes, $350
+16. [Stored XSS in Jetpack's Simple Payment Module by Contributors / Authors](https://hackerone.com/reports/402753) to Automattic - 39 upvotes, $350
 17. [DOM based XSS in the WooCommerce plugin](https://hackerone.com/reports/507139) to Automattic - 37 upvotes, $275
 18. [cloudup Subdomain Takeover That resolves to Desk.com ( CNAME cloudup.desk.com ) ](https://hackerone.com/reports/201796) to Automattic - 35 upvotes, $250
 19. [Unauthenticated RCE in Vaultpress](https://hackerone.com/reports/236552) to Automattic - 31 upvotes, $500
@@ -59,8 +59,8 @@ Top reports from Automattic program at HackerOne:
 55. [WooCommerce: Support Ticket indirect object reference](https://hackerone.com/reports/91599) to Automattic - 9 upvotes, $50
 56. [Theme Assets uploader allows HTML content](https://hackerone.com/reports/769998) to Automattic - 8 upvotes, $100
 57. [Object Injection in Woocommerce / Handle PDT Responses from PayPal](https://hackerone.com/reports/245228) to Automattic - 7 upvotes, $300
-58. [Stored XSS in assets.txmblr.com](https://hackerone.com/reports/870703) to Automattic - 6 upvotes, $0
-59. [Denial-of- service By Cache Poisoning The Cross-Origin Resource Sharing Misconfiguration Allow Origin Header](https://hackerone.com/reports/921704) to Automattic - 5 upvotes, $200
+58. [Denial-of- service By Cache Poisoning The Cross-Origin Resource Sharing Misconfiguration Allow Origin Header](https://hackerone.com/reports/921704) to Automattic - 6 upvotes, $200
+59. [Stored XSS in assets.txmblr.com](https://hackerone.com/reports/870703) to Automattic - 6 upvotes, $0
 60. [Persistent Cross-Site Scripting in WooCommerce WordPress plugin](https://hackerone.com/reports/152692) to Automattic - 5 upvotes, $75
 61. [XSS Vulnerability in WooCommerce Product Vendors plugin](https://hackerone.com/reports/253313) to Automattic - 4 upvotes, $225
 62. [Wordpress.com REST API oauth bypass via Cross Site Flashing](https://hackerone.com/reports/176308) to Automattic - 4 upvotes, $150

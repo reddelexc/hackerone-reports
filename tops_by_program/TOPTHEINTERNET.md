@@ -8,12 +8,12 @@ Top reports from The Internet program at HackerOne:
 4. [ACME TLS-SNI-01/02 challenge vulnerable when combined with shared hosting providers](https://hackerone.com/reports/304378) to The Internet - 34 upvotes, $0
 5. [Race Conditions in OAuth 2 API implementations](https://hackerone.com/reports/55140) to The Internet - 32 upvotes, $2500
 6. [ZeroMQ libzmq remote code execution](https://hackerone.com/reports/477073) to The Internet - 28 upvotes, $1000
-7. [Mailsploit: a sender spoofing bug in over 30 email clients](https://hackerone.com/reports/295339) to The Internet - 26 upvotes, $0
+7. [Mailsploit: a sender spoofing bug in over 30 email clients](https://hackerone.com/reports/295339) to The Internet - 27 upvotes, $0
 8. [4 severe remote + several minor OpenVPN vulnerabilities](https://hackerone.com/reports/242579) to The Internet - 26 upvotes, $0
 9. [Insufficient shell characters filtering leads to (potentially remote) code execution (CVE-2016-3714)](https://hackerone.com/reports/143966) to The Internet - 20 upvotes, $7500
 10. [TLS Virtual Host Confusion](https://hackerone.com/reports/501) to The Internet - 18 upvotes, $7500
-11. [CVE-2019-5736: Escape from Docker and Kubernetes containers to root on host](https://hackerone.com/reports/495495) to The Internet - 14 upvotes, $1000
-12. [Multiple HTTP Smuggling reports](https://hackerone.com/reports/648434) to The Internet - 14 upvotes, $0
+11. [Multiple HTTP Smuggling reports](https://hackerone.com/reports/648434) to The Internet - 15 upvotes, $0
+12. [CVE-2019-5736: Escape from Docker and Kubernetes containers to root on host](https://hackerone.com/reports/495495) to The Internet - 14 upvotes, $1000
 13. [GNU Bourne-Again Shell (Bash) 'Shellshock' Vulnerability](https://hackerone.com/reports/29839) to The Internet - 12 upvotes, $20000
 14. [Exim off-by-one RCE vulnerability](https://hackerone.com/reports/322935) to The Internet - 11 upvotes, $1500
 15. [Cross-site information assertion leak via Content Security Policy](https://hackerone.com/reports/16910) to The Internet - 11 upvotes, $0

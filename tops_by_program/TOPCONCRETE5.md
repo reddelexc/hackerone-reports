@@ -3,7 +3,7 @@
 Top reports from concrete5 program at HackerOne:
 
 1. [Remote Code Execution (Reverse Shell) - File Manager](https://hackerone.com/reports/768322) to concrete5 - 109 upvotes, $0
-2. [Time-base SQL Injection in Search Users](https://hackerone.com/reports/876800) to concrete5 - 52 upvotes, $0
+2. [Time-base SQL Injection in Search Users](https://hackerone.com/reports/876800) to concrete5 - 53 upvotes, $0
 3. [Password Reset link hijacking via Host Header Poisoning ](https://hackerone.com/reports/226659) to concrete5 - 47 upvotes, $0
 4. [SVG file that HTML Included is able to upload via File Manager](https://hackerone.com/reports/437863) to concrete5 - 24 upvotes, $0
 5. [XSS in select attribute options](https://hackerone.com/reports/753567) to concrete5 - 20 upvotes, $0

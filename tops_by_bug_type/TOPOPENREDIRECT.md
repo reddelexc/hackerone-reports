@@ -6,7 +6,7 @@ Top Open Redirect reports from HackerOne:
 2. [Open Redirect in secure.showmax.com](https://hackerone.com/reports/749338) to Showmax - 214 upvotes, $550
 3. [Open redirect at https://inventory.upserve.com/http://google.com/](https://hackerone.com/reports/469803) to Upserve  - 157 upvotes, $1200
 4. [Open Redirect on central.uber.com allows for account takeover](https://hackerone.com/reports/206591) to Uber - 111 upvotes, $8000
-5. [Twitter lite(Android): Vulnerable to local file steal, Javascript injection, Open redirect ](https://hackerone.com/reports/499348) to Twitter - 82 upvotes, $1120
+5. [Twitter lite(Android): Vulnerable to local file steal, Javascript injection, Open redirect ](https://hackerone.com/reports/499348) to Twitter - 83 upvotes, $1120
 6. [Open redirect vulnerability](https://hackerone.com/reports/380760) to Rockstar Games - 80 upvotes, $250
 7. [Open redirect](https://hackerone.com/reports/753399) to NordVPN - 74 upvotes, $500
 8. [[dev.twitter.com] XSS and Open Redirect](https://hackerone.com/reports/260744) to Twitter - 56 upvotes, $1120
@@ -27,8 +27,8 @@ Top Open Redirect reports from HackerOne:
 23. [(BYPASS) Open redirect and XSS in supporthiring.shopify.com](https://hackerone.com/reports/158434) to Shopify - 33 upvotes, $1000
 24. [Open Redirect on Gitllab Oauth leading to Acount Takeover](https://hackerone.com/reports/677617) to Vercel - 33 upvotes, $0
 25. [Open Redirection in [https://www.hackerone.com/index.php]](https://hackerone.com/reports/562417) to HackerOne - 32 upvotes, $0
-26. [[http2.cloudflare.com] Open Redirect](https://hackerone.com/reports/193027) to Cloudflare Vulnerability Disclosure - 30 upvotes, $0
-27. [Open redirect using theme install](https://hackerone.com/reports/101962) to Shopify - 29 upvotes, $500
+26. [Open redirect using theme install](https://hackerone.com/reports/101962) to Shopify - 30 upvotes, $500
+27. [[http2.cloudflare.com] Open Redirect](https://hackerone.com/reports/193027) to Cloudflare Vulnerability Disclosure - 30 upvotes, $0
 28. [http://www.nextcloud.com/wp-includes/js/swfupload/swfupload.swf allows open redirect / site defacement](https://hackerone.com/reports/209520) to Nextcloud - 29 upvotes, $0
 29. [Open redirect bypass &  SSRF Security Vulnerability](https://hackerone.com/reports/771465) to Smule - 27 upvotes, $0
 30. [Open redirect in bulk edit](https://hackerone.com/reports/169759) to Shopify - 26 upvotes, $500

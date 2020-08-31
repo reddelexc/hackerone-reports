@@ -6,7 +6,7 @@ Top XXE reports from HackerOne:
 2. [XXE on pulse.mail.ru](https://hackerone.com/reports/505947) to Mail.ru - 260 upvotes, $6000
 3. [XXE on sms-be-vip.twitter.com in SXMP Processor](https://hackerone.com/reports/248668) to Twitter - 244 upvotes, $10080
 4. [XXE on https://duckduckgo.com](https://hackerone.com/reports/483774) to DuckDuckGo - 200 upvotes, $0
-5. [Phone Call to XXE via Interactive Voice Response](https://hackerone.com/reports/395296) to ██████ - 155 upvotes, $0
+5. [Phone Call to XXE via Interactive Voice Response](https://hackerone.com/reports/395296) to ██████ - 156 upvotes, $0
 6. [Partial bypass of #483774 with Blind XXE on https://duckduckgo.com](https://hackerone.com/reports/486732) to DuckDuckGo - 146 upvotes, $0
 7. [Multiple endpoints are vulnerable to XML External Entity injection (XXE) ](https://hackerone.com/reports/72272) to Pornhub - 134 upvotes, $2500
 8. [XXE through injection of a payload in the XMP metadata of a JPEG file](https://hackerone.com/reports/836877) to Informatica - 123 upvotes, $0
@@ -27,8 +27,8 @@ Top XXE reports from HackerOne:
 23. [Blind XXE on my.mail.ru](https://hackerone.com/reports/276276) to Mail.ru - 23 upvotes, $800
 24. [[app.informaticaondemand.com] XXE](https://hackerone.com/reports/105753) to Informatica - 23 upvotes, $0
 25. [ XXE in upload file feature](https://hackerone.com/reports/105787) to Informatica - 21 upvotes, $0
-26. [Blind XXE on pu.vk.com](https://hackerone.com/reports/296622) to VK.com - 16 upvotes, $500
-27. [[send.qiwi.ru] Soap-based XXE vulnerability /soapserver/ ](https://hackerone.com/reports/36450) to QIWI - 15 upvotes, $1000
+26. [[send.qiwi.ru] Soap-based XXE vulnerability /soapserver/ ](https://hackerone.com/reports/36450) to QIWI - 16 upvotes, $1000
+27. [Blind XXE on pu.vk.com](https://hackerone.com/reports/296622) to VK.com - 16 upvotes, $500
 28. [XXE in the Connector Designer](https://hackerone.com/reports/112116) to Bime - 13 upvotes, $750
 29. [OOB XXE ](https://hackerone.com/reports/690387) to Mail.ru - 12 upvotes, $500
 30. [[marketplace.informatica.com] - XXE](https://hackerone.com/reports/106797) to Informatica - 12 upvotes, $0

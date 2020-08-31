@@ -22,9 +22,9 @@ Top reports from Ubiquiti Inc. program at HackerOne:
 18. [Privilege Escalation using API-\>Feature](https://hackerone.com/reports/239719) to Ubiquiti Inc. - 21 upvotes, $1500
 19. [IDOR Causing Deletion of any account](https://hackerone.com/reports/156537) to Ubiquiti Inc. - 21 upvotes, $500
 20. [Read-Only user can execute arbitraty shell commands on AirOS](https://hackerone.com/reports/128750) to Ubiquiti Inc. - 20 upvotes, $1500
-21. [UniFi Video Server web interface Configuration Restore CSRF leading to full application compromise](https://hackerone.com/reports/329749) to Ubiquiti Inc. - 20 upvotes, $500
-22. [Arbritrary file Upload on AirMax](https://hackerone.com/reports/73480) to Ubiquiti Inc. - 19 upvotes, $18000
-23. [Stored XSS in community.ubnt.com](https://hackerone.com/reports/179164) to Ubiquiti Inc. - 19 upvotes, $500
+21. [Stored XSS in community.ubnt.com](https://hackerone.com/reports/179164) to Ubiquiti Inc. - 20 upvotes, $500
+22. [UniFi Video Server web interface Configuration Restore CSRF leading to full application compromise](https://hackerone.com/reports/329749) to Ubiquiti Inc. - 20 upvotes, $500
+23. [Arbritrary file Upload on AirMax](https://hackerone.com/reports/73480) to Ubiquiti Inc. - 19 upvotes, $18000
 24. [Shell Injection via Web Management Console (dl-fw.cgi)](https://hackerone.com/reports/121940) to Ubiquiti Inc. - 18 upvotes, $1300
 25. [Exposed API-key allows to control nightly builds of firmwares (█████████ & ████████)](https://hackerone.com/reports/179986) to Ubiquiti Inc. - 18 upvotes, $1250
 26. [JetBrains .idea project directory](https://hackerone.com/reports/80990) to Ubiquiti Inc. - 18 upvotes, $200
@@ -68,15 +68,15 @@ Top reports from Ubiquiti Inc. program at HackerOne:
 64. [Reflected Xss in AirMax [Nanostation Loco M2]](https://hackerone.com/reports/149287) to Ubiquiti Inc. - 8 upvotes, $185
 65. [XSS](https://hackerone.com/reports/219170) to Ubiquiti Inc. - 8 upvotes, $150
 66. [Expired SSL certificate](https://hackerone.com/reports/220615) to Ubiquiti Inc. - 8 upvotes, $100
-67. [Format String Vulnerability in the EdgeSwitch restricted CLI](https://hackerone.com/reports/311884) to Ubiquiti Inc. - 7 upvotes, $1500
-68. [Unauthenticated request allows changing hostname](https://hackerone.com/reports/802079) to Ubiquiti Inc. - 7 upvotes, $550
-69. [CSRF in login form would led to account takeover](https://hackerone.com/reports/50703) to Ubiquiti Inc. - 7 upvotes, $500
-70. [Command injection in the process of downloading the latest version of the cloud key firmware through the unifi management software.](https://hackerone.com/reports/183458) to Ubiquiti Inc. - 7 upvotes, $500
-71. [account.ubnt.com CSRF](https://hackerone.com/reports/101909) to Ubiquiti Inc. - 7 upvotes, $200
-72. [HTML Injection on airlink.ubnt.com](https://hackerone.com/reports/226783) to Ubiquiti Inc. - 7 upvotes, $100
-73. [Content Spoofing or Text Injection in (403 forbidden page injection) and Nginx version disclosure via response header](https://hackerone.com/reports/203391) to Ubiquiti Inc. - 7 upvotes, $0
-74. [XSS via SVG file](https://hackerone.com/reports/212253) to Ubiquiti Inc. - 7 upvotes, $0
-75. [CRLF Injection on openvpn.svc.ubnt.com](https://hackerone.com/reports/232327) to Ubiquiti Inc. - 7 upvotes, $0
+67. [CRLF Injection on openvpn.svc.ubnt.com](https://hackerone.com/reports/232327) to Ubiquiti Inc. - 8 upvotes, $0
+68. [Format String Vulnerability in the EdgeSwitch restricted CLI](https://hackerone.com/reports/311884) to Ubiquiti Inc. - 7 upvotes, $1500
+69. [Unauthenticated request allows changing hostname](https://hackerone.com/reports/802079) to Ubiquiti Inc. - 7 upvotes, $550
+70. [CSRF in login form would led to account takeover](https://hackerone.com/reports/50703) to Ubiquiti Inc. - 7 upvotes, $500
+71. [Command injection in the process of downloading the latest version of the cloud key firmware through the unifi management software.](https://hackerone.com/reports/183458) to Ubiquiti Inc. - 7 upvotes, $500
+72. [account.ubnt.com CSRF](https://hackerone.com/reports/101909) to Ubiquiti Inc. - 7 upvotes, $200
+73. [HTML Injection on airlink.ubnt.com](https://hackerone.com/reports/226783) to Ubiquiti Inc. - 7 upvotes, $100
+74. [Content Spoofing or Text Injection in (403 forbidden page injection) and Nginx version disclosure via response header](https://hackerone.com/reports/203391) to Ubiquiti Inc. - 7 upvotes, $0
+75. [XSS via SVG file](https://hackerone.com/reports/212253) to Ubiquiti Inc. - 7 upvotes, $0
 76. [RCE in AirOS 6.2.0 Devices with CSRF bypass](https://hackerone.com/reports/703659) to Ubiquiti Inc. - 6 upvotes, $6839
 77. [UniFi Video web interface Configuration Restore user privilege escalation](https://hackerone.com/reports/329659) to Ubiquiti Inc. - 6 upvotes, $1500
 78. [Privilege Escalation with Session Hijacking Having a Non-privileged Valid User](https://hackerone.com/reports/242407) to Ubiquiti Inc. - 6 upvotes, $1000

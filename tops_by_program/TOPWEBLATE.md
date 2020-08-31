@@ -24,13 +24,13 @@ Top reports from Weblate program at HackerOne:
 20. [CSRF to Connect third party Account](https://hackerone.com/reports/225100) to Weblate - 7 upvotes, $0
 21. [Insecure Account Removal](https://hackerone.com/reports/223355) to Weblate - 7 upvotes, $0
 22. [Activation tokens are not expiring](https://hackerone.com/reports/223339) to Weblate - 7 upvotes, $0
-23. [Missing restriction on string size of Full Name at https://demo.weblate.org/accounts/register/](https://hackerone.com/reports/223454) to Weblate - 7 upvotes, $0
-24. [Password token validation in Weblate Bypass #2](https://hackerone.com/reports/244287) to Weblate - 7 upvotes, $0
-25. [Browser Self XSS Protection not implemented](https://hackerone.com/reports/400781) to Weblate - 7 upvotes, $0
-26. [No Rate Limitting at Change Password](https://hackerone.com/reports/223694) to Weblate - 6 upvotes, $0
-27. [Logout CSRF](https://hackerone.com/reports/223329) to Weblate - 6 upvotes, $0
-28. [CSV export filter bypass leads to formula injection.](https://hackerone.com/reports/223999) to Weblate - 6 upvotes, $0
-29. [Rate Limit Bypass on login Page](https://hackerone.com/reports/224460) to Weblate - 6 upvotes, $0
+23. [Rate Limit Bypass on login Page](https://hackerone.com/reports/224460) to Weblate - 7 upvotes, $0
+24. [Missing restriction on string size of Full Name at https://demo.weblate.org/accounts/register/](https://hackerone.com/reports/223454) to Weblate - 7 upvotes, $0
+25. [Password token validation in Weblate Bypass #2](https://hackerone.com/reports/244287) to Weblate - 7 upvotes, $0
+26. [Browser Self XSS Protection not implemented](https://hackerone.com/reports/400781) to Weblate - 7 upvotes, $0
+27. [No Rate Limitting at Change Password](https://hackerone.com/reports/223694) to Weblate - 6 upvotes, $0
+28. [Logout CSRF](https://hackerone.com/reports/223329) to Weblate - 6 upvotes, $0
+29. [CSV export filter bypass leads to formula injection.](https://hackerone.com/reports/223999) to Weblate - 6 upvotes, $0
 30. [CSRF : Reset API ](https://hackerone.com/reports/223333) to Weblate - 6 upvotes, $0
 31. [You can simply just use passwords that simply are as 123456](https://hackerone.com/reports/223374) to Weblate - 6 upvotes, $0
 32. [Information Disclosure on demo.weblate.org](https://hackerone.com/reports/229620) to Weblate - 6 upvotes, $0

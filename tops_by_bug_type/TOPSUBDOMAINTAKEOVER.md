@@ -2,10 +2,10 @@
 
 Top Subdomain Takeover reports from HackerOne:
 
-1. [Subdomain Takeover to Authentication bypass ](https://hackerone.com/reports/335330) to Roblox - 616 upvotes, $2500
-2. [Subdomain takeover of datacafe-cert.starbucks.com](https://hackerone.com/reports/665398) to Starbucks - 290 upvotes, $2000
-3. [Authentication bypass on auth.uber.com via subdomain takeover of saostatic.uber.com](https://hackerone.com/reports/219205) to Uber - 155 upvotes, $5000
-4. [Subdomain takeover of storybook.lystit.com](https://hackerone.com/reports/779442) to Lyst - 147 upvotes, $1000
+1. [Subdomain Takeover to Authentication bypass ](https://hackerone.com/reports/335330) to Roblox - 617 upvotes, $2500
+2. [Subdomain takeover of datacafe-cert.starbucks.com](https://hackerone.com/reports/665398) to Starbucks - 291 upvotes, $2000
+3. [Authentication bypass on auth.uber.com via subdomain takeover of saostatic.uber.com](https://hackerone.com/reports/219205) to Uber - 156 upvotes, $5000
+4. [Subdomain takeover of storybook.lystit.com](https://hackerone.com/reports/779442) to Lyst - 148 upvotes, $1000
 5. [Hacker.One Subdomain Takeover](https://hackerone.com/reports/159156) to HackerOne - 145 upvotes, $1000
 6. [Subdomain takeover at info.hacker.one](https://hackerone.com/reports/202767) to HackerOne - 127 upvotes, $1000
 7. [Multiple Subdomain Takeovers: fly.staging.shipt.com, fly.us-west-2.staging.shipt.com, fly.us-east-1.staging.shipt.com](https://hackerone.com/reports/576857) to Shipt - 124 upvotes, $900
@@ -22,15 +22,15 @@ Top Subdomain Takeover reports from HackerOne:
 18. [Subdomain takeover at signup.uber.com](https://hackerone.com/reports/197489) to Uber - 74 upvotes, $3000
 19. [Subdomain takeover due to unclaimed Amazon S3 bucket on a2.bime.io](https://hackerone.com/reports/121461) to Bime - 74 upvotes, $150
 20. [Subdomain Takeover at test.shipt.com](https://hackerone.com/reports/387760) to Shipt - 69 upvotes, $750
-21. [Subdomain Takeover on demo.greenhouse.io pointing to unbouncepages](https://hackerone.com/reports/407355) to Greenhouse.io - 67 upvotes, $500
-22. [Subdomain Takeover at creatorforum.roblox.com](https://hackerone.com/reports/264494) to Roblox - 66 upvotes, $1000
+21. [Subdomain Takeover at creatorforum.roblox.com](https://hackerone.com/reports/264494) to Roblox - 67 upvotes, $1000
+22. [Subdomain Takeover on demo.greenhouse.io pointing to unbouncepages](https://hackerone.com/reports/407355) to Greenhouse.io - 67 upvotes, $500
 23. [Subdomain takeover on rider.uber.com due to non-existent distribution on Cloudfront](https://hackerone.com/reports/175070) to Uber - 63 upvotes, $1000
 24. [Subdomain takeover dew to missconfigured project settings for Custom domain .](https://hackerone.com/reports/428651) to Flock - 59 upvotes, $0
 25. [Subdomain takeover #3 at info.hacker.one](https://hackerone.com/reports/217358) to HackerOne - 57 upvotes, $1000
 26. [myshopify.com domain takeover](https://hackerone.com/reports/320355) to Shopify - 56 upvotes, $1000
 27. [Subdomain takeover on partners.ubnt.com due to non-used CloudFront DNS entry](https://hackerone.com/reports/145224) to Ubiquiti Inc. - 54 upvotes, $1000
 28. [Subdomain takeover on dev-admin.periscope.tv](https://hackerone.com/reports/531890) to Twitter - 54 upvotes, $0
-29. [Subdomain Takeover](https://hackerone.com/reports/180393) to Paragon Initiative Enterprises - 50 upvotes, $0
+29. [Subdomain Takeover](https://hackerone.com/reports/180393) to Paragon Initiative Enterprises - 51 upvotes, $0
 30. [Subdomain takeover #4 at info.hacker.one](https://hackerone.com/reports/220002) to HackerOne - 49 upvotes, $500
 31. [Subdomain takeover on developer.openapi.starbucks.com](https://hackerone.com/reports/275714) to Starbucks - 47 upvotes, $2000
 32. [Subdomain Takeover - https://competition.shopify.com/](https://hackerone.com/reports/365853) to Shopify - 44 upvotes, $750
@@ -111,21 +111,22 @@ Top Subdomain Takeover reports from HackerOne:
 107. [Subdomain Takeover ](https://hackerone.com/reports/113869) to Zomato - 4 upvotes, $0
 108. [Sub-Domain Takeover](https://hackerone.com/reports/119220) to Twitter - 3 upvotes, $280
 109. [mailgun subdomain takeover on "email.mail.geekbrains.ru"](https://hackerone.com/reports/819309) to Mail.ru - 3 upvotes, $0
-110. [URGENT - Subdomain Takeover on users.tweetdeck.com , the same issue  of report #32825](https://hackerone.com/reports/42236) to Twitter - 2 upvotes, $420
-111. [subdomain takeover 1511493148.cloud.vimeo.com](https://hackerone.com/reports/46954) to Vimeo - 2 upvotes, $250
-112. [Subdomain Takeover in http://staging.wepay.com/ pointing to Fastly](https://hackerone.com/reports/93106) to WePay - 2 upvotes, $100
-113. [SUBDOMAIN TAKEOVER(FIXED)](https://hackerone.com/reports/115628) to New Relic - 2 upvotes, $0
-114. [Potential Subdomain Takeover - http://storefront.newrelic.com/](https://hackerone.com/reports/116243) to New Relic - 2 upvotes, $0
-115. [[staging.tarantool.org] Github Pages Subdomain-take-over ](https://hackerone.com/reports/813377) to Mail.ru - 2 upvotes, $0
-116. [Subdomain takeover at msproject.geekbrains.ru](https://hackerone.com/reports/922506) to Mail.ru - 2 upvotes, $0
-117. [Subdomain takeover : URGENT](https://hackerone.com/reports/118514) to KIWI.KI GmbH - 1 upvotes, $0
-118. [Subdomain Takeover on OWOX.RU](https://hackerone.com/reports/186393) to OWOX, Inc. - 1 upvotes, $0
-119. [Subdomain Takeover on  http://blog.owox.com/](https://hackerone.com/reports/184884) to OWOX, Inc. - 1 upvotes, $0
-120. [Subdomain take over oh-no.cuvva.co and ohno.cuvva.co](https://hackerone.com/reports/232185) to Cuvva - 1 upvotes, $0
-121. [[performancemarketing.geekbrains.ru] Tilda Subdomain Takeover](https://hackerone.com/reports/928602) to Mail.ru - 1 upvotes, $0
-122. [URGENT - SUBDOMAIN TAKEOVER ON TWITTER ACQ.](https://hackerone.com/reports/44578) to Twitter - 0 upvotes, $0
-123. [URGENT - Subdomain Takeover in support.urbandictionary.com pointing to Zendesk](https://hackerone.com/reports/103432) to Urban Dictionary - 0 upvotes, $0
-124. [Sub domain take over in gratipay.com](https://hackerone.com/reports/257331) to Gratipay - 0 upvotes, $0
+110. [Subdomain takeover in help.tictail.com pointing to Zendesk (a Shopify acquisition)](https://hackerone.com/reports/869605) to Shopify - 3 upvotes, $0
+111. [URGENT - Subdomain Takeover on users.tweetdeck.com , the same issue  of report #32825](https://hackerone.com/reports/42236) to Twitter - 2 upvotes, $420
+112. [subdomain takeover 1511493148.cloud.vimeo.com](https://hackerone.com/reports/46954) to Vimeo - 2 upvotes, $250
+113. [Subdomain Takeover in http://staging.wepay.com/ pointing to Fastly](https://hackerone.com/reports/93106) to WePay - 2 upvotes, $100
+114. [SUBDOMAIN TAKEOVER(FIXED)](https://hackerone.com/reports/115628) to New Relic - 2 upvotes, $0
+115. [Potential Subdomain Takeover - http://storefront.newrelic.com/](https://hackerone.com/reports/116243) to New Relic - 2 upvotes, $0
+116. [[staging.tarantool.org] Github Pages Subdomain-take-over ](https://hackerone.com/reports/813377) to Mail.ru - 2 upvotes, $0
+117. [Subdomain takeover at msproject.geekbrains.ru](https://hackerone.com/reports/922506) to Mail.ru - 2 upvotes, $0
+118. [Subdomain takeover : URGENT](https://hackerone.com/reports/118514) to KIWI.KI GmbH - 1 upvotes, $0
+119. [Subdomain Takeover on OWOX.RU](https://hackerone.com/reports/186393) to OWOX, Inc. - 1 upvotes, $0
+120. [Subdomain Takeover on  http://blog.owox.com/](https://hackerone.com/reports/184884) to OWOX, Inc. - 1 upvotes, $0
+121. [Subdomain take over oh-no.cuvva.co and ohno.cuvva.co](https://hackerone.com/reports/232185) to Cuvva - 1 upvotes, $0
+122. [[performancemarketing.geekbrains.ru] Tilda Subdomain Takeover](https://hackerone.com/reports/928602) to Mail.ru - 1 upvotes, $0
+123. [URGENT - SUBDOMAIN TAKEOVER ON TWITTER ACQ.](https://hackerone.com/reports/44578) to Twitter - 0 upvotes, $0
+124. [URGENT - Subdomain Takeover in support.urbandictionary.com pointing to Zendesk](https://hackerone.com/reports/103432) to Urban Dictionary - 0 upvotes, $0
+125. [Sub domain take over in gratipay.com](https://hackerone.com/reports/257331) to Gratipay - 0 upvotes, $0
 
 
 [Back](../README.md)
