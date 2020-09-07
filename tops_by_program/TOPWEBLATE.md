@@ -9,8 +9,8 @@ Top reports from Weblate program at HackerOne:
 5. [Insecure Account Removal #2](https://hackerone.com/reports/229532) to Weblate - 12 upvotes, $0
 6. [DKIM records not present, Email Hijacking is possible.....](https://hackerone.com/reports/253926) to Weblate - 11 upvotes, $0
 7. [flood of comment no rate  limit on commnets \>\>  by using different user agent ](https://hackerone.com/reports/404035) to Weblate - 11 upvotes, $0
-8. [Stored XSS via Create Project (Add new translation project)](https://hackerone.com/reports/610219) to Weblate - 10 upvotes, $0
-9. [Open Github Repo Leaking WEBLATE SECRET KEY](https://hackerone.com/reports/942146) to Weblate - 10 upvotes, $0
+8. [Open Github Repo Leaking WEBLATE SECRET KEY](https://hackerone.com/reports/942146) to Weblate - 11 upvotes, $0
+9. [Stored XSS via Create Project (Add new translation project)](https://hackerone.com/reports/610219) to Weblate - 10 upvotes, $0
 10. [Account Takeover using Third party Auth CSRF](https://hackerone.com/reports/225653) to Weblate - 9 upvotes, $0
 11. [Login CSRF : Login Authentication Flaw](https://hackerone.com/reports/229528) to Weblate - 9 upvotes, $0
 12. [Rate Limit Issue on hosted.weblate.org](https://hackerone.com/reports/229825) to Weblate - 9 upvotes, $0

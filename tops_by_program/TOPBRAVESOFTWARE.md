@@ -77,6 +77,7 @@ Top reports from Brave Software program at HackerOne:
 73. [DOS in browser using window.print() function](https://hackerone.com/reports/176364) to Brave Software - 0 upvotes, $0
 74. [Denial of service(POP UP Recursion) on Brave browser](https://hackerone.com/reports/179248) to Brave Software - 0 upvotes, $0
 75. [Brave allows flash to follow 307 redirects to other origins with arbitrary content-types](https://hackerone.com/reports/449478) to Brave Software - 0 upvotes, $0
+76. [Cross-origin resource sharing misconfiguration (CORS)](https://hackerone.com/reports/954512) to Brave Software - 0 upvotes, $0
 
 
 [Back](../README.md)
