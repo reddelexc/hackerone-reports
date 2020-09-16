@@ -57,14 +57,14 @@ Top reports from VK.com program at HackerOne:
 53. [Opcode Cache](https://hackerone.com/reports/308355) to VK.com - 11 upvotes, $300
 54. [CSRF на сброс ключа трансляции.](https://hackerone.com/reports/230688) to VK.com - 11 upvotes, $100
 55. [CSRF Добавить просмотр к записи без ведома пользователя.](https://hackerone.com/reports/252324) to VK.com - 11 upvotes, $100
-56. [Внедрение внешних сущностей в функционале импорта пользователей YouTrack](https://hackerone.com/reports/114476) to VK.com - 10 upvotes, $2500
-57. [Хранимая XSS в функционале добавления аудио в WYSIWYG](https://hackerone.com/reports/274112) to VK.com - 10 upvotes, $500
-58. [Backup Source Code Detected](https://hackerone.com/reports/309537) to VK.com - 10 upvotes, $500
-59. [Узнаем несколько цифр номера телефона юзера (можно флудить смс), всего раз узнав его remixsid и его ид юзера, и установка оффлайна юзерам.](https://hackerone.com/reports/390126) to VK.com - 10 upvotes, $300
-60. [Получение предложенных фотографий паблику ](https://hackerone.com/reports/227781) to VK.com - 10 upvotes, $200
-61. [Узнать название частной группы и ее аватарку по видеоролику.](https://hackerone.com/reports/247072) to VK.com - 10 upvotes, $100
-62. [Просмотр аватара и название частной группы](https://hackerone.com/reports/246085) to VK.com - 10 upvotes, $100
-63. [HTML Injection possible due to bad filter](https://hackerone.com/reports/198907) to VK.com - 10 upvotes, $0
+56. [HTML Injection possible due to bad filter](https://hackerone.com/reports/198907) to VK.com - 11 upvotes, $0
+57. [Внедрение внешних сущностей в функционале импорта пользователей YouTrack](https://hackerone.com/reports/114476) to VK.com - 10 upvotes, $2500
+58. [Хранимая XSS в функционале добавления аудио в WYSIWYG](https://hackerone.com/reports/274112) to VK.com - 10 upvotes, $500
+59. [Backup Source Code Detected](https://hackerone.com/reports/309537) to VK.com - 10 upvotes, $500
+60. [Узнаем несколько цифр номера телефона юзера (можно флудить смс), всего раз узнав его remixsid и его ид юзера, и установка оффлайна юзерам.](https://hackerone.com/reports/390126) to VK.com - 10 upvotes, $300
+61. [Получение предложенных фотографий паблику ](https://hackerone.com/reports/227781) to VK.com - 10 upvotes, $200
+62. [Узнать название частной группы и ее аватарку по видеоролику.](https://hackerone.com/reports/247072) to VK.com - 10 upvotes, $100
+63. [Просмотр аватара и название частной группы](https://hackerone.com/reports/246085) to VK.com - 10 upvotes, $100
 64. [XSS в названии сервера](https://hackerone.com/reports/262010) to VK.com - 10 upvotes, $0
 65. [error](https://hackerone.com/reports/309594) to VK.com - 10 upvotes, $0
 66. [clickjacking в /lead_forms_app.php](https://hackerone.com/reports/294334) to VK.com - 10 upvotes, $0
@@ -119,10 +119,10 @@ Top reports from VK.com program at HackerOne:
 115. [vk.com/login.php ](https://hackerone.com/reports/116764) to VK.com - 3 upvotes, $200
 116. [Подмена SSL-сертификата для любой группы в секции Управление группой-\>Работа с API неавторизированным пользователем.](https://hackerone.com/reports/215326) to VK.com - 3 upvotes, $200
 117. [Able to intercept app Traffic after choosing up the Secured Connection using SSL (HTTPS)](https://hackerone.com/reports/64731) to VK.com - 3 upvotes, $100
-118. [Уязвимость в Указание мест на фото + фича + хакинг](https://hackerone.com/reports/66235) to VK.com - 2 upvotes, $200
-119. [Способ узнать имя человека и ВУЗ удаленной страницы](https://hackerone.com/reports/93020) to VK.com - 2 upvotes, $100
-120. [Паблики: Модератор паблика может удалять добавленные редакторами материалы с таймером на публикацию.](https://hackerone.com/reports/148467) to VK.com - 2 upvotes, $100
-121. [Дайте swag](https://hackerone.com/reports/665688) to VK.com - 2 upvotes, $0
+118. [Дайте swag](https://hackerone.com/reports/665688) to VK.com - 3 upvotes, $0
+119. [Уязвимость в Указание мест на фото + фича + хакинг](https://hackerone.com/reports/66235) to VK.com - 2 upvotes, $200
+120. [Способ узнать имя человека и ВУЗ удаленной страницы](https://hackerone.com/reports/93020) to VK.com - 2 upvotes, $100
+121. [Паблики: Модератор паблика может удалять добавленные редакторами материалы с таймером на публикацию.](https://hackerone.com/reports/148467) to VK.com - 2 upvotes, $100
 122. [Information Disclosure (phpinfo())](https://hackerone.com/reports/531146) to VK.com - 2 upvotes, $0
 123. [API: Bug in method auth.validatePhone](https://hackerone.com/reports/64963) to VK.com - 1 upvotes, $500
 124. [XSS at http://vk.com on IE using flash files](https://hackerone.com/reports/66121) to VK.com - 1 upvotes, $500

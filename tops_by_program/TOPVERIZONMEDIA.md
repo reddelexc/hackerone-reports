@@ -16,10 +16,10 @@ Top reports from Verizon Media program at HackerOne:
 12. [SQLi on http://sports.yahoo.com/nfl/draft](https://hackerone.com/reports/1538) to Verizon Media - 4 upvotes, $3705
 13. [HTML Injection on flickr screename using IOS App](https://hackerone.com/reports/1483) to Verizon Media - 4 upvotes, $800
 14. [Significant Information Disclosure/Load balancer access, http://extprodweb11.cc.gq1.yahoo.com/, 4/8/14, #SpringClean](https://hackerone.com/reports/6194) to Verizon Media - 4 upvotes, $500
-15. [Security.allowDomain("*") in SWFs on img.autos.yahoo.com allows data theft from Yahoo Mail (and others)](https://hackerone.com/reports/1171) to Verizon Media - 3 upvotes, $2500
-16. [Local file inclusion ](https://hackerone.com/reports/1675) to Verizon Media - 3 upvotes, $1390
-17. [SQL Injection ON HK.Promotion](https://hackerone.com/reports/3039) to Verizon Media - 3 upvotes, $1000
-18. [reflected XSS, http://extprodweb11.cc.gq1.yahoo.com/, 4/8/14, #SpringClean](https://hackerone.com/reports/6195) to Verizon Media - 3 upvotes, $300
+15. [reflected XSS, http://extprodweb11.cc.gq1.yahoo.com/, 4/8/14, #SpringClean](https://hackerone.com/reports/6195) to Verizon Media - 4 upvotes, $300
+16. [Security.allowDomain("*") in SWFs on img.autos.yahoo.com allows data theft from Yahoo Mail (and others)](https://hackerone.com/reports/1171) to Verizon Media - 3 upvotes, $2500
+17. [Local file inclusion ](https://hackerone.com/reports/1675) to Verizon Media - 3 upvotes, $1390
+18. [SQL Injection ON HK.Promotion](https://hackerone.com/reports/3039) to Verizon Media - 3 upvotes, $1000
 19. [ads.yahoo.com Unvalidate open url redirection](https://hackerone.com/reports/7731) to Verizon Media - 3 upvotes, $0
 20. [XSS in my yahoo](https://hackerone.com/reports/1203) to Verizon Media - 2 upvotes, $800
 21. [Flickr: Invitations disclosure (resend feature)](https://hackerone.com/reports/1533) to Verizon Media - 2 upvotes, $750

@@ -6,8 +6,8 @@ Top reports from Open-Xchange program at HackerOne:
 2. [Null pointer dereference in SMTP server function smtp_string_parse](https://hackerone.com/reports/827729) to Open-Xchange - 105 upvotes, $1500
 3. [Blind XXE via Powerpoint files](https://hackerone.com/reports/334488) to Open-Xchange - 81 upvotes, $2000
 4. [SSRF in VCARD photo upload functionality](https://hackerone.com/reports/296045) to Open-Xchange - 49 upvotes, $850
-5. [OX (Guard): Stored Cross-Site Scripting via Incoming Email](https://hackerone.com/reports/156258) to Open-Xchange - 48 upvotes, $1000
-6. [CSRF combined with IDOR within Document Converter exposes files](https://hackerone.com/reports/398316) to Open-Xchange - 48 upvotes, $500
+5. [CSRF combined with IDOR within Document Converter exposes files](https://hackerone.com/reports/398316) to Open-Xchange - 49 upvotes, $500
+6. [OX (Guard): Stored Cross-Site Scripting via Incoming Email](https://hackerone.com/reports/156258) to Open-Xchange - 48 upvotes, $1000
 7. [Memory corruption in imap-parser.c](https://hackerone.com/reports/537550) to Open-Xchange - 46 upvotes, $5000
 8. [SSRF - Blacklist bypass for mail account addition](https://hackerone.com/reports/303378) to Open-Xchange - 43 upvotes, $500
 9. [SSRF - Image Sources in HTML Snippets - 727234 bypass](https://hackerone.com/reports/737163) to Open-Xchange - 41 upvotes, $400
@@ -37,14 +37,14 @@ Top reports from Open-Xchange program at HackerOne:
 33. [IDOR - setAttribute action of user object in API](https://hackerone.com/reports/285432) to Open-Xchange - 12 upvotes, $400
 34. [IDOR - Deleting other user's reminders just by id](https://hackerone.com/reports/198969) to Open-Xchange - 12 upvotes, $300
 35. [[IDOR] Deleting other people's tasks](https://hackerone.com/reports/293845) to Open-Xchange - 12 upvotes, $300
-36. [IDOR - Folder names disclosure inside a domain, regardless of user](https://hackerone.com/reports/194574) to Open-Xchange - 12 upvotes, $250
-37. [store xss in calendar via upload filename](https://hackerone.com/reports/385407) to Open-Xchange - 12 upvotes, $250
-38. [OX Guard: DOM Based Cross-Site Scripting (#2)](https://hackerone.com/reports/164821) to Open-Xchange - 11 upvotes, $500
-39. [[XSS] RSS Feed Widget](https://hackerone.com/reports/361938) to Open-Xchange - 11 upvotes, $500
-40. [IDOR allow to extract all registered email](https://hackerone.com/reports/302485) to Open-Xchange - 11 upvotes, $300
-41. [Pre-auth Denial-of-Service in Dovecot RPA implementation](https://hackerone.com/reports/866605) to Open-Xchange - 10 upvotes, $550
-42. [Stored XSS in mail app](https://hackerone.com/reports/538323) to Open-Xchange - 10 upvotes, $500
-43. [IDOR to view other user folder name](https://hackerone.com/reports/333767) to Open-Xchange - 10 upvotes, $250
+36. [IDOR allow to extract all registered email](https://hackerone.com/reports/302485) to Open-Xchange - 12 upvotes, $300
+37. [IDOR - Folder names disclosure inside a domain, regardless of user](https://hackerone.com/reports/194574) to Open-Xchange - 12 upvotes, $250
+38. [store xss in calendar via upload filename](https://hackerone.com/reports/385407) to Open-Xchange - 12 upvotes, $250
+39. [Pre-auth Denial-of-Service in Dovecot RPA implementation](https://hackerone.com/reports/866605) to Open-Xchange - 11 upvotes, $550
+40. [OX Guard: DOM Based Cross-Site Scripting (#2)](https://hackerone.com/reports/164821) to Open-Xchange - 11 upvotes, $500
+41. [[XSS] RSS Feed Widget](https://hackerone.com/reports/361938) to Open-Xchange - 11 upvotes, $500
+42. [IDOR to view other user folder name](https://hackerone.com/reports/333767) to Open-Xchange - 11 upvotes, $250
+43. [Stored XSS in mail app](https://hackerone.com/reports/538323) to Open-Xchange - 10 upvotes, $500
 44. [[SSRF] PDF documentconverterws](https://hackerone.com/reports/361793) to Open-Xchange - 9 upvotes, $850
 45. [[XSS/CSRF] filter content-type bypass in Files](https://hackerone.com/reports/304098) to Open-Xchange - 9 upvotes, $750
 46. [Stored XSS in Template Documents](https://hackerone.com/reports/179559) to Open-Xchange - 9 upvotes, $300
