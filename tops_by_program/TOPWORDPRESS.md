@@ -2,7 +2,7 @@
 
 Top reports from WordPress program at HackerOne:
 
-1. [Stored XSS Vulnerability](https://hackerone.com/reports/643908) to WordPress - 370 upvotes, $500
+1. [Stored XSS Vulnerability](https://hackerone.com/reports/643908) to WordPress - 372 upvotes, $500
 2. [Stored XSS in Private Message component (BuddyPress)](https://hackerone.com/reports/487081) to WordPress - 331 upvotes, $500
 3. [RCE as Admin defeats WordPress hardening and file permissions](https://hackerone.com/reports/436928) to WordPress - 150 upvotes, $800
 4. [Stored XSS on byddypress Plug-in via groups name](https://hackerone.com/reports/592316) to WordPress - 127 upvotes, $450
@@ -22,8 +22,8 @@ Top reports from WordPress program at HackerOne:
 18. [Open API For Username enumeration](https://hackerone.com/reports/385322) to WordPress - 24 upvotes, $0
 19. [Wordpress 4.7.2 - Two XSS in Media Upload when file too large.](https://hackerone.com/reports/203515) to WordPress - 23 upvotes, $350
 20. [Authenticated Stored Cross-site Scripting in bbPress](https://hackerone.com/reports/881918) to WordPress - 23 upvotes, $225
-21. [Stored XSS on Broken Themes via filename](https://hackerone.com/reports/406289) to WordPress - 22 upvotes, $300
-22. [XSS via unicode characters in upload filename](https://hackerone.com/reports/179695) to WordPress - 21 upvotes, $600
+21. [XSS via unicode characters in upload filename](https://hackerone.com/reports/179695) to WordPress - 22 upvotes, $600
+22. [Stored XSS on Broken Themes via filename](https://hackerone.com/reports/406289) to WordPress - 22 upvotes, $300
 23. [DOM Based XSS In mercantile.wordpress.org](https://hackerone.com/reports/230435) to WordPress - 21 upvotes, $275
 24. [Wordpress 4.7 - CSRF -\> HTTP SSRF any private ip:port and basic-auth](https://hackerone.com/reports/187520) to WordPress - 20 upvotes, $750
 25. [[FG-VD-18-165] Wordpress Cross-Site Scripting Vulnerability Notification II](https://hackerone.com/reports/460911) to WordPress - 20 upvotes, $650
@@ -43,8 +43,8 @@ Top reports from WordPress program at HackerOne:
 39. [Open Redirect on the nl.wordpress.net](https://hackerone.com/reports/309058) to WordPress - 13 upvotes, $50
 40. [Clickjacking wordcamp.org](https://hackerone.com/reports/230581) to WordPress - 13 upvotes, $0
 41. [[mercantile.wordpress.org] Reflected XSS](https://hackerone.com/reports/240256) to WordPress - 12 upvotes, $225
-42. [Stored XSS in Post Preview as Contributor](https://hackerone.com/reports/497724) to WordPress - 11 upvotes, $650
-43. [Missing SSL can leak job token ](https://hackerone.com/reports/222036) to WordPress - 11 upvotes, $0
+42. [Missing SSL can leak job token ](https://hackerone.com/reports/222036) to WordPress - 12 upvotes, $0
+43. [Stored XSS in Post Preview as Contributor](https://hackerone.com/reports/497724) to WordPress - 11 upvotes, $650
 44. [pre-auth Stored XSS in comments via javascript: url when administrator edits user supplied comment](https://hackerone.com/reports/633231) to WordPress - 10 upvotes, $650
 45. [Stored xss via template injection](https://hackerone.com/reports/250837) to WordPress - 10 upvotes, $300
 46. [Clickjacking mercantile.wordpress.org](https://hackerone.com/reports/264125) to WordPress - 10 upvotes, $0
