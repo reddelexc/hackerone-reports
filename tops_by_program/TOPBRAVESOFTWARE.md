@@ -36,14 +36,14 @@ Top reports from Brave Software program at HackerOne:
 32. [URL spoofing using protocol handlers](https://hackerone.com/reports/373721) to Brave Software - 9 upvotes, $75
 33. [[DOS] Browser hangs on loading the code snippet](https://hackerone.com/reports/181686) to Brave Software - 9 upvotes, $25
 34. [Torrent Viewer extension web service available on all interfaces](https://hackerone.com/reports/300181) to Brave Software - 8 upvotes, $200
-35. [Address Bar Spoofing - Already resolved - Retroactive report](https://hackerone.com/reports/175779) to Brave Software - 8 upvotes, $100
-36. [[Brave browser] WebTorrent has DNS rebinding vulnerability](https://hackerone.com/reports/663729) to Brave Software - 8 upvotes, $100
-37. [DoS in Brave browser for iOS](https://hackerone.com/reports/357665) to Brave Software - 8 upvotes, $80
-38. [[website] Script injection in newsletter signup https://brave.com/brave_youth_program_signup.html](https://hackerone.com/reports/175403) to Brave Software - 8 upvotes, $50
-39. [Status Bar Obfuscation](https://hackerone.com/reports/175701) to Brave Software - 8 upvotes, $0
-40. [Command Execution because of extension handling](https://hackerone.com/reports/188078) to Brave Software - 8 upvotes, $0
-41. [URI Obfuscation](https://hackerone.com/reports/175529) to Brave Software - 7 upvotes, $150
-42. [Field Day With Protocol Handlers](https://hackerone.com/reports/416040) to Brave Software - 7 upvotes, $150
+35. [Field Day With Protocol Handlers](https://hackerone.com/reports/416040) to Brave Software - 8 upvotes, $150
+36. [Address Bar Spoofing - Already resolved - Retroactive report](https://hackerone.com/reports/175779) to Brave Software - 8 upvotes, $100
+37. [[Brave browser] WebTorrent has DNS rebinding vulnerability](https://hackerone.com/reports/663729) to Brave Software - 8 upvotes, $100
+38. [DoS in Brave browser for iOS](https://hackerone.com/reports/357665) to Brave Software - 8 upvotes, $80
+39. [[website] Script injection in newsletter signup https://brave.com/brave_youth_program_signup.html](https://hackerone.com/reports/175403) to Brave Software - 8 upvotes, $50
+40. [Status Bar Obfuscation](https://hackerone.com/reports/175701) to Brave Software - 8 upvotes, $0
+41. [Command Execution because of extension handling](https://hackerone.com/reports/188078) to Brave Software - 8 upvotes, $0
+42. [URI Obfuscation](https://hackerone.com/reports/175529) to Brave Software - 7 upvotes, $150
 43. [[iOS] URL can be replaceState by blob URL in iOS Brave](https://hackerone.com/reports/215044) to Brave Software - 6 upvotes, $100
 44. [OS username disclosure](https://hackerone.com/reports/258585) to Brave Software - 6 upvotes, $100
 45. [2 Directory Listing on ledger.brave.com & vault-staging.brave.com](https://hackerone.com/reports/175320) to Brave Software - 6 upvotes, $50

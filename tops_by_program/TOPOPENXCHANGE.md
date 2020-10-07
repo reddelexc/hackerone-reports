@@ -35,9 +35,9 @@ Top reports from Open-Xchange program at HackerOne:
 31. [Another Stored XSS in mail app using Drive app](https://hackerone.com/reports/538632) to Open-Xchange - 14 upvotes, $500
 32. [IDOR - Leaking other user's folder names from /appsuite/api/import?action=ICA](https://hackerone.com/reports/199281) to Open-Xchange - 13 upvotes, $300
 33. [[IDOR] Deleting other people's tasks](https://hackerone.com/reports/293845) to Open-Xchange - 13 upvotes, $300
-34. [IDOR - setAttribute action of user object in API](https://hackerone.com/reports/285432) to Open-Xchange - 12 upvotes, $400
-35. [IDOR - Deleting other user's reminders just by id](https://hackerone.com/reports/198969) to Open-Xchange - 12 upvotes, $300
-36. [IDOR allow to extract all registered email](https://hackerone.com/reports/302485) to Open-Xchange - 12 upvotes, $300
+34. [IDOR allow to extract all registered email](https://hackerone.com/reports/302485) to Open-Xchange - 13 upvotes, $300
+35. [IDOR - setAttribute action of user object in API](https://hackerone.com/reports/285432) to Open-Xchange - 12 upvotes, $400
+36. [IDOR - Deleting other user's reminders just by id](https://hackerone.com/reports/198969) to Open-Xchange - 12 upvotes, $300
 37. [IDOR - Folder names disclosure inside a domain, regardless of user](https://hackerone.com/reports/194574) to Open-Xchange - 12 upvotes, $250
 38. [store xss in calendar via upload filename](https://hackerone.com/reports/385407) to Open-Xchange - 12 upvotes, $250
 39. [Pre-auth Denial-of-Service in Dovecot RPA implementation](https://hackerone.com/reports/866605) to Open-Xchange - 11 upvotes, $550
@@ -101,6 +101,7 @@ Top reports from Open-Xchange program at HackerOne:
 97. [Null dereference in `cmd_denotify_operation_execute`](https://hackerone.com/reports/965881) to Open-Xchange - 0 upvotes, $50
 98. [Assert failed in `edit_mail_istream_read`](https://hackerone.com/reports/965790) to Open-Xchange - 0 upvotes, $50
 99. [Missing (or redundant) null check in `dcrypt_openssl_sign`](https://hackerone.com/reports/883606) to Open-Xchange - 0 upvotes, $0
+100. [A specifically designed sieve script can cause a DoS in lib-sieve during sieve script compilation via NULL pointer dereference](https://hackerone.com/reports/965774) to Open-Xchange - 0 upvotes, $0
 
 
 [Back](../README.md)

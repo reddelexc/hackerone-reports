@@ -5,14 +5,14 @@ Top reports from Ubiquiti Inc. program at HackerOne:
 1. [Privilege Escalation From user to SYSTEM via unauthenticated command execution ](https://hackerone.com/reports/544928) to Ubiquiti Inc. - 530 upvotes, $16109
 2. [Privilege-0 to Root Privilege Escalation on EdgeSwitch](https://hackerone.com/reports/511025) to Ubiquiti Inc. - 80 upvotes, $1604
 3. [Public Jenkins instance with /script enabled](https://hackerone.com/reports/403402) to Ubiquiti Inc. - 62 upvotes, $2500
-4. [Remote Code Execution at http://tw.corp.ubnt.com](https://hackerone.com/reports/269066) to Ubiquiti Inc. - 60 upvotes, $5000
+4. [Remote Code Execution at http://tw.corp.ubnt.com](https://hackerone.com/reports/269066) to Ubiquiti Inc. - 61 upvotes, $5000
 5. [Subdomain takeover on partners.ubnt.com due to non-used CloudFront DNS entry](https://hackerone.com/reports/145224) to Ubiquiti Inc. - 54 upvotes, $1000
 6. [Login as root without password on EdgeSwitchX](https://hackerone.com/reports/512958) to Ubiquiti Inc. - 54 upvotes, $100
 7. [Ability to log in as any user without authentication if █████████ is empty](https://hackerone.com/reports/215053) to Ubiquiti Inc. - 52 upvotes, $6000
 8. [CORS Misconfiguration leading to Private Information Disclosure](https://hackerone.com/reports/430249) to Ubiquiti Inc. - 47 upvotes, $500
 9. [Authentication bypass on sso.ubnt.com via subdomain takeover of ping.ubnt.com](https://hackerone.com/reports/172137) to Ubiquiti Inc. - 44 upvotes, $500
 10. [Read-Only user can execute arbitraty shell commands on AirOS](https://hackerone.com/reports/139398) to Ubiquiti Inc. - 43 upvotes, $2750
-11. [Unrestricted File System Access via Twig Template Injection on dev-ucrm-billing-demo.ubnt.com](https://hackerone.com/reports/301406) to Ubiquiti Inc. - 35 upvotes, $2000
+11. [Unrestricted File System Access via Twig Template Injection on dev-ucrm-billing-demo.ubnt.com](https://hackerone.com/reports/301406) to Ubiquiti Inc. - 37 upvotes, $2000
 12. [Firmware download/install vulnerable to CSRF](https://hackerone.com/reports/323852) to Ubiquiti Inc. - 32 upvotes, $1100
 13. [sqli](https://hackerone.com/reports/207695) to Ubiquiti Inc. - 32 upvotes, $1000
 14. [[dev-nightly.ubnt.com] Local File Reading](https://hackerone.com/reports/260420) to Ubiquiti Inc. - 31 upvotes, $100
@@ -37,10 +37,10 @@ Top reports from Ubiquiti Inc. program at HackerOne:
 33. [[nutty.ubnt.com] DOM Based XSS nuttyapp github-btn.html](https://hackerone.com/reports/200753) to Ubiquiti Inc. - 16 upvotes, $100
 34. [[account-global.ubnt.com] CRLF Injection](https://hackerone.com/reports/145128) to Ubiquiti Inc. - 15 upvotes, $150
 35. [Resource Consumption DOS on Edgemax v1.10.6](https://hackerone.com/reports/406614) to Ubiquiti Inc. - 14 upvotes, $600
-36. [CSRF: Replacing the router configuration backup having an 'operator' user and bypassing the "Referer:' whitelist protection](https://hackerone.com/reports/240098) to Ubiquiti Inc. - 14 upvotes, $500
-37. [EdgeSwitch Command Injection](https://hackerone.com/reports/508256) to Ubiquiti Inc. - 14 upvotes, $100
-38. [UBNT Amplification DDOS Attack](https://hackerone.com/reports/221625) to Ubiquiti Inc. - 13 upvotes, $2500
-39. [Subdomain Takeover in http://assets.goubiquiti.com/](https://hackerone.com/reports/109699) to Ubiquiti Inc. - 13 upvotes, $500
+36. [Subdomain Takeover in http://assets.goubiquiti.com/](https://hackerone.com/reports/109699) to Ubiquiti Inc. - 14 upvotes, $500
+37. [CSRF: Replacing the router configuration backup having an 'operator' user and bypassing the "Referer:' whitelist protection](https://hackerone.com/reports/240098) to Ubiquiti Inc. - 14 upvotes, $500
+38. [EdgeSwitch Command Injection](https://hackerone.com/reports/508256) to Ubiquiti Inc. - 14 upvotes, $100
+39. [UBNT Amplification DDOS Attack](https://hackerone.com/reports/221625) to Ubiquiti Inc. - 13 upvotes, $2500
 40. [Two Factor Authentication Bypass](https://hackerone.com/reports/350288) to Ubiquiti Inc. - 13 upvotes, $500
 41. [Catch mails sent to an SMTP Server over SSL using an Evil SMTP Server](https://hackerone.com/reports/519582) to Ubiquiti Inc. - 12 upvotes, $1604
 42. [Privilege escalation in the client impersonation functionality](https://hackerone.com/reports/221454) to Ubiquiti Inc. - 12 upvotes, $1500

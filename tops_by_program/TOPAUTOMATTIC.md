@@ -2,7 +2,7 @@
 
 Top reports from Automattic program at HackerOne:
 
-1. [Denial of service to WP-JSON API by cache poisoning the CORS allow origin header](https://hackerone.com/reports/591302) to Automattic - 378 upvotes, $550
+1. [Denial of service to WP-JSON API by cache poisoning the CORS allow origin header](https://hackerone.com/reports/591302) to Automattic - 379 upvotes, $550
 2. [Stored XSS in wordpress.com](https://hackerone.com/reports/733248) to Automattic - 344 upvotes, $650
 3. [Stored XSS vulnerability in comments on *.wordpress.com](https://hackerone.com/reports/707720) to Automattic - 114 upvotes, $350
 4. [DOM-Based XSS in tumblr.com](https://hackerone.com/reports/882546) to Automattic - 84 upvotes, $350

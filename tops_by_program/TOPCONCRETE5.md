@@ -2,7 +2,7 @@
 
 Top reports from concrete5 program at HackerOne:
 
-1. [Remote Code Execution (Reverse Shell) - File Manager](https://hackerone.com/reports/768322) to concrete5 - 109 upvotes, $0
+1. [Remote Code Execution (Reverse Shell) - File Manager](https://hackerone.com/reports/768322) to concrete5 - 110 upvotes, $0
 2. [Time-base SQL Injection in Search Users](https://hackerone.com/reports/876800) to concrete5 - 54 upvotes, $0
 3. [Password Reset link hijacking via Host Header Poisoning ](https://hackerone.com/reports/226659) to concrete5 - 48 upvotes, $0
 4. [SVG file that HTML Included is able to upload via File Manager](https://hackerone.com/reports/437863) to concrete5 - 24 upvotes, $0
@@ -12,27 +12,27 @@ Top reports from concrete5 program at HackerOne:
 8. [Remote Code Execution through Extension Bypass on Log Functionality](https://hackerone.com/reports/841947) to concrete5 - 14 upvotes, $0
 9. [Local File Inclusion path bypass](https://hackerone.com/reports/147570) to concrete5 - 13 upvotes, $0
 10. ['cnvID' parameter vulnerable to Insecure Direct Object References](https://hackerone.com/reports/265284) to concrete5 - 13 upvotes, $0
-11. [Stored XSS in Headline TextControl element in Express forms [ concrete5 8.1.0 ]](https://hackerone.com/reports/230278) to concrete5 - 12 upvotes, $0
-12. [Unauthenticated reflected XSS in preview_as_user function](https://hackerone.com/reports/643442) to concrete5 - 12 upvotes, $0
-13. [Local File Inclusion Vulnerability in Concrete5 version 5.7.3.1](https://hackerone.com/reports/59665) to concrete5 - 9 upvotes, $0
-14. [Stored XSS in Pages SEO dialog Name field (concrete5 8.1.0)](https://hackerone.com/reports/230029) to concrete5 - 9 upvotes, $0
-15. [Stored XSS vulnerability in RSS Feeds Description field](https://hackerone.com/reports/248133) to concrete5 - 9 upvotes, $0
-16. [CSRF Full Account Takeover](https://hackerone.com/reports/152052) to concrete5 - 8 upvotes, $0
-17. [Stored XSS in Private Messages 'Reply' allows to execute malicious JavaScript against any user while replying to the message which contains payload](https://hackerone.com/reports/247517) to concrete5 - 8 upvotes, $0
-18. [Bypass auth.email-domains](https://hackerone.com/reports/4795) to concrete5 - 7 upvotes, $0
-19. [Stored XSS vulnerability in additional URLs in 'Location' dialog [Sitemap]](https://hackerone.com/reports/251358) to concrete5 - 7 upvotes, $0
-20. [Stored XSS on Add Event in Calendar](https://hackerone.com/reports/300532) to concrete5 - 7 upvotes, $0
-21. [Stored XSS on Add Calendar](https://hackerone.com/reports/300571) to concrete5 - 7 upvotes, $0
-22. [Stored XSS in the file search filter](https://hackerone.com/reports/873584) to concrete5 - 7 upvotes, $0
-23. [HttpOnly flag not set for cookie on concrete5.org](https://hackerone.com/reports/4792) to concrete5 - 6 upvotes, $0
-24. [Stored XSS in Express Objects - Concrete5 v8.1.0](https://hackerone.com/reports/221325) to concrete5 - 6 upvotes, $0
-25. [Stored XSS in Name field in User Groups/Group Details form](https://hackerone.com/reports/247521) to concrete5 - 6 upvotes, $0
-26. [Stored XSS on express entries](https://hackerone.com/reports/873474) to concrete5 - 5 upvotes, $0
-27. [XSS on [/concrete/concrete/elements/dashboard/sitemap.php]](https://hackerone.com/reports/6853) to concrete5 - 4 upvotes, $0
-28. [Stored XSS in RSS Feeds Title (Concrete5 v8.1.0)](https://hackerone.com/reports/221380) to concrete5 - 4 upvotes, $0
-29. [XSS in private message](https://hackerone.com/reports/4826) to concrete5 - 3 upvotes, $0
-30. [Cross Site Scripting (XSS) Stored - Private messaging](https://hackerone.com/reports/768313) to concrete5 - 3 upvotes, $0
-31. [Unauthenticated HTML Injection Stored - ContactUs form](https://hackerone.com/reports/768327) to concrete5 - 3 upvotes, $0
+11. [Cross Site Scripting (XSS) Stored - Private messaging](https://hackerone.com/reports/768313) to concrete5 - 13 upvotes, $0
+12. [Stored XSS in Headline TextControl element in Express forms [ concrete5 8.1.0 ]](https://hackerone.com/reports/230278) to concrete5 - 12 upvotes, $0
+13. [Unauthenticated reflected XSS in preview_as_user function](https://hackerone.com/reports/643442) to concrete5 - 12 upvotes, $0
+14. [Local File Inclusion Vulnerability in Concrete5 version 5.7.3.1](https://hackerone.com/reports/59665) to concrete5 - 9 upvotes, $0
+15. [Stored XSS in Pages SEO dialog Name field (concrete5 8.1.0)](https://hackerone.com/reports/230029) to concrete5 - 9 upvotes, $0
+16. [Stored XSS vulnerability in RSS Feeds Description field](https://hackerone.com/reports/248133) to concrete5 - 9 upvotes, $0
+17. [CSRF Full Account Takeover](https://hackerone.com/reports/152052) to concrete5 - 8 upvotes, $0
+18. [Stored XSS in Private Messages 'Reply' allows to execute malicious JavaScript against any user while replying to the message which contains payload](https://hackerone.com/reports/247517) to concrete5 - 8 upvotes, $0
+19. [Bypass auth.email-domains](https://hackerone.com/reports/4795) to concrete5 - 7 upvotes, $0
+20. [Stored XSS vulnerability in additional URLs in 'Location' dialog [Sitemap]](https://hackerone.com/reports/251358) to concrete5 - 7 upvotes, $0
+21. [Stored XSS on Add Event in Calendar](https://hackerone.com/reports/300532) to concrete5 - 7 upvotes, $0
+22. [Stored XSS on Add Calendar](https://hackerone.com/reports/300571) to concrete5 - 7 upvotes, $0
+23. [Stored XSS in the file search filter](https://hackerone.com/reports/873584) to concrete5 - 7 upvotes, $0
+24. [HttpOnly flag not set for cookie on concrete5.org](https://hackerone.com/reports/4792) to concrete5 - 6 upvotes, $0
+25. [Stored XSS in Express Objects - Concrete5 v8.1.0](https://hackerone.com/reports/221325) to concrete5 - 6 upvotes, $0
+26. [Stored XSS in Name field in User Groups/Group Details form](https://hackerone.com/reports/247521) to concrete5 - 6 upvotes, $0
+27. [Unauthenticated HTML Injection Stored - ContactUs form](https://hackerone.com/reports/768327) to concrete5 - 6 upvotes, $0
+28. [Stored XSS on express entries](https://hackerone.com/reports/873474) to concrete5 - 5 upvotes, $0
+29. [XSS on [/concrete/concrete/elements/dashboard/sitemap.php]](https://hackerone.com/reports/6853) to concrete5 - 4 upvotes, $0
+30. [Stored XSS in RSS Feeds Title (Concrete5 v8.1.0)](https://hackerone.com/reports/221380) to concrete5 - 4 upvotes, $0
+31. [XSS in private message](https://hackerone.com/reports/4826) to concrete5 - 3 upvotes, $0
 32. [XSS IN member List (Because of City Textbox)](https://hackerone.com/reports/4839) to concrete5 - 2 upvotes, $0
 33. [FULL PATH DISCLOSUR ](https://hackerone.com/reports/7736) to concrete5 - 2 upvotes, $0
 34. [Multiple Cross Site Request Forgery Vulnerabilities in Concrete5 version 5.7.3.1](https://hackerone.com/reports/59660) to concrete5 - 2 upvotes, $0

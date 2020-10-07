@@ -2,18 +2,18 @@
 
 Top reports from Razer program at HackerOne:
 
-1. [🐞 OS Command Injection at https://sea-web.gold.razer.com/lab/ws-lookup via IP parameter](https://hackerone.com/reports/821962) to Razer - 655 upvotes, $2000
-2. [🐞 OS Command Injection at https://sea-web.gold.razer.com/lab/ws-lookup via IP parameter](https://hackerone.com/reports/821962) to Razer - 655 upvotes, $2000
-3. [SQL injection at https://sea-web.gold.razer.com/ajax-get-status.php via txid parameter](https://hackerone.com/reports/819738) to Razer - 567 upvotes, $2000
+1. [🐞 OS Command Injection at https://sea-web.gold.razer.com/lab/ws-lookup via IP parameter](https://hackerone.com/reports/821962) to Razer - 659 upvotes, $2000
+2. [🐞 OS Command Injection at https://sea-web.gold.razer.com/lab/ws-lookup via IP parameter](https://hackerone.com/reports/821962) to Razer - 659 upvotes, $2000
+3. [SQL injection at https://sea-web.gold.razer.com/ajax-get-status.php via txid parameter](https://hackerone.com/reports/819738) to Razer - 569 upvotes, $2000
 4. [SQL Injection in https://api-my.pay.razer.com/inviteFriend/getInviteHistoryLog](https://hackerone.com/reports/811111) to Razer - 522 upvotes, $2000
-5. [OTP token bypass in accessing user settings](https://hackerone.com/reports/699082) to Razer - 333 upvotes, $1000
+5. [OTP token bypass in accessing user settings](https://hackerone.com/reports/699082) to Razer - 334 upvotes, $1000
 6. [[Razer Pay  Mobile App] Broken access control allowing other user's bank account to be deleted](https://hackerone.com/reports/757095) to Razer - 310 upvotes, $1000
 7. [[Razer Pay  Mobile App] Broken access control allowing other user's bank account to be deleted](https://hackerone.com/reports/757095) to Razer - 310 upvotes, $1000
 8. [Reflected XSS at https://pay.gold.razer.com escalated to account takeover](https://hackerone.com/reports/723060) to Razer - 285 upvotes, $750
 9. [SQL Injection at https://sea-web.gold.razer.com/lab/cash-card-incomplete-translog-resend via period-hour Parameter](https://hackerone.com/reports/781205) to Razer - 238 upvotes, $2000
-10. [[api.easy2pay.co]  SQL Injection at fortumo via TransID parameter [Bypassing Signature Validation🔥]](https://hackerone.com/reports/894325) to Razer - 203 upvotes, $4000
-11. [[api.easy2pay.co]  SQL Injection at fortumo via TransID parameter [Bypassing Signature Validation🔥]](https://hackerone.com/reports/894325) to Razer - 203 upvotes, $4000
-12. [Admin Management - Login Using Default Password - Leads to Image Upload Backdoor/Shell](https://hackerone.com/reports/699030) to Razer - 196 upvotes, $200
+10. [[api.easy2pay.co]  SQL Injection at fortumo via TransID parameter [Bypassing Signature Validation🔥]](https://hackerone.com/reports/894325) to Razer - 220 upvotes, $4000
+11. [[api.easy2pay.co]  SQL Injection at fortumo via TransID parameter [Bypassing Signature Validation🔥]](https://hackerone.com/reports/894325) to Razer - 220 upvotes, $4000
+12. [Admin Management - Login Using Default Password - Leads to Image Upload Backdoor/Shell](https://hackerone.com/reports/699030) to Razer - 198 upvotes, $200
 13. [Through blocking the redirect in /* the attacker able to bypass Authentication To see Sensitive Data sush as Game Keys , Emails ,..](https://hackerone.com/reports/736273) to Razer - 195 upvotes, $1000
 14. [Through blocking the redirect in /* the attacker able to bypass Authentication To see Sensitive Data sush as Game Keys , Emails ,..](https://hackerone.com/reports/736273) to Razer - 195 upvotes, $1000
 15. [Unauthenticated access to sensitive user information](https://hackerone.com/reports/702677) to Razer - 184 upvotes, $500
@@ -21,8 +21,8 @@ Top reports from Razer program at HackerOne:
 17. [Misconfigured s3 Bucket exposure](https://hackerone.com/reports/700051) to Razer - 167 upvotes, $500
 18. [[IDOR] API endpoint leaking sensitive user information](https://hackerone.com/reports/723118) to Razer - 167 upvotes, $375
 19. [Accessible Druid Monitor console on https://api.pay-staging.razer.com/](https://hackerone.com/reports/702784) to Razer - 126 upvotes, $1500
-20. [SQL Injection at api.easy2pay.co/add-on/get-sig.php via partner_id Parameter](https://hackerone.com/reports/768195) to Razer - 119 upvotes, $2000
-21. [SQL injection in Razer Gold List Admin at /lists/index.php via the `list[]` parameter. ](https://hackerone.com/reports/824307) to Razer - 118 upvotes, $2000
+20. [SQL injection in Razer Gold List Admin at /lists/index.php via the `list[]` parameter. ](https://hackerone.com/reports/824307) to Razer - 120 upvotes, $2000
+21. [SQL Injection at api.easy2pay.co/add-on/get-sig.php via partner_id Parameter](https://hackerone.com/reports/768195) to Razer - 119 upvotes, $2000
 22. [HTML injection in support.razer.com [IE only]](https://hackerone.com/reports/826463) to Razer - 109 upvotes, $250
 23. [DOM XSS at https://www.thx.com in IE/Edge browser](https://hackerone.com/reports/702981) to Razer - 99 upvotes, $250
 24. [[Razer Pay Android App] Multiple vulnerabilities chained to allow "RedPacket" money to be stolen by a 3rd party](https://hackerone.com/reports/753280) to Razer - 84 upvotes, $1000
@@ -35,7 +35,7 @@ Top reports from Razer program at HackerOne:
 31. [Payment PIN Verification Bypass](https://hackerone.com/reports/702383) to Razer - 55 upvotes, $1000
 32. [Reflected XSS at http://promotion.molthailand.com/index.php via promotion_id parameter](https://hackerone.com/reports/772116) to Razer - 53 upvotes, $250
 33. [Insecure Logging - OWASP (2016-M2)](https://hackerone.com/reports/700624) to Razer - 45 upvotes, $400
-34. [Improper Authorization at https://api-my.pay.razer.com/v1/trxDetail?trxId=[Id] allowing unauthorised access to other user's transaction details](https://hackerone.com/reports/754339) to Razer - 39 upvotes, $500
+34. [Improper Authorization at https://api-my.pay.razer.com/v1/trxDetail?trxId=[Id] allowing unauthorised access to other user's transaction details](https://hackerone.com/reports/754339) to Razer - 40 upvotes, $500
 35. [Improper access control on easytopup.in.th transaction page leads to user's information disclosure and may lead to account hijacking](https://hackerone.com/reports/776877) to Razer - 38 upvotes, $1000
 36. [Improper access control on easytopup.in.th transaction page leads to user's information disclosure and may lead to account hijacking](https://hackerone.com/reports/776877) to Razer - 38 upvotes, $1000
 37. [dom based xss on [hello.merchant.razer.com]](https://hackerone.com/reports/767944) to Razer - 36 upvotes, $500
@@ -46,7 +46,7 @@ Top reports from Razer program at HackerOne:
 42. [Insecure Processing of XML leads to Denial of Service through Billion Laughs Attack](https://hackerone.com/reports/754117) to Razer - 21 upvotes, $375
 43. [Insecure Processing of XML leads to Denial of Service through Billion Laughs Attack](https://hackerone.com/reports/754117) to Razer - 21 upvotes, $375
 44. [Insecure HostnameVerifier within WebView of Razer Pay Android (TLS Vulnerability)](https://hackerone.com/reports/795272) to Razer - 20 upvotes, $750
-45. [IDOR in eform.molpay.com leads to see other users application forms with private data](https://hackerone.com/reports/790829) to Razer - 19 upvotes, $500
+45. [IDOR in eform.molpay.com leads to see other users application forms with private data](https://hackerone.com/reports/790829) to Razer - 20 upvotes, $500
 46. [Request Smuggling vulnerability due a vulnerable skipper reverse proxy running in the environment.](https://hackerone.com/reports/711679) to Razer - 18 upvotes, $375
 47. [Subdomain takeover at iosota.razersynapse.com via Amazon S3](https://hackerone.com/reports/813313) to Razer - 18 upvotes, $200
 48. [[press.razer.com] Origin IP found, Cloudflare bypassed](https://hackerone.com/reports/776933) to Razer - 17 upvotes, $200

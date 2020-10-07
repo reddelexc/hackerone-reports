@@ -4,12 +4,12 @@ Top reports from Uber program at HackerOne:
 
 1. [Sensitive user information disclosure at bonjour.uber.com/marketplace/_rpc via the 'userUuid' parameter](https://hackerone.com/reports/542340) to Uber - 610 upvotes, $6500
 2. [Chained Bugs to Leak Victim's Uber's FB Oauth Token](https://hackerone.com/reports/202781) to Uber - 362 upvotes, $7500
-3. [Reflected XSS and sensitive data exposure, including payment details, on lioncityrentals.com.sg](https://hackerone.com/reports/340431) to Uber - 351 upvotes, $4000
+3. [Reflected XSS and sensitive data exposure, including payment details, on lioncityrentals.com.sg](https://hackerone.com/reports/340431) to Uber - 352 upvotes, $4000
 4. [Change any Uber user's password through /rt/users/passwordless-signup - Account Takeover (critical)](https://hackerone.com/reports/143717) to Uber - 286 upvotes, $10000
 5. [Stored XSS in developer.uber.com](https://hackerone.com/reports/131450) to Uber - 201 upvotes, $7500
-6. [XSS At "pages.et.uber.com"](https://hackerone.com/reports/156098) to Uber - 187 upvotes, $0
+6. [XSS At "pages.et.uber.com"](https://hackerone.com/reports/156098) to Uber - 189 upvotes, $0
 7. [Authentication bypass on auth.uber.com via subdomain takeover of saostatic.uber.com](https://hackerone.com/reports/219205) to Uber - 157 upvotes, $5000
-8. [Reading Emails in Uber Subdomains](https://hackerone.com/reports/156536) to Uber - 133 upvotes, $10000
+8. [Reading Emails in Uber Subdomains](https://hackerone.com/reports/156536) to Uber - 134 upvotes, $10000
 9. [Open Redirect on central.uber.com allows for account takeover](https://hackerone.com/reports/206591) to Uber - 112 upvotes, $8000
 10. [Client secret, server tokens for developer applications returned by internal API](https://hackerone.com/reports/419655) to Uber - 111 upvotes, $5000
 11. [ubernycmarketplace.com is vulnerable to the Heartbleed Bug](https://hackerone.com/reports/304190) to Uber - 106 upvotes, $1500
@@ -33,7 +33,7 @@ Top reports from Uber program at HackerOne:
 29. [Blind OOB XXE At "http://ubermovement.com/"](https://hackerone.com/reports/154096) to Uber - 53 upvotes, $500
 30. [Multiple vulnerabilities in a WordPress plugin at drive.uber.com](https://hackerone.com/reports/135288) to Uber - 51 upvotes, $5000
 31. [Possibility to inject a malicious JavaScript code in any file on tags.tiqcdn.com results in a stored XSS on any page in most Uber domains](https://hackerone.com/reports/256152) to Uber - 48 upvotes, $6000
-32. [OneLogin authentication bypass on WordPress sites](https://hackerone.com/reports/136169) to Uber - 45 upvotes, $10000
+32. [OneLogin authentication bypass on WordPress sites](https://hackerone.com/reports/136169) to Uber - 46 upvotes, $10000
 33. [Avoiding Surge Pricing](https://hackerone.com/reports/125250) to Uber - 45 upvotes, $3000
 34. [Reflected XSS on multiple uberinternal.com domains](https://hackerone.com/reports/326449) to Uber - 39 upvotes, $2000
 35. [Reflected XSS in lert.uber.com](https://hackerone.com/reports/191810) to Uber - 36 upvotes, $3000

@@ -2,7 +2,7 @@
 
 Top reports from WordPress program at HackerOne:
 
-1. [Stored XSS Vulnerability](https://hackerone.com/reports/643908) to WordPress - 372 upvotes, $500
+1. [Stored XSS Vulnerability](https://hackerone.com/reports/643908) to WordPress - 374 upvotes, $500
 2. [Stored XSS in Private Message component (BuddyPress)](https://hackerone.com/reports/487081) to WordPress - 331 upvotes, $500
 3. [RCE as Admin defeats WordPress hardening and file permissions](https://hackerone.com/reports/436928) to WordPress - 150 upvotes, $800
 4. [Stored XSS on byddypress Plug-in via groups name](https://hackerone.com/reports/592316) to WordPress - 127 upvotes, $450
@@ -42,9 +42,9 @@ Top reports from WordPress program at HackerOne:
 38. [Buddypress 2.9.1 - Exceeding the maximum upload size  - XSS leading to potential RCE. ](https://hackerone.com/reports/263109) to WordPress - 14 upvotes, $275
 39. [Open Redirect on the nl.wordpress.net](https://hackerone.com/reports/309058) to WordPress - 13 upvotes, $50
 40. [Clickjacking wordcamp.org](https://hackerone.com/reports/230581) to WordPress - 13 upvotes, $0
-41. [[mercantile.wordpress.org] Reflected XSS](https://hackerone.com/reports/240256) to WordPress - 12 upvotes, $225
-42. [Missing SSL can leak job token ](https://hackerone.com/reports/222036) to WordPress - 12 upvotes, $0
-43. [Stored XSS in Post Preview as Contributor](https://hackerone.com/reports/497724) to WordPress - 11 upvotes, $650
+41. [Stored XSS in Post Preview as Contributor](https://hackerone.com/reports/497724) to WordPress - 12 upvotes, $650
+42. [[mercantile.wordpress.org] Reflected XSS](https://hackerone.com/reports/240256) to WordPress - 12 upvotes, $225
+43. [Missing SSL can leak job token ](https://hackerone.com/reports/222036) to WordPress - 12 upvotes, $0
 44. [pre-auth Stored XSS in comments via javascript: url when administrator edits user supplied comment](https://hackerone.com/reports/633231) to WordPress - 10 upvotes, $650
 45. [Stored xss via template injection](https://hackerone.com/reports/250837) to WordPress - 10 upvotes, $300
 46. [Clickjacking mercantile.wordpress.org](https://hackerone.com/reports/264125) to WordPress - 10 upvotes, $0
