@@ -40,7 +40,7 @@ Top reports from WordPress program at HackerOne:
 36. [Clickjacking In jobs.wordpress.net](https://hackerone.com/reports/223024) to WordPress - 15 upvotes, $0
 37. [Stored self-XSS in mercantile.wordpress.org checkout](https://hackerone.com/reports/230232) to WordPress - 14 upvotes, $275
 38. [Buddypress 2.9.1 - Exceeding the maximum upload size  - XSS leading to potential RCE. ](https://hackerone.com/reports/263109) to WordPress - 14 upvotes, $275
-39. [Open Redirect on the nl.wordpress.net](https://hackerone.com/reports/309058) to WordPress - 13 upvotes, $50
+39. [Open Redirect on the nl.wordpress.net](https://hackerone.com/reports/309058) to WordPress - 14 upvotes, $50
 40. [Clickjacking wordcamp.org](https://hackerone.com/reports/230581) to WordPress - 13 upvotes, $0
 41. [Stored XSS in Post Preview as Contributor](https://hackerone.com/reports/497724) to WordPress - 12 upvotes, $650
 42. [[mercantile.wordpress.org] Reflected XSS](https://hackerone.com/reports/240256) to WordPress - 12 upvotes, $225

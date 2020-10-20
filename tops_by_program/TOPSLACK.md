@@ -2,9 +2,9 @@
 
 Top reports from Slack program at HackerOne:
 
-1. [Mass account takeovers using HTTP Request Smuggling on https://slackb.com/ to steal session cookies](https://hackerone.com/reports/737140) to Slack - 786 upvotes, $6500
-2. [XSS vulnerable parameter in a location hash](https://hackerone.com/reports/146336) to Slack - 430 upvotes, $1100
-3. [Remote Code Execution in Slack desktop apps + bonus](https://hackerone.com/reports/783877) to Slack - 419 upvotes, $1750
+1. [Mass account takeovers using HTTP Request Smuggling on https://slackb.com/ to steal session cookies](https://hackerone.com/reports/737140) to Slack - 788 upvotes, $6500
+2. [Remote Code Execution in Slack desktop apps + bonus](https://hackerone.com/reports/783877) to Slack - 439 upvotes, $1750
+3. [XSS vulnerable parameter in a location hash](https://hackerone.com/reports/146336) to Slack - 430 upvotes, $1100
 4. [URL link spoofing](https://hackerone.com/reports/481472) to Slack - 347 upvotes, $250
 5. [AWS bucket leading to iOS test build code and configuration exposure](https://hackerone.com/reports/404822) to Slack - 310 upvotes, $1500
 6. [TURN server allows TCP and UDP proxying to internal network, localhost and meta-data services](https://hackerone.com/reports/333419) to Slack - 298 upvotes, $3500
@@ -47,8 +47,8 @@ Top reports from Slack program at HackerOne:
 43. [dom xss in https://www.slackatwork.com](https://hackerone.com/reports/196624) to Slack - 12 upvotes, $200
 44. [Open Redirect on slack.com](https://hackerone.com/reports/140447) to Slack - 11 upvotes, $500
 45. [Bypass of the SSRF protection (Slack commands, Phabricator integration)](https://hackerone.com/reports/61312) to Slack - 11 upvotes, $100
-46. [User can start call in a channel of an unpaid account](https://hackerone.com/reports/147369) to Slack - 10 upvotes, $100
-47. [HTML Injection inside Slack promotional emails](https://hackerone.com/reports/321029) to Slack - 10 upvotes, $100
+46. [HTML Injection inside Slack promotional emails](https://hackerone.com/reports/321029) to Slack - 11 upvotes, $100
+47. [User can start call in a channel of an unpaid account](https://hackerone.com/reports/147369) to Slack - 10 upvotes, $100
 48. [Shared-channel BETA persists integration after unshare](https://hackerone.com/reports/291822) to Slack - 9 upvotes, $750
 49. [Relative Path Vulnerability Results in Arbitrary Command Execution/Privilege Escalation](https://hackerone.com/reports/784714) to Slack - 9 upvotes, $750
 50. [Creating Post on a restricted channel](https://hackerone.com/reports/151459) to Slack - 9 upvotes, $500

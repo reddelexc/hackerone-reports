@@ -10,7 +10,7 @@ Top reports from Ubiquiti Inc. program at HackerOne:
 6. [Login as root without password on EdgeSwitchX](https://hackerone.com/reports/512958) to Ubiquiti Inc. - 54 upvotes, $100
 7. [Ability to log in as any user without authentication if █████████ is empty](https://hackerone.com/reports/215053) to Ubiquiti Inc. - 52 upvotes, $6000
 8. [CORS Misconfiguration leading to Private Information Disclosure](https://hackerone.com/reports/430249) to Ubiquiti Inc. - 47 upvotes, $500
-9. [Authentication bypass on sso.ubnt.com via subdomain takeover of ping.ubnt.com](https://hackerone.com/reports/172137) to Ubiquiti Inc. - 44 upvotes, $500
+9. [Authentication bypass on sso.ubnt.com via subdomain takeover of ping.ubnt.com](https://hackerone.com/reports/172137) to Ubiquiti Inc. - 45 upvotes, $500
 10. [Read-Only user can execute arbitraty shell commands on AirOS](https://hackerone.com/reports/139398) to Ubiquiti Inc. - 43 upvotes, $2750
 11. [Unrestricted File System Access via Twig Template Injection on dev-ucrm-billing-demo.ubnt.com](https://hackerone.com/reports/301406) to Ubiquiti Inc. - 37 upvotes, $2000
 12. [Firmware download/install vulnerable to CSRF](https://hackerone.com/reports/323852) to Ubiquiti Inc. - 32 upvotes, $1100
@@ -81,9 +81,9 @@ Top reports from Ubiquiti Inc. program at HackerOne:
 77. [UniFi Video web interface Configuration Restore user privilege escalation](https://hackerone.com/reports/329659) to Ubiquiti Inc. - 6 upvotes, $1500
 78. [Privilege Escalation with Session Hijacking Having a Non-privileged Valid User](https://hackerone.com/reports/242407) to Ubiquiti Inc. - 6 upvotes, $1000
 79. [Authenticated RCE in ToughSwitch](https://hackerone.com/reports/273449) to Ubiquiti Inc. - 6 upvotes, $150
-80. [UniFi v3.2.10 Cross-Site Request Forgeries / Referer-Check Bypass](https://hackerone.com/reports/52635) to Ubiquiti Inc. - 4 upvotes, $1000
-81. [Local File Disclosure (+XSS+CSRF) in AirOS 6.2.0 devices](https://hackerone.com/reports/661647) to Ubiquiti Inc. - 4 upvotes, $594
-82. [200 http code in 403 forbidden directories on main Ubnt.com domain](https://hackerone.com/reports/220150) to Ubiquiti Inc. - 4 upvotes, $0
+80. [200 http code in 403 forbidden directories on main Ubnt.com domain](https://hackerone.com/reports/220150) to Ubiquiti Inc. - 5 upvotes, $0
+81. [UniFi v3.2.10 Cross-Site Request Forgeries / Referer-Check Bypass](https://hackerone.com/reports/52635) to Ubiquiti Inc. - 4 upvotes, $1000
+82. [Local File Disclosure (+XSS+CSRF) in AirOS 6.2.0 devices](https://hackerone.com/reports/661647) to Ubiquiti Inc. - 4 upvotes, $594
 83. [Security: Publicly accessible x.509 Public and Private Key of Ubiquiti Networks.](https://hackerone.com/reports/265701) to Ubiquiti Inc. - 4 upvotes, $0
 84. [Auth bypass on directory.corp.ubnt.com](https://hackerone.com/reports/116504) to Ubiquiti Inc. - 3 upvotes, $1000
 85. [Other Buffer Overflow in PHP of the AirMax Products](https://hackerone.com/reports/74004) to Ubiquiti Inc. - 3 upvotes, $500

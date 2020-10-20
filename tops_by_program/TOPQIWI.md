@@ -3,11 +3,11 @@
 Top reports from QIWI program at HackerOne:
 
 1. [SQL injection on contactws.contact-sys.com in TScenObject action ScenObjects leads to remote code execution](https://hackerone.com/reports/816254) to QIWI - 434 upvotes, $5500
-2. [Remote Code Execution on contactws.contact-sys.com via SQL injection in TCertObject operation "Delete"](https://hackerone.com/reports/816086) to QIWI - 180 upvotes, $1000
+2. [Remote Code Execution on contactws.contact-sys.com via SQL injection in TCertObject operation "Delete"](https://hackerone.com/reports/816086) to QIWI - 181 upvotes, $1000
 3. [SQL injection on contactws.contact-sys.com in TRateObject.AddForOffice in USER_ID parameter leads to remote code execution](https://hackerone.com/reports/816560) to QIWI - 106 upvotes, $1000
 4. [account takeover https://qiwi.me ](https://hackerone.com/reports/685304) to QIWI - 105 upvotes, $750
 5. [account takeover https://idea.qiwi.com/ ](https://hackerone.com/reports/464426) to QIWI - 85 upvotes, $300
-6. [DOM XSS triggered in secure support desk](https://hackerone.com/reports/512065) to QIWI - 58 upvotes, $500
+6. [DOM XSS triggered in secure support desk](https://hackerone.com/reports/512065) to QIWI - 59 upvotes, $500
 7. [Обход комиссии на переводы](https://hackerone.com/reports/604560) to QIWI - 55 upvotes, $1050
 8. [XXE on ██████████ by bypassing WAF ████](https://hackerone.com/reports/433996) to QIWI - 49 upvotes, $5000
 9. [[contact-sys.com] SQL Injection████ limit param](https://hackerone.com/reports/164945) to QIWI - 47 upvotes, $250
