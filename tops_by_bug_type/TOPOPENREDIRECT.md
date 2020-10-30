@@ -2,14 +2,14 @@
 
 Top Open Redirect reports from HackerOne:
 
-1. [[cs.money] Open Redirect Leads to Account Takeover](https://hackerone.com/reports/905607) to CS Money - 281 upvotes, $750
-2. [XSS and Open Redirect on MoPub Login](https://hackerone.com/reports/683298) to Twitter - 220 upvotes, $1540
-3. [Open Redirect in secure.showmax.com](https://hackerone.com/reports/749338) to Showmax - 216 upvotes, $550
-4. [Open redirect at https://inventory.upserve.com/http://google.com/](https://hackerone.com/reports/469803) to Upserve  - 157 upvotes, $1200
-5. [Open Redirect on central.uber.com allows for account takeover](https://hackerone.com/reports/206591) to Uber - 113 upvotes, $8000
+1. [[cs.money] Open Redirect Leads to Account Takeover](https://hackerone.com/reports/905607) to CS Money - 304 upvotes, $750
+2. [XSS and Open Redirect on MoPub Login](https://hackerone.com/reports/683298) to Twitter - 221 upvotes, $1540
+3. [Open Redirect in secure.showmax.com](https://hackerone.com/reports/749338) to Showmax - 217 upvotes, $550
+4. [Open redirect at https://inventory.upserve.com/http://google.com/](https://hackerone.com/reports/469803) to Upserve  - 158 upvotes, $1200
+5. [Open Redirect on central.uber.com allows for account takeover](https://hackerone.com/reports/206591) to Uber - 114 upvotes, $8000
 6. [Twitter lite(Android): Vulnerable to local file steal, Javascript injection, Open redirect ](https://hackerone.com/reports/499348) to Twitter - 84 upvotes, $1120
 7. [Open redirect vulnerability](https://hackerone.com/reports/380760) to Rockstar Games - 80 upvotes, $250
-8. [Open redirect](https://hackerone.com/reports/753399) to NordVPN - 74 upvotes, $500
+8. [Open redirect](https://hackerone.com/reports/753399) to NordVPN - 75 upvotes, $500
 9. [[dev.twitter.com] XSS and Open Redirect](https://hackerone.com/reports/260744) to Twitter - 56 upvotes, $1120
 10. [Open Redirect](https://hackerone.com/reports/504751) to Omise - 56 upvotes, $100
 11. [Open redirection at https://chaturbate.com/auth/login/](https://hackerone.com/reports/411723) to Chaturbate - 52 upvotes, $200
@@ -41,19 +41,19 @@ Top Open Redirect reports from HackerOne:
 37. [[idp.fr.cloud.gov] Open Redirect](https://hackerone.com/reports/387007) to TTS Bug Bounty - 23 upvotes, $150
 38. [Open redirect on chaturbate.com (tipping/purchase_success)](https://hackerone.com/reports/413426) to Chaturbate - 22 upvotes, $250
 39. [Open redirect in semrush.com](https://hackerone.com/reports/716976) to SEMrush - 22 upvotes, $150
-40. [Open Redirection while saving User account Settings ](https://hackerone.com/reports/288219) to Moneybird - 21 upvotes, $50
-41. [Open redirect at app.goodhire.com via ReturnUrl parameter](https://hackerone.com/reports/240091) to Inflection - 20 upvotes, $750
-42. [use of unsafe host header leads to open redirect](https://hackerone.com/reports/210875) to Rockstar Games - 20 upvotes, $300
-43. [GET based Open redirect on [streamlabs.com/content-hub/streamlabs-obs/search?query=]](https://hackerone.com/reports/978680) to Logitech - 20 upvotes, $100
+40. [GET based Open redirect on [streamlabs.com/content-hub/streamlabs-obs/search?query=]](https://hackerone.com/reports/978680) to Logitech - 22 upvotes, $100
+41. [Open Redirection while saving User account Settings ](https://hackerone.com/reports/288219) to Moneybird - 21 upvotes, $50
+42. [Open redirect at app.goodhire.com via ReturnUrl parameter](https://hackerone.com/reports/240091) to Inflection - 20 upvotes, $750
+43. [use of unsafe host header leads to open redirect](https://hackerone.com/reports/210875) to Rockstar Games - 20 upvotes, $300
 44. [Open Redirect](https://hackerone.com/reports/311330) to SEMrush - 19 upvotes, $100
 45. [Open Redirect through POST Request](https://hackerone.com/reports/242243) to Inflection - 18 upvotes, $350
 46. [open redirect while login at https://apps.dev.jupiterone.io can leak access code.](https://hackerone.com/reports/591266) to LifeOmic - 18 upvotes, $350
 47. [Open Redirection leads to redirect Users to malicious website](https://hackerone.com/reports/625546) to Unikrn - 18 upvotes, $50
-48. [CBC "cut and paste" attack may cause Open Redirect(even XSS)](https://hackerone.com/reports/126203) to Uber - 17 upvotes, $500
-49. [Open Redirect](https://hackerone.com/reports/243001) to Inflection - 17 upvotes, $350
-50. [Open redirection ](https://hackerone.com/reports/207285) to New Relic - 17 upvotes, $0
-51. [Open Redirect on smule.com](https://hackerone.com/reports/440484) to Smule - 17 upvotes, $0
-52. [Open redirect in https://www.rockstargames.com/GTAOnline/restricted-content/agegate/form may lead to Facebook OAuth token theft](https://hackerone.com/reports/798121) to Rockstar Games - 16 upvotes, $750
+48. [Open redirect in https://www.rockstargames.com/GTAOnline/restricted-content/agegate/form may lead to Facebook OAuth token theft](https://hackerone.com/reports/798121) to Rockstar Games - 17 upvotes, $750
+49. [CBC "cut and paste" attack may cause Open Redirect(even XSS)](https://hackerone.com/reports/126203) to Uber - 17 upvotes, $500
+50. [Open Redirect](https://hackerone.com/reports/243001) to Inflection - 17 upvotes, $350
+51. [Open redirection ](https://hackerone.com/reports/207285) to New Relic - 17 upvotes, $0
+52. [Open Redirect on smule.com](https://hackerone.com/reports/440484) to Smule - 17 upvotes, $0
 53. [Open redirect allows changing iframe content in *.myshopify.com/admin/themes/\<id\>/editor](https://hackerone.com/reports/165046) to Shopify - 16 upvotes, $500
 54. [XSS on www.mapbox.com/authorize/ because of open redirect at /core/oauth/auth](https://hackerone.com/reports/143240) to Mapbox - 16 upvotes, $500
 55. [Open redirect on https://blog.fuzzing-project.org](https://hackerone.com/reports/373916) to Hanno's projects - 16 upvotes, $0
@@ -63,10 +63,10 @@ Top Open Redirect reports from HackerOne:
 59. [Open redirect using checkout_url](https://hackerone.com/reports/159522) to Shopify - 14 upvotes, $500
 60. [Open Redirection Vulnerability in m.vk.com](https://hackerone.com/reports/347645) to VK.com - 14 upvotes, $300
 61. [Open Redirect on the nl.wordpress.net](https://hackerone.com/reports/309058) to WordPress - 14 upvotes, $50
-62. [Open Redirect at *.myshopify.com/account/login?checkout_url=](https://hackerone.com/reports/103772) to Shopify - 13 upvotes, $500
-63. [Interstitial redirect bypass / open redirect in https://hackerone.com/zendesk_session](https://hackerone.com/reports/111968) to HackerOne - 13 upvotes, $500
-64. [Open Redirect on [My.com]](https://hackerone.com/reports/244721) to Mail.ru - 13 upvotes, $0
-65. [Open Redirect - www.shopify.com](https://hackerone.com/reports/905737) to Shopify - 13 upvotes, $0
+62. [Open Redirect - www.shopify.com](https://hackerone.com/reports/905737) to Shopify - 14 upvotes, $0
+63. [Open Redirect at *.myshopify.com/account/login?checkout_url=](https://hackerone.com/reports/103772) to Shopify - 13 upvotes, $500
+64. [Interstitial redirect bypass / open redirect in https://hackerone.com/zendesk_session](https://hackerone.com/reports/111968) to HackerOne - 13 upvotes, $500
+65. [Open Redirect on [My.com]](https://hackerone.com/reports/244721) to Mail.ru - 13 upvotes, $0
 66. [Reflected XSS and Open Redirect in several parameters (viestinta.lahitapiola.fi)](https://hackerone.com/reports/191387) to LocalTapiola - 12 upvotes, $450
 67. [open redirect in \<your_zendesk\>.zendesk.com](https://hackerone.com/reports/99516) to Zendesk - 12 upvotes, $100
 68. [Open redirect on https://werkenbijdefensie.nl/](https://hackerone.com/reports/242314) to Maximum - 12 upvotes, $50
@@ -193,6 +193,7 @@ Top Open Redirect reports from HackerOne:
 189. [Open Redirect in WordPress Feed Statistics {Affected All Versions}](https://hackerone.com/reports/22142) to Automattic - 0 upvotes, $0
 190. [oauth redirect uri validation bug leads to open redirect and account compromise](https://hackerone.com/reports/20661) to WePay - 0 upvotes, $0
 191. [Open Redirection Security Filter bypassed](https://hackerone.com/reports/44157) to Vimeo - 0 upvotes, $0
+192. [Open Redirect on [blog.wavecell.com]](https://hackerone.com/reports/929633) to 8x8 - 0 upvotes, $0
 
 
 [Back](../README.md)

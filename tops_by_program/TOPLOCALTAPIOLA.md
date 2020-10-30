@@ -90,11 +90,11 @@ Top reports from LocalTapiola program at HackerOne:
 86. [/icons/README is still available on viestinta.lahitapiola.fi](https://hackerone.com/reports/208141) to LocalTapiola - 4 upvotes, $50
 87. [Verbose error message reveals internal system hostnames, protols and used ports (yrityspalvelu.tapiola.fi)](https://hackerone.com/reports/294464) to LocalTapiola - 4 upvotes, $50
 88. [Internal IP Address Disclosure at https://www.lahitapiolarahoitus.fi/wp-json/wp/v2/pages](https://hackerone.com/reports/329791) to LocalTapiola - 4 upvotes, $50
-89. [Reflected XSS and Open Redirect (verkkopalvelu.lahitapiola.fi)](https://hackerone.com/reports/194207) to LocalTapiola - 3 upvotes, $400
-90. [Reflected XSS on iltakoulu_varkaus (viestinta.lahitapiola.fi)](https://hackerone.com/reports/201137) to LocalTapiola - 3 upvotes, $150
-91. [Amazon Bucket Accessible (http://inpref.s3.amazonaws.com/)](https://hackerone.com/reports/137487) to LocalTapiola - 3 upvotes, $100
-92. [Enumeration in unsubscribe -function of /omatalousuk (viestinta.lahitapiola.fi)](https://hackerone.com/reports/201314) to LocalTapiola - 3 upvotes, $100
-93. [Disclosure of Users Information via Wordpress API (?rest_route)](https://hackerone.com/reports/335341) to LocalTapiola - 3 upvotes, $50
+89. [Disclosure of Users Information via Wordpress API (?rest_route)](https://hackerone.com/reports/335341) to LocalTapiola - 4 upvotes, $50
+90. [Reflected XSS and Open Redirect (verkkopalvelu.lahitapiola.fi)](https://hackerone.com/reports/194207) to LocalTapiola - 3 upvotes, $400
+91. [Reflected XSS on iltakoulu_varkaus (viestinta.lahitapiola.fi)](https://hackerone.com/reports/201137) to LocalTapiola - 3 upvotes, $150
+92. [Amazon Bucket Accessible (http://inpref.s3.amazonaws.com/)](https://hackerone.com/reports/137487) to LocalTapiola - 3 upvotes, $100
+93. [Enumeration in unsubscribe -function of /omatalousuk (viestinta.lahitapiola.fi)](https://hackerone.com/reports/201314) to LocalTapiola - 3 upvotes, $100
 94. [Posting modified information in 'Investment section' will cause unintended information change in verkkopalvelu.tapiola.fi](https://hackerone.com/reports/126209) to LocalTapiola - 2 upvotes, $1000
 95. [Possibly big authorization problem in Lähitapiola´s varainhoito](https://hackerone.com/reports/135252) to LocalTapiola - 2 upvotes, $400
 96. [Suspicious browser fingerprinting(?) scripts on http://www.lahitapiola.fi/ redirector](https://hackerone.com/reports/179763) to LocalTapiola - 2 upvotes, $100

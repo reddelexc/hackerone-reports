@@ -3,7 +3,7 @@
 Top reports from QIWI program at HackerOne:
 
 1. [SQL injection on contactws.contact-sys.com in TScenObject action ScenObjects leads to remote code execution](https://hackerone.com/reports/816254) to QIWI - 434 upvotes, $5500
-2. [Remote Code Execution on contactws.contact-sys.com via SQL injection in TCertObject operation "Delete"](https://hackerone.com/reports/816086) to QIWI - 181 upvotes, $1000
+2. [Remote Code Execution on contactws.contact-sys.com via SQL injection in TCertObject operation "Delete"](https://hackerone.com/reports/816086) to QIWI - 182 upvotes, $1000
 3. [SQL injection on contactws.contact-sys.com in TRateObject.AddForOffice in USER_ID parameter leads to remote code execution](https://hackerone.com/reports/816560) to QIWI - 106 upvotes, $1000
 4. [account takeover https://qiwi.me ](https://hackerone.com/reports/685304) to QIWI - 105 upvotes, $750
 5. [account takeover https://idea.qiwi.com/ ](https://hackerone.com/reports/464426) to QIWI - 85 upvotes, $300

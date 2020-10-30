@@ -49,12 +49,12 @@ Top reports from The Internet program at HackerOne:
 45. [CVE-2017-10965: Null pointer dereference in Irssi \<1.0.4 ](https://hackerone.com/reports/247027) to The Internet - 3 upvotes, $0
 46. [GarlicRust - heartbleed style vulnerability in major I2P C++ router implementations](https://hackerone.com/reports/295740) to The Internet - 3 upvotes, $0
 47. [Exim handles BDAT data incorrectly and leads to crash/hang](https://hackerone.com/reports/296994) to The Internet - 3 upvotes, $0
-48. [Incorrect logic in MySQL & MariaDB protocol leads to remote SSRF/Remote file read](https://hackerone.com/reports/156511) to The Internet - 3 upvotes, $0
-49. [FREAK: Factoring RSA_EXPORT Keys to Impersonate TLS Servers](https://hackerone.com/reports/50170) to The Internet - 2 upvotes, $7500
-50. [open redirect in rfc6749](https://hackerone.com/reports/26962) to The Internet - 2 upvotes, $3000
-51. [pngcrush_measure_idat() off-by-one error (CVE-2015-2158)](https://hackerone.com/reports/73429) to The Internet - 2 upvotes, $0
-52. [Multiple issues in Libxml2 (2.9.2 - 2.9.5)](https://hackerone.com/reports/293126) to The Internet - 2 upvotes, $0
-53. [Widespread failure of certificate validation in Android apps](https://hackerone.com/reports/2293) to The Internet - 2 upvotes, $0
+48. [Widespread failure of certificate validation in Android apps](https://hackerone.com/reports/2293) to The Internet - 3 upvotes, $0
+49. [Incorrect logic in MySQL & MariaDB protocol leads to remote SSRF/Remote file read](https://hackerone.com/reports/156511) to The Internet - 3 upvotes, $0
+50. [FREAK: Factoring RSA_EXPORT Keys to Impersonate TLS Servers](https://hackerone.com/reports/50170) to The Internet - 2 upvotes, $7500
+51. [open redirect in rfc6749](https://hackerone.com/reports/26962) to The Internet - 2 upvotes, $3000
+52. [pngcrush_measure_idat() off-by-one error (CVE-2015-2158)](https://hackerone.com/reports/73429) to The Internet - 2 upvotes, $0
+53. [Multiple issues in Libxml2 (2.9.2 - 2.9.5)](https://hackerone.com/reports/293126) to The Internet - 2 upvotes, $0
 54. [CVE-2017-8798 - miniupnp getHTTPResponse chunked encoding integer signedness error](https://hackerone.com/reports/227344) to The Internet - 2 upvotes, $0
 55. [CVE-2016-4796 OpenJPEG color_cmyk_to_rgb Out-of-Bounds Read Vulnerability](https://hackerone.com/reports/167955) to The Internet - 2 upvotes, $0
 56. [CVE-2016-7163 OpenJPEG opj_pi_create_decode Integer Overflow Vulnerability](https://hackerone.com/reports/167512) to The Internet - 2 upvotes, $0

@@ -56,13 +56,13 @@ Top reports from Brave Software program at HackerOne:
 52. [`settingcontent-ms` files lacks "mark of the web" =\> execute code by dbl click in Downloads toolbar](https://hackerone.com/reports/377206) to Brave Software - 5 upvotes, $0
 53. [JavaScript URL Issues in the latest version of Brave Browser](https://hackerone.com/reports/176083) to Brave Software - 4 upvotes, $0
 54. [invalid homepage URL causes 'uncaught typeerror' or blank state](https://hackerone.com/reports/177184) to Brave Software - 4 upvotes, $0
-55. [Directory Listing on https://promo-services-staging.brave.com](https://hackerone.com/reports/371464) to Brave Software - 4 upvotes, $0
-56. [Link obfuscation bug](https://hackerone.com/reports/669440) to Brave Software - 4 upvotes, $0
-57. [[iOS] URI Obfuscation in iOS application](https://hackerone.com/reports/176159) to Brave Software - 3 upvotes, $0
-58. [Javascript confirm() crashes Brave on PC](https://hackerone.com/reports/176076) to Brave Software - 3 upvotes, $0
-59. [Information disclosure of website](https://hackerone.com/reports/179121) to Brave Software - 3 upvotes, $0
-60. [No user confirmation when an auto-updated extension gets more permissions](https://hackerone.com/reports/199243) to Brave Software - 3 upvotes, $0
-61. [Address bar spoofing in Brave browser via. window close warnings](https://hackerone.com/reports/208834) to Brave Software - 3 upvotes, $0
+55. [Address bar spoofing in Brave browser via. window close warnings](https://hackerone.com/reports/208834) to Brave Software - 4 upvotes, $0
+56. [Directory Listing on https://promo-services-staging.brave.com](https://hackerone.com/reports/371464) to Brave Software - 4 upvotes, $0
+57. [Link obfuscation bug](https://hackerone.com/reports/669440) to Brave Software - 4 upvotes, $0
+58. [[iOS] URI Obfuscation in iOS application](https://hackerone.com/reports/176159) to Brave Software - 3 upvotes, $0
+59. [Javascript confirm() crashes Brave on PC](https://hackerone.com/reports/176076) to Brave Software - 3 upvotes, $0
+60. [Information disclosure of website](https://hackerone.com/reports/179121) to Brave Software - 3 upvotes, $0
+61. [No user confirmation when an auto-updated extension gets more permissions](https://hackerone.com/reports/199243) to Brave Software - 3 upvotes, $0
 62. [Denial of service attack(window object) on brave browser](https://hackerone.com/reports/176197) to Brave Software - 2 upvotes, $100
 63. [links the user may download can be a malicious files](https://hackerone.com/reports/182557) to Brave Software - 2 upvotes, $0
 64. [Brave payments remembers history even after clearing all browser data.](https://hackerone.com/reports/203088) to Brave Software - 2 upvotes, $0

@@ -6,7 +6,7 @@ Top reports from Coinbase program at HackerOne:
 2. [Double Payout via PayPal](https://hackerone.com/reports/307239) to Coinbase - 230 upvotes, $10000
 3. [ETH contract handling errors](https://hackerone.com/reports/328526) to Coinbase - 193 upvotes, $21000
 4. [Authentication Issue](https://hackerone.com/reports/176979) to Coinbase - 21 upvotes, $200
-5. [[buy.coinbase.com]Content Injection](https://hackerone.com/reports/218680) to Coinbase - 19 upvotes, $100
+5. [[buy.coinbase.com]Content Injection](https://hackerone.com/reports/218680) to Coinbase - 20 upvotes, $100
 6. [HTML injection in apps user review ](https://hackerone.com/reports/104543) to Coinbase - 16 upvotes, $200
 7. [Prepopulation of email address and name leaks information provided to other merchants](https://hackerone.com/reports/316290) to Coinbase - 15 upvotes, $250
 8. [Stored CSS Injection](https://hackerone.com/reports/315865) to Coinbase - 15 upvotes, $100
@@ -31,11 +31,11 @@ Top reports from Coinbase program at HackerOne:
 27. [Coinbase Android Security Vulnerabilities](https://hackerone.com/reports/5786) to Coinbase - 4 upvotes, $100
 28. [Race condition allowing user to review app multiple times](https://hackerone.com/reports/106360) to Coinbase - 4 upvotes, $100
 29. [No authorization required in iOS device web-application](https://hackerone.com/reports/148538) to Coinbase - 4 upvotes, $0
-30. [Transactions visible on Unconfirmed devices](https://hackerone.com/reports/100186) to Coinbase - 3 upvotes, $500
-31. [New Device confirmation tokens are not properly validated.](https://hackerone.com/reports/30238) to Coinbase - 3 upvotes, $100
-32. [ByPassing the email Validation Email on Sign up process in mobile apps](https://hackerone.com/reports/57764) to Coinbase - 3 upvotes, $100
-33. [No authorization required in Windows phone web-application](https://hackerone.com/reports/148537) to Coinbase - 3 upvotes, $0
-34. [The 'Create a New Account' action is vulnerable to CSRF](https://hackerone.com/reports/109810) to Coinbase - 3 upvotes, $0
+30. [The 'Create a New Account' action is vulnerable to CSRF](https://hackerone.com/reports/109810) to Coinbase - 4 upvotes, $0
+31. [Transactions visible on Unconfirmed devices](https://hackerone.com/reports/100186) to Coinbase - 3 upvotes, $500
+32. [New Device confirmation tokens are not properly validated.](https://hackerone.com/reports/30238) to Coinbase - 3 upvotes, $100
+33. [ByPassing the email Validation Email on Sign up process in mobile apps](https://hackerone.com/reports/57764) to Coinbase - 3 upvotes, $100
+34. [No authorization required in Windows phone web-application](https://hackerone.com/reports/148537) to Coinbase - 3 upvotes, $0
 35. [Open redirect on sign in ](https://hackerone.com/reports/231760) to Coinbase - 3 upvotes, $0
 36. [Leaking CSRF token over HTTP resulting in CSRF protection bypass](https://hackerone.com/reports/15412) to Coinbase - 2 upvotes, $1000
 37. [User's legal name could be changed despite front end controls being disabled](https://hackerone.com/reports/131192) to Coinbase - 2 upvotes, $100

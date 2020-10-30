@@ -4,7 +4,7 @@ Top reports from Open-Xchange program at HackerOne:
 
 1. [Arbitrary local system file read on open-xchange server ](https://hackerone.com/reports/303744) to Open-Xchange - 124 upvotes, $2000
 2. [Null pointer dereference in SMTP server function smtp_string_parse](https://hackerone.com/reports/827729) to Open-Xchange - 105 upvotes, $1500
-3. [Blind XXE via Powerpoint files](https://hackerone.com/reports/334488) to Open-Xchange - 81 upvotes, $2000
+3. [Blind XXE via Powerpoint files](https://hackerone.com/reports/334488) to Open-Xchange - 82 upvotes, $2000
 4. [SSRF in VCARD photo upload functionality](https://hackerone.com/reports/296045) to Open-Xchange - 49 upvotes, $850
 5. [CSRF combined with IDOR within Document Converter exposes files](https://hackerone.com/reports/398316) to Open-Xchange - 49 upvotes, $500
 6. [OX (Guard): Stored Cross-Site Scripting via Incoming Email](https://hackerone.com/reports/156258) to Open-Xchange - 48 upvotes, $1000
@@ -81,15 +81,15 @@ Top reports from Open-Xchange program at HackerOne:
 77. [Unauthorized access to attachments details of Private Calendar appointments  (Access control issue)](https://hackerone.com/reports/220864) to Open-Xchange - 3 upvotes, $200
 78. [ Null pointer dereference in SMTP server function smtp_command_parse_data_with_size](https://hackerone.com/reports/831290) to Open-Xchange - 3 upvotes, $50
 79. [Null dereference or redundant null check in `mail_crypt_load_global_private_key` for plugin mail-crypt](https://hackerone.com/reports/908894) to Open-Xchange - 3 upvotes, $50
-80. [[XSS] content_disposition=inline in files](https://hackerone.com/reports/356586) to Open-Xchange - 2 upvotes, $500
-81. [[XSS] select/onchange in TinyMCE via set body](https://hackerone.com/reports/335607) to Open-Xchange - 2 upvotes, $300
-82. [[XSS] Pasting bootstrap in mail compose](https://hackerone.com/reports/331975) to Open-Xchange - 2 upvotes, $300
-83. [Resend invitation to members by Read only user(Privilege Escalation)](https://hackerone.com/reports/219192) to Open-Xchange - 2 upvotes, $200
-84. [Buffer overread in parse_angle_addr called from message_address_parse_path ](https://hackerone.com/reports/836045) to Open-Xchange - 2 upvotes, $50
-85. [Multiple buffer over reads in mbox_from_parse](https://hackerone.com/reports/836036) to Open-Xchange - 2 upvotes, $50
-86. [Failed assert in `mail_index_transaction_lookup`](https://hackerone.com/reports/965782) to Open-Xchange - 2 upvotes, $50
-87. [Directory listing](https://hackerone.com/reports/193753) to Open-Xchange - 2 upvotes, $0
-88. [Web Browser XSS Protection Not Enabled](https://hackerone.com/reports/187225) to Open-Xchange - 2 upvotes, $0
+80. [Web Browser XSS Protection Not Enabled](https://hackerone.com/reports/187225) to Open-Xchange - 3 upvotes, $0
+81. [[XSS] content_disposition=inline in files](https://hackerone.com/reports/356586) to Open-Xchange - 2 upvotes, $500
+82. [[XSS] select/onchange in TinyMCE via set body](https://hackerone.com/reports/335607) to Open-Xchange - 2 upvotes, $300
+83. [[XSS] Pasting bootstrap in mail compose](https://hackerone.com/reports/331975) to Open-Xchange - 2 upvotes, $300
+84. [Resend invitation to members by Read only user(Privilege Escalation)](https://hackerone.com/reports/219192) to Open-Xchange - 2 upvotes, $200
+85. [Buffer overread in parse_angle_addr called from message_address_parse_path ](https://hackerone.com/reports/836045) to Open-Xchange - 2 upvotes, $50
+86. [Multiple buffer over reads in mbox_from_parse](https://hackerone.com/reports/836036) to Open-Xchange - 2 upvotes, $50
+87. [Failed assert in `mail_index_transaction_lookup`](https://hackerone.com/reports/965782) to Open-Xchange - 2 upvotes, $50
+88. [Directory listing](https://hackerone.com/reports/193753) to Open-Xchange - 2 upvotes, $0
 89. [SSL Certification Expired And TLS Vulnerability ](https://hackerone.com/reports/207404) to Open-Xchange - 2 upvotes, $0
 90. [Directory traversal allows execution of arbitrary binaries usign doveadm exec](https://hackerone.com/reports/883104) to Open-Xchange - 2 upvotes, $0
 91. [Referer in /servlet/TestServlet](https://hackerone.com/reports/342976) to Open-Xchange - 1 upvotes, $300
