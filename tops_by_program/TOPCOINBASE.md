@@ -40,21 +40,21 @@ Top reports from Coinbase program at HackerOne:
 36. [Leaking CSRF token over HTTP resulting in CSRF protection bypass](https://hackerone.com/reports/15412) to Coinbase - 2 upvotes, $1000
 37. [User's legal name could be changed despite front end controls being disabled](https://hackerone.com/reports/131192) to Coinbase - 2 upvotes, $100
 38. [Information Disclosure That shows the webroot of CoinBase Server](https://hackerone.com/reports/5073) to Coinbase - 2 upvotes, $0
-39. [An adversary can overwhelm the resources by automating Forgot password/Sign Up requests](https://hackerone.com/reports/119605) to Coinbase - 2 upvotes, $0
-40. [Multiple Issues related to registering applications](https://hackerone.com/reports/5933) to Coinbase - 1 upvotes, $1000
-41. [Invoice Details activate JS that filled in ](https://hackerone.com/reports/21034) to Coinbase - 1 upvotes, $1000
-42. [Sandboxed iframes don't show confirmation screen](https://hackerone.com/reports/54733) to Coinbase - 1 upvotes, $1000
-43. [Sending payments via QR code does not require confirmation](https://hackerone.com/reports/126784) to Coinbase - 1 upvotes, $1000
-44. [Direct URL access to completed reports](https://hackerone.com/reports/109815) to Coinbase - 1 upvotes, $200
-45. [CSRF on "Set as primary" option on the accounts page](https://hackerone.com/reports/10563) to Coinbase - 1 upvotes, $100
-46. [OAUTH pemission set as true= lead to authorize malicious application](https://hackerone.com/reports/87561) to Coinbase - 1 upvotes, $100
-47. [User email enumuration using Gmail](https://hackerone.com/reports/90308) to Coinbase - 1 upvotes, $100
-48. [Window.opener bug at www.coinbase.com](https://hackerone.com/reports/181088) to Coinbase - 1 upvotes, $100
-49. [User Enumeration, Information Disclosure and Lack of Rate Limitation on API](https://hackerone.com/reports/5200) to Coinbase - 1 upvotes, $0
-50. [Improper Validation of the Referrer header leading to Open URL Redirection](https://hackerone.com/reports/5199) to Coinbase - 1 upvotes, $0
-51. [IFRAME loaded from External Domains  ](https://hackerone.com/reports/5205) to Coinbase - 1 upvotes, $0
-52. [2FA settings allowed to be changed with no delay/freeze on funds](https://hackerone.com/reports/16696) to Coinbase - 1 upvotes, $0
-53. [XXE in OAuth2 Applications gallery profile App logo](https://hackerone.com/reports/104620) to Coinbase - 1 upvotes, $0
+39. [XXE in OAuth2 Applications gallery profile App logo](https://hackerone.com/reports/104620) to Coinbase - 2 upvotes, $0
+40. [An adversary can overwhelm the resources by automating Forgot password/Sign Up requests](https://hackerone.com/reports/119605) to Coinbase - 2 upvotes, $0
+41. [Multiple Issues related to registering applications](https://hackerone.com/reports/5933) to Coinbase - 1 upvotes, $1000
+42. [Invoice Details activate JS that filled in ](https://hackerone.com/reports/21034) to Coinbase - 1 upvotes, $1000
+43. [Sandboxed iframes don't show confirmation screen](https://hackerone.com/reports/54733) to Coinbase - 1 upvotes, $1000
+44. [Sending payments via QR code does not require confirmation](https://hackerone.com/reports/126784) to Coinbase - 1 upvotes, $1000
+45. [Direct URL access to completed reports](https://hackerone.com/reports/109815) to Coinbase - 1 upvotes, $200
+46. [CSRF on "Set as primary" option on the accounts page](https://hackerone.com/reports/10563) to Coinbase - 1 upvotes, $100
+47. [OAUTH pemission set as true= lead to authorize malicious application](https://hackerone.com/reports/87561) to Coinbase - 1 upvotes, $100
+48. [User email enumuration using Gmail](https://hackerone.com/reports/90308) to Coinbase - 1 upvotes, $100
+49. [Window.opener bug at www.coinbase.com](https://hackerone.com/reports/181088) to Coinbase - 1 upvotes, $100
+50. [User Enumeration, Information Disclosure and Lack of Rate Limitation on API](https://hackerone.com/reports/5200) to Coinbase - 1 upvotes, $0
+51. [Improper Validation of the Referrer header leading to Open URL Redirection](https://hackerone.com/reports/5199) to Coinbase - 1 upvotes, $0
+52. [IFRAME loaded from External Domains  ](https://hackerone.com/reports/5205) to Coinbase - 1 upvotes, $0
+53. [2FA settings allowed to be changed with no delay/freeze on funds](https://hackerone.com/reports/16696) to Coinbase - 1 upvotes, $0
 54. [Cookie not secure](https://hackerone.com/reports/140742) to Coinbase - 1 upvotes, $0
 55. [Transaction Pending Via  Ip Change ](https://hackerone.com/reports/143541) to Coinbase - 1 upvotes, $0
 56. [X-Frame-Options](https://hackerone.com/reports/237071) to Coinbase - 1 upvotes, $0

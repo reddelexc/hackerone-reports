@@ -9,7 +9,7 @@ Top reports from Brave Software program at HackerOne:
 5. [`chrome://brave` available for navigation in Release build [-\> RCE] + navigation to `chrome://*` using tab_helper ["Open in new tab"]](https://hackerone.com/reports/395737) to Brave Software - 46 upvotes, $2000
 6. [Local files reading using `link[rel="import"]`](https://hackerone.com/reports/375329) to Brave Software - 42 upvotes, $400
 7. [[Android] HTML Injection in BatterySaveArticleRenderer WebView](https://hackerone.com/reports/176065) to Brave Software - 40 upvotes, $150
-8. [[iOS/Android] Address Bar Spoofing Vulnerability ](https://hackerone.com/reports/175958) to Brave Software - 28 upvotes, $200
+8. [[iOS/Android] Address Bar Spoofing Vulnerability ](https://hackerone.com/reports/175958) to Brave Software - 29 upvotes, $200
 9. [Navigation to protocol handler URL from the opened page displayed as a request from this page.](https://hackerone.com/reports/374969) to Brave Software - 25 upvotes, $200
 10. [Local files reading from the "file://" origin through `brave://`](https://hackerone.com/reports/390362) to Brave Software - 23 upvotes, $400
 11. [chrome://brave navigation from web](https://hackerone.com/reports/415967) to Brave Software - 20 upvotes, $650
@@ -54,30 +54,31 @@ Top reports from Brave Software program at HackerOne:
 50. [There is vulnebility Click Here TO fix](https://hackerone.com/reports/319036) to Brave Software - 6 upvotes, $0
 51. [Denial of service attack on Brave Browser.](https://hackerone.com/reports/176066) to Brave Software - 5 upvotes, $50
 52. [`settingcontent-ms` files lacks "mark of the web" =\> execute code by dbl click in Downloads toolbar](https://hackerone.com/reports/377206) to Brave Software - 5 upvotes, $0
-53. [JavaScript URL Issues in the latest version of Brave Browser](https://hackerone.com/reports/176083) to Brave Software - 4 upvotes, $0
-54. [invalid homepage URL causes 'uncaught typeerror' or blank state](https://hackerone.com/reports/177184) to Brave Software - 4 upvotes, $0
-55. [Address bar spoofing in Brave browser via. window close warnings](https://hackerone.com/reports/208834) to Brave Software - 4 upvotes, $0
-56. [Directory Listing on https://promo-services-staging.brave.com](https://hackerone.com/reports/371464) to Brave Software - 4 upvotes, $0
-57. [Link obfuscation bug](https://hackerone.com/reports/669440) to Brave Software - 4 upvotes, $0
-58. [[iOS] URI Obfuscation in iOS application](https://hackerone.com/reports/176159) to Brave Software - 3 upvotes, $0
-59. [Javascript confirm() crashes Brave on PC](https://hackerone.com/reports/176076) to Brave Software - 3 upvotes, $0
-60. [Information disclosure of website](https://hackerone.com/reports/179121) to Brave Software - 3 upvotes, $0
-61. [No user confirmation when an auto-updated extension gets more permissions](https://hackerone.com/reports/199243) to Brave Software - 3 upvotes, $0
-62. [Denial of service attack(window object) on brave browser](https://hackerone.com/reports/176197) to Brave Software - 2 upvotes, $100
-63. [links the user may download can be a malicious files](https://hackerone.com/reports/182557) to Brave Software - 2 upvotes, $0
-64. [Brave payments remembers history even after clearing all browser data.](https://hackerone.com/reports/203088) to Brave Software - 2 upvotes, $0
-65. [Brave: Admin Panel Access](https://hackerone.com/reports/175366) to Brave Software - 2 upvotes, $0
-66. [OPEN REDIRECTION at every 302 HTTP CODE](https://hackerone.com/reports/369447) to Brave Software - 2 upvotes, $0
-67. [Cross domain tracking even with 3rd party cookies disabled.](https://hackerone.com/reports/331428) to Brave Software - 2 upvotes, $0
-68. [Clickjacking or URL Masking ](https://hackerone.com/reports/204198) to Brave Software - 1 upvotes, $0
-69. [homograph-attack (unicode vuln)](https://hackerone.com/reports/221461) to Brave Software - 1 upvotes, $0
-70. [Remote Stack Overflow Vulnerability (DoS)](https://hackerone.com/reports/181061) to Brave Software - 1 upvotes, $0
-71. [Download of (later executed) .NET installer over insecure channel](https://hackerone.com/reports/272231) to Brave Software - 1 upvotes, $0
-72. [Arbitrary local code execution via DLL hijacking from executable installer](https://hackerone.com/reports/272221) to Brave Software - 1 upvotes, $0
-73. [DOS in browser using window.print() function](https://hackerone.com/reports/176364) to Brave Software - 0 upvotes, $0
-74. [Denial of service(POP UP Recursion) on Brave browser](https://hackerone.com/reports/179248) to Brave Software - 0 upvotes, $0
-75. [Brave allows flash to follow 307 redirects to other origins with arbitrary content-types](https://hackerone.com/reports/449478) to Brave Software - 0 upvotes, $0
-76. [Cross-origin resource sharing misconfiguration (CORS)](https://hackerone.com/reports/954512) to Brave Software - 0 upvotes, $0
+53. [Brave Browser potentially logs the last time a Tor window was used](https://hackerone.com/reports/1024668) to Brave Software - 4 upvotes, $100
+54. [JavaScript URL Issues in the latest version of Brave Browser](https://hackerone.com/reports/176083) to Brave Software - 4 upvotes, $0
+55. [invalid homepage URL causes 'uncaught typeerror' or blank state](https://hackerone.com/reports/177184) to Brave Software - 4 upvotes, $0
+56. [Address bar spoofing in Brave browser via. window close warnings](https://hackerone.com/reports/208834) to Brave Software - 4 upvotes, $0
+57. [Directory Listing on https://promo-services-staging.brave.com](https://hackerone.com/reports/371464) to Brave Software - 4 upvotes, $0
+58. [Link obfuscation bug](https://hackerone.com/reports/669440) to Brave Software - 4 upvotes, $0
+59. [[iOS] URI Obfuscation in iOS application](https://hackerone.com/reports/176159) to Brave Software - 3 upvotes, $0
+60. [Javascript confirm() crashes Brave on PC](https://hackerone.com/reports/176076) to Brave Software - 3 upvotes, $0
+61. [Information disclosure of website](https://hackerone.com/reports/179121) to Brave Software - 3 upvotes, $0
+62. [No user confirmation when an auto-updated extension gets more permissions](https://hackerone.com/reports/199243) to Brave Software - 3 upvotes, $0
+63. [Denial of service attack(window object) on brave browser](https://hackerone.com/reports/176197) to Brave Software - 2 upvotes, $100
+64. [links the user may download can be a malicious files](https://hackerone.com/reports/182557) to Brave Software - 2 upvotes, $0
+65. [Brave payments remembers history even after clearing all browser data.](https://hackerone.com/reports/203088) to Brave Software - 2 upvotes, $0
+66. [Brave: Admin Panel Access](https://hackerone.com/reports/175366) to Brave Software - 2 upvotes, $0
+67. [OPEN REDIRECTION at every 302 HTTP CODE](https://hackerone.com/reports/369447) to Brave Software - 2 upvotes, $0
+68. [Cross domain tracking even with 3rd party cookies disabled.](https://hackerone.com/reports/331428) to Brave Software - 2 upvotes, $0
+69. [Clickjacking or URL Masking ](https://hackerone.com/reports/204198) to Brave Software - 1 upvotes, $0
+70. [homograph-attack (unicode vuln)](https://hackerone.com/reports/221461) to Brave Software - 1 upvotes, $0
+71. [Remote Stack Overflow Vulnerability (DoS)](https://hackerone.com/reports/181061) to Brave Software - 1 upvotes, $0
+72. [Download of (later executed) .NET installer over insecure channel](https://hackerone.com/reports/272231) to Brave Software - 1 upvotes, $0
+73. [Arbitrary local code execution via DLL hijacking from executable installer](https://hackerone.com/reports/272221) to Brave Software - 1 upvotes, $0
+74. [DOS in browser using window.print() function](https://hackerone.com/reports/176364) to Brave Software - 0 upvotes, $0
+75. [Denial of service(POP UP Recursion) on Brave browser](https://hackerone.com/reports/179248) to Brave Software - 0 upvotes, $0
+76. [Brave allows flash to follow 307 redirects to other origins with arbitrary content-types](https://hackerone.com/reports/449478) to Brave Software - 0 upvotes, $0
+77. [Cross-origin resource sharing misconfiguration (CORS)](https://hackerone.com/reports/954512) to Brave Software - 0 upvotes, $0
 
 
 [Back](../README.md)

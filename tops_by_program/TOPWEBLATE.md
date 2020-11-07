@@ -6,9 +6,9 @@ Top reports from Weblate program at HackerOne:
 2. [no captcha for register user and weak question attacker can spam email](https://hackerone.com/reports/236398) to Weblate - 27 upvotes, $0
 3. [HTML injection and information disclosure in support panel](https://hackerone.com/reports/634312) to Weblate - 20 upvotes, $0
 4. [Uploaded XLF files result in External Entity Execution](https://hackerone.com/reports/232614) to Weblate - 15 upvotes, $0
-5. [Password Restriction](https://hackerone.com/reports/229920) to Weblate - 12 upvotes, $0
-6. [Insecure Account Removal #2](https://hackerone.com/reports/229532) to Weblate - 12 upvotes, $0
-7. [Open Github Repo Leaking WEBLATE SECRET KEY](https://hackerone.com/reports/942146) to Weblate - 12 upvotes, $0
+5. [Open Github Repo Leaking WEBLATE SECRET KEY](https://hackerone.com/reports/942146) to Weblate - 13 upvotes, $0
+6. [Password Restriction](https://hackerone.com/reports/229920) to Weblate - 12 upvotes, $0
+7. [Insecure Account Removal #2](https://hackerone.com/reports/229532) to Weblate - 12 upvotes, $0
 8. [DKIM records not present, Email Hijacking is possible.....](https://hackerone.com/reports/253926) to Weblate - 11 upvotes, $0
 9. [flood of comment no rate  limit on commnets \>\>  by using different user agent ](https://hackerone.com/reports/404035) to Weblate - 11 upvotes, $0
 10. [Stored XSS via Create Project (Add new translation project)](https://hackerone.com/reports/610219) to Weblate - 11 upvotes, $0

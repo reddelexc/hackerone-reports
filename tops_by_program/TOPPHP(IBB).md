@@ -3,7 +3,7 @@
 Top reports from PHP (IBB) program at HackerOne:
 
 1. [In correct casting from size_t to int lead to heap overflow in mcrypt_generic](https://hackerone.com/reports/152398) to PHP (IBB) - 81 upvotes, $1000
-2. [Heap Buffer Overflow (READ: 4) in phar_parse_pharfile](https://hackerone.com/reports/477344) to PHP (IBB) - 71 upvotes, $1500
+2. [Heap Buffer Overflow (READ: 4) in phar_parse_pharfile](https://hackerone.com/reports/477344) to PHP (IBB) - 72 upvotes, $1500
 3. [GMP Deserialization Type Confusion Vulnerability [MyBB \<= 1.8.3 RCE Vulnerability]](https://hackerone.com/reports/198734) to PHP (IBB) - 64 upvotes, $1500
 4. [Type Confusion Vulnerability - SOAP / make_http_soap_request()](https://hackerone.com/reports/116773) to PHP (IBB) - 64 upvotes, $1000
 5. [Out-of-bounds read in iconv.c:_php_iconv_mime_decode() due to integer overflow](https://hackerone.com/reports/593229) to PHP (IBB) - 57 upvotes, $1500
@@ -217,42 +217,42 @@ Top reports from PHP (IBB) program at HackerOne:
 213. [An integer overflow bug in php_str_to_str_ex() led arbitrary code execution.](https://hackerone.com/reports/113122) to PHP (IBB) - 1 upvotes, $500
 214. [PHP-FPM fpm_log.c memory leak and buffer overflow](https://hackerone.com/reports/112723) to PHP (IBB) - 1 upvotes, $500
 215. [An integer overflow bug in php_implode() could lead heap overflow, make PHP to crash](https://hackerone.com/reports/113120) to PHP (IBB) - 1 upvotes, $500
-216. [PHP 7.3.3: Heap-use-after-free (READ of size 8) in match_at()](https://hackerone.com/reports/692040) to PHP (IBB) - 1 upvotes, $500
-217. [Use after free vulnerability in unserialize()](https://hackerone.com/reports/55033) to PHP (IBB) - 0 upvotes, $3000
-218. [SPL ArrayObject/SPLObjectStorage Unserialization Type Confusion Vulnerabilities](https://hackerone.com/reports/28445) to PHP (IBB) - 0 upvotes, $2500
-219. [Locale::parseLocale Double Free](https://hackerone.com/reports/35102) to PHP (IBB) - 0 upvotes, $2500
-220. [Free called on unitialized pointer in exif.c](https://hackerone.com/reports/55028) to PHP (IBB) - 0 upvotes, $2500
-221. [SoapClient's __call() type confusion through unserialize()](https://hackerone.com/reports/55030) to PHP (IBB) - 0 upvotes, $2500
-222. [ZIP Integer Overflow leads to writing past heap boundary](https://hackerone.com/reports/73239) to PHP (IBB) - 0 upvotes, $1500
-223. [Integer overflow in ftp_genlist() resulting in heap overflow](https://hackerone.com/reports/73240) to PHP (IBB) - 0 upvotes, $1500
-224. [PHP yaml_parse/yaml_parse_file/yaml_parse_url Double Free](https://hackerone.com/reports/73256) to PHP (IBB) - 0 upvotes, $1500
-225. [SOAP serialize_function_call() type confusion / RCE](https://hackerone.com/reports/104010) to PHP (IBB) - 0 upvotes, $1500
-226. [Uninitialized read in exif_process_IFD_in_MAKERNOTE](https://hackerone.com/reports/516237) to PHP (IBB) - 0 upvotes, $1500
-227. [Uninitialized read in exif_process_IFD_in_TIFF](https://hackerone.com/reports/510336) to PHP (IBB) - 0 upvotes, $1500
-228. [Buffer Over flow when parsing tar/zip/phar in phar_set_inode](https://hackerone.com/reports/73237) to PHP (IBB) - 0 upvotes, $1000
-229. [Buffer Over-read in unserialize when parsing Phar](https://hackerone.com/reports/73238) to PHP (IBB) - 0 upvotes, $1000
-230. [Buffer over-read in exif_read_data with TIFF IFD tag](https://hackerone.com/reports/104007) to PHP (IBB) - 0 upvotes, $1000
-231. [Uninitialized pointer in phar_make_dirstream](https://hackerone.com/reports/104008) to PHP (IBB) - 0 upvotes, $1000
-232. [Dangling pointer in the unserialization of ArrayObject items](https://hackerone.com/reports/104016) to PHP (IBB) - 0 upvotes, $1000
-233. [Arbitrary code execution in str_ireplace function](https://hackerone.com/reports/104017) to PHP (IBB) - 0 upvotes, $1000
-234. [Format string vulnerability in zend_throw_or_error()](https://hackerone.com/reports/106548) to PHP (IBB) - 0 upvotes, $1000
-235. [Use After Free in sortWithSortKeys()](https://hackerone.com/reports/109175) to PHP (IBB) - 0 upvotes, $1000
-236. [str_repeat() sign mismatch based memory corruption](https://hackerone.com/reports/73255) to PHP (IBB) - 0 upvotes, $500
-237. [PHP yaml_parse/yaml_parse_file/yaml_parse_url Unsafe Deserialization](https://hackerone.com/reports/73257) to PHP (IBB) - 0 upvotes, $500
-238. [Null pointer dereference in phar_get_fp_offset()](https://hackerone.com/reports/103990) to PHP (IBB) - 0 upvotes, $500
-239. [Mem out-of-bounds write (segfault) in ZEND_ASSIGN_DIV_SPEC_CV_UNUSED_HANDLER](https://hackerone.com/reports/104004) to PHP (IBB) - 0 upvotes, $500
-240. [null pointer deref (segfault) in zend_eval_const_expr](https://hackerone.com/reports/104005) to PHP (IBB) - 0 upvotes, $500
-241. [Null pointer deref (segfault) in spl_autoload via ob_start](https://hackerone.com/reports/104006) to PHP (IBB) - 0 upvotes, $500
-242. [AddressSanitizer reports a global buffer overflow in mkgmtime() function](https://hackerone.com/reports/104011) to PHP (IBB) - 0 upvotes, $500
-243. [Integer overflow in unserialize() (32-bits only)](https://hackerone.com/reports/104012) to PHP (IBB) - 0 upvotes, $500
-244. [heap buffer overflow in enchant_broker_request_dict()](https://hackerone.com/reports/104013) to PHP (IBB) - 0 upvotes, $500
-245. [curl_setopt_array() type confusion](https://hackerone.com/reports/104015) to PHP (IBB) - 0 upvotes, $500
-246. [Files extracted from archive may be placed outside of destination directory](https://hackerone.com/reports/104019) to PHP (IBB) - 0 upvotes, $500
-247. [invalid pointer free() in phar_tar_process_metadata()](https://hackerone.com/reports/104026) to PHP (IBB) - 0 upvotes, $500
-248. [Memory Corruption in phar_parse_tarfile when entry filename starts with null](https://hackerone.com/reports/104027) to PHP (IBB) - 0 upvotes, $500
-249. [Improved fix for bug #69545 (Integer overflow in ftp_genlist() resulting in heap overflow)](https://hackerone.com/reports/104028) to PHP (IBB) - 0 upvotes, $500
-250. [Stack overflow when decompressing tar archives](https://hackerone.com/reports/114024) to PHP (IBB) - 0 upvotes, $500
-251. [Uninitialized read in gdImageCreateFromXbm](https://hackerone.com/reports/623588) to PHP (IBB) - 0 upvotes, $500
+216. [Uninitialized read in gdImageCreateFromXbm](https://hackerone.com/reports/623588) to PHP (IBB) - 1 upvotes, $500
+217. [PHP 7.3.3: Heap-use-after-free (READ of size 8) in match_at()](https://hackerone.com/reports/692040) to PHP (IBB) - 1 upvotes, $500
+218. [Use after free vulnerability in unserialize()](https://hackerone.com/reports/55033) to PHP (IBB) - 0 upvotes, $3000
+219. [SPL ArrayObject/SPLObjectStorage Unserialization Type Confusion Vulnerabilities](https://hackerone.com/reports/28445) to PHP (IBB) - 0 upvotes, $2500
+220. [Locale::parseLocale Double Free](https://hackerone.com/reports/35102) to PHP (IBB) - 0 upvotes, $2500
+221. [Free called on unitialized pointer in exif.c](https://hackerone.com/reports/55028) to PHP (IBB) - 0 upvotes, $2500
+222. [SoapClient's __call() type confusion through unserialize()](https://hackerone.com/reports/55030) to PHP (IBB) - 0 upvotes, $2500
+223. [ZIP Integer Overflow leads to writing past heap boundary](https://hackerone.com/reports/73239) to PHP (IBB) - 0 upvotes, $1500
+224. [Integer overflow in ftp_genlist() resulting in heap overflow](https://hackerone.com/reports/73240) to PHP (IBB) - 0 upvotes, $1500
+225. [PHP yaml_parse/yaml_parse_file/yaml_parse_url Double Free](https://hackerone.com/reports/73256) to PHP (IBB) - 0 upvotes, $1500
+226. [SOAP serialize_function_call() type confusion / RCE](https://hackerone.com/reports/104010) to PHP (IBB) - 0 upvotes, $1500
+227. [Uninitialized read in exif_process_IFD_in_MAKERNOTE](https://hackerone.com/reports/516237) to PHP (IBB) - 0 upvotes, $1500
+228. [Uninitialized read in exif_process_IFD_in_TIFF](https://hackerone.com/reports/510336) to PHP (IBB) - 0 upvotes, $1500
+229. [Buffer Over flow when parsing tar/zip/phar in phar_set_inode](https://hackerone.com/reports/73237) to PHP (IBB) - 0 upvotes, $1000
+230. [Buffer Over-read in unserialize when parsing Phar](https://hackerone.com/reports/73238) to PHP (IBB) - 0 upvotes, $1000
+231. [Buffer over-read in exif_read_data with TIFF IFD tag](https://hackerone.com/reports/104007) to PHP (IBB) - 0 upvotes, $1000
+232. [Uninitialized pointer in phar_make_dirstream](https://hackerone.com/reports/104008) to PHP (IBB) - 0 upvotes, $1000
+233. [Dangling pointer in the unserialization of ArrayObject items](https://hackerone.com/reports/104016) to PHP (IBB) - 0 upvotes, $1000
+234. [Arbitrary code execution in str_ireplace function](https://hackerone.com/reports/104017) to PHP (IBB) - 0 upvotes, $1000
+235. [Format string vulnerability in zend_throw_or_error()](https://hackerone.com/reports/106548) to PHP (IBB) - 0 upvotes, $1000
+236. [Use After Free in sortWithSortKeys()](https://hackerone.com/reports/109175) to PHP (IBB) - 0 upvotes, $1000
+237. [str_repeat() sign mismatch based memory corruption](https://hackerone.com/reports/73255) to PHP (IBB) - 0 upvotes, $500
+238. [PHP yaml_parse/yaml_parse_file/yaml_parse_url Unsafe Deserialization](https://hackerone.com/reports/73257) to PHP (IBB) - 0 upvotes, $500
+239. [Null pointer dereference in phar_get_fp_offset()](https://hackerone.com/reports/103990) to PHP (IBB) - 0 upvotes, $500
+240. [Mem out-of-bounds write (segfault) in ZEND_ASSIGN_DIV_SPEC_CV_UNUSED_HANDLER](https://hackerone.com/reports/104004) to PHP (IBB) - 0 upvotes, $500
+241. [null pointer deref (segfault) in zend_eval_const_expr](https://hackerone.com/reports/104005) to PHP (IBB) - 0 upvotes, $500
+242. [Null pointer deref (segfault) in spl_autoload via ob_start](https://hackerone.com/reports/104006) to PHP (IBB) - 0 upvotes, $500
+243. [AddressSanitizer reports a global buffer overflow in mkgmtime() function](https://hackerone.com/reports/104011) to PHP (IBB) - 0 upvotes, $500
+244. [Integer overflow in unserialize() (32-bits only)](https://hackerone.com/reports/104012) to PHP (IBB) - 0 upvotes, $500
+245. [heap buffer overflow in enchant_broker_request_dict()](https://hackerone.com/reports/104013) to PHP (IBB) - 0 upvotes, $500
+246. [curl_setopt_array() type confusion](https://hackerone.com/reports/104015) to PHP (IBB) - 0 upvotes, $500
+247. [Files extracted from archive may be placed outside of destination directory](https://hackerone.com/reports/104019) to PHP (IBB) - 0 upvotes, $500
+248. [invalid pointer free() in phar_tar_process_metadata()](https://hackerone.com/reports/104026) to PHP (IBB) - 0 upvotes, $500
+249. [Memory Corruption in phar_parse_tarfile when entry filename starts with null](https://hackerone.com/reports/104027) to PHP (IBB) - 0 upvotes, $500
+250. [Improved fix for bug #69545 (Integer overflow in ftp_genlist() resulting in heap overflow)](https://hackerone.com/reports/104028) to PHP (IBB) - 0 upvotes, $500
+251. [Stack overflow when decompressing tar archives](https://hackerone.com/reports/114024) to PHP (IBB) - 0 upvotes, $500
 
 
 [Back](../README.md)

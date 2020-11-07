@@ -3,14 +3,14 @@
 Top IDOR reports from HackerOne:
 
 1. [IDOR to add secondary users in www.paypal.com/businessmanage/users/api/v1/users](https://hackerone.com/reports/415081) to PayPal - 654 upvotes, $10500
-2. [IDOR allow access to payments data of any user](https://hackerone.com/reports/751577) to NordVPN - 311 upvotes, $1000
+2. [IDOR allow access to payments data of any user](https://hackerone.com/reports/751577) to NordVPN - 312 upvotes, $1000
 3. [idor allows you to delete photos and album from a gallery](https://hackerone.com/reports/380410) to Redtube - 261 upvotes, $1500
-4. [IDOR allows any user to edit others videos](https://hackerone.com/reports/681473) to YouPorn - 235 upvotes, $1500
-5. [Singapore - Account Takeover via IDOR](https://hackerone.com/reports/876300) to Starbucks - 185 upvotes, $6000
-6. [I.D.O.R To Order,Book,Buy,reserve On YELP FOR FREE (UNAUTHORIZED USE OF OTHER USER'S CREDIT CARD)](https://hackerone.com/reports/391092) to Yelp - 170 upvotes, $2500
+4. [IDOR allows any user to edit others videos](https://hackerone.com/reports/681473) to YouPorn - 236 upvotes, $1500
+5. [Singapore - Account Takeover via IDOR](https://hackerone.com/reports/876300) to Starbucks - 186 upvotes, $6000
+6. [I.D.O.R To Order,Book,Buy,reserve On YELP FOR FREE (UNAUTHORIZED USE OF OTHER USER'S CREDIT CARD)](https://hackerone.com/reports/391092) to Yelp - 171 upvotes, $2500
 7. [IDOR in the https://market.semrush.com/](https://hackerone.com/reports/837400) to SEMrush - 150 upvotes, $5000
 8. [[api.pandao.ru] IDOR for order delivery address](https://hackerone.com/reports/723461) to Mail.ru - 117 upvotes, $3000
-9. [IDOR in https://3d.cs.money/](https://hackerone.com/reports/990878) to CS Money - 103 upvotes, $200
+9. [IDOR in https://3d.cs.money/](https://hackerone.com/reports/990878) to CS Money - 104 upvotes, $200
 10. [IDOR and statistics leakage in Orders ](https://hackerone.com/reports/544329) to Twitter - 102 upvotes, $289
 11. [IDOR leading to downloading of any attachment](https://hackerone.com/reports/668439) to BCM Messenger - 99 upvotes, $100
 12. [CRITICAL Insecure Direct Object Reference (I.D.O.R) - Link Other User's Credit Card ](https://hackerone.com/reports/358143) to Yelp - 80 upvotes, $2000
@@ -26,7 +26,7 @@ Top IDOR reports from HackerOne:
 22. [IDOR в списке пользователей по домену в relap.io](https://hackerone.com/reports/739752) to Mail.ru - 35 upvotes, $500
 23. [IDOR в списке пользователей по домену в relap.io](https://hackerone.com/reports/739752) to Mail.ru - 35 upvotes, $500
 24. [IDOR in semrush academy](https://hackerone.com/reports/783708) to SEMrush - 34 upvotes, $505
-25. [IDOR with Geolocation data not stripped from images](https://hackerone.com/reports/906907) to IRCCloud - 33 upvotes, $200
+25. [IDOR with Geolocation data not stripped from images](https://hackerone.com/reports/906907) to IRCCloud - 34 upvotes, $200
 26. [China - IDOR on Reservation Staging/Non Production Site - https://reservation.stg.starbucks.com.cn](https://hackerone.com/reports/715054) to Starbucks - 33 upvotes, $0
 27. [[api.pandao.ru] IDOR позволяет изменять адрес любого пользователя](https://hackerone.com/reports/484339) to Mail.ru - 32 upvotes, $1000
 28. [IDOR - disclosure of private videos - /api_android_v3/getUserVideos](https://hackerone.com/reports/186279) to Pornhub - 29 upvotes, $1500

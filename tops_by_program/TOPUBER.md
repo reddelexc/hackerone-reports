@@ -3,10 +3,10 @@
 Top reports from Uber program at HackerOne:
 
 1. [Sensitive user information disclosure at bonjour.uber.com/marketplace/_rpc via the 'userUuid' parameter](https://hackerone.com/reports/542340) to Uber - 611 upvotes, $6500
-2. [Chained Bugs to Leak Victim's Uber's FB Oauth Token](https://hackerone.com/reports/202781) to Uber - 362 upvotes, $7500
+2. [Chained Bugs to Leak Victim's Uber's FB Oauth Token](https://hackerone.com/reports/202781) to Uber - 363 upvotes, $7500
 3. [Reflected XSS and sensitive data exposure, including payment details, on lioncityrentals.com.sg](https://hackerone.com/reports/340431) to Uber - 353 upvotes, $4000
 4. [Change any Uber user's password through /rt/users/passwordless-signup - Account Takeover (critical)](https://hackerone.com/reports/143717) to Uber - 286 upvotes, $10000
-5. [Stored XSS in developer.uber.com](https://hackerone.com/reports/131450) to Uber - 201 upvotes, $7500
+5. [Stored XSS in developer.uber.com](https://hackerone.com/reports/131450) to Uber - 202 upvotes, $7500
 6. [XSS At "pages.et.uber.com"](https://hackerone.com/reports/156098) to Uber - 191 upvotes, $0
 7. [Authentication bypass on auth.uber.com via subdomain takeover of saostatic.uber.com](https://hackerone.com/reports/219205) to Uber - 157 upvotes, $5000
 8. [Reading Emails in Uber Subdomains](https://hackerone.com/reports/156536) to Uber - 134 upvotes, $10000
@@ -75,8 +75,8 @@ Top reports from Uber program at HackerOne:
 71. [SMS/Call spamming due to truncated phone number](https://hackerone.com/reports/177551) to Uber - 12 upvotes, $500
 72. [Lack of rate limiting on get.uber.com leads to enumeration of promotion codes and estimation of a lower bound on the number of Uber drivers](https://hackerone.com/reports/125200) to Uber - 11 upvotes, $3000
 73. [XSS in ubermovement.com via editable Google Sheets](https://hackerone.com/reports/193799) to Uber - 11 upvotes, $2000
-74. [Server version disclosure](https://hackerone.com/reports/149483) to Uber - 11 upvotes, $0
-75. [Bulk UUID enumeration via invite codes](https://hackerone.com/reports/145150) to Uber - 10 upvotes, $1500
+74. [Bulk UUID enumeration via invite codes](https://hackerone.com/reports/145150) to Uber - 11 upvotes, $1500
+75. [Server version disclosure](https://hackerone.com/reports/149483) to Uber - 11 upvotes, $0
 76. [No rate limiting on https://biz.uber.com/confirm allowed an attacker to join arbitrary business.uber.com accounts](https://hackerone.com/reports/281344) to Uber - 10 upvotes, $750
 77. [Open redirect on rush.uber.com, business.uber.com, and help.uber.com](https://hackerone.com/reports/126070) to Uber - 10 upvotes, $500
 78. [Session not expired When logout [partners.uber.com]](https://hackerone.com/reports/231041) to Uber - 10 upvotes, $0

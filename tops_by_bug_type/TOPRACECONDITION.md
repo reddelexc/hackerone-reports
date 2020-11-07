@@ -9,11 +9,11 @@ Top Race Condition reports from HackerOne:
 5. [Race Condition leads to undeletable group member](https://hackerone.com/reports/604534) to HackerOne - 111 upvotes, $500
 6. [Race Conditions in Popular reports feature.](https://hackerone.com/reports/146845) to HackerOne - 99 upvotes, $500
 7. [Race Condition when following a user](https://hackerone.com/reports/927384) to Staging.every.org - 84 upvotes, $0
-8. [Race Condition : Exploiting the loyalty claim https://xxx.vendhq.com/loyalty/claim/email/xxxxx url and gain x amount of loyalty bonus/cash](https://hackerone.com/reports/331940) to Vend VDP - 79 upvotes, $0
+8. [Race Condition : Exploiting the loyalty claim https://xxx.vendhq.com/loyalty/claim/email/xxxxx url and gain x amount of loyalty bonus/cash](https://hackerone.com/reports/331940) to Vend VDP - 81 upvotes, $0
 9. [Race Condition in Flag Submission](https://hackerone.com/reports/454949) to HackerOne - 66 upvotes, $500
 10. [Race condition leads to duplicate payouts](https://hackerone.com/reports/220445) to HackerOne - 59 upvotes, $750
 11. [Race condition in claiming program credentials ](https://hackerone.com/reports/488985) to HackerOne - 42 upvotes, $500
-12. [Race Conditions in OAuth 2 API implementations](https://hackerone.com/reports/55140) to The Internet - 32 upvotes, $2500
+12. [Race Conditions in OAuth 2 API implementations](https://hackerone.com/reports/55140) to The Internet - 33 upvotes, $2500
 13. [Race Condition in Redeeming Coupons](https://hackerone.com/reports/157996) to Instacart - 31 upvotes, $200
 14. [Race conditions can be used to bypass invitation limit](https://hackerone.com/reports/115007) to Keybase - 29 upvotes, $350
 15. [JSBeautifier BApp: Race condition leads to memory disclosure](https://hackerone.com/reports/187134) to PortSwigger Web Security - 28 upvotes, $0
@@ -24,7 +24,7 @@ Top Race Condition reports from HackerOne:
 20. [Race condition vulnerability on "This Rocks" button.](https://hackerone.com/reports/474021) to Rockstar Games - 17 upvotes, $250
 21. [Race condition in GitLab import, giving access to other people their imports due to filename collision](https://hackerone.com/reports/214028) to GitLab - 17 upvotes, $0
 22. [Register multiple users using one invitation (race condition)](https://hackerone.com/reports/148609) to Keybase - 15 upvotes, $350
-23. [Race condition on the Federalist API endpoints can lead to the Denial of Service attack](https://hackerone.com/reports/249319) to TTS Bug Bounty - 14 upvotes, $150
+23. [Race condition on the Federalist API endpoints can lead to the Denial of Service attack](https://hackerone.com/reports/249319) to TTS Bug Bounty - 15 upvotes, $150
 24. [Race condition при покупке подарков на games.mail.ru](https://hackerone.com/reports/685432) to Mail.ru - 14 upvotes, $0
 25. [race condition in adding team members](https://hackerone.com/reports/176127) to Shopify - 12 upvotes, $500
 26. [Issue in the implementation of captcha and race condition](https://hackerone.com/reports/67562) to VK.com - 12 upvotes, $100
@@ -41,6 +41,7 @@ Top Race Condition reports from HackerOne:
 37. [Race Conditions Exist When Accepting Invitations](https://hackerone.com/reports/119354) to HackerOne - 4 upvotes, $0
 38. [Race condition in workers may cause an exploitable double free by abusing bytearray.compress()  ](https://hackerone.com/reports/47227) to Flash (IBB) - 1 upvotes, $10000
 39. [Adobe Flash Player Race Condition Vulnerability](https://hackerone.com/reports/119657) to Flash (IBB) - 1 upvotes, $2000
+40. [Data race conditions reported by helgrind when performing parallel DNS queries in libcurl](https://hackerone.com/reports/1019457) to curl - 0 upvotes, $0
 
 
 [Back](../README.md)
