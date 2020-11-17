@@ -2,8 +2,8 @@
 
 Top reports from Starbucks program at HackerOne:
 
-1. [SQL Injection Extracts Starbucks Enterprise Accounting, Financial, Payroll Database](https://hackerone.com/reports/531051) to Starbucks - 704 upvotes, $4000
-2. [JumpCloud API Key leaked via Open Github Repository.](https://hackerone.com/reports/716292) to Starbucks - 697 upvotes, $4000
+1. [SQL Injection Extracts Starbucks Enterprise Accounting, Financial, Payroll Database](https://hackerone.com/reports/531051) to Starbucks - 705 upvotes, $4000
+2. [JumpCloud API Key leaked via Open Github Repository.](https://hackerone.com/reports/716292) to Starbucks - 698 upvotes, $4000
 3. [Webshell via File Upload on ecjobs.starbucks.com.cn](https://hackerone.com/reports/506646) to Starbucks - 655 upvotes, $4000
 4. [RCE and Complete Server Takeover of http://www.█████.starbucks.com.sg/](https://hackerone.com/reports/502758) to Starbucks - 506 upvotes, $4000
 5. [XXE at ecjobs.starbucks.com.cn/retail/hxpublic_v6/hxdynamicpage6.aspx](https://hackerone.com/reports/500515) to Starbucks - 299 upvotes, $4000
@@ -12,7 +12,7 @@ Top reports from Starbucks program at HackerOne:
 8. [Misuse of an authentication cookie combined with a path traversal on app.starbucks.com permitted access to restricted data](https://hackerone.com/reports/876295) to Starbucks - 208 upvotes, $4000
 9. [Blind SQL Injection on starbucks.com.gt and WAF Bypass  :*](https://hackerone.com/reports/549355) to Starbucks - 195 upvotes, $500
 10. [sdrc.starbucks.com - Information Disclosure via unsecured attachment directory](https://hackerone.com/reports/769016) to Starbucks - 191 upvotes, $4000
-11. [Singapore - Account Takeover via IDOR](https://hackerone.com/reports/876300) to Starbucks - 186 upvotes, $6000
+11. [Singapore - Account Takeover via IDOR](https://hackerone.com/reports/876300) to Starbucks - 187 upvotes, $6000
 12. [Reflected Cross site Scripting (XSS) on www.starbucks.com](https://hackerone.com/reports/438240) to Starbucks - 159 upvotes, $375
 13. [Bug in GraphQL and API integration leads to limited user address disclosure](https://hackerone.com/reports/473742) to Starbucks - 134 upvotes, $1000
 14. [Subdomain takeover of d02-1-ag.productioncontroller.starbucks.com](https://hackerone.com/reports/661751) to Starbucks - 117 upvotes, $2000

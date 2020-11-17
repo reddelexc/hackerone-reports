@@ -3,8 +3,8 @@
 Top reports from Node.js third-party modules program at HackerOne:
 
 1. [[http_server] Stored XSS in the filename when directories listing](https://hackerone.com/reports/578138) to Node.js third-party modules - 60 upvotes, $0
-2. [property-expr - Prototype pollution](https://hackerone.com/reports/910206) to Node.js third-party modules - 33 upvotes, $0
-3. [Server-Side Request Forgery (SSRF) in Ghost CMS ](https://hackerone.com/reports/793704) to Node.js third-party modules - 32 upvotes, $0
+2. [Server-Side Request Forgery (SSRF) in Ghost CMS ](https://hackerone.com/reports/793704) to Node.js third-party modules - 33 upvotes, $0
+3. [property-expr - Prototype pollution](https://hackerone.com/reports/910206) to Node.js third-party modules - 33 upvotes, $0
 4. [Fastify denial-of-service vulnerability with large JSON payloads](https://hackerone.com/reports/303632) to Node.js third-party modules - 25 upvotes, $500
 5. [Fastify denial-of-service vulnerability with large JSON payloads](https://hackerone.com/reports/303632) to Node.js third-party modules - 25 upvotes, $500
 6. [Pixel flood attack cause the javascript heap out of memory](https://hackerone.com/reports/842462) to Node.js third-party modules - 24 upvotes, $0
@@ -279,22 +279,23 @@ Top reports from Node.js third-party modules program at HackerOne:
 275. [ [ts-dot-prop] Prototype Pollution](https://hackerone.com/reports/980599) to Node.js third-party modules - 1 upvotes, $0
 276. [[expressjs-ip-control] Whitelist IP bypass leads to authorization bypass and sensitive info disclosure](https://hackerone.com/reports/693788) to Node.js third-party modules - 1 upvotes, $0
 277. [[zenn-cli] Path traversal on Windows allows the attacker to read arbitrary .md files](https://hackerone.com/reports/993975) to Node.js third-party modules - 1 upvotes, $0
-278. [npm packages that overlap with core node packages](https://hackerone.com/reports/333459) to Node.js third-party modules - 0 upvotes, $0
-279. [Media parsing in canvas is at least vulnerable to Denial of Service through multiple vulnerabilities](https://hackerone.com/reports/315037) to Node.js third-party modules - 0 upvotes, $0
-280. [Arbitrary file overwrites in `node-tar`](https://hackerone.com/reports/344595) to Node.js third-party modules - 0 upvotes, $0
-281. [Command Injection vulnerability in kill-port-process package](https://hackerone.com/reports/661959) to Node.js third-party modules - 0 upvotes, $0
-282. [[listening-processes] Command Injection](https://hackerone.com/reports/511459) to Node.js third-party modules - 0 upvotes, $0
-283. [Crash Node.js process from handlebars using a small and simple source](https://hackerone.com/reports/726364) to Node.js third-party modules - 0 upvotes, $0
-284. [[xps] Command Injection via insecure command concatenation](https://hackerone.com/reports/865168) to Node.js third-party modules - 0 upvotes, $0
-285. [[vboxmanage.js] Command Injection via insecure command concatenation](https://hackerone.com/reports/864777) to Node.js third-party modules - 0 upvotes, $0
-286. [[object-path-set] Prototype pollution](https://hackerone.com/reports/878332) to Node.js third-party modules - 0 upvotes, $0
-287. [[extra-ffmpeg] Command Injection via insecure command formatting](https://hackerone.com/reports/863944) to Node.js third-party modules - 0 upvotes, $0
-288. [[supermixer] Prototype pollution](https://hackerone.com/reports/959987) to Node.js third-party modules - 0 upvotes, $0
-289. [[extra-asciinema] Command Injection via insecure command formatting](https://hackerone.com/reports/863956) to Node.js third-party modules - 0 upvotes, $0
-290. [[objtools] Prototype pollution](https://hackerone.com/reports/878394) to Node.js third-party modules - 0 upvotes, $0
-291. [[flsaba] Stored XSS in the file and directory name when directories listing](https://hackerone.com/reports/856588) to Node.js third-party modules - 0 upvotes, $0
-292. [[commit-msg] RCE via insecure command formatting](https://hackerone.com/reports/885031) to Node.js third-party modules - 0 upvotes, $0
-293. [[tianma-static] Security issue with XSS.](https://hackerone.com/reports/606526) to Node.js third-party modules - 0 upvotes, $0
+278. [[node-downloader-helper] Path traversal via Content-Disposition header](https://hackerone.com/reports/772509) to Node.js third-party modules - 1 upvotes, $0
+279. [npm packages that overlap with core node packages](https://hackerone.com/reports/333459) to Node.js third-party modules - 0 upvotes, $0
+280. [Media parsing in canvas is at least vulnerable to Denial of Service through multiple vulnerabilities](https://hackerone.com/reports/315037) to Node.js third-party modules - 0 upvotes, $0
+281. [Arbitrary file overwrites in `node-tar`](https://hackerone.com/reports/344595) to Node.js third-party modules - 0 upvotes, $0
+282. [Command Injection vulnerability in kill-port-process package](https://hackerone.com/reports/661959) to Node.js third-party modules - 0 upvotes, $0
+283. [[listening-processes] Command Injection](https://hackerone.com/reports/511459) to Node.js third-party modules - 0 upvotes, $0
+284. [Crash Node.js process from handlebars using a small and simple source](https://hackerone.com/reports/726364) to Node.js third-party modules - 0 upvotes, $0
+285. [[xps] Command Injection via insecure command concatenation](https://hackerone.com/reports/865168) to Node.js third-party modules - 0 upvotes, $0
+286. [[vboxmanage.js] Command Injection via insecure command concatenation](https://hackerone.com/reports/864777) to Node.js third-party modules - 0 upvotes, $0
+287. [[object-path-set] Prototype pollution](https://hackerone.com/reports/878332) to Node.js third-party modules - 0 upvotes, $0
+288. [[extra-ffmpeg] Command Injection via insecure command formatting](https://hackerone.com/reports/863944) to Node.js third-party modules - 0 upvotes, $0
+289. [[supermixer] Prototype pollution](https://hackerone.com/reports/959987) to Node.js third-party modules - 0 upvotes, $0
+290. [[extra-asciinema] Command Injection via insecure command formatting](https://hackerone.com/reports/863956) to Node.js third-party modules - 0 upvotes, $0
+291. [[objtools] Prototype pollution](https://hackerone.com/reports/878394) to Node.js third-party modules - 0 upvotes, $0
+292. [[flsaba] Stored XSS in the file and directory name when directories listing](https://hackerone.com/reports/856588) to Node.js third-party modules - 0 upvotes, $0
+293. [[commit-msg] RCE via insecure command formatting](https://hackerone.com/reports/885031) to Node.js third-party modules - 0 upvotes, $0
+294. [[tianma-static] Security issue with XSS.](https://hackerone.com/reports/606526) to Node.js third-party modules - 0 upvotes, $0
 
 
 [Back](../README.md)

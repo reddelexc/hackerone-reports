@@ -19,9 +19,9 @@ Top OAuth reports from HackerOne:
 15. [Ability to bypass social OAuth and take over any account [d2c-api]](https://hackerone.com/reports/729960) to Genasys Technologies - 40 upvotes, $0
 16. [Oauth flow on the comments widget login can lead to the access code leakage](https://hackerone.com/reports/292783) to Ed - 38 upvotes, $0
 17. [Smuggle SocialClub's Facebook OAuth Code via Referer Leakage](https://hackerone.com/reports/342709) to Rockstar Games - 35 upvotes, $750
-18. [Gitlab Oauth Misconfiguration Lead To Account Takeover ](https://hackerone.com/reports/541701) to Vercel - 35 upvotes, $0
-19. [Twitter iOS fails to validate server certificate and sends oauth token](https://hackerone.com/reports/168538) to Twitter - 34 upvotes, $2100
-20. [Broken OAuth leads to change photo profile users .](https://hackerone.com/reports/642475) to Dropbox - 34 upvotes, $512
+18. [Broken OAuth leads to change photo profile users .](https://hackerone.com/reports/642475) to Dropbox - 35 upvotes, $512
+19. [Gitlab Oauth Misconfiguration Lead To Account Takeover ](https://hackerone.com/reports/541701) to Vercel - 35 upvotes, $0
+20. [Twitter iOS fails to validate server certificate and sends oauth token](https://hackerone.com/reports/168538) to Twitter - 34 upvotes, $2100
 21. [Stealing Users OAUTH Tokens via redirect_uri ](https://hackerone.com/reports/405100) to BOHEMIA INTERACTIVE a.s. - 34 upvotes, $0
 22. [Race Conditions in OAuth 2 API implementations](https://hackerone.com/reports/55140) to The Internet - 33 upvotes, $2500
 23. [Open Redirect on Gitllab Oauth leading to Acount Takeover](https://hackerone.com/reports/677617) to Vercel - 33 upvotes, $0

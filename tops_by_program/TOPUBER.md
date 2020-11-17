@@ -4,11 +4,11 @@ Top reports from Uber program at HackerOne:
 
 1. [Sensitive user information disclosure at bonjour.uber.com/marketplace/_rpc via the 'userUuid' parameter](https://hackerone.com/reports/542340) to Uber - 611 upvotes, $6500
 2. [Chained Bugs to Leak Victim's Uber's FB Oauth Token](https://hackerone.com/reports/202781) to Uber - 363 upvotes, $7500
-3. [Reflected XSS and sensitive data exposure, including payment details, on lioncityrentals.com.sg](https://hackerone.com/reports/340431) to Uber - 353 upvotes, $4000
+3. [Reflected XSS and sensitive data exposure, including payment details, on lioncityrentals.com.sg](https://hackerone.com/reports/340431) to Uber - 354 upvotes, $4000
 4. [Change any Uber user's password through /rt/users/passwordless-signup - Account Takeover (critical)](https://hackerone.com/reports/143717) to Uber - 286 upvotes, $10000
 5. [Stored XSS in developer.uber.com](https://hackerone.com/reports/131450) to Uber - 202 upvotes, $7500
 6. [XSS At "pages.et.uber.com"](https://hackerone.com/reports/156098) to Uber - 191 upvotes, $0
-7. [Authentication bypass on auth.uber.com via subdomain takeover of saostatic.uber.com](https://hackerone.com/reports/219205) to Uber - 157 upvotes, $5000
+7. [Authentication bypass on auth.uber.com via subdomain takeover of saostatic.uber.com](https://hackerone.com/reports/219205) to Uber - 158 upvotes, $5000
 8. [Reading Emails in Uber Subdomains](https://hackerone.com/reports/156536) to Uber - 134 upvotes, $10000
 9. [Open Redirect on central.uber.com allows for account takeover](https://hackerone.com/reports/206591) to Uber - 114 upvotes, $8000
 10. [Client secret, server tokens for developer applications returned by internal API](https://hackerone.com/reports/419655) to Uber - 112 upvotes, $5000
@@ -17,7 +17,7 @@ Top reports from Uber program at HackerOne:
 13. [password reset token leaking allowed for ATO of an Uber account](https://hackerone.com/reports/173551) to Uber - 85 upvotes, $10000
 14. [SAML Authentication Bypass on uchat.uberinternal.com](https://hackerone.com/reports/223014) to Uber - 80 upvotes, $8500
 15. [Possibility to get private email using UUID](https://hackerone.com/reports/127158) to Uber - 80 upvotes, $5000
-16. [[CRITICAL] -- Complete Account Takeover](https://hackerone.com/reports/136885) to Uber - 76 upvotes, $8000
+16. [[CRITICAL] -- Complete Account Takeover](https://hackerone.com/reports/136885) to Uber - 77 upvotes, $8000
 17. [Subdomain takeover at signup.uber.com](https://hackerone.com/reports/197489) to Uber - 75 upvotes, $3000
 18. [SQL Injection on sctrack.email.uber.com.cn](https://hackerone.com/reports/150156) to Uber - 74 upvotes, $4000
 19. [Lack of proper paymentProfileUUID validation allows any number of free rides without any outstanding balance](https://hackerone.com/reports/574638) to Uber - 73 upvotes, $1500

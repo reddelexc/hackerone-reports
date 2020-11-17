@@ -20,8 +20,8 @@ Top reports from LocalTapiola program at HackerOne:
 16. [Reflected XSS+CSRF on secure.lahitapiola.fi](https://hackerone.com/reports/314518) to LocalTapiola - 22 upvotes, $750
 17. [Malicious file upload (secure.lahitapiola.fi)](https://hackerone.com/reports/305237) to LocalTapiola - 21 upvotes, $600
 18. [Wordpress Users Disclosure (/wp-json/wp/v2/users/)](https://hackerone.com/reports/356047) to LocalTapiola - 20 upvotes, $50
-19. [SQL Injection in lapsuudenturva (viestinta.lahitapiola.fi)](https://hackerone.com/reports/191146) to LocalTapiola - 18 upvotes, $1350
-20. [xmlrpc.php FILE IS enable it will used for bruteforce attack and denial of service](https://hackerone.com/reports/325040) to LocalTapiola - 18 upvotes, $315
+19. [xmlrpc.php FILE IS enable it will used for bruteforce attack and denial of service](https://hackerone.com/reports/325040) to LocalTapiola - 19 upvotes, $315
+20. [SQL Injection in lapsuudenturva (viestinta.lahitapiola.fi)](https://hackerone.com/reports/191146) to LocalTapiola - 18 upvotes, $1350
 21. [F5 BIG-IP Cookie Remote Information Disclosure](https://hackerone.com/reports/330716) to LocalTapiola - 18 upvotes, $50
 22. [SQL Injection on /webApp/sijoitustalousuk email-parameter + potential lack of CSRF Token (viestinta.lahitapiola.fi)](https://hackerone.com/reports/191601) to LocalTapiola - 17 upvotes, $1350
 23. [Error Page Content Spoofing or Text Injection (viestinta.lahitapiola.fi)](https://hackerone.com/reports/181594) to LocalTapiola - 16 upvotes, $100

@@ -18,18 +18,18 @@ Top Clickjacking reports from HackerOne:
 14. [Clickjacking In jobs.wordpress.net](https://hackerone.com/reports/223024) to WordPress - 15 upvotes, $0
 15. [Make user buy items via clickjacking possibility](https://hackerone.com/reports/471967) to Mail.ru - 14 upvotes, $200
 16. [Clickjacking in [exchangemarketplace.com]](https://hackerone.com/reports/658217) to Shopify - 14 upvotes, $0
-17. [Modifying application settings via clickjacking on o2.mail.ru](https://hackerone.com/reports/355774) to Mail.ru - 13 upvotes, $150
-18. [Clickjacking Vulnerability found on Yelp](https://hackerone.com/reports/214087) to Yelp - 13 upvotes, $100
-19. [Clickjacking wordcamp.org](https://hackerone.com/reports/230581) to WordPress - 13 upvotes, $0
-20. [Clickjacking on cas.acronis.com login page](https://hackerone.com/reports/971234) to Acronis - 13 upvotes, $0
+17. [Clickjacking on cas.acronis.com login page](https://hackerone.com/reports/971234) to Acronis - 14 upvotes, $0
+18. [Modifying application settings via clickjacking on o2.mail.ru](https://hackerone.com/reports/355774) to Mail.ru - 13 upvotes, $150
+19. [Clickjacking Vulnerability found on Yelp](https://hackerone.com/reports/214087) to Yelp - 13 upvotes, $100
+20. [Clickjacking wordcamp.org](https://hackerone.com/reports/230581) to WordPress - 13 upvotes, $0
 21. [Modify account details by exploiting clickjacking vulnerability on refer.wordpress.com](https://hackerone.com/reports/765355) to Automattic - 12 upvotes, $75
 22. [Clickjacking on Mixmax.com](https://hackerone.com/reports/234713) to Mixmax - 12 upvotes, $0
 23. [Clickjacking on https://www.goodhire.com/api](https://hackerone.com/reports/298028) to Inflection - 12 upvotes, $0
 24. [URL is vulnerable to clickjacking](https://hackerone.com/reports/712376) to MyCrypto - 12 upvotes, $0
 25. [Single Sing On - Clickjacking](https://hackerone.com/reports/299009) to SEMrush - 11 upvotes, $150
 26. [AWS S3 website can't serve security headers, may allow clickjacking](https://hackerone.com/reports/149572) to Legal Robot - 11 upvotes, $40
-27. [Clickjacking Periscope.tv on Chrome](https://hackerone.com/reports/198622) to Twitter - 10 upvotes, $560
-28. [Clickjacking mercantile.wordpress.org](https://hackerone.com/reports/264125) to WordPress - 10 upvotes, $0
+27. [Clickjacking mercantile.wordpress.org](https://hackerone.com/reports/264125) to WordPress - 11 upvotes, $0
+28. [Clickjacking Periscope.tv on Chrome](https://hackerone.com/reports/198622) to Twitter - 10 upvotes, $560
 29. [clickjacking в /lead_forms_app.php](https://hackerone.com/reports/294334) to VK.com - 10 upvotes, $0
 30. [Certificate warnings and similar UI elements in Web protection of Anti-Virus products family are susceptible to clickjacking](https://hackerone.com/reports/463695) to Kaspersky - 10 upvotes, $0
 31. [Following links are vulnerable to clickjacking](https://hackerone.com/reports/289246) to SEMrush - 9 upvotes, $150
