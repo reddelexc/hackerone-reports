@@ -40,27 +40,27 @@ Top reports from Verizon Media program at HackerOne:
 36. [Cross-origin issue on rmaiauth.ads.vip.bf1.yahoo.com](https://hackerone.com/reports/6268) to Verizon Media - 1 upvotes, $250
 37. [XSS in Yahoo! Web Analytics](https://hackerone.com/reports/5442) to Verizon Media - 1 upvotes, $100
 38. [ClickJacking on http://au.launch.yahoo.com](https://hackerone.com/reports/1229) to Verizon Media - 1 upvotes, $0
-39. [Yahoo YQL Injection? ](https://hackerone.com/reports/1407) to Verizon Media - 1 upvotes, $0
-40. [Yahoo open redirect using ad](https://hackerone.com/reports/2322) to Verizon Media - 1 upvotes, $0
-41. [In Fantasy Sports iOS app, signup page is requested over HTTP](https://hackerone.com/reports/2101) to Verizon Media - 1 upvotes, $0
-42. [Open Redirect via Request-URI](https://hackerone.com/reports/15298) to Verizon Media - 1 upvotes, $0
-43. [XSS using yql and developers console proxy](https://hackerone.com/reports/1011) to Verizon Media - 1 upvotes, $0
-44. [XSS Reflected - Yahoo Travel](https://hackerone.com/reports/1553) to Verizon Media - 1 upvotes, $0
-45. [Yahoo mail login page bruteforce protection bypass](https://hackerone.com/reports/2596) to Verizon Media - 1 upvotes, $0
-46. [Authentication bypass at fast.corp.yahoo.com](https://hackerone.com/reports/3577) to Verizon Media - 1 upvotes, $0
-47. [Stored Cross Site Scripting Vulnerability in Yahoo Mail](https://hackerone.com/reports/4277) to Verizon Media - 1 upvotes, $0
-48. [Almost all the subdomains are infected.](https://hackerone.com/reports/4359) to Verizon Media - 1 upvotes, $0
-49. [Yahoo! Messenger v11.5.0.228 emoticons.xml shortcut Value Handling Stack-Based Buffer Overflow](https://hackerone.com/reports/10767) to Verizon Media - 1 upvotes, $0
-50. [Open Proxy, http://www.smushit.com/ysmush.it/, 4/09/14, #SpringClean](https://hackerone.com/reports/6704) to Verizon Media - 0 upvotes, $2000
-51. [XSS on Every sports.yahoo.com page](https://hackerone.com/reports/2168) to Verizon Media - 0 upvotes, $1500
-52. [CSRF Token missing on  http://baseball.fantasysports.yahoo.com/b1/127146/messages](https://hackerone.com/reports/6700) to Verizon Media - 0 upvotes, $400
-53. [Yahoo! Reflected XSS](https://hackerone.com/reports/18279) to Verizon Media - 0 upvotes, $250
-54. [Infrastructure and Application Admin Interfaces (OWASP‐CM‐007)](https://hackerone.com/reports/11414) to Verizon Media - 0 upvotes, $250
-55. [Yahoo Sports Fantasy Golf (Join Public Group)](https://hackerone.com/reports/16414) to Verizon Media - 0 upvotes, $200
-56. [CSRF Token is missing on DELETE message option on  http://baseball.fantasysports.yahoo.com/b1/127146/messages](https://hackerone.com/reports/6702) to Verizon Media - 0 upvotes, $200
-57. [Testing for user enumeration (OWASP‐AT‐002) - https://gh.bouncer.login.yahoo.com](https://hackerone.com/reports/12708) to Verizon Media - 0 upvotes, $100
-58. [Authorization issue on creative.yahoo.com](https://hackerone.com/reports/12685) to Verizon Media - 0 upvotes, $50
-59. [Directory Traversal ](https://hackerone.com/reports/1092) to Verizon Media - 0 upvotes, $0
+39. [Directory Traversal ](https://hackerone.com/reports/1092) to Verizon Media - 1 upvotes, $0
+40. [Yahoo YQL Injection? ](https://hackerone.com/reports/1407) to Verizon Media - 1 upvotes, $0
+41. [Yahoo open redirect using ad](https://hackerone.com/reports/2322) to Verizon Media - 1 upvotes, $0
+42. [In Fantasy Sports iOS app, signup page is requested over HTTP](https://hackerone.com/reports/2101) to Verizon Media - 1 upvotes, $0
+43. [Open Redirect via Request-URI](https://hackerone.com/reports/15298) to Verizon Media - 1 upvotes, $0
+44. [XSS using yql and developers console proxy](https://hackerone.com/reports/1011) to Verizon Media - 1 upvotes, $0
+45. [XSS Reflected - Yahoo Travel](https://hackerone.com/reports/1553) to Verizon Media - 1 upvotes, $0
+46. [Yahoo mail login page bruteforce protection bypass](https://hackerone.com/reports/2596) to Verizon Media - 1 upvotes, $0
+47. [Authentication bypass at fast.corp.yahoo.com](https://hackerone.com/reports/3577) to Verizon Media - 1 upvotes, $0
+48. [Stored Cross Site Scripting Vulnerability in Yahoo Mail](https://hackerone.com/reports/4277) to Verizon Media - 1 upvotes, $0
+49. [Almost all the subdomains are infected.](https://hackerone.com/reports/4359) to Verizon Media - 1 upvotes, $0
+50. [Yahoo! Messenger v11.5.0.228 emoticons.xml shortcut Value Handling Stack-Based Buffer Overflow](https://hackerone.com/reports/10767) to Verizon Media - 1 upvotes, $0
+51. [Open Proxy, http://www.smushit.com/ysmush.it/, 4/09/14, #SpringClean](https://hackerone.com/reports/6704) to Verizon Media - 0 upvotes, $2000
+52. [XSS on Every sports.yahoo.com page](https://hackerone.com/reports/2168) to Verizon Media - 0 upvotes, $1500
+53. [CSRF Token missing on  http://baseball.fantasysports.yahoo.com/b1/127146/messages](https://hackerone.com/reports/6700) to Verizon Media - 0 upvotes, $400
+54. [Yahoo! Reflected XSS](https://hackerone.com/reports/18279) to Verizon Media - 0 upvotes, $250
+55. [Infrastructure and Application Admin Interfaces (OWASP‐CM‐007)](https://hackerone.com/reports/11414) to Verizon Media - 0 upvotes, $250
+56. [Yahoo Sports Fantasy Golf (Join Public Group)](https://hackerone.com/reports/16414) to Verizon Media - 0 upvotes, $200
+57. [CSRF Token is missing on DELETE message option on  http://baseball.fantasysports.yahoo.com/b1/127146/messages](https://hackerone.com/reports/6702) to Verizon Media - 0 upvotes, $200
+58. [Testing for user enumeration (OWASP‐AT‐002) - https://gh.bouncer.login.yahoo.com](https://hackerone.com/reports/12708) to Verizon Media - 0 upvotes, $100
+59. [Authorization issue on creative.yahoo.com](https://hackerone.com/reports/12685) to Verizon Media - 0 upvotes, $50
 60. [Vulnerability found, XSS (Cross site Scripting)](https://hackerone.com/reports/1258) to Verizon Media - 0 upvotes, $0
 61. [HTML Code Injection ](https://hackerone.com/reports/1376) to Verizon Media - 0 upvotes, $0
 62. [Open redirect on tw.money.yahoo.com](https://hackerone.com/reports/4570) to Verizon Media - 0 upvotes, $0

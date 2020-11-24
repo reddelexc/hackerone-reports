@@ -2,7 +2,7 @@
 
 Top reports from QIWI program at HackerOne:
 
-1. [SQL injection on contactws.contact-sys.com in TScenObject action ScenObjects leads to remote code execution](https://hackerone.com/reports/816254) to QIWI - 435 upvotes, $5500
+1. [SQL injection on contactws.contact-sys.com in TScenObject action ScenObjects leads to remote code execution](https://hackerone.com/reports/816254) to QIWI - 436 upvotes, $5500
 2. [Remote Code Execution on contactws.contact-sys.com via SQL injection in TCertObject operation "Delete"](https://hackerone.com/reports/816086) to QIWI - 182 upvotes, $1000
 3. [SQL injection on contactws.contact-sys.com in TRateObject.AddForOffice in USER_ID parameter leads to remote code execution](https://hackerone.com/reports/816560) to QIWI - 106 upvotes, $1000
 4. [account takeover https://qiwi.me ](https://hackerone.com/reports/685304) to QIWI - 105 upvotes, $750
@@ -14,12 +14,12 @@ Top reports from QIWI program at HackerOne:
 10. [account takeover https://teamplay.qiwi.com](https://hackerone.com/reports/439207) to QIWI - 40 upvotes, $500
 11. [XML External Entity (XXE) in qiwi.com + waf bypass](https://hackerone.com/reports/99279) to QIWI - 39 upvotes, $3137
 12. [apache access.log leakage via long request on https://rapida.ru/](https://hackerone.com/reports/280912) to QIWI - 38 upvotes, $100
-13. [[p2p.qiwi.com] nginx alias traversal](https://hackerone.com/reports/455858) to QIWI - 34 upvotes, $150
-14. [Обход комиссии при оплате картой](https://hackerone.com/reports/654851) to QIWI - 32 upvotes, $1000
-15. [[lk.contact-sys.com] SQL Injection reset_password FP_LK_USER_LOGIN](https://hackerone.com/reports/164684) to QIWI - 32 upvotes, $300
-16. [XSS https://agent.postamat.tech/ в профиле + дисклоз секретной информации](https://hackerone.com/reports/365093) to QIWI - 30 upvotes, $200
-17. [[qiwi.com] XSS on payment form](https://hackerone.com/reports/263684) to QIWI - 28 upvotes, $550
-18. [[qiwi.me] Stored XSS](https://hackerone.com/reports/736236) to QIWI - 26 upvotes, $500
+13. [[qiwi.me] Stored XSS](https://hackerone.com/reports/736236) to QIWI - 35 upvotes, $500
+14. [[p2p.qiwi.com] nginx alias traversal](https://hackerone.com/reports/455858) to QIWI - 34 upvotes, $150
+15. [Обход комиссии при оплате картой](https://hackerone.com/reports/654851) to QIWI - 32 upvotes, $1000
+16. [[lk.contact-sys.com] SQL Injection reset_password FP_LK_USER_LOGIN](https://hackerone.com/reports/164684) to QIWI - 32 upvotes, $300
+17. [XSS https://agent.postamat.tech/ в профиле + дисклоз секретной информации](https://hackerone.com/reports/365093) to QIWI - 30 upvotes, $200
+18. [[qiwi.com] XSS on payment form](https://hackerone.com/reports/263684) to QIWI - 28 upvotes, $550
 19. [Обход комиссии на переводы](https://hackerone.com/reports/691766) to QIWI - 21 upvotes, $1000
 20. [[lk.contact-sys.com] LKlang Path Traversal](https://hackerone.com/reports/164933) to QIWI - 21 upvotes, $150
 21. [[contact-sys.com] XSS /ajax/transfer/status trn param](https://hackerone.com/reports/164704) to QIWI - 21 upvotes, $100
@@ -32,19 +32,19 @@ Top reports from QIWI program at HackerOne:
 28. [[wallet.rapida.ru] XSS Cookie flashcookie](https://hackerone.com/reports/164662) to QIWI - 16 upvotes, $100
 29. [Information disclosure on https://paycard.rapida.ru](https://hackerone.com/reports/299552) to QIWI - 15 upvotes, $100
 30. [[sms.qiwi.ru] XSS via Request-URI](https://hackerone.com/reports/38345) to QIWI - 15 upvotes, $100
-31. [[ibank.qiwi.ru] XSS via Request-URI](https://hackerone.com/reports/164152) to QIWI - 14 upvotes, $150
-32. [https://fundl.qiwi.com CSRF на подтверждении sms ](https://hackerone.com/reports/301718) to QIWI - 14 upvotes, $100
-33. [[contact-sys.com] XSS via Request-URI](https://hackerone.com/reports/164656) to QIWI - 14 upvotes, $100
-34. [IDOR редактирование любого вишлиста](https://hackerone.com/reports/736065) to QIWI - 13 upvotes, $500
-35. [Imformation Disclosure on id.rapida.ru](https://hackerone.com/reports/318571) to QIWI - 13 upvotes, $100
-36. [[qiwi.com] Information Disclosure](https://hackerone.com/reports/164168) to QIWI - 12 upvotes, $150
-37. [[XSS/pay.qiwi.com] Pay SubDomain Hard-Use XSS](https://hackerone.com/reports/198251) to QIWI - 12 upvotes, $150
-38. [Nickname disclosure through web-chat](https://hackerone.com/reports/569350) to QIWI - 12 upvotes, $150
-39. [[vitrina.contact-sys.com] Full Path Disclosure](https://hackerone.com/reports/178284) to QIWI - 12 upvotes, $100
-40. [[qiwi.me] No limits on image download requests](https://hackerone.com/reports/227806) to QIWI - 12 upvotes, $100
-41. [Каким-то образом получил чужой платеж к себе на копилку https://qiwi.me/undefined](https://hackerone.com/reports/487296) to QIWI - 12 upvotes, $50
-42. [hard-use account takeover qiwi.com](https://hackerone.com/reports/691698) to QIWI - 11 upvotes, $300
-43. [Слив какого-то access токена](https://hackerone.com/reports/735971) to QIWI - 11 upvotes, $200
+31. [IDOR редактирование любого вишлиста](https://hackerone.com/reports/736065) to QIWI - 14 upvotes, $500
+32. [[ibank.qiwi.ru] XSS via Request-URI](https://hackerone.com/reports/164152) to QIWI - 14 upvotes, $150
+33. [https://fundl.qiwi.com CSRF на подтверждении sms ](https://hackerone.com/reports/301718) to QIWI - 14 upvotes, $100
+34. [[contact-sys.com] XSS via Request-URI](https://hackerone.com/reports/164656) to QIWI - 14 upvotes, $100
+35. [Слив какого-то access токена](https://hackerone.com/reports/735971) to QIWI - 13 upvotes, $200
+36. [Imformation Disclosure on id.rapida.ru](https://hackerone.com/reports/318571) to QIWI - 13 upvotes, $100
+37. [[qiwi.com] Information Disclosure](https://hackerone.com/reports/164168) to QIWI - 12 upvotes, $150
+38. [[XSS/pay.qiwi.com] Pay SubDomain Hard-Use XSS](https://hackerone.com/reports/198251) to QIWI - 12 upvotes, $150
+39. [Nickname disclosure through web-chat](https://hackerone.com/reports/569350) to QIWI - 12 upvotes, $150
+40. [[vitrina.contact-sys.com] Full Path Disclosure](https://hackerone.com/reports/178284) to QIWI - 12 upvotes, $100
+41. [[qiwi.me] No limits on image download requests](https://hackerone.com/reports/227806) to QIWI - 12 upvotes, $100
+42. [Каким-то образом получил чужой платеж к себе на копилку https://qiwi.me/undefined](https://hackerone.com/reports/487296) to QIWI - 12 upvotes, $50
+43. [hard-use account takeover qiwi.com](https://hackerone.com/reports/691698) to QIWI - 11 upvotes, $300
 44. [[qiwi.com] .bash_history](https://hackerone.com/reports/190195) to QIWI - 10 upvotes, $100
 45. [Раскрытие баланса на //kopilka.qiwi.com](https://hackerone.com/reports/178049) to QIWI - 8 upvotes, $300
 46. [[XSS/3dsecure.qiwi.com] 3DSecure XSS](https://hackerone.com/reports/198249) to QIWI - 8 upvotes, $250

@@ -21,10 +21,10 @@ Top reports from Coinbase program at HackerOne:
 17. [Blacklist bypass on Callback URLs](https://hackerone.com/reports/53004) to Coinbase - 9 upvotes, $100
 18. [Stored-XSS in https://www.coinbase.com/](https://hackerone.com/reports/100829) to Coinbase - 8 upvotes, $5000
 19. [Information disclosure same issue #176002](https://hackerone.com/reports/248599) to Coinbase - 8 upvotes, $100
-20. [Information disclosure of user by email using buy widget](https://hackerone.com/reports/176002) to Coinbase - 6 upvotes, $100
-21. [Information leakage on https://docs.gdax.com](https://hackerone.com/reports/168509) to Coinbase - 6 upvotes, $100
-22. [Content Injection error page](https://hackerone.com/reports/148952) to Coinbase - 6 upvotes, $0
-23. [OAuth authorization page vulnerable to clickjacking](https://hackerone.com/reports/65825) to Coinbase - 5 upvotes, $5000
+20. [OAuth authorization page vulnerable to clickjacking](https://hackerone.com/reports/65825) to Coinbase - 6 upvotes, $5000
+21. [Information disclosure of user by email using buy widget](https://hackerone.com/reports/176002) to Coinbase - 6 upvotes, $100
+22. [Information leakage on https://docs.gdax.com](https://hackerone.com/reports/168509) to Coinbase - 6 upvotes, $100
+23. [Content Injection error page](https://hackerone.com/reports/148952) to Coinbase - 6 upvotes, $0
 24. [Create Multiple Account Using Similar X-CSRF token](https://hackerone.com/reports/155726) to Coinbase - 5 upvotes, $0
 25. [coinbase Email leak while sending and requesting](https://hackerone.com/reports/168289) to Coinbase - 5 upvotes, $0
 26. [window.opener is leaking to external domains upon redirect on Safari](https://hackerone.com/reports/160498) to Coinbase - 4 upvotes, $300

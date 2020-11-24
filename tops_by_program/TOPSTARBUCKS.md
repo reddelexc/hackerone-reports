@@ -2,17 +2,17 @@
 
 Top reports from Starbucks program at HackerOne:
 
-1. [SQL Injection Extracts Starbucks Enterprise Accounting, Financial, Payroll Database](https://hackerone.com/reports/531051) to Starbucks - 705 upvotes, $4000
+1. [SQL Injection Extracts Starbucks Enterprise Accounting, Financial, Payroll Database](https://hackerone.com/reports/531051) to Starbucks - 706 upvotes, $4000
 2. [JumpCloud API Key leaked via Open Github Repository.](https://hackerone.com/reports/716292) to Starbucks - 698 upvotes, $4000
 3. [Webshell via File Upload on ecjobs.starbucks.com.cn](https://hackerone.com/reports/506646) to Starbucks - 655 upvotes, $4000
-4. [RCE and Complete Server Takeover of http://www.█████.starbucks.com.sg/](https://hackerone.com/reports/502758) to Starbucks - 506 upvotes, $4000
+4. [RCE and Complete Server Takeover of http://www.█████.starbucks.com.sg/](https://hackerone.com/reports/502758) to Starbucks - 508 upvotes, $4000
 5. [XXE at ecjobs.starbucks.com.cn/retail/hxpublic_v6/hxdynamicpage6.aspx](https://hackerone.com/reports/500515) to Starbucks - 299 upvotes, $4000
-6. [Subdomain takeover of datacafe-cert.starbucks.com](https://hackerone.com/reports/665398) to Starbucks - 291 upvotes, $2000
+6. [Subdomain takeover of datacafe-cert.starbucks.com](https://hackerone.com/reports/665398) to Starbucks - 294 upvotes, $2000
 7. [Blind SQLi leading to RCE, from Unauthenticated access to a test API Webservice](https://hackerone.com/reports/592400) to Starbucks - 213 upvotes, $4000
-8. [Misuse of an authentication cookie combined with a path traversal on app.starbucks.com permitted access to restricted data](https://hackerone.com/reports/876295) to Starbucks - 208 upvotes, $4000
+8. [Misuse of an authentication cookie combined with a path traversal on app.starbucks.com permitted access to restricted data](https://hackerone.com/reports/876295) to Starbucks - 209 upvotes, $4000
 9. [Blind SQL Injection on starbucks.com.gt and WAF Bypass  :*](https://hackerone.com/reports/549355) to Starbucks - 195 upvotes, $500
 10. [sdrc.starbucks.com - Information Disclosure via unsecured attachment directory](https://hackerone.com/reports/769016) to Starbucks - 191 upvotes, $4000
-11. [Singapore - Account Takeover via IDOR](https://hackerone.com/reports/876300) to Starbucks - 187 upvotes, $6000
+11. [Singapore - Account Takeover via IDOR](https://hackerone.com/reports/876300) to Starbucks - 189 upvotes, $6000
 12. [Reflected Cross site Scripting (XSS) on www.starbucks.com](https://hackerone.com/reports/438240) to Starbucks - 159 upvotes, $375
 13. [Bug in GraphQL and API integration leads to limited user address disclosure](https://hackerone.com/reports/473742) to Starbucks - 134 upvotes, $1000
 14. [Subdomain takeover of d02-1-ag.productioncontroller.starbucks.com](https://hackerone.com/reports/661751) to Starbucks - 117 upvotes, $2000
@@ -103,10 +103,10 @@ Top reports from Starbucks program at HackerOne:
 99. [CSRF: add item to victim's cart automatically (starbucks.com - updatecart)](https://hackerone.com/reports/177472) to Starbucks - 10 upvotes, $250
 100. [CSRF vulnerability in saving payment card on store.starbucks.com (COBilling -AddCreditCard)](https://hackerone.com/reports/177635) to Starbucks - 10 upvotes, $150
 101. [CSRF in Report Lost or Stolen Page https://www.starbucks.com/account/card](https://hackerone.com/reports/233099) to Starbucks - 9 upvotes, $250
-102. [Stored XSS in Adress Book (starbucks.com/account/profile)](https://hackerone.com/reports/186554) to Starbucks - 9 upvotes, $100
-103. [Missing CSRF Token On Remove Coupun From Cart](https://hackerone.com/reports/227726) to Starbucks - 9 upvotes, $0
-104. [Open Redirect on Greater Asia domains](https://hackerone.com/reports/731618) to Starbucks - 9 upvotes, $0
-105. [India - An Insecure Direct Object Reference (IDOR) allowed unauthorized access to view card index number and monetary balance](https://hackerone.com/reports/701160) to Starbucks - 8 upvotes, $250
+102. [India - An Insecure Direct Object Reference (IDOR) allowed unauthorized access to view card index number and monetary balance](https://hackerone.com/reports/701160) to Starbucks - 9 upvotes, $250
+103. [Stored XSS in Adress Book (starbucks.com/account/profile)](https://hackerone.com/reports/186554) to Starbucks - 9 upvotes, $100
+104. [Missing CSRF Token On Remove Coupun From Cart](https://hackerone.com/reports/227726) to Starbucks - 9 upvotes, $0
+105. [Open Redirect on Greater Asia domains](https://hackerone.com/reports/731618) to Starbucks - 9 upvotes, $0
 106. [Starbucks.com is reachable via ip address thus possible to link any doamin to Starbucks.](https://hackerone.com/reports/197585) to Starbucks - 8 upvotes, $0
 107. [Brute Force Attack against PIN on Card History Page Could Lead to Card Information Discovery / Fraud](https://hackerone.com/reports/194318) to Starbucks - 8 upvotes, $0
 108. [[connect.teavana.com] Open Redirect and abuse of connect.teavana.com](https://hackerone.com/reports/217430) to Starbucks - 8 upvotes, $0

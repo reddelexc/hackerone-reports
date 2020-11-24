@@ -3,7 +3,7 @@
 Top reports from Slack program at HackerOne:
 
 1. [Mass account takeovers using HTTP Request Smuggling on https://slackb.com/ to steal session cookies](https://hackerone.com/reports/737140) to Slack - 790 upvotes, $6500
-2. [Remote Code Execution in Slack desktop apps + bonus](https://hackerone.com/reports/783877) to Slack - 453 upvotes, $1750
+2. [Remote Code Execution in Slack desktop apps + bonus](https://hackerone.com/reports/783877) to Slack - 457 upvotes, $1750
 3. [XSS vulnerable parameter in a location hash](https://hackerone.com/reports/146336) to Slack - 432 upvotes, $1100
 4. [URL link spoofing](https://hackerone.com/reports/481472) to Slack - 347 upvotes, $250
 5. [AWS bucket leading to iOS test build code and configuration exposure](https://hackerone.com/reports/404822) to Slack - 310 upvotes, $1500
@@ -23,29 +23,29 @@ Top reports from Slack program at HackerOne:
 19. [The Custom Emoji Page has a Reflected XSS](https://hackerone.com/reports/258198) to Slack - 55 upvotes, $1250
 20. [Internal SSRF bypass using slash commands at api.slack.com](https://hackerone.com/reports/356765) to Slack - 46 upvotes, $500
 21. [Linux Desktop application slack executable does not use pie / no ASLR](https://hackerone.com/reports/415272) to Slack - 46 upvotes, $100
-22. [Bypass of the SSRF protection in Event Subscriptions parameter.](https://hackerone.com/reports/386292) to Slack - 44 upvotes, $500
-23. [Store XSS](https://hackerone.com/reports/187410) to Slack - 43 upvotes, $500
-24. [The POODLE attack (SSLv3 supported) at status.slack.com](https://hackerone.com/reports/375097) to Slack - 41 upvotes, $500
-25. [Information leakage and default open port](https://hackerone.com/reports/305518) to Slack - 39 upvotes, $350
-26. [CSS Injection to disable app & potential message exfil](https://hackerone.com/reports/679969) to Slack - 34 upvotes, $500
-27. [URL filter bypass in Enterprise Grid](https://hackerone.com/reports/500348) to Slack - 31 upvotes, $100
-28. [Access to some Slack workspace metadata and settings available to unauthorized parties](https://hackerone.com/reports/130133) to Slack - 28 upvotes, $7000
+22. [Access to some Slack workspace metadata and settings available to unauthorized parties](https://hackerone.com/reports/130133) to Slack - 45 upvotes, $7000
+23. [Bypass of the SSRF protection in Event Subscriptions parameter.](https://hackerone.com/reports/386292) to Slack - 44 upvotes, $500
+24. [Store XSS](https://hackerone.com/reports/187410) to Slack - 43 upvotes, $500
+25. [The POODLE attack (SSLv3 supported) at status.slack.com](https://hackerone.com/reports/375097) to Slack - 41 upvotes, $500
+26. [Information leakage and default open port](https://hackerone.com/reports/305518) to Slack - 39 upvotes, $350
+27. [CSS Injection to disable app & potential message exfil](https://hackerone.com/reports/679969) to Slack - 34 upvotes, $500
+28. [URL filter bypass in Enterprise Grid](https://hackerone.com/reports/500348) to Slack - 31 upvotes, $100
 29. [Snooping into messages via email service](https://hackerone.com/reports/163938) to Slack - 28 upvotes, $2500
 30. [ Stored XSS(Cross Site Scripting) In Slack App Name](https://hackerone.com/reports/159460) to Slack - 28 upvotes, $1000
 31. [Bypass  two-factor authentication](https://hackerone.com/reports/121696) to Slack - 26 upvotes, $500
-32. [Source code leakage through GIT web access at host '52.91.137.42'](https://hackerone.com/reports/148068) to Slack - 24 upvotes, $1500
-33. [Subdomain takeover on podcasts.slack-core.com](https://hackerone.com/reports/195350) to Slack - 24 upvotes, $100
-34. [Access of Android protected components via embedded intent](https://hackerone.com/reports/200427) to Slack - 23 upvotes, $1000
-35. [[Screenhero] Subdomain takeover](https://hackerone.com/reports/142096) to Slack - 23 upvotes, $200
-36. [CSRF in github integration](https://hackerone.com/reports/174328) to Slack - 22 upvotes, $500
-37. [Rate-limit bypass](https://hackerone.com/reports/165727) to Slack - 22 upvotes, $500
-38. [HTTP parameter pollution from outdated Greenhouse.io JS dependency](https://hackerone.com/reports/335339) to Slack - 21 upvotes, $250
-39. [Race Condition in account survey](https://hackerone.com/reports/165570) to Slack - 20 upvotes, $150
-40. [DoS on the Direct Messages](https://hackerone.com/reports/746003) to Slack - 17 upvotes, $500
+32. [DoS on the Direct Messages](https://hackerone.com/reports/746003) to Slack - 25 upvotes, $500
+33. [Source code leakage through GIT web access at host '52.91.137.42'](https://hackerone.com/reports/148068) to Slack - 24 upvotes, $1500
+34. [Subdomain takeover on podcasts.slack-core.com](https://hackerone.com/reports/195350) to Slack - 24 upvotes, $100
+35. [Access of Android protected components via embedded intent](https://hackerone.com/reports/200427) to Slack - 23 upvotes, $1000
+36. [[Screenhero] Subdomain takeover](https://hackerone.com/reports/142096) to Slack - 23 upvotes, $200
+37. [CSRF in github integration](https://hackerone.com/reports/174328) to Slack - 22 upvotes, $500
+38. [Rate-limit bypass](https://hackerone.com/reports/165727) to Slack - 22 upvotes, $500
+39. [HTTP parameter pollution from outdated Greenhouse.io JS dependency](https://hackerone.com/reports/335339) to Slack - 21 upvotes, $250
+40. [Race Condition in account survey](https://hackerone.com/reports/165570) to Slack - 20 upvotes, $150
 41. [Bypass to postMessage origin validation via FTP](https://hackerone.com/reports/210654) to Slack - 14 upvotes, $850
 42. [Code Injection in Slack's Windows Desktop Client leads to Privilege Escalation](https://hackerone.com/reports/162955) to Slack - 14 upvotes, $750
 43. [Information Disclosure on stun.screenhero.com](https://hackerone.com/reports/175061) to Slack - 14 upvotes, $700
-44. [Uninstalling Slack for Windows (64-bit), then reinstalling keeps you logged in without authentication](https://hackerone.com/reports/238260) to Slack - 12 upvotes, $500
+44. [Uninstalling Slack for Windows (64-bit), then reinstalling keeps you logged in without authentication](https://hackerone.com/reports/238260) to Slack - 13 upvotes, $500
 45. [Invitation reminder emails contain insecure links](https://hackerone.com/reports/327674) to Slack - 12 upvotes, $350
 46. [dom xss in https://www.slackatwork.com](https://hackerone.com/reports/196624) to Slack - 12 upvotes, $200
 47. [Open Redirect on slack.com](https://hackerone.com/reports/140447) to Slack - 11 upvotes, $500

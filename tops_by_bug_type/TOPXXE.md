@@ -6,7 +6,7 @@ Top XXE reports from HackerOne:
 2. [XXE on pulse.mail.ru](https://hackerone.com/reports/505947) to Mail.ru - 260 upvotes, $6000
 3. [XXE on sms-be-vip.twitter.com in SXMP Processor](https://hackerone.com/reports/248668) to Twitter - 244 upvotes, $10080
 4. [XXE on https://duckduckgo.com](https://hackerone.com/reports/483774) to DuckDuckGo - 200 upvotes, $0
-5. [Phone Call to XXE via Interactive Voice Response](https://hackerone.com/reports/395296) to ██████ - 158 upvotes, $0
+5. [Phone Call to XXE via Interactive Voice Response](https://hackerone.com/reports/395296) to ██████ - 159 upvotes, $0
 6. [Partial bypass of #483774 with Blind XXE on https://duckduckgo.com](https://hackerone.com/reports/486732) to DuckDuckGo - 147 upvotes, $0
 7. [Multiple endpoints are vulnerable to XML External Entity injection (XXE) ](https://hackerone.com/reports/72272) to Pornhub - 134 upvotes, $2500
 8. [XXE through injection of a payload in the XMP metadata of a JPEG file](https://hackerone.com/reports/836877) to Informatica - 124 upvotes, $0

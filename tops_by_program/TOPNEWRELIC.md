@@ -3,14 +3,14 @@
 Top reports from New Relic program at HackerOne:
 
 1. [Password theft login.newrelic.com via Request Smuggling](https://hackerone.com/reports/498052) to New Relic - 466 upvotes, $3000
-2. [Unsafe charts embedding implementation leads to cross-account stored XSS and SSRF](https://hackerone.com/reports/708589) to New Relic - 217 upvotes, $2500
+2. [Unsafe charts embedding implementation leads to cross-account stored XSS and SSRF](https://hackerone.com/reports/708589) to New Relic - 218 upvotes, $2500
 3. [Cross-account stored XSS at embedded charts](https://hackerone.com/reports/709883) to New Relic - 153 upvotes, $3625
 4. [Stored XSS in notes (charts) because of insecure chart data JSON generation](https://hackerone.com/reports/507132) to New Relic - 143 upvotes, $4250
 5. [CSTI at Plugin page leading to active stored XSS (Publisher name)](https://hackerone.com/reports/587829) to New Relic - 87 upvotes, $2500
-6. [Urgent! Stored XSS at plugin's violations leading to account takeover](https://hackerone.com/reports/602527) to New Relic - 78 upvotes, $2500
+6. [Urgent! Stored XSS at plugin's violations leading to account takeover](https://hackerone.com/reports/602527) to New Relic - 79 upvotes, $2500
 7. [IDOR via internal_api "users" endpoint ](https://hackerone.com/reports/349291) to New Relic - 74 upvotes, $1500
 8. [Insecure Infrastructure Integrations YML Loading leads to Windows Privilege Escalation](https://hackerone.com/reports/363971) to New Relic - 62 upvotes, $2500
-9. [Host Header Injection](https://hackerone.com/reports/698416) to New Relic - 61 upvotes, $500
+9. [Host Header Injection](https://hackerone.com/reports/698416) to New Relic - 62 upvotes, $500
 10. [Internal API endpoint discloses full account name of email address associated with unconfirmed user](https://hackerone.com/reports/332381) to New Relic - 60 upvotes, $1500
 11. [[synthetics.newrelic.com] SMTP header injection leads to (mass) arbitrary email sending](https://hackerone.com/reports/347439) to New Relic - 57 upvotes, $500
 12. [(Prerelease UI) Stored XSS via role name in JSON chart](https://hackerone.com/reports/520630) to New Relic - 47 upvotes, $2500
@@ -23,10 +23,10 @@ Top reports from New Relic program at HackerOne:
 19. [The impossibility of inclusion of the trial (BROWSER)](https://hackerone.com/reports/460428) to New Relic - 26 upvotes, $200
 20. [[NR Insights] IDOR - Modify the filter settings for any NR Insights dashboard through internal_api endpoint](https://hackerone.com/reports/459443) to New Relic - 25 upvotes, $2500
 21. [Cache-Control Misconfiguration Leads to Sensitive Information Leakage](https://hackerone.com/reports/132835) to New Relic - 24 upvotes, $0
-22. [User to Admin privilege escalation in Infrastructure Conditions - /v2/accounts/1835740/alerts/conditions](https://hackerone.com/reports/300879) to New Relic - 17 upvotes, $500
-23. [Open redirection ](https://hackerone.com/reports/207285) to New Relic - 17 upvotes, $0
-24. [Stored XSS firing at the "Add chart to note" popup](https://hackerone.com/reports/566400) to New Relic - 16 upvotes, $2500
-25. [Stored XSS firing at transaction map (applicationName field)](https://hackerone.com/reports/549084) to New Relic - 16 upvotes, $2500
+22. [Stored XSS firing at transaction map (applicationName field)](https://hackerone.com/reports/549084) to New Relic - 17 upvotes, $2500
+23. [User to Admin privilege escalation in Infrastructure Conditions - /v2/accounts/1835740/alerts/conditions](https://hackerone.com/reports/300879) to New Relic - 17 upvotes, $500
+24. [Open redirection ](https://hackerone.com/reports/207285) to New Relic - 17 upvotes, $0
+25. [Stored XSS firing at the "Add chart to note" popup](https://hackerone.com/reports/566400) to New Relic - 16 upvotes, $2500
 26. [A user with restricted privileges is able to view Phone Number + Billing Email of account owner](https://hackerone.com/reports/197059) to New Relic - 16 upvotes, $0
 27. [Stored XSS via "my recent queries" selector in NRQL dashboard builder](https://hackerone.com/reports/626082) to New Relic - 15 upvotes, $2500
 28. [[NR Synthetics] (IDOR) Ability to see full name associated with other New Relic accounts through workaround of #255894](https://hackerone.com/reports/267636) to New Relic - 15 upvotes, $1500

@@ -2,8 +2,8 @@
 
 Top Subdomain Takeover reports from HackerOne:
 
-1. [Subdomain Takeover to Authentication bypass ](https://hackerone.com/reports/335330) to Roblox - 628 upvotes, $2500
-2. [Subdomain takeover of datacafe-cert.starbucks.com](https://hackerone.com/reports/665398) to Starbucks - 291 upvotes, $2000
+1. [Subdomain Takeover to Authentication bypass ](https://hackerone.com/reports/335330) to Roblox - 630 upvotes, $2500
+2. [Subdomain takeover of datacafe-cert.starbucks.com](https://hackerone.com/reports/665398) to Starbucks - 294 upvotes, $2000
 3. [Authentication bypass on auth.uber.com via subdomain takeover of saostatic.uber.com](https://hackerone.com/reports/219205) to Uber - 158 upvotes, $5000
 4. [Subdomain takeover of storybook.lystit.com](https://hackerone.com/reports/779442) to Lyst - 151 upvotes, $1000
 5. [Hacker.One Subdomain Takeover](https://hackerone.com/reports/159156) to HackerOne - 145 upvotes, $1000
@@ -21,7 +21,7 @@ Top Subdomain Takeover reports from HackerOne:
 17. [Subdomain takeover #2  at info.hacker.one](https://hackerone.com/reports/209004) to HackerOne - 76 upvotes, $1000
 18. [Subdomain takeover at signup.uber.com](https://hackerone.com/reports/197489) to Uber - 75 upvotes, $3000
 19. [Subdomain takeover due to unclaimed Amazon S3 bucket on a2.bime.io](https://hackerone.com/reports/121461) to Bime - 75 upvotes, $150
-20. [Subdomain Takeover at creatorforum.roblox.com](https://hackerone.com/reports/264494) to Roblox - 69 upvotes, $1000
+20. [Subdomain Takeover at creatorforum.roblox.com](https://hackerone.com/reports/264494) to Roblox - 70 upvotes, $1000
 21. [Subdomain Takeover at test.shipt.com](https://hackerone.com/reports/387760) to Shipt - 69 upvotes, $750
 22. [Subdomain Takeover on demo.greenhouse.io pointing to unbouncepages](https://hackerone.com/reports/407355) to Greenhouse.io - 68 upvotes, $500
 23. [Subdomain takeover on rider.uber.com due to non-existent distribution on Cloudfront](https://hackerone.com/reports/175070) to Uber - 63 upvotes, $1000
@@ -66,11 +66,11 @@ Top Subdomain Takeover reports from HackerOne:
 62. [Subdomain take-over of {REDACTED}.18f.gov](https://hackerone.com/reports/263542) to TTS Bug Bounty - 20 upvotes, $0
 63. [Subdomain Takeover in http://genghis-cdn.shopify.io/ pointing to Fastly ](https://hackerone.com/reports/165309) to Shopify - 19 upvotes, $0
 64. [Subdomain takeover at iosota.razersynapse.com via Amazon S3](https://hackerone.com/reports/813313) to Razer - 18 upvotes, $200
-65. [Subdomain Takeover (http://docs.olx.ph/ , http://calendar.olx.ph/, http://sites.olx.ph/)](https://hackerone.com/reports/206516) to OLX - 17 upvotes, $0
-66. [Subdomain takeover of ████](https://hackerone.com/reports/900062) to U.S. Dept Of Defense - 17 upvotes, $0
-67. [Subdomain Takeover (moderator.ubnt.com)](https://hackerone.com/reports/181665) to Ubiquiti Inc. - 16 upvotes, $500
-68. [Subdomain Takeover (and Stored XSS) via Trailing Dot at https://coding-exercises.udemy.com](https://hackerone.com/reports/223625) to Udemy - 16 upvotes, $50
-69. [Subdomain take over signup.websummit](https://hackerone.com/reports/172698) to WebSummit - 16 upvotes, $40
+65. [Subdomain take over signup.websummit](https://hackerone.com/reports/172698) to WebSummit - 17 upvotes, $40
+66. [Subdomain Takeover (http://docs.olx.ph/ , http://calendar.olx.ph/, http://sites.olx.ph/)](https://hackerone.com/reports/206516) to OLX - 17 upvotes, $0
+67. [Subdomain takeover of ████](https://hackerone.com/reports/900062) to U.S. Dept Of Defense - 17 upvotes, $0
+68. [Subdomain Takeover (moderator.ubnt.com)](https://hackerone.com/reports/181665) to Ubiquiti Inc. - 16 upvotes, $500
+69. [Subdomain Takeover (and Stored XSS) via Trailing Dot at https://coding-exercises.udemy.com](https://hackerone.com/reports/223625) to Udemy - 16 upvotes, $50
 70. [Sub Domain Takeover](https://hackerone.com/reports/221133) to Gratipay - 16 upvotes, $0
 71. [Subdomain Takeover via unclaimed UserVoice domain](https://hackerone.com/reports/269109) to Snapchat - 15 upvotes, $250
 72. [Subdomain takeover at ftp.thx.com](https://hackerone.com/reports/703591) to Razer - 15 upvotes, $250
@@ -78,10 +78,10 @@ Top Subdomain Takeover reports from HackerOne:
 74. [Subdomain Takeover due to unclaimed domain pointing to AWS](https://hackerone.com/reports/317005) to TTS Bug Bounty - 15 upvotes, $150
 75. [subdomain takeover at status-stage0.stripo.email](https://hackerone.com/reports/781614) to Stripo Inc - 15 upvotes, $0
 76. [Subdomain Takeover in http://assets.goubiquiti.com/](https://hackerone.com/reports/109699) to Ubiquiti Inc. - 14 upvotes, $500
-77. [URGENT - Subdomain Takeover on status.vimeo.com due to unclaimed domain pointing to statuspage.io](https://hackerone.com/reports/49663) to Vimeo - 13 upvotes, $100
-78. [Subdomain Takeover uptime](https://hackerone.com/reports/824909) to BTFS - 13 upvotes, $100
-79. [Subdomain takeover of blog.snapchat.com](https://hackerone.com/reports/171942) to Snapchat - 13 upvotes, $0
-80. [Subdomain takeover due to an unclaimed Amazon S3 bucket on ███](https://hackerone.com/reports/918946) to U.S. Dept Of Defense - 13 upvotes, $0
+77. [Subdomain takeover due to an unclaimed Amazon S3 bucket on ███](https://hackerone.com/reports/918946) to U.S. Dept Of Defense - 14 upvotes, $0
+78. [URGENT - Subdomain Takeover on status.vimeo.com due to unclaimed domain pointing to statuspage.io](https://hackerone.com/reports/49663) to Vimeo - 13 upvotes, $100
+79. [Subdomain Takeover uptime](https://hackerone.com/reports/824909) to BTFS - 13 upvotes, $100
+80. [Subdomain takeover of blog.snapchat.com](https://hackerone.com/reports/171942) to Snapchat - 13 upvotes, $0
 81. [Subdomain takeover on slack.augur.net pointing to GitHub Pages](https://hackerone.com/reports/382995) to Augur - 12 upvotes, $250
 82. [Helpdesk takeover (subdomain takeover) in razerzone.com domain via unclaimed Zendesk instance](https://hackerone.com/reports/810807) to Razer - 12 upvotes, $250
 83. [Potential Subdomain Takeover Possible](https://hackerone.com/reports/166826) to Boozt Fashion AB - 11 upvotes, $120
@@ -92,10 +92,10 @@ Top Subdomain Takeover reports from HackerOne:
 88. [Subdomain takeover on s3.shopify.com](https://hackerone.com/reports/207576) to Shopify - 10 upvotes, $500
 89. [Subdomain Takeover at http://gameday.websummit.net](https://hackerone.com/reports/193056) to WebSummit - 9 upvotes, $20
 90. [Subdomain takeover in many subdomains](https://hackerone.com/reports/205949) to OWOX, Inc. - 9 upvotes, $0
-91. [code.wordpress.net subdomain Takeover](https://hackerone.com/reports/295330) to WordPress - 8 upvotes, $25
-92. [Possible Subdomain Takeover](https://hackerone.com/reports/399165) to Khan Academy - 8 upvotes, $0
-93. [Subdomain Takeover at blog.instamart.ru](https://hackerone.com/reports/894431) to Mail.ru - 8 upvotes, $0
-94. [Subdomain takeover in http://support.scan.me pointing to Zendesk (a Snapchat acquisition)](https://hackerone.com/reports/114134) to Snapchat - 7 upvotes, $1000
+91. [Subdomain takeover in http://support.scan.me pointing to Zendesk (a Snapchat acquisition)](https://hackerone.com/reports/114134) to Snapchat - 8 upvotes, $1000
+92. [code.wordpress.net subdomain Takeover](https://hackerone.com/reports/295330) to WordPress - 8 upvotes, $25
+93. [Possible Subdomain Takeover](https://hackerone.com/reports/399165) to Khan Academy - 8 upvotes, $0
+94. [Subdomain Takeover at blog.instamart.ru](https://hackerone.com/reports/894431) to Mail.ru - 8 upvotes, $0
 95. [Subdomain Takeover at Landing.udemy.com ](https://hackerone.com/reports/208719) to Udemy - 7 upvotes, $50
 96. [Sub Domain Take over](https://hackerone.com/reports/111078) to Gratipay - 7 upvotes, $15
 97. [Subdomain takeover (sales.mixmax.com)](https://hackerone.com/reports/233408) to Mixmax - 7 upvotes, $0
