@@ -11,11 +11,11 @@ Top reports from Gratipay program at HackerOne:
 7. [Application-level DoS on image's "size" parameter.](https://hackerone.com/reports/247700) to Gratipay - 13 upvotes, $0
 8. [User Supplied links on profile page is not validated and redirected via gratipay.](https://hackerone.com/reports/151831) to Gratipay - 12 upvotes, $0
 9. [don't leak Server version for assets.gratipay.com](https://hackerone.com/reports/149710) to Gratipay - 11 upvotes, $0
-10. [i am The bug](https://hackerone.com/reports/284807) to Gratipay - 11 upvotes, $0
-11. [Limit email address length](https://hackerone.com/reports/127995) to Gratipay - 10 upvotes, $1
-12. [HTTP trace method is enabled on aspen.io](https://hackerone.com/reports/203409) to Gratipay - 10 upvotes, $0
-13. [Content length restriction bypass can lead to DOS by reading large files on gip.rocks](https://hackerone.com/reports/203388) to Gratipay - 10 upvotes, $0
-14. [change bank account numbers](https://hackerone.com/reports/90805) to Gratipay - 10 upvotes, $0
+10. [change bank account numbers](https://hackerone.com/reports/90805) to Gratipay - 11 upvotes, $0
+11. [i am The bug](https://hackerone.com/reports/284807) to Gratipay - 11 upvotes, $0
+12. [Limit email address length](https://hackerone.com/reports/127995) to Gratipay - 10 upvotes, $1
+13. [HTTP trace method is enabled on aspen.io](https://hackerone.com/reports/203409) to Gratipay - 10 upvotes, $0
+14. [Content length restriction bypass can lead to DOS by reading large files on gip.rocks](https://hackerone.com/reports/203388) to Gratipay - 10 upvotes, $0
 15. [Gratipay rails secret token (secret_key_base) publicly exposed in GitHub](https://hackerone.com/reports/262620) to Gratipay - 9 upvotes, $0
 16. [upgrade Aspen on inside.gratipay.com to pick up CR injection fix](https://hackerone.com/reports/143139) to Gratipay - 8 upvotes, $40
 17. [CSV injection in gratipay.com via payment history export feature.](https://hackerone.com/reports/219323) to Gratipay - 8 upvotes, $0

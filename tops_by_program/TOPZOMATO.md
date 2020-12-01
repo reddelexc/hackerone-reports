@@ -21,8 +21,8 @@ Top reports from Zomato program at HackerOne:
 17. [[www.zomato.com] Blind XSS in one of the Admin Dashboard](https://hackerone.com/reports/419731) to Zomato - 59 upvotes, $500
 18. [[www.zomato.com] SQLi on `order_id` parameter](https://hackerone.com/reports/358669) to Zomato - 57 upvotes, $1000
 19. [[www.zomato.com] Blind SQL Injection in /php/geto2banner](https://hackerone.com/reports/838855) to Zomato - 56 upvotes, $2000
-20. [[www.zomato.com] Union SQLi + Waf Bypass](https://hackerone.com/reports/258582) to Zomato - 52 upvotes, $1000
-21. [[Zomato Android/iOS] Theft of user session](https://hackerone.com/reports/328486) to Zomato - 52 upvotes, $650
+20. [[Zomato Android/iOS] Theft of user session](https://hackerone.com/reports/328486) to Zomato - 53 upvotes, $650
+21. [[www.zomato.com] Union SQLi + Waf Bypass](https://hackerone.com/reports/258582) to Zomato - 52 upvotes, $1000
 22. [IDOR to delete images from other stores](https://hackerone.com/reports/404797) to Zomato - 47 upvotes, $600
 23. [Open AWS S3 bucket leaks all Images uploaded to Zomato chat](https://hackerone.com/reports/507097) to Zomato - 44 upvotes, $300
 24. [[www.zomato.com] Blind SQL Injection in /php/widgets_handler.php](https://hackerone.com/reports/836079) to Zomato - 41 upvotes, $2000

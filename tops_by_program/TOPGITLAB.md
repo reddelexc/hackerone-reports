@@ -49,83 +49,83 @@ Top reports from GitLab program at HackerOne:
 45. [Bypass Email Verification using Salesforce -- Reproducible in gitlab.com](https://hackerone.com/reports/617896) to GitLab - 45 upvotes, $1500
 46. [EXIF metadata not stripped from JPG group logos](https://hackerone.com/reports/446238) to GitLab - 44 upvotes, $500
 47. [Stored XSS in markdown when redacting references](https://hackerone.com/reports/836649) to GitLab - 43 upvotes, $5000
-48. [GitLab CI runner can read and poison cache of all other projects](https://hackerone.com/reports/301432) to GitLab - 39 upvotes, $2000
-49. [SQL injection in MilestoneFinder order method](https://hackerone.com/reports/298176) to GitLab - 38 upvotes, $2000
-50. [Milestones leaked via search API](https://hackerone.com/reports/460815) to GitLab - 38 upvotes, $1000
-51. [Using GitLab to monitor and hijack domains in mass quantity.](https://hackerone.com/reports/312118) to GitLab - 33 upvotes, $750
-52. [Stored XSS in blob viewer](https://hackerone.com/reports/806571) to GitLab - 32 upvotes, $2000
-53. [Bypassing push rules via MRs created by Email](https://hackerone.com/reports/526570) to GitLab - 30 upvotes, $3000
-54. [Insecure 2FA/authentication implementation creates a brute force vulnerability](https://hackerone.com/reports/149598) to GitLab - 30 upvotes, $0
-55. [Injection of `http.\<url\>.*` git config settings leading to SSRF](https://hackerone.com/reports/855276) to GitLab - 29 upvotes, $3000
-56. [Privilege escalation due to insecure use of logrotate](https://hackerone.com/reports/578119) to GitLab - 29 upvotes, $1000
-57. [Uncontrolled Resource Consumption in any Markdown field using Mermaid](https://hackerone.com/reports/670572) to GitLab - 29 upvotes, $1000
-58. [Evaluating Ruby code by injecting Rescue job on the system_hook_push queue through web hook](https://hackerone.com/reports/299473) to GitLab - 29 upvotes, $750
-59. [Vulnerability in project import leads to arbitrary command execution](https://hackerone.com/reports/378148) to GitLab - 29 upvotes, $0
-60. [Access Projects And create projects in gitlab pre production server](https://hackerone.com/reports/540711) to GitLab - 26 upvotes, $1000
-61. [Mailgun misconfiguration leads to email snooping and postmaster@-access on email.mg.gitlab.com](https://hackerone.com/reports/174983) to GitLab - 26 upvotes, $0
-62. [Persistent XSS via e-mail when creating merge requests](https://hackerone.com/reports/496973) to GitLab - 24 upvotes, $750
-63. [Stored XSS in group issue list](https://hackerone.com/reports/859333) to GitLab - 23 upvotes, $2000
-64. [XSS on Issue reference numbers](https://hackerone.com/reports/831962) to GitLab - 22 upvotes, $1500
-65. [Last build status and coverage leaked to unauthorized users](https://hackerone.com/reports/477222) to GitLab - 22 upvotes, $750
-66. [Unauthorized users may be able to view almost all informations related to Private projects.](https://hackerone.com/reports/407763) to GitLab - 22 upvotes, $0
-67. [Stored XSS on PyPi simple API endpoint](https://hackerone.com/reports/856836) to GitLab - 21 upvotes, $3000
-68. [GitLab's GitHub integration is vulnerable to SSRF vulnerability](https://hackerone.com/reports/446593) to GitLab - 21 upvotes, $2000
-69. [Stealing data from customers.gitlab.com without user interaction](https://hackerone.com/reports/674195) to GitLab - 20 upvotes, $3500
-70. [Possibilty to purchase Ultimate - 1 Year (EDU or OSS)](https://hackerone.com/reports/882848) to GitLab - 20 upvotes, $500
-71. [all private tokens are leaked to an unauthenticated attacker](https://hackerone.com/reports/268794) to GitLab - 20 upvotes, $0
-72. [[Markdown] Stored XSS via character encoding parser bypass](https://hackerone.com/reports/270999) to GitLab - 20 upvotes, $0
-73. [SafeParamsHelper::safe_params is not so safe](https://hackerone.com/reports/946728) to GitLab - 19 upvotes, $4000
-74. [Claiming package names in GitLab's automatic package referencer.](https://hackerone.com/reports/462503) to GitLab - 19 upvotes, $1000
-75. [CSV injection in gitlab.com via issues export feature.](https://hackerone.com/reports/216243) to GitLab - 19 upvotes, $0
-76. [Unauthorized access to private project security dashboard](https://hackerone.com/reports/853355) to GitLab - 18 upvotes, $2000
+48. [XSS on Issue reference numbers](https://hackerone.com/reports/831962) to GitLab - 41 upvotes, $1500
+49. [GitLab CI runner can read and poison cache of all other projects](https://hackerone.com/reports/301432) to GitLab - 39 upvotes, $2000
+50. [SQL injection in MilestoneFinder order method](https://hackerone.com/reports/298176) to GitLab - 38 upvotes, $2000
+51. [Milestones leaked via search API](https://hackerone.com/reports/460815) to GitLab - 38 upvotes, $1000
+52. [Using GitLab to monitor and hijack domains in mass quantity.](https://hackerone.com/reports/312118) to GitLab - 33 upvotes, $750
+53. [Stored XSS in blob viewer](https://hackerone.com/reports/806571) to GitLab - 32 upvotes, $2000
+54. [Bypassing push rules via MRs created by Email](https://hackerone.com/reports/526570) to GitLab - 30 upvotes, $3000
+55. [Insecure 2FA/authentication implementation creates a brute force vulnerability](https://hackerone.com/reports/149598) to GitLab - 30 upvotes, $0
+56. [Injection of `http.\<url\>.*` git config settings leading to SSRF](https://hackerone.com/reports/855276) to GitLab - 29 upvotes, $3000
+57. [Privilege escalation due to insecure use of logrotate](https://hackerone.com/reports/578119) to GitLab - 29 upvotes, $1000
+58. [Uncontrolled Resource Consumption in any Markdown field using Mermaid](https://hackerone.com/reports/670572) to GitLab - 29 upvotes, $1000
+59. [Evaluating Ruby code by injecting Rescue job on the system_hook_push queue through web hook](https://hackerone.com/reports/299473) to GitLab - 29 upvotes, $750
+60. [Vulnerability in project import leads to arbitrary command execution](https://hackerone.com/reports/378148) to GitLab - 29 upvotes, $0
+61. [Stored XSS in group issue list](https://hackerone.com/reports/859333) to GitLab - 26 upvotes, $2000
+62. [Access Projects And create projects in gitlab pre production server](https://hackerone.com/reports/540711) to GitLab - 26 upvotes, $1000
+63. [Mailgun misconfiguration leads to email snooping and postmaster@-access on email.mg.gitlab.com](https://hackerone.com/reports/174983) to GitLab - 26 upvotes, $0
+64. [Persistent XSS via e-mail when creating merge requests](https://hackerone.com/reports/496973) to GitLab - 24 upvotes, $750
+65. [Unauthorized access to private project security dashboard](https://hackerone.com/reports/853355) to GitLab - 22 upvotes, $2000
+66. [Last build status and coverage leaked to unauthorized users](https://hackerone.com/reports/477222) to GitLab - 22 upvotes, $750
+67. [Unauthorized users may be able to view almost all informations related to Private projects.](https://hackerone.com/reports/407763) to GitLab - 22 upvotes, $0
+68. [Stored XSS on PyPi simple API endpoint](https://hackerone.com/reports/856836) to GitLab - 21 upvotes, $3000
+69. [GitLab's GitHub integration is vulnerable to SSRF vulnerability](https://hackerone.com/reports/446593) to GitLab - 21 upvotes, $2000
+70. [Stealing data from customers.gitlab.com without user interaction](https://hackerone.com/reports/674195) to GitLab - 20 upvotes, $3500
+71. [Possibilty to purchase Ultimate - 1 Year (EDU or OSS)](https://hackerone.com/reports/882848) to GitLab - 20 upvotes, $500
+72. [all private tokens are leaked to an unauthenticated attacker](https://hackerone.com/reports/268794) to GitLab - 20 upvotes, $0
+73. [[Markdown] Stored XSS via character encoding parser bypass](https://hackerone.com/reports/270999) to GitLab - 20 upvotes, $0
+74. [SafeParamsHelper::safe_params is not so safe](https://hackerone.com/reports/946728) to GitLab - 19 upvotes, $4000
+75. [Claiming package names in GitLab's automatic package referencer.](https://hackerone.com/reports/462503) to GitLab - 19 upvotes, $1000
+76. [CSV injection in gitlab.com via issues export feature.](https://hackerone.com/reports/216243) to GitLab - 19 upvotes, $0
 77. [Add and Access to Labels of any Private Projects/Groups of Gitlab(IDOR)](https://hackerone.com/reports/439729) to GitLab - 18 upvotes, $1000
 78. [Race condition in GitLab import, giving access to other people their imports due to filename collision](https://hackerone.com/reports/214028) to GitLab - 17 upvotes, $0
 79. [Stored XSS in merge request pages](https://hackerone.com/reports/409380) to GitLab - 17 upvotes, $0
-80. [Bypassing password authentication of users that have 2FA enabled](https://hackerone.com/reports/128085) to GitLab - 16 upvotes, $0
-81. [Stored XSS on Files overview by abusing git submodule URL](https://hackerone.com/reports/218872) to GitLab - 16 upvotes, $0
-82. [Instant open redirect on Live preview WEB Ide opening](https://hackerone.com/reports/437142) to GitLab - 15 upvotes, $1000
-83. [Privilege escalation to access all private groups and repositories](https://hackerone.com/reports/131210) to GitLab - 15 upvotes, $0
-84. [SSRF vulnerability in gitlab.com via project import.](https://hackerone.com/reports/215105) to GitLab - 15 upvotes, $0
-85. [Insufficient Type Check leading to Developer ability to delete Project, Repository, Group, ...](https://hackerone.com/reports/960244) to GitLab - 14 upvotes, $5000
-86. [Stored XSS on Issue details page](https://hackerone.com/reports/384255) to GitLab - 14 upvotes, $0
-87. [Private System Note Disclosure using GraphQL](https://hackerone.com/reports/633001) to GitLab - 13 upvotes, $1000
-88. [No redirect_uri in the db for web-internal clientKey leads to one-click DoS on gitter.im](https://hackerone.com/reports/702987) to GitLab - 13 upvotes, $1000
-89. [GitHub import allows user to create child group under existing namespace](https://hackerone.com/reports/301137) to GitLab - 13 upvotes, $750
-90. [Persistent XSS on public wiki pages](https://hackerone.com/reports/136333) to GitLab - 13 upvotes, $0
-91. [User with guest access can access private merge requests](https://hackerone.com/reports/195134) to GitLab - 13 upvotes, $0
-92. [Gitlab is vulnerable to impersonation attacks due to broken links](https://hackerone.com/reports/265696) to GitLab - 13 upvotes, $0
-93. [Insufficient Type Check on GraphQL leading to Maintainer delete repository](https://hackerone.com/reports/858671) to GitLab - 12 upvotes, $4000
-94. [Transferring a public group to a private group doesn't remove code from the Elastichsearch API search result](https://hackerone.com/reports/748375) to GitLab - 12 upvotes, $3000
-95. [Removing a user from a private group doesn't remove him from group's project, if his project's role was changed](https://hackerone.com/reports/310185) to GitLab - 12 upvotes, $2000
-96. [SSRF In plantuml (on plantuml.pre.gitlab.com)](https://hackerone.com/reports/689245) to GitLab - 12 upvotes, $100
-97. [Every user can delete public deploy keys](https://hackerone.com/reports/195088) to GitLab - 12 upvotes, $0
-98. [Inadequate cache control in gitter allows to view private chat room](https://hackerone.com/reports/493791) to GitLab - 12 upvotes, $0
-99. [State filter in IssuableFinder allows attacker to delete all issues and merge requests](https://hackerone.com/reports/186194) to GitLab - 11 upvotes, $0
-100. [Unfiltered `class` attribute in markdown code](https://hackerone.com/reports/216453) to GitLab - 11 upvotes, $0
-101. [SSRF when importing a project from a git repo by URL](https://hackerone.com/reports/135937) to GitLab - 11 upvotes, $0
-102. [Guest users can change the confidentiality attribute on those issues that have been assigned to them](https://hackerone.com/reports/762271) to GitLab - 10 upvotes, $100
-103. [XSS On meta tags in profile page](https://hackerone.com/reports/159984) to GitLab - 10 upvotes, $0
-104. [Users can download old project exports due to unclaimed namespace](https://hackerone.com/reports/195058) to GitLab - 10 upvotes, $0
-105. [Persistent XSS - Selecting users as allowed merge request approvers](https://hackerone.com/reports/346217) to GitLab - 10 upvotes, $0
-106. [HTML TAG INJECTION ON PROFILE NAME](https://hackerone.com/reports/358001) to GitLab - 10 upvotes, $0
-107. [Blocked user Git access through CI/CD token](https://hackerone.com/reports/497047) to GitLab - 9 upvotes, $1500
-108. [Attacker can extract list of private project's project members](https://hackerone.com/reports/128051) to GitLab - 9 upvotes, $0
-109. [Users with guest access can post notes to private merge requests, issues, and snippets](https://hackerone.com/reports/195140) to GitLab - 9 upvotes, $0
-110. [SSRF vulnerability in gitlab.com webhook](https://hackerone.com/reports/301924) to GitLab - 9 upvotes, $0
-111. [SSRF into Shared Runner, by replacing dockerd with malicious server in Executor](https://hackerone.com/reports/809248) to GitLab - 8 upvotes, $2000
-112. [Head pipeline leaked to unauthorized users via blocking merge request feature](https://hackerone.com/reports/667408) to GitLab - 8 upvotes, $1000
-113. [Last pipeline status for MR leaked ](https://hackerone.com/reports/582349) to GitLab - 8 upvotes, $750
-114. [Boards leak private label names and desciptions](https://hackerone.com/reports/162147) to GitLab - 8 upvotes, $0
-115. [Markdown based stored XSS (IE only)](https://hackerone.com/reports/118024) to GitLab - 8 upvotes, $0
-116. [XSS (Persistent) - Selecting role(s) for protected branches](https://hackerone.com/reports/346111) to GitLab - 8 upvotes, $0
-117. [Container scanning and Dependency scanning report leaked to unauthorized users](https://hackerone.com/reports/676976) to GitLab - 7 upvotes, $3000
-118. [Elasticsearch leaks data through the notes scope](https://hackerone.com/reports/710006) to GitLab - 7 upvotes, $1000
-119. [[RDoc] XSS in project README files](https://hackerone.com/reports/200693) to GitLab - 7 upvotes, $0
-120. [[reStructuredText] XSS in project README files](https://hackerone.com/reports/205497) to GitLab - 7 upvotes, $0
-121. [Gitlab.com is vulnerable to reverse tabnabbing.](https://hackerone.com/reports/211065) to GitLab - 7 upvotes, $0
-122. [Gitlab.com is vulnerable to reverse tabnabbing. (#2)](https://hackerone.com/reports/212629) to GitLab - 7 upvotes, $0
-123. [Persistent XSS - Deleting a project (No Longer Vulnerable in 10.7)](https://hackerone.com/reports/351554) to GitLab - 7 upvotes, $0
-124. [CRLF injection & SSRF in git:// protocal lead to arbitrary code execution](https://hackerone.com/reports/441090) to GitLab - 7 upvotes, $0
+80. [CRLF injection & SSRF in git:// protocal lead to arbitrary code execution](https://hackerone.com/reports/441090) to GitLab - 17 upvotes, $0
+81. [Bypassing password authentication of users that have 2FA enabled](https://hackerone.com/reports/128085) to GitLab - 16 upvotes, $0
+82. [Stored XSS on Files overview by abusing git submodule URL](https://hackerone.com/reports/218872) to GitLab - 16 upvotes, $0
+83. [Instant open redirect on Live preview WEB Ide opening](https://hackerone.com/reports/437142) to GitLab - 15 upvotes, $1000
+84. [Privilege escalation to access all private groups and repositories](https://hackerone.com/reports/131210) to GitLab - 15 upvotes, $0
+85. [SSRF vulnerability in gitlab.com via project import.](https://hackerone.com/reports/215105) to GitLab - 15 upvotes, $0
+86. [Insufficient Type Check leading to Developer ability to delete Project, Repository, Group, ...](https://hackerone.com/reports/960244) to GitLab - 14 upvotes, $5000
+87. [No redirect_uri in the db for web-internal clientKey leads to one-click DoS on gitter.im](https://hackerone.com/reports/702987) to GitLab - 14 upvotes, $1000
+88. [Stored XSS on Issue details page](https://hackerone.com/reports/384255) to GitLab - 14 upvotes, $0
+89. [Private System Note Disclosure using GraphQL](https://hackerone.com/reports/633001) to GitLab - 13 upvotes, $1000
+90. [GitHub import allows user to create child group under existing namespace](https://hackerone.com/reports/301137) to GitLab - 13 upvotes, $750
+91. [Persistent XSS on public wiki pages](https://hackerone.com/reports/136333) to GitLab - 13 upvotes, $0
+92. [User with guest access can access private merge requests](https://hackerone.com/reports/195134) to GitLab - 13 upvotes, $0
+93. [Gitlab is vulnerable to impersonation attacks due to broken links](https://hackerone.com/reports/265696) to GitLab - 13 upvotes, $0
+94. [Insufficient Type Check on GraphQL leading to Maintainer delete repository](https://hackerone.com/reports/858671) to GitLab - 12 upvotes, $4000
+95. [Transferring a public group to a private group doesn't remove code from the Elastichsearch API search result](https://hackerone.com/reports/748375) to GitLab - 12 upvotes, $3000
+96. [Removing a user from a private group doesn't remove him from group's project, if his project's role was changed](https://hackerone.com/reports/310185) to GitLab - 12 upvotes, $2000
+97. [SSRF In plantuml (on plantuml.pre.gitlab.com)](https://hackerone.com/reports/689245) to GitLab - 12 upvotes, $100
+98. [Every user can delete public deploy keys](https://hackerone.com/reports/195088) to GitLab - 12 upvotes, $0
+99. [Inadequate cache control in gitter allows to view private chat room](https://hackerone.com/reports/493791) to GitLab - 12 upvotes, $0
+100. [State filter in IssuableFinder allows attacker to delete all issues and merge requests](https://hackerone.com/reports/186194) to GitLab - 11 upvotes, $0
+101. [Unfiltered `class` attribute in markdown code](https://hackerone.com/reports/216453) to GitLab - 11 upvotes, $0
+102. [SSRF when importing a project from a git repo by URL](https://hackerone.com/reports/135937) to GitLab - 11 upvotes, $0
+103. [Guest users can change the confidentiality attribute on those issues that have been assigned to them](https://hackerone.com/reports/762271) to GitLab - 10 upvotes, $100
+104. [XSS On meta tags in profile page](https://hackerone.com/reports/159984) to GitLab - 10 upvotes, $0
+105. [Users can download old project exports due to unclaimed namespace](https://hackerone.com/reports/195058) to GitLab - 10 upvotes, $0
+106. [Persistent XSS - Selecting users as allowed merge request approvers](https://hackerone.com/reports/346217) to GitLab - 10 upvotes, $0
+107. [HTML TAG INJECTION ON PROFILE NAME](https://hackerone.com/reports/358001) to GitLab - 10 upvotes, $0
+108. [Blocked user Git access through CI/CD token](https://hackerone.com/reports/497047) to GitLab - 9 upvotes, $1500
+109. [Attacker can extract list of private project's project members](https://hackerone.com/reports/128051) to GitLab - 9 upvotes, $0
+110. [Users with guest access can post notes to private merge requests, issues, and snippets](https://hackerone.com/reports/195140) to GitLab - 9 upvotes, $0
+111. [SSRF vulnerability in gitlab.com webhook](https://hackerone.com/reports/301924) to GitLab - 9 upvotes, $0
+112. [SSRF into Shared Runner, by replacing dockerd with malicious server in Executor](https://hackerone.com/reports/809248) to GitLab - 8 upvotes, $2000
+113. [Head pipeline leaked to unauthorized users via blocking merge request feature](https://hackerone.com/reports/667408) to GitLab - 8 upvotes, $1000
+114. [Last pipeline status for MR leaked ](https://hackerone.com/reports/582349) to GitLab - 8 upvotes, $750
+115. [Boards leak private label names and desciptions](https://hackerone.com/reports/162147) to GitLab - 8 upvotes, $0
+116. [Markdown based stored XSS (IE only)](https://hackerone.com/reports/118024) to GitLab - 8 upvotes, $0
+117. [XSS (Persistent) - Selecting role(s) for protected branches](https://hackerone.com/reports/346111) to GitLab - 8 upvotes, $0
+118. [Container scanning and Dependency scanning report leaked to unauthorized users](https://hackerone.com/reports/676976) to GitLab - 7 upvotes, $3000
+119. [Elasticsearch leaks data through the notes scope](https://hackerone.com/reports/710006) to GitLab - 7 upvotes, $1000
+120. [[RDoc] XSS in project README files](https://hackerone.com/reports/200693) to GitLab - 7 upvotes, $0
+121. [[reStructuredText] XSS in project README files](https://hackerone.com/reports/205497) to GitLab - 7 upvotes, $0
+122. [Gitlab.com is vulnerable to reverse tabnabbing.](https://hackerone.com/reports/211065) to GitLab - 7 upvotes, $0
+123. [Gitlab.com is vulnerable to reverse tabnabbing. (#2)](https://hackerone.com/reports/212629) to GitLab - 7 upvotes, $0
+124. [Persistent XSS - Deleting a project (No Longer Vulnerable in 10.7)](https://hackerone.com/reports/351554) to GitLab - 7 upvotes, $0
 125. [Todos are not redacted when membership changes - Access to (confidential) issues and merge requests](https://hackerone.com/reports/880863) to GitLab - 6 upvotes, $2000
 126. [Labels created in private projects are leaked](https://hackerone.com/reports/132777) to GitLab - 6 upvotes, $0
 127. [Persistent XSS on public project page](https://hackerone.com/reports/129736) to GitLab - 6 upvotes, $0
@@ -153,7 +153,8 @@ Top reports from GitLab program at HackerOne:
 149. [SSRF via git Repo by URL Abuse](https://hackerone.com/reports/191216) to GitLab - 2 upvotes, $0
 150. [Lack of validation before assigning custom domain names leading to abuse of GitLab pages service](https://hackerone.com/reports/296907) to GitLab - 2 upvotes, $0
 151. [Email notification about login email changed is not received when using verified linked email address](https://hackerone.com/reports/801973) to GitLab - 2 upvotes, $0
-152. [Missing/Breach of Internal Security Boundary - Access to Job Queue Results in Remote Code Execution](https://hackerone.com/reports/224198) to GitLab - 0 upvotes, $0
+152. [Unauthorized user is able to access schedule pipeline variables and values](https://hackerone.com/reports/962462) to GitLab - 1 upvotes, $3000
+153. [Missing/Breach of Internal Security Boundary - Access to Job Queue Results in Remote Code Execution](https://hackerone.com/reports/224198) to GitLab - 0 upvotes, $0
 
 
 [Back](../README.md)

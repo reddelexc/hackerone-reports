@@ -10,7 +10,7 @@ Top Open Redirect reports from HackerOne:
 6. [Twitter lite(Android): Vulnerable to local file steal, Javascript injection, Open redirect ](https://hackerone.com/reports/499348) to Twitter - 84 upvotes, $1120
 7. [Open redirect vulnerability](https://hackerone.com/reports/380760) to Rockstar Games - 80 upvotes, $250
 8. [Open redirect](https://hackerone.com/reports/753399) to NordVPN - 75 upvotes, $500
-9. [[dev.twitter.com] XSS and Open Redirect](https://hackerone.com/reports/260744) to Twitter - 57 upvotes, $1120
+9. [[dev.twitter.com] XSS and Open Redirect](https://hackerone.com/reports/260744) to Twitter - 58 upvotes, $1120
 10. [Open Redirect](https://hackerone.com/reports/504751) to Omise - 57 upvotes, $100
 11. [Open redirection at https://chaturbate.com/auth/login/](https://hackerone.com/reports/411723) to Chaturbate - 52 upvotes, $200
 12. [Open Redirection in index.php page](https://hackerone.com/reports/320376) to HackerOne - 50 upvotes, $250
@@ -34,9 +34,9 @@ Top Open Redirect reports from HackerOne:
 30. [Open redirect bypass &  SSRF Security Vulnerability](https://hackerone.com/reports/771465) to Smule - 27 upvotes, $0
 31. [Open redirect in bulk edit](https://hackerone.com/reports/169759) to Shopify - 26 upvotes, $500
 32. [Open Redirect (verkkopalvelu.lahitapiola.fi)](https://hackerone.com/reports/179328) to LocalTapiola - 26 upvotes, $400
-33. [Open Redirect via login avito.ru | Protection bypass](https://hackerone.com/reports/355558) to Avito - 26 upvotes, $0
-34. [Open Redirect on https://go.bitwala.com/](https://hackerone.com/reports/967284) to Bitwala - 26 upvotes, $0
-35. [GET based Open redirect on [streamlabs.com/content-hub/streamlabs-obs/search?query=]](https://hackerone.com/reports/978680) to Logitech - 25 upvotes, $100
+33. [GET based Open redirect on [streamlabs.com/content-hub/streamlabs-obs/search?query=]](https://hackerone.com/reports/978680) to Logitech - 26 upvotes, $100
+34. [Open Redirect via login avito.ru | Protection bypass](https://hackerone.com/reports/355558) to Avito - 26 upvotes, $0
+35. [Open Redirect on https://go.bitwala.com/](https://hackerone.com/reports/967284) to Bitwala - 26 upvotes, $0
 36. [Open Redirect & Information Disclosure [mijn.werkenbijdefensie.nl]](https://hackerone.com/reports/239503) to Maximum - 24 upvotes, $350
 37. [Open redirect on the https://tt.hboeck.de](https://hackerone.com/reports/503922) to Hanno's projects - 24 upvotes, $0
 38. [Open Redirect Protection Bypass](https://hackerone.com/reports/283460) to Twitter - 23 upvotes, $280

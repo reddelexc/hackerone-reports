@@ -4,7 +4,7 @@ Top reports from Razer program at HackerOne:
 
 1. [🐞 OS Command Injection at https://sea-web.gold.razer.com/lab/ws-lookup via IP parameter](https://hackerone.com/reports/821962) to Razer - 664 upvotes, $2000
 2. [🐞 OS Command Injection at https://sea-web.gold.razer.com/lab/ws-lookup via IP parameter](https://hackerone.com/reports/821962) to Razer - 664 upvotes, $2000
-3. [SQL injection at https://sea-web.gold.razer.com/ajax-get-status.php via txid parameter](https://hackerone.com/reports/819738) to Razer - 572 upvotes, $2000
+3. [SQL injection at https://sea-web.gold.razer.com/ajax-get-status.php via txid parameter](https://hackerone.com/reports/819738) to Razer - 573 upvotes, $2000
 4. [SQL Injection in https://api-my.pay.razer.com/inviteFriend/getInviteHistoryLog](https://hackerone.com/reports/811111) to Razer - 524 upvotes, $2000
 5. [OTP token bypass in accessing user settings](https://hackerone.com/reports/699082) to Razer - 335 upvotes, $1000
 6. [[Razer Pay  Mobile App] Broken access control allowing other user's bank account to be deleted](https://hackerone.com/reports/757095) to Razer - 310 upvotes, $1000

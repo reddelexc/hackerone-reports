@@ -48,10 +48,10 @@ Top OAuth reports from HackerOne:
 44. [OAuth authorization page vulnerable to clickjacking](https://hackerone.com/reports/65825) to Coinbase - 6 upvotes, $5000
 45. [Bug in OAuth Success Redirect URI Validation](https://hackerone.com/reports/753547) to Polymail, Inc. - 6 upvotes, $0
 46. [Image Injection vulnerability affecting www.rockstargames.com/careers may lead to Facebook OAuth Theft](https://hackerone.com/reports/491654) to Rockstar Games - 5 upvotes, $500
-47. [Open redirection in OAuth](https://hackerone.com/reports/55525) to Shopify - 4 upvotes, $500
-48. [Image Injection on /bully/anniversaryedition may lead to OAuth token theft.](https://hackerone.com/reports/498358) to Rockstar Games - 4 upvotes, $500
-49. [OAuth Stealing Attack (New)](https://hackerone.com/reports/3930) to Phabricator - 4 upvotes, $400
-50. [Wordpress.com REST API oauth bypass via Cross Site Flashing](https://hackerone.com/reports/176308) to Automattic - 4 upvotes, $150
+47. [Wordpress.com REST API oauth bypass via Cross Site Flashing](https://hackerone.com/reports/176308) to Automattic - 5 upvotes, $150
+48. [Open redirection in OAuth](https://hackerone.com/reports/55525) to Shopify - 4 upvotes, $500
+49. [Image Injection on /bully/anniversaryedition may lead to OAuth token theft.](https://hackerone.com/reports/498358) to Rockstar Games - 4 upvotes, $500
+50. [OAuth Stealing Attack (New)](https://hackerone.com/reports/3930) to Phabricator - 4 upvotes, $400
 51. [Registration bypass using OAuth logical bug](https://hackerone.com/reports/64946) to Legal Robot - 4 upvotes, $40
 52. [XSS in uber oauth](https://hackerone.com/reports/131052) to Uber - 4 upvotes, $0
 53. [API OAuth Public Key disclosure in mobile app](https://hackerone.com/reports/160120) to Instacart - 4 upvotes, $0

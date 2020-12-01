@@ -81,15 +81,15 @@ Top reports from LocalTapiola program at HackerOne:
 77. [Lahitapiola´s customer names send to 3rd party](https://hackerone.com/reports/177523) to LocalTapiola - 5 upvotes, $588
 78. [The PdfServlet-functionality used by the "Tee vakuutustodistus" allows injection of custom PDF-content via CSRF-attack](https://hackerone.com/reports/129002) to LocalTapiola - 5 upvotes, $300
 79. [Option method enabled (viestinta.lahitapiola.fi)](https://hackerone.com/reports/182265) to LocalTapiola - 5 upvotes, $60
-80. [DoS of www.lahitapiolarahoitus.fi via CVE-2018-6389 exploitation](https://hackerone.com/reports/335177) to LocalTapiola - 5 upvotes, $50
-81. [Abusing and Hacking the SMTP Server secure.lahitapiola.fi](https://hackerone.com/reports/138315) to LocalTapiola - 4 upvotes, $300
-82. [Reflected XSS Vulnerability in www.lahitapiola.fi/cs/Satellite](https://hackerone.com/reports/219140) to LocalTapiola - 4 upvotes, $250
-83. [Exploiting Secure Shell (SSH) on mobilelt.lahitapiola.fi](https://hackerone.com/reports/139940) to LocalTapiola - 4 upvotes, $100
-84. [HTTP status code manipluation & java stack trace ](https://hackerone.com/reports/135192) to LocalTapiola - 4 upvotes, $100
-85. [XSS on 3rd party service Localtapiola is using](https://hackerone.com/reports/210908) to LocalTapiola - 4 upvotes, $100
-86. [/icons/README is still available on viestinta.lahitapiola.fi](https://hackerone.com/reports/208141) to LocalTapiola - 4 upvotes, $50
-87. [Verbose error message reveals internal system hostnames, protols and used ports (yrityspalvelu.tapiola.fi)](https://hackerone.com/reports/294464) to LocalTapiola - 4 upvotes, $50
-88. [Internal IP Address Disclosure at https://www.lahitapiolarahoitus.fi/wp-json/wp/v2/pages](https://hackerone.com/reports/329791) to LocalTapiola - 4 upvotes, $50
+80. [Internal IP Address Disclosure at https://www.lahitapiolarahoitus.fi/wp-json/wp/v2/pages](https://hackerone.com/reports/329791) to LocalTapiola - 5 upvotes, $50
+81. [DoS of www.lahitapiolarahoitus.fi via CVE-2018-6389 exploitation](https://hackerone.com/reports/335177) to LocalTapiola - 5 upvotes, $50
+82. [Abusing and Hacking the SMTP Server secure.lahitapiola.fi](https://hackerone.com/reports/138315) to LocalTapiola - 4 upvotes, $300
+83. [Reflected XSS Vulnerability in www.lahitapiola.fi/cs/Satellite](https://hackerone.com/reports/219140) to LocalTapiola - 4 upvotes, $250
+84. [Exploiting Secure Shell (SSH) on mobilelt.lahitapiola.fi](https://hackerone.com/reports/139940) to LocalTapiola - 4 upvotes, $100
+85. [HTTP status code manipluation & java stack trace ](https://hackerone.com/reports/135192) to LocalTapiola - 4 upvotes, $100
+86. [XSS on 3rd party service Localtapiola is using](https://hackerone.com/reports/210908) to LocalTapiola - 4 upvotes, $100
+87. [/icons/README is still available on viestinta.lahitapiola.fi](https://hackerone.com/reports/208141) to LocalTapiola - 4 upvotes, $50
+88. [Verbose error message reveals internal system hostnames, protols and used ports (yrityspalvelu.tapiola.fi)](https://hackerone.com/reports/294464) to LocalTapiola - 4 upvotes, $50
 89. [Disclosure of Users Information via Wordpress API (?rest_route)](https://hackerone.com/reports/335341) to LocalTapiola - 4 upvotes, $50
 90. [Reflected XSS and Open Redirect (verkkopalvelu.lahitapiola.fi)](https://hackerone.com/reports/194207) to LocalTapiola - 3 upvotes, $400
 91. [Reflected XSS on iltakoulu_varkaus (viestinta.lahitapiola.fi)](https://hackerone.com/reports/201137) to LocalTapiola - 3 upvotes, $150
