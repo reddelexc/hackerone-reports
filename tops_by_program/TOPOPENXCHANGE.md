@@ -37,13 +37,13 @@ Top reports from Open-Xchange program at HackerOne:
 33. [IDOR - Leaking other user's folder names from /appsuite/api/import?action=ICA](https://hackerone.com/reports/199281) to Open-Xchange - 13 upvotes, $300
 34. [[IDOR] Deleting other people's tasks](https://hackerone.com/reports/293845) to Open-Xchange - 13 upvotes, $300
 35. [IDOR allow to extract all registered email](https://hackerone.com/reports/302485) to Open-Xchange - 13 upvotes, $300
-36. [IDOR - setAttribute action of user object in API](https://hackerone.com/reports/285432) to Open-Xchange - 12 upvotes, $400
-37. [IDOR - Deleting other user's reminders just by id](https://hackerone.com/reports/198969) to Open-Xchange - 12 upvotes, $300
-38. [IDOR - Folder names disclosure inside a domain, regardless of user](https://hackerone.com/reports/194574) to Open-Xchange - 12 upvotes, $250
-39. [store xss in calendar via upload filename](https://hackerone.com/reports/385407) to Open-Xchange - 12 upvotes, $250
-40. [Pre-auth Denial-of-Service in Dovecot RPA implementation](https://hackerone.com/reports/866605) to Open-Xchange - 11 upvotes, $550
-41. [SSRF protection bypass in /appsuite/api/oxodocumentfilter addfile action](https://hackerone.com/reports/863553) to Open-Xchange - 11 upvotes, $550
-42. [OX Guard: DOM Based Cross-Site Scripting (#2)](https://hackerone.com/reports/164821) to Open-Xchange - 11 upvotes, $500
+36. [IDOR - Folder names disclosure inside a domain, regardless of user](https://hackerone.com/reports/194574) to Open-Xchange - 13 upvotes, $250
+37. [SSRF protection bypass in /appsuite/api/oxodocumentfilter addfile action](https://hackerone.com/reports/863553) to Open-Xchange - 12 upvotes, $550
+38. [OX Guard: DOM Based Cross-Site Scripting (#2)](https://hackerone.com/reports/164821) to Open-Xchange - 12 upvotes, $500
+39. [IDOR - setAttribute action of user object in API](https://hackerone.com/reports/285432) to Open-Xchange - 12 upvotes, $400
+40. [IDOR - Deleting other user's reminders just by id](https://hackerone.com/reports/198969) to Open-Xchange - 12 upvotes, $300
+41. [store xss in calendar via upload filename](https://hackerone.com/reports/385407) to Open-Xchange - 12 upvotes, $250
+42. [Pre-auth Denial-of-Service in Dovecot RPA implementation](https://hackerone.com/reports/866605) to Open-Xchange - 11 upvotes, $550
 43. [[XSS] RSS Feed Widget](https://hackerone.com/reports/361938) to Open-Xchange - 11 upvotes, $500
 44. [IDOR to view other user folder name](https://hackerone.com/reports/333767) to Open-Xchange - 11 upvotes, $250
 45. [Stored XSS in mail app](https://hackerone.com/reports/538323) to Open-Xchange - 10 upvotes, $500

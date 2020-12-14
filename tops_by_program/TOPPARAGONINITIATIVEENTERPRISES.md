@@ -7,7 +7,7 @@ Top reports from Paragon Initiative Enterprises program at HackerOne:
 3. [Subdomain Takeover](https://hackerone.com/reports/180393) to Paragon Initiative Enterprises - 53 upvotes, $0
 4. [I am because bug](https://hackerone.com/reports/226094) to Paragon Initiative Enterprises - 37 upvotes, $0
 5. [ssl info shown ](https://hackerone.com/reports/149369) to Paragon Initiative Enterprises - 31 upvotes, $0
-6. [[Critical] billion dollars issue](https://hackerone.com/reports/244836) to Paragon Initiative Enterprises - 25 upvotes, $0
+6. [[Critical] billion dollars issue](https://hackerone.com/reports/244836) to Paragon Initiative Enterprises - 26 upvotes, $0
 7. [Stored Cross-Site-Scripting in CMS Airship's  authors profiles](https://hackerone.com/reports/148741) to Paragon Initiative Enterprises - 23 upvotes, $50
 8. [Content-type sniffing leads to stored XSS in CMS Airship on Internet Explorer ](https://hackerone.com/reports/151231) to Paragon Initiative Enterprises - 15 upvotes, $0
 9. [Site support SNI But Browser can't](https://hackerone.com/reports/149442) to Paragon Initiative Enterprises - 14 upvotes, $0
@@ -26,13 +26,13 @@ Top reports from Paragon Initiative Enterprises program at HackerOne:
 22. [Cross-site-Scripting](https://hackerone.com/reports/226203) to Paragon Initiative Enterprises - 4 upvotes, $50
 23. [Invited user to a Author profile can remove the owner of that Author](https://hackerone.com/reports/274541) to Paragon Initiative Enterprises - 4 upvotes, $50
 24. [CSRF  AT SUBSCRIBE TO LIST ](https://hackerone.com/reports/115323) to Paragon Initiative Enterprises - 4 upvotes, $0
-25. [Airship: Persistent XSS via Comment](https://hackerone.com/reports/301973) to Paragon Initiative Enterprises - 4 upvotes, $0
-26. [Open-redirect on paragonie.com](https://hackerone.com/reports/113112) to Paragon Initiative Enterprises - 3 upvotes, $50
-27. [CSRF token does not valided during blog comment](https://hackerone.com/reports/273998) to Paragon Initiative Enterprises - 3 upvotes, $25
-28. [User enumeration  via Password reset page [Minor]](https://hackerone.com/reports/148911) to Paragon Initiative Enterprises - 3 upvotes, $0
-29. [Email Spoofing With Your Website's Email](https://hackerone.com/reports/163156) to Paragon Initiative Enterprises - 3 upvotes, $0
-30. [Broken Authentication & Session Management - Failure to Invalidate Session on all other browsers at Password change](https://hackerone.com/reports/226712) to Paragon Initiative Enterprises - 3 upvotes, $0
-31. [Full directory path listing](https://hackerone.com/reports/230098) to Paragon Initiative Enterprises - 3 upvotes, $0
+25. [Full directory path listing](https://hackerone.com/reports/230098) to Paragon Initiative Enterprises - 4 upvotes, $0
+26. [Airship: Persistent XSS via Comment](https://hackerone.com/reports/301973) to Paragon Initiative Enterprises - 4 upvotes, $0
+27. [Open-redirect on paragonie.com](https://hackerone.com/reports/113112) to Paragon Initiative Enterprises - 3 upvotes, $50
+28. [CSRF token does not valided during blog comment](https://hackerone.com/reports/273998) to Paragon Initiative Enterprises - 3 upvotes, $25
+29. [User enumeration  via Password reset page [Minor]](https://hackerone.com/reports/148911) to Paragon Initiative Enterprises - 3 upvotes, $0
+30. [Email Spoofing With Your Website's Email](https://hackerone.com/reports/163156) to Paragon Initiative Enterprises - 3 upvotes, $0
+31. [Broken Authentication & Session Management - Failure to Invalidate Session on all other browsers at Password change](https://hackerone.com/reports/226712) to Paragon Initiative Enterprises - 3 upvotes, $0
 32. [SMTP server allows anonymous relay from internal addresses to internal addresses](https://hackerone.com/reports/144385) to Paragon Initiative Enterprises - 3 upvotes, $0
 33. [Github repo's wiki publicly editable](https://hackerone.com/reports/461429) to Paragon Initiative Enterprises - 3 upvotes, $0
 34. [Missing rel=noopener noreferrer in target=_blank links (Phishing attack)](https://hackerone.com/reports/181225) to Paragon Initiative Enterprises - 2 upvotes, $50
