@@ -10,7 +10,7 @@ Top reports from QIWI program at HackerOne:
 6. [DOM XSS triggered in secure support desk](https://hackerone.com/reports/512065) to QIWI - 63 upvotes, $500
 7. [Обход комиссии на переводы](https://hackerone.com/reports/604560) to QIWI - 55 upvotes, $1050
 8. [XXE on ██████████ by bypassing WAF ████](https://hackerone.com/reports/433996) to QIWI - 49 upvotes, $5000
-9. [[contact-sys.com] SQL Injection████ limit param](https://hackerone.com/reports/164945) to QIWI - 47 upvotes, $250
+9. [[contact-sys.com] SQL Injection████ limit param](https://hackerone.com/reports/164945) to QIWI - 48 upvotes, $250
 10. [account takeover https://teamplay.qiwi.com](https://hackerone.com/reports/439207) to QIWI - 40 upvotes, $500
 11. [XML External Entity (XXE) in qiwi.com + waf bypass](https://hackerone.com/reports/99279) to QIWI - 39 upvotes, $3137
 12. [apache access.log leakage via long request on https://rapida.ru/](https://hackerone.com/reports/280912) to QIWI - 38 upvotes, $100
@@ -29,8 +29,8 @@ Top reports from QIWI program at HackerOne:
 25. [[qiwi.com] Oauth захват аккаунта](https://hackerone.com/reports/159507) to QIWI - 17 upvotes, $950
 26. [Возможность регистрации на сайте qiwi.com на любой номер телефона](https://hackerone.com/reports/420163) to QIWI - 17 upvotes, $200
 27. [Небезопасная схема выдачи номера карты QVC (возможно, также QVV и QVP)](https://hackerone.com/reports/87586) to QIWI - 17 upvotes, $200
-28. [[wallet.rapida.ru] XSS Cookie flashcookie](https://hackerone.com/reports/164662) to QIWI - 16 upvotes, $100
-29. [IDOR редактирование любого вишлиста](https://hackerone.com/reports/736065) to QIWI - 15 upvotes, $500
+28. [IDOR редактирование любого вишлиста](https://hackerone.com/reports/736065) to QIWI - 16 upvotes, $500
+29. [[wallet.rapida.ru] XSS Cookie flashcookie](https://hackerone.com/reports/164662) to QIWI - 16 upvotes, $100
 30. [Information disclosure on https://paycard.rapida.ru](https://hackerone.com/reports/299552) to QIWI - 15 upvotes, $100
 31. [https://fundl.qiwi.com CSRF на подтверждении sms ](https://hackerone.com/reports/301718) to QIWI - 15 upvotes, $100
 32. [[sms.qiwi.ru] XSS via Request-URI](https://hackerone.com/reports/38345) to QIWI - 15 upvotes, $100

@@ -6,15 +6,15 @@ Top Race Condition reports from HackerOne:
 2. [Race condition in performing retest allows duplicated payments](https://hackerone.com/reports/429026) to HackerOne - 194 upvotes, $2100
 3. [Race condition in activating email resulting in infinite amount of diamonds received](https://hackerone.com/reports/509629) to InnoGames - 134 upvotes, $2000
 4. [Client-Side Race Condition using Marketo, allows sending user to data-protocol in Safari when form without onSuccess is submitted on www.hackerone.com](https://hackerone.com/reports/381356) to HackerOne - 134 upvotes, $1250
-5. [Race Condition leads to undeletable group member](https://hackerone.com/reports/604534) to HackerOne - 112 upvotes, $500
+5. [Race Condition leads to undeletable group member](https://hackerone.com/reports/604534) to HackerOne - 113 upvotes, $500
 6. [Race Conditions in Popular reports feature.](https://hackerone.com/reports/146845) to HackerOne - 101 upvotes, $500
 7. [Race Condition when following a user](https://hackerone.com/reports/927384) to Staging.every.org - 85 upvotes, $0
-8. [Race Condition : Exploiting the loyalty claim https://xxx.vendhq.com/loyalty/claim/email/xxxxx url and gain x amount of loyalty bonus/cash](https://hackerone.com/reports/331940) to Vend VDP - 81 upvotes, $0
+8. [Race Condition : Exploiting the loyalty claim https://xxx.vendhq.com/loyalty/claim/email/xxxxx url and gain x amount of loyalty bonus/cash](https://hackerone.com/reports/331940) to Vend VDP - 82 upvotes, $0
 9. [Race Condition in Flag Submission](https://hackerone.com/reports/454949) to HackerOne - 66 upvotes, $500
 10. [Race condition leads to duplicate payouts](https://hackerone.com/reports/220445) to HackerOne - 60 upvotes, $750
-11. [Race Condition of Transfer data Credits to Organization Leads to Add Extra free Data Credits to the Organization](https://hackerone.com/reports/974892) to Helium - 54 upvotes, $250
-12. [Race condition in claiming program credentials ](https://hackerone.com/reports/488985) to HackerOne - 43 upvotes, $500
-13. [Race Condition on "Get free Badoo Premium" which allows to get more days of free premium for Free. ](https://hackerone.com/reports/1037430) to Badoo - 42 upvotes, $200
+11. [Race Condition of Transfer data Credits to Organization Leads to Add Extra free Data Credits to the Organization](https://hackerone.com/reports/974892) to Helium - 56 upvotes, $250
+12. [Race Condition on "Get free Badoo Premium" which allows to get more days of free premium for Free. ](https://hackerone.com/reports/1037430) to Badoo - 46 upvotes, $200
+13. [Race condition in claiming program credentials ](https://hackerone.com/reports/488985) to HackerOne - 43 upvotes, $500
 14. [Race Conditions in OAuth 2 API implementations](https://hackerone.com/reports/55140) to The Internet - 33 upvotes, $2500
 15. [Race Condition in Redeeming Coupons](https://hackerone.com/reports/157996) to Instacart - 31 upvotes, $200
 16. [Race conditions can be used to bypass invitation limit](https://hackerone.com/reports/115007) to Keybase - 29 upvotes, $350
@@ -41,9 +41,9 @@ Top Race Condition reports from HackerOne:
 37. [Race condition when redeeming coupon codes](https://hackerone.com/reports/59179) to Dropbox - 4 upvotes, $216
 38. [Race condition allowing user to review app multiple times](https://hackerone.com/reports/106360) to Coinbase - 4 upvotes, $100
 39. [Race Conditions Exist When Accepting Invitations](https://hackerone.com/reports/119354) to HackerOne - 4 upvotes, $0
-40. [Race condition in workers may cause an exploitable double free by abusing bytearray.compress()  ](https://hackerone.com/reports/47227) to Flash (IBB) - 1 upvotes, $10000
-41. [Adobe Flash Player Race Condition Vulnerability](https://hackerone.com/reports/119657) to Flash (IBB) - 1 upvotes, $2000
-42. [Race condition on my.stripo.email at /cabinet/stripeapi/v1/projects/298427/emails/folders uri](https://hackerone.com/reports/994051) to Stripo Inc - 1 upvotes, $0
+40. [Race condition on my.stripo.email at /cabinet/stripeapi/v1/projects/298427/emails/folders uri](https://hackerone.com/reports/994051) to Stripo Inc - 2 upvotes, $0
+41. [Race condition in workers may cause an exploitable double free by abusing bytearray.compress()  ](https://hackerone.com/reports/47227) to Flash (IBB) - 1 upvotes, $10000
+42. [Adobe Flash Player Race Condition Vulnerability](https://hackerone.com/reports/119657) to Flash (IBB) - 1 upvotes, $2000
 43. [Data race conditions reported by helgrind when performing parallel DNS queries in libcurl](https://hackerone.com/reports/1019457) to curl - 0 upvotes, $0
 
 

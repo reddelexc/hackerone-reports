@@ -6,7 +6,7 @@ Top reports from Razer program at HackerOne:
 2. [🐞 OS Command Injection at https://sea-web.gold.razer.com/lab/ws-lookup via IP parameter](https://hackerone.com/reports/821962) to Razer - 668 upvotes, $2000
 3. [SQL injection at https://sea-web.gold.razer.com/ajax-get-status.php via txid parameter](https://hackerone.com/reports/819738) to Razer - 574 upvotes, $2000
 4. [SQL Injection in https://api-my.pay.razer.com/inviteFriend/getInviteHistoryLog](https://hackerone.com/reports/811111) to Razer - 526 upvotes, $2000
-5. [OTP token bypass in accessing user settings](https://hackerone.com/reports/699082) to Razer - 335 upvotes, $1000
+5. [OTP token bypass in accessing user settings](https://hackerone.com/reports/699082) to Razer - 336 upvotes, $1000
 6. [[Razer Pay  Mobile App] Broken access control allowing other user's bank account to be deleted](https://hackerone.com/reports/757095) to Razer - 310 upvotes, $1000
 7. [[Razer Pay  Mobile App] Broken access control allowing other user's bank account to be deleted](https://hackerone.com/reports/757095) to Razer - 310 upvotes, $1000
 8. [Reflected XSS at https://pay.gold.razer.com escalated to account takeover](https://hackerone.com/reports/723060) to Razer - 286 upvotes, $750
@@ -18,13 +18,13 @@ Top reports from Razer program at HackerOne:
 14. [Through blocking the redirect in /* the attacker able to bypass Authentication To see Sensitive Data sush as Game Keys , Emails ,..](https://hackerone.com/reports/736273) to Razer - 195 upvotes, $1000
 15. [Unauthenticated access to sensitive user information](https://hackerone.com/reports/702677) to Razer - 184 upvotes, $500
 16. [SQLi at https://sea-web.gold.razer.com/demo-th/purchase-result.php via orderid Parameter](https://hackerone.com/reports/777693) to Razer - 183 upvotes, $2000
-17. [Misconfigured s3 Bucket exposure](https://hackerone.com/reports/700051) to Razer - 167 upvotes, $500
-18. [[IDOR] API endpoint leaking sensitive user information](https://hackerone.com/reports/723118) to Razer - 167 upvotes, $375
+17. [Misconfigured s3 Bucket exposure](https://hackerone.com/reports/700051) to Razer - 168 upvotes, $500
+18. [[IDOR] API endpoint leaking sensitive user information](https://hackerone.com/reports/723118) to Razer - 168 upvotes, $375
 19. [Accessible Druid Monitor console on https://api.pay-staging.razer.com/](https://hackerone.com/reports/702784) to Razer - 126 upvotes, $1500
 20. [SQL injection in Razer Gold List Admin at /lists/index.php via the `list[]` parameter. ](https://hackerone.com/reports/824307) to Razer - 121 upvotes, $2000
 21. [SQL Injection at api.easy2pay.co/add-on/get-sig.php via partner_id Parameter](https://hackerone.com/reports/768195) to Razer - 119 upvotes, $2000
 22. [HTML injection in support.razer.com [IE only]](https://hackerone.com/reports/826463) to Razer - 109 upvotes, $250
-23. [DOM XSS at https://www.thx.com in IE/Edge browser](https://hackerone.com/reports/702981) to Razer - 101 upvotes, $250
+23. [DOM XSS at https://www.thx.com in IE/Edge browser](https://hackerone.com/reports/702981) to Razer - 102 upvotes, $250
 24. [[Razer Pay Android App] Multiple vulnerabilities chained to allow "RedPacket" money to be stolen by a 3rd party](https://hackerone.com/reports/753280) to Razer - 84 upvotes, $1000
 25. [[pay.gold.razer.com] Stored XSS - Order payment](https://hackerone.com/reports/706916) to Razer - 81 upvotes, $1500
 26. [Blind SQL Injection at http://easytopup.in.th/es-services/mps.php via serial_no parameter](https://hackerone.com/reports/790914) to Razer - 80 upvotes, $1000
@@ -40,8 +40,8 @@ Top reports from Razer program at HackerOne:
 36. [Improper access control on easytopup.in.th transaction page leads to user's information disclosure and may lead to account hijacking](https://hackerone.com/reports/776877) to Razer - 38 upvotes, $1000
 37. [dom based xss on [hello.merchant.razer.com]](https://hackerone.com/reports/767944) to Razer - 36 upvotes, $500
 38. [Cookie based XSS on http://ftp1.thx.com](https://hackerone.com/reports/748217) to Razer - 30 upvotes, $375
-39. [DLL Hijacking in Synapse 2  CrashSender1402.exe via version.dll](https://hackerone.com/reports/702252) to Razer - 25 upvotes, $750
-40. [[razer-assets2] Listing of Amazon S3 Bucket accessible to any AWS cli  ](https://hackerone.com/reports/710319) to Razer - 25 upvotes, $250
+39. [[razer-assets2] Listing of Amazon S3 Bucket accessible to any AWS cli  ](https://hackerone.com/reports/710319) to Razer - 26 upvotes, $250
+40. [DLL Hijacking in Synapse 2  CrashSender1402.exe via version.dll](https://hackerone.com/reports/702252) to Razer - 25 upvotes, $750
 41. [Expired reCAPTCHA site key leads to Rate Limit Bypass and Email Enumeration](https://hackerone.com/reports/758280) to Razer - 24 upvotes, $200
 42. [Insecure Processing of XML leads to Denial of Service through Billion Laughs Attack](https://hackerone.com/reports/754117) to Razer - 21 upvotes, $375
 43. [Insecure Processing of XML leads to Denial of Service through Billion Laughs Attack](https://hackerone.com/reports/754117) to Razer - 21 upvotes, $375

@@ -37,22 +37,22 @@ Top reports from Verizon Media program at HackerOne:
 33. [caesary.yahoo.net Blind Sql Injection](https://hackerone.com/reports/21899) to Verizon Media - 2 upvotes, $0
 34. [Open Redirect via Request-URI](https://hackerone.com/reports/15298) to Verizon Media - 2 upvotes, $0
 35. [XSS using yql and developers console proxy](https://hackerone.com/reports/1011) to Verizon Media - 2 upvotes, $0
-36. [XSS Reflected - Yahoo Travel](https://hackerone.com/reports/1553) to Verizon Media - 2 upvotes, $0
-37. [Yahoo mail login page bruteforce protection bypass](https://hackerone.com/reports/2596) to Verizon Media - 2 upvotes, $0
-38. [Clickjacking at surveylink.yahoo.com](https://hackerone.com/reports/3578) to Verizon Media - 2 upvotes, $0
-39. [Stored Cross Site Scripting Vulnerability in Yahoo Mail](https://hackerone.com/reports/4277) to Verizon Media - 2 upvotes, $0
-40. [Almost all the subdomains are infected.](https://hackerone.com/reports/4359) to Verizon Media - 2 upvotes, $0
-41. [http://us.rd.yahoo.com/](https://hackerone.com/reports/12035) to Verizon Media - 2 upvotes, $0
-42. [XSS on Every sports.yahoo.com page](https://hackerone.com/reports/2168) to Verizon Media - 1 upvotes, $1500
-43. [Server Side Request Forgery](https://hackerone.com/reports/4461) to Verizon Media - 1 upvotes, $500
-44. [XSS in https://hk.user.auctions.yahoo.com](https://hackerone.com/reports/7266) to Verizon Media - 1 upvotes, $500
-45. [Comment Spoofing  at  http://suggestions.yahoo.com/detail/?prop=directory&fid=97721](https://hackerone.com/reports/6665) to Verizon Media - 1 upvotes, $500
-46. [Cross-origin issue on rmaiauth.ads.vip.bf1.yahoo.com](https://hackerone.com/reports/6268) to Verizon Media - 1 upvotes, $250
-47. [Yahoo! Reflected XSS](https://hackerone.com/reports/18279) to Verizon Media - 1 upvotes, $250
-48. [ClickJacking on http://au.launch.yahoo.com](https://hackerone.com/reports/1229) to Verizon Media - 1 upvotes, $0
-49. [Yahoo YQL Injection? ](https://hackerone.com/reports/1407) to Verizon Media - 1 upvotes, $0
-50. [Yahoo open redirect using ad](https://hackerone.com/reports/2322) to Verizon Media - 1 upvotes, $0
-51. [Bypass of anti-SSRF defenses in YahooCacheSystem (affecting at least YQL and Pipes)](https://hackerone.com/reports/1066) to Verizon Media - 1 upvotes, $0
+36. [Bypass of anti-SSRF defenses in YahooCacheSystem (affecting at least YQL and Pipes)](https://hackerone.com/reports/1066) to Verizon Media - 2 upvotes, $0
+37. [XSS Reflected - Yahoo Travel](https://hackerone.com/reports/1553) to Verizon Media - 2 upvotes, $0
+38. [Yahoo mail login page bruteforce protection bypass](https://hackerone.com/reports/2596) to Verizon Media - 2 upvotes, $0
+39. [Clickjacking at surveylink.yahoo.com](https://hackerone.com/reports/3578) to Verizon Media - 2 upvotes, $0
+40. [Stored Cross Site Scripting Vulnerability in Yahoo Mail](https://hackerone.com/reports/4277) to Verizon Media - 2 upvotes, $0
+41. [Almost all the subdomains are infected.](https://hackerone.com/reports/4359) to Verizon Media - 2 upvotes, $0
+42. [http://us.rd.yahoo.com/](https://hackerone.com/reports/12035) to Verizon Media - 2 upvotes, $0
+43. [XSS on Every sports.yahoo.com page](https://hackerone.com/reports/2168) to Verizon Media - 1 upvotes, $1500
+44. [Server Side Request Forgery](https://hackerone.com/reports/4461) to Verizon Media - 1 upvotes, $500
+45. [XSS in https://hk.user.auctions.yahoo.com](https://hackerone.com/reports/7266) to Verizon Media - 1 upvotes, $500
+46. [Comment Spoofing  at  http://suggestions.yahoo.com/detail/?prop=directory&fid=97721](https://hackerone.com/reports/6665) to Verizon Media - 1 upvotes, $500
+47. [Cross-origin issue on rmaiauth.ads.vip.bf1.yahoo.com](https://hackerone.com/reports/6268) to Verizon Media - 1 upvotes, $250
+48. [Yahoo! Reflected XSS](https://hackerone.com/reports/18279) to Verizon Media - 1 upvotes, $250
+49. [ClickJacking on http://au.launch.yahoo.com](https://hackerone.com/reports/1229) to Verizon Media - 1 upvotes, $0
+50. [Yahoo YQL Injection? ](https://hackerone.com/reports/1407) to Verizon Media - 1 upvotes, $0
+51. [Yahoo open redirect using ad](https://hackerone.com/reports/2322) to Verizon Media - 1 upvotes, $0
 52. [A csrf vulnerability which add and remove a favorite team from a user account.](https://hackerone.com/reports/1620) to Verizon Media - 1 upvotes, $0
 53. [Insufficient validation of redirect URL on login page allows hijacking user name and password](https://hackerone.com/reports/2126) to Verizon Media - 1 upvotes, $0
 54. [Reflected XSS in mail.yahoo.com](https://hackerone.com/reports/2240) to Verizon Media - 1 upvotes, $0

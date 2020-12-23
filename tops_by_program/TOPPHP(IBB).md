@@ -54,23 +54,23 @@ Top reports from PHP (IBB) program at HackerOne:
 50. [Potential infinite loop in gdImageCreateFromGifCtx!](https://hackerone.com/reports/305972) to PHP (IBB) - 6 upvotes, $500
 51. [integer overflow in fgetcsv caused heap corruption](https://hackerone.com/reports/167911) to PHP (IBB) - 6 upvotes, $500
 52. [Type Confusion in WDDX Packet Deserialization](https://hackerone.com/reports/114339) to PHP (IBB) - 5 upvotes, $1000
-53. [Integer Overflow in addcslashes()/addslashes()](https://hackerone.com/reports/146184) to PHP (IBB) - 5 upvotes, $500
-54. [Integer Overflow/Heap Overflow in json_encode()/json_decode()](https://hackerone.com/reports/146182) to PHP (IBB) - 5 upvotes, $500
-55. [Use After Free Vulnerability in array_walk()/array_walk_recursive()](https://hackerone.com/reports/155223) to PHP (IBB) - 5 upvotes, $500
-56. [pass2_no_dither out-of-bounds access](https://hackerone.com/reports/146940) to PHP (IBB) - 5 upvotes, $500
-57. [integer overflow in curl_escape caused heap corruption](https://hackerone.com/reports/159953) to PHP (IBB) - 5 upvotes, $500
-58. [integer overflow in pg_escape_bytea caused heap corruption](https://hackerone.com/reports/167905) to PHP (IBB) - 5 upvotes, $500
-59. [integer overflow in pg_escape_string caused heap corruption](https://hackerone.com/reports/167901) to PHP (IBB) - 5 upvotes, $500
-60. [integer overflow in php_uuencode caused heap corruption](https://hackerone.com/reports/159961) to PHP (IBB) - 5 upvotes, $500
-61. [Integer overflow lead to heap corruption in sql_regcase](https://hackerone.com/reports/159958) to PHP (IBB) - 5 upvotes, $500
-62. [integer overflow in bzdecompress caused heap corruption](https://hackerone.com/reports/159955) to PHP (IBB) - 5 upvotes, $500
-63. [PHP Heap Overflow Vulnerability in imagecrop()](https://hackerone.com/reports/1356) to PHP (IBB) - 4 upvotes, $1500
-64. [imagecolormatch Out Of Bounds Write on Heap ](https://hackerone.com/reports/478368) to PHP (IBB) - 4 upvotes, $1500
-65. [Use After Free in unserialize() with Unexpected Session Deserialization](https://hackerone.com/reports/152267) to PHP (IBB) - 4 upvotes, $1000
-66. [Create an Unexpected Object and Don't Invoke __wakeup() in During Deserialization](https://hackerone.com/reports/159943) to PHP (IBB) - 4 upvotes, $1000
-67. [Use After Free in PHP7 unserialize()](https://hackerone.com/reports/182474) to PHP (IBB) - 4 upvotes, $1000
-68. [Use-after-free in unserialize()](https://hackerone.com/reports/175982) to PHP (IBB) - 4 upvotes, $1000
-69. [Uninitialized Thumbail Data Leads To Memory Leakage in exif_process_IFD_in_TIFF](https://hackerone.com/reports/167888) to PHP (IBB) - 4 upvotes, $1000
+53. [Uninitialized Thumbail Data Leads To Memory Leakage in exif_process_IFD_in_TIFF](https://hackerone.com/reports/167888) to PHP (IBB) - 5 upvotes, $1000
+54. [Integer Overflow in addcslashes()/addslashes()](https://hackerone.com/reports/146184) to PHP (IBB) - 5 upvotes, $500
+55. [Integer Overflow/Heap Overflow in json_encode()/json_decode()](https://hackerone.com/reports/146182) to PHP (IBB) - 5 upvotes, $500
+56. [Use After Free Vulnerability in array_walk()/array_walk_recursive()](https://hackerone.com/reports/155223) to PHP (IBB) - 5 upvotes, $500
+57. [pass2_no_dither out-of-bounds access](https://hackerone.com/reports/146940) to PHP (IBB) - 5 upvotes, $500
+58. [integer overflow in curl_escape caused heap corruption](https://hackerone.com/reports/159953) to PHP (IBB) - 5 upvotes, $500
+59. [integer overflow in pg_escape_bytea caused heap corruption](https://hackerone.com/reports/167905) to PHP (IBB) - 5 upvotes, $500
+60. [integer overflow in pg_escape_string caused heap corruption](https://hackerone.com/reports/167901) to PHP (IBB) - 5 upvotes, $500
+61. [integer overflow in php_uuencode caused heap corruption](https://hackerone.com/reports/159961) to PHP (IBB) - 5 upvotes, $500
+62. [Integer overflow lead to heap corruption in sql_regcase](https://hackerone.com/reports/159958) to PHP (IBB) - 5 upvotes, $500
+63. [integer overflow in bzdecompress caused heap corruption](https://hackerone.com/reports/159955) to PHP (IBB) - 5 upvotes, $500
+64. [PHP Heap Overflow Vulnerability in imagecrop()](https://hackerone.com/reports/1356) to PHP (IBB) - 4 upvotes, $1500
+65. [imagecolormatch Out Of Bounds Write on Heap ](https://hackerone.com/reports/478368) to PHP (IBB) - 4 upvotes, $1500
+66. [Use After Free in unserialize() with Unexpected Session Deserialization](https://hackerone.com/reports/152267) to PHP (IBB) - 4 upvotes, $1000
+67. [Create an Unexpected Object and Don't Invoke __wakeup() in During Deserialization](https://hackerone.com/reports/159943) to PHP (IBB) - 4 upvotes, $1000
+68. [Use After Free in PHP7 unserialize()](https://hackerone.com/reports/182474) to PHP (IBB) - 4 upvotes, $1000
+69. [Use-after-free in unserialize()](https://hackerone.com/reports/175982) to PHP (IBB) - 4 upvotes, $1000
 70. [Type Confusion Vulnerability in SoapClient](https://hackerone.com/reports/73245) to PHP (IBB) - 4 upvotes, $500
 71. [Invalid parameter in memcpy function trough openssl_pbkdf2](https://hackerone.com/reports/190933) to PHP (IBB) - 4 upvotes, $500
 72. [Heap overflow caused by type confusion vulnerability in merge_param()](https://hackerone.com/reports/172411) to PHP (IBB) - 4 upvotes, $500

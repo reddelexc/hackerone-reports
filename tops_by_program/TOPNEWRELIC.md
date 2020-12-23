@@ -2,7 +2,7 @@
 
 Top reports from New Relic program at HackerOne:
 
-1. [Password theft login.newrelic.com via Request Smuggling](https://hackerone.com/reports/498052) to New Relic - 469 upvotes, $3000
+1. [Password theft login.newrelic.com via Request Smuggling](https://hackerone.com/reports/498052) to New Relic - 471 upvotes, $3000
 2. [Unsafe charts embedding implementation leads to cross-account stored XSS and SSRF](https://hackerone.com/reports/708589) to New Relic - 218 upvotes, $2500
 3. [Cross-account stored XSS at embedded charts](https://hackerone.com/reports/709883) to New Relic - 153 upvotes, $3625
 4. [Stored XSS in notes (charts) because of insecure chart data JSON generation](https://hackerone.com/reports/507132) to New Relic - 143 upvotes, $4250
@@ -20,8 +20,8 @@ Top reports from New Relic program at HackerOne:
 16. [Bypass of my three other reports #267636 + #255894 + #271861 - (IDOR) Ability to see full name associated with other New Relic accounts](https://hackerone.com/reports/320173) to New Relic - 35 upvotes, $1500
 17. [SSRF in alerts.newrelic.com exposes entire internal network](https://hackerone.com/reports/198690) to New Relic - 34 upvotes, $0
 18. [Users can enable API access for free via mass assignment](https://hackerone.com/reports/267781) to New Relic - 28 upvotes, $0
-19. [The impossibility of inclusion of the trial (BROWSER)](https://hackerone.com/reports/460428) to New Relic - 26 upvotes, $200
-20. [[NR Insights] IDOR - Modify the filter settings for any NR Insights dashboard through internal_api endpoint](https://hackerone.com/reports/459443) to New Relic - 25 upvotes, $2500
+19. [[NR Insights] IDOR - Modify the filter settings for any NR Insights dashboard through internal_api endpoint](https://hackerone.com/reports/459443) to New Relic - 26 upvotes, $2500
+20. [The impossibility of inclusion of the trial (BROWSER)](https://hackerone.com/reports/460428) to New Relic - 26 upvotes, $200
 21. [Cache-Control Misconfiguration Leads to Sensitive Information Leakage](https://hackerone.com/reports/132835) to New Relic - 24 upvotes, $0
 22. [Stored XSS firing at transaction map (applicationName field)](https://hackerone.com/reports/549084) to New Relic - 17 upvotes, $2500
 23. [User to Admin privilege escalation in Infrastructure Conditions - /v2/accounts/1835740/alerts/conditions](https://hackerone.com/reports/300879) to New Relic - 17 upvotes, $500

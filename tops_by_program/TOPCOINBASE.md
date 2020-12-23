@@ -3,7 +3,7 @@
 Top reports from Coinbase program at HackerOne:
 
 1. [Ethereum account balance manipulation](https://hackerone.com/reports/300748) to Coinbase - 236 upvotes, $10000
-2. [Double Payout via PayPal](https://hackerone.com/reports/307239) to Coinbase - 231 upvotes, $10000
+2. [Double Payout via PayPal](https://hackerone.com/reports/307239) to Coinbase - 233 upvotes, $10000
 3. [ETH contract handling errors](https://hackerone.com/reports/328526) to Coinbase - 193 upvotes, $21000
 4. [Authentication Issue](https://hackerone.com/reports/176979) to Coinbase - 21 upvotes, $200
 5. [[buy.coinbase.com]Content Injection](https://hackerone.com/reports/218680) to Coinbase - 20 upvotes, $100
