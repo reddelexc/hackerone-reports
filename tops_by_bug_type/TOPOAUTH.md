@@ -3,14 +3,14 @@
 Top OAuth reports from HackerOne:
 
 1. [Shopify Stocky App OAuth Misconfiguration](https://hackerone.com/reports/740989) to Shopify - 504 upvotes, $5000
-2. [Chained Bugs to Leak Victim's Uber's FB Oauth Token](https://hackerone.com/reports/202781) to Uber - 364 upvotes, $7500
+2. [Chained Bugs to Leak Victim's Uber's FB Oauth Token](https://hackerone.com/reports/202781) to Uber - 365 upvotes, $7500
 3. [Insufficient OAuth callback validation which leads to Periscope account takeover](https://hackerone.com/reports/110293) to Twitter - 254 upvotes, $5040
 4. [Unauthenticated blind SSRF in OAuth Jira authorization controller](https://hackerone.com/reports/398799) to GitLab - 214 upvotes, $4000
 5. [Ability to bypass email verification for OAuth grants results in accounts takeovers on 3rd parties](https://hackerone.com/reports/922456) to GitLab - 204 upvotes, $3000
 6. [OAuth `redirect_uri` bypass using IDN homograph attack resulting in user's access token leakage](https://hackerone.com/reports/861940) to Semrush - 193 upvotes, $1000
 7. [Stealing Facebook OAuth Code Through Screenshot viewer](https://hackerone.com/reports/488269) to Rockstar Games - 185 upvotes, $750
 8. [Referer Leakage Vulnerability in  socialclub.rockstargames.com/crew/ leads to FB'S OAuth token theft.](https://hackerone.com/reports/787160) to Rockstar Games - 101 upvotes, $750
-9. [User account compromised authentication bypass via oauth token impersonation](https://hackerone.com/reports/739321) to PicsArt - 88 upvotes, $0
+9. [User account compromised authentication bypass via oauth token impersonation](https://hackerone.com/reports/739321) to PicsArt - 89 upvotes, $0
 10. [Incorrect details on OAuth permissions screen allows DMs to be read without permission](https://hackerone.com/reports/434763) to Twitter - 71 upvotes, $2940
 11. [Facebook OAuth Code Theft through referer leakage on support.rockstargames.com](https://hackerone.com/reports/482743) to Rockstar Games - 65 upvotes, $750
 12. [CSRF on Periscope Web OAuth authorization endpoint ](https://hackerone.com/reports/215381) to Twitter - 61 upvotes, $2520

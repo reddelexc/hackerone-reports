@@ -27,7 +27,7 @@ Top XXE reports from HackerOne:
 23. [Singapore - XXE at https://www.starbucks.com.sg/RestApi/soap11](https://hackerone.com/reports/762251) to Starbucks - 26 upvotes, $500
 24. [Blind XXE on my.mail.ru](https://hackerone.com/reports/276276) to Mail.ru - 23 upvotes, $800
 25. [[app.informaticaondemand.com] XXE](https://hackerone.com/reports/105753) to Informatica - 23 upvotes, $0
-26. [Non-production Open Database In Combination With XXE Leads To SSRF](https://hackerone.com/reports/742808) to Evernote - 22 upvotes, $0
+26. [Non-production Open Database In Combination With XXE Leads To SSRF](https://hackerone.com/reports/742808) to Evernote - 23 upvotes, $0
 27. [ XXE in upload file feature](https://hackerone.com/reports/105787) to Informatica - 21 upvotes, $0
 28. [[send.qiwi.ru] Soap-based XXE vulnerability /soapserver/ ](https://hackerone.com/reports/36450) to QIWI - 17 upvotes, $1000
 29. [Blind XXE on pu.vk.com](https://hackerone.com/reports/296622) to VK.com - 16 upvotes, $500

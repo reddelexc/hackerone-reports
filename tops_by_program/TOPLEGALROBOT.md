@@ -73,19 +73,19 @@ Top reports from Legal Robot program at HackerOne:
 69. [Profile fields validation bypass](https://hackerone.com/reports/255474) to Legal Robot - 5 upvotes, $20
 70. [Email spoofing-fake mail from your mail domain server ](https://hackerone.com/reports/163501) to Legal Robot - 5 upvotes, $0
 71. [Click Jacking](https://hackerone.com/reports/163888) to Legal Robot - 5 upvotes, $0
-72. [Email Length Verification ](https://hackerone.com/reports/263589) to Legal Robot - 5 upvotes, $0
-73. [Missing homograph filter character](https://hackerone.com/reports/268981) to Legal Robot - 5 upvotes, $0
-74. [Improper Implementation of Password strength checker](https://hackerone.com/reports/271950) to Legal Robot - 5 upvotes, $0
-75. [2FA user enumeration via password reset](https://hackerone.com/reports/249431) to Legal Robot - 4 upvotes, $90
-76. [Registration bypass using OAuth logical bug](https://hackerone.com/reports/64946) to Legal Robot - 4 upvotes, $40
-77. [Password reset form ignores email field](https://hackerone.com/reports/213180) to Legal Robot - 4 upvotes, $40
-78. [- Guessing registered users in legalrobot.com](https://hackerone.com/reports/66845) to Legal Robot - 4 upvotes, $20
-79. [Password complexity ignores empty spaces](https://hackerone.com/reports/250253) to Legal Robot - 4 upvotes, $20
-80. [No length limit in invite_code can cause server degradation](https://hackerone.com/reports/260662) to Legal Robot - 4 upvotes, $20
-81. [No error or notification on Reset password page](https://hackerone.com/reports/255100) to Legal Robot - 4 upvotes, $20
-82. [Amazon Bucket Accessible (http://legalrobot.s3.amazonaws.com/)](https://hackerone.com/reports/163599) to Legal Robot - 4 upvotes, $0
-83. [SWEET32 TLS attack](https://hackerone.com/reports/199438) to Legal Robot - 4 upvotes, $0
-84. [Change password session fixed](https://hackerone.com/reports/260751) to Legal Robot - 4 upvotes, $0
+72. [Change password session fixed](https://hackerone.com/reports/260751) to Legal Robot - 5 upvotes, $0
+73. [Email Length Verification ](https://hackerone.com/reports/263589) to Legal Robot - 5 upvotes, $0
+74. [Missing homograph filter character](https://hackerone.com/reports/268981) to Legal Robot - 5 upvotes, $0
+75. [Improper Implementation of Password strength checker](https://hackerone.com/reports/271950) to Legal Robot - 5 upvotes, $0
+76. [2FA user enumeration via password reset](https://hackerone.com/reports/249431) to Legal Robot - 4 upvotes, $90
+77. [Registration bypass using OAuth logical bug](https://hackerone.com/reports/64946) to Legal Robot - 4 upvotes, $40
+78. [Password reset form ignores email field](https://hackerone.com/reports/213180) to Legal Robot - 4 upvotes, $40
+79. [- Guessing registered users in legalrobot.com](https://hackerone.com/reports/66845) to Legal Robot - 4 upvotes, $20
+80. [Password complexity ignores empty spaces](https://hackerone.com/reports/250253) to Legal Robot - 4 upvotes, $20
+81. [No length limit in invite_code can cause server degradation](https://hackerone.com/reports/260662) to Legal Robot - 4 upvotes, $20
+82. [No error or notification on Reset password page](https://hackerone.com/reports/255100) to Legal Robot - 4 upvotes, $20
+83. [Amazon Bucket Accessible (http://legalrobot.s3.amazonaws.com/)](https://hackerone.com/reports/163599) to Legal Robot - 4 upvotes, $0
+84. [SWEET32 TLS attack](https://hackerone.com/reports/199438) to Legal Robot - 4 upvotes, $0
 85. [UX: JS error on Password Safety link](https://hackerone.com/reports/262109) to Legal Robot - 4 upvotes, $0
 86. [design issue exists on login page ](https://hackerone.com/reports/264101) to Legal Robot - 4 upvotes, $0
 87. [Autocomplete feature ](https://hackerone.com/reports/267356) to Legal Robot - 4 upvotes, $0

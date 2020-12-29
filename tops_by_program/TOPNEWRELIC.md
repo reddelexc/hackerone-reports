@@ -18,7 +18,7 @@ Top reports from New Relic program at HackerOne:
 14. [User can run monitors at private locations, which he has no access to](https://hackerone.com/reports/681001) to New Relic - 39 upvotes, $3000
 15. [[NR Insights] Pull any Insights/NRQL data from any NR account](https://hackerone.com/reports/397137) to New Relic - 35 upvotes, $2500
 16. [Bypass of my three other reports #267636 + #255894 + #271861 - (IDOR) Ability to see full name associated with other New Relic accounts](https://hackerone.com/reports/320173) to New Relic - 35 upvotes, $1500
-17. [SSRF in alerts.newrelic.com exposes entire internal network](https://hackerone.com/reports/198690) to New Relic - 34 upvotes, $0
+17. [SSRF in alerts.newrelic.com exposes entire internal network](https://hackerone.com/reports/198690) to New Relic - 35 upvotes, $0
 18. [Users can enable API access for free via mass assignment](https://hackerone.com/reports/267781) to New Relic - 28 upvotes, $0
 19. [[NR Insights] IDOR - Modify the filter settings for any NR Insights dashboard through internal_api endpoint](https://hackerone.com/reports/459443) to New Relic - 26 upvotes, $2500
 20. [The impossibility of inclusion of the trial (BROWSER)](https://hackerone.com/reports/460428) to New Relic - 26 upvotes, $200
@@ -55,12 +55,12 @@ Top reports from New Relic program at HackerOne:
 51. [newrelic.atlassian.net - jira information disclosure](https://hackerone.com/reports/197726) to New Relic - 10 upvotes, $0
 52. [Captcha Bypass on SignUp Form](https://hackerone.com/reports/277300) to New Relic - 10 upvotes, $0
 53. [Upgrade menu exposes the mobile application token meant to only be visible to administrators ](https://hackerone.com/reports/447975) to New Relic - 9 upvotes, $750
-54. [No validation on account names](https://hackerone.com/reports/114796) to New Relic - 9 upvotes, $0
-55. [Stored XSS at Synthetics private locations (planted through location label or description)](https://hackerone.com/reports/680240) to New Relic - 8 upvotes, $2500
-56. [Stored XSS Via NRQL chartbuilder JSON view ](https://hackerone.com/reports/634692) to New Relic - 8 upvotes, $2500
-57. [Ability to view monitor names of other NR accounts through internal API (v3) via "monitor_id" parameter ](https://hackerone.com/reports/462321) to New Relic - 8 upvotes, $2000
-58. [Full name of other accounts exposed through NR API Explorer (another workaround of #476958)](https://hackerone.com/reports/520518) to New Relic - 8 upvotes, $750
-59. [Vulnerable Link Leaks the User Names](https://hackerone.com/reports/123089) to New Relic - 8 upvotes, $0
+54. [Vulnerable Link Leaks the User Names](https://hackerone.com/reports/123089) to New Relic - 9 upvotes, $0
+55. [No validation on account names](https://hackerone.com/reports/114796) to New Relic - 9 upvotes, $0
+56. [Stored XSS at Synthetics private locations (planted through location label or description)](https://hackerone.com/reports/680240) to New Relic - 8 upvotes, $2500
+57. [Stored XSS Via NRQL chartbuilder JSON view ](https://hackerone.com/reports/634692) to New Relic - 8 upvotes, $2500
+58. [Ability to view monitor names of other NR accounts through internal API (v3) via "monitor_id" parameter ](https://hackerone.com/reports/462321) to New Relic - 8 upvotes, $2000
+59. [Full name of other accounts exposed through NR API Explorer (another workaround of #476958)](https://hackerone.com/reports/520518) to New Relic - 8 upvotes, $750
 60. [https://rpm.newrelic.com/login vulnerable to host header attack](https://hackerone.com/reports/123078) to New Relic - 8 upvotes, $0
 61. [Drupal admin takeover via install.php not being performed prior to install.](https://hackerone.com/reports/329407) to New Relic - 8 upvotes, $0
 62. [Mixed content issues on newrelic.com](https://hackerone.com/reports/700091) to New Relic - 8 upvotes, $0

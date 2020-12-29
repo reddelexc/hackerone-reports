@@ -2,7 +2,7 @@
 
 Top reports from Paragon Initiative Enterprises program at HackerOne:
 
-1. [BAD Code ! ](https://hackerone.com/reports/180074) to Paragon Initiative Enterprises - 461 upvotes, $0
+1. [BAD Code ! ](https://hackerone.com/reports/180074) to Paragon Initiative Enterprises - 462 upvotes, $0
 2. [DMARC  Not found for paragonie.com   URGENT](https://hackerone.com/reports/179828) to Paragon Initiative Enterprises - 129 upvotes, $0
 3. [Subdomain Takeover](https://hackerone.com/reports/180393) to Paragon Initiative Enterprises - 54 upvotes, $0
 4. [I am because bug](https://hackerone.com/reports/226094) to Paragon Initiative Enterprises - 37 upvotes, $0
@@ -14,9 +14,9 @@ Top reports from Paragon Initiative Enterprises program at HackerOne:
 10. [Paragonie Airship Admin CSRF on Extensions Pages](https://hackerone.com/reports/243094) to Paragon Initiative Enterprises - 11 upvotes, $100
 11. [Stored XSS using  SVG ](https://hackerone.com/reports/148853) to Paragon Initiative Enterprises - 11 upvotes, $50
 12. [Email Spoof](https://hackerone.com/reports/115452) to Paragon Initiative Enterprises - 9 upvotes, $0
-13. [Improper access control lead  To delete anyone comment](https://hackerone.com/reports/273805) to Paragon Initiative Enterprises - 8 upvotes, $100
-14. [Directory Disclose,Email Disclose Zendmail vulnerability](https://hackerone.com/reports/228112) to Paragon Initiative Enterprises - 8 upvotes, $50
-15. [Spf ](https://hackerone.com/reports/116927) to Paragon Initiative Enterprises - 8 upvotes, $0
+13. [Spf ](https://hackerone.com/reports/116927) to Paragon Initiative Enterprises - 9 upvotes, $0
+14. [Improper access control lead  To delete anyone comment](https://hackerone.com/reports/273805) to Paragon Initiative Enterprises - 8 upvotes, $100
+15. [Directory Disclose,Email Disclose Zendmail vulnerability](https://hackerone.com/reports/228112) to Paragon Initiative Enterprises - 8 upvotes, $50
 16. [Stored XSS in comments](https://hackerone.com/reports/148751) to Paragon Initiative Enterprises - 6 upvotes, $25
 17. [[Airship CMS] Local File Inclusion - RST Parser](https://hackerone.com/reports/179034) to Paragon Initiative Enterprises - 6 upvotes, $0
 18. [Incorrect detection of onion URLs](https://hackerone.com/reports/181210) to Paragon Initiative Enterprises - 5 upvotes, $50

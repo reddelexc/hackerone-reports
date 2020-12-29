@@ -6,7 +6,7 @@ Top reports from Zomato program at HackerOne:
 2. [[www.zomato.com] SQLi - /php/██████████ - item_id](https://hackerone.com/reports/403616) to Zomato - 270 upvotes, $4500
 3. [[www.zomato.com] Availing Zomato Gold membership for free by tampering plan id(s) ](https://hackerone.com/reports/511044) to Zomato - 216 upvotes, $1000
 4. [[www.zomato.com] Blind XSS on one of the Admin Dashboard](https://hackerone.com/reports/724889) to Zomato - 209 upvotes, $750
-5. [[www.zomato.com] CORS Misconfiguration, could lead to disclosure of sensitive information](https://hackerone.com/reports/426165) to Zomato - 201 upvotes, $550
+5. [[www.zomato.com] CORS Misconfiguration, could lead to disclosure of sensitive information](https://hackerone.com/reports/426165) to Zomato - 202 upvotes, $550
 6. [Information Disclosure through Sentry Instance ███████](https://hackerone.com/reports/697512) to Zomato - 166 upvotes, $750
 7. [[api.zomato.com] Able to manipulate order amount](https://hackerone.com/reports/512968) to Zomato - 129 upvotes, $4500
 8. [Solr Injection in `user_id` parameter at :/v2/leaderboard_v2.json](https://hackerone.com/reports/952501) to Zomato - 127 upvotes, $2000
@@ -38,16 +38,16 @@ Top reports from Zomato program at HackerOne:
 34. [[www.zomato.com] IDOR - Leaking all Personal Details of all Zomato Users through an endpoint](https://hackerone.com/reports/269937) to Zomato - 26 upvotes, $750
 35. [[█████████] Hardcoded credentials in Android App](https://hackerone.com/reports/246995) to Zomato - 26 upvotes, $500
 36. [[www.zomato.com] Privilege Escalation - /php/restaurant_menus_handler.php](https://hackerone.com/reports/300454) to Zomato - 25 upvotes, $200
-37. [[www.zomato.com] Abusing LocalParams to Inject Code through ███████ query](https://hackerone.com/reports/341600) to Zomato - 23 upvotes, $700
-38. [Unauthorised Access to Anyone's User Account](https://hackerone.com/reports/202921) to Zomato - 23 upvotes, $0
-39. [Reflected XSS on developers.zomato.com](https://hackerone.com/reports/418823) to Zomato - 21 upvotes, $100
-40. [Possible to enumerate Addresses of users using AddressId and guessing the delivery_subzone](https://hackerone.com/reports/514897) to Zomato - 20 upvotes, $1500
-41. [SQL Injection, exploitable in boolean mode](https://hackerone.com/reports/246412) to Zomato - 20 upvotes, $300
-42. [[www.zomato.com] Unauthenticated access to Internal Sales Data of Zomato through an unrestricted endpoint](https://hackerone.com/reports/263535) to Zomato - 20 upvotes, $250
-43. [Improper validation allows user to unlock Zomato Gold multiple times at the same restaurant within one day](https://hackerone.com/reports/486629) to Zomato - 20 upvotes, $150
-44. [Length extension attack leading to HTML injection](https://hackerone.com/reports/251572) to Zomato - 20 upvotes, $100
-45. [Use any User to Follow you (Increase Followers) [IDOR]](https://hackerone.com/reports/245969) to Zomato - 20 upvotes, $50
-46. [CORS Misconfiguration on www.zomato.com](https://hackerone.com/reports/168574) to Zomato - 19 upvotes, $0
+37. [Unauthorised Access to Anyone's User Account](https://hackerone.com/reports/202921) to Zomato - 24 upvotes, $0
+38. [[www.zomato.com] Abusing LocalParams to Inject Code through ███████ query](https://hackerone.com/reports/341600) to Zomato - 23 upvotes, $700
+39. [CORS Misconfiguration on www.zomato.com](https://hackerone.com/reports/168574) to Zomato - 22 upvotes, $0
+40. [Reflected XSS on developers.zomato.com](https://hackerone.com/reports/418823) to Zomato - 21 upvotes, $100
+41. [Possible to enumerate Addresses of users using AddressId and guessing the delivery_subzone](https://hackerone.com/reports/514897) to Zomato - 20 upvotes, $1500
+42. [SQL Injection, exploitable in boolean mode](https://hackerone.com/reports/246412) to Zomato - 20 upvotes, $300
+43. [[www.zomato.com] Unauthenticated access to Internal Sales Data of Zomato through an unrestricted endpoint](https://hackerone.com/reports/263535) to Zomato - 20 upvotes, $250
+44. [Improper validation allows user to unlock Zomato Gold multiple times at the same restaurant within one day](https://hackerone.com/reports/486629) to Zomato - 20 upvotes, $150
+45. [Length extension attack leading to HTML injection](https://hackerone.com/reports/251572) to Zomato - 20 upvotes, $100
+46. [Use any User to Follow you (Increase Followers) [IDOR]](https://hackerone.com/reports/245969) to Zomato - 20 upvotes, $50
 47. [[www.zomato.com] Privilege Escalation - Control reviews - /████dashboard_handler.php](https://hackerone.com/reports/300099) to Zomato - 18 upvotes, $300
 48. [Ability to manipulate price with a max threshold of `\<1 Rupee` in support rider parameter](https://hackerone.com/reports/927661) to Zomato - 16 upvotes, $150
 49. [User Profiles Leak PII in HTML Document for Mobile Browser User Agents](https://hackerone.com/reports/288596) to Zomato - 15 upvotes, $500

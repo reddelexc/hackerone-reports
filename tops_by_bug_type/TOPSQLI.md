@@ -27,9 +27,9 @@ Top SQLI reports from HackerOne:
 23. [www.drivegrab.com SQL injection](https://hackerone.com/reports/273946) to Grab - 164 upvotes, $4500
 24. [Blind SQL injection in Hall of Fap](https://hackerone.com/reports/295841) to Tube8 - 158 upvotes, $2500
 25. [SQL injection in GraphQL endpoint through embedded_submission_form_uuid parameter](https://hackerone.com/reports/435066) to HackerOne - 142 upvotes, $0
-26. [SQL Injection [unauthenticated] with direct output at https://news.mail.ru/](https://hackerone.com/reports/818972) to Mail.ru - 138 upvotes, $7500
-27. [SQL injection in Razer Gold List Admin at /lists/index.php via the `list[]` parameter. ](https://hackerone.com/reports/824307) to Razer - 121 upvotes, $2000
-28. [Sql injection on docs.atavist.com](https://hackerone.com/reports/1039315) to Automattic - 120 upvotes, $200
+26. [SQL Injection [unauthenticated] with direct output at https://news.mail.ru/](https://hackerone.com/reports/818972) to Mail.ru - 139 upvotes, $7500
+27. [Sql injection on docs.atavist.com](https://hackerone.com/reports/1039315) to Automattic - 124 upvotes, $200
+28. [SQL injection in Razer Gold List Admin at /lists/index.php via the `list[]` parameter. ](https://hackerone.com/reports/824307) to Razer - 122 upvotes, $2000
 29. [SQL Injection at api.easy2pay.co/add-on/get-sig.php via partner_id Parameter](https://hackerone.com/reports/768195) to Razer - 119 upvotes, $2000
 30. [SQL injection on contactws.contact-sys.com in TRateObject.AddForOffice in USER_ID parameter leads to remote code execution](https://hackerone.com/reports/816560) to QIWI - 107 upvotes, $1000
 31. [turboslim.lady.mail.ru - Blind sql-injection.](https://hackerone.com/reports/795291) to Mail.ru - 89 upvotes, $5000
@@ -47,9 +47,9 @@ Top SQLI reports from HackerOne:
 43. [[https://reviews.zomato.com] Time Based SQL Injection](https://hackerone.com/reports/300176) to Zomato - 60 upvotes, $1000
 44. [SQL injection in 3rd party software Anomali](https://hackerone.com/reports/206872) to Uber - 57 upvotes, $2500
 45. [[www.zomato.com] SQLi on `order_id` parameter](https://hackerone.com/reports/358669) to Zomato - 57 upvotes, $1000
-46. [Blind SQL injection in third-party software, that allows to reveal user statistic from rocket.chat and possibly hack into the rocketchat.agilecrm.com](https://hackerone.com/reports/433792) to Rocket.Chat - 57 upvotes, $0
-47. [[www.zomato.com] Blind SQL Injection in /php/geto2banner](https://hackerone.com/reports/838855) to Zomato - 56 upvotes, $2000
-48. [RCE, SQLi, IDOR, Auth Bypass and XSS at [staff.███.edu.eg ]](https://hackerone.com/reports/404874) to ██████ - 56 upvotes, $0
+46. [RCE, SQLi, IDOR, Auth Bypass and XSS at [staff.███.edu.eg ]](https://hackerone.com/reports/404874) to ██████ - 57 upvotes, $0
+47. [Blind SQL injection in third-party software, that allows to reveal user statistic from rocket.chat and possibly hack into the rocketchat.agilecrm.com](https://hackerone.com/reports/433792) to Rocket.Chat - 57 upvotes, $0
+48. [[www.zomato.com] Blind SQL Injection in /php/geto2banner](https://hackerone.com/reports/838855) to Zomato - 56 upvotes, $2000
 49. [Time-base SQL Injection in Search Users](https://hackerone.com/reports/876800) to concrete5 - 54 upvotes, $0
 50. [[www.zomato.com] Union SQLi + Waf Bypass](https://hackerone.com/reports/258582) to Zomato - 52 upvotes, $1000
 51. [Blind SQL Injection on news.mail.ru](https://hackerone.com/reports/732430) to Mail.ru - 51 upvotes, $3000
@@ -99,10 +99,10 @@ Top SQLI reports from HackerOne:
 95. [Blind SQLi vulnerability in a DoD Website](https://hackerone.com/reports/213239) to U.S. Dept Of Defense - 14 upvotes, $0
 96. [[untitled-model] sql injection](https://hackerone.com/reports/507222) to Node.js third-party modules - 14 upvotes, $0
 97. [Blind SQL injection on ████████](https://hackerone.com/reports/313037) to U.S. Dept Of Defense - 14 upvotes, $0
-98. [[api.easy2pay.co] SQL Injection in cashcard via card_no parameter ⭐️Bypassing IP whitelist⭐️](https://hackerone.com/reports/894329) to Razer - 14 upvotes, $0
-99. [SQL injection vulnerability on a DoD website](https://hackerone.com/reports/189332) to U.S. Dept Of Defense - 13 upvotes, $0
-100. [[query-mysql] SQL Injection due to lack of user input sanitization allows to run arbitrary SQL queries when fetching data from database](https://hackerone.com/reports/311244) to Node.js third-party modules - 13 upvotes, $0
-101. [https://zest.co.th/zestlinepay/checkproduct API endpoint suffers from Boolean-based SQL injection](https://hackerone.com/reports/783147) to Razer - 13 upvotes, $0
+98. [https://zest.co.th/zestlinepay/checkproduct API endpoint suffers from Boolean-based SQL injection](https://hackerone.com/reports/783147) to Razer - 14 upvotes, $0
+99. [[api.easy2pay.co] SQL Injection in cashcard via card_no parameter ⭐️Bypassing IP whitelist⭐️](https://hackerone.com/reports/894329) to Razer - 14 upvotes, $0
+100. [SQL injection vulnerability on a DoD website](https://hackerone.com/reports/189332) to U.S. Dept Of Defense - 13 upvotes, $0
+101. [[query-mysql] SQL Injection due to lack of user input sanitization allows to run arbitrary SQL queries when fetching data from database](https://hackerone.com/reports/311244) to Node.js third-party modules - 13 upvotes, $0
 102. [Code source discloure & ability to get database information "SQL injection" in   [townwars.mail.ru]](https://hackerone.com/reports/141329) to Mail.ru - 12 upvotes, $150
 103. [blind sql injection](https://hackerone.com/reports/374027) to Hanno's projects - 12 upvotes, $0
 104. [ SQL injections](https://hackerone.com/reports/272506) to U.S. Dept Of Defense - 12 upvotes, $0

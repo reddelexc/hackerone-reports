@@ -2,7 +2,7 @@
 
 Top Race Condition reports from HackerOne:
 
-1. [Race Condition allows to redeem multiple times gift cards which leads to free "money"](https://hackerone.com/reports/759247) to Reverb.com - 252 upvotes, $1500
+1. [Race Condition allows to redeem multiple times gift cards which leads to free "money"](https://hackerone.com/reports/759247) to Reverb.com - 253 upvotes, $1500
 2. [Race condition in performing retest allows duplicated payments](https://hackerone.com/reports/429026) to HackerOne - 194 upvotes, $2100
 3. [Race condition in activating email resulting in infinite amount of diamonds received](https://hackerone.com/reports/509629) to InnoGames - 134 upvotes, $2000
 4. [Client-Side Race Condition using Marketo, allows sending user to data-protocol in Safari when form without onSuccess is submitted on www.hackerone.com](https://hackerone.com/reports/381356) to HackerOne - 134 upvotes, $1250
@@ -13,7 +13,7 @@ Top Race Condition reports from HackerOne:
 9. [Race Condition in Flag Submission](https://hackerone.com/reports/454949) to HackerOne - 66 upvotes, $500
 10. [Race condition leads to duplicate payouts](https://hackerone.com/reports/220445) to HackerOne - 60 upvotes, $750
 11. [Race Condition of Transfer data Credits to Organization Leads to Add Extra free Data Credits to the Organization](https://hackerone.com/reports/974892) to Helium - 56 upvotes, $250
-12. [Race Condition on "Get free Badoo Premium" which allows to get more days of free premium for Free. ](https://hackerone.com/reports/1037430) to Badoo - 46 upvotes, $200
+12. [Race Condition on "Get free Badoo Premium" which allows to get more days of free premium for Free. ](https://hackerone.com/reports/1037430) to Badoo - 47 upvotes, $200
 13. [Race condition in claiming program credentials ](https://hackerone.com/reports/488985) to HackerOne - 43 upvotes, $500
 14. [Race Conditions in OAuth 2 API implementations](https://hackerone.com/reports/55140) to The Internet - 33 upvotes, $2500
 15. [Race Condition in Redeeming Coupons](https://hackerone.com/reports/157996) to Instacart - 31 upvotes, $200

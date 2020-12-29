@@ -22,8 +22,8 @@ Top reports from Brave Software program at HackerOne:
 18. [Homograph attack](https://hackerone.com/reports/175286) to Brave Software - 14 upvotes, $100
 19. [https://publishers.basicattentiontoken.org/favicon.ico is Vulnerable to CVE-2017-7529](https://hackerone.com/reports/980856) to Brave Software - 14 upvotes, $100
 20. [URL spoofing in Brave for macOS](https://hackerone.com/reports/369086) to Brave Software - 14 upvotes, $50
-21. [Access to local file system using javascript](https://hackerone.com/reports/175979) to Brave Software - 13 upvotes, $100
-22. [No rate limiting for confirmation email lead to email flooding and leads to enumeration of emails in publishers.basicattentiontoken.org](https://hackerone.com/reports/854793) to Brave Software - 13 upvotes, $50
+21. [No rate limiting for confirmation email lead to email flooding and leads to enumeration of emails in publishers.basicattentiontoken.org](https://hackerone.com/reports/854793) to Brave Software - 14 upvotes, $50
+22. [Access to local file system using javascript](https://hackerone.com/reports/175979) to Brave Software - 13 upvotes, $100
 23. [chrome://brave can still be navigated to, leading to RCE](https://hackerone.com/reports/415178) to Brave Software - 12 upvotes, $300
 24. [[ios] Address bar spoofing in Brave for iOS](https://hackerone.com/reports/176929) to Brave Software - 12 upvotes, $50
 25. [Torrent extension: Cross-origin downloading + "URL spoofing" + CSP-blocked XSS](https://hackerone.com/reports/378864) to Brave Software - 12 upvotes, $0

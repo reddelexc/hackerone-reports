@@ -3,14 +3,14 @@
 Top Clickjacking reports from HackerOne:
 
 1. [Highly wormable clickjacking in player card](https://hackerone.com/reports/85624) to Twitter - 127 upvotes, $5040
-2. [Twitter Periscope Clickjacking Vulnerability](https://hackerone.com/reports/591432) to Twitter - 122 upvotes, $1120
+2. [Twitter Periscope Clickjacking Vulnerability](https://hackerone.com/reports/591432) to Twitter - 123 upvotes, $1120
 3. [Clickjacking on donation page](https://hackerone.com/reports/921709) to WordPress - 88 upvotes, $50
 4. [Viral Direct Message Clickjacking via link truncation leading to capture of both Google credentials & installation of malicious 3rd party Twitter App](https://hackerone.com/reports/643274) to Twitter - 64 upvotes, $1120
 5. [Sensitive Clickjacking on admin login page.](https://hackerone.com/reports/389145) to Shipt - 51 upvotes, $100
 6. [Stealing User emails by clickjacking cards.twitter.com/xxx/xxx](https://hackerone.com/reports/154963) to Twitter - 49 upvotes, $1120
-7. [Clickjacking vkpay](https://hackerone.com/reports/374817) to VK.com - 43 upvotes, $0
+7. [Clickjacking vkpay](https://hackerone.com/reports/374817) to VK.com - 44 upvotes, $0
 8. [URL is vulnerable to clickjacking  https://app.passit.io/](https://hackerone.com/reports/530008) to Passit - 28 upvotes, $0
-9. [[api.tumblr.com] Exploiting clickjacking vulnerability to trigger self DOM-based XSS](https://hackerone.com/reports/953579) to Automattic - 26 upvotes, $150
+9. [[api.tumblr.com] Exploiting clickjacking vulnerability to trigger self DOM-based XSS](https://hackerone.com/reports/953579) to Automattic - 27 upvotes, $150
 10. [CRITICAL-CLICKJACKING at Yelp Reservations Resulting in exposure of victim Private Data (Email info) + Victim Credit Card MissUse. ](https://hackerone.com/reports/355859) to Yelp - 17 upvotes, $500
 11. [Clickjacking at join.nordvpn.com](https://hackerone.com/reports/765955) to NordVPN - 16 upvotes, $100
 12. [Clickjacking in the admin page](https://hackerone.com/reports/728004) to Rocket.Chat - 16 upvotes, $0
@@ -44,14 +44,14 @@ Top Clickjacking reports from HackerOne:
 40. [Clickjacking](https://hackerone.com/reports/200419) to Pushwoosh - 7 upvotes, $0
 41. [Click Jacking Nextcloud](https://hackerone.com/reports/347782) to Nextcloud - 7 upvotes, $0
 42. [Clickjacking on my.stripo.email for MailChimp credentials ](https://hackerone.com/reports/737625) to Stripo Inc - 7 upvotes, $0
-43. [Clickjacking lead to remove review](https://hackerone.com/reports/965141) to Yelp - 6 upvotes, $0
-44. [Bypass of the Clickjacking protection on Flickr using data URL in iframes](https://hackerone.com/reports/7264) to Verizon Media - 5 upvotes, $250
-45. [Click Jacking](https://hackerone.com/reports/163888) to Legal Robot - 5 upvotes, $0
-46. [https://admin.corp.cuvva.co/ is vulnerable to Clickjacking attacks due to missing X-Frame-Options ](https://hackerone.com/reports/231434) to Cuvva - 5 upvotes, $0
-47. [Clickjacking docs.weblate.org](https://hackerone.com/reports/223391) to Weblate - 5 upvotes, $0
-48. [clickjacking on https://gratipay.com/on/npm/[text]](https://hackerone.com/reports/267189) to Gratipay - 5 upvotes, $0
-49. [Account takeover vulnerability by editor role privileged users/attackers via clickjacking](https://hackerone.com/reports/388254) to WordPress - 5 upvotes, $0
-50. [ClickJacking on IMPORTANT Functions of Yelp](https://hackerone.com/reports/305128) to Yelp - 4 upvotes, $500
+43. [Account takeover vulnerability by editor role privileged users/attackers via clickjacking](https://hackerone.com/reports/388254) to WordPress - 6 upvotes, $0
+44. [Clickjacking lead to remove review](https://hackerone.com/reports/965141) to Yelp - 6 upvotes, $0
+45. [ClickJacking on IMPORTANT Functions of Yelp](https://hackerone.com/reports/305128) to Yelp - 5 upvotes, $500
+46. [Bypass of the Clickjacking protection on Flickr using data URL in iframes](https://hackerone.com/reports/7264) to Verizon Media - 5 upvotes, $250
+47. [Click Jacking](https://hackerone.com/reports/163888) to Legal Robot - 5 upvotes, $0
+48. [https://admin.corp.cuvva.co/ is vulnerable to Clickjacking attacks due to missing X-Frame-Options ](https://hackerone.com/reports/231434) to Cuvva - 5 upvotes, $0
+49. [Clickjacking docs.weblate.org](https://hackerone.com/reports/223391) to Weblate - 5 upvotes, $0
+50. [clickjacking on https://gratipay.com/on/npm/[text]](https://hackerone.com/reports/267189) to Gratipay - 5 upvotes, $0
 51. [Found clickjacking vulnerability](https://hackerone.com/reports/119828) to LeaseWeb - 4 upvotes, $0
 52. [Clickjacking In https://demo.nextcloud.com](https://hackerone.com/reports/222762) to Nextcloud - 4 upvotes, $0
 53. [Clickjacking Full account takeover and editing the personal information at [account.my.com]](https://hackerone.com/reports/261652) to Mail.ru - 4 upvotes, $0

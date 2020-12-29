@@ -2,7 +2,7 @@
 
 Top reports from GitLab program at HackerOne:
 
-1. [Arbitrary file read via the UploadsRewriter when moving and issue](https://hackerone.com/reports/827052) to GitLab - 1367 upvotes, $20000
+1. [Arbitrary file read via the UploadsRewriter when moving and issue](https://hackerone.com/reports/827052) to GitLab - 1369 upvotes, $20000
 2. [Git flag injection - local file overwrite to remote code execution](https://hackerone.com/reports/658013) to GitLab - 740 upvotes, $12000
 3. [Exfiltrate and mutate repository and project data through injected templated service](https://hackerone.com/reports/446585) to GitLab - 726 upvotes, $11000
 4. [Stored XSS in Wiki pages](https://hackerone.com/reports/526325) to GitLab - 589 upvotes, $4500
@@ -10,7 +10,7 @@ Top reports from GitLab program at HackerOne:
 6. [Project Template functionality can be used to copy private project data, such as repository, confidential issues, snippets, and merge requests](https://hackerone.com/reports/689314) to GitLab - 429 upvotes, $12000
 7. [gitlab-workhorse bypass in Gitlab::Middleware::Multipart allowing files in `allowed_paths` to be read](https://hackerone.com/reports/850447) to GitLab - 385 upvotes, $10000
 8. [JSON serialization of any Project model results in all Runner tokens being exposed through Quick Actions](https://hackerone.com/reports/509924) to GitLab - 346 upvotes, $12000
-9. [Bypass of GitLab CI runner slash fix in YAML validation](https://hackerone.com/reports/409395) to GitLab - 344 upvotes, $12000
+9. [Bypass of GitLab CI runner slash fix in YAML validation](https://hackerone.com/reports/409395) to GitLab - 345 upvotes, $12000
 10. [Attacker is able to access commit title and team member comments which are supposed to be private](https://hackerone.com/reports/502593) to GitLab - 335 upvotes, $7000
 11. [SSRF on project import via the remote_attachment_url on a Note](https://hackerone.com/reports/826361) to GitLab - 332 upvotes, $10000
 12. [Server Side Request Forgery mitigation bypass](https://hackerone.com/reports/632101) to GitLab - 326 upvotes, $3500
@@ -111,11 +111,11 @@ Top reports from GitLab program at HackerOne:
 107. [Users can download old project exports due to unclaimed namespace](https://hackerone.com/reports/195058) to GitLab - 10 upvotes, $0
 108. [Persistent XSS - Selecting users as allowed merge request approvers](https://hackerone.com/reports/346217) to GitLab - 10 upvotes, $0
 109. [HTML TAG INJECTION ON PROFILE NAME](https://hackerone.com/reports/358001) to GitLab - 10 upvotes, $0
-110. [Blocked user Git access through CI/CD token](https://hackerone.com/reports/497047) to GitLab - 9 upvotes, $1500
-111. [Attacker can extract list of private project's project members](https://hackerone.com/reports/128051) to GitLab - 9 upvotes, $0
-112. [Users with guest access can post notes to private merge requests, issues, and snippets](https://hackerone.com/reports/195140) to GitLab - 9 upvotes, $0
-113. [SSRF vulnerability in gitlab.com webhook](https://hackerone.com/reports/301924) to GitLab - 9 upvotes, $0
-114. [Unauthorized user is able to access schedule pipeline variables and values](https://hackerone.com/reports/962462) to GitLab - 8 upvotes, $3000
+110. [Unauthorized user is able to access schedule pipeline variables and values](https://hackerone.com/reports/962462) to GitLab - 9 upvotes, $3000
+111. [Blocked user Git access through CI/CD token](https://hackerone.com/reports/497047) to GitLab - 9 upvotes, $1500
+112. [Attacker can extract list of private project's project members](https://hackerone.com/reports/128051) to GitLab - 9 upvotes, $0
+113. [Users with guest access can post notes to private merge requests, issues, and snippets](https://hackerone.com/reports/195140) to GitLab - 9 upvotes, $0
+114. [SSRF vulnerability in gitlab.com webhook](https://hackerone.com/reports/301924) to GitLab - 9 upvotes, $0
 115. [SSRF into Shared Runner, by replacing dockerd with malicious server in Executor](https://hackerone.com/reports/809248) to GitLab - 8 upvotes, $2000
 116. [Head pipeline leaked to unauthorized users via blocking merge request feature](https://hackerone.com/reports/667408) to GitLab - 8 upvotes, $1000
 117. [Last pipeline status for MR leaked ](https://hackerone.com/reports/582349) to GitLab - 8 upvotes, $750
