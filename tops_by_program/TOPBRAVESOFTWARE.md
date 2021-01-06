@@ -18,9 +18,9 @@ Top reports from Brave Software program at HackerOne:
 14. [DMARC RECORD MISSING](https://hackerone.com/reports/491753) to Brave Software - 16 upvotes, $50
 15. [Username Information Disclosure via Json response - Using parameter number Intruder](https://hackerone.com/reports/812351) to Brave Software - 16 upvotes, $0
 16. [Homograph Attack Bypass [ Tested on Linux & Windows ]](https://hackerone.com/reports/268984) to Brave Software - 15 upvotes, $100
-17. [Bypassing Homograph Attack Using /@ [ Tested On Windows ]](https://hackerone.com/reports/317931) to Brave Software - 15 upvotes, $50
-18. [Homograph attack](https://hackerone.com/reports/175286) to Brave Software - 14 upvotes, $100
-19. [https://publishers.basicattentiontoken.org/favicon.ico is Vulnerable to CVE-2017-7529](https://hackerone.com/reports/980856) to Brave Software - 14 upvotes, $100
+17. [https://publishers.basicattentiontoken.org/favicon.ico is Vulnerable to CVE-2017-7529](https://hackerone.com/reports/980856) to Brave Software - 15 upvotes, $100
+18. [Bypassing Homograph Attack Using /@ [ Tested On Windows ]](https://hackerone.com/reports/317931) to Brave Software - 15 upvotes, $50
+19. [Homograph attack](https://hackerone.com/reports/175286) to Brave Software - 14 upvotes, $100
 20. [URL spoofing in Brave for macOS](https://hackerone.com/reports/369086) to Brave Software - 14 upvotes, $50
 21. [No rate limiting for confirmation email lead to email flooding and leads to enumeration of emails in publishers.basicattentiontoken.org](https://hackerone.com/reports/854793) to Brave Software - 14 upvotes, $50
 22. [Access to local file system using javascript](https://hackerone.com/reports/175979) to Brave Software - 13 upvotes, $100

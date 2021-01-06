@@ -2,8 +2,8 @@
 
 Top reports from Razer program at HackerOne:
 
-1. [🐞 OS Command Injection at https://sea-web.gold.razer.com/lab/ws-lookup via IP parameter](https://hackerone.com/reports/821962) to Razer - 669 upvotes, $2000
-2. [🐞 OS Command Injection at https://sea-web.gold.razer.com/lab/ws-lookup via IP parameter](https://hackerone.com/reports/821962) to Razer - 669 upvotes, $2000
+1. [🐞 OS Command Injection at https://sea-web.gold.razer.com/lab/ws-lookup via IP parameter](https://hackerone.com/reports/821962) to Razer - 671 upvotes, $2000
+2. [🐞 OS Command Injection at https://sea-web.gold.razer.com/lab/ws-lookup via IP parameter](https://hackerone.com/reports/821962) to Razer - 671 upvotes, $2000
 3. [SQL injection at https://sea-web.gold.razer.com/ajax-get-status.php via txid parameter](https://hackerone.com/reports/819738) to Razer - 574 upvotes, $2000
 4. [SQL Injection in https://api-my.pay.razer.com/inviteFriend/getInviteHistoryLog](https://hackerone.com/reports/811111) to Razer - 526 upvotes, $2000
 5. [OTP token bypass in accessing user settings](https://hackerone.com/reports/699082) to Razer - 336 upvotes, $1000
@@ -49,8 +49,8 @@ Top reports from Razer program at HackerOne:
 45. [IDOR in eform.molpay.com leads to see other users application forms with private data](https://hackerone.com/reports/790829) to Razer - 20 upvotes, $500
 46. [Request Smuggling vulnerability due a vulnerable skipper reverse proxy running in the environment.](https://hackerone.com/reports/711679) to Razer - 18 upvotes, $375
 47. [Subdomain takeover at iosota.razersynapse.com via Amazon S3](https://hackerone.com/reports/813313) to Razer - 18 upvotes, $200
-48. [[press.razer.com] Origin IP found, Cloudflare bypassed](https://hackerone.com/reports/776933) to Razer - 17 upvotes, $200
-49. [Reflected XSS on molpay.com with cloudflare bypass](https://hackerone.com/reports/800360) to Razer - 16 upvotes, $375
+48. [Reflected XSS on molpay.com with cloudflare bypass](https://hackerone.com/reports/800360) to Razer - 17 upvotes, $375
+49. [[press.razer.com] Origin IP found, Cloudflare bypassed](https://hackerone.com/reports/776933) to Razer - 17 upvotes, $200
 50. [Reflected XSS on https://www.easytopup.in.th/store/product/return on parameter mref_id](https://hackerone.com/reports/776883) to Razer - 16 upvotes, $250
 51. [PHPInfo Page on www.razer.ru](https://hackerone.com/reports/744573) to Razer - 16 upvotes, $0
 52. [Access to support tickets and payment history, impersonate razer support staff](https://hackerone.com/reports/776110) to Razer - 15 upvotes, $1500

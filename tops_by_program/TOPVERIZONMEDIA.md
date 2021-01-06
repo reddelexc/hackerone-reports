@@ -28,11 +28,11 @@ Top reports from Verizon Media program at HackerOne:
 24. [XSS Vulnerability (my.yahoo.com)](https://hackerone.com/reports/4256) to Verizon Media - 3 upvotes, $250
 25. [http://conf.member.yahoo.com configuration file disclosure](https://hackerone.com/reports/2598) to Verizon Media - 3 upvotes, $100
 26. [Java Applet Execution On Y! Messenger](https://hackerone.com/reports/933) to Verizon Media - 3 upvotes, $0
-27. [XSS in my yahoo](https://hackerone.com/reports/1203) to Verizon Media - 2 upvotes, $800
-28. [information disclosure (LOAD BALANCER + URI XSS)](https://hackerone.com/reports/8284) to Verizon Media - 2 upvotes, $300
-29. [XSS in Yahoo! Web Analytics](https://hackerone.com/reports/5442) to Verizon Media - 2 upvotes, $100
-30. [Default /docs folder of PHPBB3 installation on gamesnet.yahoo.com](https://hackerone.com/reports/17506) to Verizon Media - 2 upvotes, $50
-31. [Directory Traversal ](https://hackerone.com/reports/1092) to Verizon Media - 2 upvotes, $0
+27. [Directory Traversal ](https://hackerone.com/reports/1092) to Verizon Media - 3 upvotes, $0
+28. [XSS in my yahoo](https://hackerone.com/reports/1203) to Verizon Media - 2 upvotes, $800
+29. [information disclosure (LOAD BALANCER + URI XSS)](https://hackerone.com/reports/8284) to Verizon Media - 2 upvotes, $300
+30. [XSS in Yahoo! Web Analytics](https://hackerone.com/reports/5442) to Verizon Media - 2 upvotes, $100
+31. [Default /docs folder of PHPBB3 installation on gamesnet.yahoo.com](https://hackerone.com/reports/17506) to Verizon Media - 2 upvotes, $50
 32. [In Fantasy Sports iOS app, signup page is requested over HTTP](https://hackerone.com/reports/2101) to Verizon Media - 2 upvotes, $0
 33. [caesary.yahoo.net Blind Sql Injection](https://hackerone.com/reports/21899) to Verizon Media - 2 upvotes, $0
 34. [Open Redirect via Request-URI](https://hackerone.com/reports/15298) to Verizon Media - 2 upvotes, $0

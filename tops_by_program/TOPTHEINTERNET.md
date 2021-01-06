@@ -5,12 +5,12 @@ Top reports from The Internet program at HackerOne:
 1. [Key Reinstallation Attacks: Breaking WPA2 by forcing nonce reuse](https://hackerone.com/reports/286740) to The Internet - 188 upvotes, $25000
 2. [Ubuntu Linux privilege escalation (dirty_sock)](https://hackerone.com/reports/496285) to The Internet - 101 upvotes, $1000
 3. [RCE via ssh:// URIs in multiple VCS ](https://hackerone.com/reports/260005) to The Internet - 38 upvotes, $3000
-4. [ACME TLS-SNI-01/02 challenge vulnerable when combined with shared hosting providers](https://hackerone.com/reports/304378) to The Internet - 34 upvotes, $0
-5. [Race Conditions in OAuth 2 API implementations](https://hackerone.com/reports/55140) to The Internet - 33 upvotes, $2500
+4. [Race Conditions in OAuth 2 API implementations](https://hackerone.com/reports/55140) to The Internet - 34 upvotes, $2500
+5. [ACME TLS-SNI-01/02 challenge vulnerable when combined with shared hosting providers](https://hackerone.com/reports/304378) to The Internet - 34 upvotes, $0
 6. [ZeroMQ libzmq remote code execution](https://hackerone.com/reports/477073) to The Internet - 29 upvotes, $1000
 7. [Mailsploit: a sender spoofing bug in over 30 email clients](https://hackerone.com/reports/295339) to The Internet - 27 upvotes, $0
 8. [4 severe remote + several minor OpenVPN vulnerabilities](https://hackerone.com/reports/242579) to The Internet - 27 upvotes, $0
-9. [DOMPurify bypass](https://hackerone.com/reports/1024734) to The Internet - 21 upvotes, $0
+9. [DOMPurify bypass](https://hackerone.com/reports/1024734) to The Internet - 22 upvotes, $0
 10. [Insufficient shell characters filtering leads to (potentially remote) code execution (CVE-2016-3714)](https://hackerone.com/reports/143966) to The Internet - 20 upvotes, $7500
 11. [TLS Virtual Host Confusion](https://hackerone.com/reports/501) to The Internet - 19 upvotes, $7500
 12. [Multiple HTTP Smuggling reports](https://hackerone.com/reports/648434) to The Internet - 16 upvotes, $0

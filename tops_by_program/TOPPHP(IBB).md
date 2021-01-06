@@ -13,7 +13,7 @@ Top reports from PHP (IBB) program at HackerOne:
 9. [Int Overflow lead to Heap OverFlow in exif_thumbnail_extract of exif.c](https://hackerone.com/reports/384477) to PHP (IBB) - 42 upvotes, $500
 10. [mb_strtolower (UTF-32LE): stack-buffer-overflow at php_unicode_tolower_full (CVE-2020-7065)](https://hackerone.com/reports/838127) to PHP (IBB) - 40 upvotes, $1500
 11. [PHP mbstring / Oniguruma multiple remote heap/stack corruptions](https://hackerone.com/reports/237915) to PHP (IBB) - 35 upvotes, $1500
-12. [CVE-2019-11043: a buffer underflow in fpm_main.c can lead to RCE in php-fpm](https://hackerone.com/reports/722327) to PHP (IBB) - 34 upvotes, $1500
+12. [CVE-2019-11043: a buffer underflow in fpm_main.c can lead to RCE in php-fpm](https://hackerone.com/reports/722327) to PHP (IBB) - 35 upvotes, $1500
 13. [select_colors write out-of-bounds](https://hackerone.com/reports/161189) to PHP (IBB) - 23 upvotes, $1000
 14. [Out of Bounds Memory Read in exif_scan_thumbnail](https://hackerone.com/reports/675578) to PHP (IBB) - 20 upvotes, $1500
 15. [PHP Session Data Injection Vulnerability](https://hackerone.com/reports/159946) to PHP (IBB) - 16 upvotes, $1000

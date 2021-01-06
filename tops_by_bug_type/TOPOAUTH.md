@@ -6,24 +6,24 @@ Top OAuth reports from HackerOne:
 2. [Chained Bugs to Leak Victim's Uber's FB Oauth Token](https://hackerone.com/reports/202781) to Uber - 365 upvotes, $7500
 3. [Insufficient OAuth callback validation which leads to Periscope account takeover](https://hackerone.com/reports/110293) to Twitter - 254 upvotes, $5040
 4. [Unauthenticated blind SSRF in OAuth Jira authorization controller](https://hackerone.com/reports/398799) to GitLab - 214 upvotes, $4000
-5. [Ability to bypass email verification for OAuth grants results in accounts takeovers on 3rd parties](https://hackerone.com/reports/922456) to GitLab - 204 upvotes, $3000
-6. [OAuth `redirect_uri` bypass using IDN homograph attack resulting in user's access token leakage](https://hackerone.com/reports/861940) to Semrush - 193 upvotes, $1000
+5. [Ability to bypass email verification for OAuth grants results in accounts takeovers on 3rd parties](https://hackerone.com/reports/922456) to GitLab - 205 upvotes, $3000
+6. [OAuth `redirect_uri` bypass using IDN homograph attack resulting in user's access token leakage](https://hackerone.com/reports/861940) to Semrush - 194 upvotes, $1000
 7. [Stealing Facebook OAuth Code Through Screenshot viewer](https://hackerone.com/reports/488269) to Rockstar Games - 185 upvotes, $750
 8. [Referer Leakage Vulnerability in  socialclub.rockstargames.com/crew/ leads to FB'S OAuth token theft.](https://hackerone.com/reports/787160) to Rockstar Games - 101 upvotes, $750
 9. [User account compromised authentication bypass via oauth token impersonation](https://hackerone.com/reports/739321) to PicsArt - 89 upvotes, $0
 10. [Incorrect details on OAuth permissions screen allows DMs to be read without permission](https://hackerone.com/reports/434763) to Twitter - 71 upvotes, $2940
 11. [Facebook OAuth Code Theft through referer leakage on support.rockstargames.com](https://hackerone.com/reports/482743) to Rockstar Games - 65 upvotes, $750
 12. [CSRF on Periscope Web OAuth authorization endpoint ](https://hackerone.com/reports/215381) to Twitter - 61 upvotes, $2520
-13. [Stealing Users OAuth Tokens through redirect_uri parameter](https://hackerone.com/reports/665651) to TTS Bug Bounty - 47 upvotes, $750
+13. [Stealing Users OAuth Tokens through redirect_uri parameter](https://hackerone.com/reports/665651) to TTS Bug Bounty - 48 upvotes, $750
 14. [[auth2.zomato.com] Reflected XSS at `oauth2/fallbacks/error` | ORY Hydra an OAuth 2.0 and OpenID Connect Provider](https://hackerone.com/reports/456333) to Zomato - 41 upvotes, $250
 15. [Ability to bypass social OAuth and take over any account [d2c-api]](https://hackerone.com/reports/729960) to Genasys Technologies - 40 upvotes, $0
 16. [Oauth flow on the comments widget login can lead to the access code leakage](https://hackerone.com/reports/292783) to Ed - 38 upvotes, $0
-17. [Broken OAuth leads to change photo profile users .](https://hackerone.com/reports/642475) to Dropbox - 36 upvotes, $512
+17. [Broken OAuth leads to change photo profile users .](https://hackerone.com/reports/642475) to Dropbox - 37 upvotes, $512
 18. [Smuggle SocialClub's Facebook OAuth Code via Referer Leakage](https://hackerone.com/reports/342709) to Rockstar Games - 35 upvotes, $750
 19. [Gitlab Oauth Misconfiguration Lead To Account Takeover ](https://hackerone.com/reports/541701) to Vercel - 35 upvotes, $0
-20. [Twitter iOS fails to validate server certificate and sends oauth token](https://hackerone.com/reports/168538) to Twitter - 34 upvotes, $2100
-21. [Stealing Users OAUTH Tokens via redirect_uri ](https://hackerone.com/reports/405100) to BOHEMIA INTERACTIVE a.s. - 34 upvotes, $0
-22. [Race Conditions in OAuth 2 API implementations](https://hackerone.com/reports/55140) to The Internet - 33 upvotes, $2500
+20. [Race Conditions in OAuth 2 API implementations](https://hackerone.com/reports/55140) to The Internet - 34 upvotes, $2500
+21. [Twitter iOS fails to validate server certificate and sends oauth token](https://hackerone.com/reports/168538) to Twitter - 34 upvotes, $2100
+22. [Stealing Users OAUTH Tokens via redirect_uri ](https://hackerone.com/reports/405100) to BOHEMIA INTERACTIVE a.s. - 34 upvotes, $0
 23. [Open Redirect on Gitllab Oauth leading to Acount Takeover](https://hackerone.com/reports/677617) to Vercel - 33 upvotes, $0
 24. [Image Injection vulnerability on screenshot-viewer/responsive/image may allow Facebook OAuth token theft.](https://hackerone.com/reports/655288) to Rockstar Games - 30 upvotes, $500
 25. [User session access due to Oauth whitelist host bypass and postMessage](https://hackerone.com/reports/875938) to Mail.ru - 29 upvotes, $0

@@ -2,7 +2,7 @@
 
 Top reports from QIWI program at HackerOne:
 
-1. [SQL injection on contactws.contact-sys.com in TScenObject action ScenObjects leads to remote code execution](https://hackerone.com/reports/816254) to QIWI - 440 upvotes, $5500
+1. [SQL injection on contactws.contact-sys.com in TScenObject action ScenObjects leads to remote code execution](https://hackerone.com/reports/816254) to QIWI - 442 upvotes, $5500
 2. [Remote Code Execution on contactws.contact-sys.com via SQL injection in TCertObject operation "Delete"](https://hackerone.com/reports/816086) to QIWI - 183 upvotes, $1000
 3. [SQL injection on contactws.contact-sys.com in TRateObject.AddForOffice in USER_ID parameter leads to remote code execution](https://hackerone.com/reports/816560) to QIWI - 107 upvotes, $1000
 4. [account takeover https://qiwi.me ](https://hackerone.com/reports/685304) to QIWI - 105 upvotes, $750
@@ -14,7 +14,7 @@ Top reports from QIWI program at HackerOne:
 10. [account takeover https://teamplay.qiwi.com](https://hackerone.com/reports/439207) to QIWI - 40 upvotes, $500
 11. [XML External Entity (XXE) in qiwi.com + waf bypass](https://hackerone.com/reports/99279) to QIWI - 39 upvotes, $3137
 12. [apache access.log leakage via long request on https://rapida.ru/](https://hackerone.com/reports/280912) to QIWI - 38 upvotes, $100
-13. [[qiwi.me] Stored XSS](https://hackerone.com/reports/736236) to QIWI - 36 upvotes, $500
+13. [[qiwi.me] Stored XSS](https://hackerone.com/reports/736236) to QIWI - 37 upvotes, $500
 14. [[p2p.qiwi.com] nginx alias traversal](https://hackerone.com/reports/455858) to QIWI - 34 upvotes, $150
 15. [Обход комиссии при оплате картой](https://hackerone.com/reports/654851) to QIWI - 32 upvotes, $1000
 16. [[lk.contact-sys.com] SQL Injection reset_password FP_LK_USER_LOGIN](https://hackerone.com/reports/164684) to QIWI - 32 upvotes, $300
@@ -56,11 +56,11 @@ Top reports from QIWI program at HackerOne:
 52. [Stored xss in agent.qiwi.com](https://hackerone.com/reports/38012) to QIWI - 6 upvotes, $100
 53. [Open Redirect in meeting.qiwi.com](https://hackerone.com/reports/100200) to QIWI - 6 upvotes, $100
 54. [Content Spoofing in mango.qiwi.com](https://hackerone.com/reports/118066) to QIWI - 5 upvotes, $150
-55. [Открытый доступ к корпоративным данным.](https://hackerone.com/reports/79393) to QIWI - 3 upvotes, $500
-56. [https://teamplay.qiwi.com/ накрутка баллов =\> финансовые убытки для компании](https://hackerone.com/reports/441204) to QIWI - 3 upvotes, $500
-57. [[wallet.rapida.ru] Mass SMS flood](https://hackerone.com/reports/209368) to QIWI - 3 upvotes, $200
-58. [[qiwi.com] Open Redirect](https://hackerone.com/reports/38157) to QIWI - 3 upvotes, $150
-59. [Keychain data persistence may lead to account takeover](https://hackerone.com/reports/761975) to QIWI - 3 upvotes, $100
+55. [Keychain data persistence may lead to account takeover](https://hackerone.com/reports/761975) to QIWI - 4 upvotes, $100
+56. [Открытый доступ к корпоративным данным.](https://hackerone.com/reports/79393) to QIWI - 3 upvotes, $500
+57. [https://teamplay.qiwi.com/ накрутка баллов =\> финансовые убытки для компании](https://hackerone.com/reports/441204) to QIWI - 3 upvotes, $500
+58. [[wallet.rapida.ru] Mass SMS flood](https://hackerone.com/reports/209368) to QIWI - 3 upvotes, $200
+59. [[qiwi.com] Open Redirect](https://hackerone.com/reports/38157) to QIWI - 3 upvotes, $150
 60. [[ishop.qiwi.com] XSS + Misconfiguration](https://hackerone.com/reports/47536) to QIWI - 2 upvotes, $200
 61. [Session Cookie without HttpOnly and secure flag set](https://hackerone.com/reports/75357) to QIWI - 2 upvotes, $100
 62. [CRLF Injection [ishop.qiwi.com]](https://hackerone.com/reports/36105) to QIWI - 1 upvotes, $250

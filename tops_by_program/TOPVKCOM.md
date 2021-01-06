@@ -4,12 +4,12 @@ Top reports from VK.com program at HackerOne:
 
 1. [CVE-2018-0296](https://hackerone.com/reports/377542) to VK.com - 79 upvotes, $1000
 2. [local file disclosure via FFmpeg hls processing](https://hackerone.com/reports/226756) to VK.com - 73 upvotes, $1000
-3. [Reflected XSS в /video](https://hackerone.com/reports/1052856) to VK.com - 71 upvotes, $500
-4. [Reflected XSS в /video](https://hackerone.com/reports/1052856) to VK.com - 71 upvotes, $500
+3. [Reflected XSS в /video](https://hackerone.com/reports/1052856) to VK.com - 73 upvotes, $500
+4. [Reflected XSS в /video](https://hackerone.com/reports/1052856) to VK.com - 73 upvotes, $500
 5. [Stored XSS в личных сообщениях](https://hackerone.com/reports/181823) to VK.com - 67 upvotes, $1500
 6. [Определение id по номеру телефона](https://hackerone.com/reports/331040) to VK.com - 60 upvotes, $5000
 7. [Stealing Private Information in VK Android App through PlayerProxy Port Remotely](https://hackerone.com/reports/292761) to VK.com - 50 upvotes, $700
-8. [XSS Reflected in m.vk.com](https://hackerone.com/reports/1011463) to VK.com - 44 upvotes, $500
+8. [XSS Reflected in m.vk.com](https://hackerone.com/reports/1011463) to VK.com - 45 upvotes, $500
 9. [Clickjacking vkpay](https://hackerone.com/reports/374817) to VK.com - 44 upvotes, $0
 10. [Вставляем свой код в мобильном приложении в разделе помощи сообществам](https://hackerone.com/reports/433904) to VK.com - 43 upvotes, $300
 11. [Мини-уязвимость в обработке ссылок](https://hackerone.com/reports/726063) to VK.com - 41 upvotes, $500
@@ -22,8 +22,8 @@ Top reports from VK.com program at HackerOne:
 18. [XSS в колбек апи в сообществах ](https://hackerone.com/reports/261966) to VK.com - 29 upvotes, $500
 19. [Отправка подарков/стикерпаков не теряя голоса.](https://hackerone.com/reports/729064) to VK.com - 27 upvotes, $200
 20. [Доступ к администраторским faq ](https://hackerone.com/reports/370629) to VK.com - 26 upvotes, $500
-21. [XSS in vk.link](https://hackerone.com/reports/1025125) to VK.com - 25 upvotes, $300
-22. [Уязвимость в методе auth.restore](https://hackerone.com/reports/366153) to VK.com - 24 upvotes, $400
+21. [XSS in vk.link](https://hackerone.com/reports/1025125) to VK.com - 26 upvotes, $300
+22. [Уязвимость в методе auth.restore](https://hackerone.com/reports/366153) to VK.com - 25 upvotes, $400
 23. [XSS в личных сообщениях](https://hackerone.com/reports/281851) to VK.com - 23 upvotes, $1000
 24. [Reflected XSS в /al_audio.php](https://hackerone.com/reports/334691) to VK.com - 23 upvotes, $700
 25. [Уязвимый класс WebView](https://hackerone.com/reports/452835) to VK.com - 22 upvotes, $200

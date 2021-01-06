@@ -30,11 +30,11 @@ Top reports from Ubiquiti Inc. program at HackerOne:
 26. [Exposed API-key allows to control nightly builds of firmwares (█████████ & ████████)](https://hackerone.com/reports/179986) to Ubiquiti Inc. - 18 upvotes, $1250
 27. [Read-Only user can execute arbitraty shell commands on AirOS](https://hackerone.com/reports/119317) to Ubiquiti Inc. - 17 upvotes, $1500
 28. [Wordpress directories/files visible to internet](https://hackerone.com/reports/201984) to Ubiquiti Inc. - 17 upvotes, $600
-29. [Privilege Escalation: From operator to ubnt (and root) with non-interactive Session Hijacking](https://hackerone.com/reports/241044) to Ubiquiti Inc. - 16 upvotes, $1500
-30. [Reflected XSS](https://hackerone.com/reports/304175) to Ubiquiti Inc. - 16 upvotes, $1000
-31. [Subdomain Takeover (moderator.ubnt.com)](https://hackerone.com/reports/181665) to Ubiquiti Inc. - 16 upvotes, $500
-32. [Stored XSS in dev-ucrm-billing-demo.ubnt.com In Client Custom Attribute ](https://hackerone.com/reports/275515) to Ubiquiti Inc. - 16 upvotes, $250
-33. [[nutty.ubnt.com] DOM Based XSS nuttyapp github-btn.html](https://hackerone.com/reports/200753) to Ubiquiti Inc. - 16 upvotes, $100
+29. [[nutty.ubnt.com] DOM Based XSS nuttyapp github-btn.html](https://hackerone.com/reports/200753) to Ubiquiti Inc. - 17 upvotes, $100
+30. [Privilege Escalation: From operator to ubnt (and root) with non-interactive Session Hijacking](https://hackerone.com/reports/241044) to Ubiquiti Inc. - 16 upvotes, $1500
+31. [Reflected XSS](https://hackerone.com/reports/304175) to Ubiquiti Inc. - 16 upvotes, $1000
+32. [Subdomain Takeover (moderator.ubnt.com)](https://hackerone.com/reports/181665) to Ubiquiti Inc. - 16 upvotes, $500
+33. [Stored XSS in dev-ucrm-billing-demo.ubnt.com In Client Custom Attribute ](https://hackerone.com/reports/275515) to Ubiquiti Inc. - 16 upvotes, $250
 34. [[account-global.ubnt.com] CRLF Injection](https://hackerone.com/reports/145128) to Ubiquiti Inc. - 15 upvotes, $150
 35. [Resource Consumption DOS on Edgemax v1.10.6](https://hackerone.com/reports/406614) to Ubiquiti Inc. - 14 upvotes, $600
 36. [Subdomain Takeover in http://assets.goubiquiti.com/](https://hackerone.com/reports/109699) to Ubiquiti Inc. - 14 upvotes, $500

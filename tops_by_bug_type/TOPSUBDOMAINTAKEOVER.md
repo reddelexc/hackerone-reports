@@ -35,10 +35,10 @@ Top Subdomain Takeover reports from HackerOne:
 31. [Subdomain takeover on developer.openapi.starbucks.com](https://hackerone.com/reports/275714) to Starbucks - 47 upvotes, $2000
 32. [Authentication bypass on sso.ubnt.com via subdomain takeover of ping.ubnt.com](https://hackerone.com/reports/172137) to Ubiquiti Inc. - 45 upvotes, $500
 33. [Subdomain Takeover - https://competition.shopify.com/](https://hackerone.com/reports/365853) to Shopify - 44 upvotes, $750
-34. [Subdomain Takeover Via via Dangling NS records on Amazon Route 53 http://api.e2e-kops-aws-canary.test-cncf-aws.canary.k8s.io](https://hackerone.com/reports/746000) to Kubernetes - 36 upvotes, $250
-35. [subdomain takeover at status0.stripo.email](https://hackerone.com/reports/737695) to Stripo Inc - 36 upvotes, $0
-36. [svcardproxydevus.starbucks.com Subdomain take over](https://hackerone.com/reports/380158) to Starbucks - 35 upvotes, $2000
-37. [URGENT - Subdomain Takeover on media.vine.co due to unclaimed domain pointing to AWS](https://hackerone.com/reports/32825) to Twitter - 35 upvotes, $1680
+34. [Subdomain Takeover Via via Dangling NS records on Amazon Route 53 http://api.e2e-kops-aws-canary.test-cncf-aws.canary.k8s.io](https://hackerone.com/reports/746000) to Kubernetes - 39 upvotes, $250
+35. [URGENT - Subdomain Takeover on media.vine.co due to unclaimed domain pointing to AWS](https://hackerone.com/reports/32825) to Twitter - 36 upvotes, $1680
+36. [subdomain takeover at status0.stripo.email](https://hackerone.com/reports/737695) to Stripo Inc - 36 upvotes, $0
+37. [svcardproxydevus.starbucks.com Subdomain take over](https://hackerone.com/reports/380158) to Starbucks - 35 upvotes, $2000
 38. [cloudup Subdomain Takeover That resolves to Desk.com ( CNAME cloudup.desk.com ) ](https://hackerone.com/reports/201796) to Automattic - 35 upvotes, $250
 39. [Subdomain Takeover via Unclaimed WordPress site](https://hackerone.com/reports/274336) to Snapchat - 35 upvotes, $250
 40. [subdomain takeover at news-static.semrush.com](https://hackerone.com/reports/294201) to Semrush - 34 upvotes, $500
