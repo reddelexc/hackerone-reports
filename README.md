@@ -69,3 +69,5 @@ Tops by program.
 - [Top Open-Xchange reports](tops_by_program/TOPOPENXCHANGE.md)
 - [Top Razer reports](tops_by_program/TOPRAZER.md)
 - [Top Rockstar Games reports](tops_by_program/TOPROCKSTARGAMES.md)
+- [Top GitHub Security Lab](tops_by_program/TOPGITHUBSECURITYLAB.md)
+- [Top h1-ctf](tops_by_program/TOPH1CTF.md)

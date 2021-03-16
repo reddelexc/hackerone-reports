@@ -3,12 +3,12 @@
 Top reports from Brave Software program at HackerOne:
 
 1. [Stored XSS in localhost:* via integrated torrent downloader](https://hackerone.com/reports/681617) to Brave Software - 119 upvotes, $0
-2. [Local files reading from the web using `brave://`](https://hackerone.com/reports/390013) to Brave Software - 69 upvotes, $5000
+2. [Local files reading from the web using `brave://`](https://hackerone.com/reports/390013) to Brave Software - 70 upvotes, $5000
 3. [Sending arbitrary IPC messages via overriding Function.prototype.apply](https://hackerone.com/reports/188086) to Brave Software - 51 upvotes, $5300
 4. [Lack of quarantine meta-attribute for downloaded files leads to GateKeeper bypass](https://hackerone.com/reports/374106) to Brave Software - 51 upvotes, $50
 5. [`chrome://brave` available for navigation in Release build [-\> RCE] + navigation to `chrome://*` using tab_helper ["Open in new tab"]](https://hackerone.com/reports/395737) to Brave Software - 46 upvotes, $2000
 6. [Local files reading using `link[rel="import"]`](https://hackerone.com/reports/375329) to Brave Software - 42 upvotes, $400
-7. [[Android] HTML Injection in BatterySaveArticleRenderer WebView](https://hackerone.com/reports/176065) to Brave Software - 40 upvotes, $150
+7. [[Android] HTML Injection in BatterySaveArticleRenderer WebView](https://hackerone.com/reports/176065) to Brave Software - 41 upvotes, $150
 8. [[iOS/Android] Address Bar Spoofing Vulnerability ](https://hackerone.com/reports/175958) to Brave Software - 29 upvotes, $200
 9. [Navigation to protocol handler URL from the opened page displayed as a request from this page.](https://hackerone.com/reports/374969) to Brave Software - 25 upvotes, $200
 10. [Local files reading from the "file://" origin through `brave://`](https://hackerone.com/reports/390362) to Brave Software - 23 upvotes, $400
@@ -36,11 +36,11 @@ Top reports from Brave Software program at HackerOne:
 32. [Navigation to restricted origins via "Open in new tab"](https://hackerone.com/reports/369218) to Brave Software - 10 upvotes, $50
 33. [Brave Browser unexpectedly allows to send arbitrary IPC messages](https://hackerone.com/reports/187542) to Brave Software - 9 upvotes, $300
 34. [Torrent Viewer extension web service available on all interfaces](https://hackerone.com/reports/300181) to Brave Software - 9 upvotes, $200
-35. [URL spoofing using protocol handlers](https://hackerone.com/reports/373721) to Brave Software - 9 upvotes, $75
-36. [[DOS] Browser hangs on loading the code snippet](https://hackerone.com/reports/181686) to Brave Software - 9 upvotes, $25
-37. [Field Day With Protocol Handlers](https://hackerone.com/reports/416040) to Brave Software - 8 upvotes, $150
-38. [Address Bar Spoofing - Already resolved - Retroactive report](https://hackerone.com/reports/175779) to Brave Software - 8 upvotes, $100
-39. [[Brave browser] WebTorrent has DNS rebinding vulnerability](https://hackerone.com/reports/663729) to Brave Software - 8 upvotes, $100
+35. [[Brave browser] WebTorrent has DNS rebinding vulnerability](https://hackerone.com/reports/663729) to Brave Software - 9 upvotes, $100
+36. [URL spoofing using protocol handlers](https://hackerone.com/reports/373721) to Brave Software - 9 upvotes, $75
+37. [[DOS] Browser hangs on loading the code snippet](https://hackerone.com/reports/181686) to Brave Software - 9 upvotes, $25
+38. [Field Day With Protocol Handlers](https://hackerone.com/reports/416040) to Brave Software - 8 upvotes, $150
+39. [Address Bar Spoofing - Already resolved - Retroactive report](https://hackerone.com/reports/175779) to Brave Software - 8 upvotes, $100
 40. [DoS in Brave browser for iOS](https://hackerone.com/reports/357665) to Brave Software - 8 upvotes, $80
 41. [[website] Script injection in newsletter signup https://brave.com/brave_youth_program_signup.html](https://hackerone.com/reports/175403) to Brave Software - 8 upvotes, $50
 42. [Status Bar Obfuscation](https://hackerone.com/reports/175701) to Brave Software - 8 upvotes, $0

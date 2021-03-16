@@ -22,17 +22,17 @@ Top reports from ownCloud program at HackerOne:
 18. [Stored xss](https://hackerone.com/reports/187380) to ownCloud - 4 upvotes, $0
 19. [owncloud.com: Parameter pollution in social sharing buttons](https://hackerone.com/reports/106024) to ownCloud - 3 upvotes, $0
 20. [Reflected XSS in owncloud.com](https://hackerone.com/reports/127259) to ownCloud - 3 upvotes, $0
-21. [doc.owncloud.org: XSS via Referrer](https://hackerone.com/reports/130951) to ownCloud - 3 upvotes, $0
-22. [bug reporting template encourages users to paste config file with passwords](https://hackerone.com/reports/196969) to ownCloud - 3 upvotes, $0
-23. [doc.owncloud.com: CVE-2015-5477 BIND9 TKEY Vulnerability + Exploit (Denial of Service)](https://hackerone.com/reports/217381) to ownCloud - 3 upvotes, $0
-24. [Password appears in user name field](https://hackerone.com/reports/85559) to ownCloud - 2 upvotes, $0
-25. [apps.owncloud.com: SSL Server Allows Anonymous Authentication Vulnerability (SMTP)](https://hackerone.com/reports/83803) to ownCloud - 2 upvotes, $0
-26. [Webview Vulnerablity [OwnCloudAndroid Application] ](https://hackerone.com/reports/87835) to ownCloud - 2 upvotes, $0
-27. [apps.owncloud.com: XSS via referrer](https://hackerone.com/reports/83374) to ownCloud - 2 upvotes, $0
-28. [owncloud.com: Content Sniffing not disabled](https://hackerone.com/reports/83251) to ownCloud - 2 upvotes, $0
-29. [Lack of HSTS on https://apps.owncloud.com](https://hackerone.com/reports/84453) to ownCloud - 2 upvotes, $0
-30. [CSRF in apps.owncloud.com](https://hackerone.com/reports/84395) to ownCloud - 2 upvotes, $0
-31. [Cross site scripting in apps.owncloud.com](https://hackerone.com/reports/129551) to ownCloud - 2 upvotes, $0
+21. [Cross site scripting in apps.owncloud.com](https://hackerone.com/reports/129551) to ownCloud - 3 upvotes, $0
+22. [doc.owncloud.org: XSS via Referrer](https://hackerone.com/reports/130951) to ownCloud - 3 upvotes, $0
+23. [bug reporting template encourages users to paste config file with passwords](https://hackerone.com/reports/196969) to ownCloud - 3 upvotes, $0
+24. [doc.owncloud.com: CVE-2015-5477 BIND9 TKEY Vulnerability + Exploit (Denial of Service)](https://hackerone.com/reports/217381) to ownCloud - 3 upvotes, $0
+25. [Password appears in user name field](https://hackerone.com/reports/85559) to ownCloud - 2 upvotes, $0
+26. [apps.owncloud.com: SSL Server Allows Anonymous Authentication Vulnerability (SMTP)](https://hackerone.com/reports/83803) to ownCloud - 2 upvotes, $0
+27. [Webview Vulnerablity [OwnCloudAndroid Application] ](https://hackerone.com/reports/87835) to ownCloud - 2 upvotes, $0
+28. [apps.owncloud.com: XSS via referrer](https://hackerone.com/reports/83374) to ownCloud - 2 upvotes, $0
+29. [owncloud.com: Content Sniffing not disabled](https://hackerone.com/reports/83251) to ownCloud - 2 upvotes, $0
+30. [Lack of HSTS on https://apps.owncloud.com](https://hackerone.com/reports/84453) to ownCloud - 2 upvotes, $0
+31. [CSRF in apps.owncloud.com](https://hackerone.com/reports/84395) to ownCloud - 2 upvotes, $0
 32. [[forum.owncloud.org] IE, Edge XSS via Request-URI](https://hackerone.com/reports/154319) to ownCloud - 2 upvotes, $0
 33. [password reset email spamming](https://hackerone.com/reports/224095) to ownCloud - 2 upvotes, $0
 34. [owncloud.com open redirect](https://hackerone.com/reports/258632) to ownCloud - 2 upvotes, $0
