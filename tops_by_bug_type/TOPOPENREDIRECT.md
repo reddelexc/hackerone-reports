@@ -6,12 +6,12 @@ Top Open Redirect reports from HackerOne:
 2. [XSS and Open Redirect on MoPub Login](https://hackerone.com/reports/683298) to Twitter - 223 upvotes, $1540
 3. [Open Redirect in secure.showmax.com](https://hackerone.com/reports/749338) to Showmax - 216 upvotes, $550
 4. [Open redirect at https://inventory.upserve.com/http://google.com/](https://hackerone.com/reports/469803) to Upserve  - 158 upvotes, $1200
-5. [Open Redirect on central.uber.com allows for account takeover](https://hackerone.com/reports/206591) to Uber - 117 upvotes, $8000
+5. [Open Redirect on central.uber.com allows for account takeover](https://hackerone.com/reports/206591) to Uber - 118 upvotes, $8000
 6. [Twitter lite(Android): Vulnerable to local file steal, Javascript injection, Open redirect ](https://hackerone.com/reports/499348) to Twitter - 84 upvotes, $1120
 7. [Open redirect vulnerability](https://hackerone.com/reports/380760) to Rockstar Games - 80 upvotes, $250
 8. [Open redirect](https://hackerone.com/reports/753399) to NordVPN - 77 upvotes, $500
 9. [Reflected XSS & Open Redirect at mcs main domain](https://hackerone.com/reports/996262) to Mail.ru - 64 upvotes, $1000
-10. [[dev.twitter.com] XSS and Open Redirect](https://hackerone.com/reports/260744) to Twitter - 60 upvotes, $1120
+10. [[dev.twitter.com] XSS and Open Redirect](https://hackerone.com/reports/260744) to Twitter - 61 upvotes, $1120
 11. [Open Redirect](https://hackerone.com/reports/504751) to Omise - 59 upvotes, $100
 12. [Open redirection at https://chaturbate.com/auth/login/](https://hackerone.com/reports/411723) to Chaturbate - 52 upvotes, $200
 13. [Open Redirection in index.php page](https://hackerone.com/reports/320376) to HackerOne - 50 upvotes, $250
@@ -35,10 +35,10 @@ Top Open Redirect reports from HackerOne:
 31. [GET based Open redirect on [streamlabs.com/content-hub/streamlabs-obs/search?query=]](https://hackerone.com/reports/978680) to Logitech - 30 upvotes, $100
 32. [[http2.cloudflare.com] Open Redirect](https://hackerone.com/reports/193027) to Cloudflare Vulnerability Disclosure - 30 upvotes, $0
 33. [Open Redirect on https://go.bitwala.com/](https://hackerone.com/reports/967284) to Bitwala - 28 upvotes, $0
-34. [Open redirect bypass &  SSRF Security Vulnerability](https://hackerone.com/reports/771465) to Smule - 27 upvotes, $0
-35. [Open redirect in bulk edit](https://hackerone.com/reports/169759) to Shopify - 26 upvotes, $500
-36. [Open Redirect (verkkopalvelu.lahitapiola.fi)](https://hackerone.com/reports/179328) to LocalTapiola - 26 upvotes, $400
-37. [Open Redirect via login avito.ru | Protection bypass](https://hackerone.com/reports/355558) to Avito - 26 upvotes, $0
+34. [Open Redirect via login avito.ru | Protection bypass](https://hackerone.com/reports/355558) to Avito - 27 upvotes, $0
+35. [Open redirect bypass &  SSRF Security Vulnerability](https://hackerone.com/reports/771465) to Smule - 27 upvotes, $0
+36. [Open redirect in bulk edit](https://hackerone.com/reports/169759) to Shopify - 26 upvotes, $500
+37. [Open Redirect (verkkopalvelu.lahitapiola.fi)](https://hackerone.com/reports/179328) to LocalTapiola - 26 upvotes, $400
 38. [Open Redirect & Information Disclosure [mijn.werkenbijdefensie.nl]](https://hackerone.com/reports/239503) to Maximum - 24 upvotes, $350
 39. [Open Redirect at https://oauth.secure.pixiv.net](https://hackerone.com/reports/972601) to pixiv - 24 upvotes, $200
 40. [Open redirect on the https://tt.hboeck.de](https://hackerone.com/reports/503922) to Hanno's projects - 24 upvotes, $0

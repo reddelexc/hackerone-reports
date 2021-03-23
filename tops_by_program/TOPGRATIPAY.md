@@ -2,7 +2,7 @@
 
 Top reports from Gratipay program at HackerOne:
 
-1. [Saying goodbye to HackerOne and Gratipay.](https://hackerone.com/reports/286728) to Gratipay - 90 upvotes, $0
+1. [Saying goodbye to HackerOne and Gratipay.](https://hackerone.com/reports/286728) to Gratipay - 91 upvotes, $0
 2. [Reflected XSS - gratipay.com](https://hackerone.com/reports/262852) to Gratipay - 35 upvotes, $0
 3. [Sub Domain Takeover](https://hackerone.com/reports/221133) to Gratipay - 16 upvotes, $0
 4. [SQL TEST](https://hackerone.com/reports/248037) to Gratipay - 14 upvotes, $0
@@ -101,26 +101,26 @@ Top reports from Gratipay program at HackerOne:
 97. [POODLE SSLv3.0](https://hackerone.com/reports/219499) to Gratipay - 1 upvotes, $0
 98. [Unauthorized access to the slack channel via inside.gratipay.com/appendices/chat](https://hackerone.com/reports/226648) to Gratipay - 1 upvotes, $0
 99. [Gratipay Website CSP "script-scr" includes "unsafe-inline"](https://hackerone.com/reports/231510) to Gratipay - 1 upvotes, $0
-100. [Email Spoofing](https://hackerone.com/reports/240987) to Gratipay - 1 upvotes, $0
-101. [CSP Policy Bypass and javascript execution Still Not Fixed](https://hackerone.com/reports/241341) to Gratipay - 1 upvotes, $0
-102. [Possible user session hijack by invalid HTTPS certificate on inside.gratipay.com domain](https://hackerone.com/reports/241892) to Gratipay - 1 upvotes, $0
-103. [Possible User Session Hijack using Invalid HTTPS certificate on inside.gratipay.com domain](https://hackerone.com/reports/242622) to Gratipay - 1 upvotes, $0
-104. [Lack of CSRF token validation at server side](https://hackerone.com/reports/163815) to Gratipay - 1 upvotes, $0
-105. [Login csrf.](https://hackerone.com/reports/117195) to Gratipay - 1 upvotes, $0
-106. [Host Header poisoning on gratipay.com](https://hackerone.com/reports/158482) to Gratipay - 1 upvotes, $0
-107. [After removing app from facebook app session not expiring.](https://hackerone.com/reports/129209) to Gratipay - 1 upvotes, $0
-108. [400 Bad Request [Use a third-party provider to sign in or create an account on Gratipay]](https://hackerone.com/reports/267212) to Gratipay - 1 upvotes, $0
-109. [Missing Certificate Authority Authorization rule](https://hackerone.com/reports/261706) to Gratipay - 1 upvotes, $0
-110. [XSS found In Your Web](https://hackerone.com/reports/164922) to Gratipay - 1 upvotes, $0
-111. [Adding Used Primary Email Address to attacker account and Account takeover](https://hackerone.com/reports/273647) to Gratipay - 1 upvotes, $0
-112. [DKIM records not present, Email Hijacking is possible](https://hackerone.com/reports/84287) to Gratipay - 0 upvotes, $10
-113. [Self XSS Protection not used , I can trick users to insert JavaScript](https://hackerone.com/reports/76307) to Gratipay - 0 upvotes, $5
-114. [Authentication errors in server side validaton of E-MAIL](https://hackerone.com/reports/80883) to Gratipay - 0 upvotes, $0
-115. [nginx SPDY heap buffer overflow for https://grtp.co/](https://hackerone.com/reports/116352) to Gratipay - 0 upvotes, $0
-116. [UDP port 5060 (SIP) Open](https://hackerone.com/reports/116774) to Gratipay - 0 upvotes, $0
-117. [proxy port 7000 and shell port 514 not filtered](https://hackerone.com/reports/116618) to Gratipay - 0 upvotes, $0
-118. [server calendar and server status available to public](https://hackerone.com/reports/116621) to Gratipay - 0 upvotes, $0
-119. [X-Content-Type Header Missing For aspen.io](https://hackerone.com/reports/118033) to Gratipay - 0 upvotes, $0
+100. [X-Content-Type Header Missing For aspen.io](https://hackerone.com/reports/118033) to Gratipay - 1 upvotes, $0
+101. [Email Spoofing](https://hackerone.com/reports/240987) to Gratipay - 1 upvotes, $0
+102. [CSP Policy Bypass and javascript execution Still Not Fixed](https://hackerone.com/reports/241341) to Gratipay - 1 upvotes, $0
+103. [Possible user session hijack by invalid HTTPS certificate on inside.gratipay.com domain](https://hackerone.com/reports/241892) to Gratipay - 1 upvotes, $0
+104. [Possible User Session Hijack using Invalid HTTPS certificate on inside.gratipay.com domain](https://hackerone.com/reports/242622) to Gratipay - 1 upvotes, $0
+105. [Lack of CSRF token validation at server side](https://hackerone.com/reports/163815) to Gratipay - 1 upvotes, $0
+106. [Login csrf.](https://hackerone.com/reports/117195) to Gratipay - 1 upvotes, $0
+107. [Host Header poisoning on gratipay.com](https://hackerone.com/reports/158482) to Gratipay - 1 upvotes, $0
+108. [After removing app from facebook app session not expiring.](https://hackerone.com/reports/129209) to Gratipay - 1 upvotes, $0
+109. [400 Bad Request [Use a third-party provider to sign in or create an account on Gratipay]](https://hackerone.com/reports/267212) to Gratipay - 1 upvotes, $0
+110. [Missing Certificate Authority Authorization rule](https://hackerone.com/reports/261706) to Gratipay - 1 upvotes, $0
+111. [XSS found In Your Web](https://hackerone.com/reports/164922) to Gratipay - 1 upvotes, $0
+112. [Adding Used Primary Email Address to attacker account and Account takeover](https://hackerone.com/reports/273647) to Gratipay - 1 upvotes, $0
+113. [DKIM records not present, Email Hijacking is possible](https://hackerone.com/reports/84287) to Gratipay - 0 upvotes, $10
+114. [Self XSS Protection not used , I can trick users to insert JavaScript](https://hackerone.com/reports/76307) to Gratipay - 0 upvotes, $5
+115. [Authentication errors in server side validaton of E-MAIL](https://hackerone.com/reports/80883) to Gratipay - 0 upvotes, $0
+116. [nginx SPDY heap buffer overflow for https://grtp.co/](https://hackerone.com/reports/116352) to Gratipay - 0 upvotes, $0
+117. [UDP port 5060 (SIP) Open](https://hackerone.com/reports/116774) to Gratipay - 0 upvotes, $0
+118. [proxy port 7000 and shell port 514 not filtered](https://hackerone.com/reports/116618) to Gratipay - 0 upvotes, $0
+119. [server calendar and server status available to public](https://hackerone.com/reports/116621) to Gratipay - 0 upvotes, $0
 120. [self cross site scripting](https://hackerone.com/reports/245762) to Gratipay - 0 upvotes, $0
 121. [Insecure Transportation Security Protocol Supported (TLS 1.0)](https://hackerone.com/reports/163812) to Gratipay - 0 upvotes, $0
 122. [SSl Weak Ciphers](https://hackerone.com/reports/244070) to Gratipay - 0 upvotes, $0

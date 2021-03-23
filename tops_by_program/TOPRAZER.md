@@ -53,7 +53,7 @@ Top reports from Razer program at HackerOne:
 49. [Reflected XSS on https://www.easytopup.in.th/store/product/return on parameter mref_id](https://hackerone.com/reports/776883) to Razer - 17 upvotes, $250
 50. [[press.razer.com] Origin IP found, Cloudflare bypassed](https://hackerone.com/reports/776933) to Razer - 17 upvotes, $200
 51. [PHPInfo Page on www.razer.ru](https://hackerone.com/reports/744573) to Razer - 17 upvotes, $0
-52. [Access to support tickets and payment history, impersonate razer support staff](https://hackerone.com/reports/776110) to Razer - 15 upvotes, $1500
+52. [Access to support tickets and payment history, impersonate razer support staff](https://hackerone.com/reports/776110) to Razer - 16 upvotes, $1500
 53. [Reflected XSS at https://sea-web.gold.razer.com/cash-card/verify via channel parameter](https://hackerone.com/reports/769086) to Razer - 15 upvotes, $500
 54. [Subdomain takeover at ftp.thx.com](https://hackerone.com/reports/703591) to Razer - 15 upvotes, $250
 55. [AWS subdomain Takeover at estore.razersynapse.com](https://hackerone.com/reports/785179) to Razer - 15 upvotes, $250

@@ -7,7 +7,7 @@ Top reports from Zomato program at HackerOne:
 3. [[www.zomato.com] Availing Zomato Gold membership for free by tampering plan id(s) ](https://hackerone.com/reports/511044) to Zomato - 216 upvotes, $1000
 4. [[www.zomato.com] Blind XSS on one of the Admin Dashboard](https://hackerone.com/reports/724889) to Zomato - 209 upvotes, $750
 5. [[www.zomato.com] CORS Misconfiguration, could lead to disclosure of sensitive information](https://hackerone.com/reports/426165) to Zomato - 202 upvotes, $550
-6. [SQL Injection in www.hyperpure.com](https://hackerone.com/reports/1044716) to Zomato - 186 upvotes, $2000
+6. [SQL Injection in www.hyperpure.com](https://hackerone.com/reports/1044716) to Zomato - 188 upvotes, $2000
 7. [Information Disclosure through Sentry Instance ███████](https://hackerone.com/reports/697512) to Zomato - 167 upvotes, $750
 8. [[api.zomato.com] Able to manipulate order amount](https://hackerone.com/reports/512968) to Zomato - 129 upvotes, $4500
 9. [Solr Injection in `user_id` parameter at :/v2/leaderboard_v2.json](https://hackerone.com/reports/952501) to Zomato - 128 upvotes, $2000

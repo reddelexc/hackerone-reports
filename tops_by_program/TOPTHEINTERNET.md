@@ -10,12 +10,12 @@ Top reports from The Internet program at HackerOne:
 6. [ZeroMQ libzmq remote code execution](https://hackerone.com/reports/477073) to The Internet - 29 upvotes, $1000
 7. [Mailsploit: a sender spoofing bug in over 30 email clients](https://hackerone.com/reports/295339) to The Internet - 27 upvotes, $0
 8. [4 severe remote + several minor OpenVPN vulnerabilities](https://hackerone.com/reports/242579) to The Internet - 27 upvotes, $0
-9. [DOMPurify bypass](https://hackerone.com/reports/1024734) to The Internet - 22 upvotes, $0
+9. [DOMPurify bypass](https://hackerone.com/reports/1024734) to The Internet - 23 upvotes, $0
 10. [Insufficient shell characters filtering leads to (potentially remote) code execution (CVE-2016-3714)](https://hackerone.com/reports/143966) to The Internet - 21 upvotes, $7500
 11. [TLS Virtual Host Confusion](https://hackerone.com/reports/501) to The Internet - 19 upvotes, $7500
 12. [Multiple HTTP Smuggling reports](https://hackerone.com/reports/648434) to The Internet - 16 upvotes, $0
-13. [CVE-2019-5736: Escape from Docker and Kubernetes containers to root on host](https://hackerone.com/reports/495495) to The Internet - 14 upvotes, $1000
-14. [GNU Bourne-Again Shell (Bash) 'Shellshock' Vulnerability](https://hackerone.com/reports/29839) to The Internet - 13 upvotes, $20000
+13. [GNU Bourne-Again Shell (Bash) 'Shellshock' Vulnerability](https://hackerone.com/reports/29839) to The Internet - 14 upvotes, $20000
+14. [CVE-2019-5736: Escape from Docker and Kubernetes containers to root on host](https://hackerone.com/reports/495495) to The Internet - 14 upvotes, $1000
 15. [TLS Triple Handshake Attack](https://hackerone.com/reports/7277) to The Internet - 12 upvotes, $7500
 16. [Exim off-by-one RCE vulnerability](https://hackerone.com/reports/322935) to The Internet - 11 upvotes, $1500
 17. [Cross-site information assertion leak via Content Security Policy](https://hackerone.com/reports/16910) to The Internet - 11 upvotes, $0
@@ -39,12 +39,12 @@ Top reports from The Internet program at HackerOne:
 35. [Exim use-after-free vulnerability while reading mail header involving BDAT commands](https://hackerone.com/reports/296991) to The Internet - 5 upvotes, $0
 36. [Malicious Server can force read any file on clients system with default configuration in MySQL Clients](https://hackerone.com/reports/171593) to The Internet - 5 upvotes, $0
 37. [Bypassing Same Origin Policy With JSONP APIs and Flash](https://hackerone.com/reports/10373) to The Internet - 4 upvotes, $3000
-38. [Denial of service in libxml2, using malicious lzma file to consume available system memory](https://hackerone.com/reports/270059) to The Internet - 4 upvotes, $0
-39. [CVE-2017-11367: Global buffer overflow (READ of size 4) in shoco C library ](https://hackerone.com/reports/250581) to The Internet - 4 upvotes, $0
-40. [Two vulnerability in GNU binutils](https://hackerone.com/reports/323017) to The Internet - 4 upvotes, $0
-41. [FREAK: Factoring RSA_EXPORT Keys to Impersonate TLS Servers](https://hackerone.com/reports/50170) to The Internet - 3 upvotes, $7500
-42. [open redirect in rfc6749](https://hackerone.com/reports/26962) to The Internet - 3 upvotes, $3000
-43. [OpenSSH / dropbearSSHd xauth command injection](https://hackerone.com/reports/122113) to The Internet - 3 upvotes, $1500
+38. [OpenSSH / dropbearSSHd xauth command injection](https://hackerone.com/reports/122113) to The Internet - 4 upvotes, $1500
+39. [Denial of service in libxml2, using malicious lzma file to consume available system memory](https://hackerone.com/reports/270059) to The Internet - 4 upvotes, $0
+40. [CVE-2017-11367: Global buffer overflow (READ of size 4) in shoco C library ](https://hackerone.com/reports/250581) to The Internet - 4 upvotes, $0
+41. [Two vulnerability in GNU binutils](https://hackerone.com/reports/323017) to The Internet - 4 upvotes, $0
+42. [FREAK: Factoring RSA_EXPORT Keys to Impersonate TLS Servers](https://hackerone.com/reports/50170) to The Internet - 3 upvotes, $7500
+43. [open redirect in rfc6749](https://hackerone.com/reports/26962) to The Internet - 3 upvotes, $3000
 44. [Mercurial can be tricked into granting authorized users access to the Python debugger](https://hackerone.com/reports/222020) to The Internet - 3 upvotes, $500
 45. [Silent omission of certificate hostname verification in LibreSSL and BoringSSL](https://hackerone.com/reports/329645) to The Internet - 3 upvotes, $0
 46. [pngcrush double-free/segfault could result in DoS (CVE-2015-7700)](https://hackerone.com/reports/93546) to The Internet - 3 upvotes, $0

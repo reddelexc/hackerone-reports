@@ -18,7 +18,7 @@ Top XXE reports from HackerOne:
 14. [blind XXE in autodiscover parser](https://hackerone.com/reports/315837) to Mail.ru - 69 upvotes, $5000
 15. [LFI and SSRF via XXE in emblem editor](https://hackerone.com/reports/347139) to Rockstar Games - 67 upvotes, $1500
 16. [Blind OOB XXE At "http://ubermovement.com/"](https://hackerone.com/reports/154096) to Uber - 53 upvotes, $500
-17. [XXE на webdav.mail.ru -  PROPFIND/PROPPATCH](https://hackerone.com/reports/758978) to Mail.ru - 51 upvotes, $10000
+17. [XXE на webdav.mail.ru -  PROPFIND/PROPPATCH](https://hackerone.com/reports/758978) to Mail.ru - 52 upvotes, $10000
 18. [XXE on ██████████ by bypassing WAF ████](https://hackerone.com/reports/433996) to QIWI - 49 upvotes, $5000
 19. [[rev-app.informatica.com] - XXE](https://hackerone.com/reports/105434) to Informatica - 43 upvotes, $0
 20. [XML External Entity (XXE) in qiwi.com + waf bypass](https://hackerone.com/reports/99279) to QIWI - 39 upvotes, $3137
@@ -33,14 +33,14 @@ Top XXE reports from HackerOne:
 29. [[send.qiwi.ru] Soap-based XXE vulnerability /soapserver/ ](https://hackerone.com/reports/36450) to QIWI - 17 upvotes, $1000
 30. [Blind XXE on pu.vk.com](https://hackerone.com/reports/296622) to VK.com - 16 upvotes, $500
 31. [XXE in the Connector Designer](https://hackerone.com/reports/112116) to Bime - 13 upvotes, $750
-32. [OOB XXE ](https://hackerone.com/reports/690387) to Mail.ru - 12 upvotes, $500
-33. [[marketplace.informatica.com] - XXE](https://hackerone.com/reports/106797) to Informatica - 12 upvotes, $0
+32. [[marketplace.informatica.com] - XXE](https://hackerone.com/reports/106797) to Informatica - 13 upvotes, $0
+33. [OOB XXE ](https://hackerone.com/reports/690387) to Mail.ru - 12 upvotes, $500
 34. [blind XXE when uploading avatar in mymail phone app](https://hackerone.com/reports/277341) to Mail.ru - 11 upvotes, $1000
 35. [[rev-app.informatica.com] - XXE via SAML](https://hackerone.com/reports/106865) to Informatica - 11 upvotes, $0
 36. [[marketplace.informatica.com] - XXE](https://hackerone.com/reports/106802) to Informatica - 11 upvotes, $0
 37. [XXE issue](https://hackerone.com/reports/130661) to Moneybird - 10 upvotes, $150
-38. [h1-5411-CTF report: LFI / Deserialization / XXE vulnerability, ](https://hackerone.com/reports/415233) to h1-5411-CTF - 8 upvotes, $0
-39. [[usuppliers.uber.com] - Server Side Request Forgery via XXE OOB](https://hackerone.com/reports/448598) to Uber - 7 upvotes, $500
+38. [[usuppliers.uber.com] - Server Side Request Forgery via XXE OOB](https://hackerone.com/reports/448598) to Uber - 8 upvotes, $500
+39. [h1-5411-CTF report: LFI / Deserialization / XXE vulnerability, ](https://hackerone.com/reports/415233) to h1-5411-CTF - 8 upvotes, $0
 40. [XXE крит](https://hackerone.com/reports/449627) to Mail.ru - 7 upvotes, $300
 41. [XXE at Informatica sub-domain](https://hackerone.com/reports/150520) to Informatica - 6 upvotes, $0
 42. [OOB XXE ](https://hackerone.com/reports/690295) to Mail.ru - 5 upvotes, $500

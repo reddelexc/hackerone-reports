@@ -10,7 +10,7 @@ Top Race Condition reports from HackerOne:
 6. [Race Conditions in Popular reports feature.](https://hackerone.com/reports/146845) to HackerOne - 102 upvotes, $500
 7. [Race Condition when following a user](https://hackerone.com/reports/927384) to Staging.every.org - 89 upvotes, $0
 8. [Race Condition : Exploiting the loyalty claim https://xxx.vendhq.com/loyalty/claim/email/xxxxx url and gain x amount of loyalty bonus/cash](https://hackerone.com/reports/331940) to Vend VDP - 87 upvotes, $0
-9. [Race Condition in Flag Submission](https://hackerone.com/reports/454949) to HackerOne - 69 upvotes, $500
+9. [Race Condition in Flag Submission](https://hackerone.com/reports/454949) to HackerOne - 70 upvotes, $500
 10. [Race condition leads to duplicate payouts](https://hackerone.com/reports/220445) to HackerOne - 60 upvotes, $750
 11. [Race Condition of Transfer data Credits to Organization Leads to Add Extra free Data Credits to the Organization](https://hackerone.com/reports/974892) to Helium - 58 upvotes, $250
 12. [Race Condition on "Get free Badoo Premium" which allows to get more days of free premium for Free. ](https://hackerone.com/reports/1037430) to Bumble - 49 upvotes, $200

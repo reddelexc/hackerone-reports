@@ -48,11 +48,11 @@ Top reports from Open-Xchange program at HackerOne:
 44. [Pre-auth Denial-of-Service in Dovecot RPA implementation](https://hackerone.com/reports/866605) to Open-Xchange - 11 upvotes, $550
 45. [[XSS] RSS Feed Widget](https://hackerone.com/reports/361938) to Open-Xchange - 11 upvotes, $500
 46. [Stored XSS in mail app](https://hackerone.com/reports/538323) to Open-Xchange - 10 upvotes, $500
-47. [[SSRF] PDF documentconverterws](https://hackerone.com/reports/361793) to Open-Xchange - 9 upvotes, $850
-48. [[XSS/CSRF] filter content-type bypass in Files](https://hackerone.com/reports/304098) to Open-Xchange - 9 upvotes, $750
-49. [XSS on opening malicious OpenOffice presentation document](https://hackerone.com/reports/894918) to Open-Xchange - 9 upvotes, $400
-50. [Stored XSS in Template Documents](https://hackerone.com/reports/179559) to Open-Xchange - 9 upvotes, $300
-51. [No session expiry after log-out and session id exposed in URL](https://hackerone.com/reports/434715) to Open-Xchange - 9 upvotes, $300
+47. [No session expiry after log-out and session id exposed in URL](https://hackerone.com/reports/434715) to Open-Xchange - 10 upvotes, $300
+48. [[SSRF] PDF documentconverterws](https://hackerone.com/reports/361793) to Open-Xchange - 9 upvotes, $850
+49. [[XSS/CSRF] filter content-type bypass in Files](https://hackerone.com/reports/304098) to Open-Xchange - 9 upvotes, $750
+50. [XSS on opening malicious OpenOffice presentation document](https://hackerone.com/reports/894918) to Open-Xchange - 9 upvotes, $400
+51. [Stored XSS in Template Documents](https://hackerone.com/reports/179559) to Open-Xchange - 9 upvotes, $300
 52. [Buffer over-reads in i_stream_zlib_read](https://hackerone.com/reports/832227) to Open-Xchange - 9 upvotes, $50
 53. [Buffer over read from `smtp_command_parse_parameters`](https://hackerone.com/reports/900548) to Open-Xchange - 9 upvotes, $50
 54. [Blind SSRF in /appsuite/api/oxodocumentfilter&action=addfile](https://hackerone.com/reports/865652) to Open-Xchange - 8 upvotes, $550

@@ -42,7 +42,7 @@ Top reports from Automattic program at HackerOne:
 38. [[intensedebate.com] XSS Reflected POST-Based ](https://hackerone.com/reports/1040533) to Automattic - 40 upvotes, $100
 39. [DOM based XSS in the WooCommerce plugin](https://hackerone.com/reports/507139) to Automattic - 37 upvotes, $275
 40. [cloudup Subdomain Takeover That resolves to Desk.com ( CNAME cloudup.desk.com ) ](https://hackerone.com/reports/201796) to Automattic - 36 upvotes, $250
-41. [Able to comment/view in others support ticket at https://en.instagram-brand.com/requests/dashboard](https://hackerone.com/reports/1007988) to Automattic - 35 upvotes, $200
+41. [Able to comment/view in others support ticket at https://en.instagram-brand.com/requests/dashboard](https://hackerone.com/reports/1007988) to Automattic - 36 upvotes, $200
 42. [Unauthenticated RCE in Vaultpress](https://hackerone.com/reports/236552) to Automattic - 31 upvotes, $500
 43. [[FG-VD-19-022] Wordpress WooCommerce Cross-Site Scripting Vulnerability Notification](https://hackerone.com/reports/495583) to Automattic - 30 upvotes, $200
 44. [[api.tumblr.com] Exploiting clickjacking vulnerability to trigger self DOM-based XSS](https://hackerone.com/reports/953579) to Automattic - 30 upvotes, $150
@@ -82,11 +82,11 @@ Top reports from Automattic program at HackerOne:
 78. [Reflected XSS on a Atavist theme at external_import.php](https://hackerone.com/reports/976657) to Automattic - 13 upvotes, $150
 79. [[bbPress] Stored XSS in any forum post.](https://hackerone.com/reports/151117) to Automattic - 12 upvotes, $300
 80. [Lazy Load stored XSS](https://hackerone.com/reports/152416) to Automattic - 12 upvotes, $275
-81. [Users can bypass page restrictions via Export feature at "Share" feature in CrowdSignal](https://hackerone.com/reports/915140) to Automattic - 12 upvotes, $150
-82. [Follow Button XSS](https://hackerone.com/reports/172574) to Automattic - 12 upvotes, $100
-83. [Modify account details by exploiting clickjacking vulnerability on refer.wordpress.com](https://hackerone.com/reports/765355) to Automattic - 12 upvotes, $75
-84. [wpjobmanager - unserialize of user input](https://hackerone.com/reports/308489) to Automattic - 11 upvotes, $250
-85. [Denial-of- service By Cache Poisoning The Cross-Origin Resource Sharing Misconfiguration Allow Origin Header](https://hackerone.com/reports/921704) to Automattic - 11 upvotes, $200
+81. [Denial-of- service By Cache Poisoning The Cross-Origin Resource Sharing Misconfiguration Allow Origin Header](https://hackerone.com/reports/921704) to Automattic - 12 upvotes, $200
+82. [Users can bypass page restrictions via Export feature at "Share" feature in CrowdSignal](https://hackerone.com/reports/915140) to Automattic - 12 upvotes, $150
+83. [Follow Button XSS](https://hackerone.com/reports/172574) to Automattic - 12 upvotes, $100
+84. [Modify account details by exploiting clickjacking vulnerability on refer.wordpress.com](https://hackerone.com/reports/765355) to Automattic - 12 upvotes, $75
+85. [wpjobmanager - unserialize of user input](https://hackerone.com/reports/308489) to Automattic - 11 upvotes, $250
 86. [information disclosure lead to disclose users private notes](https://hackerone.com/reports/1070081) to Automattic - 11 upvotes, $150
 87. [Invalidate session after password reset on https://polldaddy.com](https://hackerone.com/reports/273881) to Automattic - 11 upvotes, $0
 88. [An Automattic employee's GitHub personal access token exposed in Travis CI build logs](https://hackerone.com/reports/218264) to Automattic - 10 upvotes, $500
