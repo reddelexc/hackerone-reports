@@ -32,7 +32,7 @@ Top reports from Razer program at HackerOne:
 28. [SQL injection at https://sea-web.gold.razer.com/demo-th/goto-e2p-web-api.php via Multiple Parameters](https://hackerone.com/reports/777698) to Razer - 71 upvotes, $2000
 29. [Blind SQL Injection(Time Based Payload) in  https://www.easytopup.in.th/store/game/digimon-master via CheckuserForm[user_id]](https://hackerone.com/reports/789259) to Razer - 68 upvotes, $1000
 30. [[SSRF] Server-Side Request Forgery at https://sea-web.gold.razer.com/dev/simulator via notify_url Parameter](https://hackerone.com/reports/777664) to Razer - 60 upvotes, $2000
-31. [Payment PIN Verification Bypass](https://hackerone.com/reports/702383) to Razer - 56 upvotes, $1000
+31. [Payment PIN Verification Bypass](https://hackerone.com/reports/702383) to Razer - 57 upvotes, $1000
 32. [Reflected XSS at http://promotion.molthailand.com/index.php via promotion_id parameter](https://hackerone.com/reports/772116) to Razer - 55 upvotes, $250
 33. [Insecure Logging - OWASP (2016-M2)](https://hackerone.com/reports/700624) to Razer - 45 upvotes, $400
 34. [Improper access control on easytopup.in.th transaction page leads to user's information disclosure and may lead to account hijacking](https://hackerone.com/reports/776877) to Razer - 40 upvotes, $1000

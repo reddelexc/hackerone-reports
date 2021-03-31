@@ -46,10 +46,10 @@ Top reports from Nextcloud program at HackerOne:
 42. [Username and Access Token Disclousure](https://hackerone.com/reports/672623) to Nextcloud - 18 upvotes, $250
 43. [Denial of Service by requesting to reset a password](https://hackerone.com/reports/812754) to Nextcloud - 18 upvotes, $250
 44. [XSS in PDF Viewer](https://hackerone.com/reports/819863) to Nextcloud - 18 upvotes, $100
-45. [Server side request forgery (SSRF) on nextcloud implementation.](https://hackerone.com/reports/145524) to Nextcloud - 18 upvotes, $0
-46. [bypass of 2FA](https://hackerone.com/reports/248656) to Nextcloud - 17 upvotes, $750
-47. [Blind Stored XSS on iOS App due to Unsanitized Webview](https://hackerone.com/reports/575562) to Nextcloud - 17 upvotes, $100
-48. [XSS through image upload of contacts using svg file](https://hackerone.com/reports/894876) to Nextcloud - 17 upvotes, $100
+45. [XSS through image upload of contacts using svg file](https://hackerone.com/reports/894876) to Nextcloud - 18 upvotes, $100
+46. [Server side request forgery (SSRF) on nextcloud implementation.](https://hackerone.com/reports/145524) to Nextcloud - 18 upvotes, $0
+47. [bypass of 2FA](https://hackerone.com/reports/248656) to Nextcloud - 17 upvotes, $750
+48. [Blind Stored XSS on iOS App due to Unsanitized Webview](https://hackerone.com/reports/575562) to Nextcloud - 17 upvotes, $100
 49. [Session fixation in password protected public download.](https://hackerone.com/reports/237184) to Nextcloud - 17 upvotes, $50
 50. [Reflected XSS / Markup Injection in `index.php/svg/core/logo/logo` parameter `color`](https://hackerone.com/reports/605915) to Nextcloud - 17 upvotes, $50
 51. [IDOR unsubscribe Anyone from NextClouds Newsletters by knowing their Email ](https://hackerone.com/reports/230328) to Nextcloud - 17 upvotes, $0

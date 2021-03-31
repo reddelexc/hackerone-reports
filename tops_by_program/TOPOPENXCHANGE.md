@@ -93,25 +93,26 @@ Top reports from Open-Xchange program at HackerOne:
 89. [Directory listing](https://hackerone.com/reports/193753) to Open-Xchange - 3 upvotes, $0
 90. [Web Browser XSS Protection Not Enabled](https://hackerone.com/reports/187225) to Open-Xchange - 3 upvotes, $0
 91. [Some build dependencies are downloaded over an insecure channel (without subsequent integrity checks)](https://hackerone.com/reports/1042141) to Open-Xchange - 3 upvotes, $0
-92. [[XSS] content_disposition=inline in files](https://hackerone.com/reports/356586) to Open-Xchange - 2 upvotes, $500
-93. [Buffer overread off by one in `rpa_read_buffer`, incomplete fix for CVE-2020-12674](https://hackerone.com/reports/967457) to Open-Xchange - 2 upvotes, $400
-94. [[XSS] Pasting bootstrap in mail compose](https://hackerone.com/reports/331975) to Open-Xchange - 2 upvotes, $300
-95. [Resend invitation to members by Read only user(Privilege Escalation)](https://hackerone.com/reports/219192) to Open-Xchange - 2 upvotes, $200
-96. [Buffer overread in parse_angle_addr called from message_address_parse_path ](https://hackerone.com/reports/836045) to Open-Xchange - 2 upvotes, $50
-97. [Multiple buffer over reads in mbox_from_parse](https://hackerone.com/reports/836036) to Open-Xchange - 2 upvotes, $50
-98. [Failed assert in `mail_index_transaction_lookup`](https://hackerone.com/reports/965782) to Open-Xchange - 2 upvotes, $50
-99. [SSL Certification Expired And TLS Vulnerability ](https://hackerone.com/reports/207404) to Open-Xchange - 2 upvotes, $0
-100. [Directory traversal allows execution of arbitrary binaries usign doveadm exec](https://hackerone.com/reports/883104) to Open-Xchange - 2 upvotes, $0
-101. [Referer in /servlet/TestServlet](https://hackerone.com/reports/342976) to Open-Xchange - 1 upvotes, $300
-102. [Cross-Site Scripting Vulnerability in dovecot.fi](https://hackerone.com/reports/135316) to Open-Xchange - 1 upvotes, $0
-103. [DIrectory Listing Found](https://hackerone.com/reports/138558) to Open-Xchange - 1 upvotes, $0
-104. [Apache version disclosure](https://hackerone.com/reports/139547) to Open-Xchange - 1 upvotes, $0
-105. [Outdated Apache Server in www.dovecot.fi is vulnerable to various attack.](https://hackerone.com/reports/139591) to Open-Xchange - 1 upvotes, $0
-106. [Null dereference in mcht_relational_validate ext-relational-common.c:136](https://hackerone.com/reports/894446) to Open-Xchange - 0 upvotes, $50
-107. [Null dereference in `cmd_denotify_operation_execute`](https://hackerone.com/reports/965881) to Open-Xchange - 0 upvotes, $50
-108. [Assert failed in `edit_mail_istream_read`](https://hackerone.com/reports/965790) to Open-Xchange - 0 upvotes, $50
-109. [Missing (or redundant) null check in `dcrypt_openssl_sign`](https://hackerone.com/reports/883606) to Open-Xchange - 0 upvotes, $0
-110. [A specifically designed sieve script can cause a DoS in lib-sieve during sieve script compilation via NULL pointer dereference](https://hackerone.com/reports/965774) to Open-Xchange - 0 upvotes, $0
+92. [Null pointer dereference in lib-sieve after calling sieve_binary_block_index](https://hackerone.com/reports/1130792) to Open-Xchange - 3 upvotes, $0
+93. [[XSS] content_disposition=inline in files](https://hackerone.com/reports/356586) to Open-Xchange - 2 upvotes, $500
+94. [Buffer overread off by one in `rpa_read_buffer`, incomplete fix for CVE-2020-12674](https://hackerone.com/reports/967457) to Open-Xchange - 2 upvotes, $400
+95. [[XSS] Pasting bootstrap in mail compose](https://hackerone.com/reports/331975) to Open-Xchange - 2 upvotes, $300
+96. [Resend invitation to members by Read only user(Privilege Escalation)](https://hackerone.com/reports/219192) to Open-Xchange - 2 upvotes, $200
+97. [Buffer overread in parse_angle_addr called from message_address_parse_path ](https://hackerone.com/reports/836045) to Open-Xchange - 2 upvotes, $50
+98. [Multiple buffer over reads in mbox_from_parse](https://hackerone.com/reports/836036) to Open-Xchange - 2 upvotes, $50
+99. [Failed assert in `mail_index_transaction_lookup`](https://hackerone.com/reports/965782) to Open-Xchange - 2 upvotes, $50
+100. [SSL Certification Expired And TLS Vulnerability ](https://hackerone.com/reports/207404) to Open-Xchange - 2 upvotes, $0
+101. [Directory traversal allows execution of arbitrary binaries usign doveadm exec](https://hackerone.com/reports/883104) to Open-Xchange - 2 upvotes, $0
+102. [Referer in /servlet/TestServlet](https://hackerone.com/reports/342976) to Open-Xchange - 1 upvotes, $300
+103. [Cross-Site Scripting Vulnerability in dovecot.fi](https://hackerone.com/reports/135316) to Open-Xchange - 1 upvotes, $0
+104. [DIrectory Listing Found](https://hackerone.com/reports/138558) to Open-Xchange - 1 upvotes, $0
+105. [Apache version disclosure](https://hackerone.com/reports/139547) to Open-Xchange - 1 upvotes, $0
+106. [Outdated Apache Server in www.dovecot.fi is vulnerable to various attack.](https://hackerone.com/reports/139591) to Open-Xchange - 1 upvotes, $0
+107. [Null dereference in mcht_relational_validate ext-relational-common.c:136](https://hackerone.com/reports/894446) to Open-Xchange - 0 upvotes, $50
+108. [Null dereference in `cmd_denotify_operation_execute`](https://hackerone.com/reports/965881) to Open-Xchange - 0 upvotes, $50
+109. [Assert failed in `edit_mail_istream_read`](https://hackerone.com/reports/965790) to Open-Xchange - 0 upvotes, $50
+110. [Missing (or redundant) null check in `dcrypt_openssl_sign`](https://hackerone.com/reports/883606) to Open-Xchange - 0 upvotes, $0
+111. [A specifically designed sieve script can cause a DoS in lib-sieve during sieve script compilation via NULL pointer dereference](https://hackerone.com/reports/965774) to Open-Xchange - 0 upvotes, $0
 
 
 [Back](../README.md)

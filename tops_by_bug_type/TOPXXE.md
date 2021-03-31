@@ -17,8 +17,8 @@ Top XXE reports from HackerOne:
 13. [Blind XXE via Powerpoint files](https://hackerone.com/reports/334488) to Open-Xchange - 83 upvotes, $2000
 14. [blind XXE in autodiscover parser](https://hackerone.com/reports/315837) to Mail.ru - 69 upvotes, $5000
 15. [LFI and SSRF via XXE in emblem editor](https://hackerone.com/reports/347139) to Rockstar Games - 67 upvotes, $1500
-16. [Blind OOB XXE At "http://ubermovement.com/"](https://hackerone.com/reports/154096) to Uber - 53 upvotes, $500
-17. [XXE на webdav.mail.ru -  PROPFIND/PROPPATCH](https://hackerone.com/reports/758978) to Mail.ru - 52 upvotes, $10000
+16. [XXE на webdav.mail.ru -  PROPFIND/PROPPATCH](https://hackerone.com/reports/758978) to Mail.ru - 53 upvotes, $10000
+17. [Blind OOB XXE At "http://ubermovement.com/"](https://hackerone.com/reports/154096) to Uber - 53 upvotes, $500
 18. [XXE on ██████████ by bypassing WAF ████](https://hackerone.com/reports/433996) to QIWI - 49 upvotes, $5000
 19. [[rev-app.informatica.com] - XXE](https://hackerone.com/reports/105434) to Informatica - 43 upvotes, $0
 20. [XML External Entity (XXE) in qiwi.com + waf bypass](https://hackerone.com/reports/99279) to QIWI - 39 upvotes, $3137

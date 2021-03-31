@@ -14,7 +14,7 @@ Top reports from The Internet program at HackerOne:
 10. [Insufficient shell characters filtering leads to (potentially remote) code execution (CVE-2016-3714)](https://hackerone.com/reports/143966) to The Internet - 21 upvotes, $7500
 11. [TLS Virtual Host Confusion](https://hackerone.com/reports/501) to The Internet - 19 upvotes, $7500
 12. [Multiple HTTP Smuggling reports](https://hackerone.com/reports/648434) to The Internet - 16 upvotes, $0
-13. [GNU Bourne-Again Shell (Bash) 'Shellshock' Vulnerability](https://hackerone.com/reports/29839) to The Internet - 14 upvotes, $20000
+13. [GNU Bourne-Again Shell (Bash) 'Shellshock' Vulnerability](https://hackerone.com/reports/29839) to The Internet - 15 upvotes, $20000
 14. [CVE-2019-5736: Escape from Docker and Kubernetes containers to root on host](https://hackerone.com/reports/495495) to The Internet - 14 upvotes, $1000
 15. [TLS Triple Handshake Attack](https://hackerone.com/reports/7277) to The Internet - 12 upvotes, $7500
 16. [Exim off-by-one RCE vulnerability](https://hackerone.com/reports/322935) to The Internet - 11 upvotes, $1500
