@@ -69,18 +69,18 @@ Top reports from Node.js third-party modules program at HackerOne:
 65. [[express-laravel-passport] Improper Authentication](https://hackerone.com/reports/748214) to Node.js third-party modules - 9 upvotes, $0
 66. [Stored XSS (Hexo-admin plugin)](https://hackerone.com/reports/716570) to Node.js third-party modules - 9 upvotes, $0
 67. [Prototype pollution in dot-prop](https://hackerone.com/reports/719856) to Node.js third-party modules - 9 upvotes, $0
-68. [Prototype pollution in multipart parsing](https://hackerone.com/reports/804772) to Node.js third-party modules - 9 upvotes, $0
-69. [[simplehttpserver] Stored XSS in file names leads to malicious JavaScript code execution when directory listing is output in HTML](https://hackerone.com/reports/309648) to Node.js third-party modules - 8 upvotes, $0
-70. [[bracket-template] Reflected XSS possible when variable passed via GET parameter is used in template](https://hackerone.com/reports/317125) to Node.js third-party modules - 8 upvotes, $0
-71. [[statics-server] XSS via injected iframe in file name when statics-server displays directory index in the browser](https://hackerone.com/reports/355458) to Node.js third-party modules - 8 upvotes, $0
-72. [[markdown-pdf] Local file reading](https://hackerone.com/reports/360727) to Node.js third-party modules - 8 upvotes, $0
-73. [[apex-publish-static-files] Command Injection on connectString](https://hackerone.com/reports/405694) to Node.js third-party modules - 8 upvotes, $0
-74. [[knightjs] Path Traversal allows to read content of arbitrary files](https://hackerone.com/reports/403707) to Node.js third-party modules - 8 upvotes, $0
-75. [Remote code executio in  NPM package getcookies](https://hackerone.com/reports/346516) to Node.js third-party modules - 8 upvotes, $0
-76. [Yarn transfers npm credentials over unencrypted http connection](https://hackerone.com/reports/640904) to Node.js third-party modules - 8 upvotes, $0
-77. [Path traversal using symlink](https://hackerone.com/reports/695416) to Node.js third-party modules - 8 upvotes, $0
-78. [[atlasboard-atlassian-package] Cross-site Scripting (XSS)](https://hackerone.com/reports/456702) to Node.js third-party modules - 8 upvotes, $0
-79. [Denial Of Service in Strapi Framework using argument injection](https://hackerone.com/reports/768574) to Node.js third-party modules - 8 upvotes, $0
+68. [Denial Of Service in Strapi Framework using argument injection](https://hackerone.com/reports/768574) to Node.js third-party modules - 9 upvotes, $0
+69. [Prototype pollution in multipart parsing](https://hackerone.com/reports/804772) to Node.js third-party modules - 9 upvotes, $0
+70. [[simplehttpserver] Stored XSS in file names leads to malicious JavaScript code execution when directory listing is output in HTML](https://hackerone.com/reports/309648) to Node.js third-party modules - 8 upvotes, $0
+71. [[bracket-template] Reflected XSS possible when variable passed via GET parameter is used in template](https://hackerone.com/reports/317125) to Node.js third-party modules - 8 upvotes, $0
+72. [[statics-server] XSS via injected iframe in file name when statics-server displays directory index in the browser](https://hackerone.com/reports/355458) to Node.js third-party modules - 8 upvotes, $0
+73. [[markdown-pdf] Local file reading](https://hackerone.com/reports/360727) to Node.js third-party modules - 8 upvotes, $0
+74. [[apex-publish-static-files] Command Injection on connectString](https://hackerone.com/reports/405694) to Node.js third-party modules - 8 upvotes, $0
+75. [[knightjs] Path Traversal allows to read content of arbitrary files](https://hackerone.com/reports/403707) to Node.js third-party modules - 8 upvotes, $0
+76. [Remote code executio in  NPM package getcookies](https://hackerone.com/reports/346516) to Node.js third-party modules - 8 upvotes, $0
+77. [Yarn transfers npm credentials over unencrypted http connection](https://hackerone.com/reports/640904) to Node.js third-party modules - 8 upvotes, $0
+78. [Path traversal using symlink](https://hackerone.com/reports/695416) to Node.js third-party modules - 8 upvotes, $0
+79. [[atlasboard-atlassian-package] Cross-site Scripting (XSS)](https://hackerone.com/reports/456702) to Node.js third-party modules - 8 upvotes, $0
 80. [[min-http-server] List any file in the folder by using path traversal.](https://hackerone.com/reports/569891) to Node.js third-party modules - 8 upvotes, $0
 81. [Prototype Pollution lodash 4.17.15](https://hackerone.com/reports/864701) to Node.js third-party modules - 7 upvotes, $250
 82. [Path Traversal on Resolve-Path](https://hackerone.com/reports/315760) to Node.js third-party modules - 7 upvotes, $0

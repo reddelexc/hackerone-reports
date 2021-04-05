@@ -3,7 +3,7 @@
 Top reports from Slack program at HackerOne:
 
 1. [Mass account takeovers using HTTP Request Smuggling on https://slackb.com/ to steal session cookies](https://hackerone.com/reports/737140) to Slack - 798 upvotes, $6500
-2. [Remote Code Execution in Slack desktop apps + bonus](https://hackerone.com/reports/783877) to Slack - 467 upvotes, $1750
+2. [Remote Code Execution in Slack desktop apps + bonus](https://hackerone.com/reports/783877) to Slack - 468 upvotes, $1750
 3. [XSS vulnerable parameter in a location hash](https://hackerone.com/reports/146336) to Slack - 435 upvotes, $1100
 4. [URL link spoofing](https://hackerone.com/reports/481472) to Slack - 349 upvotes, $250
 5. [AWS bucket leading to iOS test build code and configuration exposure](https://hackerone.com/reports/404822) to Slack - 312 upvotes, $1500
@@ -35,8 +35,8 @@ Top reports from Slack program at HackerOne:
 31. [ Stored XSS(Cross Site Scripting) In Slack App Name](https://hackerone.com/reports/159460) to Slack - 28 upvotes, $1000
 32. [Bypass  two-factor authentication](https://hackerone.com/reports/121696) to Slack - 27 upvotes, $500
 33. [DoS on the Direct Messages](https://hackerone.com/reports/746003) to Slack - 27 upvotes, $500
-34. [Subdomain takeover on podcasts.slack-core.com](https://hackerone.com/reports/195350) to Slack - 25 upvotes, $100
-35. [Source code leakage through GIT web access at host '52.91.137.42'](https://hackerone.com/reports/148068) to Slack - 24 upvotes, $1500
+34. [Source code leakage through GIT web access at host '52.91.137.42'](https://hackerone.com/reports/148068) to Slack - 25 upvotes, $1500
+35. [Subdomain takeover on podcasts.slack-core.com](https://hackerone.com/reports/195350) to Slack - 25 upvotes, $100
 36. [Access of Android protected components via embedded intent](https://hackerone.com/reports/200427) to Slack - 23 upvotes, $1000
 37. [[Screenhero] Subdomain takeover](https://hackerone.com/reports/142096) to Slack - 23 upvotes, $200
 38. [CSRF in github integration](https://hackerone.com/reports/174328) to Slack - 22 upvotes, $500

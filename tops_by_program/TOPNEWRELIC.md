@@ -3,9 +3,9 @@
 Top reports from New Relic program at HackerOne:
 
 1. [Password theft login.newrelic.com via Request Smuggling](https://hackerone.com/reports/498052) to New Relic - 475 upvotes, $3000
-2. [Unsafe charts embedding implementation leads to cross-account stored XSS and SSRF](https://hackerone.com/reports/708589) to New Relic - 219 upvotes, $2500
+2. [Unsafe charts embedding implementation leads to cross-account stored XSS and SSRF](https://hackerone.com/reports/708589) to New Relic - 220 upvotes, $2500
 3. [Cross-account stored XSS at embedded charts](https://hackerone.com/reports/709883) to New Relic - 154 upvotes, $3625
-4. [Stored XSS in notes (charts) because of insecure chart data JSON generation](https://hackerone.com/reports/507132) to New Relic - 143 upvotes, $4250
+4. [Stored XSS in notes (charts) because of insecure chart data JSON generation](https://hackerone.com/reports/507132) to New Relic - 144 upvotes, $4250
 5. [CSTI at Plugin page leading to active stored XSS (Publisher name)](https://hackerone.com/reports/587829) to New Relic - 89 upvotes, $2500
 6. [Urgent! Stored XSS at plugin's violations leading to account takeover](https://hackerone.com/reports/602527) to New Relic - 79 upvotes, $2500
 7. [IDOR via internal_api "users" endpoint ](https://hackerone.com/reports/349291) to New Relic - 75 upvotes, $1500
@@ -18,7 +18,7 @@ Top reports from New Relic program at HackerOne:
 14. [Stored XSS in Brower `name` field reflected in two pages](https://hackerone.com/reports/348076) to New Relic - 39 upvotes, $3000
 15. [[NR Insights] Pull any Insights/NRQL data from any NR account](https://hackerone.com/reports/397137) to New Relic - 37 upvotes, $2500
 16. [Bypass of my three other reports #267636 + #255894 + #271861 - (IDOR) Ability to see full name associated with other New Relic accounts](https://hackerone.com/reports/320173) to New Relic - 37 upvotes, $1500
-17. [SSRF in alerts.newrelic.com exposes entire internal network](https://hackerone.com/reports/198690) to New Relic - 35 upvotes, $0
+17. [SSRF in alerts.newrelic.com exposes entire internal network](https://hackerone.com/reports/198690) to New Relic - 36 upvotes, $0
 18. [Users can enable API access for free via mass assignment](https://hackerone.com/reports/267781) to New Relic - 30 upvotes, $0
 19. [Sending thousands of notifications with single request](https://hackerone.com/reports/957829) to New Relic - 29 upvotes, $500
 20. [Adding your account to victim's app via deeplink](https://hackerone.com/reports/957874) to New Relic - 27 upvotes, $100

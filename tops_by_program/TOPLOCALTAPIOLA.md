@@ -32,8 +32,8 @@ Top reports from LocalTapiola program at HackerOne:
 28. [CSRF allows attacker to delete item from customer's "Postilaatikko"](https://hackerone.com/reports/123339) to LocalTapiola - 14 upvotes, $500
 29. [Cookie-based client-side denial-of-service to all of the Lähitapiola domains](https://hackerone.com/reports/129001) to LocalTapiola - 13 upvotes, $400
 30. [Sitemap causing strain on your Lahitapiola.fi server](https://hackerone.com/reports/318603) to LocalTapiola - 13 upvotes, $315
-31. [Reflected XSS and Open Redirect in several parameters (viestinta.lahitapiola.fi)](https://hackerone.com/reports/191387) to LocalTapiola - 12 upvotes, $450
-32. [HTML Injection in email /webApp/lahti (viestinta.lahitapiola.fi)](https://hackerone.com/reports/181810) to LocalTapiola - 12 upvotes, $264
+31. [HTML Injection in email /webApp/lahti (viestinta.lahitapiola.fi)](https://hackerone.com/reports/181810) to LocalTapiola - 13 upvotes, $264
+32. [Reflected XSS and Open Redirect in several parameters (viestinta.lahitapiola.fi)](https://hackerone.com/reports/191387) to LocalTapiola - 12 upvotes, $450
 33. [Reflected XSS (myynti.lahitapiolarahoitus.fi)](https://hackerone.com/reports/324423) to LocalTapiola - 12 upvotes, $250
 34. [CRLF injection in https://verkkopalvelu.lahitapiola.fi/](https://hackerone.com/reports/121489) to LocalTapiola - 11 upvotes, $400
 35. [Reflected XSS of bbe-child-starter Theme via "value"-GET-parameter](https://hackerone.com/reports/335735) to LocalTapiola - 11 upvotes, $250

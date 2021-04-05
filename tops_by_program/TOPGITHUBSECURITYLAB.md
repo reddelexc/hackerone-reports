@@ -19,11 +19,11 @@ Top reports from GitHub Security Lab program at HackerOne:
 15. [Java: CWE-939 - Address improper URL authorization](https://hackerone.com/reports/929288) to GitHub Security Lab - 17 upvotes, $1500
 16. [[javascript] CWE-020: CodeQL query to detect missing origin validation in cross-origin communication via postMessage](https://hackerone.com/reports/920285) to GitHub Security Lab - 16 upvotes, $1800
 17. [[Java] CWE-755: Query to detect Local Android DoS caused by NFE](https://hackerone.com/reports/1061211) to GitHub Security Lab - 15 upvotes, $1800
-18. [Netty HTTP Response Splitting (CRLF Injection) due to disabled header validation](https://hackerone.com/reports/761222) to GitHub Security Lab - 14 upvotes, $1500
-19. [CPP: Out of order Linux permission dropping without checking return codes](https://hackerone.com/reports/852349) to GitHub Security Lab - 14 upvotes, $1500
-20. [CodeQL query for SpEL injections](https://hackerone.com/reports/896298) to GitHub Security Lab - 13 upvotes, $2300
-21. [Java : CWE-548 - J2EE server directory listing enabled](https://hackerone.com/reports/909374) to GitHub Security Lab - 13 upvotes, $1800
-22. [Java: Query for detecting unsafe deserialization with Spring exporters](https://hackerone.com/reports/1135877) to GitHub Security Lab - 12 upvotes, $4500
+18. [Java: Query for detecting unsafe deserialization with Spring exporters](https://hackerone.com/reports/1135877) to GitHub Security Lab - 14 upvotes, $4500
+19. [Netty HTTP Response Splitting (CRLF Injection) due to disabled header validation](https://hackerone.com/reports/761222) to GitHub Security Lab - 14 upvotes, $1500
+20. [CPP: Out of order Linux permission dropping without checking return codes](https://hackerone.com/reports/852349) to GitHub Security Lab - 14 upvotes, $1500
+21. [CodeQL query for SpEL injections](https://hackerone.com/reports/896298) to GitHub Security Lab - 13 upvotes, $2300
+22. [Java : CWE-548 - J2EE server directory listing enabled](https://hackerone.com/reports/909374) to GitHub Security Lab - 13 upvotes, $1800
 23. [[Java] CWE-939 - Address improper URL authorization](https://hackerone.com/reports/891268) to GitHub Security Lab - 11 upvotes, $1800
 24. [gagliardetto: Query to detect incorrect conversion between numeric types](https://hackerone.com/reports/891265) to GitHub Security Lab - 11 upvotes, $1800
 25. [Golang : Improvements to Golang SSRF query](https://hackerone.com/reports/956296) to GitHub Security Lab - 11 upvotes, $1800

@@ -18,9 +18,9 @@ Top reports from VK.com program at HackerOne:
 14. [XSS в upload.php](https://hackerone.com/reports/142135) to VK.com - 38 upvotes, $1500
 15. [Просмотр приватных видео записей у Пользователей](https://hackerone.com/reports/317985) to VK.com - 33 upvotes, $300
 16. [Получение БД кэша из Android-приложения через стороннее приложение](https://hackerone.com/reports/377582) to VK.com - 32 upvotes, $500
-17. [Возможность взлома любого пользователя, не использующего двухфакторной аутентификации, через получения кода восстановления на чужой номер.](https://hackerone.com/reports/219171) to VK.com - 31 upvotes, $2000
-18. [XSS-уязвимость, связанная с загрузкой файлов](https://hackerone.com/reports/375886) to VK.com - 30 upvotes, $1000
-19. [Stored XSS при удалении группы из беседы (m.vk.com)](https://hackerone.com/reports/1101500) to VK.com - 30 upvotes, $500
+17. [Stored XSS при удалении группы из беседы (m.vk.com)](https://hackerone.com/reports/1101500) to VK.com - 32 upvotes, $500
+18. [Возможность взлома любого пользователя, не использующего двухфакторной аутентификации, через получения кода восстановления на чужой номер.](https://hackerone.com/reports/219171) to VK.com - 31 upvotes, $2000
+19. [XSS-уязвимость, связанная с загрузкой файлов](https://hackerone.com/reports/375886) to VK.com - 30 upvotes, $1000
 20. [XSS в колбек апи в сообществах ](https://hackerone.com/reports/261966) to VK.com - 29 upvotes, $500
 21. [Уязвимость в методе auth.restore](https://hackerone.com/reports/366153) to VK.com - 27 upvotes, $400
 22. [XSS in vk.link](https://hackerone.com/reports/1025125) to VK.com - 27 upvotes, $300

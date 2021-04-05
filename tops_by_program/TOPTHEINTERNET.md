@@ -20,10 +20,10 @@ Top reports from The Internet program at HackerOne:
 16. [Exim off-by-one RCE vulnerability](https://hackerone.com/reports/322935) to The Internet - 11 upvotes, $1500
 17. [Cross-site information assertion leak via Content Security Policy](https://hackerone.com/reports/16910) to The Internet - 11 upvotes, $0
 18. [Drupal 7 pre auth sql injection and remote code execution](https://hackerone.com/reports/31756) to The Internet - 10 upvotes, $3000
-19. [Linux kernel: CVE-2017-7308: a signedness issue in AF_PACKET sockets](https://hackerone.com/reports/684567) to The Internet - 10 upvotes, $0
-20. [rpcbind "rpcbomb" CVE-2017-8779, CVE-2017-8804](https://hackerone.com/reports/235016) to The Internet - 10 upvotes, $0
-21. [Mercurial git subrepo lead to arbritary command injection](https://hackerone.com/reports/294147) to The Internet - 9 upvotes, $1500
-22. [Critical vulnerability in JSON Web Encryption (JWE) - RFC 7516 Invalid Curve attack](https://hackerone.com/reports/213437) to The Internet - 9 upvotes, $1000
+19. [Critical vulnerability in JSON Web Encryption (JWE) - RFC 7516 Invalid Curve attack](https://hackerone.com/reports/213437) to The Internet - 10 upvotes, $1000
+20. [Linux kernel: CVE-2017-7308: a signedness issue in AF_PACKET sockets](https://hackerone.com/reports/684567) to The Internet - 10 upvotes, $0
+21. [rpcbind "rpcbomb" CVE-2017-8779, CVE-2017-8804](https://hackerone.com/reports/235016) to The Internet - 10 upvotes, $0
+22. [Mercurial git subrepo lead to arbritary command injection](https://hackerone.com/reports/294147) to The Internet - 9 upvotes, $1500
 23. [Linux kernel: CVE-2017-1000112: a memory corruption due to UFO to non-UFO path switch](https://hackerone.com/reports/684573) to The Internet - 9 upvotes, $0
 24. [Linux kernel: CVE-2017-6074: DCCP double-free vulnerability](https://hackerone.com/reports/347282) to The Internet - 8 upvotes, $1000
 25. [Industry-Wide MITM Vulnerability Impacting the JVM Ecosystem](https://hackerone.com/reports/608620) to The Internet - 8 upvotes, $0

@@ -2,7 +2,7 @@
 
 Top Subdomain Takeover reports from HackerOne:
 
-1. [Subdomain Takeover to Authentication bypass ](https://hackerone.com/reports/335330) to Roblox - 655 upvotes, $2500
+1. [Subdomain Takeover to Authentication bypass ](https://hackerone.com/reports/335330) to Roblox - 657 upvotes, $2500
 2. [Subdomain takeover of datacafe-cert.starbucks.com](https://hackerone.com/reports/665398) to Starbucks - 296 upvotes, $2000
 3. [Authentication bypass on auth.uber.com via subdomain takeover of saostatic.uber.com](https://hackerone.com/reports/219205) to Uber - 160 upvotes, $5000
 4. [Subdomain takeover of storybook.lystit.com](https://hackerone.com/reports/779442) to Lyst - 153 upvotes, $1000
@@ -17,7 +17,7 @@ Top Subdomain Takeover reports from HackerOne:
 13. [Subdomain takeover on usclsapipma.cv.ford.com](https://hackerone.com/reports/484420) to Ford - 96 upvotes, $0
 14. [Subdomain takeover of resources.hackerone.com](https://hackerone.com/reports/863551) to HackerOne - 92 upvotes, $500
 15. [Subdomain takeover on wfmnarptpc.starbucks.com](https://hackerone.com/reports/388622) to Starbucks - 83 upvotes, $2000
-16. [ Subdomain Takeover Via Insecure CloudFront Distribution cdn.grab.com](https://hackerone.com/reports/352869) to Grab - 81 upvotes, $1000
+16. [ Subdomain Takeover Via Insecure CloudFront Distribution cdn.grab.com](https://hackerone.com/reports/352869) to Grab - 83 upvotes, $1000
 17. [Multiple Subdomain takeovers via unclaimed instances](https://hackerone.com/reports/276269) to Starbucks - 78 upvotes, $8000
 18. [Subdomain takeover #2  at info.hacker.one](https://hackerone.com/reports/209004) to HackerOne - 76 upvotes, $1000
 19. [Subdomain Takeover at creatorforum.roblox.com](https://hackerone.com/reports/264494) to Roblox - 76 upvotes, $1000
@@ -101,18 +101,18 @@ Top Subdomain Takeover reports from HackerOne:
 97. [DNS Misconfiguration (Subdomain Takeover) █.staging.█.8x8.com](https://hackerone.com/reports/1108125) to 8x8 - 10 upvotes, $0
 98. [Subdomain Takeover at http://gameday.websummit.net](https://hackerone.com/reports/193056) to WebSummit - 9 upvotes, $20
 99. [Subdomain takeover in many subdomains](https://hackerone.com/reports/205949) to OWOX, Inc. - 9 upvotes, $0
-100. [Route53 Subdomain Takeover on test-cncf-aws.canary.k8s.io](https://hackerone.com/reports/794382) to Kubernetes - 9 upvotes, $0
-101. [code.wordpress.net subdomain Takeover](https://hackerone.com/reports/295330) to WordPress - 8 upvotes, $25
-102. [Possible Subdomain Takeover](https://hackerone.com/reports/399165) to Khan Academy - 8 upvotes, $0
-103. [Subdomain Takeover at blog.instamart.ru](https://hackerone.com/reports/894431) to Mail.ru - 8 upvotes, $0
-104. [Subdomain Takeover due to unclaimed domain pointing to Acquia Cloud](https://hackerone.com/reports/874482) to Insulet Corporation - 8 upvotes, $0
+100. [Subdomain Takeover due to unclaimed domain pointing to Acquia Cloud](https://hackerone.com/reports/874482) to Insulet Corporation - 9 upvotes, $0
+101. [Route53 Subdomain Takeover on test-cncf-aws.canary.k8s.io](https://hackerone.com/reports/794382) to Kubernetes - 9 upvotes, $0
+102. [code.wordpress.net subdomain Takeover](https://hackerone.com/reports/295330) to WordPress - 8 upvotes, $25
+103. [Possible Subdomain Takeover](https://hackerone.com/reports/399165) to Khan Academy - 8 upvotes, $0
+104. [Subdomain Takeover at blog.instamart.ru](https://hackerone.com/reports/894431) to Mail.ru - 8 upvotes, $0
 105. [Subdomain Takeover at Landing.udemy.com ](https://hackerone.com/reports/208719) to Udemy - 7 upvotes, $50
 106. [Sub Domain Take over](https://hackerone.com/reports/111078) to Gratipay - 7 upvotes, $15
 107. [Subdomain takeover (sales.mixmax.com)](https://hackerone.com/reports/233408) to Mixmax - 7 upvotes, $0
-108. [Domain takeover (legalrobot.co.za)](https://hackerone.com/reports/230525) to Legal Robot - 6 upvotes, $20
-109. [Subdomain Takeover of Brave.com](https://hackerone.com/reports/175397) to Brave Software - 6 upvotes, $0
-110. [Subdomain Takeover](https://hackerone.com/reports/289051) to TTS Bug Bounty - 6 upvotes, $0
-111. [Subdomain Takeover of multiple *.ttcdn.co domains](https://hackerone.com/reports/915649) to Shopify - 6 upvotes, $0
+108. [Subdomain Takeover of multiple *.ttcdn.co domains](https://hackerone.com/reports/915649) to Shopify - 7 upvotes, $0
+109. [Domain takeover (legalrobot.co.za)](https://hackerone.com/reports/230525) to Legal Robot - 6 upvotes, $20
+110. [Subdomain Takeover of Brave.com](https://hackerone.com/reports/175397) to Brave Software - 6 upvotes, $0
+111. [Subdomain Takeover](https://hackerone.com/reports/289051) to TTS Bug Bounty - 6 upvotes, $0
 112. [Subdomain Takeover at  analyticstest.geekbrains.ru](https://hackerone.com/reports/942179) to Mail.ru - 6 upvotes, $0
 113. [Subdomain takeover http://promo.instamart.ru/](https://hackerone.com/reports/996956) to Mail.ru - 6 upvotes, $0
 114. [Subdomain takeover at ws.bimedb.com due to unclaimed Amazon S3 bucket](https://hackerone.com/reports/161428) to Bime - 5 upvotes, $150

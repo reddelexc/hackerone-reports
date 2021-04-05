@@ -26,11 +26,11 @@ Top reports from PHP (IBB) program at HackerOne:
 22. [CVE-2018-12882: heap-use-after-free in PHP 7.2 through 7.2.6, possible 7.2.7](https://hackerone.com/reports/371135) to PHP (IBB) - 13 upvotes, $500
 23. [php mcrypt ext - In correct casting from size_t to int lead to heap overflow in mdecrypt_generic](https://hackerone.com/reports/152400) to PHP (IBB) - 12 upvotes, $1000
 24. [Memory corruption when parsing a hostile PHAR archive](https://hackerone.com/reports/195586) to PHP (IBB) - 12 upvotes, $500
-25. [Use After Free Vulnerability in PHP's GC algorithm and unserialize](https://hackerone.com/reports/146233) to PHP (IBB) - 11 upvotes, $1000
-26. [ZipArchive class Use After Free Vulnerability in PHP's GC algorithm and unserialize](https://hackerone.com/reports/146235) to PHP (IBB) - 11 upvotes, $1000
-27. [Heap Buffer Overflow (READ: 1786) in exif_iif_add_value](https://hackerone.com/reports/344035) to PHP (IBB) - 11 upvotes, $500
-28. [Heap Use After Free Read in unserialize()](https://hackerone.com/reports/261335) to PHP (IBB) - 11 upvotes, $500
-29. [PHP openssl_x509_parse() Memory Corruption Vulnerability](https://hackerone.com/reports/523) to PHP (IBB) - 10 upvotes, $4000
+25. [PHP openssl_x509_parse() Memory Corruption Vulnerability](https://hackerone.com/reports/523) to PHP (IBB) - 11 upvotes, $4000
+26. [Use After Free Vulnerability in PHP's GC algorithm and unserialize](https://hackerone.com/reports/146233) to PHP (IBB) - 11 upvotes, $1000
+27. [ZipArchive class Use After Free Vulnerability in PHP's GC algorithm and unserialize](https://hackerone.com/reports/146235) to PHP (IBB) - 11 upvotes, $1000
+28. [Heap Buffer Overflow (READ: 1786) in exif_iif_add_value](https://hackerone.com/reports/344035) to PHP (IBB) - 11 upvotes, $500
+29. [Heap Use After Free Read in unserialize()](https://hackerone.com/reports/261335) to PHP (IBB) - 11 upvotes, $500
 30. [Improper handling of Chunked data request in sapi_apache2.c leads to Reflected XSS](https://hackerone.com/reports/409986) to PHP (IBB) - 10 upvotes, $500
 31. [Out of Bounds Memory Read in php_jpg_get16](https://hackerone.com/reports/665330) to PHP (IBB) - 8 upvotes, $1500
 32. [Use after free and out of bounds read in xmlrpc_decode()](https://hackerone.com/reports/477896) to PHP (IBB) - 8 upvotes, $1500

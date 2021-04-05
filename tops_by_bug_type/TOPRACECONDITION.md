@@ -29,16 +29,16 @@ Top Race Condition reports from HackerOne:
 25. [Race condition on the Federalist API endpoints can lead to the Denial of Service attack](https://hackerone.com/reports/249319) to TTS Bug Bounty - 15 upvotes, $150
 26. [Race condition при покупке подарков на games.mail.ru](https://hackerone.com/reports/685432) to Mail.ru - 14 upvotes, $0
 27. [race condition in adding team members](https://hackerone.com/reports/176127) to Shopify - 12 upvotes, $500
-28. [Race condition (TOCTOU) in NordVPN can result in local privilege escalation](https://hackerone.com/reports/768110) to NordVPN - 12 upvotes, $500
+28. [Race condition (TOCTOU) in NordVPN can result in local privilege escalation](https://hackerone.com/reports/768110) to Nord Security - 12 upvotes, $500
 29. [Issue in the implementation of captcha and race condition](https://hackerone.com/reports/67562) to VK.com - 12 upvotes, $100
 30. [Race Condition Vulnerability On Pornhubpremium.com](https://hackerone.com/reports/183624) to Pornhub - 11 upvotes, $520
 31. [Race condition на покупке призов за баллы](https://hackerone.com/reports/700833) to Mail.ru - 11 upvotes, $150
 32. [Race condition in Flash workers may cause an exploitabl​e double free](https://hackerone.com/reports/37240) to Flash (IBB) - 10 upvotes, $10000
 33. [Race Condition in Definition Votes](https://hackerone.com/reports/152717) to Urban Dictionary - 10 upvotes, $0
 34. [Race Condition allows to get more free trials and get more than 100 languages and strings for free](https://hackerone.com/reports/1087188) to Weblate - 9 upvotes, $0
-35. [Bypass subdomain limits using race condition](https://hackerone.com/reports/395351) to Chaturbate - 8 upvotes, $100
-36. [Race Condition in Article "Helpful" Indicator](https://hackerone.com/reports/109485) to Zendesk - 8 upvotes, $50
-37. [Race Condition in Oauth 2.0 flow can lead to malicious applications create multiple valid sessions](https://hackerone.com/reports/699112) to Razer - 7 upvotes, $250
+35. [Race Condition in Oauth 2.0 flow can lead to malicious applications create multiple valid sessions](https://hackerone.com/reports/699112) to Razer - 8 upvotes, $250
+36. [Bypass subdomain limits using race condition](https://hackerone.com/reports/395351) to Chaturbate - 8 upvotes, $100
+37. [Race Condition in Article "Helpful" Indicator](https://hackerone.com/reports/109485) to Zendesk - 8 upvotes, $50
 38. [Race condition when redeeming coupon codes](https://hackerone.com/reports/59179) to Dropbox - 4 upvotes, $216
 39. [Race condition allowing user to review app multiple times](https://hackerone.com/reports/106360) to Coinbase - 4 upvotes, $100
 40. [Race Conditions Exist When Accepting Invitations](https://hackerone.com/reports/119354) to HackerOne - 4 upvotes, $0

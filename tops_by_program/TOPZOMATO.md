@@ -33,9 +33,9 @@ Top reports from Zomato program at HackerOne:
 29. [[www.zomato.com] Boolean SQLi - /█████.php](https://hackerone.com/reports/297534) to Zomato - 34 upvotes, $1000
 30. [[www.zomato.com] Boolean SQLi - /███████.php](https://hackerone.com/reports/301257) to Zomato - 33 upvotes, $1000
 31. [[www.zomato.com/dubai/gold] CRITICAL - Allowing arbitrary amount to become a GOLD Member](https://hackerone.com/reports/254211) to Zomato - 33 upvotes, $500
-32. [SSRF in https://www.zomato.com████ allows reading local files and website source code](https://hackerone.com/reports/271224) to Zomato - 29 upvotes, $1000
-33. [IDOR to cancel any table booking and leak sensitive information such as email,mobile number,uuid](https://hackerone.com/reports/265258) to Zomato - 29 upvotes, $250
-34. [Admin Access to a domain used for development and admin access to internal dashboards on that domain](https://hackerone.com/reports/271407) to Zomato - 28 upvotes, $1000
+32. [Admin Access to a domain used for development and admin access to internal dashboards on that domain](https://hackerone.com/reports/271407) to Zomato - 29 upvotes, $1000
+33. [SSRF in https://www.zomato.com████ allows reading local files and website source code](https://hackerone.com/reports/271224) to Zomato - 29 upvotes, $1000
+34. [IDOR to cancel any table booking and leak sensitive information such as email,mobile number,uuid](https://hackerone.com/reports/265258) to Zomato - 29 upvotes, $250
 35. [[www.zomato.com] IDOR - Leaking all Personal Details of all Zomato Users through an endpoint](https://hackerone.com/reports/269937) to Zomato - 27 upvotes, $750
 36. [Self-Stored XSS - Chained with login/logout CSRF](https://hackerone.com/reports/632017) to Zomato - 27 upvotes, $300
 37. [[█████████] Hardcoded credentials in Android App](https://hackerone.com/reports/246995) to Zomato - 26 upvotes, $500

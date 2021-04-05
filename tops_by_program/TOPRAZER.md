@@ -35,14 +35,14 @@ Top reports from Razer program at HackerOne:
 31. [Payment PIN Verification Bypass](https://hackerone.com/reports/702383) to Razer - 57 upvotes, $1000
 32. [Reflected XSS at http://promotion.molthailand.com/index.php via promotion_id parameter](https://hackerone.com/reports/772116) to Razer - 55 upvotes, $250
 33. [Insecure Logging - OWASP (2016-M2)](https://hackerone.com/reports/700624) to Razer - 45 upvotes, $400
-34. [Improper access control on easytopup.in.th transaction page leads to user's information disclosure and may lead to account hijacking](https://hackerone.com/reports/776877) to Razer - 40 upvotes, $1000
-35. [Improper access control on easytopup.in.th transaction page leads to user's information disclosure and may lead to account hijacking](https://hackerone.com/reports/776877) to Razer - 40 upvotes, $1000
+34. [Improper access control on easytopup.in.th transaction page leads to user's information disclosure and may lead to account hijacking](https://hackerone.com/reports/776877) to Razer - 41 upvotes, $1000
+35. [Improper access control on easytopup.in.th transaction page leads to user's information disclosure and may lead to account hijacking](https://hackerone.com/reports/776877) to Razer - 41 upvotes, $1000
 36. [Improper Authorization at https://api-my.pay.razer.com/v1/trxDetail?trxId=[Id] allowing unauthorised access to other user's transaction details](https://hackerone.com/reports/754339) to Razer - 40 upvotes, $500
 37. [dom based xss on [hello.merchant.razer.com]](https://hackerone.com/reports/767944) to Razer - 36 upvotes, $500
 38. [Cookie based XSS on http://ftp1.thx.com](https://hackerone.com/reports/748217) to Razer - 30 upvotes, $375
 39. [[razer-assets2] Listing of Amazon S3 Bucket accessible to any AWS cli  ](https://hackerone.com/reports/710319) to Razer - 27 upvotes, $250
-40. [Expired reCAPTCHA site key leads to Rate Limit Bypass and Email Enumeration](https://hackerone.com/reports/758280) to Razer - 26 upvotes, $200
-41. [DLL Hijacking in Synapse 2  CrashSender1402.exe via version.dll](https://hackerone.com/reports/702252) to Razer - 25 upvotes, $750
+40. [DLL Hijacking in Synapse 2  CrashSender1402.exe via version.dll](https://hackerone.com/reports/702252) to Razer - 26 upvotes, $750
+41. [Expired reCAPTCHA site key leads to Rate Limit Bypass and Email Enumeration](https://hackerone.com/reports/758280) to Razer - 26 upvotes, $200
 42. [IDOR in eform.molpay.com leads to see other users application forms with private data](https://hackerone.com/reports/790829) to Razer - 21 upvotes, $500
 43. [Insecure Processing of XML leads to Denial of Service through Billion Laughs Attack](https://hackerone.com/reports/754117) to Razer - 21 upvotes, $375
 44. [Insecure Processing of XML leads to Denial of Service through Billion Laughs Attack](https://hackerone.com/reports/754117) to Razer - 21 upvotes, $375
@@ -71,7 +71,7 @@ Top reports from Razer program at HackerOne:
 67. [Aws bucket writable mobile.razer.com](https://hackerone.com/reports/772957) to Razer - 9 upvotes, $250
 68. [Misconfigured Bucket  [razer-assets2]  https://assets2.razerzone.com/](https://hackerone.com/reports/756703) to Razer - 9 upvotes, $250
 69. [ Information disclosure at http://sea-s2s.molthailand.com/status.php](https://hackerone.com/reports/721761) to Razer - 8 upvotes, $375
-70. [Race Condition in Oauth 2.0 flow can lead to malicious applications create multiple valid sessions](https://hackerone.com/reports/699112) to Razer - 7 upvotes, $250
+70. [Race Condition in Oauth 2.0 flow can lead to malicious applications create multiple valid sessions](https://hackerone.com/reports/699112) to Razer - 8 upvotes, $250
 71. [[Razer Pay] Broken Access Control at /v1/verifyPhone/ allows enumeration of usernames and ID information](https://hackerone.com/reports/752443) to Razer - 6 upvotes, $500
 72. [Store Cross-Site Scripting - www.razer.ru](https://hackerone.com/reports/739854) to Razer - 5 upvotes, $200
 73. [User Access Control Bypass Via Razer elevated service ( RzKLService.exe ) which loads  exe in misconfigured way.](https://hackerone.com/reports/769684) to Razer - 3 upvotes, $750
