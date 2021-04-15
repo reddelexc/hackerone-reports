@@ -10,12 +10,12 @@ Top reports from Rockstar Games program at HackerOne:
 6. [Stored XSS in Snapmatic + R★Editor comments](https://hackerone.com/reports/309531) to Rockstar Games - 110 upvotes, $1000
 7. [Referer Leakage Vulnerability in  socialclub.rockstargames.com/crew/ leads to FB'S OAuth token theft.](https://hackerone.com/reports/787160) to Rockstar Games - 103 upvotes, $750
 8. [CSRF Vulnerability on https://signin.rockstargames.com/tpa/facebook/link/](https://hackerone.com/reports/474833) to Rockstar Games - 96 upvotes, $1000
-9. [Open redirect vulnerability](https://hackerone.com/reports/380760) to Rockstar Games - 80 upvotes, $250
-10. [Blind SSRF in emblem editor (2)](https://hackerone.com/reports/265050) to Rockstar Games - 71 upvotes, $1500
-11. [LFI and SSRF via XXE in emblem editor](https://hackerone.com/reports/347139) to Rockstar Games - 67 upvotes, $1500
-12. [Facebook OAuth Code Theft through referer leakage on support.rockstargames.com](https://hackerone.com/reports/482743) to Rockstar Games - 66 upvotes, $750
-13. [Unquoted Service Path in "Rockstar Game Library Service"](https://hackerone.com/reports/716448) to Rockstar Games - 60 upvotes, $750
-14. [SocialClub Account Take Over Through Import Friends feature](https://hackerone.com/reports/901728) to Rockstar Games - 52 upvotes, $1500
+9. [SocialClub Account Take Over Through Import Friends feature](https://hackerone.com/reports/901728) to Rockstar Games - 80 upvotes, $1500
+10. [Open redirect vulnerability](https://hackerone.com/reports/380760) to Rockstar Games - 80 upvotes, $250
+11. [Blind SSRF in emblem editor (2)](https://hackerone.com/reports/265050) to Rockstar Games - 71 upvotes, $1500
+12. [LFI and SSRF via XXE in emblem editor](https://hackerone.com/reports/347139) to Rockstar Games - 67 upvotes, $1500
+13. [Facebook OAuth Code Theft through referer leakage on support.rockstargames.com](https://hackerone.com/reports/482743) to Rockstar Games - 66 upvotes, $750
+14. [Unquoted Service Path in "Rockstar Game Library Service"](https://hackerone.com/reports/716448) to Rockstar Games - 60 upvotes, $750
 15. [Stored XSS on support.rockstargames.com](https://hackerone.com/reports/265384) to Rockstar Games - 48 upvotes, $1000
 16. [SMB SSRF in emblem editor exposes taketwo domain credentials, may lead to RCE](https://hackerone.com/reports/288353) to Rockstar Games - 45 upvotes, $1500
 17. [full path disclosure on www.rockstargames.com via apache filename brute forcing](https://hackerone.com/reports/210238) to Rockstar Games - 45 upvotes, $150

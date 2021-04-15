@@ -2,7 +2,7 @@
 
 Top reports from The Internet program at HackerOne:
 
-1. [Key Reinstallation Attacks: Breaking WPA2 by forcing nonce reuse](https://hackerone.com/reports/286740) to The Internet - 189 upvotes, $25000
+1. [Key Reinstallation Attacks: Breaking WPA2 by forcing nonce reuse](https://hackerone.com/reports/286740) to The Internet - 190 upvotes, $25000
 2. [Ubuntu Linux privilege escalation (dirty_sock)](https://hackerone.com/reports/496285) to The Internet - 101 upvotes, $1000
 3. [RCE via ssh:// URIs in multiple VCS ](https://hackerone.com/reports/260005) to The Internet - 38 upvotes, $3000
 4. [Race Conditions in OAuth 2 API implementations](https://hackerone.com/reports/55140) to The Internet - 35 upvotes, $2500

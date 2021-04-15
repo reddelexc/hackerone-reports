@@ -12,12 +12,12 @@ Top reports from PHP (IBB) program at HackerOne:
 8. [DOS in stream filters](https://hackerone.com/reports/505278) to PHP (IBB) - 44 upvotes, $1500
 9. [Int Overflow lead to Heap OverFlow in exif_thumbnail_extract of exif.c](https://hackerone.com/reports/384477) to PHP (IBB) - 42 upvotes, $500
 10. [mb_strtolower (UTF-32LE): stack-buffer-overflow at php_unicode_tolower_full (CVE-2020-7065)](https://hackerone.com/reports/838127) to PHP (IBB) - 40 upvotes, $1500
-11. [PHP mbstring / Oniguruma multiple remote heap/stack corruptions](https://hackerone.com/reports/237915) to PHP (IBB) - 35 upvotes, $1500
-12. [CVE-2019-11043: a buffer underflow in fpm_main.c can lead to RCE in php-fpm](https://hackerone.com/reports/722327) to PHP (IBB) - 35 upvotes, $1500
+11. [CVE-2019-11043: a buffer underflow in fpm_main.c can lead to RCE in php-fpm](https://hackerone.com/reports/722327) to PHP (IBB) - 36 upvotes, $1500
+12. [PHP mbstring / Oniguruma multiple remote heap/stack corruptions](https://hackerone.com/reports/237915) to PHP (IBB) - 35 upvotes, $1500
 13. [select_colors write out-of-bounds](https://hackerone.com/reports/161189) to PHP (IBB) - 23 upvotes, $1000
 14. [Out of Bounds Memory Read in exif_scan_thumbnail](https://hackerone.com/reports/675578) to PHP (IBB) - 20 upvotes, $1500
-15. [PHP Session Data Injection Vulnerability](https://hackerone.com/reports/159946) to PHP (IBB) - 16 upvotes, $1000
-16. [efree() on uninitialized Heap data in imagescale leads to use-after-free](https://hackerone.com/reports/478367) to PHP (IBB) - 15 upvotes, $1500
+15. [efree() on uninitialized Heap data in imagescale leads to use-after-free](https://hackerone.com/reports/478367) to PHP (IBB) - 16 upvotes, $1500
+16. [PHP Session Data Injection Vulnerability](https://hackerone.com/reports/159946) to PHP (IBB) - 16 upvotes, $1000
 17. [php curl ext size_t overflow lead to heap corruption](https://hackerone.com/reports/152399) to PHP (IBB) - 14 upvotes, $1000
 18. [Use-After-Free / Double-Free in WDDX Deserialize](https://hackerone.com/reports/116372) to PHP (IBB) - 14 upvotes, $500
 19. [wddx_deserialize use-after-free](https://hackerone.com/reports/170144) to PHP (IBB) - 14 upvotes, $500

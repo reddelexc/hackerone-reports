@@ -64,20 +64,20 @@ Top reports from Legal Robot program at HackerOne:
 60. [2 vulns ](https://hackerone.com/reports/163677) to Legal Robot - 6 upvotes, $0
 61. [Server version disclosure](https://hackerone.com/reports/167041) to Legal Robot - 6 upvotes, $0
 62. [2FA user enumeration via login](https://hackerone.com/reports/249467) to Legal Robot - 6 upvotes, $0
-63. [design issue exists on login page ](https://hackerone.com/reports/264101) to Legal Robot - 6 upvotes, $0
-64. [observer.com URL should HTTPS](https://hackerone.com/reports/260299) to Legal Robot - 6 upvotes, $0
-65. [Futureoflife organization URL should be HTTPS](https://hackerone.com/reports/260591) to Legal Robot - 6 upvotes, $0
-66. [Legal Robot](https://hackerone.com/reports/276427) to Legal Robot - 6 upvotes, $0
-67. [No notification of change email feature](https://hackerone.com/reports/265930) to Legal Robot - 6 upvotes, $0
-68. [Users with 2FA can have multiple sessions](https://hackerone.com/reports/250243) to Legal Robot - 5 upvotes, $60
-69. [[UX] Notify user on likely email address typo](https://hackerone.com/reports/255026) to Legal Robot - 5 upvotes, $40
-70. [SPF Issue ](https://hackerone.com/reports/116609) to Legal Robot - 5 upvotes, $20
-71. [CORS (Cross-Origin Resource Sharing)](https://hackerone.com/reports/163491) to Legal Robot - 5 upvotes, $20
-72. [CSP script-src includes "unsafe-inline"](https://hackerone.com/reports/260648) to Legal Robot - 5 upvotes, $20
-73. [Email spoofing-fake mail from your mail domain server ](https://hackerone.com/reports/163501) to Legal Robot - 5 upvotes, $0
-74. [Click Jacking](https://hackerone.com/reports/163888) to Legal Robot - 5 upvotes, $0
-75. [Change password session fixed](https://hackerone.com/reports/260751) to Legal Robot - 5 upvotes, $0
-76. [Email Length Verification ](https://hackerone.com/reports/263589) to Legal Robot - 5 upvotes, $0
+63. [Change password session fixed](https://hackerone.com/reports/260751) to Legal Robot - 6 upvotes, $0
+64. [Email Length Verification ](https://hackerone.com/reports/263589) to Legal Robot - 6 upvotes, $0
+65. [design issue exists on login page ](https://hackerone.com/reports/264101) to Legal Robot - 6 upvotes, $0
+66. [observer.com URL should HTTPS](https://hackerone.com/reports/260299) to Legal Robot - 6 upvotes, $0
+67. [Futureoflife organization URL should be HTTPS](https://hackerone.com/reports/260591) to Legal Robot - 6 upvotes, $0
+68. [Legal Robot](https://hackerone.com/reports/276427) to Legal Robot - 6 upvotes, $0
+69. [No notification of change email feature](https://hackerone.com/reports/265930) to Legal Robot - 6 upvotes, $0
+70. [Users with 2FA can have multiple sessions](https://hackerone.com/reports/250243) to Legal Robot - 5 upvotes, $60
+71. [[UX] Notify user on likely email address typo](https://hackerone.com/reports/255026) to Legal Robot - 5 upvotes, $40
+72. [SPF Issue ](https://hackerone.com/reports/116609) to Legal Robot - 5 upvotes, $20
+73. [CORS (Cross-Origin Resource Sharing)](https://hackerone.com/reports/163491) to Legal Robot - 5 upvotes, $20
+74. [CSP script-src includes "unsafe-inline"](https://hackerone.com/reports/260648) to Legal Robot - 5 upvotes, $20
+75. [Email spoofing-fake mail from your mail domain server ](https://hackerone.com/reports/163501) to Legal Robot - 5 upvotes, $0
+76. [Click Jacking](https://hackerone.com/reports/163888) to Legal Robot - 5 upvotes, $0
 77. [Missing homograph filter character](https://hackerone.com/reports/268981) to Legal Robot - 5 upvotes, $0
 78. [Improper Implementation of Password strength checker](https://hackerone.com/reports/271950) to Legal Robot - 5 upvotes, $0
 79. [2FA user enumeration via password reset](https://hackerone.com/reports/249431) to Legal Robot - 4 upvotes, $90

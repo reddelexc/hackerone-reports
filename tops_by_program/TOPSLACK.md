@@ -2,8 +2,8 @@
 
 Top reports from Slack program at HackerOne:
 
-1. [Mass account takeovers using HTTP Request Smuggling on https://slackb.com/ to steal session cookies](https://hackerone.com/reports/737140) to Slack - 798 upvotes, $6500
-2. [Remote Code Execution in Slack desktop apps + bonus](https://hackerone.com/reports/783877) to Slack - 468 upvotes, $1750
+1. [Mass account takeovers using HTTP Request Smuggling on https://slackb.com/ to steal session cookies](https://hackerone.com/reports/737140) to Slack - 799 upvotes, $6500
+2. [Remote Code Execution in Slack desktop apps + bonus](https://hackerone.com/reports/783877) to Slack - 469 upvotes, $1750
 3. [XSS vulnerable parameter in a location hash](https://hackerone.com/reports/146336) to Slack - 435 upvotes, $1100
 4. [URL link spoofing](https://hackerone.com/reports/481472) to Slack - 349 upvotes, $250
 5. [AWS bucket leading to iOS test build code and configuration exposure](https://hackerone.com/reports/404822) to Slack - 312 upvotes, $1500
@@ -28,7 +28,7 @@ Top reports from Slack program at HackerOne:
 24. [Store XSS](https://hackerone.com/reports/187410) to Slack - 43 upvotes, $500
 25. [The POODLE attack (SSLv3 supported) at status.slack.com](https://hackerone.com/reports/375097) to Slack - 40 upvotes, $500
 26. [Information leakage and default open port](https://hackerone.com/reports/305518) to Slack - 39 upvotes, $350
-27. [Slack-Corp Heroku application disclosing limited info about company members](https://hackerone.com/reports/966814) to Slack - 37 upvotes, $300
+27. [Slack-Corp Heroku application disclosing limited info about company members](https://hackerone.com/reports/966814) to Slack - 38 upvotes, $300
 28. [CSS Injection to disable app & potential message exfil](https://hackerone.com/reports/679969) to Slack - 34 upvotes, $500
 29. [URL filter bypass in Enterprise Grid](https://hackerone.com/reports/500348) to Slack - 31 upvotes, $100
 30. [Snooping into messages via email service](https://hackerone.com/reports/163938) to Slack - 29 upvotes, $2500
@@ -63,13 +63,13 @@ Top reports from Slack program at HackerOne:
 59. [Open redirect vulnerability ](https://hackerone.com/reports/2731) to Slack - 7 upvotes, $0
 60. [Data exports stored on S3 can be scraped easily](https://hackerone.com/reports/2746) to Slack - 7 upvotes, $0
 61. [Authentication bypass leads to sensitive data exposure (token+secret)](https://hackerone.com/reports/129918) to Slack - 6 upvotes, $2000
-62. [File upload over private IM channel](https://hackerone.com/reports/143903) to Slack - 5 upvotes, $500
-63. [CSRF - Add optional two factor mobile number](https://hackerone.com/reports/155774) to Slack - 5 upvotes, $500
-64. [Email information leakage for certain addresses](https://hackerone.com/reports/169992) to Slack - 5 upvotes, $400
-65. [Stored XSS in www.slack-files.com](https://hackerone.com/reports/2617) to Slack - 5 upvotes, $200
-66. [Slack OAuth2 "redirect_uri" Bypass ](https://hackerone.com/reports/2575) to Slack - 5 upvotes, $100
-67. [RC4 cipher suites detected on status.slack.com](https://hackerone.com/reports/99157) to Slack - 5 upvotes, $100
-68. [Possibility to freeze/crash the host system of all Slack Desktop users easily](https://hackerone.com/reports/392728) to Slack - 4 upvotes, $500
+62. [Possibility to freeze/crash the host system of all Slack Desktop users easily](https://hackerone.com/reports/392728) to Slack - 6 upvotes, $500
+63. [File upload over private IM channel](https://hackerone.com/reports/143903) to Slack - 5 upvotes, $500
+64. [CSRF - Add optional two factor mobile number](https://hackerone.com/reports/155774) to Slack - 5 upvotes, $500
+65. [Email information leakage for certain addresses](https://hackerone.com/reports/169992) to Slack - 5 upvotes, $400
+66. [Stored XSS in www.slack-files.com](https://hackerone.com/reports/2617) to Slack - 5 upvotes, $200
+67. [Slack OAuth2 "redirect_uri" Bypass ](https://hackerone.com/reports/2575) to Slack - 5 upvotes, $100
+68. [RC4 cipher suites detected on status.slack.com](https://hackerone.com/reports/99157) to Slack - 5 upvotes, $100
 69. [Generate new Test token](https://hackerone.com/reports/147544) to Slack - 4 upvotes, $100
 70. [Stored XSS on this link https://sehacure.slack.com/help/requests/](https://hackerone.com/reports/2639) to Slack - 4 upvotes, $0
 71. [Stored XSS in Slackbot Direct Messages](https://hackerone.com/reports/4561) to Slack - 3 upvotes, $500

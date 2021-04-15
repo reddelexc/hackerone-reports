@@ -8,7 +8,7 @@ Top reports from New Relic program at HackerOne:
 4. [Stored XSS in notes (charts) because of insecure chart data JSON generation](https://hackerone.com/reports/507132) to New Relic - 144 upvotes, $4250
 5. [CSTI at Plugin page leading to active stored XSS (Publisher name)](https://hackerone.com/reports/587829) to New Relic - 89 upvotes, $2500
 6. [Urgent! Stored XSS at plugin's violations leading to account takeover](https://hackerone.com/reports/602527) to New Relic - 79 upvotes, $2500
-7. [IDOR via internal_api "users" endpoint ](https://hackerone.com/reports/349291) to New Relic - 75 upvotes, $1500
+7. [IDOR via internal_api "users" endpoint ](https://hackerone.com/reports/349291) to New Relic - 76 upvotes, $1500
 8. [Host Header Injection](https://hackerone.com/reports/698416) to New Relic - 64 upvotes, $500
 9. [Insecure Infrastructure Integrations YML Loading leads to Windows Privilege Escalation](https://hackerone.com/reports/363971) to New Relic - 62 upvotes, $2500
 10. [Internal API endpoint discloses full account name of email address associated with unconfirmed user](https://hackerone.com/reports/332381) to New Relic - 60 upvotes, $1500

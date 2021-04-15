@@ -49,8 +49,8 @@ Top reports from WordPress program at HackerOne:
 45. [Clickjacking mercantile.wordpress.org](https://hackerone.com/reports/264125) to WordPress - 11 upvotes, $0
 46. [pre-auth Stored XSS in comments via javascript: url when administrator edits user supplied comment](https://hackerone.com/reports/633231) to WordPress - 10 upvotes, $650
 47. [Stored xss via template injection](https://hackerone.com/reports/250837) to WordPress - 10 upvotes, $300
-48. [MediaElements XSS](https://hackerone.com/reports/299112) to WordPress - 9 upvotes, $450
-49. [[support.wordcamp.org] - publicly accessible .svn repository](https://hackerone.com/reports/309714) to WordPress - 9 upvotes, $0
+48. [[support.wordcamp.org] - publicly accessible .svn repository](https://hackerone.com/reports/309714) to WordPress - 10 upvotes, $0
+49. [MediaElements XSS](https://hackerone.com/reports/299112) to WordPress - 9 upvotes, $450
 50. [Stored XSS on Wordpress 5.3 via Title Post](https://hackerone.com/reports/754352) to WordPress - 9 upvotes, $0
 51. [[Buddypress] Arbitrary File Deletion through bp_avatar_set](https://hackerone.com/reports/183568) to WordPress - 8 upvotes, $350
 52. [Lack of Sanitization and Insufficient Authentication](https://hackerone.com/reports/249759) to WordPress - 8 upvotes, $300

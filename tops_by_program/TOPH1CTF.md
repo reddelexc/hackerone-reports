@@ -2,7 +2,7 @@
 
 Top reports from h1-ctf program at HackerOne:
 
-1. [How The Hackers Saved Christmas](https://hackerone.com/reports/1069335) to h1-ctf - 153 upvotes, $250
+1. [How The Hackers Saved Christmas](https://hackerone.com/reports/1069335) to h1-ctf - 154 upvotes, $250
 2. [[H1-415 2020] CTF Writeup](https://hackerone.com/reports/776634) to h1-ctf - 101 upvotes, $500
 3. [[H1-415 2020] CTF Writeup](https://hackerone.com/reports/776634) to h1-ctf - 101 upvotes, $500
 4. [[h1-415 2020] Spent a week and failed at solving the last step.](https://hackerone.com/reports/781265) to h1-ctf - 96 upvotes, $0
@@ -49,12 +49,12 @@ Top reports from h1-ctf program at HackerOne:
 45. [[H1-2006 2020] Writeup](https://hackerone.com/reports/894170) to h1-ctf - 5 upvotes, $0
 46. [h1-ctf writeup , finally paid the payments by chaining multiple bugs](https://hackerone.com/reports/894110) to h1-ctf - 5 upvotes, $0
 47. [[ Hacky Holidays CTF ] Completely taken down the Grinch Networks](https://hackerone.com/reports/1066914) to h1-ctf - 5 upvotes, $0
-48. [[H1-2006 2020]  ^FLAG^736c635d8842751b8aafa556154eb9f3$FLAG$](https://hackerone.com/reports/888331) to h1-ctf - 4 upvotes, $0
-49. [[H1-2006 2020]  "Swiss Cheese" design style leads to helping Mårten Mickos pay poor hackers](https://hackerone.com/reports/890272) to h1-ctf - 4 upvotes, $0
-50. [[H1-2006 2020] CTF write-up](https://hackerone.com/reports/894604) to h1-ctf - 4 upvotes, $0
-51. [[H1-2006 2020] From multiple vulnerabilities to complete ATO on any customer account and staff admin](https://hackerone.com/reports/894863) to h1-ctf - 4 upvotes, $0
-52. [Hackyholidays [ h1-ctf] writeup [mission:- stop the grinch ]](https://hackerone.com/reports/1069396) to h1-ctf - 4 upvotes, $0
-53. [hackyholidays CTF Writeup](https://hackerone.com/reports/1069080) to h1-ctf - 4 upvotes, $0
+48. [hackyholidays CTF Writeup](https://hackerone.com/reports/1069080) to h1-ctf - 5 upvotes, $0
+49. [[H1-2006 2020]  ^FLAG^736c635d8842751b8aafa556154eb9f3$FLAG$](https://hackerone.com/reports/888331) to h1-ctf - 4 upvotes, $0
+50. [[H1-2006 2020]  "Swiss Cheese" design style leads to helping Mårten Mickos pay poor hackers](https://hackerone.com/reports/890272) to h1-ctf - 4 upvotes, $0
+51. [[H1-2006 2020] CTF write-up](https://hackerone.com/reports/894604) to h1-ctf - 4 upvotes, $0
+52. [[H1-2006 2020] From multiple vulnerabilities to complete ATO on any customer account and staff admin](https://hackerone.com/reports/894863) to h1-ctf - 4 upvotes, $0
+53. [Hackyholidays [ h1-ctf] writeup [mission:- stop the grinch ]](https://hackerone.com/reports/1069396) to h1-ctf - 4 upvotes, $0
 54. [Grinchs website takendown with various other exploits](https://hackerone.com/reports/1069034) to h1-ctf - 4 upvotes, $0
 55. [[H1-2006 2020] Exploiting multiple vulnerabilities to get hacker's payment ensured](https://hackerone.com/reports/894949) to h1-ctf - 3 upvotes, $0
 56. [[H1-2006 2020] CTF write-up](https://hackerone.com/reports/890555) to h1-ctf - 3 upvotes, $0
@@ -84,14 +84,14 @@ Top reports from h1-ctf program at HackerOne:
 80. [[H1-2006 2020]  Got the flag](https://hackerone.com/reports/887744) to h1-ctf - 1 upvotes, $0
 81. [@shakedko H1-2006 CTF writeup](https://hackerone.com/reports/894623) to h1-ctf - 1 upvotes, $0
 82. [12 Days of CTF Walkthroughs](https://hackerone.com/reports/1068433) to h1-ctf - 1 upvotes, $0
-83. [[h1ctf-Grinch Networks] MrR3b00t Saving the Christmas](https://hackerone.com/reports/1068934) to h1-ctf - 1 upvotes, $0
-84. [HackyHolidays 2020 Full Write-up: Information Disclosure of 12 Flags](https://hackerone.com/reports/1068434) to h1-ctf - 1 upvotes, $0
-85. [Hackyholidays CTF writeup](https://hackerone.com/reports/1065583) to h1-ctf - 1 upvotes, $0
-86. [Hacky Holidays Writeup](https://hackerone.com/reports/1067835) to h1-ctf - 1 upvotes, $0
-87. [Wholesome Hacky Holidays: A Writeup](https://hackerone.com/reports/1066135) to h1-ctf - 1 upvotes, $0
-88. [Mission completed. Grinch Networks is down and Christmas saved.](https://hackerone.com/reports/1067090) to h1-ctf - 1 upvotes, $0
-89. [HackyHolidays H1 CTF Writeup](https://hackerone.com/reports/1068881) to h1-ctf - 0 upvotes, $0
-90. [Writeup Submission](https://hackerone.com/reports/1068880) to h1-ctf - 0 upvotes, $0
+83. [Writeup Submission](https://hackerone.com/reports/1068880) to h1-ctf - 1 upvotes, $0
+84. [[h1ctf-Grinch Networks] MrR3b00t Saving the Christmas](https://hackerone.com/reports/1068934) to h1-ctf - 1 upvotes, $0
+85. [HackyHolidays 2020 Full Write-up: Information Disclosure of 12 Flags](https://hackerone.com/reports/1068434) to h1-ctf - 1 upvotes, $0
+86. [Hackyholidays CTF writeup](https://hackerone.com/reports/1065583) to h1-ctf - 1 upvotes, $0
+87. [Hacky Holidays Writeup](https://hackerone.com/reports/1067835) to h1-ctf - 1 upvotes, $0
+88. [Wholesome Hacky Holidays: A Writeup](https://hackerone.com/reports/1066135) to h1-ctf - 1 upvotes, $0
+89. [Mission completed. Grinch Networks is down and Christmas saved.](https://hackerone.com/reports/1067090) to h1-ctf - 1 upvotes, $0
+90. [HackyHolidays H1 CTF Writeup](https://hackerone.com/reports/1068881) to h1-ctf - 0 upvotes, $0
 91. [Infiltrating into Grinch-Networks and saving Christmas!](https://hackerone.com/reports/1069141) to h1-ctf - 0 upvotes, $0
 92. [First CTF ever!](https://hackerone.com/reports/1069263) to h1-ctf - 0 upvotes, $0
 93. [Successfully took down the Grinch and saved the holidays from being ruined](https://hackerone.com/reports/1067530) to h1-ctf - 0 upvotes, $0

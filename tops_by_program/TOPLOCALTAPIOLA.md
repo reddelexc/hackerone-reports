@@ -5,7 +5,7 @@ Top reports from LocalTapiola program at HackerOne:
 1. [Oracle Webcenter Sites administrative and hi-privilege access available directly from the internet (/cs/Satellite)](https://hackerone.com/reports/170532) to LocalTapiola - 259 upvotes, $18000
 2. [RCE using bash command injection on /system/images (toimitilat.lahitapiola.fi)](https://hackerone.com/reports/303061) to LocalTapiola - 203 upvotes, $6800
 3. [CORS misconfiguration allows to steal customers data ](https://hackerone.com/reports/577969) to LocalTapiola - 83 upvotes, $2100
-4. [CORS misconfiguration allows to steal client's "password", Authorization token and the customer details e.g. names, SSN, bank account etc.](https://hackerone.com/reports/688567) to LocalTapiola - 79 upvotes, $1984
+4. [CORS misconfiguration allows to steal client's "password", Authorization token and the customer details e.g. names, SSN, bank account etc.](https://hackerone.com/reports/688567) to LocalTapiola - 80 upvotes, $1984
 5. [Blind Stored XSS Against Lahitapiola Employees - Session and Information leakage](https://hackerone.com/reports/135154) to LocalTapiola - 68 upvotes, $5000
 6. [Blind Stored XSS Against Lahitapiola Employees - Session and Information leakage](https://hackerone.com/reports/159498) to LocalTapiola - 64 upvotes, $3000
 7. [User able to access company details in yrityspalvelu without proper permissions](https://hackerone.com/reports/213418) to LocalTapiola - 62 upvotes, $2000
@@ -100,12 +100,12 @@ Top reports from LocalTapiola program at HackerOne:
 96. [Suspicious browser fingerprinting(?) scripts on http://www.lahitapiola.fi/ redirector](https://hackerone.com/reports/179763) to LocalTapiola - 2 upvotes, $100
 97. [OpenSSL Padding Oracle Attack (CVE-2016-2107) on viestinta.lahitapiola.fi](https://hackerone.com/reports/194761) to LocalTapiola - 2 upvotes, $100
 98. [Open redirect - user interaction needed (verkkopalvelu.lahitapiola.fi/e2/..) - based on #179328](https://hackerone.com/reports/194017) to LocalTapiola - 2 upvotes, $100
-99. [show control page if you insert ' at http://viestinta.lahitapiola.fi/](https://hackerone.com/reports/205920) to LocalTapiola - 2 upvotes, $50
-100. [Source Code Disclosure on out of scope domain viestinta.lahitapiola.fi](https://hackerone.com/reports/134406) to LocalTapiola - 2 upvotes, $0
-101. [www.lahitapiola.fi DOM XSS by choosing regional company](https://hackerone.com/reports/127077) to LocalTapiola - 1 upvotes, $100
-102. [DOM XSS bypassing in Regional Office -selector](https://hackerone.com/reports/142609) to LocalTapiola - 1 upvotes, $100
-103. [Oracle WebCenter Sites Support Tools available and Information disclosure (/cs/Satellite)](https://hackerone.com/reports/164581) to LocalTapiola - 1 upvotes, $100
-104. [Reflected XSS in www.lahitapiola.fi (/cs/Satellite) using Oracle WebCenter -page](https://hackerone.com/reports/164578) to LocalTapiola - 1 upvotes, $50
+99. [Reflected XSS in www.lahitapiola.fi (/cs/Satellite) using Oracle WebCenter -page](https://hackerone.com/reports/164578) to LocalTapiola - 2 upvotes, $50
+100. [show control page if you insert ' at http://viestinta.lahitapiola.fi/](https://hackerone.com/reports/205920) to LocalTapiola - 2 upvotes, $50
+101. [Source Code Disclosure on out of scope domain viestinta.lahitapiola.fi](https://hackerone.com/reports/134406) to LocalTapiola - 2 upvotes, $0
+102. [www.lahitapiola.fi DOM XSS by choosing regional company](https://hackerone.com/reports/127077) to LocalTapiola - 1 upvotes, $100
+103. [DOM XSS bypassing in Regional Office -selector](https://hackerone.com/reports/142609) to LocalTapiola - 1 upvotes, $100
+104. [Oracle WebCenter Sites Support Tools available and Information disclosure (/cs/Satellite)](https://hackerone.com/reports/164581) to LocalTapiola - 1 upvotes, $100
 105. [User Information Disclosure via Json response](https://hackerone.com/reports/335779) to LocalTapiola - 1 upvotes, $50
 
 

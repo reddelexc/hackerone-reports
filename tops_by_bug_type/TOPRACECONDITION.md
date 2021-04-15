@@ -19,9 +19,9 @@ Top Race Condition reports from HackerOne:
 15. [Race Condition in Redeeming Coupons](https://hackerone.com/reports/157996) to Instacart - 31 upvotes, $200
 16. [Race conditions can be used to bypass invitation limit](https://hackerone.com/reports/115007) to Keybase - 29 upvotes, $350
 17. [Race condition на market.games.mail.ru](https://hackerone.com/reports/317557) to Mail.ru - 28 upvotes, $1000
-18. [JSBeautifier BApp: Race condition leads to memory disclosure](https://hackerone.com/reports/187134) to PortSwigger Web Security - 28 upvotes, $0
-19. [Race condition while removing the love react in community files.](https://hackerone.com/reports/996141) to Figma - 27 upvotes, $150
-20. [Race condition at create new Location](https://hackerone.com/reports/413759) to Shopify - 22 upvotes, $500
+18. [Race condition while removing the love react in community files.](https://hackerone.com/reports/996141) to Figma - 28 upvotes, $150
+19. [JSBeautifier BApp: Race condition leads to memory disclosure](https://hackerone.com/reports/187134) to PortSwigger Web Security - 28 upvotes, $0
+20. [Race condition at create new Location](https://hackerone.com/reports/413759) to Shopify - 23 upvotes, $500
 21. [Race Condition in account survey](https://hackerone.com/reports/165570) to Slack - 20 upvotes, $150
 22. [Race condition vulnerability on "This Rocks" button.](https://hackerone.com/reports/474021) to Rockstar Games - 17 upvotes, $250
 23. [Race condition in GitLab import, giving access to other people their imports due to filename collision](https://hackerone.com/reports/214028) to GitLab - 17 upvotes, $0

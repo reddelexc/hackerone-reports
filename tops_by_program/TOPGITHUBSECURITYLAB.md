@@ -59,19 +59,19 @@ Top reports from GitHub Security Lab program at HackerOne:
 55. [CodeQL query for MVEL injections](https://hackerone.com/reports/894870) to GitHub Security Lab - 4 upvotes, $2300
 56. [CodeQL query for finding CSRF vulnerabilities in Spring applications](https://hackerone.com/reports/785120) to GitHub Security Lab - 4 upvotes, $1800
 57. [Java: Add SSRF query for Java](https://hackerone.com/reports/1061010) to GitHub Security Lab - 4 upvotes, $1800
-58. [Java: CWE-346 Queries to detect remote source flow to CORS Headers](https://hackerone.com/reports/1133574) to GitHub Security Lab - 4 upvotes, $1800
-59. [Java: CWE-652 Improper Neutralization of Data within XQuery Expressions ('XQuery Injection')](https://hackerone.com/reports/1133573) to GitHub Security Lab - 4 upvotes, $1800
-60. [ Java : Add query for detecting Log Injection vulenrabilities](https://hackerone.com/reports/1135875) to GitHub Security Lab - 4 upvotes, $1080
-61. [ Java : Add query for detecting Log Injection vulenrabilities](https://hackerone.com/reports/1135876) to GitHub Security Lab - 4 upvotes, $720
-62. [[Java]: CWE-523 Insecure HSTS configuration ](https://hackerone.com/reports/902970) to GitHub Security Lab - 4 upvotes, $250
-63. [Go/CWE-643: XPath Injection Query in Go](https://hackerone.com/reports/852316) to GitHub Security Lab - 4 upvotes, $0
-64. [CPP: Missing/incomplete TLS server certificate hostname validation](https://hackerone.com/reports/891267) to GitHub Security Lab - 4 upvotes, $0
-65. [[javascript] CWE-90: CodeQL to detect LDAP Injection](https://hackerone.com/reports/1050706) to GitHub Security Lab - 3 upvotes, $4500
-66. [XPath Injection query in java](https://hackerone.com/reports/824925) to GitHub Security Lab - 3 upvotes, $1800
-67. [CodeQL query for disabled revocation checking](https://hackerone.com/reports/917453) to GitHub Security Lab - 3 upvotes, $1800
-68. [[javascript] CWE-117: CodeQL query to detect Log Injection](https://hackerone.com/reports/963816) to GitHub Security Lab - 3 upvotes, $1800
-69. [Golang : Add MongoDb NoSQL injection sinks](https://hackerone.com/reports/909375) to GitHub Security Lab - 3 upvotes, $1800
-70. [[JavaScript]: add query for Express-HBS LFR](https://hackerone.com/reports/1106019) to GitHub Security Lab - 3 upvotes, $1800
+58. [[JavaScript]: add query for Express-HBS LFR](https://hackerone.com/reports/1106019) to GitHub Security Lab - 4 upvotes, $1800
+59. [Java: CWE-346 Queries to detect remote source flow to CORS Headers](https://hackerone.com/reports/1133574) to GitHub Security Lab - 4 upvotes, $1800
+60. [Java: CWE-652 Improper Neutralization of Data within XQuery Expressions ('XQuery Injection')](https://hackerone.com/reports/1133573) to GitHub Security Lab - 4 upvotes, $1800
+61. [ Java : Add query for detecting Log Injection vulenrabilities](https://hackerone.com/reports/1135875) to GitHub Security Lab - 4 upvotes, $1080
+62. [ Java : Add query for detecting Log Injection vulenrabilities](https://hackerone.com/reports/1135876) to GitHub Security Lab - 4 upvotes, $720
+63. [[Java]: CWE-523 Insecure HSTS configuration ](https://hackerone.com/reports/902970) to GitHub Security Lab - 4 upvotes, $250
+64. [Go/CWE-643: XPath Injection Query in Go](https://hackerone.com/reports/852316) to GitHub Security Lab - 4 upvotes, $0
+65. [CPP: Missing/incomplete TLS server certificate hostname validation](https://hackerone.com/reports/891267) to GitHub Security Lab - 4 upvotes, $0
+66. [[javascript] CWE-90: CodeQL to detect LDAP Injection](https://hackerone.com/reports/1050706) to GitHub Security Lab - 3 upvotes, $4500
+67. [XPath Injection query in java](https://hackerone.com/reports/824925) to GitHub Security Lab - 3 upvotes, $1800
+68. [CodeQL query for disabled revocation checking](https://hackerone.com/reports/917453) to GitHub Security Lab - 3 upvotes, $1800
+69. [[javascript] CWE-117: CodeQL query to detect Log Injection](https://hackerone.com/reports/963816) to GitHub Security Lab - 3 upvotes, $1800
+70. [Golang : Add MongoDb NoSQL injection sinks](https://hackerone.com/reports/909375) to GitHub Security Lab - 3 upvotes, $1800
 71. [[Java] CWE-522: Insecure LDAP authentication ](https://hackerone.com/reports/1095708) to GitHub Security Lab - 3 upvotes, $1800
 72. [Java : Add query to detect Apache Struts enabled Development mode](https://hackerone.com/reports/1117608) to GitHub Security Lab - 3 upvotes, $1800
 73. [Java : add MongoDB injection sinks](https://hackerone.com/reports/983867) to GitHub Security Lab - 3 upvotes, $1000
