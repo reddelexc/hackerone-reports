@@ -119,6 +119,7 @@ def main():
     top_by_bug_type(reports, 'CLICKJACKING', 'Clickjacking', ['clickjacking', 'click jacking', 'clicjacking'])
     top_by_bug_type(reports, 'DOS', 'DoS', ['dos', 'denial of service', 'service denial'])
     top_by_bug_type(reports, 'OAUTH', 'OAuth', ['oauth'])
+    top_by_bug_type(reports, 'ACCOUNTTAKEOVER', 'Account Takeover', ['account takeover', 'ato'])
 
     programs = {}
     for report in reports:
