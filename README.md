@@ -27,6 +27,7 @@ Tops by bug type.
 - [Top Clickjacking reports](tops_by_bug_type/TOPCLICKJACKING.md)
 - [Top DoS reports](tops_by_bug_type/TOPDOS.md)
 - [Top OAuth reports](tops_by_bug_type/TOPOAUTH.md)
+- [Top Account Takeover reports](tops_by_bug_type/TOPACCOUNTTAKEOVER.md)
 
 Tops by program.
 
