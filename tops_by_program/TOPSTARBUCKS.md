@@ -1,5 +1,3 @@
-[Back](../README.md)
-
 Top reports from Starbucks program at HackerOne:
 
 1. [SQL Injection Extracts Starbucks Enterprise Accounting, Financial, Payroll Database](https://hackerone.com/reports/531051) to Starbucks - 714 upvotes, $4000
@@ -129,6 +127,3 @@ Top reports from Starbucks program at HackerOne:
 125. [China - Open redirect at trackinghub.starbucks.com.cn](https://hackerone.com/reports/856137) to Starbucks - 2 upvotes, $0
 126. [Unable to register in starbucks app](https://hackerone.com/reports/236276) to Starbucks - 1 upvotes, $0
 127. [SQL Injection Proof of Concept for Starbucks URL](https://hackerone.com/reports/360539) to Starbucks - 0 upvotes, $0
-
-
-[Back](../README.md)

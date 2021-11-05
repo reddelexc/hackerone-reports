@@ -33,7 +33,6 @@ def check_title(title, keywords):
 def top_100_upvoted(reports):
     upvotes_sorted_reports = list(reversed(sorted(reports, key=lambda k: k['upvotes'])))
     with open('tops_100/TOP100UPVOTED.md', 'w', encoding='utf-8') as file:
-        file.write('[Back](../README.md)\n\n')
         file.write('Top 100 upvoted reports from HackerOne:\n\n')
         for i in range(0, 100):
             report = upvotes_sorted_reports[i]
@@ -41,13 +40,11 @@ def top_100_upvoted(reports):
                 '{0}. [{1}](https://{2}) to {3} - {4} upvotes, ${5}\n'.format(i + 1, report['title'], report['link'],
                                                                               report['program'],
                                                                               report['upvotes'], int(report['bounty'])))
-        file.write('\n\n[Back](../README.md)')
 
 
 def top_100_paid(reports):
     bounty_sorted_reports = list(reversed(sorted(reports, key=lambda k: (k['bounty'], k['upvotes']))))
     with open('tops_100/TOP100PAID.md', 'w', encoding='utf-8') as file:
-        file.write('[Back](../README.md)\n\n')
         file.write('Top 100 paid reports from HackerOne:\n\n')
         for i in range(0, 100):
             report = bounty_sorted_reports[i]
@@ -55,7 +52,6 @@ def top_100_paid(reports):
                 '{0}. [{1}](https://{2}) to {3} - ${4}, {5} upvotes\n'.format(i + 1, report['title'], report['link'],
                                                                               report['program'],
                                                                               int(report['bounty']), report['upvotes']))
-        file.write('\n\n[Back](../README.md)')
 
 
 def top_by_bug_type(reports, bug_type, bug_name, keywords):
@@ -64,13 +60,11 @@ def top_by_bug_type(reports, bug_type, bug_name, keywords):
         index.append(filtered_report['link'])
     bug_sorted_reports = list(reversed(sorted(filtered_reports, key=lambda k: (k['upvotes'], k['bounty']))))
     with open('tops_by_bug_type/TOP{0}.md'.format(bug_type), 'w', encoding='utf-8') as file:
-        file.write('[Back](../README.md)\n\n')
         file.write('Top {0} reports from HackerOne:\n\n'.format(bug_name))
         for i in range(0, len(bug_sorted_reports)):
             report = bug_sorted_reports[i]
             file.write('{0}. [{1}](https://{2}) to {3} - {4} upvotes, ${5}\n'
                        .format(i + 1, report['title'], report['link'], report['program'], report['upvotes'], int(report['bounty'])))
-        file.write('\n\n[Back](../README.md)')
 
 
 def top_by_program(reports, program):
@@ -78,13 +72,11 @@ def top_by_program(reports, program):
     bug_sorted_reports = list(reversed(sorted(filtered_reports, key=lambda k: (k['upvotes'], k['bounty']))))
     with open('tops_by_program/TOP{0}.md'.format(program.upper().replace('.', '').replace('-', '').replace(' ', '')),
               'w', encoding='utf-8') as file:
-        file.write('[Back](../README.md)\n\n')
         file.write('Top reports from {0} program at HackerOne:\n\n'.format(program))
         for i in range(0, len(bug_sorted_reports)):
             report = bug_sorted_reports[i]
             file.write('{0}. [{1}](https://{2}) to {3} - {4} upvotes, ${5}\n'
                        .format(i + 1, report['title'], report['link'], report['program'], report['upvotes'], int(report['bounty'])))
-        file.write('\n\n[Back](../README.md)')
 
 
 def main():

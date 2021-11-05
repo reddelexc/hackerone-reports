@@ -1,5 +1,3 @@
-[Back](../README.md)
-
 Top SSRF reports from HackerOne:
 
 1. [My Expense Report resulted in a Server-Side Request Forgery (SSRF) on Lyft](https://hackerone.com/reports/885975) to Lyft - 547 upvotes, $0
@@ -205,6 +203,3 @@ Top SSRF reports from HackerOne:
 201. [SSRF leads to internal port scan](https://hackerone.com/reports/764517) to Stripo Inc - 1 upvotes, $0
 202. [[allods.my.com] SSRF / XSPA](https://hackerone.com/reports/111950) to Mail.ru - 0 upvotes, $150
 203. [SSRF in login page using fetch API exposes victims IP address to attacker controled server](https://hackerone.com/reports/996273) to U.S. Dept Of Defense - 0 upvotes, $0
-
-
-[Back](../README.md)

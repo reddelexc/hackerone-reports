@@ -1,5 +1,3 @@
-[Back](../README.md)
-
 Top reports from Paragon Initiative Enterprises program at HackerOne:
 
 1. [BAD Code ! ](https://hackerone.com/reports/180074) to Paragon Initiative Enterprises - 468 upvotes, $0
@@ -76,6 +74,3 @@ Top reports from Paragon Initiative Enterprises program at HackerOne:
 72. [Full Path Disclosure in airship.paragonie.com '/cabins/'](https://hackerone.com/reports/226343) to Paragon Initiative Enterprises - 0 upvotes, $0
 73. [Full Path Disclosure in password lock](https://hackerone.com/reports/115422) to Paragon Initiative Enterprises - 0 upvotes, $0
 74. [Full Path Disclosure In EasyDB](https://hackerone.com/reports/119494) to Paragon Initiative Enterprises - 0 upvotes, $0
-
-
-[Back](../README.md)

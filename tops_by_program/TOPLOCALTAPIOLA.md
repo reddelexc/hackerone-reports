@@ -1,5 +1,3 @@
-[Back](../README.md)
-
 Top reports from LocalTapiola program at HackerOne:
 
 1. [Oracle Webcenter Sites administrative and hi-privilege access available directly from the internet (/cs/Satellite)](https://hackerone.com/reports/170532) to LocalTapiola - 259 upvotes, $18000
@@ -107,6 +105,3 @@ Top reports from LocalTapiola program at HackerOne:
 103. [DOM XSS bypassing in Regional Office -selector](https://hackerone.com/reports/142609) to LocalTapiola - 1 upvotes, $100
 104. [Oracle WebCenter Sites Support Tools available and Information disclosure (/cs/Satellite)](https://hackerone.com/reports/164581) to LocalTapiola - 1 upvotes, $100
 105. [User Information Disclosure via Json response](https://hackerone.com/reports/335779) to LocalTapiola - 1 upvotes, $50
-
-
-[Back](../README.md)

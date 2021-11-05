@@ -1,5 +1,3 @@
-[Back](../README.md)
-
 Top reports from Slack program at HackerOne:
 
 1. [Mass account takeovers using HTTP Request Smuggling on https://slackb.com/ to steal session cookies](https://hackerone.com/reports/737140) to Slack - 799 upvotes, $6500
@@ -117,6 +115,3 @@ Top reports from Slack program at HackerOne:
 113. [TLS1/SSLv3 Renegotiation Vulnerability](https://hackerone.com/reports/5617) to Slack - 0 upvotes, $0
 114. [Deleting Teams implemenation](https://hackerone.com/reports/2975) to Slack - 0 upvotes, $0
 115. [Link vulnerability leads to phishing attacks](https://hackerone.com/reports/66994) to Slack - 0 upvotes, $0
-
-
-[Back](../README.md)

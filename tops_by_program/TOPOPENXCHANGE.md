@@ -1,5 +1,3 @@
-[Back](../README.md)
-
 Top reports from Open-Xchange program at HackerOne:
 
 1. [Arbitrary local system file read on open-xchange server ](https://hackerone.com/reports/303744) to Open-Xchange - 124 upvotes, $2000
@@ -113,6 +111,3 @@ Top reports from Open-Xchange program at HackerOne:
 109. [Assert failed in `edit_mail_istream_read`](https://hackerone.com/reports/965790) to Open-Xchange - 0 upvotes, $50
 110. [Missing (or redundant) null check in `dcrypt_openssl_sign`](https://hackerone.com/reports/883606) to Open-Xchange - 0 upvotes, $0
 111. [A specifically designed sieve script can cause a DoS in lib-sieve during sieve script compilation via NULL pointer dereference](https://hackerone.com/reports/965774) to Open-Xchange - 0 upvotes, $0
-
-
-[Back](../README.md)

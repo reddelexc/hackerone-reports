@@ -1,5 +1,3 @@
-[Back](../README.md)
-
 Top reports from shopify-scripts program at HackerOne:
 
 1. [DoS: type confusion in mrb_no_method_error](https://hackerone.com/reports/181871) to shopify-scripts - 60 upvotes, $20000
@@ -163,6 +161,3 @@ Top reports from shopify-scripts program at HackerOne:
 159. [Invalid memory access while freeing memory, caused by invalid type passed to mrb_ary_unshift](https://hackerone.com/reports/183696) to shopify-scripts - 2 upvotes, $0
 160. [Null pointer dereference in ary_concat](https://hackerone.com/reports/183667) to shopify-scripts - 2 upvotes, $0
 161. [Use after free in mruby-mpdecimal](https://hackerone.com/reports/244904) to shopify-scripts - 1 upvotes, $800
-
-
-[Back](../README.md)

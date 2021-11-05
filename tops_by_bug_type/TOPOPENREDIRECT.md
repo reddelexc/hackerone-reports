@@ -1,5 +1,3 @@
-[Back](../README.md)
-
 Top Open Redirect reports from HackerOne:
 
 1. [[cs.money] Open Redirect Leads to Account Takeover](https://hackerone.com/reports/905607) to CS Money - 331 upvotes, $750
@@ -208,6 +206,3 @@ Top Open Redirect reports from HackerOne:
 204. [Open Redirect in WordPress Feed Statistics {Affected All Versions}](https://hackerone.com/reports/22142) to Automattic - 0 upvotes, $0
 205. [oauth redirect uri validation bug leads to open redirect and account compromise](https://hackerone.com/reports/20661) to WePay - 0 upvotes, $0
 206. [Open Redirection Security Filter bypassed](https://hackerone.com/reports/44157) to Vimeo - 0 upvotes, $0
-
-
-[Back](../README.md)

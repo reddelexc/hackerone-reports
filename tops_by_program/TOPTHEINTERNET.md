@@ -1,5 +1,3 @@
-[Back](../README.md)
-
 Top reports from The Internet program at HackerOne:
 
 1. [Key Reinstallation Attacks: Breaking WPA2 by forcing nonce reuse](https://hackerone.com/reports/286740) to The Internet - 190 upvotes, $25000
@@ -78,6 +76,3 @@ Top reports from The Internet program at HackerOne:
 74. [libcurl duphandle read out of bounds](https://hackerone.com/reports/104014) to The Internet - 0 upvotes, $1000
 75. [CVE-2016-1924 OpenJPEG opj_tgt_reset Out-of-Bounds Read Vulnerability](https://hackerone.com/reports/167957) to The Internet - 0 upvotes, $0
 76. [CVE-2016-5157 OpenJPEG opj_dwt_interleave_v Out-of-Bounds Write Vulnerability](https://hackerone.com/reports/167510) to The Internet - 0 upvotes, $0
-
-
-[Back](../README.md)

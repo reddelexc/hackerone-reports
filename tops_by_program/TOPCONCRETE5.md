@@ -1,5 +1,3 @@
-[Back](../README.md)
-
 Top reports from concrete5 program at HackerOne:
 
 1. [Remote Code Execution (Reverse Shell) - File Manager](https://hackerone.com/reports/768322) to concrete5 - 111 upvotes, $0
@@ -78,6 +76,3 @@ Top reports from concrete5 program at HackerOne:
 74. [Multiple XSS Vulnerabilities in Concrete5 5.7.3.1](https://hackerone.com/reports/62294) to concrete5 - 0 upvotes, $0
 75. [No csrf protection on index.php/ccm/system/user/add_group, index.php/ccm/system/user/remove_group](https://hackerone.com/reports/64184) to concrete5 - 0 upvotes, $0
 76. [Host Header Injection allow HiJack Password Reset Link](https://hackerone.com/reports/301592) to concrete5 - 0 upvotes, $0
-
-
-[Back](../README.md)

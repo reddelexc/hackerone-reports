@@ -1,5 +1,3 @@
-[Back](../README.md)
-
 Top reports from WordPress program at HackerOne:
 
 1. [Stored XSS Vulnerability](https://hackerone.com/reports/643908) to WordPress - 381 upvotes, $500
@@ -78,6 +76,3 @@ Top reports from WordPress program at HackerOne:
 74. [Clickjacking irclogs.wordpress.org](https://hackerone.com/reports/267075) to WordPress - 2 upvotes, $0
 75. [WordPress Automatic Update Protocol Does Not Authenticate Updates Provided by the Server](https://hackerone.com/reports/228854) to WordPress - 2 upvotes, $0
 76. [UnResolved ChangeSet are Visible to Public That also Causes Information Disclosure](https://hackerone.com/reports/282843) to WordPress - 0 upvotes, $0
-
-
-[Back](../README.md)

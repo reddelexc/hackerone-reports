@@ -1,5 +1,3 @@
-[Back](../README.md)
-
 Top reports from U.S. Dept Of Defense program at HackerOne:
 
 1. [Stored Xss Vulnerability on ████████](https://hackerone.com/reports/380103) to U.S. Dept Of Defense - 183 upvotes, $0
@@ -447,6 +445,3 @@ Top reports from U.S. Dept Of Defense program at HackerOne:
 443. [Sensitive data exposure via https://████████.mil/secure/QueryComponent!Default.jspa - CVE-2020-14179](https://hackerone.com/reports/988550) to U.S. Dept Of Defense - 0 upvotes, $0
 444. [Access to Unclassified / FOUO Advanced Motion Platform of █████████.mil](https://hackerone.com/reports/1003455) to U.S. Dept Of Defense - 0 upvotes, $0
 445. [SSRF in login page using fetch API exposes victims IP address to attacker controled server](https://hackerone.com/reports/996273) to U.S. Dept Of Defense - 0 upvotes, $0
-
-
-[Back](../README.md)

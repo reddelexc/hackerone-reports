@@ -1,5 +1,3 @@
-[Back](../README.md)
-
 Top OAuth reports from HackerOne:
 
 1. [Shopify Stocky App OAuth Misconfiguration](https://hackerone.com/reports/740989) to Shopify - 508 upvotes, $5000
@@ -72,6 +70,3 @@ Top OAuth reports from HackerOne:
 68. [OAuth open redirect](https://hackerone.com/reports/7900) to Respondly - 0 upvotes, $0
 69. [oauth redirect uri validation bug leads to open redirect and account compromise](https://hackerone.com/reports/20661) to WePay - 0 upvotes, $0
 70. [Login CSRF using Google OAuth](https://hackerone.com/reports/118737) to ThisData - 0 upvotes, $0
-
-
-[Back](../README.md)

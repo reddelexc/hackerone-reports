@@ -1,5 +1,3 @@
-[Back](../README.md)
-
 Top reports from Weblate program at HackerOne:
 
 1. [Reset password cookie leads to account takeover](https://hackerone.com/reports/1004536) to Weblate - 33 upvotes, $0
@@ -140,6 +138,3 @@ Top reports from Weblate program at HackerOne:
 136. [Bypassing captcha in registration on Hosted site](https://hackerone.com/reports/224342) to Weblate - 1 upvotes, $0
 137. [No rate limit or captcha to identify humans](https://hackerone.com/reports/257384) to Weblate - 1 upvotes, $0
 138. [DNSSEC Zone Walk using NSEC Records](https://hackerone.com/reports/228471) to Weblate - 1 upvotes, $0
-
-
-[Back](../README.md)

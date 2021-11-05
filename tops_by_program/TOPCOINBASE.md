@@ -1,5 +1,3 @@
-[Back](../README.md)
-
 Top reports from Coinbase program at HackerOne:
 
 1. [Ethereum account balance manipulation](https://hackerone.com/reports/300748) to Coinbase - 243 upvotes, $10000
@@ -82,6 +80,3 @@ Top reports from Coinbase program at HackerOne:
 78. [ Information disclosure in coinbase android app](https://hackerone.com/reports/192197) to Coinbase - 0 upvotes, $0
 79. [Inaccurate Payment receipt ](https://hackerone.com/reports/121417) to Coinbase - 0 upvotes, $0
 80. [User provided values trusted in sensitive actions](https://hackerone.com/reports/327867) to Coinbase - 0 upvotes, $0
-
-
-[Back](../README.md)

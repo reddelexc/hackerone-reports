@@ -1,5 +1,3 @@
-[Back](../README.md)
-
 Top Race Condition reports from HackerOne:
 
 1. [Race Condition allows to redeem multiple times gift cards which leads to free "money"](https://hackerone.com/reports/759247) to Reverb.com - 258 upvotes, $1500
@@ -47,6 +45,3 @@ Top Race Condition reports from HackerOne:
 43. [Adobe Flash Player Race Condition Vulnerability](https://hackerone.com/reports/119657) to Flash (IBB) - 1 upvotes, $2000
 44. [Race condition with CURL_LOCK_DATA_CONNECT can cause connections to be used at the same time](https://hackerone.com/reports/724134) to curl - 1 upvotes, $0
 45. [Data race conditions reported by helgrind when performing parallel DNS queries in libcurl](https://hackerone.com/reports/1019457) to curl - 0 upvotes, $0
-
-
-[Back](../README.md)

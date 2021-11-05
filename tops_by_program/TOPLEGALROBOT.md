@@ -1,5 +1,3 @@
-[Back](../README.md)
-
 Top reports from Legal Robot program at HackerOne:
 
 1. [Remote Code Execution (upload)](https://hackerone.com/reports/116575) to Legal Robot - 59 upvotes, $120
@@ -157,6 +155,3 @@ Top reports from Legal Robot program at HackerOne:
 153. [Chat exposed using cookie](https://hackerone.com/reports/279070) to Legal Robot - 0 upvotes, $0
 154. [Non-secure requests are not automatically upgraded to HTTPS](https://hackerone.com/reports/164419) to Legal Robot - 0 upvotes, $0
 155. [https://www.legalrobot.com/](https://hackerone.com/reports/228156) to Legal Robot - 0 upvotes, $0
-
-
-[Back](../README.md)

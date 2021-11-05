@@ -1,5 +1,3 @@
-[Back](../README.md)
-
 Top reports from Gratipay program at HackerOne:
 
 1. [Saying goodbye to HackerOne and Gratipay.](https://hackerone.com/reports/286728) to Gratipay - 91 upvotes, $0
@@ -138,6 +136,3 @@ Top reports from Gratipay program at HackerOne:
 134. [Missing Certificate Authority Authorization rule](https://hackerone.com/reports/260928) to Gratipay - 0 upvotes, $0
 135. [set Pragma header](https://hackerone.com/reports/145206) to Gratipay - 0 upvotes, $0
 136. [Broken link for stale DNS entry may be leveraged for Phishing, Misinformation, Serving Malware](https://hackerone.com/reports/279351) to Gratipay - 0 upvotes, $0
-
-
-[Back](../README.md)

@@ -1,5 +1,3 @@
-[Back](../README.md)
-
 Top reports from Automattic program at HackerOne:
 
 1. [Denial of service to WP-JSON API by cache poisoning the CORS allow origin header](https://hackerone.com/reports/591302) to Automattic - 383 upvotes, $550
@@ -140,6 +138,3 @@ Top reports from Automattic program at HackerOne:
 136. [Missing HSTS header in https://public-api.wordpress.com](https://hackerone.com/reports/20071) to Automattic - 0 upvotes, $0
 137. [XSS on gravatar](https://hackerone.com/reports/13794) to Automattic - 0 upvotes, $0
 138. [User Enumeration and Guessable User Account Attack on WORDPRESS](https://hackerone.com/reports/16439) to Automattic - 0 upvotes, $0
-
-
-[Back](../README.md)

@@ -1,5 +1,3 @@
-[Back](../README.md)
-
 Top Clickjacking reports from HackerOne:
 
 1. [Highly wormable clickjacking in player card](https://hackerone.com/reports/85624) to Twitter - 127 upvotes, $5040
@@ -111,6 +109,3 @@ Top Clickjacking reports from HackerOne:
 107. [User can be fooled to Bookmark any restaurant by clickjacking](https://hackerone.com/reports/228295) to Yelp - 0 upvotes, $0
 108. [Clickjacking @ Main Domain[www.yelp.com]](https://hackerone.com/reports/197115) to Yelp - 0 upvotes, $0
 109. [Clickjacking on https://nextcloud.com/](https://hackerone.com/reports/661768) to Nextcloud - 0 upvotes, $0
-
-
-[Back](../README.md)

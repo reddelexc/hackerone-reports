@@ -1,5 +1,3 @@
-[Back](../README.md)
-
 Top reports from HackerOne program at HackerOne:
 
 1. [Account takeover via leaked session cookie](https://hackerone.com/reports/745324) to HackerOne - 1447 upvotes, $20000
@@ -447,6 +445,3 @@ Top reports from HackerOne program at HackerOne:
 443. [URL Crashing browser. {Tested on firefox, Chrome and Safari}](https://hackerone.com/reports/39139) to HackerOne - 1 upvotes, $0
 444. [Denial of service in report view.](https://hackerone.com/reports/140720) to HackerOne - 1 upvotes, $0
 445. [Pending member invitations are not revoked on program name change](https://hackerone.com/reports/275293) to HackerOne - 1 upvotes, $0
-
-
-[Back](../README.md)

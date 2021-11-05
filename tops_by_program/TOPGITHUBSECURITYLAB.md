@@ -1,5 +1,3 @@
-[Back](../README.md)
-
 Top reports from GitHub Security Lab program at HackerOne:
 
 1. [Java (Maven): Actually fix the use of insecure protocol to download/upload artifacts](https://hackerone.com/reports/807440) to GitHub Security Lab - 283 upvotes, $4000
@@ -93,6 +91,3 @@ Top reports from GitHub Security Lab program at HackerOne:
 89. [Java: CWE-918 - Server Side Request Forgery (SSRF)](https://hackerone.com/reports/1008846) to GitHub Security Lab - 1 upvotes, $250
 90. [Add check for disabled HTTPOnly setting in Tomcat](https://hackerone.com/reports/888666) to GitHub Security Lab - 1 upvotes, $250
 91. [[Java] CWE-295 - Incorrect Hostname Verification - MitM](https://hackerone.com/reports/917456) to GitHub Security Lab - 1 upvotes, $0
-
-
-[Back](../README.md)

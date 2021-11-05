@@ -1,5 +1,3 @@
-[Back](../README.md)
-
 Top reports from GitLab program at HackerOne:
 
 1. [Arbitrary file read via the UploadsRewriter when moving and issue](https://hackerone.com/reports/827052) to GitLab - 1393 upvotes, $20000
@@ -165,6 +163,3 @@ Top reports from GitLab program at HackerOne:
 161. [Lack of validation before assigning custom domain names leading to abuse of GitLab pages service](https://hackerone.com/reports/296907) to GitLab - 2 upvotes, $0
 162. [Email notification about login email changed is not received when using verified linked email address](https://hackerone.com/reports/801973) to GitLab - 2 upvotes, $0
 163. [Missing/Breach of Internal Security Boundary - Access to Job Queue Results in Remote Code Execution](https://hackerone.com/reports/224198) to GitLab - 0 upvotes, $0
-
-
-[Back](../README.md)

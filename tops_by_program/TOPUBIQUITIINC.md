@@ -1,5 +1,3 @@
-[Back](../README.md)
-
 Top reports from Ubiquiti Inc. program at HackerOne:
 
 1. [Privilege Escalation From user to SYSTEM via unauthenticated command execution ](https://hackerone.com/reports/544928) to Ubiquiti Inc. - 531 upvotes, $16109
@@ -94,6 +92,3 @@ Top reports from Ubiquiti Inc. program at HackerOne:
 90. [Yet another Buffer Overflow in PHP of the AirMax Products](https://hackerone.com/reports/74025) to Ubiquiti Inc. - 2 upvotes, $500
 91. [Buffer Overflow in PHP of the AirMax Products](https://hackerone.com/reports/73491) to Ubiquiti Inc. - 2 upvotes, $250
 92. [AirFibre products vulnerable to HTTP Header injection](https://hackerone.com/reports/203673) to Ubiquiti Inc. - 2 upvotes, $150
-
-
-[Back](../README.md)

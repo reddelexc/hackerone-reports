@@ -1,5 +1,3 @@
-[Back](../README.md)
-
 Top reports from ownCloud program at HackerOne:
 
 1. [Banner Grabbing - Apache Server Version Disclousure](https://hackerone.com/reports/269467) to ownCloud - 19 upvotes, $0
@@ -85,6 +83,3 @@ Top reports from ownCloud program at HackerOne:
 81. [DROWN Attack](https://hackerone.com/reports/119808) to ownCloud - 0 upvotes, $0
 82. [apps.owncloud.com: Multiple reflected XSS by insecure URL generation (IE only)](https://hackerone.com/reports/83381) to ownCloud - 0 upvotes, $0
 83. [apps.owncloud.com: CSRF change privacy settings](https://hackerone.com/reports/85565) to ownCloud - 0 upvotes, $0
-
-
-[Back](../README.md)

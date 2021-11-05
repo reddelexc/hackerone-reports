@@ -1,5 +1,3 @@
-[Back](../README.md)
-
 Top reports from New Relic program at HackerOne:
 
 1. [Password theft login.newrelic.com via Request Smuggling](https://hackerone.com/reports/498052) to New Relic - 475 upvotes, $3000
@@ -200,6 +198,3 @@ Top reports from New Relic program at HackerOne:
 196. [XSS (Reflected)](https://hackerone.com/reports/176477) to New Relic - 0 upvotes, $0
 197. [Broken Authentication and session management OWASP A2](https://hackerone.com/reports/205309) to New Relic - 0 upvotes, $0
 198. [Newrelic s3 bucket is writeable and deleteable by authorized AWS users](https://hackerone.com/reports/277262) to New Relic - 0 upvotes, $0
-
-
-[Back](../README.md)

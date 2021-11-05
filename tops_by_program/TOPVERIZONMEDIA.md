@@ -1,5 +1,3 @@
-[Back](../README.md)
-
 Top reports from Verizon Media program at HackerOne:
 
 1. [Local File Include on marketing-dam.yahoo.com](https://hackerone.com/reports/7779) to Verizon Media - 16 upvotes, $2500
@@ -78,6 +76,3 @@ Top reports from Verizon Media program at HackerOne:
 74. [Open URL Redirection](https://hackerone.com/reports/4521) to Verizon Media - 0 upvotes, $0
 75. [Out of date version](https://hackerone.com/reports/5221) to Verizon Media - 0 upvotes, $0
 76. [Authentication Bypass due to Session Mismanagement](https://hackerone.com/reports/10912) to Verizon Media - 0 upvotes, $0
-
-
-[Back](../README.md)

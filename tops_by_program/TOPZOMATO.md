@@ -1,5 +1,3 @@
-[Back](../README.md)
-
 Top reports from Zomato program at HackerOne:
 
 1. [Stealing Zomato X-Access-Token: in Bulk using HTTP Request Smuggling on api.zomato.com](https://hackerone.com/reports/771666) to Zomato - 521 upvotes, $5000
@@ -118,6 +116,3 @@ Top reports from Zomato program at HackerOne:
 114. [Unvalidated redirect on user profile website](https://hackerone.com/reports/143265) to Zomato - 1 upvotes, $0
 115. [Lack of Password Confirmation  for Account Deletion](https://hackerone.com/reports/950471) to Zomato - 1 upvotes, $0
 116. [XSS via modified Zomato widget (res_search_widget.php)](https://hackerone.com/reports/115402) to Zomato - 0 upvotes, $0
-
-
-[Back](../README.md)

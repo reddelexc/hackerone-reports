@@ -1,5 +1,3 @@
-[Back](../README.md)
-
 Top CSRF reports from HackerOne:
 
 1. [CSRF on connecting Paypal as Payment Provider](https://hackerone.com/reports/807924) to Shopify - 279 upvotes, $500
@@ -387,6 +385,3 @@ Top CSRF reports from HackerOne:
 383. [CSRF Token Design Flaw](https://hackerone.com/reports/216161) to Udemy - 0 upvotes, $0
 384. [Logout CSRF](https://hackerone.com/reports/244778) to WakaTime - 0 upvotes, $0
 385. [Cross site request forgery](https://hackerone.com/reports/269196) to Hiro - 0 upvotes, $0
-
-
-[Back](../README.md)

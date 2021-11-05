@@ -1,5 +1,3 @@
-[Back](../README.md)
-
 Top reports from Twitter program at HackerOne:
 
 1. [Potential pre-auth RCE on Twitter VPN](https://hackerone.com/reports/591295) to Twitter - 1135 upvotes, $20160
@@ -231,6 +229,3 @@ Top reports from Twitter program at HackerOne:
 227. [Account Deleted without any confirmation](https://hackerone.com/reports/42403) to Twitter - 0 upvotes, $0
 228. [Path disclosure in platform0.twitter.com](https://hackerone.com/reports/44371) to Twitter - 0 upvotes, $0
 229. [Privacy Issue on protected tweets](https://hackerone.com/reports/55506) to Twitter - 0 upvotes, $0
-
-
-[Back](../README.md)

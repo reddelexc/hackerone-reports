@@ -1,5 +1,3 @@
-[Back](../README.md)
-
 Top reports from Uber program at HackerOne:
 
 1. [Sensitive user information disclosure at bonjour.uber.com/marketplace/_rpc via the 'userUuid' parameter](https://hackerone.com/reports/542340) to Uber - 611 upvotes, $6500
@@ -218,6 +216,3 @@ Top reports from Uber program at HackerOne:
 214. [Brute Force Amplification Attack](https://hackerone.com/reports/125624) to Uber - 1 upvotes, $0
 215. [User Enumeration and Information Disclosure](https://hackerone.com/reports/155578) to Uber - 1 upvotes, $0
 216. [Design Issue at riders.uber.com/profile](https://hackerone.com/reports/298888) to Uber - 1 upvotes, $0
-
-
-[Back](../README.md)

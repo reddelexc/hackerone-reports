@@ -1,5 +1,3 @@
-[Back](../README.md)
-
 Top reports from Rockstar Games program at HackerOne:
 
 1. [The return of the ＜](https://hackerone.com/reports/639684) to Rockstar Games - 518 upvotes, $1000
@@ -94,6 +92,3 @@ Top reports from Rockstar Games program at HackerOne:
 90. [Image injection /br/games/info may lead to phishing attacks or FB OAuth theft.](https://hackerone.com/reports/510388) to Rockstar Games - 3 upvotes, $500
 91. [Image Injection Vulnerability on /bully/screens](https://hackerone.com/reports/661646) to Rockstar Games - 3 upvotes, $500
 92. [CSRF Vulnerabiliy on Facebook Linkage Page Allows Full Account takerover of Socialclub Accounts.](https://hackerone.com/reports/653254) to Rockstar Games - 2 upvotes, $550
-
-
-[Back](../README.md)

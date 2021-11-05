@@ -1,5 +1,3 @@
-[Back](../README.md)
-
 Top XXE reports from HackerOne:
 
 1. [XXE at ecjobs.starbucks.com.cn/retail/hxpublic_v6/hxdynamicpage6.aspx](https://hackerone.com/reports/500515) to Starbucks - 300 upvotes, $4000
@@ -48,6 +46,3 @@ Top XXE reports from HackerOne:
 44. [XXE in OAuth2 Applications gallery profile App logo](https://hackerone.com/reports/104620) to Coinbase - 2 upvotes, $0
 45. [XXE at host vpn.owncloud.com](https://hackerone.com/reports/105980) to ownCloud - 1 upvotes, $0
 46. [Pippo XML Entity Expansion (Billion Laughs Attack)](https://hackerone.com/reports/506791) to Central Security Project - 1 upvotes, $0
-
-
-[Back](../README.md)

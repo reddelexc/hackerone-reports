@@ -1,5 +1,3 @@
-[Back](../README.md)
-
 Top Subdomain Takeover reports from HackerOne:
 
 1. [Subdomain Takeover to Authentication bypass ](https://hackerone.com/reports/335330) to Roblox - 659 upvotes, $2500
@@ -141,6 +139,3 @@ Top Subdomain Takeover reports from HackerOne:
 137. [[performancemarketing.geekbrains.ru] Tilda Subdomain Takeover](https://hackerone.com/reports/928602) to Mail.ru - 1 upvotes, $0
 138. [URGENT - Subdomain Takeover in support.urbandictionary.com pointing to Zendesk](https://hackerone.com/reports/103432) to Urban Dictionary - 0 upvotes, $0
 139. [Sub domain take over in gratipay.com](https://hackerone.com/reports/257331) to Gratipay - 0 upvotes, $0
-
-
-[Back](../README.md)

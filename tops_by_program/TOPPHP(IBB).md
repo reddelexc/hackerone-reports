@@ -1,5 +1,3 @@
-[Back](../README.md)
-
 Top reports from PHP (IBB) program at HackerOne:
 
 1. [In correct casting from size_t to int lead to heap overflow in mcrypt_generic](https://hackerone.com/reports/152398) to PHP (IBB) - 81 upvotes, $1000
@@ -272,6 +270,3 @@ Top reports from PHP (IBB) program at HackerOne:
 268. [Use After Free in GC with Certain Destructors](https://hackerone.com/reports/672245) to PHP (IBB) - 0 upvotes, $500
 269. [Use after free vulnerability  in phar_parse_zipfile](https://hackerone.com/reports/950299) to PHP (IBB) - 0 upvotes, $500
 270. [PHP builded for Windows with TS support does not resolve relalative paths with drive letter correctly](https://hackerone.com/reports/797159) to PHP (IBB) - 0 upvotes, $500
-
-
-[Back](../README.md)
