@@ -23,10 +23,10 @@ def extract_reports(raw_reports):
     for raw_report in raw_reports:
         html = raw_report.get_attribute('innerHTML')
         try:
-            index = html.index('hackerone.com/reports/')
+            index = html.index('/reports/')
         except ValueError:
             continue
-        link = ''
+        link = 'hackerone.com'
         for i in range(index, index + 50):
             if html[i] == '"':
                 break
