@@ -7,7 +7,7 @@ Top reports from shopify-scripts program at HackerOne:
 5. [Buffer overflow in yywarning_s](https://hackerone.com/reports/535827) to shopify-scripts - 33 upvotes, $1000
 6. [Use after free vulnerability in mruby Array#to_h causing DOS possible RCE](https://hackerone.com/reports/181321) to shopify-scripts - 29 upvotes, $20000
 7. [TOCTTOU bug in mrb_str_setbyte leading the memory corruption](https://hackerone.com/reports/181893) to shopify-scripts - 23 upvotes, $20000
-8. [Invalid handling of zero-length heredoc identifiers leads to infinite loop in the sandbox](https://hackerone.com/reports/187305) to shopify-scripts - 21 upvotes, $10000
+8. [Invalid handling of zero-length heredoc identifiers leads to infinite loop in the sandbox](https://hackerone.com/reports/187305) to shopify-scripts - 22 upvotes, $10000
 9. [Crash: Overwriting NoMethodError with a builtin class crashes/corrupts memory](https://hackerone.com/reports/186723) to shopify-scripts - 20 upvotes, $10000
 10. [Null pointer dereference due to TOCTTOU bug in mrb_time_initialize](https://hackerone.com/reports/182274) to shopify-scripts - 15 upvotes, $10000
 11. [Exception cause SIGABRT](https://hackerone.com/reports/180977) to shopify-scripts - 13 upvotes, $10000
