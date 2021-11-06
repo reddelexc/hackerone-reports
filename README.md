@@ -1,9 +1,10 @@
 Tops of HackerOne reports. All reports' raw info stored in `data.csv`.
-Scripts to update `data.csv` are written in Python 3 and require `selenium`.
+Scripts to update this file are written in Python 3 and require `chromedriver` and `Chromium` executables at `PATH`.
 Every script contains some info about how it works.
 The run order of scripts:
 
 1) `fetcher.py`
+1) `uniquer.py`
 1) `filler.py`
 1) `rater.py`
 

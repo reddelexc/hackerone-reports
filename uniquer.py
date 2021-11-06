@@ -1,3 +1,9 @@
+"""
+This script runs second.
+
+It will remove duplicate report entries.
+"""
+
 import csv
 
 uniques = set()

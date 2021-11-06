@@ -1,5 +1,5 @@
 """
-This script runs second.
+This script runs third.
 
 It will get every report in json and take necessary information.
 It takes a lot of time to fetch because there are so much reports.

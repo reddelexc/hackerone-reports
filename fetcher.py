@@ -1,6 +1,5 @@
 """
 This script runs first.
-Works via headless Chrome, so you should add path of chromedriver executable to the PATH.
 
 It will scroll through hacktivity until the appearance of URL of the first report in data.csv.
 Then script searches for all new reports' URLs and add them to data.csv.
