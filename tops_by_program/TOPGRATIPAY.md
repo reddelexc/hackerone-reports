@@ -20,11 +20,11 @@ Top reports from Gratipay program at HackerOne:
 18. [Stored XSS On Statement](https://hackerone.com/reports/84740) to Gratipay - 7 upvotes, $40
 19. [Sub Domain Take over](https://hackerone.com/reports/111078) to Gratipay - 7 upvotes, $15
 20. [protect against tabnabbing in statement](https://hackerone.com/reports/109161) to Gratipay - 7 upvotes, $10
-21. [Avoid "resend verification email" confusion](https://hackerone.com/reports/156542) to Gratipay - 6 upvotes, $1
-22. [Inadequate/dangerous jQuery behavior](https://hackerone.com/reports/211149) to Gratipay - 6 upvotes, $1
-23. [Host Header Injection/Redirection Attack](https://hackerone.com/reports/157465) to Gratipay - 6 upvotes, $0
-24. [Transferring incorrect data to the http://gip.rocks/v1 endpoint with correct Content-Type leads to local paths disclosure through the error message](https://hackerone.com/reports/219601) to Gratipay - 6 upvotes, $0
-25. [Reflected SQL Execution](https://hackerone.com/reports/284811) to Gratipay - 6 upvotes, $0
+21. [Reflected SQL Execution](https://hackerone.com/reports/284811) to Gratipay - 7 upvotes, $0
+22. [Avoid "resend verification email" confusion](https://hackerone.com/reports/156542) to Gratipay - 6 upvotes, $1
+23. [Inadequate/dangerous jQuery behavior](https://hackerone.com/reports/211149) to Gratipay - 6 upvotes, $1
+24. [Host Header Injection/Redirection Attack](https://hackerone.com/reports/157465) to Gratipay - 6 upvotes, $0
+25. [Transferring incorrect data to the http://gip.rocks/v1 endpoint with correct Content-Type leads to local paths disclosure through the error message](https://hackerone.com/reports/219601) to Gratipay - 6 upvotes, $0
 26. [Email Forgery through Mandrillapp SPF](https://hackerone.com/reports/117097) to Gratipay - 5 upvotes, $10
 27. [Prevent content spoofing on /~username/emails/verify.html](https://hackerone.com/reports/117187) to Gratipay - 5 upvotes, $10
 28. [suppress version in Server header on gratipay.com or grtp.co](https://hackerone.com/reports/123742) to Gratipay - 5 upvotes, $1
