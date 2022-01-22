@@ -9,8 +9,8 @@ Top reports from Yahoo! program at HackerOne:
 7. [Loadbalancer + URI XSS #3](https://hackerone.com/reports/9703) to Yahoo! - 9 upvotes, $0
 8. [readble .htaccess + Source Code Disclosure  (+ .SVN repository)](https://hackerone.com/reports/7813) to Yahoo! - 8 upvotes, $250
 9. [HK.Yahoo.Net Remote Command Execution](https://hackerone.com/reports/2127) to Yahoo! - 7 upvotes, $1276
-10. [From Unrestricted File Upload to Remote Command Execution](https://hackerone.com/reports/4836) to Yahoo! - 6 upvotes, $800
-11. [Bypass of the Clickjacking protection on Flickr using data URL in iframes](https://hackerone.com/reports/7264) to Yahoo! - 6 upvotes, $250
+10. [Bypass of the Clickjacking protection on Flickr using data URL in iframes](https://hackerone.com/reports/7264) to Yahoo! - 7 upvotes, $250
+11. [From Unrestricted File Upload to Remote Command Execution](https://hackerone.com/reports/4836) to Yahoo! - 6 upvotes, $800
 12. [SQLi on http://sports.yahoo.com/nfl/draft](https://hackerone.com/reports/1538) to Yahoo! - 5 upvotes, $3705
 13. [HTML Injection on flickr screename using IOS App](https://hackerone.com/reports/1483) to Yahoo! - 5 upvotes, $800
 14. [Information Disclosure ](https://hackerone.com/reports/1091) to Yahoo! - 5 upvotes, $0

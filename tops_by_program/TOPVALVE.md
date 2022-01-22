@@ -1,24 +1,24 @@
 Top reports from Valve program at HackerOne:
 
-1. [RCE on Steam Client via buffer overflow in Server Info](https://hackerone.com/reports/470520) to Valve - 1250 upvotes, $18000
+1. [RCE on Steam Client via buffer overflow in Server Info](https://hackerone.com/reports/470520) to Valve - 1251 upvotes, $18000
 2. [Getting all the CD keys of any game](https://hackerone.com/reports/391217) to Valve - 598 upvotes, $20000
 3. [XSS in steam react chat client](https://hackerone.com/reports/409850) to Valve - 448 upvotes, $7500
 4. [Panorama UI XSS leads to Remote Code Execution via Kick/Disconnect Message](https://hackerone.com/reports/631956) to Valve - 406 upvotes, $9000
-5. [Modify in-flight data to payment provider Smart2Pay](https://hackerone.com/reports/1295844) to Valve - 370 upvotes, $7500
+5. [Modify in-flight data to payment provider Smart2Pay](https://hackerone.com/reports/1295844) to Valve - 373 upvotes, $7500
 6. [SQL Injection in report_xml.php through countryFilter[] parameter](https://hackerone.com/reports/383127) to Valve - 344 upvotes, $25000
 7. [Malformed .BMP file in Counter-Strike 1.6 may cause shellcode injection](https://hackerone.com/reports/397545) to Valve - 317 upvotes, $2000
 8. [Malformed NAV file leads to buffer overflow and code execution in Left4Dead2.exe](https://hackerone.com/reports/542180) to Valve - 261 upvotes, $10000
 9. [Unchecked weapon id in WeaponList message parser on client leads to RCE](https://hackerone.com/reports/513154) to Valve - 224 upvotes, $3000
 10. [OOB reads in network message handlers leads to RCE](https://hackerone.com/reports/807772) to Valve - 203 upvotes, $7500
 11. [RCE on CS:GO client using unsanitized entity ID in EntityMsg message](https://hackerone.com/reports/584603) to Valve - 197 upvotes, $9000
-12. [Buffer overrun in Steam SILK voice decoder](https://hackerone.com/reports/1180252) to Valve - 176 upvotes, $7500
-13. [[Portal 2] Remote Code Execution via voice packets](https://hackerone.com/reports/733267) to Valve - 164 upvotes, $5000
+12. [Buffer overrun in Steam SILK voice decoder](https://hackerone.com/reports/1180252) to Valve - 177 upvotes, $7500
+13. [[Portal 2] Remote Code Execution via voice packets](https://hackerone.com/reports/733267) to Valve - 165 upvotes, $5000
 14. [[Half-Life 1] Malformed map name leads to memory corruption and code execution](https://hackerone.com/reports/402566) to Valve - 162 upvotes, $1500
 15. [Malformed .BSP Access Violation in CS:GO can lead to Remote Code Execution](https://hackerone.com/reports/351014) to Valve - 149 upvotes, $12500
 16. [ISteamAssets gives partners control over unrelated community market transactions](https://hackerone.com/reports/577584) to Valve - 105 upvotes, $5000
-17. [[help.steampowered.com] Account takeover bruteforcing SteamGuard](https://hackerone.com/reports/407971) to Valve - 104 upvotes, $2500
-18. [MySQL username and password leaked in developer.valvesoftware.com via source code dislosure](https://hackerone.com/reports/291057) to Valve - 104 upvotes, $1000
-19. [Specially Crafted Closed Captions File can lead to Remote Code Execution in CS:GO and other Source Games](https://hackerone.com/reports/463286) to Valve - 103 upvotes, $7500
+17. [Specially Crafted Closed Captions File can lead to Remote Code Execution in CS:GO and other Source Games](https://hackerone.com/reports/463286) to Valve - 104 upvotes, $7500
+18. [[help.steampowered.com] Account takeover bruteforcing SteamGuard](https://hackerone.com/reports/407971) to Valve - 104 upvotes, $2500
+19. [MySQL username and password leaked in developer.valvesoftware.com via source code dislosure](https://hackerone.com/reports/291057) to Valve - 104 upvotes, $1000
 20. [Malformed save files (.sav) allow to write files with arbitrary extensions and content in GoldSrc-based games.](https://hackerone.com/reports/458842) to Valve - 99 upvotes, $1500
 21. [Malformed .MDL triggers an Access Violation on GoldSRC (hl.exe)](https://hackerone.com/reports/495793) to Valve - 89 upvotes, $2000
 22. [ImageMagick GIF coder vulnerability leading to memory disclosure](https://hackerone.com/reports/315256) to Valve - 85 upvotes, $1000
@@ -45,7 +45,7 @@ Top reports from Valve program at HackerOne:
 43. [Malformed map detailed texture files in GoldSrc games lead to Remote Code Execution](https://hackerone.com/reports/505173) to Valve - 28 upvotes, $350
 44. [LFI in pChart php library](https://hackerone.com/reports/288298) to Valve - 27 upvotes, $1000
 45. [GoldSrc: Buffer Overflow in DELTA_ParseDelta function leads to RCE](https://hackerone.com/reports/484745) to Valve - 25 upvotes, $3000
-46. [code injection, steam chat client](https://hackerone.com/reports/411329) to Valve - 24 upvotes, $750
+46. [code injection, steam chat client](https://hackerone.com/reports/411329) to Valve - 25 upvotes, $750
 47. [[GoldSrc] RCE via malformed BSP file](https://hackerone.com/reports/763403) to Valve - 24 upvotes, $450
 48. [unlock self-lock by brute force ](https://hackerone.com/reports/410221) to Valve - 23 upvotes, $900
 49. [Read Access to all comments on unauthorized forums' discussions! IDOR! ](https://hackerone.com/reports/308610) to Valve - 23 upvotes, $500

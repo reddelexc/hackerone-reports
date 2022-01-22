@@ -1,6 +1,6 @@
 Top reports from Brave Software program at HackerOne:
 
-1. [Brave Browser Tor Window leaks user's real IP to the external DNS server](https://hackerone.com/reports/1077022) to Brave Software - 273 upvotes, $1000
+1. [Brave Browser Tor Window leaks user's real IP to the external DNS server](https://hackerone.com/reports/1077022) to Brave Software - 274 upvotes, $1000
 2. [Stored XSS in localhost:* via integrated torrent downloader](https://hackerone.com/reports/681617) to Brave Software - 121 upvotes, $0
 3. [Local files reading from the web using `brave://`](https://hackerone.com/reports/390013) to Brave Software - 72 upvotes, $5000
 4. [Cookie steal through content Uri](https://hackerone.com/reports/876192) to Brave Software - 72 upvotes, $500
@@ -16,7 +16,7 @@ Top reports from Brave Software program at HackerOne:
 14. [chrome://brave navigation from web](https://hackerone.com/reports/415967) to Brave Software - 21 upvotes, $650
 15. [URL Spoof / Brave Shield Bypass](https://hackerone.com/reports/255991) to Brave Software - 20 upvotes, $200
 16. [Brave Browser permanently timestamps & logs connection times for all v2 domains ~/.config/BraveSoftware/Brave-Browser/tor/data/tor.log](https://hackerone.com/reports/1249056) to Brave Software - 19 upvotes, $400
-17. [DMARC RECORD MISSING](https://hackerone.com/reports/491753) to Brave Software - 17 upvotes, $50
+17. [DMARC RECORD MISSING](https://hackerone.com/reports/491753) to Brave Software - 18 upvotes, $50
 18. [RCE: DnDing shortcut files to chrome://brave allows loading HTML files in Muon's context](https://hackerone.com/reports/415258) to Brave Software - 16 upvotes, $300
 19. [https://publishers.basicattentiontoken.org/favicon.ico is Vulnerable to CVE-2017-7529](https://hackerone.com/reports/980856) to Brave Software - 16 upvotes, $100
 20. [Username Information Disclosure via Json response - Using parameter number Intruder](https://hackerone.com/reports/812351) to Brave Software - 16 upvotes, $0

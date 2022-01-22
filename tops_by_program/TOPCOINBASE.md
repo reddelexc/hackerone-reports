@@ -1,7 +1,7 @@
 Top reports from Coinbase program at HackerOne:
 
 1. [Double Payout via PayPal](https://hackerone.com/reports/307239) to Coinbase - 256 upvotes, $10000
-2. [Ethereum account balance manipulation](https://hackerone.com/reports/300748) to Coinbase - 248 upvotes, $10000
+2. [Ethereum account balance manipulation](https://hackerone.com/reports/300748) to Coinbase - 249 upvotes, $10000
 3. [ETH contract handling errors](https://hackerone.com/reports/328526) to Coinbase - 199 upvotes, $21000
 4. [HTML injection in apps user review ](https://hackerone.com/reports/104543) to Coinbase - 24 upvotes, $200
 5. [Authentication Issue](https://hackerone.com/reports/176979) to Coinbase - 22 upvotes, $200
@@ -58,21 +58,21 @@ Top reports from Coinbase program at HackerOne:
 56. [IFRAME loaded from External Domains  ](https://hackerone.com/reports/5205) to Coinbase - 1 upvotes, $0
 57. [Simultaneous Session Logon : Improper Session Management](https://hackerone.com/reports/11722) to Coinbase - 1 upvotes, $0
 58. [Two-factor authentication (via SMS)](https://hackerone.com/reports/66223) to Coinbase - 1 upvotes, $0
-59. [Cookie not secure](https://hackerone.com/reports/140742) to Coinbase - 1 upvotes, $0
-60. [Transaction Pending Via  Ip Change ](https://hackerone.com/reports/143541) to Coinbase - 1 upvotes, $0
-61. [X-Frame-Options](https://hackerone.com/reports/237071) to Coinbase - 1 upvotes, $0
-62. [Csrf bug on signup session](https://hackerone.com/reports/230428) to Coinbase - 1 upvotes, $0
-63. [New Device Confirmation Bug](https://hackerone.com/reports/266288) to Coinbase - 1 upvotes, $0
-64. [User provided values passed to PHP unset() function](https://hackerone.com/reports/292500) to Coinbase - 1 upvotes, $0
-65. [Big Bug with Vault which i have already reported: Case #606962](https://hackerone.com/reports/65084) to Coinbase - 0 upvotes, $5000
-66. [2 factor authentication design flaw](https://hackerone.com/reports/7369) to Coinbase - 0 upvotes, $100
-67. [CSRF in function "Set as primary" on  accounts page](https://hackerone.com/reports/10829) to Coinbase - 0 upvotes, $100
-68. [open authentication bug](https://hackerone.com/reports/48065) to Coinbase - 0 upvotes, $100
-69. [SPF records not found](https://hackerone.com/reports/92740) to Coinbase - 0 upvotes, $100
-70. [ Cookie missing the HttpOnly flag  ](https://hackerone.com/reports/5204) to Coinbase - 0 upvotes, $0
-71. [iframes considered harmful](https://hackerone.com/reports/55827) to Coinbase - 0 upvotes, $0
-72. [Potential for Double Spend via Sign Message Utility](https://hackerone.com/reports/106315) to Coinbase - 0 upvotes, $0
-73. [Balance Manipulation - BUG](https://hackerone.com/reports/94925) to Coinbase - 0 upvotes, $0
+59. [Balance Manipulation - BUG](https://hackerone.com/reports/94925) to Coinbase - 1 upvotes, $0
+60. [Cookie not secure](https://hackerone.com/reports/140742) to Coinbase - 1 upvotes, $0
+61. [Transaction Pending Via  Ip Change ](https://hackerone.com/reports/143541) to Coinbase - 1 upvotes, $0
+62. [X-Frame-Options](https://hackerone.com/reports/237071) to Coinbase - 1 upvotes, $0
+63. [Csrf bug on signup session](https://hackerone.com/reports/230428) to Coinbase - 1 upvotes, $0
+64. [New Device Confirmation Bug](https://hackerone.com/reports/266288) to Coinbase - 1 upvotes, $0
+65. [User provided values passed to PHP unset() function](https://hackerone.com/reports/292500) to Coinbase - 1 upvotes, $0
+66. [Big Bug with Vault which i have already reported: Case #606962](https://hackerone.com/reports/65084) to Coinbase - 0 upvotes, $5000
+67. [2 factor authentication design flaw](https://hackerone.com/reports/7369) to Coinbase - 0 upvotes, $100
+68. [CSRF in function "Set as primary" on  accounts page](https://hackerone.com/reports/10829) to Coinbase - 0 upvotes, $100
+69. [open authentication bug](https://hackerone.com/reports/48065) to Coinbase - 0 upvotes, $100
+70. [SPF records not found](https://hackerone.com/reports/92740) to Coinbase - 0 upvotes, $100
+71. [ Cookie missing the HttpOnly flag  ](https://hackerone.com/reports/5204) to Coinbase - 0 upvotes, $0
+72. [iframes considered harmful](https://hackerone.com/reports/55827) to Coinbase - 0 upvotes, $0
+73. [Potential for Double Spend via Sign Message Utility](https://hackerone.com/reports/106315) to Coinbase - 0 upvotes, $0
 74. [Runtime manipulation iOS app breaking the PIN](https://hackerone.com/reports/80512) to Coinbase - 0 upvotes, $0
 75. [Device confirmation Flaw](https://hackerone.com/reports/254869) to Coinbase - 0 upvotes, $0
 76. [CSRF bug on password change](https://hackerone.com/reports/230436) to Coinbase - 0 upvotes, $0

@@ -1,6 +1,6 @@
 Top reports from Gratipay program at HackerOne:
 
-1. [Saying goodbye to HackerOne and Gratipay.](https://hackerone.com/reports/286728) to Gratipay - 91 upvotes, $0
+1. [Saying goodbye to HackerOne and Gratipay.](https://hackerone.com/reports/286728) to Gratipay - 92 upvotes, $0
 2. [Reflected XSS - gratipay.com](https://hackerone.com/reports/262852) to Gratipay - 35 upvotes, $0
 3. [Sub Domain Takeover](https://hackerone.com/reports/221133) to Gratipay - 16 upvotes, $0
 4. [SQL TEST](https://hackerone.com/reports/248037) to Gratipay - 14 upvotes, $0

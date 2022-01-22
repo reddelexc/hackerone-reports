@@ -1,7 +1,7 @@
 Top reports from QIWI program at HackerOne:
 
 1. [SQL injection on contactws.contact-sys.com in TScenObject action ScenObjects leads to remote code execution](https://hackerone.com/reports/816254) to QIWI - 461 upvotes, $5500
-2. [Unauthenticated SSRF in jira.tochka.com leading to RCE in confluence.bank24.int](https://hackerone.com/reports/713900) to QIWI - 210 upvotes, $1000
+2. [Unauthenticated SSRF in jira.tochka.com leading to RCE in confluence.bank24.int](https://hackerone.com/reports/713900) to QIWI - 213 upvotes, $1000
 3. [Remote Code Execution on contactws.contact-sys.com via SQL injection in TCertObject operation "Delete"](https://hackerone.com/reports/816086) to QIWI - 191 upvotes, $1000
 4. [MobileIron Unauthenticated RCE on mdm.qiwi.com with WAF bypass](https://hackerone.com/reports/983548) to QIWI - 146 upvotes, $3500
 5. [SQL injection on contactws.contact-sys.com in TRateObject.AddForOffice in USER_ID parameter leads to remote code execution](https://hackerone.com/reports/816560) to QIWI - 115 upvotes, $1000
@@ -11,7 +11,7 @@ Top reports from QIWI program at HackerOne:
 9. [SSRF на https://qiwi.com с помощью "Prerender HAR Capturer"](https://hackerone.com/reports/1153862) to QIWI - 76 upvotes, $1500
 10. [DOM XSS triggered in secure support desk](https://hackerone.com/reports/512065) to QIWI - 65 upvotes, $500
 11. [Обход комиссии на переводы](https://hackerone.com/reports/604560) to QIWI - 56 upvotes, $1050
-12. [account takeover through password reset in url https://reklama.tochka.com/](https://hackerone.com/reports/1379842) to QIWI - 52 upvotes, $500
+12. [account takeover through password reset in url https://reklama.tochka.com/](https://hackerone.com/reports/1379842) to QIWI - 54 upvotes, $500
 13. [Remote Code Execution on contactws.contact-sys.com via SQL injection in TPrabhuObject.BeginOrder in parameter DOC_ID](https://hackerone.com/reports/1104111) to QIWI - 51 upvotes, $2500
 14. [XXE on ██████████ by bypassing WAF ████](https://hackerone.com/reports/433996) to QIWI - 50 upvotes, $5000
 15. [[contact-sys.com] SQL Injection████ limit param](https://hackerone.com/reports/164945) to QIWI - 49 upvotes, $250
@@ -31,7 +31,7 @@ Top reports from QIWI program at HackerOne:
 29. [Account takeover just through csrf in https://booking.qiwi.kz/profile](https://hackerone.com/reports/1066189) to QIWI - 28 upvotes, $100
 30. [HTTP Request Smuggling on api.flocktory.com Leads to XSS on Customer Sites](https://hackerone.com/reports/955170) to QIWI - 27 upvotes, $300
 31. [[QIWI Wallet] Access to protected app components ](https://hackerone.com/reports/482998) to QIWI - 26 upvotes, $500
-32. [Account Takeover through registration to the same email address](https://hackerone.com/reports/1224008) to QIWI - 24 upvotes, $100
+32. [Account Takeover through registration to the same email address](https://hackerone.com/reports/1224008) to QIWI - 25 upvotes, $100
 33. [CVE-2020-3187 - unauthenticated arbitrary file deletion in Cisco](https://hackerone.com/reports/944665) to QIWI - 23 upvotes, $500
 34. [Обход комиссии на переводы](https://hackerone.com/reports/691766) to QIWI - 21 upvotes, $1000
 35. [[lk.contact-sys.com] LKlang Path Traversal](https://hackerone.com/reports/164933) to QIWI - 21 upvotes, $150
@@ -74,16 +74,17 @@ Top reports from QIWI program at HackerOne:
 72. [[z.tochka.com] Unlimited file uploads lead to malware executed](https://hackerone.com/reports/950853) to QIWI - 5 upvotes, $0
 73. [Открытый доступ к корпоративным данным.](https://hackerone.com/reports/79393) to QIWI - 4 upvotes, $500
 74. [[qiwi.com] Open Redirect](https://hackerone.com/reports/38157) to QIWI - 4 upvotes, $150
-75. [Keychain data persistence may lead to account takeover](https://hackerone.com/reports/761975) to QIWI - 4 upvotes, $100
-76. [https://teamplay.qiwi.com/ накрутка баллов =\> финансовые убытки для компании](https://hackerone.com/reports/441204) to QIWI - 3 upvotes, $500
-77. [[wallet.rapida.ru] Mass SMS flood](https://hackerone.com/reports/209368) to QIWI - 3 upvotes, $200
-78. [Session Cookie without HttpOnly and secure flag set](https://hackerone.com/reports/75357) to QIWI - 3 upvotes, $100
-79. [[ishop.qiwi.com] XSS + Misconfiguration](https://hackerone.com/reports/47536) to QIWI - 2 upvotes, $200
-80. [CRLF Injection [ishop.qiwi.com]](https://hackerone.com/reports/36105) to QIWI - 1 upvotes, $250
-81. [[static.qiwi.com] XSS proxy.html](https://hackerone.com/reports/35363) to QIWI - 1 upvotes, $200
-82. [[qiwi.com] /oauth/confirm.action XSS](https://hackerone.com/reports/36319) to QIWI - 1 upvotes, $100
-83. [Code for registration of qiwi account is not coming even after a long interval of time for Indian mobile number](https://hackerone.com/reports/35532) to QIWI - 1 upvotes, $0
-84. [Metadata in hosted files is disclosing Usernames, Printers, paths, admin guides. emails](https://hackerone.com/reports/36586) to QIWI - 1 upvotes, $0
-85. [SSL Certificate on qiwi.com will expire soon.](https://hackerone.com/reports/134145) to QIWI - 1 upvotes, $0
-86. [[send.qiwi.ru] XSS at auth?login=](https://hackerone.com/reports/35413) to QIWI - 0 upvotes, $200
-87. [XSS Reflected in test.qiwi.ru](https://hackerone.com/reports/98281) to QIWI - 0 upvotes, $200
+75. [disclosing clients' secret keys https://stage-uapi.tochka.com:2000/](https://hackerone.com/reports/1419205) to QIWI - 4 upvotes, $150
+76. [Keychain data persistence may lead to account takeover](https://hackerone.com/reports/761975) to QIWI - 4 upvotes, $100
+77. [https://teamplay.qiwi.com/ накрутка баллов =\> финансовые убытки для компании](https://hackerone.com/reports/441204) to QIWI - 3 upvotes, $500
+78. [[wallet.rapida.ru] Mass SMS flood](https://hackerone.com/reports/209368) to QIWI - 3 upvotes, $200
+79. [Session Cookie without HttpOnly and secure flag set](https://hackerone.com/reports/75357) to QIWI - 3 upvotes, $100
+80. [[ishop.qiwi.com] XSS + Misconfiguration](https://hackerone.com/reports/47536) to QIWI - 2 upvotes, $200
+81. [CRLF Injection [ishop.qiwi.com]](https://hackerone.com/reports/36105) to QIWI - 1 upvotes, $250
+82. [[static.qiwi.com] XSS proxy.html](https://hackerone.com/reports/35363) to QIWI - 1 upvotes, $200
+83. [[qiwi.com] /oauth/confirm.action XSS](https://hackerone.com/reports/36319) to QIWI - 1 upvotes, $100
+84. [Code for registration of qiwi account is not coming even after a long interval of time for Indian mobile number](https://hackerone.com/reports/35532) to QIWI - 1 upvotes, $0
+85. [Metadata in hosted files is disclosing Usernames, Printers, paths, admin guides. emails](https://hackerone.com/reports/36586) to QIWI - 1 upvotes, $0
+86. [SSL Certificate on qiwi.com will expire soon.](https://hackerone.com/reports/134145) to QIWI - 1 upvotes, $0
+87. [[send.qiwi.ru] XSS at auth?login=](https://hackerone.com/reports/35413) to QIWI - 0 upvotes, $200
+88. [XSS Reflected in test.qiwi.ru](https://hackerone.com/reports/98281) to QIWI - 0 upvotes, $200

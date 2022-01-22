@@ -1,10 +1,10 @@
 Top Race Condition reports from HackerOne:
 
 1. [Race Condition allows to redeem multiple times gift cards which leads to free "money"](https://hackerone.com/reports/759247) to Reverb.com - 262 upvotes, $1500
-2. [Race condition in performing retest allows duplicated payments](https://hackerone.com/reports/429026) to HackerOne - 196 upvotes, $2100
+2. [Race condition in performing retest allows duplicated payments](https://hackerone.com/reports/429026) to HackerOne - 197 upvotes, $2100
 3. [Race condition in activating email resulting in infinite amount of diamonds received](https://hackerone.com/reports/509629) to InnoGames - 137 upvotes, $2000
 4. [Client-Side Race Condition using Marketo, allows sending user to data-protocol in Safari when form without onSuccess is submitted on www.hackerone.com](https://hackerone.com/reports/381356) to HackerOne - 136 upvotes, $1250
-5. [Race Condition leads to undeletable group member](https://hackerone.com/reports/604534) to HackerOne - 117 upvotes, $500
+5. [Race Condition leads to undeletable group member](https://hackerone.com/reports/604534) to HackerOne - 118 upvotes, $500
 6. [Race Conditions in Popular reports feature.](https://hackerone.com/reports/146845) to HackerOne - 102 upvotes, $500
 7. [Race Condition when following a user](https://hackerone.com/reports/927384) to Staging.every.org - 89 upvotes, $0
 8. [Race Condition : Exploiting the loyalty claim https://xxx.vendhq.com/loyalty/claim/email/xxxxx url and gain x amount of loyalty bonus/cash](https://hackerone.com/reports/331940) to Vend VDP - 87 upvotes, $0
@@ -44,7 +44,7 @@ Top Race Condition reports from HackerOne:
 42. [Race condition allowing user to review app multiple times](https://hackerone.com/reports/106360) to Coinbase - 4 upvotes, $100
 43. [Race condition in workers may cause an exploitable double free by abusing bytearray.compress()  ](https://hackerone.com/reports/47227) to Internet Bug Bounty - 2 upvotes, $10000
 44. [Race condition on my.stripo.email at /cabinet/stripeapi/v1/projects/298427/emails/folders uri](https://hackerone.com/reports/994051) to Stripo Inc - 2 upvotes, $0
-45. [Adobe Flash Player Race Condition Vulnerability](https://hackerone.com/reports/119657) to Internet Bug Bounty - 1 upvotes, $2000
-46. [Race condition with CURL_LOCK_DATA_CONNECT can cause connections to be used at the same time](https://hackerone.com/reports/724134) to curl - 1 upvotes, $0
-47. [Race Condition Vulnerability when creating profiles](https://hackerone.com/reports/1428690) to Showmax - 1 upvotes, $0
+45. [Race Condition Vulnerability when creating profiles](https://hackerone.com/reports/1428690) to Showmax - 2 upvotes, $0
+46. [Adobe Flash Player Race Condition Vulnerability](https://hackerone.com/reports/119657) to Internet Bug Bounty - 1 upvotes, $2000
+47. [Race condition with CURL_LOCK_DATA_CONNECT can cause connections to be used at the same time](https://hackerone.com/reports/724134) to curl - 1 upvotes, $0
 48. [Data race conditions reported by helgrind when performing parallel DNS queries in libcurl](https://hackerone.com/reports/1019457) to curl - 0 upvotes, $0
