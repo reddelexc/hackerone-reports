@@ -10,25 +10,25 @@ Top reports from HackerOne program at HackerOne:
 8. [Reflected XSS on www.hackerone.com and resources.hackerone.com](https://hackerone.com/reports/840759) to HackerOne - 344 upvotes, $500
 9. [Hackerone is not properly deleting user id](https://hackerone.com/reports/1133118) to HackerOne - 334 upvotes, $2500
 10. [Partial disclosure of report activity through new "Export as .zip" feature](https://hackerone.com/reports/182358) to HackerOne - 332 upvotes, $10000
-11. [Getting New Invitations without Leaving Programs](https://hackerone.com/reports/999789) to HackerOne - 310 upvotes, $500
+11. [Getting New Invitations without Leaving Programs](https://hackerone.com/reports/999789) to HackerOne - 311 upvotes, $500
 12. [Team member with Program permission only can escalate to Admin permission](https://hackerone.com/reports/605720) to HackerOne - 255 upvotes, $2500
 13. [Information Disclosure in /skills call](https://hackerone.com/reports/188719) to HackerOne - 251 upvotes, $10000
 14. [Internal attachments can be exported via "Export as .zip" feature](https://hackerone.com/reports/186230) to HackerOne - 248 upvotes, $12500
 15. [Denial of service via cache poisoning](https://hackerone.com/reports/409370) to HackerOne - 228 upvotes, $2500
 16. [Cross-site Scripting (XSS) on HackerOne careers page](https://hackerone.com/reports/474656) to HackerOne - 222 upvotes, $500
-17. [Reflected XSS on www.hackerone.com via Wistia embed code](https://hackerone.com/reports/986386) to HackerOne - 219 upvotes, $500
+17. [Reflected XSS on www.hackerone.com via Wistia embed code](https://hackerone.com/reports/986386) to HackerOne - 221 upvotes, $500
 18. [Manipulate hacker profile and private program hacktivity to expose your name as researchers who is actively submitting reports with resolve status](https://hackerone.com/reports/654198) to HackerOne - 201 upvotes, $500
 19. [Race condition in performing retest allows duplicated payments](https://hackerone.com/reports/429026) to HackerOne - 197 upvotes, $2100
 20. [HackerOne making payments in USDC (Coinbase stable coin)](https://hackerone.com/reports/1220747) to HackerOne - 192 upvotes, $1
 21. [HackerOne Jira integration plugin Leaked JWT to unauthorized jira users](https://hackerone.com/reports/1103582) to HackerOne - 190 upvotes, $3000
 22. [Uploading large payload on domain instructions causes server-side DoS](https://hackerone.com/reports/887321) to HackerOne - 190 upvotes, $2500
-23. [DOM Based XSS in www.hackerone.com via PostMessage](https://hackerone.com/reports/398054) to HackerOne - 188 upvotes, $500
-24. [2020-10-09 Credential Stuffing Attack](https://hackerone.com/reports/1007689) to HackerOne - 188 upvotes, $0
-25. [Indexing of urls on the "External link warning" pages discloses many vulnerable endpoints from the past and unlisted videos/photos](https://hackerone.com/reports/1034257) to HackerOne - 185 upvotes, $2500
-26. [An invite-only's program submission state is accessible to users no longer part of the program](https://hackerone.com/reports/800109) to HackerOne - 181 upvotes, $500
-27. [Markdown parsing issue enables insertion of malicious tags and event handlers](https://hackerone.com/reports/299728) to HackerOne - 178 upvotes, $5000
-28. [Unauthorized access to metadata of undisclosed reports that were retested](https://hackerone.com/reports/871749) to HackerOne - 177 upvotes, $2500
-29. [Static files on HackerOne.com can be made inaccessible through Cache Poisoning attack](https://hackerone.com/reports/1181946) to HackerOne - 176 upvotes, $2500
+23. [Static files on HackerOne.com can be made inaccessible through Cache Poisoning attack](https://hackerone.com/reports/1181946) to HackerOne - 189 upvotes, $2500
+24. [DOM Based XSS in www.hackerone.com via PostMessage](https://hackerone.com/reports/398054) to HackerOne - 188 upvotes, $500
+25. [2020-10-09 Credential Stuffing Attack](https://hackerone.com/reports/1007689) to HackerOne - 188 upvotes, $0
+26. [Indexing of urls on the "External link warning" pages discloses many vulnerable endpoints from the past and unlisted videos/photos](https://hackerone.com/reports/1034257) to HackerOne - 185 upvotes, $2500
+27. [An invite-only's program submission state is accessible to users no longer part of the program](https://hackerone.com/reports/800109) to HackerOne - 181 upvotes, $500
+28. [Markdown parsing issue enables insertion of malicious tags and event handlers](https://hackerone.com/reports/299728) to HackerOne - 178 upvotes, $5000
+29. [Unauthorized access to metadata of undisclosed reports that were retested](https://hackerone.com/reports/871749) to HackerOne - 178 upvotes, $2500
 30. [Hacker can bypass 2FA requirement and reporter blacklist through embedded submission form](https://hackerone.com/reports/418767) to HackerOne - 175 upvotes, $10000
 31. [Disclosure of `payment_transactions` for programs via GraphQL query](https://hackerone.com/reports/707433) to HackerOne - 169 upvotes, $2500
 32. [404-response contains debug-information with all headers](https://hackerone.com/reports/792998) to HackerOne - 163 upvotes, $500
@@ -39,14 +39,14 @@ Top reports from HackerOne program at HackerOne:
 37. [IE only: stored Cross-Site Scripting (XSS) vulnerability through Program Asset identifier](https://hackerone.com/reports/449351) to HackerOne - 148 upvotes, $2500
 38. [SQL injection in GraphQL endpoint through embedded_submission_form_uuid parameter](https://hackerone.com/reports/435066) to HackerOne - 146 upvotes, $0
 39. [Discrepancy in hacker profile report count may reveal existence of a private program by publishing a report](https://hackerone.com/reports/410015) to HackerOne - 142 upvotes, $3000
-40. [Stored XSS in IE11 on hackerone.com via custom fields ](https://hackerone.com/reports/1173040) to HackerOne - 139 upvotes, $2500
-41. [Stealing contact form data on www.hackerone.com using Marketo Forms XSS with postMessage frame-jumping and jQuery-JSONP](https://hackerone.com/reports/207042) to HackerOne - 139 upvotes, $1500
+40. [Stealing contact form data on www.hackerone.com using Marketo Forms XSS with postMessage frame-jumping and jQuery-JSONP](https://hackerone.com/reports/207042) to HackerOne - 140 upvotes, $1500
+41. [Stored XSS in IE11 on hackerone.com via custom fields ](https://hackerone.com/reports/1173040) to HackerOne - 139 upvotes, $2500
 42. [Team object in GraphQL disclosed private_comment](https://hackerone.com/reports/978143) to HackerOne - 138 upvotes, $2500
 43. [Banned researcher gets email updates on a private program.](https://hackerone.com/reports/271506) to HackerOne - 137 upvotes, $500
 44. [Client-Side Race Condition using Marketo, allows sending user to data-protocol in Safari when form without onSuccess is submitted on www.hackerone.com](https://hackerone.com/reports/381356) to HackerOne - 136 upvotes, $1250
 45. [Unauthorized user can obtain `report_sources` attribute through Team GraphQL object](https://hackerone.com/reports/770209) to HackerOne - 134 upvotes, $2500
 46. [Slack integration setup lacks CSRF protection](https://hackerone.com/reports/170552) to HackerOne - 134 upvotes, $2500
-47. [h1-202 leaderboard photo discloses local wifi password ](https://hackerone.com/reports/329798) to HackerOne - 132 upvotes, $500
+47. [h1-202 leaderboard photo discloses local wifi password ](https://hackerone.com/reports/329798) to HackerOne - 133 upvotes, $500
 48. [Blind SSRF on errors.hackerone.net due to Sentry misconfiguration](https://hackerone.com/reports/374737) to HackerOne - 130 upvotes, $3500
 49. [Private program disclosure via `vpn_suspended` GraphQL query](https://hackerone.com/reports/715192) to HackerOne - 130 upvotes, $2500
 50. [Subdomain takeover at info.hacker.one](https://hackerone.com/reports/202767) to HackerOne - 129 upvotes, $1000
@@ -56,8 +56,8 @@ Top reports from HackerOne program at HackerOne:
 54. [Race Condition leads to undeletable group member](https://hackerone.com/reports/604534) to HackerOne - 118 upvotes, $500
 55. [Disclosure handle private program with external link](https://hackerone.com/reports/1276992) to HackerOne - 115 upvotes, $2500
 56. [Account recovery text message is sending a wrong domain to users.](https://hackerone.com/reports/549364) to HackerOne - 110 upvotes, $500
-57. [Emails of invited collaborators are disclosed in full in payload for report participants](https://hackerone.com/reports/269230) to HackerOne - 109 upvotes, $1500
-58. [Internal Gitlab Ticket Disclosure via External Slack Channels](https://hackerone.com/reports/1273292) to HackerOne - 108 upvotes, $7500
+57. [Internal Gitlab Ticket Disclosure via External Slack Channels](https://hackerone.com/reports/1273292) to HackerOne - 109 upvotes, $7500
+58. [Emails of invited collaborators are disclosed in full in payload for report participants](https://hackerone.com/reports/269230) to HackerOne - 109 upvotes, $1500
 59. [ActiveStorage throws exception when using whitespace as filename, may lead to denial of service of multiple pages](https://hackerone.com/reports/713407) to HackerOne - 106 upvotes, $2500
 60. [Leaked H1's Employees Email addresses,meeting info on private bug bounty program ████████](https://hackerone.com/reports/1285115) to HackerOne - 106 upvotes, $2500
 61. [@wearehackerone.com is vulnerable to namespace attacks due to hackerone.com not being RFC2142 compliant.](https://hackerone.com/reports/397792) to HackerOne - 104 upvotes, $0
@@ -74,18 +74,18 @@ Top reports from HackerOne program at HackerOne:
 72. [Team object in GraphQL disclosed total number of whitelisted hackers](https://hackerone.com/reports/342978) to HackerOne - 86 upvotes, $2500
 73. [Password not checked when disabling 2FA on HackerOne](https://hackerone.com/reports/587910) to HackerOne - 80 upvotes, $500
 74. [Unauthenticated user can upload an attachment to the last updated report draft](https://hackerone.com/reports/419896) to HackerOne - 80 upvotes, $0
-75. ["Bounties paid in the last 90 days" discloses the undisclosed bounty amount in program statistics](https://hackerone.com/reports/696266) to HackerOne - 78 upvotes, $500
-76. [Security@ email forwarding and Embedded Submission drafts can be used to obtain copy of deleted attachments from other HackerOne users](https://hackerone.com/reports/1034346) to HackerOne - 78 upvotes, $0
-77. [Improper UUID validation results in bypass of #419896](https://hackerone.com/reports/423073) to HackerOne - 77 upvotes, $7500
+75. [Improper UUID validation results in bypass of #419896](https://hackerone.com/reports/423073) to HackerOne - 78 upvotes, $7500
+76. ["Bounties paid in the last 90 days" discloses the undisclosed bounty amount in program statistics](https://hackerone.com/reports/696266) to HackerOne - 78 upvotes, $500
+77. [Security@ email forwarding and Embedded Submission drafts can be used to obtain copy of deleted attachments from other HackerOne users](https://hackerone.com/reports/1034346) to HackerOne - 78 upvotes, $0
 78. [Subdomain takeover #2  at info.hacker.one](https://hackerone.com/reports/209004) to HackerOne - 77 upvotes, $1000
 79. [Denial Of Service (Out Of Memory) on Updating Bounty Table [Urgent]](https://hackerone.com/reports/1043372) to HackerOne - 77 upvotes, $0
 80. [latest_activity_id and latest_activity_at may disclose information about internal activities to unauthorized users](https://hackerone.com/reports/724944) to HackerOne - 76 upvotes, $1000
 81. [Private information exposed through GraphQL filters](https://hackerone.com/reports/645299) to HackerOne - 73 upvotes, $0
 82. [A HackerOne employee's GitHub personal access token exposed in Travis CI build logs](https://hackerone.com/reports/215625) to HackerOne - 72 upvotes, $2000
 83. [Pentester can obtain information about other pentesters who applied for the same test, but weren't accepted](https://hackerone.com/reports/958374) to HackerOne - 72 upvotes, $500
-84. [Near to Infinite loop when changing Group's name that has API token as Team Member](https://hackerone.com/reports/880187) to HackerOne - 71 upvotes, $2500
-85. [Race Condition in Flag Submission](https://hackerone.com/reports/454949) to HackerOne - 71 upvotes, $500
-86. [Blind Stored XSS in HackerOne's Sal 4.1.4.2149 (sal.████.com)](https://hackerone.com/reports/995995) to HackerOne - 71 upvotes, $0
+84. [Blind Stored XSS in HackerOne's Sal 4.1.4.2149 (sal.████.com)](https://hackerone.com/reports/995995) to HackerOne - 72 upvotes, $0
+85. [Near to Infinite loop when changing Group's name that has API token as Team Member](https://hackerone.com/reports/880187) to HackerOne - 71 upvotes, $2500
+86. [Race Condition in Flag Submission](https://hackerone.com/reports/454949) to HackerOne - 71 upvotes, $500
 87. [Homograph fix Bypass ](https://hackerone.com/reports/271324) to HackerOne - 70 upvotes, $750
 88. [Team object in GraphQL discloses team group names and permissions](https://hackerone.com/reports/343464) to HackerOne - 69 upvotes, $2500
 89. [The request tells the number of private programs, the new system of authorization /invite/token](https://hackerone.com/reports/310946) to HackerOne - 69 upvotes, $2000
@@ -97,7 +97,7 @@ Top reports from HackerOne program at HackerOne:
 95. [Deprecated Hacker101 coursework repository mentions Heroku App that is susceptible to takeover](https://hackerone.com/reports/514451) to HackerOne - 67 upvotes, $500
 96. [Validation message in Bounty award endpoint can be used to determine program balances](https://hackerone.com/reports/293299) to HackerOne - 66 upvotes, $1500
 97. [Making program preference -\> program visibilty feature usless and disclosing API Identifier in the progress and data that may cause potential IDORS.](https://hackerone.com/reports/929361) to HackerOne - 66 upvotes, $500
-98. [Login CSRF vulnerability on hackerone.com](https://hackerone.com/reports/834366) to HackerOne - 64 upvotes, $500
+98. [Login CSRF vulnerability on hackerone.com](https://hackerone.com/reports/834366) to HackerOne - 65 upvotes, $500
 99. [HTTP Parameter Pollution using semicolons in iframe element at hackerone.com/careers allows loading external Greenhouse forms](https://hackerone.com/reports/298265) to HackerOne - 63 upvotes, $500
 100. [Attachment object in GraphQL continues to grant access to files, even if they are removed from rendering](https://hackerone.com/reports/1132606) to HackerOne - 62 upvotes, $0
 101. [Query parameter reordering causes redirect page to render unsafe URL](https://hackerone.com/reports/293689) to HackerOne - 61 upvotes, $1500
@@ -116,7 +116,7 @@ Top reports from HackerOne program at HackerOne:
 114. [TeamProfile exposes partially sensitive information through GraphQL](https://hackerone.com/reports/389600) to HackerOne - 57 upvotes, $500
 115. [Unauthenticated users can obtain information about Checklist objects with unclaimed ChecklistCheck objects](https://hackerone.com/reports/781175) to HackerOne - 57 upvotes, $0
 116. [Invalid Host detection at https://hackerone.com/redirect](https://hackerone.com/reports/278095) to HackerOne - 56 upvotes, $500
-117. [HackerOne Staging uses Production data for testing](https://hackerone.com/reports/1392511) to HackerOne - 54 upvotes, $1000
+117. [HackerOne Staging uses Production data for testing](https://hackerone.com/reports/1392511) to HackerOne - 55 upvotes, $1000
 118. [IDOR in Report CSV export discloses the IDs of Custom Field Attributes of Programs](https://hackerone.com/reports/510759) to HackerOne - 53 upvotes, $0
 119. [Private program policy page still accessible after user left the program](https://hackerone.com/reports/386997) to HackerOne - 52 upvotes, $2500
 120. [Open Redirection in index.php page](https://hackerone.com/reports/320376) to HackerOne - 52 upvotes, $250
@@ -128,9 +128,9 @@ Top reports from HackerOne program at HackerOne:
 126. [IDOR on HackerOne Feedback Review](https://hackerone.com/reports/262661) to HackerOne - 50 upvotes, $0
 127. [Open Redirect on http://events.hackerone.com/redirect?url=https://naglinagli.github.io](https://hackerone.com/reports/1028345) to HackerOne - 50 upvotes, $0
 128. [Total bounties paid amount is disclosed because of redesign of the Program Profiles](https://hackerone.com/reports/640488) to HackerOne - 49 upvotes, $500
-129. [View HackerOne challenge scope before challenge begins](https://hackerone.com/reports/565736) to HackerOne - 47 upvotes, $500
-130. [Changing the 2FA secret key and backup codes without knowing the 2FA OTP](https://hackerone.com/reports/1139535) to HackerOne - 47 upvotes, $0
-131. [Pixel flood attack](https://hackerone.com/reports/390) to HackerOne - 46 upvotes, $500
+129. [Pixel flood attack](https://hackerone.com/reports/390) to HackerOne - 47 upvotes, $500
+130. [View HackerOne challenge scope before challenge begins](https://hackerone.com/reports/565736) to HackerOne - 47 upvotes, $500
+131. [Changing the 2FA secret key and backup codes without knowing the 2FA OTP](https://hackerone.com/reports/1139535) to HackerOne - 47 upvotes, $0
 132. [New link opening method makes hackerone vulnerable to tabnabbing](https://hackerone.com/reports/1159398) to HackerOne - 46 upvotes, $500
 133. [Embedded submission form UUIDs can be enumerated through GraphQL node interface, exposing sensitive program details](https://hackerone.com/reports/447930) to HackerOne - 46 upvotes, $0
 134. [Parameter pollution in social sharing buttons](https://hackerone.com/reports/105953) to HackerOne - 45 upvotes, $500
@@ -166,26 +166,26 @@ Top reports from HackerOne program at HackerOne:
 164. [Revoking user session in https://hackerone.com/settings/sessions does not revoke the GraphQL query session](https://hackerone.com/reports/417382) to HackerOne - 37 upvotes, $500
 165. [User login page doesn't implement any form of rate limiting](https://hackerone.com/reports/410451) to HackerOne - 37 upvotes, $500
 166. [Path traversal leading to limited CSRF on GET requests on two endpoints](https://hackerone.com/reports/301862) to HackerOne - 37 upvotes, $500
-167. [Ability to invite a new member on Sandbox Program](https://hackerone.com/reports/1088966) to HackerOne - 36 upvotes, $500
-168. [Report Bulk endpoint "agree-on-going-public" action may reveal Report disclosure state for invite-only programs](https://hackerone.com/reports/1219011) to HackerOne - 36 upvotes, $500
+167. [Report Bulk endpoint "agree-on-going-public" action may reveal Report disclosure state for invite-only programs](https://hackerone.com/reports/1219011) to HackerOne - 37 upvotes, $500
+168. [Ability to invite a new member on Sandbox Program](https://hackerone.com/reports/1088966) to HackerOne - 36 upvotes, $500
 169. [Private program email forwarding response invitation not expire after first use.](https://hackerone.com/reports/209140) to HackerOne - 36 upvotes, $0
 170. [AWS S3 bucket writeable for authenticated aws users](https://hackerone.com/reports/128088) to HackerOne - 35 upvotes, $2500
-171. [Updating payout preference to CurrencyCloud doesn't notify user via email](https://hackerone.com/reports/240083) to HackerOne - 35 upvotes, $500
-172. [HackerOne Integrations Design Issue](https://hackerone.com/reports/172289) to HackerOne - 35 upvotes, $500
-173. [Missing SPF for hackerone.com](https://hackerone.com/reports/120) to HackerOne - 34 upvotes, $500
+171. [Missing SPF for hackerone.com](https://hackerone.com/reports/120) to HackerOne - 35 upvotes, $500
+172. [Updating payout preference to CurrencyCloud doesn't notify user via email](https://hackerone.com/reports/240083) to HackerOne - 35 upvotes, $500
+173. [HackerOne Integrations Design Issue](https://hackerone.com/reports/172289) to HackerOne - 35 upvotes, $500
 174. [Report invitation links not restricted to any existing user](https://hackerone.com/reports/214839) to HackerOne - 34 upvotes, $500
 175. [HackerOne reports escalation to JIRA is CSRF vulnerable](https://hackerone.com/reports/226418) to HackerOne - 34 upvotes, $500
 176. [Changing Victim's JIRA Integration Settings Through Multiple Bugs](https://hackerone.com/reports/226199) to HackerOne - 33 upvotes, $1000
 177. [Invitation token leaks to https://bat.bing.com](https://hackerone.com/reports/301526) to HackerOne - 33 upvotes, $500
 178. [Information leakage of private program](https://hackerone.com/reports/159526) to HackerOne - 32 upvotes, $500
-179. [Internal usage of AdBlockPlus may expose PoC URLs to unknown third-parties](https://hackerone.com/reports/395518) to HackerOne - 32 upvotes, $0
-180. [Accidental Access to Programs Information via SAML Login](https://hackerone.com/reports/438306) to HackerOne - 32 upvotes, $0
-181. [Timing attack towards endpoints on the web without CSRF ](https://hackerone.com/reports/348168) to HackerOne - 32 upvotes, $0
-182. [Open Redirection in [https://www.hackerone.com/index.php]](https://hackerone.com/reports/562417) to HackerOne - 32 upvotes, $0
-183. [View Any Program's Team Members through GET https://hackerone.com/invitations/](https://hackerone.com/reports/283014) to HackerOne - 31 upvotes, $1000
-184. [Response program can create bounty table](https://hackerone.com/reports/460920) to HackerOne - 31 upvotes, $500
-185. [Program Email Nofication settings ignored when being added as an external contributor](https://hackerone.com/reports/645264) to HackerOne - 31 upvotes, $500
-186. [Private program disclosure through notifications](https://hackerone.com/reports/1234746) to HackerOne - 31 upvotes, $500
+179. [Private program disclosure through notifications](https://hackerone.com/reports/1234746) to HackerOne - 32 upvotes, $500
+180. [Internal usage of AdBlockPlus may expose PoC URLs to unknown third-parties](https://hackerone.com/reports/395518) to HackerOne - 32 upvotes, $0
+181. [Accidental Access to Programs Information via SAML Login](https://hackerone.com/reports/438306) to HackerOne - 32 upvotes, $0
+182. [Timing attack towards endpoints on the web without CSRF ](https://hackerone.com/reports/348168) to HackerOne - 32 upvotes, $0
+183. [Open Redirection in [https://www.hackerone.com/index.php]](https://hackerone.com/reports/562417) to HackerOne - 32 upvotes, $0
+184. [View Any Program's Team Members through GET https://hackerone.com/invitations/](https://hackerone.com/reports/283014) to HackerOne - 31 upvotes, $1000
+185. [Response program can create bounty table](https://hackerone.com/reports/460920) to HackerOne - 31 upvotes, $500
+186. [Program Email Nofication settings ignored when being added as an external contributor](https://hackerone.com/reports/645264) to HackerOne - 31 upvotes, $500
 187. [Lack warning label when receiving a letter](https://hackerone.com/reports/1128701) to HackerOne - 31 upvotes, $0
 188. [RCE in profile picture upload](https://hackerone.com/reports/135072) to HackerOne - 30 upvotes, $2500
 189. [Non-secure requests are not automatically upgraded to HTTPS](https://hackerone.com/reports/158186) to HackerOne - 30 upvotes, $500
@@ -198,18 +198,18 @@ Top reports from HackerOne program at HackerOne:
 196. [Information leakage via CSV when content is valid JavaScript](https://hackerone.com/reports/207266) to HackerOne - 29 upvotes, $750
 197. [HackerOne Pentesters can access any structured scope object through GraphQL node interface](https://hackerone.com/reports/781150) to HackerOne - 29 upvotes, $0
 198. [Reflected XSS and possible SSRF/XXE on https://events.hackerone.com/conferences/get_recording_slides_xml.xml?url=myserver/xss.xml](https://hackerone.com/reports/1028396) to HackerOne - 29 upvotes, $0
-199. [Program profile metrics endpoint contains mean time to triage, even when turned off](https://hackerone.com/reports/289568) to HackerOne - 28 upvotes, $500
-200. [Disclosure of h1 challenges name through the calendar](https://hackerone.com/reports/488643) to HackerOne - 28 upvotes, $500
-201. [Blind SSRF in "Integrations" by abusing a bug in Ruby's native resolver.](https://hackerone.com/reports/287245) to HackerOne - 28 upvotes, $0
-202. [Read-only team members can read all properties of webhooks](https://hackerone.com/reports/818848) to HackerOne - 28 upvotes, $0
-203. [Upload profile photo from URL](https://hackerone.com/reports/713) to HackerOne - 27 upvotes, $500
-204. [Information disclosure - Feedback is accessible on Public profile even after 'disallowed' at https://hackerone.com/settings/feedback](https://hackerone.com/reports/1264725) to HackerOne - 27 upvotes, $500
-205. [GIF flooding](https://hackerone.com/reports/400) to HackerOne - 27 upvotes, $250
-206. [Report redaction doesn't apply to report title update activities](https://hackerone.com/reports/196358) to HackerOne - 27 upvotes, $0
-207. [Hacker can bypass minimum bounty amount restrictions in "invitation preferences" setting via UpdateInvitationPreferencesMutation GraphQL operation](https://hackerone.com/reports/981036) to HackerOne - 27 upvotes, $0
-208. [Submitting report through Embedded Submission form gives user indefinite access to a profile](https://hackerone.com/reports/463828) to HackerOne - 26 upvotes, $500
-209. [Program profile_metrics.json contains time to triage for deptofdefense even it's turned off](https://hackerone.com/reports/318399) to HackerOne - 26 upvotes, $250
-210. [Real impersonation](https://hackerone.com/reports/280) to HackerOne - 26 upvotes, $100
+199. [Upload profile photo from URL](https://hackerone.com/reports/713) to HackerOne - 28 upvotes, $500
+200. [Program profile metrics endpoint contains mean time to triage, even when turned off](https://hackerone.com/reports/289568) to HackerOne - 28 upvotes, $500
+201. [Disclosure of h1 challenges name through the calendar](https://hackerone.com/reports/488643) to HackerOne - 28 upvotes, $500
+202. [GIF flooding](https://hackerone.com/reports/400) to HackerOne - 28 upvotes, $250
+203. [Blind SSRF in "Integrations" by abusing a bug in Ruby's native resolver.](https://hackerone.com/reports/287245) to HackerOne - 28 upvotes, $0
+204. [Read-only team members can read all properties of webhooks](https://hackerone.com/reports/818848) to HackerOne - 28 upvotes, $0
+205. [Information disclosure - Feedback is accessible on Public profile even after 'disallowed' at https://hackerone.com/settings/feedback](https://hackerone.com/reports/1264725) to HackerOne - 27 upvotes, $500
+206. [Real impersonation](https://hackerone.com/reports/280) to HackerOne - 27 upvotes, $100
+207. [Report redaction doesn't apply to report title update activities](https://hackerone.com/reports/196358) to HackerOne - 27 upvotes, $0
+208. [Hacker can bypass minimum bounty amount restrictions in "invitation preferences" setting via UpdateInvitationPreferencesMutation GraphQL operation](https://hackerone.com/reports/981036) to HackerOne - 27 upvotes, $0
+209. [Submitting report through Embedded Submission form gives user indefinite access to a profile](https://hackerone.com/reports/463828) to HackerOne - 26 upvotes, $500
+210. [Program profile_metrics.json contains time to triage for deptofdefense even it's turned off](https://hackerone.com/reports/318399) to HackerOne - 26 upvotes, $250
 211. [Able To Check The Exact Bounty Balance of any Bug Bounty Program](https://hackerone.com/reports/293593) to HackerOne - 26 upvotes, $0
 212. [Editing Pentest Summary Report Answers After Submitting Them](https://hackerone.com/reports/1139528) to HackerOne - 26 upvotes, $0
 213. [resolved bugs in a program are public despite the program settings](https://hackerone.com/reports/270993) to HackerOne - 25 upvotes, $500
@@ -217,52 +217,52 @@ Top reports from HackerOne program at HackerOne:
 215. [Unicorn worker pool exhaustion by continuously updating payout preferences](https://hackerone.com/reports/317543) to HackerOne - 25 upvotes, $0
 216. [IDOR in Bugs overview enables attacker to determine the date range a hackathon was active](https://hackerone.com/reports/663431) to HackerOne - 25 upvotes, $0
 217. [Transitioning a Private Program to Public Does Not Clear Previously Private Updates to Hackers](https://hackerone.com/reports/210190) to HackerOne - 24 upvotes, $500
-218. [User object in GraphQL exposes number of trial reports for External Programs that also have a Private Program](https://hackerone.com/reports/350964) to HackerOne - 24 upvotes, $0
-219. [A team member of the program with Report rights can ban the Admin](https://hackerone.com/reports/816143) to HackerOne - 24 upvotes, $0
-220. [People who interviewed for HackerOne security analyst position can be enumerated and their personal email address may be exposed](https://hackerone.com/reports/353310) to HackerOne - 23 upvotes, $500
-221. [A user can request a report to be retested even though the program has not been verified by HackerOne](https://hackerone.com/reports/448078) to HackerOne - 23 upvotes, $500
-222. [Dangling cloud instance at vpn.inverselink.com](https://hackerone.com/reports/1112679) to HackerOne - 23 upvotes, $500
-223. [Can read features from any user](https://hackerone.com/reports/316810) to HackerOne - 23 upvotes, $250
-224. [DNS Cache Poisoning](https://hackerone.com/reports/487) to HackerOne - 23 upvotes, $100
-225. [Ability to enumerate private programs using SAML](https://hackerone.com/reports/167828) to HackerOne - 23 upvotes, $0
-226. [Lack of input sanitization in Marketo form leads to execution of HTML in lead emails](https://hackerone.com/reports/220009) to HackerOne - 22 upvotes, $500
-227. [Disabled account can still use GraphQL endpoint](https://hackerone.com/reports/608656) to HackerOne - 22 upvotes, $500
-228. [program_analytics_benchmarks query shows information not visible in public](https://hackerone.com/reports/826176) to HackerOne - 22 upvotes, $500
-229. [Broken Authentication and session management OWASP A2](https://hackerone.com/reports/284) to HackerOne - 22 upvotes, $100
+218. [DNS Cache Poisoning](https://hackerone.com/reports/487) to HackerOne - 24 upvotes, $100
+219. [User object in GraphQL exposes number of trial reports for External Programs that also have a Private Program](https://hackerone.com/reports/350964) to HackerOne - 24 upvotes, $0
+220. [A team member of the program with Report rights can ban the Admin](https://hackerone.com/reports/816143) to HackerOne - 24 upvotes, $0
+221. [People who interviewed for HackerOne security analyst position can be enumerated and their personal email address may be exposed](https://hackerone.com/reports/353310) to HackerOne - 23 upvotes, $500
+222. [A user can request a report to be retested even though the program has not been verified by HackerOne](https://hackerone.com/reports/448078) to HackerOne - 23 upvotes, $500
+223. [Dangling cloud instance at vpn.inverselink.com](https://hackerone.com/reports/1112679) to HackerOne - 23 upvotes, $500
+224. [Can read features from any user](https://hackerone.com/reports/316810) to HackerOne - 23 upvotes, $250
+225. [Broken Authentication and session management OWASP A2](https://hackerone.com/reports/284) to HackerOne - 23 upvotes, $100
+226. [Ability to enumerate private programs using SAML](https://hackerone.com/reports/167828) to HackerOne - 23 upvotes, $0
+227. [Lack of input sanitization in Marketo form leads to execution of HTML in lead emails](https://hackerone.com/reports/220009) to HackerOne - 22 upvotes, $500
+228. [Disabled account can still use GraphQL endpoint](https://hackerone.com/reports/608656) to HackerOne - 22 upvotes, $500
+229. [program_analytics_benchmarks query shows information not visible in public](https://hackerone.com/reports/826176) to HackerOne - 22 upvotes, $500
 230. [Self DOM-Based XSS in www.hackerone.com](https://hackerone.com/reports/406587) to HackerOne - 22 upvotes, $0
 231. [report id is exposed for undisclosed reports in Hacktivity](https://hackerone.com/reports/493484) to HackerOne - 22 upvotes, $0
 232. [Stored Cross-Site Scripting vulnerability in example Custom Digital Agreement](https://hackerone.com/reports/983077) to HackerOne - 22 upvotes, $0
-233. [Hackerone Email Addresses Enumeration](https://hackerone.com/reports/2429) to HackerOne - 21 upvotes, $0
-234. [Information Disclosure when /invitations/\<token\>.json is not yet accepted](https://hackerone.com/reports/290930) to HackerOne - 21 upvotes, $0
-235. [Mishandling of hackerone clear background checks resulting in disclosure of other hacker's information](https://hackerone.com/reports/1240162) to HackerOne - 21 upvotes, $0
-236. [Interstitial redirect bypass / open redirect in https://hackerone.com/zendesk_session](https://hackerone.com/reports/111968) to HackerOne - 20 upvotes, $500
+233. [Interstitial redirect bypass / open redirect in https://hackerone.com/zendesk_session](https://hackerone.com/reports/111968) to HackerOne - 21 upvotes, $500
+234. [Hackerone Email Addresses Enumeration](https://hackerone.com/reports/2429) to HackerOne - 21 upvotes, $0
+235. [Information Disclosure when /invitations/\<token\>.json is not yet accepted](https://hackerone.com/reports/290930) to HackerOne - 21 upvotes, $0
+236. [Mishandling of hackerone clear background checks resulting in disclosure of other hacker's information](https://hackerone.com/reports/1240162) to HackerOne - 21 upvotes, $0
 237. [Hacker can request mediation for published reports](https://hackerone.com/reports/412988) to HackerOne - 20 upvotes, $500
 238. [Homograph attack in escalate report](https://hackerone.com/reports/143975) to HackerOne - 20 upvotes, $500
 239. [SAML Response Reuse on hackerone.com/users/saml/auth](https://hackerone.com/reports/888930) to HackerOne - 20 upvotes, $500
-240. [HackerOne is still prone to Internet Explorer UXSS](https://hackerone.com/reports/108056) to HackerOne - 20 upvotes, $0
-241. [CRLF injection in info.hacker.one](https://hackerone.com/reports/217058) to HackerOne - 20 upvotes, $0
-242. [IDOR on Program Visibilty (Revealed / Concealed) against other team members](https://hackerone.com/reports/291721) to HackerOne - 20 upvotes, $0
-243. [Used email confirmation link reveals the email address which is tied to it](https://hackerone.com/reports/1128358) to HackerOne - 20 upvotes, $0
-244. [Know undisclosed Bounty Amount when Bounty Statistics are enabled.](https://hackerone.com/reports/148050) to HackerOne - 19 upvotes, $500
-245. [Notifications sent due to "Transfer report" functionality may be sent to users who are no longer authorized to see the report](https://hackerone.com/reports/442843) to HackerOne - 19 upvotes, $500
-246. [Switching the user to the attacker's account](https://hackerone.com/reports/727) to HackerOne - 19 upvotes, $150
-247. [Session not expired on logout](https://hackerone.com/reports/353) to HackerOne - 18 upvotes, $100
-248. [Able to create basic user account via Google login on HackerOne Drupal CMS](https://hackerone.com/reports/208407) to HackerOne - 18 upvotes, $0
-249. [Insecure SHA1withRSA in b5s.hackerone-ext-content.com and a4l.hackerone-ext-content.com](https://hackerone.com/reports/225754) to HackerOne - 18 upvotes, $0
-250. [Missing Certificate Authority Authorization rule](https://hackerone.com/reports/129992) to HackerOne - 18 upvotes, $0
-251. [Additional bypass allows SSRF for internal netblocks](https://hackerone.com/reports/288950) to HackerOne - 18 upvotes, $0
-252. [Session  hijacking attack](https://hackerone.com/reports/163381) to HackerOne - 18 upvotes, $0
-253. [Previous attachments can be referenced when creating a new report](https://hackerone.com/reports/129773) to HackerOne - 17 upvotes, $500
-254. [CSP not consistently applied](https://hackerone.com/reports/321) to HackerOne - 17 upvotes, $250
-255. [Enumeration of users](https://hackerone.com/reports/761) to HackerOne - 17 upvotes, $0
-256. [Private partial disclosure of h1 infrastructure ](https://hackerone.com/reports/283361) to HackerOne - 17 upvotes, $0
-257. [Corrupted Authorization header can cause logs not to be ingested properly in ████████](https://hackerone.com/reports/447488) to HackerOne - 17 upvotes, $0
-258. [Vulnerability with the way \ escaped characters in \<http://danlec.com\> style links are rendered](https://hackerone.com/reports/46072) to HackerOne - 16 upvotes, $5000
-259. [Know whether private program for company exist or not](https://hackerone.com/reports/105887) to HackerOne - 16 upvotes, $500
-260. [HTML injection can lead to data theft](https://hackerone.com/reports/110578) to HackerOne - 16 upvotes, $500
-261. [Unintended HTML inclusion as a result of https://hackerone.com/reports/110578](https://hackerone.com/reports/112935) to HackerOne - 16 upvotes, $500
-262. [Information disclosure (reset password token) and changing the user's password](https://hackerone.com/reports/738) to HackerOne - 16 upvotes, $100
-263. [Improper session management](https://hackerone.com/reports/737) to HackerOne - 16 upvotes, $100
+240. [Switching the user to the attacker's account](https://hackerone.com/reports/727) to HackerOne - 20 upvotes, $150
+241. [HackerOne is still prone to Internet Explorer UXSS](https://hackerone.com/reports/108056) to HackerOne - 20 upvotes, $0
+242. [CRLF injection in info.hacker.one](https://hackerone.com/reports/217058) to HackerOne - 20 upvotes, $0
+243. [IDOR on Program Visibilty (Revealed / Concealed) against other team members](https://hackerone.com/reports/291721) to HackerOne - 20 upvotes, $0
+244. [Used email confirmation link reveals the email address which is tied to it](https://hackerone.com/reports/1128358) to HackerOne - 20 upvotes, $0
+245. [Know undisclosed Bounty Amount when Bounty Statistics are enabled.](https://hackerone.com/reports/148050) to HackerOne - 19 upvotes, $500
+246. [Notifications sent due to "Transfer report" functionality may be sent to users who are no longer authorized to see the report](https://hackerone.com/reports/442843) to HackerOne - 19 upvotes, $500
+247. [CSP not consistently applied](https://hackerone.com/reports/321) to HackerOne - 18 upvotes, $250
+248. [Session not expired on logout](https://hackerone.com/reports/353) to HackerOne - 18 upvotes, $100
+249. [Able to create basic user account via Google login on HackerOne Drupal CMS](https://hackerone.com/reports/208407) to HackerOne - 18 upvotes, $0
+250. [Insecure SHA1withRSA in b5s.hackerone-ext-content.com and a4l.hackerone-ext-content.com](https://hackerone.com/reports/225754) to HackerOne - 18 upvotes, $0
+251. [Missing Certificate Authority Authorization rule](https://hackerone.com/reports/129992) to HackerOne - 18 upvotes, $0
+252. [Additional bypass allows SSRF for internal netblocks](https://hackerone.com/reports/288950) to HackerOne - 18 upvotes, $0
+253. [Session  hijacking attack](https://hackerone.com/reports/163381) to HackerOne - 18 upvotes, $0
+254. [Previous attachments can be referenced when creating a new report](https://hackerone.com/reports/129773) to HackerOne - 17 upvotes, $500
+255. [Information disclosure (reset password token) and changing the user's password](https://hackerone.com/reports/738) to HackerOne - 17 upvotes, $100
+256. [Improper session management](https://hackerone.com/reports/737) to HackerOne - 17 upvotes, $100
+257. [Enumeration of users](https://hackerone.com/reports/761) to HackerOne - 17 upvotes, $0
+258. [Private partial disclosure of h1 infrastructure ](https://hackerone.com/reports/283361) to HackerOne - 17 upvotes, $0
+259. [Corrupted Authorization header can cause logs not to be ingested properly in ████████](https://hackerone.com/reports/447488) to HackerOne - 17 upvotes, $0
+260. [Vulnerability with the way \ escaped characters in \<http://danlec.com\> style links are rendered](https://hackerone.com/reports/46072) to HackerOne - 16 upvotes, $5000
+261. [Know whether private program for company exist or not](https://hackerone.com/reports/105887) to HackerOne - 16 upvotes, $500
+262. [HTML injection can lead to data theft](https://hackerone.com/reports/110578) to HackerOne - 16 upvotes, $500
+263. [Unintended HTML inclusion as a result of https://hackerone.com/reports/110578](https://hackerone.com/reports/112935) to HackerOne - 16 upvotes, $500
 264. [Possible CSRF during joining report as participant ](https://hackerone.com/reports/148517) to HackerOne - 16 upvotes, $0
 265. [Example HackerOne security@ forward domain is not registered](https://hackerone.com/reports/218705) to HackerOne - 16 upvotes, $0
 266. [www.hackerone.com website CSP "script-src" includes "unsafe-inline"](https://hackerone.com/reports/225833) to HackerOne - 16 upvotes, $0
@@ -286,10 +286,10 @@ Top reports from HackerOne program at HackerOne:
 284. [HTTP header injection in info.hackerone.com allows setting cookies for hackerone.com](https://hackerone.com/reports/97292) to HackerOne - 14 upvotes, $1000
 285. [Old titles are not hidden in reports with limited disclosure](https://hackerone.com/reports/144129) to HackerOne - 14 upvotes, $500
 286. [Tab nabbing in Hackerone inbox.](https://hackerone.com/reports/1145563) to HackerOne - 14 upvotes, $500
-287. [Report title and issue information prepopulated ](https://hackerone.com/reports/111868) to HackerOne - 14 upvotes, $0
-288. [Attacker may be able to bounce enough emails which suspend HackerOne's SES service and cause a DoS of HackerOne's email service](https://hackerone.com/reports/823915) to HackerOne - 14 upvotes, $0
-289. [Able to remove the admin access of my program](https://hackerone.com/reports/141629) to HackerOne - 13 upvotes, $500
-290. [CSRF login](https://hackerone.com/reports/547) to HackerOne - 13 upvotes, $100
+287. [CSRF login](https://hackerone.com/reports/547) to HackerOne - 14 upvotes, $100
+288. [Report title and issue information prepopulated ](https://hackerone.com/reports/111868) to HackerOne - 14 upvotes, $0
+289. [Attacker may be able to bounce enough emails which suspend HackerOne's SES service and cause a DoS of HackerOne's email service](https://hackerone.com/reports/823915) to HackerOne - 14 upvotes, $0
+290. [Able to remove the admin access of my program](https://hackerone.com/reports/141629) to HackerOne - 13 upvotes, $500
 291. [Obtain the username & the uid of the one doing the S3 sync on Hackerone](https://hackerone.com/reports/173175) to HackerOne - 13 upvotes, $0
 292. [Researcher gets email updates on a private program after he/she quits that program.](https://hackerone.com/reports/174449) to HackerOne - 13 upvotes, $0
 293. [Missing Certificate Authority Authorization rule](https://hackerone.com/reports/410245) to HackerOne - 13 upvotes, $0
@@ -297,15 +297,15 @@ Top reports from HackerOne program at HackerOne:
 295. [Improper data update process on UpdatePhabricatorIntegration mutation leads to leak of Phabricator Conduit API token.](https://hackerone.com/reports/1161141) to HackerOne - 13 upvotes, $0
 296. [Markdown parsing issue enables insertion of malicious tags and event handlers](https://hackerone.com/reports/46916) to HackerOne - 12 upvotes, $5000
 297. [PNG compression DoS](https://hackerone.com/reports/454) to HackerOne - 12 upvotes, $500
-298. [Flawed account creation process allows registration of usernames corresponding to existing file names](https://hackerone.com/reports/275) to HackerOne - 12 upvotes, $0
-299. [Inadequate access controls in "Vote" functionality???](https://hackerone.com/reports/137503) to HackerOne - 12 upvotes, $0
-300. [GitHub users outside of HackerOne organization can create and update Wiki pages of certain public HackerOne repositories](https://hackerone.com/reports/459634) to HackerOne - 12 upvotes, $0
-301. [Missing rate limit on critical user actions e.g. reset password, change email, disable account.](https://hackerone.com/reports/157750) to HackerOne - 12 upvotes, $0
-302. [Bypassing the External Link Warning](https://hackerone.com/reports/1139520) to HackerOne - 12 upvotes, $0
-303. [Requesting Mediation possible on reports that are too old for mediation](https://hackerone.com/reports/159512) to HackerOne - 11 upvotes, $500
-304. [DNS Misconfiguration](https://hackerone.com/reports/1509) to HackerOne - 11 upvotes, $100
-305. [javascript: and mailto: links are allowed in JIRA integration settings](https://hackerone.com/reports/209917) to HackerOne - 11 upvotes, $100
-306. [Login page password-guessing attack](https://hackerone.com/reports/110) to HackerOne - 11 upvotes, $0
+298. [DNS Misconfiguration](https://hackerone.com/reports/1509) to HackerOne - 12 upvotes, $100
+299. [Login page password-guessing attack](https://hackerone.com/reports/110) to HackerOne - 12 upvotes, $0
+300. [Flawed account creation process allows registration of usernames corresponding to existing file names](https://hackerone.com/reports/275) to HackerOne - 12 upvotes, $0
+301. [Inadequate access controls in "Vote" functionality???](https://hackerone.com/reports/137503) to HackerOne - 12 upvotes, $0
+302. [GitHub users outside of HackerOne organization can create and update Wiki pages of certain public HackerOne repositories](https://hackerone.com/reports/459634) to HackerOne - 12 upvotes, $0
+303. [Missing rate limit on critical user actions e.g. reset password, change email, disable account.](https://hackerone.com/reports/157750) to HackerOne - 12 upvotes, $0
+304. [Bypassing the External Link Warning](https://hackerone.com/reports/1139520) to HackerOne - 12 upvotes, $0
+305. [Requesting Mediation possible on reports that are too old for mediation](https://hackerone.com/reports/159512) to HackerOne - 11 upvotes, $500
+306. [javascript: and mailto: links are allowed in JIRA integration settings](https://hackerone.com/reports/209917) to HackerOne - 11 upvotes, $100
 307. [Possible CSRF during external programs](https://hackerone.com/reports/174470) to HackerOne - 11 upvotes, $0
 308. [Verbose PHP error messages exposed on a blog article](https://hackerone.com/reports/439174) to HackerOne - 11 upvotes, $0
 309. [Moving a report to a different program doesn't reassign the Custom Field Values](https://hackerone.com/reports/511779) to HackerOne - 11 upvotes, $0
@@ -322,32 +322,32 @@ Top reports from HackerOne program at HackerOne:
 320. [Improve signals in reputation](https://hackerone.com/reports/106305) to HackerOne - 8 upvotes, $500
 321. [Disclosure of external users invited to a specific report](https://hackerone.com/reports/157699) to HackerOne - 8 upvotes, $500
 322. [CSS leaks SCSS debug info](https://hackerone.com/reports/2221) to HackerOne - 8 upvotes, $100
-323. [Session not invalidated after password reset](https://hackerone.com/reports/15785) to HackerOne - 8 upvotes, $100
-324. [All Active user sessions should be deleted when user change his password!](https://hackerone.com/reports/9950) to HackerOne - 8 upvotes, $100
-325. [LinkedIN URL should be HTTPS](https://hackerone.com/reports/1093) to HackerOne - 8 upvotes, $0
-326. [Reward Money Leakage](https://hackerone.com/reports/149435) to HackerOne - 8 upvotes, $0
-327. [Information disclosure via policy update notifications after removal from program](https://hackerone.com/reports/177484) to HackerOne - 8 upvotes, $0
-328. [Search query text, including from potentially undisclosed reports, sent to Google Analytics on Inbox query page](https://hackerone.com/reports/280770) to HackerOne - 8 upvotes, $0
-329. [GraphQL sessions aren't immediately invalidated when user password is changed](https://hackerone.com/reports/283847) to HackerOne - 8 upvotes, $0
-330. [While adding a payment method - Notification email not sent to newly added email ID as well as there is no verification for new email id (Paypal)](https://hackerone.com/reports/307424) to HackerOne - 8 upvotes, $0
-331. [CSP Bypass: Click handler for links with data-method="post" can cause authenticity_token to be sent off domain](https://hackerone.com/reports/47472) to HackerOne - 7 upvotes, $2000
-332. [Gain reputation by creating a duplicate of an existing report](https://hackerone.com/reports/35237) to HackerOne - 7 upvotes, $500
-333. [Limited CSRF bypass.](https://hackerone.com/reports/99708) to HackerOne - 7 upvotes, $500
-334. [New hacktivity view discloses report IDs of non-public reports](https://hackerone.com/reports/127620) to HackerOne - 7 upvotes, $500
-335. [Control Characters Not Stripped From Username on Signup](https://hackerone.com/reports/3227) to HackerOne - 7 upvotes, $100
-336. [Private Program all members disclosed ](https://hackerone.com/reports/283309) to HackerOne - 7 upvotes, $0
-337. [Missing Password Confirmation at a Critical Function (Payout Method)](https://hackerone.com/reports/303299) to HackerOne - 7 upvotes, $0
-338. [Leakage badges on disabled user](https://hackerone.com/reports/325594) to HackerOne - 7 upvotes, $0
-339. [Race condition allows to send multiple times feedback for the hacker](https://hackerone.com/reports/1132171) to HackerOne - 7 upvotes, $0
-340. [Private program activity timeline information disclosure](https://hackerone.com/reports/116029) to HackerOne - 6 upvotes, $5000
-341. [External programs revealing info](https://hackerone.com/reports/124929) to HackerOne - 6 upvotes, $1500
-342. [Ability to see common response titles of other teams (limited)](https://hackerone.com/reports/31383) to HackerOne - 6 upvotes, $1000
-343. [Pre-generation of 2FA secret/backup codes seems like an unnecessary risk](https://hackerone.com/reports/100509) to HackerOne - 6 upvotes, $1000
-344. [Redirect while opening links in new tabs](https://hackerone.com/reports/23386) to HackerOne - 6 upvotes, $500
-345. [File Name Enumeration ](https://hackerone.com/reports/33935) to HackerOne - 6 upvotes, $500
-346. [CSV Injection with the CVS export feature](https://hackerone.com/reports/72785) to HackerOne - 6 upvotes, $500
-347. [Increase number of bugs by sending duplicate of your own valid report](https://hackerone.com/reports/116951) to HackerOne - 6 upvotes, $500
-348. [Flawed account creation process allows registration of usernames corresponding to existing file names](https://hackerone.com/reports/477) to HackerOne - 6 upvotes, $100
+323. [Control Characters Not Stripped From Username on Signup](https://hackerone.com/reports/3227) to HackerOne - 8 upvotes, $100
+324. [Session not invalidated after password reset](https://hackerone.com/reports/15785) to HackerOne - 8 upvotes, $100
+325. [All Active user sessions should be deleted when user change his password!](https://hackerone.com/reports/9950) to HackerOne - 8 upvotes, $100
+326. [LinkedIN URL should be HTTPS](https://hackerone.com/reports/1093) to HackerOne - 8 upvotes, $0
+327. [Reward Money Leakage](https://hackerone.com/reports/149435) to HackerOne - 8 upvotes, $0
+328. [Information disclosure via policy update notifications after removal from program](https://hackerone.com/reports/177484) to HackerOne - 8 upvotes, $0
+329. [Search query text, including from potentially undisclosed reports, sent to Google Analytics on Inbox query page](https://hackerone.com/reports/280770) to HackerOne - 8 upvotes, $0
+330. [GraphQL sessions aren't immediately invalidated when user password is changed](https://hackerone.com/reports/283847) to HackerOne - 8 upvotes, $0
+331. [While adding a payment method - Notification email not sent to newly added email ID as well as there is no verification for new email id (Paypal)](https://hackerone.com/reports/307424) to HackerOne - 8 upvotes, $0
+332. [CSP Bypass: Click handler for links with data-method="post" can cause authenticity_token to be sent off domain](https://hackerone.com/reports/47472) to HackerOne - 7 upvotes, $2000
+333. [Gain reputation by creating a duplicate of an existing report](https://hackerone.com/reports/35237) to HackerOne - 7 upvotes, $500
+334. [Limited CSRF bypass.](https://hackerone.com/reports/99708) to HackerOne - 7 upvotes, $500
+335. [New hacktivity view discloses report IDs of non-public reports](https://hackerone.com/reports/127620) to HackerOne - 7 upvotes, $500
+336. [Flawed account creation process allows registration of usernames corresponding to existing file names](https://hackerone.com/reports/477) to HackerOne - 7 upvotes, $100
+337. [Private Program all members disclosed ](https://hackerone.com/reports/283309) to HackerOne - 7 upvotes, $0
+338. [Missing Password Confirmation at a Critical Function (Payout Method)](https://hackerone.com/reports/303299) to HackerOne - 7 upvotes, $0
+339. [Leakage badges on disabled user](https://hackerone.com/reports/325594) to HackerOne - 7 upvotes, $0
+340. [Race condition allows to send multiple times feedback for the hacker](https://hackerone.com/reports/1132171) to HackerOne - 7 upvotes, $0
+341. [Private program activity timeline information disclosure](https://hackerone.com/reports/116029) to HackerOne - 6 upvotes, $5000
+342. [External programs revealing info](https://hackerone.com/reports/124929) to HackerOne - 6 upvotes, $1500
+343. [Ability to see common response titles of other teams (limited)](https://hackerone.com/reports/31383) to HackerOne - 6 upvotes, $1000
+344. [Pre-generation of 2FA secret/backup codes seems like an unnecessary risk](https://hackerone.com/reports/100509) to HackerOne - 6 upvotes, $1000
+345. [Redirect while opening links in new tabs](https://hackerone.com/reports/23386) to HackerOne - 6 upvotes, $500
+346. [File Name Enumeration ](https://hackerone.com/reports/33935) to HackerOne - 6 upvotes, $500
+347. [CSV Injection with the CVS export feature](https://hackerone.com/reports/72785) to HackerOne - 6 upvotes, $500
+348. [Increase number of bugs by sending duplicate of your own valid report](https://hackerone.com/reports/116951) to HackerOne - 6 upvotes, $500
 349. [Autocomplete enabled in Paypal preferences](https://hackerone.com/reports/842) to HackerOne - 6 upvotes, $100
 350. [External links should use rel="noopener" or use the redirect service](https://hackerone.com/reports/124620) to HackerOne - 6 upvotes, $0
 351. [Reputation Manipulation (Theoretical)](https://hackerone.com/reports/132057) to HackerOne - 6 upvotes, $0

@@ -2,7 +2,7 @@ Top reports from Paragon Initiative Enterprises program at HackerOne:
 
 1. [BAD Code ! ](https://hackerone.com/reports/180074) to Paragon Initiative Enterprises - 481 upvotes, $0
 2. [DMARC  Not found for paragonie.com   URGENT](https://hackerone.com/reports/179828) to Paragon Initiative Enterprises - 133 upvotes, $0
-3. [Subdomain Takeover](https://hackerone.com/reports/180393) to Paragon Initiative Enterprises - 63 upvotes, $0
+3. [Subdomain Takeover](https://hackerone.com/reports/180393) to Paragon Initiative Enterprises - 64 upvotes, $0
 4. [I am because bug](https://hackerone.com/reports/226094) to Paragon Initiative Enterprises - 38 upvotes, $0
 5. [ssl info shown ](https://hackerone.com/reports/149369) to Paragon Initiative Enterprises - 31 upvotes, $0
 6. [[Critical] billion dollars issue](https://hackerone.com/reports/244836) to Paragon Initiative Enterprises - 29 upvotes, $0
@@ -11,8 +11,8 @@ Top reports from Paragon Initiative Enterprises program at HackerOne:
 9. [Site support SNI But Browser can't](https://hackerone.com/reports/149442) to Paragon Initiative Enterprises - 15 upvotes, $0
 10. [Content-type sniffing leads to stored XSS in CMS Airship on Internet Explorer ](https://hackerone.com/reports/151231) to Paragon Initiative Enterprises - 15 upvotes, $0
 11. [Spf ](https://hackerone.com/reports/116927) to Paragon Initiative Enterprises - 14 upvotes, $0
-12. [Paragonie Airship Admin CSRF on Extensions Pages](https://hackerone.com/reports/243094) to Paragon Initiative Enterprises - 11 upvotes, $100
-13. [Stored XSS using  SVG ](https://hackerone.com/reports/148853) to Paragon Initiative Enterprises - 11 upvotes, $50
+12. [Stored XSS using  SVG ](https://hackerone.com/reports/148853) to Paragon Initiative Enterprises - 12 upvotes, $50
+13. [Paragonie Airship Admin CSRF on Extensions Pages](https://hackerone.com/reports/243094) to Paragon Initiative Enterprises - 11 upvotes, $100
 14. [Full directory path listing](https://hackerone.com/reports/230098) to Paragon Initiative Enterprises - 10 upvotes, $0
 15. [Improper access control lead  To delete anyone comment](https://hackerone.com/reports/273805) to Paragon Initiative Enterprises - 8 upvotes, $100
 16. [Directory Disclose,Email Disclose Zendmail vulnerability](https://hackerone.com/reports/228112) to Paragon Initiative Enterprises - 8 upvotes, $50

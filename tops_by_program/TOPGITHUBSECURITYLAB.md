@@ -47,12 +47,12 @@ Top reports from GitHub Security Lab program at HackerOne:
 45. [CodeQL query to detect Server-Side Template Injections (JavaScript)](https://hackerone.com/reports/894872) to GitHub Security Lab - 8 upvotes, $2300
 46. [CodeQL query to detect open Spring Boot actuator endpoints](https://hackerone.com/reports/891266) to GitHub Security Lab - 8 upvotes, $1800
 47. [[Java] CWE-327: Add more broken crypto algorithms](https://hackerone.com/reports/1123360) to GitHub Security Lab - 8 upvotes, $1800
-48. [CodeQL query for unsafe TLS versions](https://hackerone.com/reports/894871) to GitHub Security Lab - 7 upvotes, $1800
-49. [Java: CWE-273 Unsafe certificate trust](https://hackerone.com/reports/917454) to GitHub Security Lab - 7 upvotes, $1800
-50. [Java: Detect remote source from Android intent extra](https://hackerone.com/reports/1030295) to GitHub Security Lab - 7 upvotes, $1800
-51. [[Java] CWE-297: Insecure LDAP endpoint configuration](https://hackerone.com/reports/1133572) to GitHub Security Lab - 7 upvotes, $1800
-52. [[Java] CWE-1004: Query to check sensitive cookies without the HttpOnly flag set ](https://hackerone.com/reports/1165198) to GitHub Security Lab - 7 upvotes, $1000
-53. [Java: Regex injection](https://hackerone.com/reports/1443028) to GitHub Security Lab - 7 upvotes, $1000
+48. [Java: Regex injection](https://hackerone.com/reports/1443028) to GitHub Security Lab - 8 upvotes, $1000
+49. [CodeQL query for unsafe TLS versions](https://hackerone.com/reports/894871) to GitHub Security Lab - 7 upvotes, $1800
+50. [Java: CWE-273 Unsafe certificate trust](https://hackerone.com/reports/917454) to GitHub Security Lab - 7 upvotes, $1800
+51. [Java: Detect remote source from Android intent extra](https://hackerone.com/reports/1030295) to GitHub Security Lab - 7 upvotes, $1800
+52. [[Java] CWE-297: Insecure LDAP endpoint configuration](https://hackerone.com/reports/1133572) to GitHub Security Lab - 7 upvotes, $1800
+53. [[Java] CWE-1004: Query to check sensitive cookies without the HttpOnly flag set ](https://hackerone.com/reports/1165198) to GitHub Security Lab - 7 upvotes, $1000
 54. [[codeql-go]: Add query to find use of constant state parameter in Oauth2 flow](https://hackerone.com/reports/1121574) to GitHub Security Lab - 6 upvotes, $4500
 55. [[cpp] CWE-787: query to detect unsigned integer to signed integer conversions used in pointer arithmetics](https://hackerone.com/reports/1378946) to GitHub Security Lab - 6 upvotes, $4500
 56. [porcupiney.hairs : Java/Android - Insecure Loading of a Dex File ](https://hackerone.com/reports/1161956) to GitHub Security Lab - 6 upvotes, $1800
@@ -123,44 +123,44 @@ Top reports from GitHub Security Lab program at HackerOne:
 121. [[Java] CWE-470: Use of Externally-Controlled Input to Select Classes or Code ('Unsafe Reflection')](https://hackerone.com/reports/1287574) to GitHub Security Lab - 3 upvotes, $1800
 122. [ihsinme: Add query for CWE-758 Reliance on Undefined, Unspecified, or Implementation-Defined Behavior](https://hackerone.com/reports/1345483) to GitHub Security Lab - 3 upvotes, $1800
 123. [[Java] CWE-200: Query to detect exposure of sensitive information from android file intent](https://hackerone.com/reports/1365761) to GitHub Security Lab - 3 upvotes, $1800
-124. [[Java] CWE-552: Query to detect unsafe request dispatcher usage](https://hackerone.com/reports/1454582) to GitHub Security Lab - 3 upvotes, $1800
-125. [ihsinme: CPP Add query for CWE-675 Duplicate Operations on Resource](https://hackerone.com/reports/1413540) to GitHub Security Lab - 3 upvotes, $1000
-126. [[JAVA]: CWE-347 - Improper Verification of Cryptographic Signature : Potential for Auth Bypass](https://hackerone.com/reports/1212274) to GitHub Security Lab - 3 upvotes, $0
-127. [[Java] CWE-295 - Incorrect Hostname Verification - MitM](https://hackerone.com/reports/1219493) to GitHub Security Lab - 3 upvotes, $0
-128. [[Python]: Add SqlAlchemy support for SQL injection query](https://hackerone.com/reports/1287576) to GitHub Security Lab - 2 upvotes, $4500
-129. [CodeQL query to detect OGNL injections](https://hackerone.com/reports/917455) to GitHub Security Lab - 2 upvotes, $2300
-130. [Query to find TLS configurations supporting hardcoded insecure versions of the protocol and cipher suites](https://hackerone.com/reports/974369) to GitHub Security Lab - 2 upvotes, $2300
-131. [CWE-094 ScriptEngine in java](https://hackerone.com/reports/824926) to GitHub Security Lab - 2 upvotes, $1800
-132. [Java : add fastjson detection. Improve RemoteFlowSource class, support SpringMvc](https://hackerone.com/reports/1050705) to GitHub Security Lab - 2 upvotes, $1800
-133. [ihsinme: CPP Add query for CWE-401 memory leak on unsuccessful call to realloc function](https://hackerone.com/reports/1093242) to GitHub Security Lab - 2 upvotes, $1800
-134. [[golang] Division by zero query](https://hackerone.com/reports/1102227) to GitHub Security Lab - 2 upvotes, $1800
-135. [ihsinme: CPP add query for CWE-788 Access of memory location after the end of a buffer using strncat.](https://hackerone.com/reports/1114027) to GitHub Security Lab - 2 upvotes, $1800
-136. [[Python] CWE-287: LDAP Improper Authentication](https://hackerone.com/reports/1287575) to GitHub Security Lab - 2 upvotes, $1800
-137. [[Python] CWE-522: Insecure LDAP Authentication](https://hackerone.com/reports/1350076) to GitHub Security Lab - 2 upvotes, $1800
-138. [[Java] CWE-348: Use of less trusted source](https://hackerone.com/reports/1184039) to GitHub Security Lab - 2 upvotes, $1000
-139. [[C#]: HttpOnly and Secure Cookies for .NET Core and .NET](https://hackerone.com/reports/1301752) to GitHub Security Lab - 2 upvotes, $1000
-140. [ihsinme: CPP Add query for CWE-691 Insufficient Control Flow Management After Refactoring The Code](https://hackerone.com/reports/1184040) to GitHub Security Lab - 2 upvotes, $500
-141. [Yet another SSRF query for Go](https://hackerone.com/reports/1391772) to GitHub Security Lab - 2 upvotes, $450
-142. [Yet another SSRF query for Go](https://hackerone.com/reports/1391771) to GitHub Security Lab - 2 upvotes, $450
-143. [Yet another SSRF query for Go](https://hackerone.com/reports/1391729) to GitHub Security Lab - 2 upvotes, $450
-144. [Yet another SSRF query for Go](https://hackerone.com/reports/1391725) to GitHub Security Lab - 2 upvotes, $450
-145. [Yet another SSRF query for Javascript](https://hackerone.com/reports/1391728) to GitHub Security Lab - 2 upvotes, $250
-146. [Yet another SSRF query for Javascript](https://hackerone.com/reports/1391727) to GitHub Security Lab - 2 upvotes, $250
-147. [Yet another SSRF query for Javascript](https://hackerone.com/reports/1391726) to GitHub Security Lab - 2 upvotes, $250
-148. [Yet another SSRF query for Javascript](https://hackerone.com/reports/1391724) to GitHub Security Lab - 2 upvotes, $250
-149. [[Java] CWE-295: Disabled certificate validation in JXBrowser](https://hackerone.com/reports/1100379) to GitHub Security Lab - 2 upvotes, $0
-150. [[Java]: CWE 295 - Insecure TrustManager - MiTM](https://hackerone.com/reports/1264781) to GitHub Security Lab - 2 upvotes, $0
-151. [[Javascript]: [Clipboard-based XSS]](https://hackerone.com/reports/1448236) to GitHub Security Lab - 2 upvotes, $0
-152. [[C#]: Deserialization sinks](https://hackerone.com/reports/1319270) to GitHub Security Lab - 1 upvotes, $4500
-153. [[Java] CWE-089: MyBatis Mapper XML SQL Injection](https://hackerone.com/reports/1442954) to GitHub Security Lab - 1 upvotes, $4500
-154. [[CATENACYBER]: [CPP] CWE-476 Null Pointer Dereference : Another query to either missing or redundant NULL check](https://hackerone.com/reports/974370) to GitHub Security Lab - 1 upvotes, $1800
-155. [CodeQL query to detect XSLT injections](https://hackerone.com/reports/974368) to GitHub Security Lab - 1 upvotes, $1800
-156. [Java: QL Query Detector for JHipster Generated CVE-2019-16303](https://hackerone.com/reports/1065403) to GitHub Security Lab - 1 upvotes, $1800
-157. [[javascript] CWE-614: CodeQL query to detect if cookies are sent without the flag secure being set](https://hackerone.com/reports/1053048) to GitHub Security Lab - 1 upvotes, $1800
-158. [[Java] CWE-601: Add Spring URL Redirect ResponseEntity sink](https://hackerone.com/reports/1287577) to GitHub Security Lab - 1 upvotes, $1800
-159. [[Java] CWE-400: Query to detect uncontrolled thread resource consumption](https://hackerone.com/reports/1413542) to GitHub Security Lab - 1 upvotes, $1800
-160. [[Python]: JWT security-related queries](https://hackerone.com/reports/1403263) to GitHub Security Lab - 1 upvotes, $1800
-161. [[Python]: CWE-079: HTTP Header injection](https://hackerone.com/reports/1401159) to GitHub Security Lab - 1 upvotes, $1800
+124. [ihsinme: CPP Add query for CWE-675 Duplicate Operations on Resource](https://hackerone.com/reports/1413540) to GitHub Security Lab - 3 upvotes, $1000
+125. [[JAVA]: CWE-347 - Improper Verification of Cryptographic Signature : Potential for Auth Bypass](https://hackerone.com/reports/1212274) to GitHub Security Lab - 3 upvotes, $0
+126. [[Java] CWE-295 - Incorrect Hostname Verification - MitM](https://hackerone.com/reports/1219493) to GitHub Security Lab - 3 upvotes, $0
+127. [[Python]: Add SqlAlchemy support for SQL injection query](https://hackerone.com/reports/1287576) to GitHub Security Lab - 2 upvotes, $4500
+128. [CodeQL query to detect OGNL injections](https://hackerone.com/reports/917455) to GitHub Security Lab - 2 upvotes, $2300
+129. [Query to find TLS configurations supporting hardcoded insecure versions of the protocol and cipher suites](https://hackerone.com/reports/974369) to GitHub Security Lab - 2 upvotes, $2300
+130. [CWE-094 ScriptEngine in java](https://hackerone.com/reports/824926) to GitHub Security Lab - 2 upvotes, $1800
+131. [Java : add fastjson detection. Improve RemoteFlowSource class, support SpringMvc](https://hackerone.com/reports/1050705) to GitHub Security Lab - 2 upvotes, $1800
+132. [ihsinme: CPP Add query for CWE-401 memory leak on unsuccessful call to realloc function](https://hackerone.com/reports/1093242) to GitHub Security Lab - 2 upvotes, $1800
+133. [[golang] Division by zero query](https://hackerone.com/reports/1102227) to GitHub Security Lab - 2 upvotes, $1800
+134. [ihsinme: CPP add query for CWE-788 Access of memory location after the end of a buffer using strncat.](https://hackerone.com/reports/1114027) to GitHub Security Lab - 2 upvotes, $1800
+135. [[Python] CWE-287: LDAP Improper Authentication](https://hackerone.com/reports/1287575) to GitHub Security Lab - 2 upvotes, $1800
+136. [[Python] CWE-522: Insecure LDAP Authentication](https://hackerone.com/reports/1350076) to GitHub Security Lab - 2 upvotes, $1800
+137. [[Java] CWE-552: Query to detect unsafe request dispatcher usage](https://hackerone.com/reports/1454582) to GitHub Security Lab - 2 upvotes, $1800
+138. [[Python]: CWE-079: HTTP Header injection](https://hackerone.com/reports/1401159) to GitHub Security Lab - 2 upvotes, $1800
+139. [[Java] CWE-348: Use of less trusted source](https://hackerone.com/reports/1184039) to GitHub Security Lab - 2 upvotes, $1000
+140. [[C#]: HttpOnly and Secure Cookies for .NET Core and .NET](https://hackerone.com/reports/1301752) to GitHub Security Lab - 2 upvotes, $1000
+141. [ihsinme: CPP Add query for CWE-691 Insufficient Control Flow Management After Refactoring The Code](https://hackerone.com/reports/1184040) to GitHub Security Lab - 2 upvotes, $500
+142. [Yet another SSRF query for Go](https://hackerone.com/reports/1391772) to GitHub Security Lab - 2 upvotes, $450
+143. [Yet another SSRF query for Go](https://hackerone.com/reports/1391771) to GitHub Security Lab - 2 upvotes, $450
+144. [Yet another SSRF query for Go](https://hackerone.com/reports/1391729) to GitHub Security Lab - 2 upvotes, $450
+145. [Yet another SSRF query for Go](https://hackerone.com/reports/1391725) to GitHub Security Lab - 2 upvotes, $450
+146. [Yet another SSRF query for Javascript](https://hackerone.com/reports/1391728) to GitHub Security Lab - 2 upvotes, $250
+147. [Yet another SSRF query for Javascript](https://hackerone.com/reports/1391727) to GitHub Security Lab - 2 upvotes, $250
+148. [Yet another SSRF query for Javascript](https://hackerone.com/reports/1391726) to GitHub Security Lab - 2 upvotes, $250
+149. [Yet another SSRF query for Javascript](https://hackerone.com/reports/1391724) to GitHub Security Lab - 2 upvotes, $250
+150. [[Java] CWE-295: Disabled certificate validation in JXBrowser](https://hackerone.com/reports/1100379) to GitHub Security Lab - 2 upvotes, $0
+151. [[Java]: CWE 295 - Insecure TrustManager - MiTM](https://hackerone.com/reports/1264781) to GitHub Security Lab - 2 upvotes, $0
+152. [[Javascript]: [Clipboard-based XSS]](https://hackerone.com/reports/1448236) to GitHub Security Lab - 2 upvotes, $0
+153. [[C#]: Deserialization sinks](https://hackerone.com/reports/1319270) to GitHub Security Lab - 1 upvotes, $4500
+154. [[Java] CWE-089: MyBatis Mapper XML SQL Injection](https://hackerone.com/reports/1442954) to GitHub Security Lab - 1 upvotes, $4500
+155. [[CATENACYBER]: [CPP] CWE-476 Null Pointer Dereference : Another query to either missing or redundant NULL check](https://hackerone.com/reports/974370) to GitHub Security Lab - 1 upvotes, $1800
+156. [CodeQL query to detect XSLT injections](https://hackerone.com/reports/974368) to GitHub Security Lab - 1 upvotes, $1800
+157. [Java: QL Query Detector for JHipster Generated CVE-2019-16303](https://hackerone.com/reports/1065403) to GitHub Security Lab - 1 upvotes, $1800
+158. [[javascript] CWE-614: CodeQL query to detect if cookies are sent without the flag secure being set](https://hackerone.com/reports/1053048) to GitHub Security Lab - 1 upvotes, $1800
+159. [[Java] CWE-601: Add Spring URL Redirect ResponseEntity sink](https://hackerone.com/reports/1287577) to GitHub Security Lab - 1 upvotes, $1800
+160. [[Java] CWE-400: Query to detect uncontrolled thread resource consumption](https://hackerone.com/reports/1413542) to GitHub Security Lab - 1 upvotes, $1800
+161. [[Python]: JWT security-related queries](https://hackerone.com/reports/1403263) to GitHub Security Lab - 1 upvotes, $1800
 162. [3,880 Pull Requests Generated to fix JHipster RNG Vulnerability CVE-2019-16303](https://hackerone.com/reports/1065402) to GitHub Security Lab - 1 upvotes, $1500
 163. [CodeQL query to detect SSRF in Python](https://hackerone.com/reports/872094) to GitHub Security Lab - 1 upvotes, $500
 164. [Java: CWE-918 - Server Side Request Forgery (SSRF)](https://hackerone.com/reports/1008846) to GitHub Security Lab - 1 upvotes, $250

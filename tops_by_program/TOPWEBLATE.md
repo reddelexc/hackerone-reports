@@ -133,10 +133,10 @@ Top reports from Weblate program at HackerOne:
 131. [Password token validation in https://demo.weblate.org/](https://hackerone.com/reports/229987) to Weblate - 2 upvotes, $0
 132. [Captcha bypass at registration](https://hackerone.com/reports/229584) to Weblate - 2 upvotes, $0
 133. [No Rate Limit  On Add new word](https://hackerone.com/reports/479021) to Weblate - 2 upvotes, $0
-134. [Improper Password Reset Policy on https://hosted.weblate.org/](https://hackerone.com/reports/223362) to Weblate - 1 upvotes, $0
-135. [demo.weblate.org is vulnerable to SWEET32 Vulnerability](https://hackerone.com/reports/223653) to Weblate - 1 upvotes, $0
-136. [CSP "script-src" includes "unsafe-inline" in weblate.org and demo.weblate.org](https://hackerone.com/reports/231062) to Weblate - 1 upvotes, $0
-137. [Bypassing captcha in registration on Hosted site](https://hackerone.com/reports/224342) to Weblate - 1 upvotes, $0
-138. [No rate limit or captcha to identify humans](https://hackerone.com/reports/257384) to Weblate - 1 upvotes, $0
-139. [DNSSEC Zone Walk using NSEC Records](https://hackerone.com/reports/228471) to Weblate - 1 upvotes, $0
-140. [hosted.weblate.org display of unfiltered results](https://hackerone.com/reports/1454552) to Weblate - 0 upvotes, $0
+134. [hosted.weblate.org display of unfiltered results](https://hackerone.com/reports/1454552) to Weblate - 2 upvotes, $0
+135. [Improper Password Reset Policy on https://hosted.weblate.org/](https://hackerone.com/reports/223362) to Weblate - 1 upvotes, $0
+136. [demo.weblate.org is vulnerable to SWEET32 Vulnerability](https://hackerone.com/reports/223653) to Weblate - 1 upvotes, $0
+137. [CSP "script-src" includes "unsafe-inline" in weblate.org and demo.weblate.org](https://hackerone.com/reports/231062) to Weblate - 1 upvotes, $0
+138. [Bypassing captcha in registration on Hosted site](https://hackerone.com/reports/224342) to Weblate - 1 upvotes, $0
+139. [No rate limit or captcha to identify humans](https://hackerone.com/reports/257384) to Weblate - 1 upvotes, $0
+140. [DNSSEC Zone Walk using NSEC Records](https://hackerone.com/reports/228471) to Weblate - 1 upvotes, $0

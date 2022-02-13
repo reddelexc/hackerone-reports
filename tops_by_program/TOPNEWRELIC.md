@@ -2,11 +2,11 @@ Top reports from New Relic program at HackerOne:
 
 1. [Password theft login.newrelic.com via Request Smuggling](https://hackerone.com/reports/498052) to New Relic - 482 upvotes, $3000
 2. [Unsafe charts embedding implementation leads to cross-account stored XSS and SSRF](https://hackerone.com/reports/708589) to New Relic - 222 upvotes, $2500
-3. [Account Takeover via Email ID Change and Forgot Password Functionality](https://hackerone.com/reports/1089467) to New Relic - 204 upvotes, $2048
+3. [Account Takeover via Email ID Change and Forgot Password Functionality](https://hackerone.com/reports/1089467) to New Relic - 205 upvotes, $2048
 4. [Cross-account stored XSS at embedded charts](https://hackerone.com/reports/709883) to New Relic - 154 upvotes, $3625
 5. [Stored XSS in notes (charts) because of insecure chart data JSON generation](https://hackerone.com/reports/507132) to New Relic - 144 upvotes, $4250
-6. [CSTI at Plugin page leading to active stored XSS (Publisher name)](https://hackerone.com/reports/587829) to New Relic - 90 upvotes, $2500
-7. [Reflected XSS in VPN Appliance](https://hackerone.com/reports/1386438) to New Relic - 90 upvotes, $1024
+6. [Reflected XSS in VPN Appliance](https://hackerone.com/reports/1386438) to New Relic - 91 upvotes, $1024
+7. [CSTI at Plugin page leading to active stored XSS (Publisher name)](https://hackerone.com/reports/587829) to New Relic - 90 upvotes, $2500
 8. [Stored XSS via malicious key value of Synthetics monitor tag when visiting an Insights dashboard with filtering enabled](https://hackerone.com/reports/1067321) to New Relic - 80 upvotes, $2123
 9. [Urgent! Stored XSS at plugin's violations leading to account takeover](https://hackerone.com/reports/602527) to New Relic - 79 upvotes, $2500
 10. [IDOR via internal_api "users" endpoint ](https://hackerone.com/reports/349291) to New Relic - 76 upvotes, $1500
@@ -64,10 +64,10 @@ Top reports from New Relic program at HackerOne:
 62. [Full name of other accounts exposed through NR API Explorer (another workaround of #476958)](https://hackerone.com/reports/520518) to New Relic - 10 upvotes, $750
 63. [Vulnerable Link Leaks the User Names](https://hackerone.com/reports/123089) to New Relic - 10 upvotes, $0
 64. [No validation on account names](https://hackerone.com/reports/114796) to New Relic - 10 upvotes, $0
-65. [newrelic.atlassian.net - jira information disclosure](https://hackerone.com/reports/197726) to New Relic - 10 upvotes, $0
-66. [Stored XSS Via NRQL chartbuilder JSON view ](https://hackerone.com/reports/634692) to New Relic - 9 upvotes, $2500
-67. [GitHub Integration doesn't sanitize repository URLs which might be attacker-controlled](https://hackerone.com/reports/1197160) to New Relic - 9 upvotes, $512
-68. [Cache purge requests are not authenticated](https://hackerone.com/reports/154278) to New Relic - 9 upvotes, $0
+65. [Cache purge requests are not authenticated](https://hackerone.com/reports/154278) to New Relic - 10 upvotes, $0
+66. [newrelic.atlassian.net - jira information disclosure](https://hackerone.com/reports/197726) to New Relic - 10 upvotes, $0
+67. [Stored XSS Via NRQL chartbuilder JSON view ](https://hackerone.com/reports/634692) to New Relic - 9 upvotes, $2500
+68. [GitHub Integration doesn't sanitize repository URLs which might be attacker-controlled](https://hackerone.com/reports/1197160) to New Relic - 9 upvotes, $512
 69. [Session Hijacking ](https://hackerone.com/reports/167460) to New Relic - 9 upvotes, $0
 70. [Stored XSS at Synthetics private locations (planted through location label or description)](https://hackerone.com/reports/680240) to New Relic - 8 upvotes, $2500
 71. [Ability to view monitor names of other NR accounts through internal API (v3) via "monitor_id" parameter ](https://hackerone.com/reports/462321) to New Relic - 8 upvotes, $2000

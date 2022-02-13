@@ -1,7 +1,7 @@
 Top OAuth reports from HackerOne:
 
 1. [Shopify Stocky App OAuth Misconfiguration](https://hackerone.com/reports/740989) to Shopify - 513 upvotes, $5000
-2. [Chained Bugs to Leak Victim's Uber's FB Oauth Token](https://hackerone.com/reports/202781) to Uber - 386 upvotes, $7500
+2. [Chained Bugs to Leak Victim's Uber's FB Oauth Token](https://hackerone.com/reports/202781) to Uber - 387 upvotes, $7500
 3. [Insufficient OAuth callback validation which leads to Periscope account takeover](https://hackerone.com/reports/110293) to Twitter - 258 upvotes, $5040
 4. [Ability to bypass email verification for OAuth grants results in accounts takeovers on 3rd parties](https://hackerone.com/reports/922456) to GitLab - 218 upvotes, $3000
 5. [Unauthenticated blind SSRF in OAuth Jira authorization controller](https://hackerone.com/reports/398799) to GitLab - 216 upvotes, $4000
@@ -25,8 +25,8 @@ Top OAuth reports from HackerOne:
 23. [Smuggle SocialClub's Facebook OAuth Code via Referer Leakage](https://hackerone.com/reports/342709) to Rockstar Games - 35 upvotes, $750
 24. [Twitter iOS fails to validate server certificate and sends oauth token](https://hackerone.com/reports/168538) to Twitter - 34 upvotes, $2100
 25. [Open Redirect on Gitllab Oauth leading to Acount Takeover](https://hackerone.com/reports/677617) to Vercel - 34 upvotes, $0
-26. [`account_info.read` scope OAuth app access token can change token owner's account name.](https://hackerone.com/reports/1031240) to Dropbox - 32 upvotes, $1728
-27. [Image Injection vulnerability on screenshot-viewer/responsive/image may allow Facebook OAuth token theft.](https://hackerone.com/reports/655288) to Rockstar Games - 31 upvotes, $500
+26. [`account_info.read` scope OAuth app access token can change token owner's account name.](https://hackerone.com/reports/1031240) to Dropbox - 33 upvotes, $1728
+27. [Image Injection vulnerability on screenshot-viewer/responsive/image may allow Facebook OAuth token theft.](https://hackerone.com/reports/655288) to Rockstar Games - 32 upvotes, $500
 28. [User session access due to Oauth whitelist host bypass and postMessage](https://hackerone.com/reports/875938) to Mail.ru - 30 upvotes, $0
 29. [OAuth 2 Authorization Bypass via CSRF and Cross Site Flashing](https://hackerone.com/reports/136582) to Vimeo - 28 upvotes, $1000
 30. [Debug information disclosure on oauth-redirector.services.greenhouse.io](https://hackerone.com/reports/315205) to Greenhouse.io - 28 upvotes, $100
@@ -44,8 +44,8 @@ Top OAuth reports from HackerOne:
 42. [leaking Digits OAuth authorization to third party websites](https://hackerone.com/reports/166942) to Twitter - 10 upvotes, $560
 43. [Stored XSS in OAuth redirect URI ](https://hackerone.com/reports/261138) to Nextcloud - 10 upvotes, $0
 44. [Coinbase Android Application - Bitcoin Wallet Leaks OAuth Response Code](https://hackerone.com/reports/5314) to Coinbase - 9 upvotes, $1000
-45. [Open redirection in OAuth](https://hackerone.com/reports/405697) to Shopify - 9 upvotes, $0
-46. [Open redirection in OAuth](https://hackerone.com/reports/55525) to Shopify - 8 upvotes, $500
+45. [Open redirection in OAuth](https://hackerone.com/reports/55525) to Shopify - 9 upvotes, $500
+46. [Open redirection in OAuth](https://hackerone.com/reports/405697) to Shopify - 9 upvotes, $0
 47. [Image Injection on `/bully/anniversaryedition` may lead to FB's OAuth Token Theft.](https://hackerone.com/reports/659784) to Rockstar Games - 8 upvotes, $500
 48. [Race Condition in Oauth 2.0 flow can lead to malicious applications create multiple valid sessions](https://hackerone.com/reports/699112) to Razer - 8 upvotes, $250
 49. [OAuth authorization page vulnerable to clickjacking](https://hackerone.com/reports/65825) to Coinbase - 7 upvotes, $5000

@@ -11,8 +11,8 @@ Top reports from LocalTapiola program at HackerOne:
 9. [SQL Injection on /webApp/omatalousuk (viestinta.lahitapiola.fi)](https://hackerone.com/reports/179751) to LocalTapiola - 41 upvotes, $1560
 10. [SQL Injection in sijoitustalous_peruutus (viestinta.lahitapiola.fi)](https://hackerone.com/reports/190434) to LocalTapiola - 36 upvotes, $1350
 11. [PHPMYADMIN Setup is accessible without authentication on https://lml.lahitapiola.fi/](https://hackerone.com/reports/297339) to LocalTapiola - 33 upvotes, $600
-12. [SQL Injection on `/cs/Satellite` path](https://hackerone.com/reports/164739) to LocalTapiola - 27 upvotes, $400
-13. [Open Redirect (verkkopalvelu.lahitapiola.fi)](https://hackerone.com/reports/179328) to LocalTapiola - 27 upvotes, $400
+12. [Open Redirect (verkkopalvelu.lahitapiola.fi)](https://hackerone.com/reports/179328) to LocalTapiola - 28 upvotes, $400
+13. [SQL Injection on `/cs/Satellite` path](https://hackerone.com/reports/164739) to LocalTapiola - 27 upvotes, $400
 14. [SQL Injection /webApp/cancel_iltakoulu regId parameter (viestinta.lahitapiola.fi)](https://hackerone.com/reports/200818) to LocalTapiola - 26 upvotes, $1350
 15. [Persistent XSS at verkkopalvelu.tapiola.fi using spoofed React element and React v.0.13.3](https://hackerone.com/reports/139004) to LocalTapiola - 26 upvotes, $300
 16. [Reflected XSS+CSRF on secure.lahitapiola.fi](https://hackerone.com/reports/314518) to LocalTapiola - 23 upvotes, $750

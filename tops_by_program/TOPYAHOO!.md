@@ -5,28 +5,28 @@ Top reports from Yahoo! program at HackerOne:
 3. [Cross-site scripting on the main page of flickr by tagging a user.](https://hackerone.com/reports/916) to Yahoo! - 13 upvotes, $2173
 4. [Store XSS Flicker main page](https://hackerone.com/reports/940) to Yahoo! - 12 upvotes, $1960
 5. [XSS Yahoo Messenger Via Calendar.Yahoo.Com ](https://hackerone.com/reports/914) to Yahoo! - 12 upvotes, $677
-6. [REMOTE CODE EXECUTION/LOCAL FILE INCLUSION/XSPA/SSRF, view-source:http://sb*.geo.sp1.yahoo.com/, 4/6/14, #SpringClean](https://hackerone.com/reports/6674) to Yahoo! - 10 upvotes, $3000
-7. [Loadbalancer + URI XSS #3](https://hackerone.com/reports/9703) to Yahoo! - 9 upvotes, $0
+6. [REMOTE CODE EXECUTION/LOCAL FILE INCLUSION/XSPA/SSRF, view-source:http://sb*.geo.sp1.yahoo.com/, 4/6/14, #SpringClean](https://hackerone.com/reports/6674) to Yahoo! - 11 upvotes, $3000
+7. [Loadbalancer + URI XSS #3](https://hackerone.com/reports/9703) to Yahoo! - 10 upvotes, $0
 8. [readble .htaccess + Source Code Disclosure  (+ .SVN repository)](https://hackerone.com/reports/7813) to Yahoo! - 8 upvotes, $250
 9. [HK.Yahoo.Net Remote Command Execution](https://hackerone.com/reports/2127) to Yahoo! - 7 upvotes, $1276
 10. [Bypass of the Clickjacking protection on Flickr using data URL in iframes](https://hackerone.com/reports/7264) to Yahoo! - 7 upvotes, $250
 11. [From Unrestricted File Upload to Remote Command Execution](https://hackerone.com/reports/4836) to Yahoo! - 6 upvotes, $800
-12. [SQLi on http://sports.yahoo.com/nfl/draft](https://hackerone.com/reports/1538) to Yahoo! - 5 upvotes, $3705
-13. [HTML Injection on flickr screename using IOS App](https://hackerone.com/reports/1483) to Yahoo! - 5 upvotes, $800
-14. [Information Disclosure ](https://hackerone.com/reports/1091) to Yahoo! - 5 upvotes, $0
-15. [Local file inclusion ](https://hackerone.com/reports/1675) to Yahoo! - 4 upvotes, $1390
-16. [Significant Information Disclosure/Load balancer access, http://extprodweb11.cc.gq1.yahoo.com/, 4/8/14, #SpringClean](https://hackerone.com/reports/6194) to Yahoo! - 4 upvotes, $500
-17. [reflected XSS, http://extprodweb11.cc.gq1.yahoo.com/, 4/8/14, #SpringClean](https://hackerone.com/reports/6195) to Yahoo! - 4 upvotes, $300
-18. [Directory Traversal ](https://hackerone.com/reports/1092) to Yahoo! - 4 upvotes, $0
-19. [ads.yahoo.com Unvalidate open url redirection](https://hackerone.com/reports/7731) to Yahoo! - 4 upvotes, $0
-20. [Security.allowDomain("*") in SWFs on img.autos.yahoo.com allows data theft from Yahoo Mail (and others)](https://hackerone.com/reports/1171) to Yahoo! - 3 upvotes, $2500
-21. [SQL Injection ON HK.Promotion](https://hackerone.com/reports/3039) to Yahoo! - 3 upvotes, $1000
-22. [Flickr: Invitations disclosure (resend feature)](https://hackerone.com/reports/1533) to Yahoo! - 3 upvotes, $750
-23. [https://caldav.calendar.yahoo.com/ - XSS (STORED) ](https://hackerone.com/reports/8281) to Yahoo! - 3 upvotes, $500
-24. [invite1.us2.msg.vip.bf1.yahoo.com/ - CSRF/email disclosure](https://hackerone.com/reports/7608) to Yahoo! - 3 upvotes, $400
-25. [XSS Vulnerability (my.yahoo.com)](https://hackerone.com/reports/4256) to Yahoo! - 3 upvotes, $250
-26. [http://conf.member.yahoo.com configuration file disclosure](https://hackerone.com/reports/2598) to Yahoo! - 3 upvotes, $100
-27. [Java Applet Execution On Y! Messenger](https://hackerone.com/reports/933) to Yahoo! - 3 upvotes, $0
+12. [HTML Injection on flickr screename using IOS App](https://hackerone.com/reports/1483) to Yahoo! - 6 upvotes, $800
+13. [Information Disclosure ](https://hackerone.com/reports/1091) to Yahoo! - 6 upvotes, $0
+14. [SQLi on http://sports.yahoo.com/nfl/draft](https://hackerone.com/reports/1538) to Yahoo! - 5 upvotes, $3705
+15. [Directory Traversal ](https://hackerone.com/reports/1092) to Yahoo! - 5 upvotes, $0
+16. [Local file inclusion ](https://hackerone.com/reports/1675) to Yahoo! - 4 upvotes, $1390
+17. [Significant Information Disclosure/Load balancer access, http://extprodweb11.cc.gq1.yahoo.com/, 4/8/14, #SpringClean](https://hackerone.com/reports/6194) to Yahoo! - 4 upvotes, $500
+18. [reflected XSS, http://extprodweb11.cc.gq1.yahoo.com/, 4/8/14, #SpringClean](https://hackerone.com/reports/6195) to Yahoo! - 4 upvotes, $300
+19. [Java Applet Execution On Y! Messenger](https://hackerone.com/reports/933) to Yahoo! - 4 upvotes, $0
+20. [ads.yahoo.com Unvalidate open url redirection](https://hackerone.com/reports/7731) to Yahoo! - 4 upvotes, $0
+21. [Security.allowDomain("*") in SWFs on img.autos.yahoo.com allows data theft from Yahoo Mail (and others)](https://hackerone.com/reports/1171) to Yahoo! - 3 upvotes, $2500
+22. [SQL Injection ON HK.Promotion](https://hackerone.com/reports/3039) to Yahoo! - 3 upvotes, $1000
+23. [Flickr: Invitations disclosure (resend feature)](https://hackerone.com/reports/1533) to Yahoo! - 3 upvotes, $750
+24. [https://caldav.calendar.yahoo.com/ - XSS (STORED) ](https://hackerone.com/reports/8281) to Yahoo! - 3 upvotes, $500
+25. [invite1.us2.msg.vip.bf1.yahoo.com/ - CSRF/email disclosure](https://hackerone.com/reports/7608) to Yahoo! - 3 upvotes, $400
+26. [XSS Vulnerability (my.yahoo.com)](https://hackerone.com/reports/4256) to Yahoo! - 3 upvotes, $250
+27. [http://conf.member.yahoo.com configuration file disclosure](https://hackerone.com/reports/2598) to Yahoo! - 3 upvotes, $100
 28. [In Fantasy Sports iOS app, signup page is requested over HTTP](https://hackerone.com/reports/2101) to Yahoo! - 3 upvotes, $0
 29. [caesary.yahoo.net Blind Sql Injection](https://hackerone.com/reports/21899) to Yahoo! - 3 upvotes, $0
 30. [Stored Cross Site Scripting Vulnerability in Yahoo Mail](https://hackerone.com/reports/4277) to Yahoo! - 3 upvotes, $0
@@ -34,22 +34,22 @@ Top reports from Yahoo! program at HackerOne:
 32. [information disclosure (LOAD BALANCER + URI XSS)](https://hackerone.com/reports/8284) to Yahoo! - 2 upvotes, $300
 33. [XSS in Yahoo! Web Analytics](https://hackerone.com/reports/5442) to Yahoo! - 2 upvotes, $100
 34. [Default /docs folder of PHPBB3 installation on gamesnet.yahoo.com](https://hackerone.com/reports/17506) to Yahoo! - 2 upvotes, $50
-35. [Yahoo YQL Injection? ](https://hackerone.com/reports/1407) to Yahoo! - 2 upvotes, $0
-36. [Open Redirect via Request-URI](https://hackerone.com/reports/15298) to Yahoo! - 2 upvotes, $0
-37. [XSS using yql and developers console proxy](https://hackerone.com/reports/1011) to Yahoo! - 2 upvotes, $0
-38. [Bypass of anti-SSRF defenses in YahooCacheSystem (affecting at least YQL and Pipes)](https://hackerone.com/reports/1066) to Yahoo! - 2 upvotes, $0
-39. [XSS Reflected - Yahoo Travel](https://hackerone.com/reports/1553) to Yahoo! - 2 upvotes, $0
-40. [Yahoo mail login page bruteforce protection bypass](https://hackerone.com/reports/2596) to Yahoo! - 2 upvotes, $0
-41. [Clickjacking at surveylink.yahoo.com](https://hackerone.com/reports/3578) to Yahoo! - 2 upvotes, $0
-42. [Almost all the subdomains are infected.](https://hackerone.com/reports/4359) to Yahoo! - 2 upvotes, $0
-43. [http://us.rd.yahoo.com/](https://hackerone.com/reports/12035) to Yahoo! - 2 upvotes, $0
-44. [XSS on Every sports.yahoo.com page](https://hackerone.com/reports/2168) to Yahoo! - 1 upvotes, $1500
-45. [Server Side Request Forgery](https://hackerone.com/reports/4461) to Yahoo! - 1 upvotes, $500
-46. [XSS in https://hk.user.auctions.yahoo.com](https://hackerone.com/reports/7266) to Yahoo! - 1 upvotes, $500
-47. [Comment Spoofing  at  http://suggestions.yahoo.com/detail/?prop=directory&fid=97721](https://hackerone.com/reports/6665) to Yahoo! - 1 upvotes, $500
-48. [Cross-origin issue on rmaiauth.ads.vip.bf1.yahoo.com](https://hackerone.com/reports/6268) to Yahoo! - 1 upvotes, $250
-49. [Yahoo! Reflected XSS](https://hackerone.com/reports/18279) to Yahoo! - 1 upvotes, $250
-50. [ClickJacking on http://au.launch.yahoo.com](https://hackerone.com/reports/1229) to Yahoo! - 1 upvotes, $0
+35. [ClickJacking on http://au.launch.yahoo.com](https://hackerone.com/reports/1229) to Yahoo! - 2 upvotes, $0
+36. [Yahoo YQL Injection? ](https://hackerone.com/reports/1407) to Yahoo! - 2 upvotes, $0
+37. [Open Redirect via Request-URI](https://hackerone.com/reports/15298) to Yahoo! - 2 upvotes, $0
+38. [XSS using yql and developers console proxy](https://hackerone.com/reports/1011) to Yahoo! - 2 upvotes, $0
+39. [Bypass of anti-SSRF defenses in YahooCacheSystem (affecting at least YQL and Pipes)](https://hackerone.com/reports/1066) to Yahoo! - 2 upvotes, $0
+40. [XSS Reflected - Yahoo Travel](https://hackerone.com/reports/1553) to Yahoo! - 2 upvotes, $0
+41. [Yahoo mail login page bruteforce protection bypass](https://hackerone.com/reports/2596) to Yahoo! - 2 upvotes, $0
+42. [Clickjacking at surveylink.yahoo.com](https://hackerone.com/reports/3578) to Yahoo! - 2 upvotes, $0
+43. [Almost all the subdomains are infected.](https://hackerone.com/reports/4359) to Yahoo! - 2 upvotes, $0
+44. [http://us.rd.yahoo.com/](https://hackerone.com/reports/12035) to Yahoo! - 2 upvotes, $0
+45. [XSS on Every sports.yahoo.com page](https://hackerone.com/reports/2168) to Yahoo! - 1 upvotes, $1500
+46. [Server Side Request Forgery](https://hackerone.com/reports/4461) to Yahoo! - 1 upvotes, $500
+47. [XSS in https://hk.user.auctions.yahoo.com](https://hackerone.com/reports/7266) to Yahoo! - 1 upvotes, $500
+48. [Comment Spoofing  at  http://suggestions.yahoo.com/detail/?prop=directory&fid=97721](https://hackerone.com/reports/6665) to Yahoo! - 1 upvotes, $500
+49. [Cross-origin issue on rmaiauth.ads.vip.bf1.yahoo.com](https://hackerone.com/reports/6268) to Yahoo! - 1 upvotes, $250
+50. [Yahoo! Reflected XSS](https://hackerone.com/reports/18279) to Yahoo! - 1 upvotes, $250
 51. [Vulnerability found, XSS (Cross site Scripting)](https://hackerone.com/reports/1258) to Yahoo! - 1 upvotes, $0
 52. [HTML Code Injection ](https://hackerone.com/reports/1376) to Yahoo! - 1 upvotes, $0
 53. [Yahoo open redirect using ad](https://hackerone.com/reports/2322) to Yahoo! - 1 upvotes, $0

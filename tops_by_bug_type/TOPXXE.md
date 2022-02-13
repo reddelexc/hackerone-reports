@@ -14,7 +14,7 @@ Top XXE reports from HackerOne:
 12. [[RCE] Unserialize to XXE - file disclosure on ams.upload.pornhub.com](https://hackerone.com/reports/142562) to Pornhub - 88 upvotes, $10000
 13. [Blind XXE via Powerpoint files](https://hackerone.com/reports/334488) to Open-Xchange - 86 upvotes, $2000
 14. [blind XXE in autodiscover parser](https://hackerone.com/reports/315837) to Mail.ru - 70 upvotes, $5000
-15. [LFI and SSRF via XXE in emblem editor](https://hackerone.com/reports/347139) to Rockstar Games - 67 upvotes, $1500
+15. [LFI and SSRF via XXE in emblem editor](https://hackerone.com/reports/347139) to Rockstar Games - 68 upvotes, $1500
 16. [Blind OOB XXE At "http://ubermovement.com/"](https://hackerone.com/reports/154096) to Uber - 55 upvotes, $500
 17. [XXE на webdav.mail.ru -  PROPFIND/PROPPATCH](https://hackerone.com/reports/758978) to Mail.ru - 54 upvotes, $10000
 18. [XXE on ██████████ by bypassing WAF ████](https://hackerone.com/reports/433996) to QIWI - 50 upvotes, $5000
@@ -33,8 +33,8 @@ Top XXE reports from HackerOne:
 31. [Blind XXE on pu.vk.com](https://hackerone.com/reports/296622) to VK.com - 16 upvotes, $500
 32. [XXE in the Connector Designer](https://hackerone.com/reports/112116) to Bime - 13 upvotes, $750
 33. [[marketplace.informatica.com] - XXE](https://hackerone.com/reports/106797) to Informatica - 13 upvotes, $0
-34. [OOB XXE ](https://hackerone.com/reports/690387) to Mail.ru - 12 upvotes, $500
-35. [AEM forms XXE Vulnerability](https://hackerone.com/reports/1321070) to Adobe - 12 upvotes, $0
+34. [AEM forms XXE Vulnerability](https://hackerone.com/reports/1321070) to Adobe - 13 upvotes, $0
+35. [OOB XXE ](https://hackerone.com/reports/690387) to Mail.ru - 12 upvotes, $500
 36. [blind XXE when uploading avatar in mymail phone app](https://hackerone.com/reports/277341) to Mail.ru - 11 upvotes, $1000
 37. [XXE issue](https://hackerone.com/reports/130661) to Moneybird - 11 upvotes, $150
 38. [[rev-app.informatica.com] - XXE via SAML](https://hackerone.com/reports/106865) to Informatica - 11 upvotes, $0

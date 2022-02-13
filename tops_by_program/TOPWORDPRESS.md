@@ -8,7 +8,7 @@ Top reports from WordPress program at HackerOne:
 6. [Reflected XSS on https://make.wordpress.org via 'channel' parameter](https://hackerone.com/reports/659419) to WordPress - 95 upvotes, $387
 7. [CSRF to HTML Injection in Comments](https://hackerone.com/reports/428019) to WordPress - 94 upvotes, $950
 8. [Clickjacking on donation page](https://hackerone.com/reports/921709) to WordPress - 88 upvotes, $50
-9. [Privilege Escalation via REST API to Administrator leads to RCE](https://hackerone.com/reports/1107282) to WordPress - 83 upvotes, $1125
+9. [Privilege Escalation via REST API to Administrator leads to RCE](https://hackerone.com/reports/1107282) to WordPress - 84 upvotes, $1125
 10. [Potential unprivileged Stored XSS through wp_targeted_link_rel](https://hackerone.com/reports/509930) to WordPress - 80 upvotes, $650
 11. [Mssing Authorization on Private Message replies (BuddyPress)](https://hackerone.com/reports/490782) to WordPress - 63 upvotes, $375
 12. [plugins.trac.wordpress.org likely vulnerable to Cross Site Tracing (xst), TRACE HTTP method should be disabled](https://hackerone.com/reports/222692) to WordPress - 55 upvotes, $150
@@ -43,8 +43,8 @@ Top reports from WordPress program at HackerOne:
 41. [Buddypress 2.9.1 - Exceeding the maximum upload size  - XSS leading to potential RCE. ](https://hackerone.com/reports/263109) to WordPress - 14 upvotes, $275
 42. [Open Redirect on the nl.wordpress.net](https://hackerone.com/reports/309058) to WordPress - 14 upvotes, $50
 43. [Clickjacking wordcamp.org](https://hackerone.com/reports/230581) to WordPress - 14 upvotes, $0
-44. [[mercantile.wordpress.org] Reflected XSS](https://hackerone.com/reports/240256) to WordPress - 13 upvotes, $225
-45. [Stored XSS in Post Preview as Contributor](https://hackerone.com/reports/497724) to WordPress - 12 upvotes, $650
+44. [Stored XSS in Post Preview as Contributor](https://hackerone.com/reports/497724) to WordPress - 13 upvotes, $650
+45. [[mercantile.wordpress.org] Reflected XSS](https://hackerone.com/reports/240256) to WordPress - 13 upvotes, $225
 46. [Missing SSL can leak job token ](https://hackerone.com/reports/222036) to WordPress - 12 upvotes, $0
 47. [pre-auth Stored XSS in comments via javascript: url when administrator edits user supplied comment](https://hackerone.com/reports/633231) to WordPress - 11 upvotes, $650
 48. [Clickjacking mercantile.wordpress.org](https://hackerone.com/reports/264125) to WordPress - 11 upvotes, $0
