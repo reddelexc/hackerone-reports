@@ -19,7 +19,7 @@ Top Open Redirect reports from HackerOne:
 17. [Open Redirect on http://events.hackerone.com/redirect?url=https://naglinagli.github.io](https://hackerone.com/reports/1028345) to HackerOne - 50 upvotes, $0
 18. [[crm.unikrn.com] Open Redirect](https://hackerone.com/reports/297803) to Unikrn - 49 upvotes, $50
 19. [Open Redirect on https://www.twitterflightschool.com/widgets/experience?destination_url=https://evil.com](https://hackerone.com/reports/1073565) to Twitter - 49 upvotes, $0
-20. [Reflected xss and open redirect on larksuite.com using /?back_uri= parameter.](https://hackerone.com/reports/955606) to Lark Technologies - 45 upvotes, $500
+20. [Reflected xss and open redirect on larksuite.com using /?back_uri= parameter.](https://hackerone.com/reports/955606) to Lark Technologies - 46 upvotes, $500
 21. [Open redirect vuln on login](https://hackerone.com/reports/608031) to Vercel - 45 upvotes, $0
 22. [Open redirect using theme install](https://hackerone.com/reports/101962) to Shopify - 44 upvotes, $500
 23. [[dev.twitter.com] XSS and Open Redirect Protection Bypass](https://hackerone.com/reports/330008) to Twitter - 43 upvotes, $1120
@@ -55,11 +55,11 @@ Top Open Redirect reports from HackerOne:
 53. [Open redirect in semrush.com](https://hackerone.com/reports/716976) to Semrush - 23 upvotes, $150
 54. [Open redirect on https://signin.rockstargames.com/connect/authorize/rsg](https://hackerone.com/reports/1101771) to Rockstar Games - 23 upvotes, $150
 55. [Open Redirect at *.myshopify.com/account/login?checkout_url=](https://hackerone.com/reports/103772) to Shopify - 22 upvotes, $500
-56. [open redirect while login at https://apps.dev.jupiterone.io can leak access code.](https://hackerone.com/reports/591266) to LifeOmic - 22 upvotes, $350
-57. [Steal any users `access_token` via open redirect in https://streamlabs.com/global/identity?popup=1&r=](https://hackerone.com/reports/1327742) to Logitech - 22 upvotes, $200
-58. [Open Redirect](https://hackerone.com/reports/311330) to Semrush - 22 upvotes, $100
-59. [Open redirect at app.goodhire.com via ReturnUrl parameter](https://hackerone.com/reports/240091) to Inflection - 21 upvotes, $750
-60. [Interstitial redirect bypass / open redirect in https://hackerone.com/zendesk_session](https://hackerone.com/reports/111968) to HackerOne - 21 upvotes, $500
+56. [Interstitial redirect bypass / open redirect in https://hackerone.com/zendesk_session](https://hackerone.com/reports/111968) to HackerOne - 22 upvotes, $500
+57. [open redirect while login at https://apps.dev.jupiterone.io can leak access code.](https://hackerone.com/reports/591266) to LifeOmic - 22 upvotes, $350
+58. [Steal any users `access_token` via open redirect in https://streamlabs.com/global/identity?popup=1&r=](https://hackerone.com/reports/1327742) to Logitech - 22 upvotes, $200
+59. [Open Redirect](https://hackerone.com/reports/311330) to Semrush - 22 upvotes, $100
+60. [Open redirect at app.goodhire.com via ReturnUrl parameter](https://hackerone.com/reports/240091) to Inflection - 21 upvotes, $750
 61. [CBC "cut and paste" attack may cause Open Redirect(even XSS)](https://hackerone.com/reports/126203) to Uber - 20 upvotes, $500
 62. [use of unsafe host header leads to open redirect](https://hackerone.com/reports/210875) to Rockstar Games - 20 upvotes, $300
 63. [Instant open redirect on Live preview WEB Ide opening](https://hackerone.com/reports/437142) to GitLab - 19 upvotes, $1000

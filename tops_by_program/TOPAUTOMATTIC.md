@@ -3,7 +3,7 @@ Top reports from Automattic program at HackerOne:
 1. [Denial of service to WP-JSON API by cache poisoning the CORS allow origin header](https://hackerone.com/reports/591302) to Automattic - 385 upvotes, $550
 2. [Stored XSS in wordpress.com](https://hackerone.com/reports/733248) to Automattic - 346 upvotes, $650
 3. [IDOR when editing users leads to Account Takeover without User Interaction at CrowdSignal](https://hackerone.com/reports/915114) to Automattic - 178 upvotes, $650
-4. [Sql injection on docs.atavist.com](https://hackerone.com/reports/1039315) to Automattic - 151 upvotes, $200
+4. [Sql injection on docs.atavist.com](https://hackerone.com/reports/1039315) to Automattic - 153 upvotes, $200
 5. [IDOR leads to Edit Anyone's Blogs / Websites](https://hackerone.com/reports/974222) to Automattic - 140 upvotes, $200
 6. [Permanent DoS with one click.](https://hackerone.com/reports/975827) to Automattic - 123 upvotes, $250
 7. [[intensedebate.com] SQL Injection Time Based On /js/commentAction/](https://hackerone.com/reports/1044698) to Automattic - 120 upvotes, $350
@@ -14,7 +14,7 @@ Top reports from Automattic program at HackerOne:
 12. [DOM-Based XSS in tumblr.com](https://hackerone.com/reports/882546) to Automattic - 88 upvotes, $350
 13. [XSS in Email Input [intensedebate.com]](https://hackerone.com/reports/1037714) to Automattic - 88 upvotes, $100
 14. [Authenticated Code Execution through Phar deserialization in CSV Importer as Shop manager in WooCommerce](https://hackerone.com/reports/403083) to Automattic - 84 upvotes, $350
-15. [SQL Injection  intensedebate.com](https://hackerone.com/reports/1069561) to Automattic - 81 upvotes, $350
+15. [SQL Injection  intensedebate.com](https://hackerone.com/reports/1069561) to Automattic - 82 upvotes, $350
 16. [IDOR when moving contents at CrowdSignal](https://hackerone.com/reports/915127) to Automattic - 76 upvotes, $550
 17. [Stored XSS on https://app.crowdsignal.com/surveys/[Survey-Id]/question - Bypass](https://hackerone.com/reports/974271) to Automattic - 74 upvotes, $150
 18. [Reflected XSS in https://www.intensedebate.com/js/getCommentLink.php](https://hackerone.com/reports/1043804) to Automattic - 73 upvotes, $250

@@ -31,8 +31,8 @@ Top OAuth reports from HackerOne:
 29. [OAuth 2 Authorization Bypass via CSRF and Cross Site Flashing](https://hackerone.com/reports/136582) to Vimeo - 28 upvotes, $1000
 30. [Debug information disclosure on oauth-redirector.services.greenhouse.io](https://hackerone.com/reports/315205) to Greenhouse.io - 28 upvotes, $100
 31. [Open Redirect through POST Request in OAuth](https://hackerone.com/reports/1129761) to Moneybird - 27 upvotes, $50
-32. [[Critical] - Steal OAuth Tokens](https://hackerone.com/reports/131202) to Twitter - 23 upvotes, $840
-33. [XSS in OAuth Redirect Url](https://hackerone.com/reports/163707) to Dropbox - 20 upvotes, $0
+32. [[Critical] - Steal OAuth Tokens](https://hackerone.com/reports/131202) to Twitter - 24 upvotes, $840
+33. [XSS in OAuth Redirect Url](https://hackerone.com/reports/163707) to Dropbox - 21 upvotes, $0
 34. [Open redirect in https://www.rockstargames.com/GTAOnline/restricted-content/agegate/form may lead to Facebook OAuth token theft](https://hackerone.com/reports/798121) to Rockstar Games - 19 upvotes, $750
 35. [Account takeover via Pornhub Oauth](https://hackerone.com/reports/192648) to YouPorn - 17 upvotes, $1000
 36. [[qiwi.com] Oauth захват аккаунта](https://hackerone.com/reports/159507) to QIWI - 17 upvotes, $950

@@ -8,29 +8,29 @@ Top SSRF reports from HackerOne:
 6. [SSRF on project import via the remote_attachment_url on a Note](https://hackerone.com/reports/826361) to GitLab - 337 upvotes, $10000
 7. [Server Side Request Forgery mitigation bypass](https://hackerone.com/reports/632101) to GitLab - 330 upvotes, $3500
 8. [SSRF on fleet.city-mobil.ru leads to local file read](https://hackerone.com/reports/748069) to Mail.ru - 272 upvotes, $6000
-9. [SSRF  leaking internal google cloud data through upload function [SSH Keys, etc..]](https://hackerone.com/reports/549882) to Vimeo - 242 upvotes, $5000
+9. [SSRF  leaking internal google cloud data through upload function [SSH Keys, etc..]](https://hackerone.com/reports/549882) to Vimeo - 244 upvotes, $5000
 10. [SSRF & LFR on city-mobil.ru](https://hackerone.com/reports/748128) to Mail.ru - 237 upvotes, $6000
 11. [Unsafe charts embedding implementation leads to cross-account stored XSS and SSRF](https://hackerone.com/reports/708589) to New Relic - 222 upvotes, $2500
-12. [Unauthenticated blind SSRF in OAuth Jira authorization controller](https://hackerone.com/reports/398799) to GitLab - 216 upvotes, $4000
-13. [Full read SSRF in www.evernote.com that can leak aws metadata and local file inclusion](https://hackerone.com/reports/1189367) to Evernote - 215 upvotes, $5000
-14. [Unauthenticated SSRF in jira.tochka.com leading to RCE in confluence.bank24.int](https://hackerone.com/reports/713900) to QIWI - 213 upvotes, $1000
-15. [Full Read SSRF on Gitlab's Internal Grafana](https://hackerone.com/reports/878779) to GitLab - 200 upvotes, $12000
-16. [Full Response SSRF via Google Drive](https://hackerone.com/reports/1406938) to Dropbox - 197 upvotes, $17576
+12. [Full Response SSRF via Google Drive](https://hackerone.com/reports/1406938) to Dropbox - 220 upvotes, $17576
+13. [Full read SSRF in www.evernote.com that can leak aws metadata and local file inclusion](https://hackerone.com/reports/1189367) to Evernote - 217 upvotes, $5000
+14. [Unauthenticated blind SSRF in OAuth Jira authorization controller](https://hackerone.com/reports/398799) to GitLab - 216 upvotes, $4000
+15. [Unauthenticated SSRF in jira.tochka.com leading to RCE in confluence.bank24.int](https://hackerone.com/reports/713900) to QIWI - 213 upvotes, $1000
+16. [Full Read SSRF on Gitlab's Internal Grafana](https://hackerone.com/reports/878779) to GitLab - 200 upvotes, $12000
 17. [SSRF in webhooks leads to AWS private keys disclosure](https://hackerone.com/reports/508459) to Omise - 190 upvotes, $700
 18. [Stored XSS & SSRF in Lark Docs](https://hackerone.com/reports/892049) to Lark Technologies - 168 upvotes, $3000
 19. [SSRF on duckduckgo.com/iu/](https://hackerone.com/reports/398641) to DuckDuckGo - 155 upvotes, $0
 20. [Server Side Request Forgery](https://hackerone.com/reports/644238) to Lark Technologies - 153 upvotes, $1500
 21. [External SSRF and Local File Read via video upload due to vulnerable FFmpeg HLS processing](https://hackerone.com/reports/1062888) to TikTok - 137 upvotes, $2727
 22. [SSRF in clients.city-mobil.ru](https://hackerone.com/reports/712103) to Mail.ru - 132 upvotes, $1500
-23. [Blind SSRF on errors.hackerone.net due to Sentry misconfiguration](https://hackerone.com/reports/374737) to HackerOne - 130 upvotes, $3500
-24. [SSRF in filtering on relap.io](https://hackerone.com/reports/739962) to Mail.ru - 129 upvotes, $1700
-25. [SSRF chained to hit internal host leading to another SSRF which allows to read internal images.](https://hackerone.com/reports/826097) to PlayStation - 129 upvotes, $1000
+23. [SSRF chained to hit internal host leading to another SSRF which allows to read internal images.](https://hackerone.com/reports/826097) to PlayStation - 131 upvotes, $1000
+24. [Blind SSRF on errors.hackerone.net due to Sentry misconfiguration](https://hackerone.com/reports/374737) to HackerOne - 130 upvotes, $3500
+25. [SSRF in filtering on relap.io](https://hackerone.com/reports/739962) to Mail.ru - 129 upvotes, $1700
 26. [SSRF on music.line.me through getXML.php](https://hackerone.com/reports/746024) to LINE - 128 upvotes, $4500
 27. [SSRF In Get Video Contents](https://hackerone.com/reports/643622) to Semrush - 114 upvotes, $500
 28. [XXE Injection through SVG image upload leads to SSRF](https://hackerone.com/reports/897244) to Zivver - 110 upvotes, $0
-29. [[city-mobil.ru] SSRF & limited LFR on /taxiserv/photoeditor/save endpoint via base64 POST parameter](https://hackerone.com/reports/853068) to Mail.ru - 94 upvotes, $6000
-30. [SSRF on image renderer](https://hackerone.com/reports/811136) to PlayStation - 92 upvotes, $1000
-31. [Full read SSRF via Lark Docs `import as docs` feature ](https://hackerone.com/reports/1409727) to Lark Technologies - 91 upvotes, $5000
+29. [Full read SSRF via Lark Docs `import as docs` feature ](https://hackerone.com/reports/1409727) to Lark Technologies - 95 upvotes, $5000
+30. [[city-mobil.ru] SSRF & limited LFR on /taxiserv/photoeditor/save endpoint via base64 POST parameter](https://hackerone.com/reports/853068) to Mail.ru - 94 upvotes, $6000
+31. [SSRF on image renderer](https://hackerone.com/reports/811136) to PlayStation - 93 upvotes, $1000
 32. [Blind SSRF in horizon-heat](https://hackerone.com/reports/893856) to Mail.ru - 91 upvotes, $2500
 33. [SSRF in api.slack.com, using slash commands and bypassing the protections.](https://hackerone.com/reports/381129) to Slack - 78 upvotes, $500
 34. [SSRF and LFI in site-audit tool](https://hackerone.com/reports/794099) to Semrush - 77 upvotes, $2000
@@ -204,13 +204,13 @@ Top SSRF reports from HackerOne:
 202. [Blind SSRF on infodesk.engelvoelkers.com via proxy.php](https://hackerone.com/reports/1051431) to Engel & Völkers Technology GmbH - 4 upvotes, $0
 203. [XXE and SSRF on webmaster.mail.ru](https://hackerone.com/reports/12583) to Mail.ru - 3 upvotes, $700
 204. [SSRF via 'Insert Image' feature of Products/Collections/Frontpage](https://hackerone.com/reports/67389) to Shopify - 3 upvotes, $500
-205. [SSRF on https://whitehataudit.slack.com/account/photo](https://hackerone.com/reports/14127) to Slack - 3 upvotes, $300
-206. [SSRF через Share-ботов](https://hackerone.com/reports/197365) to VK.com - 3 upvotes, $300
-207. [Internal GET SSRF via CSRF with Press This scan feature](https://hackerone.com/reports/110801) to Automattic - 3 upvotes, $250
-208. [SSRF at apps.nextcloud.com/developer/apps/releases/new](https://hackerone.com/reports/213358) to Nextcloud - 3 upvotes, $0
-209. [https://████████ Impacted by DNN ImageHandler SSRF](https://hackerone.com/reports/482634) to U.S. Dept Of Defense - 3 upvotes, $0
-210. [Yet another SSRF query for Go](https://hackerone.com/reports/1391772) to GitHub Security Lab - 2 upvotes, $450
-211. [Yet another SSRF query for Go](https://hackerone.com/reports/1391771) to GitHub Security Lab - 2 upvotes, $450
+205. [Yet another SSRF query for Go](https://hackerone.com/reports/1391771) to GitHub Security Lab - 3 upvotes, $450
+206. [SSRF on https://whitehataudit.slack.com/account/photo](https://hackerone.com/reports/14127) to Slack - 3 upvotes, $300
+207. [SSRF через Share-ботов](https://hackerone.com/reports/197365) to VK.com - 3 upvotes, $300
+208. [Internal GET SSRF via CSRF with Press This scan feature](https://hackerone.com/reports/110801) to Automattic - 3 upvotes, $250
+209. [SSRF at apps.nextcloud.com/developer/apps/releases/new](https://hackerone.com/reports/213358) to Nextcloud - 3 upvotes, $0
+210. [https://████████ Impacted by DNN ImageHandler SSRF](https://hackerone.com/reports/482634) to U.S. Dept Of Defense - 3 upvotes, $0
+211. [Yet another SSRF query for Go](https://hackerone.com/reports/1391772) to GitHub Security Lab - 2 upvotes, $450
 212. [Yet another SSRF query for Go](https://hackerone.com/reports/1391729) to GitHub Security Lab - 2 upvotes, $450
 213. [Yet another SSRF query for Go](https://hackerone.com/reports/1391725) to GitHub Security Lab - 2 upvotes, $450
 214. [SSRF vulnerability (access to metadata server on EC2 and OpenStack)](https://hackerone.com/reports/53088) to Phabricator - 2 upvotes, $300

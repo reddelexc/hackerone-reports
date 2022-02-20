@@ -50,8 +50,8 @@ Top reports from Mail.ru program at HackerOne:
 48. [Blind SSRF in horizon-heat](https://hackerone.com/reports/893856) to Mail.ru - 91 upvotes, $2500
 49. [turboslim.lady.mail.ru - Blind sql-injection.](https://hackerone.com/reports/795291) to Mail.ru - 90 upvotes, $5000
 50. [Stored XSS](https://hackerone.com/reports/408978) to Mail.ru - 89 upvotes, $500
-51. [capsula.mail.ru - Admin blind stored XSS](https://hackerone.com/reports/874387) to Mail.ru - 86 upvotes, $1500
-52. [Avatar upload allows arbitrary file overwriting](https://hackerone.com/reports/671605) to Mail.ru - 86 upvotes, $750
+51. [Avatar upload allows arbitrary file overwriting](https://hackerone.com/reports/671605) to Mail.ru - 87 upvotes, $750
+52. [capsula.mail.ru - Admin blind stored XSS](https://hackerone.com/reports/874387) to Mail.ru - 86 upvotes, $1500
 53. [SQL injection on jd.mail.ru](https://hackerone.com/reports/365011) to Mail.ru - 86 upvotes, $300
 54. [Access User Tickets via IDOR in [widget.support.my.games]](https://hackerone.com/reports/1005315) to Mail.ru - 85 upvotes, $2000
 55. [3igames.mail.ru SQL Injection ](https://hackerone.com/reports/790005) to Mail.ru - 83 upvotes, $1500
@@ -115,10 +115,10 @@ Top reports from Mail.ru program at HackerOne:
 113. [[special.mail.ru] Information Disclosure](https://hackerone.com/reports/520883) to Mail.ru - 39 upvotes, $500
 114. [API method at api.my.games allows to enumerate user emails](https://hackerone.com/reports/758401) to Mail.ru - 39 upvotes, $400
 115. [Forgot Password Page SMS Brute Force could lead to Account Takeover using Android/IOS app "About the house" via api.prodom.smart.space](https://hackerone.com/reports/944392) to Mail.ru - 38 upvotes, $1500
-116. [ unauthorized Access To Elastic DB ](https://hackerone.com/reports/1074996) to Mail.ru - 37 upvotes, $150
-117. [CSRF on api.my.games due to improper validation of token allows an attacker to delete other users notifications](https://hackerone.com/reports/1044933) to Mail.ru - 37 upvotes, $100
-118. [CSRF Vulnerability at https://aw.my.com/](https://hackerone.com/reports/643039) to Mail.ru - 37 upvotes, $0
-119. [blog/wp-json/wp/v2/users FILE is enable it will used for bruteforce attack the admin panel at   blog/wp-login.php](https://hackerone.com/reports/1403302) to Mail.ru - 37 upvotes, $0
+116. [blog/wp-json/wp/v2/users FILE is enable it will used for bruteforce attack the admin panel at   blog/wp-login.php](https://hackerone.com/reports/1403302) to Mail.ru - 38 upvotes, $0
+117. [ unauthorized Access To Elastic DB ](https://hackerone.com/reports/1074996) to Mail.ru - 37 upvotes, $150
+118. [CSRF on api.my.games due to improper validation of token allows an attacker to delete other users notifications](https://hackerone.com/reports/1044933) to Mail.ru - 37 upvotes, $100
+119. [CSRF Vulnerability at https://aw.my.com/](https://hackerone.com/reports/643039) to Mail.ru - 37 upvotes, $0
 120. [Blind SSRF на calendar.mail.ru при импорте календаря](https://hackerone.com/reports/758948) to Mail.ru - 36 upvotes, $5000
 121. [Shell upload in http://widget.support.my.com/](https://hackerone.com/reports/317043) to Mail.ru - 36 upvotes, $1000
 122. [IDOR в списке пользователей по домену в relap.io](https://hackerone.com/reports/739752) to Mail.ru - 36 upvotes, $500

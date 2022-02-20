@@ -97,9 +97,9 @@ Top DoS reports from HackerOne:
 95. [Content length restriction bypass can lead to DOS by reading large files on gip.rocks](https://hackerone.com/reports/203388) to Gratipay - 11 upvotes, $0
 96. [`memjs` allocates and stores buffers on typed input, resulting in DoS and uninitialized memory usage](https://hackerone.com/reports/319809) to Node.js third-party modules - 11 upvotes, $0
 97. [Application level denial of service due to shutting down the server ](https://hackerone.com/reports/627376) to Node.js third-party modules - 11 upvotes, $0
-98. [The parameter in the POST query allows to control size of returned page which in turn can lead to the potential DOS attack](https://hackerone.com/reports/300391) to LocalTapiola - 10 upvotes, $315
-99. [Denial Of Service in Strapi Framework using argument injection](https://hackerone.com/reports/768574) to Node.js third-party modules - 10 upvotes, $0
-100. [[mtn.com.af] Multiple vulnerabilities allow to Application level DoS](https://hackerone.com/reports/946578) to MTN Group - 10 upvotes, $0
+98. [[mtn.com.af] Multiple vulnerabilities allow to Application level DoS](https://hackerone.com/reports/946578) to MTN Group - 11 upvotes, $0
+99. [The parameter in the POST query allows to control size of returned page which in turn can lead to the potential DOS attack](https://hackerone.com/reports/300391) to LocalTapiola - 10 upvotes, $315
+100. [Denial Of Service in Strapi Framework using argument injection](https://hackerone.com/reports/768574) to Node.js third-party modules - 10 upvotes, $0
 101. [Denial of service due to invalid memory access in mrb_ary_concat](https://hackerone.com/reports/184712) to shopify-scripts - 9 upvotes, $8000
 102. [Single User DOS on SelectedLocale -cookie (verkkopalvelu.tapiola.fi)](https://hackerone.com/reports/212508) to LocalTapiola - 9 upvotes, $400
 103. [Denial of Service through set_preference.json](https://hackerone.com/reports/166682) to Keybase - 9 upvotes, $100
@@ -142,24 +142,24 @@ Top DoS reports from HackerOne:
 140. [Lodash "difference" (possibly others) Function Denial of Service Through Unvalidated Input](https://hackerone.com/reports/670779) to Node.js third-party modules - 6 upvotes, $0
 141. [HTTP/2 Denial of Service Vulnerability](https://hackerone.com/reports/335533) to Node.js - 6 upvotes, $0
 142. [SQL Injection or Denial of Service due to a Prototype Pollution](https://hackerone.com/reports/869574) to Node.js third-party modules - 6 upvotes, $0
-143. [ruby DoS https://www.mruby.science](https://hackerone.com/reports/180695) to shopify-scripts - 5 upvotes, $8000
-144. [Ruby - Regular Expression Denial of Service Vulnerability of Date Parsing Methods](https://hackerone.com/reports/1404789) to Internet Bug Bounty - 5 upvotes, $1200
-145. [[tor] control connection pre-auth DoS (infinite loop) with --enable-bufferevents](https://hackerone.com/reports/113424) to Tor - 5 upvotes, $100
-146. [Denial of service attack on Brave Browser.](https://hackerone.com/reports/176066) to Brave Software - 5 upvotes, $50
-147. [Denial of Service any Report](https://hackerone.com/reports/118663) to HackerOne - 5 upvotes, $0
-148. [DOS Report  FILE html inside \<code\> in markdown](https://hackerone.com/reports/127827) to HackerOne - 5 upvotes, $0
-149. [Missing back-end user input validation can lead to DOS flaw](https://hackerone.com/reports/361337) to Liberapay - 5 upvotes, $0
-150. [Remote P2P DoS](https://hackerone.com/reports/592200) to Monero - 5 upvotes, $0
-151. [Thumbor misconfiguration at blogapi.uber.com can lead to DoS](https://hackerone.com/reports/787240) to Uber - 4 upvotes, $500
-152. [Filename enumeration && DoS](https://hackerone.com/reports/174524) to Nextcloud - 4 upvotes, $250
-153. [Fastify uses allErrors: true ajv configuration by default which is susceptible to DoS](https://hackerone.com/reports/903521) to Node.js third-party modules - 4 upvotes, $250
-154. [DoS for GCSArtifact.RealAll](https://hackerone.com/reports/833856) to Kubernetes - 4 upvotes, $250
-155. [DoS due to improper input validation can break the admin access into the user data will disallow him from editing that user's data.](https://hackerone.com/reports/1147611) to Nextcloud - 4 upvotes, $250
-156. [help.nextcloud.com: Known DoS condition (null pointer deref) in Nginx running](https://hackerone.com/reports/145409) to Nextcloud - 4 upvotes, $0
-157. [Denial of service in libxml2, using malicious lzma file to consume available system memory](https://hackerone.com/reports/270059) to Internet Bug Bounty - 4 upvotes, $0
-158. [Denial of Service: nghttp2 use of uninitialized pointer](https://hackerone.com/reports/335608) to Node.js - 4 upvotes, $0
-159. [Application level DoS via xmlrpc.php ](https://hackerone.com/reports/787179) to U.S. Dept Of Defense - 4 upvotes, $0
-160. [Application level DOS at Login Page ( Accepts Long Password )](https://hackerone.com/reports/1168804) to Reddit - 4 upvotes, $0
+143. [Application level DOS at Login Page ( Accepts Long Password )](https://hackerone.com/reports/1168804) to Reddit - 6 upvotes, $0
+144. [ruby DoS https://www.mruby.science](https://hackerone.com/reports/180695) to shopify-scripts - 5 upvotes, $8000
+145. [Ruby - Regular Expression Denial of Service Vulnerability of Date Parsing Methods](https://hackerone.com/reports/1404789) to Internet Bug Bounty - 5 upvotes, $1200
+146. [[tor] control connection pre-auth DoS (infinite loop) with --enable-bufferevents](https://hackerone.com/reports/113424) to Tor - 5 upvotes, $100
+147. [Denial of service attack on Brave Browser.](https://hackerone.com/reports/176066) to Brave Software - 5 upvotes, $50
+148. [Denial of Service any Report](https://hackerone.com/reports/118663) to HackerOne - 5 upvotes, $0
+149. [DOS Report  FILE html inside \<code\> in markdown](https://hackerone.com/reports/127827) to HackerOne - 5 upvotes, $0
+150. [Missing back-end user input validation can lead to DOS flaw](https://hackerone.com/reports/361337) to Liberapay - 5 upvotes, $0
+151. [Remote P2P DoS](https://hackerone.com/reports/592200) to Monero - 5 upvotes, $0
+152. [Thumbor misconfiguration at blogapi.uber.com can lead to DoS](https://hackerone.com/reports/787240) to Uber - 4 upvotes, $500
+153. [Filename enumeration && DoS](https://hackerone.com/reports/174524) to Nextcloud - 4 upvotes, $250
+154. [Fastify uses allErrors: true ajv configuration by default which is susceptible to DoS](https://hackerone.com/reports/903521) to Node.js third-party modules - 4 upvotes, $250
+155. [DoS for GCSArtifact.RealAll](https://hackerone.com/reports/833856) to Kubernetes - 4 upvotes, $250
+156. [DoS due to improper input validation can break the admin access into the user data will disallow him from editing that user's data.](https://hackerone.com/reports/1147611) to Nextcloud - 4 upvotes, $250
+157. [help.nextcloud.com: Known DoS condition (null pointer deref) in Nginx running](https://hackerone.com/reports/145409) to Nextcloud - 4 upvotes, $0
+158. [Denial of service in libxml2, using malicious lzma file to consume available system memory](https://hackerone.com/reports/270059) to Internet Bug Bounty - 4 upvotes, $0
+159. [Denial of Service: nghttp2 use of uninitialized pointer](https://hackerone.com/reports/335608) to Node.js - 4 upvotes, $0
+160. [Application level DoS via xmlrpc.php ](https://hackerone.com/reports/787179) to U.S. Dept Of Defense - 4 upvotes, $0
 161. [Denial of service (segfault) due to null pointer dereference in mrb_obj_instance_eval](https://hackerone.com/reports/202582) to shopify-scripts - 3 upvotes, $800
 162. [HTTP2 'unknownProtocol' cause Denial of Service by resource exhaustion](https://hackerone.com/reports/1043360) to Node.js - 3 upvotes, $250
 163. [Potential denial of service in hackerone.com/\<program\>/reward_settings](https://hackerone.com/reports/63865) to HackerOne - 3 upvotes, $100

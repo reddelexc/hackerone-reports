@@ -1,73 +1,98 @@
 program,title,link,upvotes,bounty,vuln_type
-Twitter,Blind XSS on Twitter's internal Jira panel at ████ allows exfiltration of hackers reports and other sensitive data,hackerone.com/reports/1369674,27,5040.0,Cross-site Scripting (XSS) - Stored
-Twitter,Discoverability by phone number/email restriction bypass,hackerone.com/reports/1439026,38,5040.0,Improper Access Control - Generic
-FetLife,Able to detect if a user is FetLife supporter although this user hides their support badge in fetlife.com/conversations/{id} JSON response,hackerone.com/reports/1423704,13,100.0,Information Disclosure
+VK.com,Уязвимость в приложении для Android,hackerone.com/reports/1343528,17,3000.0,Improper Authentication - Generic
+Zenly,Subdomain Takeover of brand.zen.ly,hackerone.com/reports/1474784,26,750.0,
+Courier,Missing SPF record on trycourier.app,hackerone.com/reports/1416701,4,0.0,Misconfiguration
+Courier,Broken Authentication Session Token Bug,hackerone.com/reports/948345,19,0.0,Insufficient Session Expiration
+Showmax, Cross-origin resource sharing,hackerone.com/reports/1478449,7,50.0,
+Nextcloud,When sharing a Deck card in conversation the metaData can be manipulated to open arbitrary URL,hackerone.com/reports/1358977,11,100.0,Business Logic Errors
+Shopify,Ability to Disable the Login Attempt of any Shopify Owner for 24 hrs  (Zero_Click),hackerone.com/reports/1406495,40,900.0,Client-Side Enforcement of Server-Side Security
+U.S. Dept Of Defense,Arbitrary File Read at ███ via filename parameter,hackerone.com/reports/1436223,11,0.0,Path Traversal
+U.S. Dept Of Defense,Broken Authentication,hackerone.com/reports/409237,7,0.0,Improper Access Control - Generic
+U.S. Dept Of Defense,IDOR,hackerone.com/reports/389250,8,0.0,Insecure Direct Object Reference (IDOR)
+U.S. Dept Of Defense,CUI Labelled document out in the open,hackerone.com/reports/1436460,2,0.0,Information Disclosure
+U.S. Dept Of Defense,EC2 subdomain takeover at http://████████/,hackerone.com/reports/1296366,24,0.0,Privilege Escalation
+U.S. Dept Of Defense,XSS trigger via HTML Iframe injection in ( https://██████████ ) due to unfiltered HTML tags,hackerone.com/reports/1200770,1,0.0,Cross-site Scripting (XSS) - Generic
+U.S. Dept Of Defense,"Reflected XSS at https://█████████ via ""███"" parameter",hackerone.com/reports/1457277,2,0.0,Cross-site Scripting (XSS) - Reflected
+U.S. Dept Of Defense,"Reflected XSS at https://█████ via ""██████████"" parameter",hackerone.com/reports/1457546,4,0.0,Cross-site Scripting (XSS) - Reflected
+U.S. Dept Of Defense,"Reflected XSS at https://██████████/████████ via ""███████"" parameter",hackerone.com/reports/1457493,1,0.0,Cross-site Scripting (XSS) - Reflected
+U.S. Dept Of Defense,"Reflected XSS at https://██████/██████ via ""██████"" parameter",hackerone.com/reports/1457444,1,0.0,Cross-site Scripting (XSS) - Reflected
+U.S. Dept Of Defense,"Reflected XSS at https://██████/██████████ via ""████████"" parameter",hackerone.com/reports/1457413,1,0.0,Cross-site Scripting (XSS) - Reflected
+U.S. Dept Of Defense,(CORS) Cross-origin resource sharing misconfiguration on https://█████████,hackerone.com/reports/995144,0,0.0,Business Logic Errors
+U.S. Dept Of Defense,default ████ creds on https://████████,hackerone.com/reports/711662,3,0.0,Information Disclosure
+U.S. Dept Of Defense,Unauthorized access to PII leads to MASS account Takeover,hackerone.com/reports/1061736,0,0.0,Business Logic Errors
+U.S. Dept Of Defense,RXSS ON https://██████████,hackerone.com/reports/1244145,0,0.0,Cross-site Scripting (XSS) - Reflected
+U.S. Dept Of Defense,[CVE-2020-3452] Unauthenticated file read in Cisco ASA,hackerone.com/reports/1415825,0,0.0,Path Traversal
+UPchieve,Widespread CSRF on authenticated POST endpoints,hackerone.com/reports/1309435,10,0.0,Cross-Site Request Forgery (CSRF)
+Shopify,[h1-2102] Break permissions waterfall,hackerone.com/reports/1088159,5,500.0,
+Twitter,Blind XSS on Twitter's internal Jira panel at ████ allows exfiltration of hackers reports and other sensitive data,hackerone.com/reports/1369674,66,5040.0,Cross-site Scripting (XSS) - Stored
+Twitter,Discoverability by phone number/email restriction bypass,hackerone.com/reports/1439026,94,5040.0,Improper Access Control - Generic
+FetLife,Able to detect if a user is FetLife supporter although this user hides their support badge in fetlife.com/conversations/{id} JSON response,hackerone.com/reports/1423704,24,100.0,Information Disclosure
 Nextcloud,Information Exposure Through Directory Listing vulnerability,hackerone.com/reports/1476709,1,0.0,Information Exposure Through Directory Listing
-Shopify,[h1-2102] Information disclosure - ShopifyPlus add user displays existing Shopify ID fullname,hackerone.com/reports/1083922,7,1900.0,
-Shopify,Bypass For #997350 your-store.myshopify.com preview link is leak on third party website Via Online Store,hackerone.com/reports/1015283,3,500.0,Improper Authentication - Generic
-Shopify,"Password reset token leak via ""Host header""  on third party website",hackerone.com/reports/1092831,2,0.0,Violation of Secure Design Principles
-Shopify,Orders full read for a staff with only `Customers` permissions.,hackerone.com/reports/1392032,3,800.0,Improper Access Control - Generic
-Semrush,Critically Sensitive Spring Boot Endpoints Exposed,hackerone.com/reports/1022048,24,5000.0,Improper Access Control - Generic
-GitLab,Sending Arbitrary Requests through Jupyter Notebooks on gitlab.com and Self-Hosted GitLab Instances,hackerone.com/reports/970869,9,1500.0,Command Injection - Generic
-GitLab,Installing Gitlab runner with Docker-In-Docker allows root access,hackerone.com/reports/1417211,7,100.0,Privilege Escalation
+Shopify,[h1-2102] Information disclosure - ShopifyPlus add user displays existing Shopify ID fullname,hackerone.com/reports/1083922,10,1900.0,
+Shopify,Bypass For #997350 your-store.myshopify.com preview link is leak on third party website Via Online Store,hackerone.com/reports/1015283,4,500.0,Improper Authentication - Generic
+Shopify,"Password reset token leak via ""Host header""  on third party website",hackerone.com/reports/1092831,4,0.0,Violation of Secure Design Principles
+Shopify,Orders full read for a staff with only `Customers` permissions.,hackerone.com/reports/1392032,4,800.0,Improper Access Control - Generic
+Semrush,Critically Sensitive Spring Boot Endpoints Exposed,hackerone.com/reports/1022048,42,5000.0,Improper Access Control - Generic
+GitLab,Sending Arbitrary Requests through Jupyter Notebooks on gitlab.com and Self-Hosted GitLab Instances,hackerone.com/reports/970869,13,1500.0,Command Injection - Generic
+GitLab,Installing Gitlab runner with Docker-In-Docker allows root access,hackerone.com/reports/1417211,9,100.0,Privilege Escalation
 Node.js,Node.js Certificate Verification Bypass via String Injection,hackerone.com/reports/1429694,0,0.0,Improper Following of a Certificate's Chain of Trust
-Shopify,Is the Google Bucket Meant To Be Publicly Listable? https://cdn.shopify.com/shop-assets/,hackerone.com/reports/1102546,15,500.0,
-Shopify,staffOrderNotificationSubscriptionDelete Could Be Used By Staff Member With Settings Permission,hackerone.com/reports/1102660,12,500.0,
-Shopify,staffOrderNotificationSubscriptionCreate Is Not Blocked Entirely From Staff Member With Settings Permission,hackerone.com/reports/1102652,10,900.0,
-Zomato,Race condition in User comments  Likes,hackerone.com/reports/1409913,21,150.0,Violation of Secure Design Principles
-TikTok,Reflected xss on ads.tiktok.com using `from` parameter.,hackerone.com/reports/1452375,57,6000.0,Cross-site Scripting (XSS) - Reflected
-Acronis,Cross-site Scripting (XSS) - Stored | forum.acronis.com,hackerone.com/reports/1161241,13,50.0,Cross-site Scripting (XSS) - Stored
-Acronis,Stored Cross-site Scripting on devicelock.com/forum/,hackerone.com/reports/1122513,36,50.0,Cross-site Scripting (XSS) - Stored
+Shopify,Is the Google Bucket Meant To Be Publicly Listable? https://cdn.shopify.com/shop-assets/,hackerone.com/reports/1102546,16,500.0,
+Shopify,staffOrderNotificationSubscriptionDelete Could Be Used By Staff Member With Settings Permission,hackerone.com/reports/1102660,13,500.0,
+Shopify,staffOrderNotificationSubscriptionCreate Is Not Blocked Entirely From Staff Member With Settings Permission,hackerone.com/reports/1102652,11,900.0,
+Zomato,Race condition in User comments  Likes,hackerone.com/reports/1409913,26,150.0,Violation of Secure Design Principles
+TikTok,Reflected xss on ads.tiktok.com using `from` parameter.,hackerone.com/reports/1452375,82,6000.0,Cross-site Scripting (XSS) - Reflected
+Acronis,Cross-site Scripting (XSS) - Stored | forum.acronis.com,hackerone.com/reports/1161241,16,50.0,Cross-site Scripting (XSS) - Stored
+Acronis,Stored Cross-site Scripting on devicelock.com/forum/,hackerone.com/reports/1122513,47,50.0,Cross-site Scripting (XSS) - Stored
 Acronis,"Subdomains takeover of  register.acronis.com, promo.acronis.com, info.acronis.com and promosandbox.acronis.com",hackerone.com/reports/1018790,0,0.0,Privilege Escalation
-Acronis,Attacker Can Access to any Ticket Support on https://www.devicelock.com/support/,hackerone.com/reports/1124974,60,250.0,Improper Access Control - Generic
+Acronis,Attacker Can Access to any Ticket Support on https://www.devicelock.com/support/,hackerone.com/reports/1124974,68,250.0,Improper Access Control - Generic
 Acronis,Information Disclosure via ZIP file on AWS Bucket [http://acronis.1.s3.amazonaws.com],hackerone.com/reports/1121771,1,0.0,Information Disclosure
-Reddit,Application level DOS at Login Page ( Accepts Long Password ),hackerone.com/reports/1168804,4,0.0,
+Reddit,Application level DOS at Login Page ( Accepts Long Password ),hackerone.com/reports/1168804,6,0.0,
 Nextcloud,Leaking sensitive information through JSON  file path.,hackerone.com/reports/1211061,0,0.0,Insecure Storage of Sensitive Information
-Rocket.Chat,Arbitrary file read in Rocket.Chat-Desktop,hackerone.com/reports/943737,11,0.0,
-IBM,Reflected XSS and Blind out of band command injection at subdomain dstuid-ww.dst.ibm.com,hackerone.com/reports/410334,29,0.0,OS Command Injection
+Rocket.Chat,Arbitrary file read in Rocket.Chat-Desktop,hackerone.com/reports/943737,12,0.0,
+IBM,Reflected XSS and Blind out of band command injection at subdomain dstuid-ww.dst.ibm.com,hackerone.com/reports/410334,31,0.0,OS Command Injection
 Ruby,'net/http': HTTP Header Injection in the set_content_type method,hackerone.com/reports/1168205,7,0.0,CRLF Injection
-8x8,Remote Code Execution on ██.8x8.com via .NET VSTATE Deserialization,hackerone.com/reports/1391576,24,0.0,Code Injection
+8x8,Remote Code Execution on ██.8x8.com via .NET VSTATE Deserialization,hackerone.com/reports/1391576,27,0.0,Code Injection
 OneWeb,text injection and content spoofing,hackerone.com/reports/1353200,7,0.0,Phishing
-Engel & Völkers Technology GmbH,Reflected Xss in https://world.engelvoelkers.com/...,hackerone.com/reports/1401209,13,0.0,Cross-site Scripting (XSS) - Reflected
-Internet Bug Bounty,Ruby CVE-2021-41819: Cookie Prefix Spoofing in CGI::Cookie.parse,hackerone.com/reports/1464396,26,2000.0,Reliance on Cookies without Validation and Integrity Checking in a Security Decision
-TikTok,Multiple vulnerability leading to account takeover in TikTok SMB subdomain.,hackerone.com/reports/1404612,55,999.99,Business Logic Errors
-ExpressionEngine,SQL injection at /admin.php?/cp/members/create,hackerone.com/reports/968240,4,0.0,SQL Injection
-Brave Software,Information disclosure-Referer leak,hackerone.com/reports/1337624,32,500.0,Information Disclosure
+Engel & Völkers Technology GmbH,Reflected Xss in https://world.engelvoelkers.com/...,hackerone.com/reports/1401209,14,0.0,Cross-site Scripting (XSS) - Reflected
+Internet Bug Bounty,Ruby CVE-2021-41819: Cookie Prefix Spoofing in CGI::Cookie.parse,hackerone.com/reports/1464396,28,2000.0,Reliance on Cookies without Validation and Integrity Checking in a Security Decision
+TikTok,Multiple vulnerability leading to account takeover in TikTok SMB subdomain.,hackerone.com/reports/1404612,62,999.99,Business Logic Errors
+ExpressionEngine,SQL injection at /admin.php?/cp/members/create,hackerone.com/reports/968240,5,0.0,SQL Injection
+Brave Software,Information disclosure-Referer leak,hackerone.com/reports/1337624,33,500.0,Information Disclosure
 h1-ctf,The Return of the Grinch,hackerone.com/reports/1433581,6,1000.0,Information Disclosure
 h1-ctf,Saving Christmas from Grinchy Gods,hackerone.com/reports/1434017,14,1000.0,SQL Injection
-Dropbox,Full Response SSRF via Google Drive,hackerone.com/reports/1406938,197,17576.0,Server-Side Request Forgery (SSRF)
+Dropbox,Full Response SSRF via Google Drive,hackerone.com/reports/1406938,220,17576.0,Server-Side Request Forgery (SSRF)
 VK.com,Reflected Xss On https://vk.com/search,hackerone.com/reports/1454359,30,500.0,Cross-site Scripting (XSS) - Reflected
-Urban Company,Critical full compromise of jarvis-new.urbanclap.com via weak session signing,hackerone.com/reports/1380121,84,1500.0,Improper Authentication - Generic
+Urban Company,Critical full compromise of jarvis-new.urbanclap.com via weak session signing,hackerone.com/reports/1380121,99,1500.0,Improper Authentication - Generic
 UPchieve,No character limit in password field,hackerone.com/reports/1462175,1,0.0,Use of Hard-coded Password
 Monero,Misconfiguration in build environment allows DLL preloading attack,hackerone.com/reports/896338,5,0.0,
-Omise,XSS via X-Forwarded-Host header,hackerone.com/reports/1392935,43,200.0,Cross-site Scripting (XSS) - Reflected
-Lark Technologies,Full read SSRF via Lark Docs `import as docs` feature ,hackerone.com/reports/1409727,91,5000.0,Server-Side Request Forgery (SSRF)
+Omise,XSS via X-Forwarded-Host header,hackerone.com/reports/1392935,47,200.0,Cross-site Scripting (XSS) - Reflected
+Lark Technologies,Full read SSRF via Lark Docs `import as docs` feature ,hackerone.com/reports/1409727,95,5000.0,Server-Side Request Forgery (SSRF)
 GitLab,"Improper access control for users with expired password, giving the user full access through API and Git",hackerone.com/reports/1285226,37,950.0,Improper Access Control - Generic
 Zomato,subdomain takeover on fddkim.zomato.com,hackerone.com/reports/1130376,50,350.0,Privilege Escalation
-FetLife,Specific Payload makes a Users Posts unavailable,hackerone.com/reports/1176794,41,100.0,Denial of Service
-Lark Technologies,Able to steal private files by manipulating response using Auto Reply function of Lark,hackerone.com/reports/1387320,27,2000.0,Insecure Direct Object Reference (IDOR)
-Lark Technologies,Able to steal private files by manipulating response using Compose Email function of Lark,hackerone.com/reports/1373784,37,2000.0,Insecure Direct Object Reference (IDOR)
+FetLife,Specific Payload makes a Users Posts unavailable,hackerone.com/reports/1176794,42,100.0,Denial of Service
+Lark Technologies,Able to steal private files by manipulating response using Auto Reply function of Lark,hackerone.com/reports/1387320,29,2000.0,Insecure Direct Object Reference (IDOR)
+Lark Technologies,Able to steal private files by manipulating response using Compose Email function of Lark,hackerone.com/reports/1373784,39,2000.0,Insecure Direct Object Reference (IDOR)
 Mail.ru,Subdomain Takeover,hackerone.com/reports/1348504,18,0.0,
-TikTok,Cross site scripting via file upload in subdomain ads.tiktok.com,hackerone.com/reports/1433125,51,500.0,
+TikTok,Cross site scripting via file upload in subdomain ads.tiktok.com,hackerone.com/reports/1433125,54,500.0,
 Imgur,No length on password,hackerone.com/reports/1411363,59,250.0,Weak Password Recovery Mechanism for Forgotten Password
 Internet Bug Bounty,Buffer Overflow in optimized_escape_html method,hackerone.com/reports/1455248,6,1200.0,Classic Buffer Overflow
 Imgur,xss reflected on imgur.com,hackerone.com/reports/1058427,13,100.0,Cross-site Scripting (XSS) - Reflected
 Weblate,hosted.weblate.org display of unfiltered results,hackerone.com/reports/1454552,2,0.0,
-Stripe,Email change or personal data change on the account.,hackerone.com/reports/1250037,104,3000.0,Insecure Direct Object Reference (IDOR)
+Stripe,Email change or personal data change on the account.,hackerone.com/reports/1250037,111,3000.0,Insecure Direct Object Reference (IDOR)
 Recorded Future,[https://app.recordedfuture.com] - Reflected XSS via username parameter ,hackerone.com/reports/1201134,30,300.0,Cross-site Scripting (XSS) - Reflected
 QIWI,disclosing clients' secret keys https://stage-uapi.tochka.com:2000/,hackerone.com/reports/1419205,7,150.0,Information Disclosure
 Internet Bug Bounty,Invalid handling of X509_verify_cert() internal errors in libssl (CVE-2021-4044),hackerone.com/reports/1455411,2,1200.0,Improper Certificate Validation
-Shopify,Reflected XSS online-store-git.shopifycloud.com,hackerone.com/reports/1410459,72,3500.0,Cross-site Scripting (XSS) - Reflected
+Shopify,Reflected XSS online-store-git.shopifycloud.com,hackerone.com/reports/1410459,75,3500.0,Cross-site Scripting (XSS) - Reflected
 Shopify,Direct Access To admin Dashboard,hackerone.com/reports/1421804,17,500.0,Improper Authentication - Generic
-Shopify,Stored XSS at https://linkpop.com,hackerone.com/reports/1441988,31,1600.0,Cross-site Scripting (XSS) - Stored
-TikTok,Cross-site Scripting (XSS) - Stored on ads.tiktok.com in Text  field,hackerone.com/reports/1376961,59,999.99,Cross-site Scripting (XSS) - Stored
+Shopify,Stored XSS at https://linkpop.com,hackerone.com/reports/1441988,32,1600.0,Cross-site Scripting (XSS) - Stored
+TikTok,Cross-site Scripting (XSS) - Stored on ads.tiktok.com in Text  field,hackerone.com/reports/1376961,65,999.99,Cross-site Scripting (XSS) - Stored
 GitHub Security Lab,Yet another SSRF query for Javascript,hackerone.com/reports/1391724,2,250.0,
 GitHub Security Lab,Yet another SSRF query for Go,hackerone.com/reports/1391725,2,450.0,
 GitHub Security Lab,Yet another SSRF query for Javascript,hackerone.com/reports/1391726,2,250.0,
 GitHub Security Lab,Yet another SSRF query for Javascript,hackerone.com/reports/1391727,2,250.0,
 GitHub Security Lab,Yet another SSRF query for Javascript,hackerone.com/reports/1391728,2,250.0,
 GitHub Security Lab,Yet another SSRF query for Go,hackerone.com/reports/1391729,2,450.0,
-GitHub Security Lab,Yet another SSRF query for Go,hackerone.com/reports/1391771,2,450.0,
+GitHub Security Lab,Yet another SSRF query for Go,hackerone.com/reports/1391771,3,450.0,
 GitHub Security Lab,Yet another SSRF query for Go,hackerone.com/reports/1391772,2,450.0,
 GitHub Security Lab,[GO]: [CWE-090: LDAP Injection All For One],hackerone.com/reports/1397942,6,1800.0,
 GitHub Security Lab,[Python]: CWE-079: HTTP Header injection,hackerone.com/reports/1401159,2,1800.0,
@@ -93,21 +118,21 @@ Automattic,SSRF & Blind XSS in Gravatar email ,hackerone.com/reports/1100096,29,
 Palo Alto Software, Clickjacking,hackerone.com/reports/688546,7,0.0,
 Slack,Lack of URL normalization renders Blocked-Previews feature ineffectual,hackerone.com/reports/1102764,92,1000.0,Security Through Obscurity
 Lark Technologies,In orginization stored xss using location (Larksuite survey app),hackerone.com/reports/998138,7,500.0,Cross-site Scripting (XSS) - Stored
-Lark Technologies,Stored xss on helpdesk using user's city,hackerone.com/reports/971857,13,500.0,Cross-site Scripting (XSS) - Stored
+Lark Technologies,Stored xss on helpdesk using user's city,hackerone.com/reports/971857,14,500.0,Cross-site Scripting (XSS) - Stored
 IBM,SQL Injection and plaintext passwords via User Search,hackerone.com/reports/703819,8,0.0,SQL Injection
 Django,Deserialization of potentially malicious data to RCE,hackerone.com/reports/1415436,4,0.0,Deserialization of Untrusted Data
 Ruby,Bug Report : [ No Valid SPF Records ],hackerone.com/reports/1301696,1,0.0,
 Adobe,AEM forms XXE Vulnerability,hackerone.com/reports/1321070,13,0.0,XML External Entities (XXE)
 Adobe,Disclosure of github access token in config file via nignx off-by-slash,hackerone.com/reports/1386547,12,0.0,Path Traversal
-Lark Technologies,Reflected xss and open redirect on larksuite.com using /?back_uri= parameter.,hackerone.com/reports/955606,45,500.0,Cross-site Scripting (XSS) - Reflected
-Lark Technologies,[IDOR] Modify other team's reminders via reminderId parameter,hackerone.com/reports/946323,32,500.0,Insecure Direct Object Reference (IDOR)
+Lark Technologies,Reflected xss and open redirect on larksuite.com using /?back_uri= parameter.,hackerone.com/reports/955606,46,500.0,Cross-site Scripting (XSS) - Reflected
+Lark Technologies,[IDOR] Modify other team's reminders via reminderId parameter,hackerone.com/reports/946323,33,500.0,Insecure Direct Object Reference (IDOR)
 Zenly,Friend Request Flow Exposes User Data ,hackerone.com/reports/1245741,18,750.0,Privacy Violation
 Zenly,Account Takeover via SMS Authentication Flow ,hackerone.com/reports/1245762,79,1750.0,Improper Authentication - Generic
 Nord Security,CSRF to change password,hackerone.com/reports/204703,56,300.0,Cross-Site Request Forgery (CSRF)
 Gener8,Clickjacking to change email address,hackerone.com/reports/783191,5,0.0,UI Redressing (Clickjacking)
 Node.js,Prototype pollution via console.table properties,hackerone.com/reports/1431042,13,0.0,Modification of Assumed-Immutable Data (MAID)
-Mail.ru,blog/wp-json/wp/v2/users FILE is enable it will used for bruteforce attack the admin panel at   blog/wp-login.php,hackerone.com/reports/1403302,37,0.0,Brute Force
-MariaDB,Grafana LFI on https://grafana.mariadb.org,hackerone.com/reports/1419213,66,0.0,Remote File Inclusion
+Mail.ru,blog/wp-json/wp/v2/users FILE is enable it will used for bruteforce attack the admin panel at   blog/wp-login.php,hackerone.com/reports/1403302,38,0.0,Brute Force
+MariaDB,Grafana LFI on https://grafana.mariadb.org,hackerone.com/reports/1419213,67,0.0,Remote File Inclusion
 Twitter,Subdomain takeover of images.crossinstall.com,hackerone.com/reports/1406335,59,0.0,Business Logic Errors
 Mattermost,ABLE TO TRICK THE VICTIM INTO USING A CRAFTED EMAIL ADDRESS FOR A PARTICULAR  SESSION AND THEN LATER TAKE BACK THE ACCOUNT ,hackerone.com/reports/1357013,21,150.0,Violation of Secure Design Principles
 8x8,Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS),hackerone.com/reports/1440161,11,0.0,Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS)
@@ -117,7 +142,7 @@ Acronis,%0A (New line) and limitness URL leads to DoS at all system [Main adress
 U.S. Dept Of Defense,Log4Shell: RCE 0-day exploit on █████████,hackerone.com/reports/1429014,48,0.0,Code Injection
 Khan Academy,EMAIL SPOOFING,hackerone.com/reports/496360,19,0.0,Privilege Escalation
 8x8,Default credentials lead to Spring Boot Admin dashboard access,hackerone.com/reports/1417635,24,0.0,Information Disclosure
-VK.com,Выполнение API-методов при открытии сообщества/приложения,hackerone.com/reports/1354452,40,2000.0,Privilege Escalation
+VK.com,Выполнение API-методов при открытии сообщества/приложения,hackerone.com/reports/1354452,41,2000.0,Privilege Escalation
 LINE,Improper authorization allows disclosing users' notification data in Notification channel server,hackerone.com/reports/1314162,70,2000.0,Improper Authorization
 Zivver,ADB Backup is enabled within AndroidManifest,hackerone.com/reports/1225158,10,0.0,Information Disclosure
 Mail.ru,Read-only user can edit user segments.,hackerone.com/reports/1277753,6,0.0,Improper Access Control - Generic
@@ -139,7 +164,7 @@ Shopify,Xss At Shopify Email App,hackerone.com/reports/1339356,29,500.0,Cross-si
 MTN Group,Reflected XSS on dailydeals.mtn.co.za,hackerone.com/reports/1212235,17,0.0,Cross-site Scripting (XSS) - Reflected
 MTN Group,Reflected XSS at dailydeals.mtn.co.za,hackerone.com/reports/1210921,14,0.0,Cross-site Scripting (XSS) - Reflected
 Exodus,Cache Poisoning DoS on downloads.exodus.com,hackerone.com/reports/1173153,89,2500.0,Denial of Service
-HackerOne,Static files on HackerOne.com can be made inaccessible through Cache Poisoning attack,hackerone.com/reports/1181946,189,2500.0,Denial of Service
+HackerOne,Static files on HackerOne.com can be made inaccessible through Cache Poisoning attack,hackerone.com/reports/1181946,191,2500.0,Denial of Service
 GitLab,Cache poisoning Denial of Service affecting assets.gitlab-static.net,hackerone.com/reports/1160407,64,4850.0,Denial of Service
 Rockstar Games,Cache Poisoning DoS on updates.rockstargames.com,hackerone.com/reports/1219038,66,500.0,Violation of Secure Design Principles
 Mail.ru,Угон домена photo-test.gb.ru (возможно),hackerone.com/reports/1257091,11,0.0,Misconfiguration
@@ -151,7 +176,7 @@ Azbuka Vkusa,"Open redirect (DOM-based) on av.ru via ""return_url"" parameter (L
 RubyGems,Dependency repository hijacking aka Repo Jacking from GitHub repo rubygems/bundler-site & rubygems/bundler.github.io + bundler.io docs,hackerone.com/reports/1430405,9,0.0,Open Redirect
 ImpressCMS,Stored XSS on 1.4.0,hackerone.com/reports/1331281,17,0.0,Cross-site Scripting (XSS) - Stored
 MTN Group,HTML injection in email content during registration via FirstName/LastName parameter,hackerone.com/reports/1256496,11,0.0,Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS)
-Flickr,Flickr Account Takeover using AWS Cognito API,hackerone.com/reports/1342088,345,7550.0,Improper Authentication - Generic
+Flickr,Flickr Account Takeover using AWS Cognito API,hackerone.com/reports/1342088,349,7550.0,Improper Authentication - Generic
 Judge.me ,HTML injection in review content,hackerone.com/reports/1036995,3,0.0,Command Injection - Generic
 Informatica,Reflected Cross-Site Scripting/HTML Injection,hackerone.com/reports/1379158,2,0.0,Cross-site Scripting (XSS) - Reflected
 Kubernetes,"Google storage bucket takeover which is used to load JS file in dashboard.html in ""github.com/kubernetes/release"" which can lead to XSS",hackerone.com/reports/1398706,8,100.0,Improper Access Control - Generic
@@ -159,7 +184,7 @@ Showmax,Race Condition Vulnerability when creating profiles,hackerone.com/report
 FetLife,Able to access private picture/video/writing when requesting for their JSON response,hackerone.com/reports/1424291,60,250.0,Information Disclosure
 Kubernetes,Broken Link Takeover from kubernetes.io docs,hackerone.com/reports/1398572,2,100.0,Improper Access Control - Generic
 Kubernetes,"Broken Github Link Used in deployment docs of ""github.com/kubernetes/kompose""",hackerone.com/reports/1398617,1,100.0,Improper Access Control - Generic
-Reddit,Weak rate limit could lead to ATO due to weak password protection mechanisms,hackerone.com/reports/1065186,25,100.0,Brute Force
+Reddit,Weak rate limit could lead to ATO due to weak password protection mechanisms,hackerone.com/reports/1065186,26,100.0,Brute Force
 Reddit,No rate limit on password reset leads to email enumeration at  gateway-production.dubsmash.com ,hackerone.com/reports/1425884,2,0.0,
 VK.com,Просмотр закрытых фотографий,hackerone.com/reports/584582,23,500.0,Information Disclosure
 Mail.ru,reflected xss in e.mail.ru,hackerone.com/reports/1379297,64,1000.0,Cross-site Scripting (XSS) - Reflected
@@ -207,7 +232,7 @@ Sifchain,Dependency Confusion Vulnerability in Sifnode Due to Unclaimed npm Pack
 Sifchain,Email Spoofing bug,hackerone.com/reports/1176090,0,0.0,
 Evernote,[34.96.80.155] Server Logs Disclosure lead to Information Leakage,hackerone.com/reports/1398270,17,150.0,Privilege Escalation
 8x8,Exposed kubernetes dashboard,hackerone.com/reports/1418101,22,0.0,
-U.S. General Services Administration,[Transportation Management Services Solution 2.0] Improper authorization at  tmss.gsa.gov leads to data exposure of all registered users,hackerone.com/reports/1175980,10,0.0,Improper Authorization
+U.S. General Services Administration,[Transportation Management Services Solution 2.0] Improper authorization at  tmss.gsa.gov leads to data exposure of all registered users,hackerone.com/reports/1175980,11,0.0,Improper Authorization
 Semrush,php info file and sql backup at vendor's subdomain,hackerone.com/reports/1358249,6,200.0,Information Disclosure
 QIWI,Account Takeover through registration to the same email address,hackerone.com/reports/1224008,25,100.0,Improper Authentication - Generic
 Mail.ru,[allods.mail.ru] - WebCache Poisoning Host Header lead to Potential Stored XSS,hackerone.com/reports/1262408,34,0.0,Cross-site Scripting (XSS) - Stored
@@ -216,7 +241,7 @@ UPchieve,Authentication Bypass - Email Verification code bypass in account regis
 Shopify,Bypass a fix for report #708013,hackerone.com/reports/1363672,94,3500.0,Brute Force
 Open-Xchange,Guard WKS lookup: Evil WKS server forces connections to last forever,hackerone.com/reports/1016691,10,444.0,Denial of Service
 Rocket.Chat,Blind XSS,hackerone.com/reports/1091118,8,0.0,Cross-site Scripting (XSS) - Generic
-Evernote,Full read SSRF in www.evernote.com that can leak aws metadata and local file inclusion,hackerone.com/reports/1189367,215,5000.0,Server-Side Request Forgery (SSRF)
+Evernote,Full read SSRF in www.evernote.com that can leak aws metadata and local file inclusion,hackerone.com/reports/1189367,217,5000.0,Server-Side Request Forgery (SSRF)
 Affirm,IDOR to view order information of users and personal information,hackerone.com/reports/1323406,54,500.0,Insecure Direct Object Reference (IDOR)
 Shopify,xss is triggered on your web,hackerone.com/reports/1121900,66,2900.0,Cross-site Scripting (XSS) - DOM
 Shopify,[h1-2102] Wholesale - CSRF to Generate Invitation Token for a Customer and Move Customer to Invited Status,hackerone.com/reports/1091209,26,500.0,Cross-Site Request Forgery (CSRF)
@@ -244,10 +269,10 @@ VK.com,XSS в выборе товара.,hackerone.com/reports/1253124,18,500.0,
 VK.com,Получаем название и аватарку (50x50) частной группы.,hackerone.com/reports/1343280,6,100.0,Information Disclosure
 VK.com,XSS в сюжетах.,hackerone.com/reports/1115763,46,500.0,
 VK.com,Reflected xss в m.vk.com/chatjoin,hackerone.com/reports/1370240,19,500.0,Cross-site Scripting (XSS) - Reflected
-Glassdoor,[https://www.glassdoor.com] -  Web Cache Deception Leads to gdtoken Disclosure ,hackerone.com/reports/1343086,32,1600.0,Information Disclosure
+Glassdoor,[https://www.glassdoor.com] -  Web Cache Deception Leads to gdtoken Disclosure ,hackerone.com/reports/1343086,33,1600.0,Information Disclosure
 Acronis,IDOR vulnerability (Price manipulation),hackerone.com/reports/1403176,118,400.0,Insecure Direct Object Reference (IDOR)
 U.S. Dept Of Defense,Unauthenticated Access to Admin Panel Functions at https://███████/███,hackerone.com/reports/1397564,8,0.0,Improper Access Control - Generic
-U.S. Dept Of Defense,Unauthenticated Access to Admin Panel Functions at https://██████████/████████,hackerone.com/reports/1394910,40,0.0,Improper Access Control - Generic
+U.S. Dept Of Defense,Unauthenticated Access to Admin Panel Functions at https://██████████/████████,hackerone.com/reports/1394910,41,0.0,Improper Access Control - Generic
 U.S. Dept Of Defense,Expired SSL Certificate allows credentials steal,hackerone.com/reports/1344951,14,0.0,Violation of Secure Design Principles
 MCUboot,private keys exposed on the GitHub repository,hackerone.com/reports/1234531,24,0.0,Cleartext Storage of Sensitive Information
 XVIDEOS,CSRF on delete friend requests - Not protected with CSRF Token,hackerone.com/reports/1408745,7,0.0,Cross-Site Request Forgery (CSRF)
@@ -257,7 +282,7 @@ Shopify,Sidekiq dashboard exposed at notary.shopifycloud.com,hackerone.com/repor
 Traffic Factory,WordPress Plugin Update Confusion at trafficfactory.com,hackerone.com/reports/1364851,64,200.0,Business Logic Errors
 Mail.ru,Cross-site Scripting (XSS) - Stored,hackerone.com/reports/1318395,42,0.0,Cross-site Scripting (XSS) - Stored
 DigitalOcean,Blind XSS via  Digital Ocean Partner account creation form.,hackerone.com/reports/880591,11,0.0,Cross-site Scripting (XSS) - Stored
-XVIDEOS,No-Rate limit of current password on delete account endpoint(https://www.xvideos.com/account/close),hackerone.com/reports/1392287,58,100.0,
+XVIDEOS,No-Rate limit of current password on delete account endpoint(https://www.xvideos.com/account/close),hackerone.com/reports/1392287,59,100.0,
 Shopify,Staff who only have apps and channels permission can do a takeover account at the wholesale store (Bypass get invitation link),hackerone.com/reports/1266828,49,1600.0,
 8x8,[jitsi-meet] Authentication Bypass when using JWT w/ public keys,hackerone.com/reports/1210502,26,0.0,Improper Authentication - Generic
 Lark Technologies,Non privileged user is able to approve his own app himself leading to mass privilege  escalations.,hackerone.com/reports/1168475,39,1000.0,Privilege Escalation
@@ -281,7 +306,7 @@ Glovo,chainning bugs to get full disclosure of Users addresses ,hackerone.com/re
 Elastic,Fix for CVE-2021-22151 (Kibana path traversal issue) can be bypassed on Windows,hackerone.com/reports/1353603,9,584.0,Path Traversal
 Azbuka Vkusa,Leak of Google Sheets API credentials,hackerone.com/reports/965314,20,300.0,Cleartext Transmission of Sensitive Information
 Azbuka Vkusa,Corporate Jira credentials disclosed in public gist,hackerone.com/reports/958432,39,300.0,Information Disclosure
-Azbuka Vkusa,IDOR - Other user's delivery address disclosed,hackerone.com/reports/964010,21,300.0,Insecure Direct Object Reference (IDOR)
+Azbuka Vkusa,IDOR - Other user's delivery address disclosed,hackerone.com/reports/964010,22,300.0,Insecure Direct Object Reference (IDOR)
 GitLab,Use of Ruby Forwardable module and runtime meta-programming may introduce vulnerabilities,hackerone.com/reports/874401,1,0.0,Information Disclosure
 GitLab,ReDoS in syntax highlighting due to Rouge,hackerone.com/reports/1283484,13,600.0,Denial of Service
 Informatica,CVE-2021-40870 in [███],hackerone.com/reports/1360593,11,0.0,Code Injection
@@ -376,7 +401,7 @@ Reddit,Domain Takeover of Reddit.ru via DNS Hijacking,hackerone.com/reports/1226
 Reddit,No Rate Limit on redditgifts gift  when Adding Comment,hackerone.com/reports/1202408,11,100.0,Violation of Secure Design Principles
 Reddit,Email Verification Bypass And Get access to user's private invitation.,hackerone.com/reports/1350401,0,0.0,Business Logic Errors
 Reddit,No Password Length Restriction leads to Denial of Service,hackerone.com/reports/1243009,0,0.0,Denial of Service
-Reddit,Deleting all DMs on RedditGifts.com,hackerone.com/reports/1213237,216,5000.0,Insecure Direct Object Reference (IDOR)
+Reddit,Deleting all DMs on RedditGifts.com,hackerone.com/reports/1213237,219,5000.0,Insecure Direct Object Reference (IDOR)
 Reddit,IDOR to pay less for coin purchases on oauth.reddit.com via /api/v2/gold/paypal/create_coin_purchase_order in `order_id` parameter ,hackerone.com/reports/1213765,13,500.0,Business Logic Errors
 Reddit,[dubmash] Lack of authorization checks - Update Sound Titles,hackerone.com/reports/1102365,10,3000.0,Improper Authorization
 Reddit,Content Spoofing,hackerone.com/reports/1165919,1,0.0,Phishing
@@ -391,7 +416,7 @@ Concrete CMS,Arbitrary File delete via PHAR deserialization,hackerone.com/report
 Nextcloud,RCE on 17 different Docker containers on your network,hackerone.com/reports/1332433,10,0.0,Code Injection
 Node.js,HTTP Request Smuggling due to accepting space before colon,hackerone.com/reports/1238709,17,250.0,HTTP Request Smuggling
 Mail.ru,Незащищённый экземпляр Zeppelin ,hackerone.com/reports/992564,138,35000.0,
-Evernote,CSRF leads to account deactivation of users,hackerone.com/reports/1121990,30,300.0,
+Evernote,CSRF leads to account deactivation of users,hackerone.com/reports/1121990,31,300.0,
 IBM,SQL Injection in IBM access control panel & Broken access in admin panel,hackerone.com/reports/1355817,46,0.0,SQL Injection
 IBM,Unauthorized Kubernetes to RCE (root) and found TEAMTNT Crypto Miner on it,hackerone.com/reports/1317236,11,0.0,
 U.S. Dept Of Defense,phpinfo() disclosure info,hackerone.com/reports/804809,11,0.0,Information Disclosure
@@ -401,7 +426,7 @@ U.S. Dept Of Defense,RXSS - https://████████/,hackerone.com/repo
 U.S. Dept Of Defense,RXSS - ████,hackerone.com/reports/923864,7,0.0,Cross-site Scripting (XSS) - Reflected
 GitLab,Stored XSS in Mermaid when viewing Markdown files,hackerone.com/reports/1212822,42,3000.0,Cross-site Scripting (XSS) - DOM
 GitLab,"Reporters can upload design to issues using the ""Move to"" feature",hackerone.com/reports/1112297,17,600.0,Privilege Escalation
-GitLab,Stored XSS in markdown via the DesignReferenceFilter ,hackerone.com/reports/1212067,263,16000.0,Cross-site Scripting (XSS) - Stored
+GitLab,Stored XSS in markdown via the DesignReferenceFilter ,hackerone.com/reports/1212067,264,16000.0,Cross-site Scripting (XSS) - Stored
 Concrete CMS,Stored unauth XSS in calendar event via CSRF,hackerone.com/reports/1102018,8,0.0,Cross-site Scripting (XSS) - Stored
 Concrete CMS,Authenticated path traversal to RCE,hackerone.com/reports/1102067,16,0.0,Path Traversal
 U.S. Dept Of Defense,DoD internal documents are leaked to the public,hackerone.com/reports/1330455,29,0.0,Information Disclosure
@@ -429,10 +454,10 @@ Zomato,Improper Validation at Partners Login,hackerone.com/reports/990048,215,20
 Automattic,Ability to subscribe to inactive Post+ creators,hackerone.com/reports/1322334,9,100.0,Business Logic Errors
 Acronis,Domain does not Match SSL Certificate,hackerone.com/reports/1341142,5,0.0,
 Acronis,No server side check on terms of service page which leads to bypass,hackerone.com/reports/1338256,6,0.0,Client-Side Enforcement of Server-Side Security
-Acronis,bypass sql injection #1109311,hackerone.com/reports/1224660,135,500.0,SQL Injection
+Acronis,bypass sql injection #1109311,hackerone.com/reports/1224660,137,500.0,SQL Injection
 Concrete CMS,"Stored XSS in Conversations (both client and admin) when Active Conversation Editor is set to ""Rich Text""",hackerone.com/reports/616770,4,0.0,Cross-site Scripting (XSS) - Stored
 Concrete CMS,SSRF bypass,hackerone.com/reports/863221,11,0.0,Server-Side Request Forgery (SSRF)
-UPchieve,No Rate Limiting on /reset-password-request/ endpoint,hackerone.com/reports/1331268,2,0.0,Violation of Secure Design Principles
+UPchieve,No Rate Limiting on /reset-password-request/ endpoint,hackerone.com/reports/1331268,6,0.0,Violation of Secure Design Principles
 Zilliqa,Using gossip to drain miner wallets,hackerone.com/reports/1058879,105,10000.0,Improper Authorization
 Slack,Denial of Service via Hyperlinks in Posts,hackerone.com/reports/1077136,100,1500.0,Denial of Service
 U.S. General Services Administration,Path Traversal on meetcqpub1.gsa.gov allows attackers to see arbitrary file listings.,hackerone.com/reports/1313040,9,0.0,Path Traversal
@@ -442,7 +467,7 @@ U.S. Dept Of Defense,███████ - XSS - CVE-2020-3580,hackerone.com/r
 U.S. Dept Of Defense,Information disclosure at '████████' --- CVE-2020-14179,hackerone.com/reports/1336397,2,0.0,Information Disclosure
 QIWI,HTTP Request Smuggling on api.flocktory.com Leads to XSS on Customer Sites,hackerone.com/reports/955170,27,300.0,HTTP Request Smuggling
 Mail.ru,[ii.worki.ru ] emarsys  subdomain takeover,hackerone.com/reports/1287686,30,0.0,Privilege Escalation
-MTN Group,[mtn.com.af] Multiple vulnerabilities allow to Application level DoS,hackerone.com/reports/946578,10,0.0,Business Logic Errors
+MTN Group,[mtn.com.af] Multiple vulnerabilities allow to Application level DoS,hackerone.com/reports/946578,11,0.0,Business Logic Errors
 Internet Bug Bounty,CVE-2021-3711: SM2 decrypt  buffer overflow ,hackerone.com/reports/1352429,13,2000.0,Classic Buffer Overflow
 Localize,Stored XSS in Document Title,hackerone.com/reports/1321407,115,50.0,Cross-site Scripting (XSS) - Generic
 Tor,Tor Browser using --log or --verbose logs the exact connection time a client connects to any v2 domains.,hackerone.com/reports/1250273,3,0.0,Information Disclosure
@@ -450,7 +475,7 @@ DuckDuckGo,com.duckduckgo.mobile.android - Cache corruption,hackerone.com/report
 MTN Group,Reflected Cross-Site scripting in : mtn.bj,hackerone.com/reports/1264832,30,0.0,Cross-site Scripting (XSS) - Reflected
 QIWI,CVE-2020-3187 - unauthenticated arbitrary file deletion in Cisco,hackerone.com/reports/944665,23,500.0,Path Traversal
 Brave Software,unclaimed s3 bucket takeover in the 3 js file located on the github page of  brave software,hackerone.com/reports/1316650,9,50.0,Business Logic Errors
-Redtube,Deserialization of untrusted data at https://www.redtube.com/media/hls?s=data,hackerone.com/reports/1312641,255,10000.0,Deserialization of Untrusted Data
+Redtube,Deserialization of untrusted data at https://www.redtube.com/media/hls?s=data,hackerone.com/reports/1312641,256,10000.0,Deserialization of Untrusted Data
 Concrete CMS,Phar Deserialization Vulnerability via Logging Settings,hackerone.com/reports/1063039,3,0.0,Deserialization of Untrusted Data
 curl,CVE-2021-22946: Protocol downgrade required TLS bypassed,hackerone.com/reports/1334111,7,1000.0,Missing Required Cryptographic Step
 curl,CVE-2021-22947: STARTTLS protocol injection via MITM,hackerone.com/reports/1334763,7,1500.0,Cryptographic Issues - Generic
@@ -538,9 +563,9 @@ Uber,Google Maps API Key Leakage,hackerone.com/reports/1321830,6,0.0,Information
 Courier,Possible to invite any team member without being logged in. [ Session Management Issue ],hackerone.com/reports/1319892,7,0.0,Insufficient Session Expiration
 Upserve ,Payment method token being sent to 3rd party analytics service,hackerone.com/reports/637267,40,2500.0,Business Logic Errors
 ownCloud,Protocol Smuggling over LDAP password field,hackerone.com/reports/1054282,9,50.0,CRLF Injection
-Snapchat,Improper Authentication - any user can login as other user with otp/logout & otp/login,hackerone.com/reports/921780,843,25000.0,Improper Authentication - Generic
+Snapchat,Improper Authentication - any user can login as other user with otp/logout & otp/login,hackerone.com/reports/921780,846,25000.0,Improper Authentication - Generic
 GitHub Security Lab,Java: Static initialization vector,hackerone.com/reports/1329260,22,1800.0,
-U.S. General Services Administration,e-mail verification bypass through interception & modification of response status,hackerone.com/reports/1181253,20,0.0,Violation of Secure Design Principles
+U.S. General Services Administration,e-mail verification bypass through interception & modification of response status,hackerone.com/reports/1181253,21,0.0,Violation of Secure Design Principles
 Semrush,Improper input validation in projects leads to fully deny access to project resources,hackerone.com/reports/1237700,27,500.0,Improper Input Validation
 Elastic,Critical || Unrestricted access to private Github repos and properties of Elastic through leaked token of Elastic employee,hackerone.com/reports/1266188,57,2000.0,Cleartext Storage of Sensitive Information
 Logitech,session takeover via open protocol redirection on streamlabs.com,hackerone.com/reports/1178239,41,200.0,Open Redirect
@@ -602,7 +627,7 @@ Kubernetes,kubectl creating secrets from stringData leaves secret in plain text,
 MTN Group,information discloure via logs files at ==> https://ihelp.mtnbusiness.com/logfiles/Log_21-06-2021.txt,hackerone.com/reports/1239633,31,0.0,Information Disclosure
 GitLab,"When you call your branch the same name as a git hash, it could be checked out by dependents",hackerone.com/reports/790634,39,2000.0,Resource Injection
 MTN Group,2x Remote file inclusion within your VMware Instances,hackerone.com/reports/1069105,14,0.0,Remote File Inclusion
-U.S. Dept Of Defense,XSS on ███,hackerone.com/reports/1252282,7,0.0,Cross-site Scripting (XSS) - Reflected
+U.S. Dept Of Defense,XSS on ███,hackerone.com/reports/1252282,8,0.0,Cross-site Scripting (XSS) - Reflected
 U.S. Dept Of Defense,CUI labled and ████ and ██████  Restricted ██████ intelligence ,hackerone.com/reports/1244403,1,0.0,Information Disclosure
 U.S. Dept Of Defense,XSS due to CVE-2020-3580 [███.mil],hackerone.com/reports/1277383,0,0.0,Cross-site Scripting (XSS) - Reflected
 U.S. Dept Of Defense,S3 bucket listing/download,hackerone.com/reports/1173598,5,0.0,Improper Access Control - Generic
@@ -630,7 +655,7 @@ Rockstar Games,Brute Force against VMware Horizon,hackerone.com/reports/1278072,
 Mail.ru,"Subdomain takeover on ""info-edcrunch.skillfactory.ru"" ",hackerone.com/reports/1166996,23,0.0,Privilege Escalation
 Internet Bug Bounty,IP-in-IP protocol routes arbitrary traffic by default - CVE-2020-10136,hackerone.com/reports/893922,11,750.0,Improper Access Control - Generic
 MTN Group,Reflected XSS on play.mtn.co.za,hackerone.com/reports/1061199,12,0.0,Cross-site Scripting (XSS) - Reflected
-MTN Group,Blind SQL Injection ,hackerone.com/reports/1069531,32,0.0,SQL Injection
+MTN Group,Blind SQL Injection ,hackerone.com/reports/1069531,33,0.0,SQL Injection
 TikTok,Information Disclosure on TikTok Unplugged Site,hackerone.com/reports/1249050,10,0.0,Information Disclosure
 Basecamp,Domain Takeover [3737signals.com],hackerone.com/reports/1253926,42,300.0,Phishing
 Mail.ru,mailer.i.bizml.ru viber service preprod information disclosure,hackerone.com/reports/836149,14,300.0,Information Disclosure
@@ -690,9 +715,9 @@ Snapchat,Bitmoji source code is accessible,hackerone.com/reports/301812,80,1000.
 UPchieve,url redirection,hackerone.com/reports/1283200,5,0.0,Open Redirect
 8x8,DNS Misconfiguration (Subdomain Takeover)  - █████████.8x8.com,hackerone.com/reports/1280167,17,0.0,Privilege Escalation
 Stripo Inc,Bypassing Content-Security-Policy leads to open-redirect and iframe xss,hackerone.com/reports/1166766,31,0.0,Open Redirect
-Snapchat,Exposed Kubernetes API - RCE/Exposed Creds,hackerone.com/reports/455645,1051,25000.0,OS Command Injection
-Snapchat,Stealing SSO Login Tokens (snappublisher.snapchat.com),hackerone.com/reports/265943,201,7500.0,
-Snapchat,Publicly accessible Continuous Integration Tool,hackerone.com/reports/313457,523,25000.0,Improper Access Control - Generic
+Snapchat,Exposed Kubernetes API - RCE/Exposed Creds,hackerone.com/reports/455645,1053,25000.0,OS Command Injection
+Snapchat,Stealing SSO Login Tokens (snappublisher.snapchat.com),hackerone.com/reports/265943,202,7500.0,
+Snapchat,Publicly accessible Continuous Integration Tool,hackerone.com/reports/313457,524,25000.0,Improper Access Control - Generic
 Snapchat,CSRF when unlocking lenses leads to lenses being forcefully installed without user interaction,hackerone.com/reports/1085336,14,250.0,Cross-Site Request Forgery (CSRF)
 U.S. Dept Of Defense,All private support requests to ███████ are being disclosed at https://███████,hackerone.com/reports/1004964,11,0.0,Information Disclosure
 U.S. Dept Of Defense,SQL injection my method -1 OR 3*2*1=6 AND 000159=000159,hackerone.com/reports/1250293,26,0.0,Code Injection
@@ -717,14 +742,14 @@ UPchieve,hackers.upchieve.org and argocd.upchieve.org is not preloaded.,hackeron
 UPchieve,blind sql on  [ https://argocd.upchieve.org/login?return_url=id= ],hackerone.com/reports/1278928,2,0.0,SQL Injection
 Mail.ru,[geekbrains.ru] Node modules path disclosure due to lack of error handling,hackerone.com/reports/1177588,25,0.0,Information Disclosure
 Mail.ru,[app-01.youdrive.club] RCE in CI/CD via dependency confusion,hackerone.com/reports/1104693,81,3000.0,Command Injection - Generic
-Shopify,Github access token exposure,hackerone.com/reports/1087489,946,50000.0,
+Shopify,Github access token exposure,hackerone.com/reports/1087489,947,50000.0,
 Phabricator,Git flag injection leads to arbitrary file write,hackerone.com/reports/1070247,52,1000.0,Path Traversal
 Internet Bug Bounty,"Uncovering file quarantine and UX security issues in macOS apps ( .terminal, .fileloc and .url) ",hackerone.com/reports/944025,9,750.0,Violation of Secure Design Principles
 Internet Bug Bounty,[CVE-2020-27194] Linux kernel: eBPF verifier bug in `or` binary operation tracking function leads to LPE,hackerone.com/reports/1010340,10,750.0,Privilege Escalation
 Internet Bug Bounty,tcpdump before 4.9.3 has a heap-based buffer over-read related to aoe_print in print-aoe.c and lookup_emem in addrtoname.c,hackerone.com/reports/831353,12,500.0,Buffer Over-read
 Internet Bug Bounty,Fragmentation and Aggregation Flaws in Wi-Fi,hackerone.com/reports/1238470,14,750.0,Cryptographic Issues - Generic
 Internet Bug Bounty,Canonical Snapcraft vulnerable to remote code execution under certain conditions,hackerone.com/reports/1073202,5,750.0,
-U.S. General Services Administration,Account takeover through multistage CSRF at https://autochoice.fas.gsa.gov/AutoChoice/changeQAOktaAnswer and ../AutoChoice/changePwOktaAnswer,hackerone.com/reports/1208453,29,0.0,Cross-Site Request Forgery (CSRF)
+U.S. General Services Administration,Account takeover through multistage CSRF at https://autochoice.fas.gsa.gov/AutoChoice/changeQAOktaAnswer and ../AutoChoice/changePwOktaAnswer,hackerone.com/reports/1208453,30,0.0,Cross-Site Request Forgery (CSRF)
 Lark Technologies,[Lark Android] Vulnerability in exported activity WebView,hackerone.com/reports/694053,52,1000.0,Cross-site Scripting (XSS) - Generic
 Mail.ru,[tanks.mail.ru] SSRF + Кража cookie ,hackerone.com/reports/1166943,54,750.0,Cross-Site Request Forgery (CSRF)
 Mail.ru,Bypassing SOP with XSS on account.my.games leading to steal CSRF token and user information,hackerone.com/reports/1215053,11,200.0,Cross-Site Request Forgery (CSRF)
@@ -732,7 +757,7 @@ Mail.ru,Unauthorized Access  To Admin panel,hackerone.com/reports/1219681,36,0.0
 Khan Academy,Enumerate all the class codes via google dorking ,hackerone.com/reports/1210043,31,0.0,Improper Access Control - Generic
 Uber,pam_ussh does not properly validate the SSH certificate authority,hackerone.com/reports/1177356,28,1000.0,Improper Authentication - Generic
 curl,CVE-2021-22925: TELNET stack contents disclosure again,hackerone.com/reports/1223882,3,800.0,Information Disclosure
-Bumble,Exfiltrating a victim's exact location (to within 5m),hackerone.com/reports/1234406,249,2000.0,Information Disclosure
+Bumble,Exfiltrating a victim's exact location (to within 5m),hackerone.com/reports/1234406,250,2000.0,Information Disclosure
 Phabricator,Broken Authentication and Session Management lead to take over account,hackerone.com/reports/1271710,1,0.0,Improper Access Control - Generic
 curl,CVE-2021-22924: Bad connection reuse due to flawed path name checks,hackerone.com/reports/1223565,4,1200.0,Improper Input Validation
 curl,CVE-2021-22926: CURLOPT_SSLCERT mixup with Secure Transport,hackerone.com/reports/1234760,2,1000.0,Business Logic Errors
@@ -758,11 +783,11 @@ Nextcloud,Scoped apptokens can be changed by that very apptoken,hackerone.com/re
 Basecamp,Error Page Content Spoofing or Text Injection ,hackerone.com/reports/1245051,28,100.0,Violation of Secure Design Principles
 Twitter,[Bypass fixed #664038 and #519059] Application settings change settings that have been set by the user,hackerone.com/reports/712344,21,560.0,Business Logic Errors
 GitLab,FogBugz import attachment full SSRF requiring vulnerability in *.fogbugz.com,hackerone.com/reports/1092230,49,6000.0,Server-Side Request Forgery (SSRF)
-GitLab,Stored-XSS in merge requests,hackerone.com/reports/977697,30,3500.0,Cross-site Scripting (XSS) - Stored
+GitLab,Stored-XSS in merge requests,hackerone.com/reports/977697,31,3500.0,Cross-site Scripting (XSS) - Stored
 GitLab,Stored-XSS on wiki pages,hackerone.com/reports/1087061,53,1500.0,Cross-site Scripting (XSS) - Stored
 Ruby,OS Command Injection in 'rdoc' documentation generator,hackerone.com/reports/1161691,5,500.0,OS Command Injection
-GitLab,Stored XSS via Mermaid Prototype Pollution vulnerability,hackerone.com/reports/1106238,47,3000.0,Cross-site Scripting (XSS) - Stored
-GitLab,Stored DOM XSS via Mermaid chart,hackerone.com/reports/1103258,23,3000.0,Cross-site Scripting (XSS) - Stored
+GitLab,Stored XSS via Mermaid Prototype Pollution vulnerability,hackerone.com/reports/1106238,48,3000.0,Cross-site Scripting (XSS) - Stored
+GitLab,Stored DOM XSS via Mermaid chart,hackerone.com/reports/1103258,24,3000.0,Cross-site Scripting (XSS) - Stored
 Shopify,your-store.myshopify.com  preview link  is leak on third party website lead to preview all action from store owner Without store Password.,hackerone.com/reports/997350,12,500.0,Improper Authentication - Generic
 HackerOne,An invite-only's program submission state is accessible to users no longer part of the program,hackerone.com/reports/800109,181,500.0,Information Disclosure
 Topcoder,Reflected XSS in https://www.topcoder.com/blog/category/community-stories/,hackerone.com/reports/1194301,21,0.0,Cross-site Scripting (XSS) - Reflected
@@ -773,7 +798,7 @@ Internet Bug Bounty,"CVE-2017-13040 The MPTCP parser in tcpdump before 4.9.2 has
 Internet Bug Bounty,CVE-2017-13041 The ICMPv6 parser in tcpdump before 4.9.2 has a buffer over-read in print-icmp6.c:icmp6_nodeinfo_print().,hackerone.com/reports/964583,4,500.0,Buffer Over-read
 U.S. Dept Of Defense,Cache Posioning leading do Denial of Service on `www.█████████`,hackerone.com/reports/1198434,3,0.0,Denial of Service
 Acronis,No Rate Limit On Forgot Password Page,hackerone.com/reports/1245529,9,0.0,Improper Access Control - Generic
-Twitter,Blind XSS on Twitter's internal Big Data panel at █████████████,hackerone.com/reports/1207040,330,5040.0,Cross-site Scripting (XSS) - Stored
+Twitter,Blind XSS on Twitter's internal Big Data panel at █████████████,hackerone.com/reports/1207040,331,5040.0,Cross-site Scripting (XSS) - Stored
 Uber,"API on campus-vtc.com allows access to ~100 Uber users full names, email addresses and telephone numbers.",hackerone.com/reports/580268,29,750.0,Information Disclosure
 Khan Academy,Bypass the fix of report #1078283 due to poor validation,hackerone.com/reports/1212337,13,0.0,Open Redirect
 Shopify,Add new managed stores without permission,hackerone.com/reports/1167753,26,1900.0,Improper Access Control - Generic
@@ -826,7 +851,7 @@ GitLab,Responsible Disclosure of Privacy Leakage Issue,hackerone.com/reports/108
 New Relic,Account Takeover via Email ID Change and Forgot Password Functionality,hackerone.com/reports/1089467,205,2048.0,Improper Authentication - Generic
 New Relic,Untrusted deserialization issue when loading newrelic.yml file in Java agent leads to code execution on host,hackerone.com/reports/1109620,39,768.0,Deserialization of Untrusted Data
 Informatica,"F5 BIG-IP Cookie  potentially reveal BigIP pool name, backend's IP address and port, routed domain.",hackerone.com/reports/1211094,7,0.0,Information Disclosure
-Unikrn,Open URL Redirection,hackerone.com/reports/1238684,95,300.0,Open Redirect
+Unikrn,Open URL Redirection,hackerone.com/reports/1238684,96,300.0,Open Redirect
 Homebrew,clickjacking at  brew.sh,hackerone.com/reports/1245972,2,0.0,UI Redressing (Clickjacking)
 Node.js third-party modules,Server-side Template Injection in lodash.js ,hackerone.com/reports/904672,4,0.0,Code Injection
 Node.js third-party modules,Prototype Pollution Vulnerability in noble Package,hackerone.com/reports/390857,4,0.0,
@@ -839,7 +864,7 @@ HackerOne,Stored XSS in IE11 on hackerone.com via custom fields ,hackerone.com/r
 Acronis,XSS in (Support Requests) : User Cases,hackerone.com/reports/961226,28,50.0,Cross-site Scripting (XSS) - Stored
 HackerOne,"Report Duplicate Detector can match deleted and draft reports, may disclose title and vulnerability information",hackerone.com/reports/1242680,40,0.0,Information Disclosure
 VK.com,Open redirect в карусели сообщения бота,hackerone.com/reports/1206117,18,300.0,Open Redirect
-UPchieve,Session Hijacking leads to full control of account by attacker,hackerone.com/reports/1201396,13,0.0,
+UPchieve,Session Hijacking leads to full control of account by attacker,hackerone.com/reports/1201396,14,0.0,
 Acronis,No brute force protection on web-api-cloud.acronis.com,hackerone.com/reports/972045,9,100.0,Brute Force
 Acronis,Denial of Service in anti_ransomware_service.exe via logs files,hackerone.com/reports/858603,7,200.0,Denial of Service
 Acronis,Local Privilege Escalation in anti_ransomware_service.exe via quarantine,hackerone.com/reports/858598,5,200.0,Privilege Escalation
@@ -1023,7 +1048,7 @@ GitHub Security Lab,[Java]: CWE-601 Spring url redirection detect,hackerone.com/
 GitHub Security Lab,[Java] CWE-094: Jython code injection,hackerone.com/reports/1204659,4,1800.0,
 GitHub Security Lab,[Java] CWE-094: Rhino code injection,hackerone.com/reports/1204660,6,1800.0,
 Kaspersky,Several domains on kaspersky.com are vulnerable to Web Cache Deception attack,hackerone.com/reports/1185028,13,0.0,Insecure Storage of Sensitive Information
-U.S. General Services Administration,Weak password policy leading to exposure of administrator account access,hackerone.com/reports/1168104,33,0.0,Misconfiguration
+U.S. General Services Administration,Weak password policy leading to exposure of administrator account access,hackerone.com/reports/1168104,34,0.0,Misconfiguration
 QIWI,Account takeover just through csrf in https://booking.qiwi.kz/profile,hackerone.com/reports/1066189,29,100.0,Improper Access Control - Generic
 Lark Technologies,Improper Access Control on Lark Footer Feature,hackerone.com/reports/1169340,23,1000.0,Improper Access Control - Generic
 Rocket.Chat,Pre-Auth Blind NoSQL Injection leading to Remote Code Execution,hackerone.com/reports/1130721,17,0.0,
@@ -1041,12 +1066,12 @@ Sifchain,Information Disclosure on https://rpc.sifchain.finance/,hackerone.com/r
 Uber,"private passenger information is exposed to the Uber Driver app during ride dispatch (""Ping"") events",hackerone.com/reports/174404,86,750.0,Information Disclosure
 UPchieve,Zero click account Takeover due to Api misconfiguration 🏂🎩,hackerone.com/reports/1166500,29,0.0,Improper Access Control - Generic
 UPchieve,Full account takeover of any user through reset password,hackerone.com/reports/1175081,22,0.0,Improper Access Control - Generic
-GitLab,RCE when removing metadata with ExifTool,hackerone.com/reports/1154542,467,20000.0,Code Injection
+GitLab,RCE when removing metadata with ExifTool,hackerone.com/reports/1154542,468,20000.0,Code Injection
 8x8,Subdomain takeover of ████.jitsi.net,hackerone.com/reports/1197013,12,0.0,Privilege Escalation
 Uber,Request Access for Uber Device Returns Management Platform (https://www.eats-devicereturns.com/request-access/) Bypass Allows Access to PII,hackerone.com/reports/1010787,10,750.0,Privilege Escalation
 Sifchain,No Valid SPF Records/don't have DMARC record,hackerone.com/reports/1194598,2,0.0,Improper Authentication - Generic
 Uber,Unrestricted File Upload Results in Cross-Site Scripting Attacks,hackerone.com/reports/1005355,53,2000.0,Cross-site Scripting (XSS) - Stored
-Uber,"Corss-Tenant IDOR on Business allowing escalation privilege, invitation takeover, and edition of any other Businesses' employees",hackerone.com/reports/1063022,26,1250.0,Privilege Escalation
+Uber,"Corss-Tenant IDOR on Business allowing escalation privilege, invitation takeover, and edition of any other Businesses' employees",hackerone.com/reports/1063022,27,1250.0,Privilege Escalation
 Sifchain,No Rate Limit protection in user subscription form,hackerone.com/reports/1195429,3,0.0,
 Sifchain,Found a url on source code which was disclosing different juicy informations like ip addresses and available endponts,hackerone.com/reports/1195432,2,0.0,Information Exposure Through Directory Listing
 Sifchain,Path Transversal inside saveContracts.js,hackerone.com/reports/1196917,6,0.0,Relative Path Traversal
@@ -1061,7 +1086,7 @@ Mail.ru,SSRF at jira.plazius.ru - CVE-2019-8451,hackerone.com/reports/900618,33,
 Sifchain,Wrong Url in Main Page,hackerone.com/reports/1188629,4,200.0,Misconfiguration
 Mail.ru,Получение локального пути до файла [geekbrains.ru],hackerone.com/reports/1012644,5,0.0,Information Exposure Through an Error Message
 Mail.ru,Path traversal lead to LFR via [CVE-2019-3394],hackerone.com/reports/980881,72,1500.0,Path Traversal
-Glovo,Moodle XSS on  evolve.glovoapp.com,hackerone.com/reports/1165540,38,0.0,Cross-site Scripting (XSS) - Reflected
+Glovo,Moodle XSS on  evolve.glovoapp.com,hackerone.com/reports/1165540,39,0.0,Cross-site Scripting (XSS) - Reflected
 U.S. Dept Of Defense,"███ on https://████ enable ███ scraping, injection, stored XSS",hackerone.com/reports/1048571,9,0.0,Leftover Debug Code (Backdoor)
 U.S. Dept Of Defense,XSS via X-Forwarded-Host header,hackerone.com/reports/882220,14,0.0,Cross-site Scripting (XSS) - Reflected
 U.S. Dept Of Defense,https://████ is vulnerable to cve-2020-3452,hackerone.com/reports/998925,10,0.0,Path Traversal
@@ -1206,7 +1231,7 @@ Ruby,Round-trip instability in REXML,hackerone.com/reports/1104077,19,500.0,
 Nextcloud,Nextcloud Desktop Client RCE via malicious URI schemes,hackerone.com/reports/1078002,71,1000.0,Resource Injection
 GitHub Security Lab,[Java] CWE-1004: Query to check sensitive cookies without the HttpOnly flag set ,hackerone.com/reports/1165198,7,1000.0,
 U.S. General Services Administration,PHP info page disclosure,hackerone.com/reports/1118898,15,0.0,Information Disclosure
-QIWI,gifts.flocktory.com/phpmyadmin is vulnerable csrf,hackerone.com/reports/1113212,29,100.0,Cross-Site Request Forgery (CSRF)
+QIWI,gifts.flocktory.com/phpmyadmin is vulnerable csrf,hackerone.com/reports/1113212,30,100.0,Cross-Site Request Forgery (CSRF)
 QIWI,Remote Code Execution on contactws.contact-sys.com via SQL injection in TPrabhuObject.BeginOrder in parameter DOC_ID,hackerone.com/reports/1104111,51,2500.0,Code Injection
 QIWI,Remote Code Execution on contactws.contact-sys.com via SQL injection in TAktifBankObject.GetOrder in parameter DOC_ID,hackerone.com/reports/1104120,83,2500.0,Code Injection
 Acronis,Flash Based Reflected XSS on www.grouplogic.com/jwplayer/player.swf,hackerone.com/reports/859806,82,0.0,Cross-site Scripting (XSS) - Reflected
@@ -1288,7 +1313,7 @@ CS Money,"Origin IP found, Cloudflare bypassed",hackerone.com/reports/1105673,8,
 Acronis,Account Confirmation bypass leads to acess some fucntionality ,hackerone.com/reports/1121132,3,0.0,Improper Access Control - Generic
 PlayStation,Unrestricted access to quiesce functionality in dss.api.playstation.com REST API leads to unavailability of application,hackerone.com/reports/993722,37,1000.0,Missing Authorization
 PlayStation,Reflected XSS on transact.playstation.com using postMessage from the opening window,hackerone.com/reports/900619,78,1000.0,Cross-site Scripting (XSS) - Reflected
-PlayStation,SSRF chained to hit internal host leading to another SSRF which allows to read internal images.,hackerone.com/reports/826097,129,1000.0,Server-Side Request Forgery (SSRF)
+PlayStation,SSRF chained to hit internal host leading to another SSRF which allows to read internal images.,hackerone.com/reports/826097,131,1000.0,Server-Side Request Forgery (SSRF)
 Node.js,`fs.realpath.native` on darwin may cause buffer overflow,hackerone.com/reports/965914,4,250.0,Classic Buffer Overflow
 Uber,Critical Information disclosure of rtapi token for any user via https://video-support-staging.uber.com/video/api/getPopulousUser,hackerone.com/reports/953649,42,7000.0,Information Disclosure
 Uber,SQLI on desafio5estrelas.com ,hackerone.com/reports/476150,23,2500.0,SQL Injection
@@ -1487,7 +1512,7 @@ FetLife,Stored XSS via `Create a Fetish` section.,hackerone.com/reports/1085914,
 Logitech,"SSRF allows reading AWS EC2 metadata using ""readapi"" variable in Streamlabs Cloudbot",hackerone.com/reports/1108418,28,200.0,Server-Side Request Forgery (SSRF)
 Shopify,Subdomain Takeover Via unclaimed Heroku Instance tim-exclusive.shopify.com,hackerone.com/reports/424669,54,500.0,Improper Authentication - Generic
 Legal Robot,AWS hosting bucket for Legal Robots set as public browse and list contents: s3://legalrobot,hackerone.com/reports/166861,13,0.0,Information Disclosure
-Grab, Subdomain Takeover Via Insecure CloudFront Distribution cdn.grab.com,hackerone.com/reports/352869,100,1000.0,Array Index Underflow
+Grab, Subdomain Takeover Via Insecure CloudFront Distribution cdn.grab.com,hackerone.com/reports/352869,101,1000.0,Array Index Underflow
 Uber,RCE via npm misconfig -- installing internal libraries from the public registry,hackerone.com/reports/1007014,308,9000.0,Code Injection
 Uber,Pre-auth Remote Code Execution on multiple Uber SSL VPN servers,hackerone.com/reports/540242,71,2000.0,Command Injection - Generic
 Uber,Cookie Bombing cause DOS -  businesses.uber.com,hackerone.com/reports/847493,11,500.0,Denial of Service
@@ -1505,7 +1530,7 @@ Basecamp,DNS Setup allows sending mail on behalf of other customers,hackerone.co
 Mail.ru,subdomain Takeover,hackerone.com/reports/1004136,5,0.0,Privilege Escalation
 Mail.ru,Subdomain Takeover,hackerone.com/reports/1004604,14,0.0,Privilege Escalation
 Mail.ru,CSRF in updating username https://pw.mail.ru/,hackerone.com/reports/1046466,5,0.0,Cross-Site Request Forgery (CSRF)
-Lark Technologies,Stored xss in larksuite internal helpdesk and other user's helpdesk.,hackerone.com/reports/884931,9,500.0,Cross-site Scripting (XSS) - Stored
+Lark Technologies,Stored xss in larksuite internal helpdesk and other user's helpdesk.,hackerone.com/reports/884931,10,500.0,Cross-site Scripting (XSS) - Stored
 Nextcloud,Stored XSS in markdown file with Nextcloud Talk using Internet Explorer,hackerone.com/reports/1023787,12,150.0,Cross-site Scripting (XSS) - Stored
 U.S. Dept Of Defense,█████████ IDOR leads to disclosure of PHI/PII,hackerone.com/reports/1085782,23,0.0,Insecure Direct Object Reference (IDOR)
 Mail.ru,Stored XSS in calendar via UID parameter,hackerone.com/reports/758642,19,1000.0,
@@ -1525,7 +1550,7 @@ Rockstar Games,Open redirect on https://signin.rockstargames.com/connect/authori
 Algolia,email verification bypass,hackerone.com/reports/1089205,56,300.0,Improper Authentication - Generic
 Mail.ru,Google API Key is not restricted for specific application package name and signature [Mail.ru Cloud for Android],hackerone.com/reports/797636,2,150.0,Violation of Secure Design Principles
 Clario,No rate Limit on Licenses Activation ,hackerone.com/reports/911880,21,300.0,Business Logic Errors
-Zomato,[www.zomato.com] Leaking Email Addresses of merchants via reset password feature,hackerone.com/reports/293490,97,500.0,Improper Access Control - Generic
+Zomato,[www.zomato.com] Leaking Email Addresses of merchants via reset password feature,hackerone.com/reports/293490,98,500.0,Improper Access Control - Generic
 GitHub Security Lab,[Java] CWE-522: Insecure LDAP authentication ,hackerone.com/reports/1095708,3,1800.0,
 GitHub Security Lab,[golang] Division by zero query,hackerone.com/reports/1102227,2,1800.0,
 GitHub Security Lab,[JavaScript]: add query for Express-HBS LFR,hackerone.com/reports/1106019,4,1800.0,
@@ -1590,7 +1615,7 @@ U.S. Dept Of Defense,Insecure ███████ credentials on staging app a
 U.S. Dept Of Defense,Reflected XSS In https://███████,hackerone.com/reports/1094276,10,0.0,Cross-site Scripting (XSS) - Reflected
 Lark Technologies,RPC Implementation allows unauthenticated remote calls,hackerone.com/reports/876022,37,1250.0,Cross-site Scripting (XSS) - DOM
 Automattic,[intensedebate.com] Open Redirect,hackerone.com/reports/1050193,16,75.0,Open Redirect
-Yelp,RCE on build server via misconfigured pip install,hackerone.com/reports/946409,336,15000.0,Download of Code Without Integrity Check
+Yelp,RCE on build server via misconfigured pip install,hackerone.com/reports/946409,337,15000.0,Download of Code Without Integrity Check
 PayPal,RCE via npm misconfig -- installing internal libraries from the public registry,hackerone.com/reports/925585,773,30000.0,Code Injection
 Omise,assets/vendor.js file exposing sentry.io token and DNS and application id .,hackerone.com/reports/1038129,20,100.0,Information Disclosure
 curl,CVE-2020-8284: trusting FTP PASV responses,hackerone.com/reports/1040166,30,700.0,Information Disclosure
@@ -1751,8 +1776,8 @@ curl,Double-free of `trailers_buf' on `Curl_http_compile_trailers()` failure,hac
 curl,Incorrect IPv6 literal parsing leads to validated connection to unexpected https server.,hackerone.com/reports/688048,0,0.0,Improper Handling of URL Encoding (Hex Encoding)
 Doppler,User Access Control in Community Plan,hackerone.com/reports/1073734,3,0.0,Improper Access Control - Generic
 WHO COVID-19 Mobile App,Improper Input Validation on User's Location on PUT /WhoService/putLocation Could Affect Availability/Falsify Users,hackerone.com/reports/1064149,8,0.0,Improper Input Validation
-PlayStation,SSRF on image renderer,hackerone.com/reports/811136,92,1000.0,
-PlayStation,Access Token Smuggling from my.playstation.com via Referer Header,hackerone.com/reports/835437,125,1000.0,Violation of Secure Design Principles
+PlayStation,SSRF on image renderer,hackerone.com/reports/811136,93,1000.0,
+PlayStation,Access Token Smuggling from my.playstation.com via Referer Header,hackerone.com/reports/835437,126,1000.0,Violation of Secure Design Principles
 h1-ctf,Hacky Holidays CTF Writeup,hackerone.com/reports/1066801,2,0.0,Server-Side Request Forgery (SSRF)
 h1-ctf,HackyHolidays 2020 Full Write-up: Information Disclosure of 12 Flags,hackerone.com/reports/1068434,1,0.0,Information Disclosure
 h1-ctf,[h1ctf-Grinch Networks] MrR3b00t Saving the Christmas,hackerone.com/reports/1068934,2,0.0,
@@ -1773,7 +1798,7 @@ Doppler,Limited access to billing dashboard by Admin and Collaborator in conflic
 Doppler,Bypass Email Verification.,hackerone.com/reports/1074196,3,0.0,Improper Access Control - Generic
 Twitter,Bypass Password Authentication to Update the Password,hackerone.com/reports/970157,50,700.0,Improper Authentication - Generic
 Glassdoor,IDOR Vulnerability in Job Preferences,hackerone.com/reports/827158,17,100.0,Insecure Direct Object Reference (IDOR)
-Automattic,SQL Injection  intensedebate.com,hackerone.com/reports/1069561,81,350.0,SQL Injection
+Automattic,SQL Injection  intensedebate.com,hackerone.com/reports/1069561,82,350.0,SQL Injection
 Stripo Inc,No rate limit in email subscription,hackerone.com/reports/1047124,10,0.0,Business Logic Errors
 Bitwala,GraphQL introspection query works through unauthenticated WebSocket,hackerone.com/reports/862835,12,0.0,Misconfiguration
 Khan Academy,Login page vulnerable to bruteforce attacks via rate limiting bypass,hackerone.com/reports/1040471,26,0.0,Brute Force
@@ -1851,7 +1876,7 @@ Logitech,CSRF in changing users donation_settings [https://streamlabs.com/api/v6
 Logitech,Stored XSS in [https://streamlabs.com/dashboard#/*goal] pages,hackerone.com/reports/1049012,61,100.0,Cross-site Scripting (XSS) - Stored
 Nextcloud,XSS through image upload of contacts using svg file with png extension ,hackerone.com/reports/998422,20,0.0,Cross-site Scripting (XSS) - Stored
 Automattic,XSS in Email Input [intensedebate.com],hackerone.com/reports/1037714,88,100.0,Cross-site Scripting (XSS) - Generic
-CS Money,Blind XSS on image upload,hackerone.com/reports/1010466,397,1000.0,Cross-site Scripting (XSS) - Stored
+CS Money,Blind XSS on image upload,hackerone.com/reports/1010466,399,1000.0,Cross-site Scripting (XSS) - Stored
 Mail.ru,Брутфорс sms кода подтверждения для смены номера телефона в аккаунте LootDog.,hackerone.com/reports/901542,7,150.0,
 Mail.ru,Grafana SSRF in grafana.instamart.ru,hackerone.com/reports/895551,34,1200.0,Server-Side Request Forgery (SSRF)
 Mail.ru,SSRF in www.ucs.ru,hackerone.com/reports/906890,7,250.0,
@@ -1936,7 +1961,7 @@ VK.com,Уязвимость в методе auth.restore,hackerone.com/reports/3
 curl,CVE-2020-8286: Inferior OCSP verification,hackerone.com/reports/1048457,49,900.0,Improper Certificate Validation
 Mail.ru,Пользователь может изменить номер телефона в профиле без СМС подтверждения,hackerone.com/reports/901720,16,150.0,Business Logic Errors
 Slack,Slack-Corp Heroku application disclosing limited info about company members,hackerone.com/reports/966814,38,300.0,Information Disclosure
-Automattic,Sql injection on docs.atavist.com,hackerone.com/reports/1039315,151,200.0,SQL Injection
+Automattic,Sql injection on docs.atavist.com,hackerone.com/reports/1039315,153,200.0,SQL Injection
 Bumble,"Race Condition on ""Get free Badoo Premium"" which allows to get more days of free premium for Free. ",hackerone.com/reports/1037430,50,200.0,
 ImpressCMS,Download full backup and Cross site scripting ,hackerone.com/reports/1049040,14,0.0,Cross-site Scripting (XSS) - Reflected
 OPPO,Arbitrary thread deletion on c.realme.com,hackerone.com/reports/869705,73,600.0,Insecure Direct Object Reference (IDOR)
@@ -1946,7 +1971,7 @@ curl,An integer overflow found in /lib/urlapi.c,hackerone.com/reports/547630,23,
 curl,curl overwrite local file with -J,hackerone.com/reports/887462,52,700.0,Improper Input Validation
 curl,Partial password leak over DNS on HTTP redirect,hackerone.com/reports/874778,21,400.0,Information Disclosure
 Internet Bug Bounty,Some build dependencies are downloaded over an insecure channel (without subsequent integrity checks),hackerone.com/reports/1039504,20,100.0,Cryptographic Issues - Generic
-PlayStation,Websites Can Run Arbitrary Code on Machines Running the 'PlayStation Now' Application,hackerone.com/reports/873614,731,15000.0,Code Injection
+PlayStation,Websites Can Run Arbitrary Code on Machines Running the 'PlayStation Now' Application,hackerone.com/reports/873614,732,15000.0,Code Injection
 Stripo Inc,Non-revoked API Key Disclosure in a Disclosed API Key Disclosure Report on Stripo,hackerone.com/reports/1047125,14,0.0,Cleartext Storage of Sensitive Information
 Basecamp,SSL expired subdomain leads to API swap with main and flagged cookies. Unable to log device ids and certain session tokens. ,hackerone.com/reports/1024880,11,350.0,Brute Force
 Mail.ru,Improper Restriction of Excessive Authentication Attempts at https://ucs.ru/login,hackerone.com/reports/905194,6,400.0,Brute Force
@@ -1965,7 +1990,7 @@ Mail.ru,Users information leak at sbermarket.ru,hackerone.com/reports/893745,10,
 Mail.ru,Логи/sql запросы на http://mx36.ucs.ru/ и reflected XSS.,hackerone.com/reports/900930,9,400.0,Information Disclosure
 Showmax,WordPress admin is accessible without HTTP authentication,hackerone.com/reports/1022267,13,0.0,Improper Access Control - Generic
 RubyGems,Delete directory using symlink when decompressing tar,hackerone.com/reports/317321,35,500.0,Path Traversal
-GitLab,Store-XSS in error message of build-dependencies ,hackerone.com/reports/950190,34,3000.0,Cross-site Scripting (XSS) - Stored
+GitLab,Store-XSS in error message of build-dependencies ,hackerone.com/reports/950190,35,3000.0,Cross-site Scripting (XSS) - Stored
 GitLab,[Admin Panel] CSRF to resume/pause runner,hackerone.com/reports/415238,56,500.0,Cross-Site Request Forgery (CSRF)
 Affirm,Absence of Token expiry leads to Unauthorized login Access,hackerone.com/reports/766578,140,3000.0,Improper Authentication - Generic
 GitLab,Unauthorized user is able to access schedule pipeline variables and values,hackerone.com/reports/962462,9,3000.0,Information Disclosure
@@ -2268,7 +2293,7 @@ Internet Bug Bounty,PHP 7.3.3: Heap-use-after-free (READ of size 8) in match_at(
 Weblate,Send Empty CSRF leads to log out user on [https://hosted.weblate.org/accounts/profile],hackerone.com/reports/1003468,5,0.0,Cross-Site Request Forgery (CSRF)
 Internet Bug Bounty,Out-of-bounds read in iconv.c:_php_iconv_mime_decode() due to integer overflow,hackerone.com/reports/593229,58,1500.0,Buffer Over-read
 Internet Bug Bounty,DOS in stream filters,hackerone.com/reports/505278,44,1500.0,Denial of Service
-Figma,Race condition while removing the love react in community files.,hackerone.com/reports/996141,30,150.0,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition')
+Figma,Race condition while removing the love react in community files.,hackerone.com/reports/996141,31,150.0,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition')
 Internet Bug Bounty,Null Pointer Dereference in phar_create_or_parse_filename,hackerone.com/reports/584757,3,0.0,NULL Pointer Dereference
 Internet Bug Bounty,Use of uninitialized value in ftp_getrc_msg method of mod_proxy_ftp.c,hackerone.com/reports/838685,4,100.0,Information Disclosure
 Internet Bug Bounty,Long filenames cause OOM and temp files are not cleaned,hackerone.com/reports/905015,4,500.0,Denial of Service
@@ -2413,7 +2438,7 @@ GitLab,Stored XSS on PyPi simple API endpoint,hackerone.com/reports/856836,23,30
 Valve,Unauthorized updates to extended_info properties in /store/ajaxpackagesave,hackerone.com/reports/815547,20,2500.0,Improper Access Control - Generic
 Valve,"Add apps to packages 0, 61, 62 with /store/ajaxpackagemerge",hackerone.com/reports/972243,11,2500.0,Improper Access Control - Generic
 Shopify,damage to the timeline so that comment fields cannot be displayed or not available to all members in the store,hackerone.com/reports/971599,8,0.0,
-Staging.every.org,Race Condition when following a user,hackerone.com/reports/927384,89,0.0,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition')
+Staging.every.org,Race Condition when following a user,hackerone.com/reports/927384,90,0.0,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition')
 InnoGames,Blind SQL Injection ,hackerone.com/reports/758654,432,2000.0,SQL Injection
 GitLab,EXIF metadata not stripped from JPG group logos,hackerone.com/reports/446238,47,500.0,Information Disclosure
 GitLab,Injection of `http.<url>.*` git config settings leading to SSRF,hackerone.com/reports/855276,33,3000.0,Server-Side Request Forgery (SSRF)
@@ -2744,7 +2769,7 @@ Node.js third-party modules,SQL Injection or Denial of Service due to a Prototyp
 lemlist,CVE-2019-19935 - DOM based XSS in the froala editor,hackerone.com/reports/938683,9,0.0,Cross-site Scripting (XSS) - DOM
 Grammarly,"Grammarly Keyboard for Android ""Authorization Code with PKCE"" flow implementation vulnerability that allows account takeover",hackerone.com/reports/824931,71,2000.0,Use of Cryptographically Weak Pseudo-Random Number Generator (PRNG)
 lemlist,"Stored XSS at [ https://app.lemlist.com/campaigns/cam_QRS5caF2ca7MJtiLS/leads ] in "" LINKEDIN URL"" Field.",hackerone.com/reports/932557,14,0.0,Cross-site Scripting (XSS) - Stored
-Curve,Business Logic Flaw - A non premium user can change/update retailers to get cashback on all the retailers associated with Curve,hackerone.com/reports/672487,17,1000.0,Business Logic Errors
+Curve,Business Logic Flaw - A non premium user can change/update retailers to get cashback on all the retailers associated with Curve,hackerone.com/reports/672487,18,1000.0,Business Logic Errors
 Nord Security,Getting SmartDNS for free from -  join.nordvpn.com,hackerone.com/reports/925757,96,700.0,Improper Authentication - Generic
 Kubernetes,DoS for client-go jsonpath func,hackerone.com/reports/882923,6,200.0,Denial of Service
 Smule,No Rate Limiting On Phone Number Login Leads to Login Bypass,hackerone.com/reports/903363,45,0.0,Improper Authentication - Generic
@@ -3061,7 +3086,7 @@ GitHub Security Lab,[Java] CWE-939 - Address improper URL authorization,hackeron
 Mail.ru,[pulse.mail.ru] Доступ к статистике чужих площадок,hackerone.com/reports/831663,15,400.0,Improper Access Control - Generic
 Mail.ru,XSS on https://deti.mail.ru/,hackerone.com/reports/856193,3,0.0,Cross-site Scripting (XSS) - Stored
 Mail.ru,[my.games] Stored XSS via untrusted bucket,hackerone.com/reports/874107,11,0.0,Cross-site Scripting (XSS) - Stored
-Node.js third-party modules,[crypto-js] Insecure entropy source - Math.random(),hackerone.com/reports/678989,3,0.0,Use of Cryptographically Weak Pseudo-Random Number Generator (PRNG)
+Node.js third-party modules,[crypto-js] Insecure entropy source - Math.random(),hackerone.com/reports/678989,4,0.0,Use of Cryptographically Weak Pseudo-Random Number Generator (PRNG)
 Node.js third-party modules,[Limited bypass of #793704] Blind SSRF in Ghost CMS,hackerone.com/reports/815084,4,0.0,Server-Side Request Forgery (SSRF)
 Brave Software,Username Information Disclosure via Json response - Using parameter number Intruder,hackerone.com/reports/812351,16,0.0,Information Disclosure
 Brave Software,HTTP Request Smuggling,hackerone.com/reports/866382,12,0.0,HTTP Request Smuggling
@@ -3236,7 +3261,7 @@ BTFS,frame injection on bittorrent.com,hackerone.com/reports/846430,5,0.0,UI Red
 BTFS,Subdomain Takeover uptime,hackerone.com/reports/824909,13,100.0,Privilege Escalation
 Internet Bug Bounty,Dragonblood: Design and Implementation Flaws in WPA3 and EAP-pwd,hackerone.com/reports/745276,6,750.0,Cryptographic Issues - Generic
 GSA Bounty,SSRF/XSPA in labs.data.gov/dashboard/validate,hackerone.com/reports/272095,39,300.0,Server-Side Request Forgery (SSRF)
-HackerOne,Reflected XSS on www.hackerone.com and resources.hackerone.com,hackerone.com/reports/840759,344,500.0,Cross-site Scripting (XSS) - Reflected
+HackerOne,Reflected XSS on www.hackerone.com and resources.hackerone.com,hackerone.com/reports/840759,345,500.0,Cross-site Scripting (XSS) - Reflected
 HackerOne,Potential stored Cross-Site Scripting vulnerability in Support Backend,hackerone.com/reports/858894,68,0.0,Cross-site Scripting (XSS) - Stored
 Vanilla,disclosure of email by sending a message.,hackerone.com/reports/327200,42,150.0,
 MTN Group, SQL Injection on cookie parameter,hackerone.com/reports/761304,297,0.0,SQL Injection
@@ -3321,7 +3346,7 @@ Legal Robot,Cloudflare issue: Error 521 Ray ID: 2e7ea7f706ea4056 • 2016-09-25 
 Topcoder,"PII of Users Disclosure using ""/members/invite/"" endpoint",hackerone.com/reports/787955,52,0.0,Information Disclosure
 Stripo Inc,Unrestricted File Upload on https://my.stripo.email and https://stripo.email,hackerone.com/reports/823588,5,0.0,Unrestricted Upload of File with Dangerous Type
 MTN Group,Account Take over of millions of  MTN users account due to lack of Rate limiting when sending OTP code,hackerone.com/reports/761000,7,0.0,Improper Authentication - Generic
-Zenly,Insecure Storage and Overly Permissive  API Keys in Android App,hackerone.com/reports/753868,42,750.0,Cleartext Storage of Sensitive Information
+Zenly,Insecure Storage and Overly Permissive  API Keys in Android App,hackerone.com/reports/753868,43,750.0,Cleartext Storage of Sensitive Information
 MTN Group,OTP bypass - Unintended disclosure of OTP to client allows attacker to manage users' subscriptions,hackerone.com/reports/777957,16,0.0,Incorrect Authorization
 BCM Messenger,IDOR leading to downloading of any attachment,hackerone.com/reports/668439,102,100.0,Violation of Secure Design Principles
 8x8,Insecure OAuth redirection at [admin.8x8.vc],hackerone.com/reports/770548,15,0.0,Improper Input Validation
@@ -3427,7 +3452,7 @@ Open-Xchange,SSRF - Office Documents - Image URL,hackerone.com/reports/738015,37
 Stripo Inc,Strored Xss on https://my.stripo.email/ ( multiple inputs),hackerone.com/reports/789418,2,0.0,Cross-site Scripting (XSS) - Stored
 LINE,SSRF on music.line.me through getXML.php,hackerone.com/reports/746024,128,4500.0,Server-Side Request Forgery (SSRF)
 LINE,DOM-based XSS on mobile.line.me,hackerone.com/reports/736272,91,1989.5,Cross-site Scripting (XSS) - DOM
-LINE,Able to Become Admin for Any LINE Official Account,hackerone.com/reports/698579,479,4750.0,Privilege Escalation
+LINE,Able to Become Admin for Any LINE Official Account,hackerone.com/reports/698579,480,4750.0,Privilege Escalation
 HackerOne,profile-picture name parameter with large value lead to DoS for other users and programs on the platform,hackerone.com/reports/764434,460,2500.0,Denial of Service
 Evernote,One Click Code Execution via File,hackerone.com/reports/822609,20,0.0,Execution with Unnecessary Privileges
 Razer,https://zest.co.th/zestlinepay/checkproduct API endpoint suffers from Boolean-based SQL injection,hackerone.com/reports/783147,15,0.0,SQL Injection
@@ -3454,7 +3479,7 @@ PicsArt,User account compromised authentication bypass via oauth token impersona
 Myndr,Reflected XSS in https://blocked.myndr.net,hackerone.com/reports/824433,44,0.0,Cross-site Scripting (XSS) - Reflected
 MariaDB,scripts loader (denial of service) vulnerability,hackerone.com/reports/690330,19,0.0,Denial of Service
 OLX,load scripts DOS vulnerability,hackerone.com/reports/694467,9,0.0,Denial of Service
-Reverb.com,Full account takeover,hackerone.com/reports/314808,363,800.0,Improper Access Control - Generic
+Reverb.com,Full account takeover,hackerone.com/reports/314808,365,800.0,Improper Access Control - Generic
 Razer,Misconfigured Bucket  [razer-assets2]  https://assets2.razerzone.com/,hackerone.com/reports/756703,9,250.0,Information Disclosure
 Razer,Reflected XSS on https://www.easytopup.in.th/store/product/return on parameter mref_id,hackerone.com/reports/776883,17,250.0,Cross-site Scripting (XSS) - Reflected
 Razer,AWS subdomain Takeover at estore.razersynapse.com,hackerone.com/reports/785179,15,250.0,Privilege Escalation
@@ -3661,7 +3686,7 @@ Endless Group,Modify Host Header which is sent to email,hackerone.com/reports/79
 Endless Group,CVE-2017-8779 exploit on open rpcbind port could lead to remote DoS,hackerone.com/reports/791893,8,0.0,Denial of Service
 Yelp,No rate limiting for confirmation email lead to email flooding,hackerone.com/reports/774050,16,100.0,Violation of Secure Design Principles
 Starbucks,Thailand - Insecure Direct Object Reference permits an unauthorized user to transfer funds from a victim using only the victims Starbucks card,hackerone.com/reports/766437,27,0.0,Insecure Direct Object Reference (IDOR)
-HackerOne,Unauthorized user can obtain `report_sources` attribute through Team GraphQL object,hackerone.com/reports/770209,134,2500.0,Information Disclosure
+HackerOne,Unauthorized user can obtain `report_sources` attribute through Team GraphQL object,hackerone.com/reports/770209,135,2500.0,Information Disclosure
 VLC (European Commission - DIGIT),VLC 4.0.0 - Stack Buffer Overflow (SEH),hackerone.com/reports/489102,62,2817.28,Stack Overflow
 Localize,2-factor authentication can be disabled when logged in without confirming account password,hackerone.com/reports/783258,144,500.0,Business Logic Errors
 Stripo Inc,csrf bypass using flash file + 307 redirect method at plugins endpoint,hackerone.com/reports/766205,14,0.0,Cross-Site Request Forgery (CSRF)
@@ -3701,7 +3726,7 @@ Stripo Inc,No Rate Limiting on /reset-password-request/ endpoint,hackerone.com/r
 Stripo Inc,my.stripo.emai email verification bypassed and also create email templates,hackerone.com/reports/765318,1,0.0,Reliance on Untrusted Inputs in a Security Decision
 h1-ctf,[h1-415 2020] SSRF in a headless chrome with remote debugging leads to sensible information leak,hackerone.com/reports/781295,10,0.0,Server-Side Request Forgery (SSRF)
 Hyatt Hotels,"Hyatt WeChat Secret, Baidu AK Secret, and mysql db credentials inadvertantly made publicly available",hackerone.com/reports/478813,16,300.0,
-Kubernetes, Username enumeration via Openssh 7.6,hackerone.com/reports/776461,8,0.0,
+Kubernetes, Username enumeration via Openssh 7.6,hackerone.com/reports/776461,9,0.0,
 Kubernetes,No valid SPF record found,hackerone.com/reports/775531,4,0.0,Improper Authentication - Generic
 h1-ctf,[h1-415 2020] Spent a week and failed at solving the last step.,hackerone.com/reports/781265,96,0.0,Improper Access Control - Generic
 h1-ctf,[h1-415 2020] My writeup on how to retrieve the special secret document,hackerone.com/reports/776684,10,0.0,Improper Authentication - Generic
@@ -3757,7 +3782,7 @@ Node.js third-party modules,Prototype pollution in dot-prop,hackerone.com/report
 New Relic,Host Header Injection,hackerone.com/reports/698416,67,500.0,Open Redirect
 Node.js third-party modules,[url-parse] Improper Validation and Sanitization,hackerone.com/reports/496293,6,0.0,Improper Input Validation
 Razer,"Through blocking the redirect in /* the attacker able to bypass Authentication To see Sensitive Data sush as Game Keys , Emails ,..",hackerone.com/reports/736273,196,1000.0,Improper Access Control - Generic
-Reverb.com,"Race Condition allows to redeem multiple times gift cards which leads to free ""money""",hackerone.com/reports/759247,262,1500.0,Business Logic Errors
+Reverb.com,"Race Condition allows to redeem multiple times gift cards which leads to free ""money""",hackerone.com/reports/759247,263,1500.0,Business Logic Errors
 RATELIMITED,xss in /users/[id]/set_tier endpoint,hackerone.com/reports/782764,11,0.0,Cross-site Scripting (XSS) - Reflected
 Flickr,Arbitrary file read via ffmpeg HLS parser at https://www.flickr.com/photos/upload,hackerone.com/reports/487008,331,2000.0,Code Injection
 Keybase,macOS privilege escalation,hackerone.com/reports/490960,44,2000.0,Privilege Escalation
@@ -3791,7 +3816,7 @@ Mapbox,Stored XSS | api.mapbox.com | IE 11 | Styles name,hackerone.com/reports/7
 MariaDB,Ubuntu/Debian installation method allows key poisoning and code execution for network attacker,hackerone.com/reports/639473,9,0.0,Cryptographic Issues - Generic
 Revive Adserver,Reflected XSS on www/delivery/afr.php,hackerone.com/reports/775693,14,0.0,Cross-site Scripting (XSS) - Reflected
 GitLab,Double linking cause XSS (but blokeced by CSP in gitlab.com),hackerone.com/reports/729341,6,0.0,Cross-site Scripting (XSS) - DOM
-MobiSystems Ltd.,open Firebase Database: msdict-dev.firebaseio.com,hackerone.com/reports/736283,64,0.0,Improper Access Control - Generic
+MobiSystems Ltd.,open Firebase Database: msdict-dev.firebaseio.com,hackerone.com/reports/736283,65,0.0,Improper Access Control - Generic
 Nord Security,Open redirect,hackerone.com/reports/753399,79,500.0,Open Redirect
 Bumble,Bruteforce password recovery code,hackerone.com/reports/743545,252,1000.0,Violation of Secure Design Principles
 Vanilla,"Abusing ""Report as abuse"" functionality to delete any user's post.",hackerone.com/reports/411075,155,300.0,Business Logic Errors
@@ -3903,7 +3928,7 @@ Imgur,De-anonymization Attack: Cross Site Information Leakage,hackerone.com/repo
 "Polymail, Inc.",Bug in OAuth Success Redirect URI Validation,hackerone.com/reports/753547,6,0.0,Improper Input Validation
 Twitter,[Twitter Open Source] Releases were & are built/executed/tested/released in the context of insecure/untrusted code,hackerone.com/reports/505007,9,280.0,Cryptographic Issues - Generic
 GitLab,Bypass Email Verification using Salesforce -- Reproducible in gitlab.com,hackerone.com/reports/617896,46,1500.0,Violation of Secure Design Principles
-Vimeo,"SSRF  leaking internal google cloud data through upload function [SSH Keys, etc..]",hackerone.com/reports/549882,242,5000.0,Server-Side Request Forgery (SSRF)
+Vimeo,"SSRF  leaking internal google cloud data through upload function [SSH Keys, etc..]",hackerone.com/reports/549882,244,5000.0,Server-Side Request Forgery (SSRF)
 Phabricator,Markdown parsing issue enables insertion of malicious tags,hackerone.com/reports/758002,20,500.0,Cross-site Scripting (XSS) - Stored
 GitLab,Blocked user Git access through CI/CD token,hackerone.com/reports/497047,9,1500.0,Improper Access Control - Generic
 HackerOne,IDOR in Bugs overview enables attacker to determine the date range a hackathon was active,hackerone.com/reports/663431,25,0.0,Insecure Direct Object Reference (IDOR)
@@ -4319,7 +4344,7 @@ Brave Software,Stored XSS in localhost:* via integrated torrent downloader,hacke
 Brave Software,[Brave browser] WebTorrent has DNS rebinding vulnerability,hackerone.com/reports/663729,9,100.0,Information Disclosure
 Keybase,XSS on Desktop Client,hackerone.com/reports/473950,173,1000.0,Cross-site Scripting (XSS) - DOM
 Semmle,Worker container escape lead to arbitrary file reading in host machine,hackerone.com/reports/694181,110,2000.0,Privilege Escalation
-Slack,XSS vulnerable parameter in a location hash,hackerone.com/reports/146336,438,1100.0,Cross-site Scripting (XSS) - Generic
+Slack,XSS vulnerable parameter in a location hash,hackerone.com/reports/146336,439,1100.0,Cross-site Scripting (XSS) - Generic
 Internet Bug Bounty,"mod_http2, read-after-free in h2 connection shutdown (CVE-2019-10082)",hackerone.com/reports/680415,2,500.0,Use After Free
 Internet Bug Bounty,"mod_http2, memory corruption on early pushes (CVE-2019-10081)",hackerone.com/reports/677557,3,500.0,Use After Free
 Internet Bug Bounty,Use-After-Free / Double-Free in WDDX Deserialize,hackerone.com/reports/116372,14,500.0,Memory Corruption - Generic
@@ -4504,7 +4529,7 @@ Starbucks,Starbucks China Android app cloud storage service leaks a credential.,
 PayPal,Bypass for #488147 enables stored XSS on https://paypal.com/signin again,hackerone.com/reports/510152,2520,20000.0,HTTP Request Smuggling
 Internet Bug Bounty,ChaCha20-Poly1305 with long nonces,hackerone.com/reports/506040,8,500.0,Missing Encryption of Sensitive Data
 HackerOne,Manipulate hacker profile and private program hacktivity to expose your name as researchers who is actively submitting reports with resolve status,hackerone.com/reports/654198,201,500.0,Information Disclosure
-Mail.ru,Avatar upload allows arbitrary file overwriting,hackerone.com/reports/671605,86,750.0,Path Traversal
+Mail.ru,Avatar upload allows arbitrary file overwriting,hackerone.com/reports/671605,87,750.0,Path Traversal
 Mail.ru,Blind SSRF [ Sentry Misconfiguraton ],hackerone.com/reports/587012,25,250.0,Server-Side Request Forgery (SSRF)
 Node.js third-party modules,Application level denial of service due to shutting down the server ,hackerone.com/reports/627376,11,0.0,Denial of Service
 Twitter,"Ability to perform actions (Tweet, Retweet, DM) and other actions, unauthenticated, on any account with SMS enabled.",hackerone.com/reports/470749,98,0.0,Business Logic Errors
@@ -4728,11 +4753,11 @@ Mail.ru,[XSS] data-url в письмах,hackerone.com/reports/488308,40,1000.0,
 Mail.ru,Дюп предметов lootdog и возможность их продавать.,hackerone.com/reports/470041,73,5000.0,Business Logic Errors
 Mail.ru,[o2.mail.ru] nginx alias traversal,hackerone.com/reports/446330,30,150.0,Path Traversal
 Nextcloud,SignUp using Fake Email,hackerone.com/reports/664200,3,0.0,Business Logic Errors
-Grammarly,Handling of `tracking` command allows making arbitrary blind requests with user's cookies from Grammarly Extension's origin,hackerone.com/reports/389108,188,3000.0,
+Grammarly,Handling of `tracking` command allows making arbitrary blind requests with user's cookies from Grammarly Extension's origin,hackerone.com/reports/389108,189,3000.0,
 Kartpay,Error Page Content Spoofing or Text Injection [https://vpn.kartpay.com/],hackerone.com/reports/653214,3,0.0,Violation of Secure Design Principles
 GSA Bounty,Improper Session management can cause account takeover[https://micropurchase.18f.gov],hackerone.com/reports/263873,32,0.0,Insufficient Session Expiration
 U.S. Dept Of Defense,Gateway information leakage,hackerone.com/reports/258410,43,0.0,Privacy Violation
-PayPal,IDOR to add secondary users in www.paypal.com/businessmanage/users/api/v1/users,hackerone.com/reports/415081,670,10500.0,Insecure Direct Object Reference (IDOR)
+PayPal,IDOR to add secondary users in www.paypal.com/businessmanage/users/api/v1/users,hackerone.com/reports/415081,672,10500.0,Insecure Direct Object Reference (IDOR)
 GSA Bounty,Nginx misconfiguration leading to direct PHP source code download,hackerone.com/reports/268382,135,750.0,Information Disclosure
 GSA Bounty,Unclaimed Github Repository Takeover on https://www.data.gov/labs,hackerone.com/reports/515574,19,150.0,Phishing
 GSA Bounty,Root user disclosure in data.gov domain though x-amz-meta-s3cmd-attrs header,hackerone.com/reports/374907,22,150.0,Information Disclosure
@@ -4917,7 +4942,7 @@ ok.ru,Plain text password for 'unknown' user exist in URL when opening jira.apio
 Shipt,"Multiple Subdomain Takeovers: fly.staging.shipt.com, fly.us-west-2.staging.shipt.com, fly.us-east-1.staging.shipt.com",hackerone.com/reports/576857,125,900.0,Reliance on Reverse DNS Resolution for a Security-Critical Action
 ecobee,CSTI on https://www.ecobee.com leads to XSS,hackerone.com/reports/500518,38,0.0,Cross-site Scripting (XSS) - Reflected
 Midpoint (European Commission - DIGIT),Attacker can read password from log data,hackerone.com/reports/519367,35,168.68,Plaintext Storage of a Password
-Shopify,XSS on services.shopify.com,hackerone.com/reports/591786,41,500.0,Cross-site Scripting (XSS) - Stored
+Shopify,XSS on services.shopify.com,hackerone.com/reports/591786,42,500.0,Cross-site Scripting (XSS) - Stored
 Shopify,"H1514 Removed Staff members who had ""Apps"" permission can still modify flow app connections",hackerone.com/reports/416983,37,2000.0,Improper Authorization
 Twitter,IDOR and statistics leakage in Orders ,hackerone.com/reports/544329,109,289.0,Insecure Direct Object Reference (IDOR)
 GitLab,information disclosure of secret_key_base via encoding charcters,hackerone.com/reports/460545,144,3500.0,Information Exposure Through an Error Message
@@ -5175,7 +5200,7 @@ Unikrn,bypass Claudflare access crm.mautic.com,hackerone.com/reports/507012,7,50
 Unikrn,Path Disclosure Vulnerability http://crm.******.com,hackerone.com/reports/503804,12,50.0,
 HackerOne,Corrupted Authorization header can cause logs not to be ingested properly in ████████,hackerone.com/reports/447488,17,0.0,
 HackerOne,Deprecated Hacker101 coursework repository mentions Heroku App that is susceptible to takeover,hackerone.com/reports/514451,67,500.0,Externally Controlled Reference to a Resource in Another Sphere
-Shopify,H1514 Server Side Template Injection in Return Magic email templates?,hackerone.com/reports/423541,390,10000.0,Code Injection
+Shopify,H1514 Server Side Template Injection in Return Magic email templates?,hackerone.com/reports/423541,392,10000.0,Code Injection
 Shopify,SSRF in hatchful.shopify.com,hackerone.com/reports/409701,49,500.0,Server-Side Request Forgery (SSRF)
 Shopify,"Using GraphQL, STAFF with NO explicit permissions on Store can retrieve Shopify Payments Balance.",hackerone.com/reports/417170,59,500.0,Information Disclosure
 Starbucks,SSRF at ideas.starbucks.com,hackerone.com/reports/500468,27,1000.0,Server-Side Request Forgery (SSRF)
@@ -5183,7 +5208,7 @@ Monero,Unauthorized access of Monero wallet by an unprivileged process,hackerone
 Node.js third-party modules,"typeorm does not properly escape parameters when building SQL queries, resulting in potential SQLi",hackerone.com/reports/319458,1,0.0,SQL Injection
 Node.js third-party modules,`useragent` is vulnerable to ReDoS in user-agent string,hackerone.com/reports/320159,2,0.0,Denial of Service
 Node.js third-party modules,Arbitrary file overwrites in `node-tar`,hackerone.com/reports/344595,0,0.0,
-Node.js third-party modules,Prototype pollution attack (smart-extend),hackerone.com/reports/438274,1,0.0,
+Node.js third-party modules,Prototype pollution attack (smart-extend),hackerone.com/reports/438274,2,0.0,
 Node.js third-party modules,[servey] Path Traversal allows to retrieve content of any file with extension from remote server,hackerone.com/reports/355501,1,0.0,Path Traversal
 Node.js third-party modules,Media parsing in canvas is at least vulnerable to Denial of Service through multiple vulnerabilities,hackerone.com/reports/315037,0,0.0,Classic Buffer Overflow
 Node.js third-party modules,[statics-server] Path Traversal due to lack of provided path sanitization,hackerone.com/reports/355456,1,0.0,Path Traversal
@@ -5195,7 +5220,7 @@ Node.js third-party modules,Prototype pollution attack through jQuery $.extend,h
 Mail.ru,XXE on pulse.mail.ru,hackerone.com/reports/505947,263,6000.0,XML External Entities (XXE)
 Node.js third-party modules,[typeorm] SQL Injection,hackerone.com/reports/506654,15,0.0,SQL Injection
 Twitter,Multiple XSS on account settings that can hijack any users in the company. ,hackerone.com/reports/503298,70,700.0,Cross-site Scripting (XSS) - Stored
-Twitter,Stored XSS on reports.,hackerone.com/reports/485748,197,700.0,Cross-site Scripting (XSS) - Stored
+Twitter,Stored XSS on reports.,hackerone.com/reports/485748,198,700.0,Cross-site Scripting (XSS) - Stored
 PortSwigger Web Security,DLL Hijacking in Burp Suite Pro 2.0.19 Installer,hackerone.com/reports/518837,16,0.0,Privilege Escalation
 Ubiquiti Inc.,Login as root without password on EdgeSwitchX,hackerone.com/reports/512958,54,100.0,Improper Authentication - Generic
 Ubiquiti Inc.,Privilege-0 to Root Privilege Escalation on EdgeSwitch,hackerone.com/reports/511025,81,1604.0,Privilege Escalation
@@ -5621,7 +5646,7 @@ VK.com,[Клевер/Android] Небезопасный BroadcastReceiver поз�
 HackerOne,Improper UUID validation results in bypass of #419896,hackerone.com/reports/423073,78,7500.0,Improper Input Validation
 HackerOne,User with privilege to maintain External Programs can update certain churned HackerOne programs,hackerone.com/reports/411930,40,500.0,Improper Authorization
 Nextcloud,Session fixation in password protected public download.,hackerone.com/reports/237184,17,50.0,Session Fixation
-Nextcloud,Authentication Issue,hackerone.com/reports/146133,14,50.0,Improper Authentication - Generic
+Nextcloud,Authentication Issue,hackerone.com/reports/146133,15,50.0,Improper Authentication - Generic
 Vanilla,A SQL injection vulnerability in Vanilla,hackerone.com/reports/358570,50,600.0,SQL Injection
 Chaturbate,Open redirect on chaturbate.com (tipping/purchase_success),hackerone.com/reports/413426,24,250.0,Open Redirect
 Starbucks,Sidekiq web UI (Ruby background processing) accessible unauthenticated via https://gift-test.starbucks.co.jp/sidekiq/busy,hackerone.com/reports/423286,15,0.0,Improper Access Control - Generic
@@ -5648,7 +5673,7 @@ Chaturbate,Homograph attack on redirect URL ,hackerone.com/reports/385372,8,100.
 Ruby,"OpenSSL::X509::Name Equality Check Does Not Work, Patch included",hackerone.com/reports/387250,11,500.0,Improper Certificate Validation
 Dropbox,Stored XSS in dropboxforum.com,hackerone.com/reports/413124,19,512.0,Cross-site Scripting (XSS) - Stored
 Chaturbate,No rate limit in affiliate statsapi endpoint,hackerone.com/reports/413505,12,150.0,Brute Force
-Chaturbate,No rate limit in stats api token endpoint,hackerone.com/reports/412526,10,150.0,Brute Force
+Chaturbate,No rate limit in stats api token endpoint,hackerone.com/reports/412526,11,150.0,Brute Force
 Mail.ru,Blind XSS pets.mail.ru/admin/,hackerone.com/reports/334229,9,0.0,Cross-site Scripting (XSS) - Stored
 Mail.ru,Full account takeover am.ru,hackerone.com/reports/329263,8,0.0,Business Logic Errors
 Mail.ru,Disclosure of user email address and Deanonymization [mail.ru] + Blind | Stored XSS pets.mail.ru,hackerone.com/reports/334230,11,0.0,Cross-site Scripting (XSS) - Stored
@@ -5758,7 +5783,7 @@ Weblate,Broken Authentication – Session Token bug,hackerone.com/reports/400826
 Nextcloud,Shared file link - password protection bypass under certain conditions,hackerone.com/reports/231917,5,50.0,Information Disclosure
 Ubiquiti Inc.,Reflected XSS,hackerone.com/reports/304175,16,1000.0,Cross-site Scripting (XSS) - Reflected
 Nextcloud,Access control issue -- [Allow file system access not validated when using session auth],hackerone.com/reports/388515,16,100.0,Improper Access Control - Generic
-Brave Software,Local files reading from the web using `brave://`,hackerone.com/reports/390013,72,5000.0,
+Brave Software,Local files reading from the web using `brave://`,hackerone.com/reports/390013,73,5000.0,
 Brave Software,"Torrent extension: Cross-origin downloading + ""URL spoofing"" + CSP-blocked XSS",hackerone.com/reports/378864,12,0.0,
 Brave Software,Navigation to `chrome-extension://` origin (internal pages) from the web,hackerone.com/reports/378805,11,300.0,
 Brave Software,Unsafe handling of protocol handlers,hackerone.com/reports/369185,11,50.0,
@@ -6111,7 +6136,7 @@ Mail.ru,"XSS в отправителе, БЕТА-версия почты",hacker
 Mail.ru,XSS в теле письма.,hackerone.com/reports/303727,16,1000.0,Cross-site Scripting (XSS) - Stored
 Liberapay,Cross site scripting (content-sniffing),hackerone.com/reports/363845,2,0.0,Cross-site Scripting (XSS) - DOM
 Liberapay,Buffer overflow,hackerone.com/reports/363658,1,0.0,Classic Buffer Overflow
-Algolia,Directory traversal at https://msg.algolia.com,hackerone.com/reports/333306,28,0.0,Path Traversal
+Algolia,Directory traversal at https://msg.algolia.com,hackerone.com/reports/333306,29,0.0,Path Traversal
 Starbucks,Host header injection/redirection via newsletter signup,hackerone.com/reports/229498,16,150.0,
 Mail.ru,Modifying application settings via clickjacking on o2.mail.ru,hackerone.com/reports/355774,13,150.0,UI Redressing (Clickjacking)
 Liberapay,A single user can subscribe a community multiple times,hackerone.com/reports/362601,2,0.0,Business Logic Errors
@@ -6177,7 +6202,7 @@ Valve,"Unfiltered input allows for XSS in ""Playtime Item Grants"" fields",hacke
 Valve,Stored XXS @ https://steamcommunity.com/search/users/#text= via Profile Name,hackerone.com/reports/351171,36,750.0,Cross-site Scripting (XSS) - Stored
 GitLab,GitHub import allows user to create child group under existing namespace,hackerone.com/reports/301137,13,750.0,Improper Access Control - Generic
 MyCrypto,Missing SPF record for the in scope domain,hackerone.com/reports/325734,2,0.0,Phishing
-MyCrypto,Missing SPF Records.,hackerone.com/reports/324372,15,0.0,
+MyCrypto,Missing SPF Records.,hackerone.com/reports/324372,16,0.0,
 Shopify,SSRF in Exchange leads to ROOT access in all instances,hackerone.com/reports/341876,507,25000.0,Server-Side Request Forgery (SSRF)
 Mail.ru,Хранимая XSS ( API ),hackerone.com/reports/311063,10,500.0,Cross-site Scripting (XSS) - Stored
 Mail.ru,XSS уязвимость,hackerone.com/reports/302357,6,500.0,Cross-site Scripting (XSS) - Reflected
@@ -6380,7 +6405,7 @@ Automattic,Remote Code Execution in Wordpress Desktop,hackerone.com/reports/3014
 Zomato,URL is vulnerable to clickjacking,hackerone.com/reports/337219,2,0.0,UI Redressing (Clickjacking)
 Imgur,Information disclosure (No rate limting in forgot password & other login),hackerone.com/reports/91343,27,50.0,Information Disclosure
 LocalTapiola,Flash-based XSS on mediaelement-flash-audio-ogg.swf of www.lahitapiolarahoitus.fi,hackerone.com/reports/335990,7,250.0,Cross-site Scripting (XSS) - Reflected
-Upserve ,Blind stored xss in demo form,hackerone.com/reports/324194,23,500.0,Cross-site Scripting (XSS) - Stored
+Upserve ,Blind stored xss in demo form,hackerone.com/reports/324194,24,500.0,Cross-site Scripting (XSS) - Stored
 Mail.ru,[tanks.mail.ru] Open Redirect,hackerone.com/reports/201838,3,0.0,Violation of Secure Design Principles
 Shopify,Order notifications being sent for a deactivated staff account,hackerone.com/reports/331223,16,500.0,Improper Authorization
 LocalTapiola,The parameter in the POST query allows to control size of returned page which in turn can lead to the potential DOS attack,hackerone.com/reports/300391,10,315.0,Denial of Service
@@ -6623,7 +6648,7 @@ Mail.ru,Self-xss via drag&drop in email form,hackerone.com/reports/287382,4,300.
 Mail.ru,XSS on account.mail.ru/login,hackerone.com/reports/291522,8,500.0,Man-in-the-Middle
 Mail.ru,Uninitilized server memory disclosure via ImageMagick,hackerone.com/reports/294548,5,300.0,Information Disclosure
 Brave Software,Torrent Viewer extension web service available on all interfaces,hackerone.com/reports/300181,9,200.0,Information Disclosure
-Slack,Unauthenticated LFI revealing log information,hackerone.com/reports/272578,118,4000.0,Information Disclosure
+Slack,Unauthenticated LFI revealing log information,hackerone.com/reports/272578,119,4000.0,Information Disclosure
 Keybase,Claiming ownership of GitHub handles via forked GitHub gists.,hackerone.com/reports/307675,71,1000.0,Business Logic Errors
 HackerOne,While adding a payment method - Notification email not sent to newly added email ID as well as there is no verification for new email id (Paypal),hackerone.com/reports/307424,8,0.0,Violation of Secure Design Principles
 Node.js third-party modules,[serve] Directory index of arbitrary folder available due to lack of sanitization of %2e and %2f characters in url,hackerone.com/reports/307666,10,0.0,Path Traversal
@@ -7346,7 +7371,7 @@ Weblate,Improper validation of unicode characters still not fixed #2,hackerone.c
 Weblate,Improper validation of unicode characters still not fixed,hackerone.com/reports/241596,5,0.0,
 Rockstar Games,dom based xss in https://www.rockstargames.com/GTAOnline/,hackerone.com/reports/254343,9,500.0,Cross-site Scripting (XSS) - Reflected
 Gratipay,After removing app from facebook app session not expiring.,hackerone.com/reports/129209,1,0.0,Improper Authentication - Generic
-Gratipay,Host Header poisoning on gratipay.com,hackerone.com/reports/158482,1,0.0,Violation of Secure Design Principles
+Gratipay,Host Header poisoning on gratipay.com,hackerone.com/reports/158482,2,0.0,Violation of Secure Design Principles
 Gratipay,[gratipay.com] Cross Site Tracing,hackerone.com/reports/152834,2,0.0,Information Disclosure
 Gratipay,don't leak Server version for assets.gratipay.com,hackerone.com/reports/151302,2,0.0,Information Disclosure
 Gratipay,set Expires header,hackerone.com/reports/145207,0,0.0,Improper Authentication - Generic
@@ -8455,7 +8480,7 @@ shopify-scripts,Heap Buffer overflow in mrb_funcall_with_block,hackerone.com/rep
 Zomato,test.zba.se is vulnerable to SSL POODLE  ,hackerone.com/reports/201520,13,0.0,Cryptographic Issues - Generic
 Ruby,Writable RubyCi Amazon s3 bucket,hackerone.com/reports/207053,11,500.0,Improper Authentication - Generic
 Ruby,Ruby:HTTP Header injection in 'net/http',hackerone.com/reports/146416,4,0.0,Open Redirect
-Twitter,Remote Unrestricted file Creation/Deletion and Possible RCE.,hackerone.com/reports/191884,82,0.0,Code Injection
+Twitter,Remote Unrestricted file Creation/Deletion and Possible RCE.,hackerone.com/reports/191884,83,0.0,Code Injection
 GlobaLeaks,GlobaLeaks is vulnerable to timing attacks.,hackerone.com/reports/194647,4,0.0,Cryptographic Issues - Generic
 LocalTapiola,"CSRF allows attacker to delete item from customer's ""Postilaatikko""",hackerone.com/reports/123339,15,500.0,Cross-Site Request Forgery (CSRF)
 HackerOne,Websites opened from reports can change url of report page ,hackerone.com/reports/189726,50,500.0,Open Redirect
@@ -8942,7 +8967,7 @@ GitLab,"Ability to access all user authentication tokens, leads to RCE",hackeron
 Blockchain,Information disclosure at https://blockchain.atlassian.net,hackerone.com/reports/179599,14,100.0,Information Disclosure
 New Relic,Open redirection ,hackerone.com/reports/132251,3,0.0,Open Redirect
 Brave Software,[website] Script injection in newsletter signup https://brave.com/brave_youth_program_signup.html,hackerone.com/reports/175403,8,50.0,Command Injection - Generic
-Paragon Initiative Enterprises,DMARC  Not found for paragonie.com   URGENT,hackerone.com/reports/179828,133,0.0,XML External Entities (XXE)
+Paragon Initiative Enterprises,DMARC  Not found for paragonie.com   URGENT,hackerone.com/reports/179828,135,0.0,XML External Entities (XXE)
 Paragon Initiative Enterprises,Not clearing hex-decoded variable after usage in Authentication,hackerone.com/reports/168293,2,0.0,Violation of Secure Design Principles
 GitLab,"Read files on application server, leads to RCE",hackerone.com/reports/178152,111,0.0,Information Disclosure
 OLX,Reflected XSS in OLX.in,hackerone.com/reports/175801,4,0.0,Cross-site Scripting (XSS) - Generic
@@ -9047,7 +9072,7 @@ Mail.ru,[support.my.com] Internet Explorer XSS,hackerone.com/reports/87806,3,0.0
 Mail.ru,[tanks.mail.ru] Internet Explorer XSS via Request-URI,hackerone.com/reports/66423,8,0.0,Cross-site Scripting (XSS) - Generic
 Mail.ru,[mrgs.mail.ru] Internet Explorer XSS via Request-URI,hackerone.com/reports/66422,4,0.0,Cross-site Scripting (XSS) - Generic
 Mail.ru,[corp.mail.ru] CRLF Injection / Insecure nginx configuration,hackerone.com/reports/15492,4,0.0,
-Dropbox,XSS in OAuth Redirect Url,hackerone.com/reports/163707,20,0.0,Cross-site Scripting (XSS) - Generic
+Dropbox,XSS in OAuth Redirect Url,hackerone.com/reports/163707,21,0.0,Cross-site Scripting (XSS) - Generic
 Bime,Subdomain takeover at ws.bimedb.com due to unclaimed Amazon S3 bucket,hackerone.com/reports/161428,5,150.0,
 Shopify,Deleted Post and Administrative Function Access in eCommerce Forum,hackerone.com/reports/167846,6,500.0,Privilege Escalation
 Legal Robot,unsecured legalrobot.co.uk assets,hackerone.com/reports/163885,3,20.0,Violation of Secure Design Principles
@@ -9295,7 +9320,7 @@ Twitter,Add tweet to collection CSRF ,hackerone.com/reports/100820,9,560.0,Cross
 Twitter,Urgent : Disclosure of all the apps with hash ID in mopub through API request (Authentication bypass) ,hackerone.com/reports/98432,3,280.0,Improper Authentication - Generic
 GitLab,XSS On meta tags in profile page,hackerone.com/reports/159984,10,0.0,Cross-site Scripting (XSS) - Generic
 Gratipay,fix bug in username restriction,hackerone.com/reports/128121,13,10.0,Violation of Secure Design Principles
-Uber,"XSS At ""pages.et.uber.com""",hackerone.com/reports/156098,205,0.0,Cross-site Scripting (XSS) - Generic
+Uber,"XSS At ""pages.et.uber.com""",hackerone.com/reports/156098,206,0.0,Cross-site Scripting (XSS) - Generic
 HackerOne,Non-secure requests are not automatically upgraded to HTTPS,hackerone.com/reports/158186,30,500.0,
 Concrete CMS,Local File Inclusion path bypass,hackerone.com/reports/147570,13,0.0,Violation of Secure Design Principles
 Ian Dunn,Multiple XSS in Camptix Event Ticketing Plugin,hackerone.com/reports/152958,10,50.0,Cross-site Scripting (XSS) - Generic
@@ -9317,7 +9342,7 @@ Nextcloud,Response Header injection using redirect_uri together with PHP that ut
 Pornhub,[ssrf] libav vulnerable during conversion of uploaded videos,hackerone.com/reports/111269,10,1500.0,Information Disclosure
 Uber,[IODR] Get business trip via organization id,hackerone.com/reports/151470,8,2000.0,Improper Authentication - Generic
 Uber,Missing authorization checks leading to the exposure of ubernihao.com administrator accounts ,hackerone.com/reports/154762,14,3000.0,Information Disclosure
-Pornhub,[phpobject in cookie] Remote shell/command execution,hackerone.com/reports/141956,600,20000.0,Code Injection
+Pornhub,[phpobject in cookie] Remote shell/command execution,hackerone.com/reports/141956,601,20000.0,Code Injection
 Pornhub,Weak user aunthentication on mobile application - I just broken userKey secret password,hackerone.com/reports/138101,28,5000.0,Improper Authentication - Generic
 Pornhub,"Publicly exposed SVN repository, ht.pornhub.com",hackerone.com/reports/72243,205,10000.0,Code Injection
 Uber,[CRITICAL] -- Complete Account Takeover,hackerone.com/reports/136885,79,8000.0,Improper Authentication - Generic
@@ -9488,7 +9513,7 @@ Uber,Information regarding trips from other users,hackerone.com/reports/127161,1
 HackerOne,Possible CSRF during joining report as participant ,hackerone.com/reports/148517,16,0.0,Cross-Site Request Forgery (CSRF)
 Keybase,Register multiple users using one invitation (race condition),hackerone.com/reports/148609,17,350.0,
 Twitter,XSS via Fabrico Account Name,hackerone.com/reports/34725,4,280.0,Cross-site Scripting (XSS) - Generic
-Twitter,[Critical] - Steal OAuth Tokens,hackerone.com/reports/131202,23,840.0,Improper Authentication - Generic
+Twitter,[Critical] - Steal OAuth Tokens,hackerone.com/reports/131202,24,840.0,Improper Authentication - Generic
 Gratipay,don't leak Server version for assets.gratipay.com,hackerone.com/reports/149710,11,0.0,Information Disclosure
 Mail.ru,[connect.mail.ru] Memory Disclosure / IE XSS,hackerone.com/reports/38615,6,250.0,
 Automattic,WordPress Flash XSS in *flashmediaelement.swf*,hackerone.com/reports/134546,68,1337.0,Cross-site Scripting (XSS) - Generic
@@ -9937,7 +9962,7 @@ Mail.ru,VERY DANGEROUS XSS STORED inside emails ,hackerone.com/reports/116570,7,
 Zomato,"Persistent input validation mail encoding vulnerability  in the ""just followed you"" email notification.",hackerone.com/reports/114879,4,0.0,Cross-site Scripting (XSS) - Generic
 Uber,XSS In archive.uber.com Due to Mime Sniffing in IE,hackerone.com/reports/126197,1,750.0,Cross-site Scripting (XSS) - Generic
 Uber,CSV Injection in business.uber.com,hackerone.com/reports/126109,3,1000.0,Information Disclosure
-Uber,uber.com may RCE by Flask Jinja2 Template Injection,hackerone.com/reports/125980,91,10000.0,Code Injection
+Uber,uber.com may RCE by Flask Jinja2 Template Injection,hackerone.com/reports/125980,92,10000.0,Code Injection
 Uber,HTML Escaping Error in the 404 Page on developer.uber.com/docs/,hackerone.com/reports/125130,1,0.0,Cross-site Scripting (XSS) - Generic
 Uber,XSS in getrush.uber.com ,hackerone.com/reports/125112,3,3000.0,Cross-site Scripting (XSS) - Generic
 Uber,Reflected XSS on Uber.com careers,hackerone.com/reports/117190,7,3000.0,Cross-site Scripting (XSS) - Generic
@@ -10052,7 +10077,7 @@ ownCloud,The csrf token remains same after user logs in,hackerone.com/reports/11
 KIWI.KI GmbH,Subdomain takeover : URGENT,hackerone.com/reports/118514,1,0.0,Improper Authentication - Generic
 HackerOne,Private Program Disclosure in /:handle/settings/allow_report_submission.json endpoint,hackerone.com/reports/116798,4,500.0,Information Disclosure
 Udemy,Reflected XSS and/or malicious redirection via JWPlayer 6 configuration modification,hackerone.com/reports/95640,0,0.0,Cross-site Scripting (XSS) - Generic
-HackerOne,Interstitial redirect bypass / open redirect in https://hackerone.com/zendesk_session,hackerone.com/reports/111968,21,500.0,Open Redirect
+HackerOne,Interstitial redirect bypass / open redirect in https://hackerone.com/zendesk_session,hackerone.com/reports/111968,22,500.0,Open Redirect
 Mail.ru,SSRF на element.mail.ru,hackerone.com/reports/117158,1,250.0,Information Disclosure
 Mail.ru,[3k.mail.ru] SQL Injection,hackerone.com/reports/116508,1,150.0,SQL Injection
 HackerOne,Unintended HTML inclusion as a result of https://hackerone.com/reports/110578,hackerone.com/reports/112935,16,500.0,

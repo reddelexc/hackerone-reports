@@ -32,9 +32,9 @@ Top reports from Internet Bug Bounty program at HackerOne:
 30. [Information disclosure in mmap module - python 2.7.12](https://hackerone.com/reports/174632) to Internet Bug Bounty - 30 upvotes, $500
 31. [ZeroMQ libzmq remote code execution](https://hackerone.com/reports/477073) to Internet Bug Bounty - 29 upvotes, $1000
 32. [Path Traversal and Remote Code Execution in Apache HTTP Server 2.4.49 and 2.4.50 (incomplete fix of CVE-2021-41773) (CVE-2021-42013)](https://hackerone.com/reports/1400238) to Internet Bug Bounty - 29 upvotes, $1000
-33. [Mailsploit: a sender spoofing bug in over 30 email clients](https://hackerone.com/reports/295339) to Internet Bug Bounty - 27 upvotes, $0
-34. [4 severe remote + several minor OpenVPN vulnerabilities](https://hackerone.com/reports/242579) to Internet Bug Bounty - 27 upvotes, $0
-35. [Ruby CVE-2021-41819: Cookie Prefix Spoofing in CGI::Cookie.parse](https://hackerone.com/reports/1464396) to Internet Bug Bounty - 26 upvotes, $2000
+33. [Ruby CVE-2021-41819: Cookie Prefix Spoofing in CGI::Cookie.parse](https://hackerone.com/reports/1464396) to Internet Bug Bounty - 28 upvotes, $2000
+34. [Mailsploit: a sender spoofing bug in over 30 email clients](https://hackerone.com/reports/295339) to Internet Bug Bounty - 27 upvotes, $0
+35. [4 severe remote + several minor OpenVPN vulnerabilities](https://hackerone.com/reports/242579) to Internet Bug Bounty - 27 upvotes, $0
 36. [UrnState Heap Overflow](https://hackerone.com/reports/824771) to Internet Bug Bounty - 25 upvotes, $12000
 37. [Local Privilege Escalation during execution of VeraCryptExpander.exe (UAC bypass)](https://hackerone.com/reports/530292) to Internet Bug Bounty - 25 upvotes, $1250
 38. [DOMPurify bypass](https://hackerone.com/reports/1024734) to Internet Bug Bounty - 25 upvotes, $0

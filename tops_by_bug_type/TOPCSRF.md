@@ -49,16 +49,16 @@ Top CSRF reports from HackerOne:
 47. [Timing attack towards endpoints on the web without CSRF ](https://hackerone.com/reports/348168) to HackerOne - 32 upvotes, $0
 48. [Cross site scripting - XSRF Token](https://hackerone.com/reports/858255) to Nextcloud - 32 upvotes, $0
 49. [CSRF on launchpad.37signals.com OAuth2 authorization endpoint](https://hackerone.com/reports/850022) to Basecamp - 31 upvotes, $2000
-50. [Cross-Site Request Forgery (CSRF)](https://hackerone.com/reports/157993) to Instacart - 31 upvotes, $100
-51. [Flash CSRF: Update Ad Frequency %: [cp-ng.pinion.gg]](https://hackerone.com/reports/251918) to Unikrn - 31 upvotes, $40
-52. [CSRF at [Apply to this program] that lead to submit your request automatic with out any validations](https://hackerone.com/reports/334253) to HackerOne - 30 upvotes, $500
-53. [CSRF leads to account deactivation of users](https://hackerone.com/reports/1121990) to Evernote - 30 upvotes, $300
+50. [CSRF leads to account deactivation of users](https://hackerone.com/reports/1121990) to Evernote - 31 upvotes, $300
+51. [Cross-Site Request Forgery (CSRF)](https://hackerone.com/reports/157993) to Instacart - 31 upvotes, $100
+52. [Flash CSRF: Update Ad Frequency %: [cp-ng.pinion.gg]](https://hackerone.com/reports/251918) to Unikrn - 31 upvotes, $40
+53. [CSRF at [Apply to this program] that lead to submit your request automatic with out any validations](https://hackerone.com/reports/334253) to HackerOne - 30 upvotes, $500
 54. [Site-wide CSRF at Atavist ](https://hackerone.com/reports/951292) to Automattic - 30 upvotes, $200
-55. [Self-Stored XSS - Chained with login/logout CSRF](https://hackerone.com/reports/632017) to Zomato - 29 upvotes, $300
-56. [gifts.flocktory.com/phpmyadmin is vulnerable csrf](https://hackerone.com/reports/1113212) to QIWI - 29 upvotes, $100
-57. [Account takeover just through csrf in https://booking.qiwi.kz/profile](https://hackerone.com/reports/1066189) to QIWI - 29 upvotes, $100
-58. [CSRF On Connect Account With Github Lead To Account Takeover](https://hackerone.com/reports/542047) to Vercel - 29 upvotes, $0
-59. [Account takeover through multistage CSRF at https://autochoice.fas.gsa.gov/AutoChoice/changeQAOktaAnswer and ../AutoChoice/changePwOktaAnswer](https://hackerone.com/reports/1208453) to U.S. General Services Administration - 29 upvotes, $0
+55. [gifts.flocktory.com/phpmyadmin is vulnerable csrf](https://hackerone.com/reports/1113212) to QIWI - 30 upvotes, $100
+56. [Account takeover through multistage CSRF at https://autochoice.fas.gsa.gov/AutoChoice/changeQAOktaAnswer and ../AutoChoice/changePwOktaAnswer](https://hackerone.com/reports/1208453) to U.S. General Services Administration - 30 upvotes, $0
+57. [Self-Stored XSS - Chained with login/logout CSRF](https://hackerone.com/reports/632017) to Zomato - 29 upvotes, $300
+58. [Account takeover just through csrf in https://booking.qiwi.kz/profile](https://hackerone.com/reports/1066189) to QIWI - 29 upvotes, $100
+59. [CSRF On Connect Account With Github Lead To Account Takeover](https://hackerone.com/reports/542047) to Vercel - 29 upvotes, $0
 60. [Site-wide CSRF on eats.uber.com](https://hackerone.com/reports/161529) to Uber - 28 upvotes, $6000
 61. [OAuth 2 Authorization Bypass via CSRF and Cross Site Flashing](https://hackerone.com/reports/136582) to Vimeo - 28 upvotes, $1000
 62. [CSRF на загрузку аудиозаписей](https://hackerone.com/reports/329345) to VK.com - 28 upvotes, $100
@@ -160,259 +160,260 @@ Top CSRF reports from HackerOne:
 158. [CSRF - Modify Company Info](https://hackerone.com/reports/856981) to U.S. Dept Of Defense - 10 upvotes, $0
 159. [ The vulnerabilities found were XSS, Public disclosure, Network enumeration via CSRF, DLL hijacking.](https://hackerone.com/reports/927413) to Zomato - 10 upvotes, $0
 160. [CSRF to Cross-site Scripting (XSS)](https://hackerone.com/reports/1118521) to U.S. Dept Of Defense - 10 upvotes, $0
-161. [Add tweet to collection CSRF ](https://hackerone.com/reports/100820) to Twitter - 9 upvotes, $560
-162. [CSRF в получении резервных токенов+framing , приводящие к компроментации 2fa](https://hackerone.com/reports/90165) to VK.com - 9 upvotes, $500
-163. [CSRF | Ban or unban users in broadcast's chat](https://hackerone.com/reports/381237) to Valve - 9 upvotes, $500
-164. [[chaturbate.com] - CSRF Vulnerability on image upload](https://hackerone.com/reports/401483) to Chaturbate - 9 upvotes, $300
-165. [CSRF in Report Lost or Stolen Page https://www.starbucks.com/account/card](https://hackerone.com/reports/233099) to Starbucks - 9 upvotes, $250
-166. [CSRF in REPORT EMOTICON feature](https://hackerone.com/reports/395731) to Chaturbate - 9 upvotes, $250
-167. [csrf in https://www.rockstargames.com/reddeadonline/feedback/submit.json](https://hackerone.com/reports/796295) to Rockstar Games - 9 upvotes, $150
-168. [CSRF отредактировать карточки в посте у группы](https://hackerone.com/reports/307382) to VK.com - 9 upvotes, $100
-169. [CSRF logs the victim into attacker's account](https://hackerone.com/reports/339352) to Unikrn - 9 upvotes, $100
-170. [CSRF на добавление товара на продажу](https://hackerone.com/reports/317314) to Mail.ru - 9 upvotes, $100
-171. [Cross Site Request Forgery (CSRF)](https://hackerone.com/reports/148156) to Mail.ru - 9 upvotes, $0
-172. [CSRF Full Account Takeover](https://hackerone.com/reports/152052) to Concrete CMS - 9 upvotes, $0
-173. [Twitter Disconnect CSRF](https://hackerone.com/reports/114127) to Zomato - 9 upvotes, $0
-174. [CSRF Send a message at street-combats.mail.ru](https://hackerone.com/reports/196715) to Mail.ru - 9 upvotes, $0
-175. [CSRF](https://hackerone.com/reports/226612) to Mixmax - 9 upvotes, $0
-176. [Login CSRF : Login Authentication Flaw](https://hackerone.com/reports/229528) to Weblate - 9 upvotes, $0
-177. [CSRF Full Account Takeover - https://redtube.com/settings](https://hackerone.com/reports/388531) to Redtube - 9 upvotes, $0
-178. [vulnerable to Cross-site Request Forgery | Jira](https://hackerone.com/reports/392761) to MariaDB - 9 upvotes, $0
-179. [Missing CSRF Token On Remove Coupun From Cart](https://hackerone.com/reports/227726) to Starbucks - 9 upvotes, $0
-180. [CSRF уязвимость позволяет взять беспроцентный кредит пользователю cfire.mail.ru](https://hackerone.com/reports/496260) to Mail.ru - 9 upvotes, $0
-181. [No CSRF Protection in Resend Confirmation Email feature leads to Sending Unwanted Email in Victim's Inbox without knowing Victim's email address](https://hackerone.com/reports/753386) to Stripo Inc - 9 upvotes, $0
-182. [CSRF Based XSS @ https://██████████](https://hackerone.com/reports/1147949) to U.S. Dept Of Defense - 9 upvotes, $0
-183. [RCE in AirOS 6.2.0 Devices with CSRF bypass](https://hackerone.com/reports/703659) to Ubiquiti Inc. - 8 upvotes, $6839
-184. [CSRF in login form would led to account takeover](https://hackerone.com/reports/50703) to Ubiquiti Inc. - 8 upvotes, $500
-185. [account.ubnt.com CSRF](https://hackerone.com/reports/101909) to Ubiquiti Inc. - 8 upvotes, $200
-186. [CSRF Delete chat invitation link.](https://hackerone.com/reports/970902) to Mail.ru - 8 upvotes, $100
-187. [CSRF in the "Add restaurant picture" function](https://hackerone.com/reports/169699) to Zomato - 8 upvotes, $50
-188. [CSRF in account configuration leads to complete account compromise](https://hackerone.com/reports/150586) to OLX - 8 upvotes, $0
-189. [CSRF to change Account Security Keys on secure.login.gov](https://hackerone.com/reports/263498) to GSA Bounty - 8 upvotes, $0
-190. [CSRF in twitterflightschool.com ( CAN POST ON TIMELINE WITHOUT USER PERMISSION)](https://hackerone.com/reports/115158) to Twitter - 8 upvotes, $0
-191. [CSRF token fixation and potential account takeover](https://hackerone.com/reports/308394) to Khan Academy - 8 upvotes, $0
-192. [Application Vulnerable to CSRF - Remove Invited user](https://hackerone.com/reports/282490) to Infogram - 8 upvotes, $0
-193. [Missing CSRF Token On Add Coupon To Basket](https://hackerone.com/reports/227725) to Starbucks - 8 upvotes, $0
-194. [Authenticated Cross-Site-Request-Forgery](https://hackerone.com/reports/505595) to Semmle - 8 upvotes, $0
-195. [CSRF on https://market.my.games](https://hackerone.com/reports/802930) to Mail.ru - 8 upvotes, $0
-196. [Cross-Site WebSocket Hijacking Lead to Steal XSRF-TOKEN](https://hackerone.com/reports/915541) to Stripo Inc - 8 upvotes, $0
-197. [Stored unauth XSS in calendar event via CSRF](https://hackerone.com/reports/1102018) to Concrete CMS - 8 upvotes, $0
-198. [Limited CSRF bypass.](https://hackerone.com/reports/99708) to HackerOne - 7 upvotes, $500
-199. [Missing of csrf protection ](https://hackerone.com/reports/96470) to Shopify - 7 upvotes, $500
-200. [CSRF exploit | Adding/Editing comment of wishlist items (teavana.com - Wishlist-Comments)](https://hackerone.com/reports/177639) to Starbucks - 7 upvotes, $375
-201. [CSRF на "ловлю гостей" и раскрытие аудиотрансляции в частной группе](https://hackerone.com/reports/301631) to VK.com - 7 upvotes, $100
-202. [[CRITICAL]  CSRF  leading to account take over ](https://hackerone.com/reports/141344) to drchrono - 7 upvotes, $50
-203. [CSRF To change Email Notification Settings ](https://hackerone.com/reports/157956) to Instacart - 7 upvotes, $50
-204. [CSRF bypass + XSS on verkkopalvelu.tapiola.fi](https://hackerone.com/reports/200683) to LocalTapiola - 7 upvotes, $50
-205. [Private Project Access Request Invitation Sent Via CSRF ](https://hackerone.com/reports/8226) to Localize - 7 upvotes, $0
-206. [CSRF vulnerability that allows an attacker to purge plugin metric data](https://hackerone.com/reports/157270) to New Relic - 7 upvotes, $0
-207. [CSRF to Connect third party Account](https://hackerone.com/reports/225100) to Weblate - 7 upvotes, $0
-208. [CSRF For Adding Users](https://hackerone.com/reports/225326) to New Relic - 7 upvotes, $0
-209. [csrf token did not changed after login/logout many times](https://hackerone.com/reports/361131) to Liberapay - 7 upvotes, $0
-210. [[out-of-scope] toxiproxy: Lack of CSRF protection allows an attacker to gain access to internal Shopify network](https://hackerone.com/reports/236349) to Shopify - 7 upvotes, $0
-211. [Imperfect CSRF To Overwrite Server Config at /go/admin/restful/configuration/file/POST/xml](https://hackerone.com/reports/240048) to GoCD - 7 upvotes, $0
-212. [CSRF на загрузку изображения Pandao](https://hackerone.com/reports/482922) to Mail.ru - 7 upvotes, $0
-213. [CSRF on /subscription_manage.php endpoint at allods.mail.ru](https://hackerone.com/reports/517470) to Mail.ru - 7 upvotes, $0
-214. [CSRF on delete friend requests - Not protected with CSRF Token](https://hackerone.com/reports/1408745) to XVIDEOS - 7 upvotes, $0
-215. [CSRF in cancel group and private show requests](https://hackerone.com/reports/396338) to Chaturbate - 6 upvotes, $300
-216. [WordPress core  - Denial of Service via Cross Site Request Forgery](https://hackerone.com/reports/153093) to WordPress - 6 upvotes, $250
-217. [CSRF in "send them an email and browser notification" feature](https://hackerone.com/reports/396802) to Chaturbate - 6 upvotes, $150
-218. [Security Issue : CSRF Token Design Flaw](https://hackerone.com/reports/141065) to drchrono - 6 upvotes, $100
-219. [CSRF @ configuration ](https://hackerone.com/reports/208734) to Files.com - 6 upvotes, $100
-220. [CSRF](https://hackerone.com/reports/65167) to Legal Robot - 6 upvotes, $20
-221. [Sign-up Form CSRF](https://hackerone.com/reports/7865) to Localize - 6 upvotes, $0
-222. [CSRF - Delete all empty application policy](https://hackerone.com/reports/123092) to New Relic - 6 upvotes, $0
-223. [CSRF Token Bypass in Account Deletion](https://hackerone.com/reports/182487) to GitLab - 6 upvotes, $0
-224. [CSRF in delete advertisement on olx.com.eg](https://hackerone.com/reports/178384) to OLX - 6 upvotes, $0
-225. [Logout CSRF](https://hackerone.com/reports/223329) to Weblate - 6 upvotes, $0
-226. [CSRF : Reset API ](https://hackerone.com/reports/223333) to Weblate - 6 upvotes, $0
-227. [CSRF bug ](https://hackerone.com/reports/239170) to Bumble - 6 upvotes, $0
-228. [CSRF создание опроса от имени пользователя, зная id приложения. + небольшой флуд сообщениями на стену](https://hackerone.com/reports/288540) to VK.com - 6 upvotes, $0
-229. [Account takeover due to CSRF in "Account details" option on █████████](https://hackerone.com/reports/410099) to U.S. Dept Of Defense - 6 upvotes, $0
-230. [CSRF при вводе промокода на Pandao](https://hackerone.com/reports/485354) to Mail.ru - 6 upvotes, $0
-231. [Cross Site Request Forgery in auth in https://auth.ratelimited.me/](https://hackerone.com/reports/473798) to RATELIMITED - 6 upvotes, $0
-232. [CSRF to account takeover in https://█████/](https://hackerone.com/reports/1018270) to U.S. Dept Of Defense - 6 upvotes, $0
-233. [███████mill is vulnerable to cross site request forgery that leads to full account take over.](https://hackerone.com/reports/1066083) to U.S. Dept Of Defense - 6 upvotes, $0
-234. [Non-changing "_idnonce" value leads to CSRF on accounts at https://intensedebate.com for account takeover](https://hackerone.com/reports/1090982) to Automattic - 6 upvotes, $0
-235. [Data-Tags and the New HTML Sanitizer Subverts CSRF protection](https://hackerone.com/reports/42728) to Ruby on Rails - 5 upvotes, $2000
-236. [CSRF at adding new role (user-management.service.newrelic.com)](https://hackerone.com/reports/504782) to New Relic - 5 upvotes, $1500
-237. [Full account takeover using CSRF and password reset](https://hackerone.com/reports/6910) to IRCCloud - 5 upvotes, $500
-238. [Stealing CSRF Tokens](https://hackerone.com/reports/77065) to Keybase - 5 upvotes, $500
-239. [[CRITICAL] CSRF leading to account take over](https://hackerone.com/reports/102194) to Zendesk - 5 upvotes, $500
-240. [CSRF - Add optional two factor mobile number](https://hackerone.com/reports/155774) to Slack - 5 upvotes, $500
-241. [Critical : Account removing using CSRF attack](https://hackerone.com/reports/26866) to WePay - 5 upvotes, $350
-242. [The PdfServlet-functionality used by the "Tee vakuutustodistus" allows injection of custom PDF-content via CSRF-attack](https://hackerone.com/reports/129002) to LocalTapiola - 5 upvotes, $300
-243. [CSRF Attack on (m.badoo.com)deleting account and erasing imported contacts](https://hackerone.com/reports/192131) to Bumble - 5 upvotes, $280
-244. [CSRF. Удаление адресной книги, добавление контактов](https://hackerone.com/reports/232653) to Mail.ru - 5 upvotes, $250
-245. [CSRF in Profile Fields allows deleting any field in BuddyPress](https://hackerone.com/reports/836187) to WordPress - 5 upvotes, $225
-246. [CSRF bypass on Submit Time sheet for Approval](https://hackerone.com/reports/164546) to Harvest - 5 upvotes, $150
-247. [CSRF token leakage](https://hackerone.com/reports/46736) to Enter - 5 upvotes, $0
-248. [Unauthenticated CSRF(User can input any value for CSRF Token)](https://hackerone.com/reports/143321) to Veris - 5 upvotes, $0
-249. [Create Multiple Account Using Similar X-CSRF token](https://hackerone.com/reports/155726) to Coinbase - 5 upvotes, $0
-250. [CSRF AT INVITING PEOPLE THOUGH PHONE NUMBER](https://hackerone.com/reports/113865) to Zomato - 5 upvotes, $0
-251. [CSRF in Cloudflare login](https://hackerone.com/reports/8767) to Cloudflare Vulnerability Disclosure - 5 upvotes, $0
-252. [Cross-site request forgery vulnerability on a DoD website](https://hackerone.com/reports/191608) to U.S. Dept Of Defense - 5 upvotes, $0
-253. [CSRF To Like/Unlike Photos](https://hackerone.com/reports/230837) to Zomato - 5 upvotes, $0
-254. [Csrf in watch-unwatch projects](https://hackerone.com/reports/229405) to Weblate - 5 upvotes, $0
-255. [CSRF на biz.mail.ru](https://hackerone.com/reports/290023) to Mail.ru - 5 upvotes, $0
-256. [Issue:Form does not contain an anti-CSRF token](https://hackerone.com/reports/513134) to Phabricator - 5 upvotes, $0
-257. [relap.io CSRF bypass on adding domain to use relap widgets ](https://hackerone.com/reports/820277) to Mail.ru - 5 upvotes, $0
-258. [Send Empty CSRF leads to log out user on [https://hosted.weblate.org/accounts/profile]](https://hackerone.com/reports/1003468) to Weblate - 5 upvotes, $0
-259. [CSRF in updating username https://pw.mail.ru/](https://hackerone.com/reports/1046466) to Mail.ru - 5 upvotes, $0
-260. [CodeQL query for finding CSRF vulnerabilities in Spring applications](https://hackerone.com/reports/785120) to GitHub Security Lab - 4 upvotes, $1800
-261. [CSRF at acknowledging an incident](https://hackerone.com/reports/512102) to New Relic - 4 upvotes, $750
-262. [CSRF  AT SUBSCRIBE TO LIST ](https://hackerone.com/reports/115323) to Paragon Initiative Enterprises - 4 upvotes, $0
-263. [The 'Create a New Account' action is vulnerable to CSRF](https://hackerone.com/reports/109810) to Coinbase - 4 upvotes, $0
-264. [CSRF in changing settings of Basic Google Maps Placemarks](https://hackerone.com/reports/153580) to Ian Dunn - 4 upvotes, $0
-265. [[allods.mail.ru] Cross-Site Request Forgery (Add-Item)](https://hackerone.com/reports/178241) to Mail.ru - 4 upvotes, $0
-266. [CSRF : Lock and Unlock Translation](https://hackerone.com/reports/223345) to Weblate - 4 upvotes, $0
-267. [CSRF bypass ( Delate Source Translation From dictionaries ) in demo.weblate.org](https://hackerone.com/reports/230863) to Weblate - 4 upvotes, $0
-268. [Cross-site request forgery (CSRF) vulnerability in a DoD website](https://hackerone.com/reports/202808) to U.S. Dept Of Defense - 4 upvotes, $0
-269. [csrf blogs.starbucks.com](https://hackerone.com/reports/198470) to Starbucks - 4 upvotes, $0
-270. [CSRF-Token leak by request forgery](https://hackerone.com/reports/221432) to GitLab - 4 upvotes, $0
-271. [CSRF in generating a new Personal Key](https://hackerone.com/reports/263512) to GSA Bounty - 4 upvotes, $0
-272. [CSRF to make any user accept the invitation to the team](https://hackerone.com/reports/360834) to Liberapay - 4 upvotes, $0
-273. [CSRF на удаление товара из корзины](https://hackerone.com/reports/485359) to Mail.ru - 4 upvotes, $0
-274. [Request vulnerable to CSRF](https://hackerone.com/reports/513137) to Phabricator - 4 upvotes, $0
-275. [CSRF on https://apps.topcoder.com/wiki/users general and email preferences](https://hackerone.com/reports/868583) to Topcoder - 4 upvotes, $0
-276. [[express-cart] Wide CSRF in application](https://hackerone.com/reports/800356) to Node.js third-party modules - 4 upvotes, $0
-277. [CSRF on https://apps.topcoder.com/wiki/pages/doattachfile.action](https://hackerone.com/reports/867473) to Topcoder - 4 upvotes, $0
-278. [Self XSS + CSRF Leads to Reflected XSS in https://████/ ](https://hackerone.com/reports/1109544) to U.S. Dept Of Defense - 4 upvotes, $0
-279. [Leaking CSRF token over HTTP resulting in CSRF protection bypass](https://hackerone.com/reports/15412) to Coinbase - 3 upvotes, $1000
-280. [Login CSRF using Twitter OAuth](https://hackerone.com/reports/2228) to Phabricator - 3 upvotes, $300
-281. [Internal GET SSRF via CSRF with Press This scan feature](https://hackerone.com/reports/110801) to Automattic - 3 upvotes, $250
-282. [Resubmitted with POC #18685 Password reset CSRF](https://hackerone.com/reports/18698) to RelateIQ - 3 upvotes, $190
-283. [Login CSRF can be bypassed (Similar approach to previous one).](https://hackerone.com/reports/7531) to IRCCloud - 3 upvotes, $100
-284. [Akismet Several CSRF vulnerabilities](https://hackerone.com/reports/131108) to Automattic - 3 upvotes, $75
-285. [CSRF token does not valided during blog comment](https://hackerone.com/reports/273998) to Paragon Initiative Enterprises - 3 upvotes, $25
-286. [csrf](https://hackerone.com/reports/2635) to Slack - 3 upvotes, $0
-287. [Unwanted Spamming Using CSRF [LOGGED IN USER]](https://hackerone.com/reports/7436) to IRCCloud - 3 upvotes, $0
-288. [CSRF to Account Take Over Bug ](https://hackerone.com/reports/7116) to IRCCloud - 3 upvotes, $0
-289. [CSRF AT SELECTING ZAMATO HANDLE](https://hackerone.com/reports/113857) to Zomato - 3 upvotes, $0
-290. [CSRF on eng.uber.com may lead to server-side compromise](https://hackerone.com/reports/125594) to Uber - 3 upvotes, $0
-291. [Newsroom.uber HTML form without CSRF protection](https://hackerone.com/reports/144147) to Uber - 3 upvotes, $0
-292. [No CSRF validation on Account Monitors in Synthetics Block](https://hackerone.com/reports/140275) to New Relic - 3 upvotes, $0
-293. [The contribution save option seem to be vulnerable to CSRF](https://hackerone.com/reports/151827) to Gratipay - 3 upvotes, $0
-294. [Login CSRF vulnerability](https://hackerone.com/reports/156992) to New Relic - 3 upvotes, $0
-295. [CSRF csrftoken in cookies](https://hackerone.com/reports/174228) to Gratipay - 3 upvotes, $0
-296. [Csrf on creating course](https://hackerone.com/reports/137008) to Udemy - 3 upvotes, $0
-297. [CSRF - Changing the full name / adding a secondary email identity of an account via a GET request](https://hackerone.com/reports/223367) to Weblate - 3 upvotes, $0
-298. [Cross-site request forgery (CSRF) vulnerability on a DoD website](https://hackerone.com/reports/191831) to U.S. Dept Of Defense - 3 upvotes, $0
-299. [Add movie or series CSRF](https://hackerone.com/reports/267865) to delight.im - 3 upvotes, $0
-300. [Same CSRF token is being used for deleting other platform login’s within an account and across other liberapay Account’s](https://hackerone.com/reports/361130) to Liberapay - 3 upvotes, $0
-301. [CSRF ON EDITING NAME (OPTIONAL)](https://hackerone.com/reports/361184) to Liberapay - 3 upvotes, $0
-302. [CSRF token manipulation in every possible form submits. NO server side Validation](https://hackerone.com/reports/361414) to Liberapay - 3 upvotes, $0
-303. [Missing CSRF Protection in  /stats EndPoint.](https://hackerone.com/reports/415350) to Chaturbate - 3 upvotes, $0
-304. [XSRF Token is Not being validated when sending emails test request which lead to CSRF attack using the flash file + 307 redirect technique](https://hackerone.com/reports/799867) to Stripo Inc - 3 upvotes, $0
-305. [CSRF on https://apps.topcoder.com/wiki/users/editmyprofile.action](https://hackerone.com/reports/868561) to Topcoder - 3 upvotes, $0
-306. [Cross-Site Request Forgery (CSRF) in my.games API](https://hackerone.com/reports/855269) to Mail.ru - 3 upvotes, $0
-307. [Cross-Site Request Forgery (CSRF) in comment update - api.my.games](https://hackerone.com/reports/855322) to Mail.ru - 3 upvotes, $0
-308. [CSRF on comment post](https://hackerone.com/reports/914232) to WordPress - 3 upvotes, $0
-309. [tracker.my.com information disclosure via csrf bypass](https://hackerone.com/reports/748538) to Mail.ru - 3 upvotes, $0
-310. [CSRF on https://apps.topcoder.com/wiki/users/editmyprofilepicture.action](https://hackerone.com/reports/868572) to Topcoder - 3 upvotes, $0
-311. [CSRF in Demographic Settings with valid gdtoken of other account ](https://hackerone.com/reports/1092849) to Glassdoor - 3 upvotes, $0
-312. [CSRF Vulnerabiliy on Facebook Linkage Page Allows Full Account takerover of Socialclub Accounts.](https://hackerone.com/reports/653254) to Rockstar Games - 2 upvotes, $550
-313. [CSRF on https://shopify.com/plus](https://hackerone.com/reports/114430) to Shopify - 2 upvotes, $500
-314. [Обход защиты от csrf-ок в m.ok.ru](https://hackerone.com/reports/102376) to ok.ru - 2 upvotes, $500
-315. [[HIGH RISK] CSRF could potentially delete a zendesk subdomain.](https://hackerone.com/reports/132049) to Zendesk - 2 upvotes, $500
-316. [Sign up CSRF](https://hackerone.com/reports/6872) to IRCCloud - 2 upvotes, $100
-317. [Value of JSESSIONID  and XSRF token parameter in cookie remains same before and after login](https://hackerone.com/reports/2421) to RelateIQ - 2 upvotes, $100
-318. [CSRF on "Set as primary" option on the accounts page](https://hackerone.com/reports/10563) to Coinbase - 2 upvotes, $100
-319. [CSRF vulnerability on https://sehacure.slack.com/account/settings](https://hackerone.com/reports/2628) to Slack - 2 upvotes, $100
-320. [Marking notifications as read CSRF bug](https://hackerone.com/reports/5946) to HackerOne - 2 upvotes, $100
-321. [CSRF  Add Album On  onpatient.com ](https://hackerone.com/reports/99647) to drchrono - 2 upvotes, $100
-322. [The csrf token remains same after user logs in](https://hackerone.com/reports/49974) to Enter - 2 upvotes, $50
-323. [Using GET method for account login with CSRF token leaking to external sites Via Referer.](https://hackerone.com/reports/76733) to Zaption - 2 upvotes, $25
-324. [Login CSRF in Secret.ly](https://hackerone.com/reports/7936) to Secret - 2 upvotes, $0
-325. [logout csrf app.simplenote.com/logout](https://hackerone.com/reports/13705) to Automattic - 2 upvotes, $0
-326. [HTML form without CSRF protection](https://hackerone.com/reports/7849) to Automattic - 2 upvotes, $0
-327. [csrf on password change functionality ](https://hackerone.com/reports/8849) to Cloudflare Vulnerability Disclosure - 2 upvotes, $0
-328. [Notifications can mark as read by CSRF](https://hackerone.com/reports/36980) to Twitter - 2 upvotes, $0
-329. [[mobile.twitter.com / twitter.com] CSRF protection bypass](https://hackerone.com/reports/14883) to Twitter - 2 upvotes, $0
-330. [The product/status method CSRF](https://hackerone.com/reports/74595) to DigitalSellz - 2 upvotes, $0
-331. [CSRF in apps.owncloud.com](https://hackerone.com/reports/84395) to ownCloud - 2 upvotes, $0
-332. [don't store CSRF tokens in cookies](https://hackerone.com/reports/140377) to Gratipay - 2 upvotes, $0
-333. [Lost Password CSRF](https://hackerone.com/reports/145583) to Nextcloud - 2 upvotes, $0
-334. [Multiple Cross Site Request Forgery Vulnerabilities in Concrete5 version 5.7.3.1](https://hackerone.com/reports/59660) to Concrete CMS - 2 upvotes, $0
-335. [Full path disclosure when CSRF validation failed ](https://hackerone.com/reports/148890) to Paragon Initiative Enterprises - 2 upvotes, $0
-336. [Full Path Disclosure by removing CSRF token](https://hackerone.com/reports/150018) to Paragon Initiative Enterprises - 2 upvotes, $0
-337. [CSRF with redeem coupon request ](https://hackerone.com/reports/148417) to Instacart - 2 upvotes, $0
-338. [CSRF token validation is missing](https://hackerone.com/reports/221043) to Nextcloud - 2 upvotes, $0
-339. [Logout CSRF](https://hackerone.com/reports/267867) to delight.im - 2 upvotes, $0
-340. [Login Cross Site Request Forgery ](https://hackerone.com/reports/283482) to Infogram - 2 upvotes, $0
-341. [CSRF on https://apps.topcoder.com/wiki/plugins/socialbookmarking/updatebookmark.action](https://hackerone.com/reports/866844) to Topcoder - 2 upvotes, $0
-342. [CSRF header is sent to external websites when using data-remote forms](https://hackerone.com/reports/189878) to Ruby on Rails - 2 upvotes, $0
-343. [Logout page does not prevent CSRF](https://hackerone.com/reports/905831) to Courier - 2 upvotes, $0
-344. [Authenticity token doesnt expire after single use leading to CSRF](https://hackerone.com/reports/919112) to Omise - 2 upvotes, $0
-345. [rails-ujs will send CSRF tokens to other origins](https://hackerone.com/reports/49935) to Ruby on Rails - 1 upvotes, $1000
-346. [CSRF token fixation in facebook store app that can lead to adding attacker to victim acc ](https://hackerone.com/reports/55911) to Shopify - 1 upvotes, $500
-347. [CSRF in Connecting Pinterest Account](https://hackerone.com/reports/104931) to Shopify - 1 upvotes, $500
-348. [CSRF on email address operations. Also performing unintended operations. ](https://hackerone.com/reports/18507) to WePay - 1 upvotes, $150
-349. [CSRF on add comment section](https://hackerone.com/reports/2638) to Slack - 1 upvotes, $0
-350. [HTML Form Without CSRF protection](https://hackerone.com/reports/7863) to Localize - 1 upvotes, $0
-351. [No Cross-Site Request Forgery protection at multiple locations](https://hackerone.com/reports/7916) to Localize - 1 upvotes, $0
-352. [Group Deletion Via CSRF](https://hackerone.com/reports/8218) to Localize - 1 upvotes, $0
-353. [Group Creation Via CSRF](https://hackerone.com/reports/8216) to Localize - 1 upvotes, $0
-354. [ Private Project Access Request Accpeted Via CSRF ](https://hackerone.com/reports/8224) to Localize - 1 upvotes, $0
-355. [CSRF - Adding/Removing items to cart - shop.khanacademy.org](https://hackerone.com/reports/6378) to Khan Academy - 1 upvotes, $0
-356. [Projects Watch or Notifications Settings Change Via CSRF](https://hackerone.com/reports/8273) to Localize - 1 upvotes, $0
-357. [Sign  up CSRF](https://hackerone.com/reports/13583) to Factlink - 1 upvotes, $0
-358. [ User Account Creation CSRF ](https://hackerone.com/reports/7051) to IRCCloud - 1 upvotes, $0
-359. [CSRF token valid even after the session logout of a particular user](https://hackerone.com/reports/2857) to Phabricator - 1 upvotes, $0
-360. [Login CSRF using Twitter oauth](https://hackerone.com/reports/13555) to Factlink - 1 upvotes, $0
-361. [CSRF and No password requirement in this URL Billing Info](https://hackerone.com/reports/12034) to Cloudflare Vulnerability Disclosure - 1 upvotes, $0
-362. [CSRF - Disabling orders at https://panel.stopthehacker.com/manage/disable-order/order/ID](https://hackerone.com/reports/8843) to StopTheHacker - 1 upvotes, $0
-363. [CSRF & Nonce Token Weak Implementation](https://hackerone.com/reports/14702) to WePay - 1 upvotes, $0
-364. [System Status Update CSRF](https://hackerone.com/reports/8943) to Cloudflare Vulnerability Disclosure - 1 upvotes, $0
-365. [Clickjacking & CSRF attack can be done at https://app.mavenlink.com/login](https://hackerone.com/reports/14494) to Mavenlink - 1 upvotes, $0
-366. [CSRF bypass](https://hackerone.com/reports/45428) to Vimeo - 1 upvotes, $0
-367. [CSRF token from another valid user session accepted](https://hackerone.com/reports/47357) to Mobile Vikings - 1 upvotes, $0
-368. [A csrf vulnerability which add and remove a favorite team from a user account.](https://hackerone.com/reports/1620) to Yahoo! - 1 upvotes, $0
-369. [No CSRF protection when creating new community points actions, and related stored XSS](https://hackerone.com/reports/65808) to Concrete CMS - 1 upvotes, $0
-370. [owncloud.com: Account Compromise Through CSRF](https://hackerone.com/reports/84372) to ownCloud - 1 upvotes, $0
-371. [The Anti-CSRF Library fails to restrict token to a particular IP address when being behind a reverse-proxy/WAF](https://hackerone.com/reports/134894) to Paragon Initiative Enterprises - 1 upvotes, $0
-372. [ProBlog 2.6.6 CSRF Exploit](https://hackerone.com/reports/133847) to Concrete CMS - 1 upvotes, $0
-373. [XSS and CSRF in Zomato Contact form](https://hackerone.com/reports/115248) to Zomato - 1 upvotes, $0
-374. [Missing Server Side Validation of CSRF Middleware Token in Change Password Request](https://hackerone.com/reports/120143) to Veris - 1 upvotes, $0
-375. [CSRF - Regenerate all admin api keys](https://hackerone.com/reports/119148) to New Relic - 1 upvotes, $0
-376. [No csrf protection on logout](https://hackerone.com/reports/165923) to Boozt Fashion AB - 1 upvotes, $0
-377. [[community.informatica.com] - CSRF in Private Messages allows to move user's messages to Trash](https://hackerone.com/reports/45050) to Informatica - 1 upvotes, $0
-378. [Udemy s3 storage can be used by an attacker personal website because of missing CSRF Token](https://hackerone.com/reports/172707) to Udemy - 1 upvotes, $0
-379. [Lack of CSRF token validation at server side](https://hackerone.com/reports/163815) to Gratipay - 1 upvotes, $0
-380. [CSRF on cuvva.insure allows to attacker to send multiple SMS to download the app without visiting the cuvva](https://hackerone.com/reports/250430) to Cuvva - 1 upvotes, $0
-381. [Login csrf.](https://hackerone.com/reports/117195) to Gratipay - 1 upvotes, $0
-382. [Csrf bug on signup session](https://hackerone.com/reports/230428) to Coinbase - 1 upvotes, $0
-383. [The csrf token remains same after user logs in](https://hackerone.com/reports/361400) to Liberapay - 1 upvotes, $0
-384. [Csrf token does not meet security design](https://hackerone.com/reports/362033) to Liberapay - 1 upvotes, $0
-385. [Cross-Site Request Forgery](https://hackerone.com/reports/215383) to Mail.ru - 1 upvotes, $0
-386. [CSRF allows attacker to manage customer's shopping cart.](https://hackerone.com/reports/540382) to TomTom - 1 upvotes, $0
-387. [Social Oauth Disconnect CSRF at znakcup.ru](https://hackerone.com/reports/1074869) to Mail.ru - 1 upvotes, $0
-388. [CSRF in newsletter form](https://hackerone.com/reports/1190705) to Sifchain - 1 upvotes, $0
-389. [CSRF Token missing on  http://baseball.fantasysports.yahoo.com/b1/127146/messages](https://hackerone.com/reports/6700) to Yahoo! - 0 upvotes, $400
-390. [CSRF Token is missing on DELETE message option on  http://baseball.fantasysports.yahoo.com/b1/127146/messages](https://hackerone.com/reports/6702) to Yahoo! - 0 upvotes, $200
-391. [XSRF token problem](https://hackerone.com/reports/2427) to RelateIQ - 0 upvotes, $100
-392. [Login CSRF](https://hackerone.com/reports/6871) to IRCCloud - 0 upvotes, $100
-393. [CSRF in function "Set as primary" on  accounts page](https://hackerone.com/reports/10829) to Coinbase - 0 upvotes, $100
-394. [Login CSRF](https://hackerone.com/reports/21069) to Mavenlink - 0 upvotes, $100
-395. [HTML Form without CSRF protection](https://hackerone.com/reports/6888) to IRCCloud - 0 upvotes, $0
-396. [CSRF - Creating accounts](https://hackerone.com/reports/7332) to IRCCloud - 0 upvotes, $0
-397. [Change user settings through CSRF](https://hackerone.com/reports/7870) to Localize - 0 upvotes, $0
-398. [No CSRF token used in Phone Verification POST](https://hackerone.com/reports/9062) to Mail.ru - 0 upvotes, $0
-399. [Log Out Cross site Request Forgery](https://hackerone.com/reports/7516) to IRCCloud - 0 upvotes, $0
-400. [NO CSRF token found on user details update](https://hackerone.com/reports/15454) to FanFootage - 0 upvotes, $0
-401. [HTML Form Without CSRF Protection Vulnerability](https://hackerone.com/reports/17312) to Uzbey - 0 upvotes, $0
-402. [Typical form vulnerable to csrf attack](https://hackerone.com/reports/14751) to WePay - 0 upvotes, $0
-403. [CSRF   in crashlytics.com](https://hackerone.com/reports/13856) to Twitter - 0 upvotes, $0
-404. [CSRF (Make email primary) may lead to account compromise](https://hackerone.com/reports/25405) to WePay - 0 upvotes, $0
-405. [HTML form without CSRF protection at http://try.crashlytics.com/enterprise/](https://hackerone.com/reports/25128) to Twitter - 0 upvotes, $0
-406. [No csrf protection on index.php/ccm/system/user/add_group, index.php/ccm/system/user/remove_group](https://hackerone.com/reports/64184) to Concrete CMS - 0 upvotes, $0
-407. [Csrf near report abuse meme ](https://hackerone.com/reports/93154) to Imgur - 0 upvotes, $0
-408. [The csrf token remains same after user logs in](https://hackerone.com/reports/111262) to ownCloud - 0 upvotes, $0
-409. [Login CSRF using Google OAuth](https://hackerone.com/reports/118737) to ThisData - 0 upvotes, $0
-410. [apps.owncloud.com: CSRF change privacy settings](https://hackerone.com/reports/85565) to ownCloud - 0 upvotes, $0
-411. [CSRF Token](https://hackerone.com/reports/257237) to Udemy - 0 upvotes, $0
-412. [CSRF Issue](https://hackerone.com/reports/166231) to Legal Robot - 0 upvotes, $0
-413. [CSRF bug on password change](https://hackerone.com/reports/230436) to Coinbase - 0 upvotes, $0
-414. [CSRF Token Design Flaw](https://hackerone.com/reports/216161) to Udemy - 0 upvotes, $0
-415. [Logout CSRF](https://hackerone.com/reports/244778) to WakaTime - 0 upvotes, $0
-416. [Cross site request forgery](https://hackerone.com/reports/269196) to Hiro - 0 upvotes, $0
+161. [Widespread CSRF on authenticated POST endpoints](https://hackerone.com/reports/1309435) to UPchieve - 10 upvotes, $0
+162. [Add tweet to collection CSRF ](https://hackerone.com/reports/100820) to Twitter - 9 upvotes, $560
+163. [CSRF в получении резервных токенов+framing , приводящие к компроментации 2fa](https://hackerone.com/reports/90165) to VK.com - 9 upvotes, $500
+164. [CSRF | Ban or unban users in broadcast's chat](https://hackerone.com/reports/381237) to Valve - 9 upvotes, $500
+165. [[chaturbate.com] - CSRF Vulnerability on image upload](https://hackerone.com/reports/401483) to Chaturbate - 9 upvotes, $300
+166. [CSRF in Report Lost or Stolen Page https://www.starbucks.com/account/card](https://hackerone.com/reports/233099) to Starbucks - 9 upvotes, $250
+167. [CSRF in REPORT EMOTICON feature](https://hackerone.com/reports/395731) to Chaturbate - 9 upvotes, $250
+168. [csrf in https://www.rockstargames.com/reddeadonline/feedback/submit.json](https://hackerone.com/reports/796295) to Rockstar Games - 9 upvotes, $150
+169. [CSRF отредактировать карточки в посте у группы](https://hackerone.com/reports/307382) to VK.com - 9 upvotes, $100
+170. [CSRF logs the victim into attacker's account](https://hackerone.com/reports/339352) to Unikrn - 9 upvotes, $100
+171. [CSRF на добавление товара на продажу](https://hackerone.com/reports/317314) to Mail.ru - 9 upvotes, $100
+172. [Cross Site Request Forgery (CSRF)](https://hackerone.com/reports/148156) to Mail.ru - 9 upvotes, $0
+173. [CSRF Full Account Takeover](https://hackerone.com/reports/152052) to Concrete CMS - 9 upvotes, $0
+174. [Twitter Disconnect CSRF](https://hackerone.com/reports/114127) to Zomato - 9 upvotes, $0
+175. [CSRF Send a message at street-combats.mail.ru](https://hackerone.com/reports/196715) to Mail.ru - 9 upvotes, $0
+176. [CSRF](https://hackerone.com/reports/226612) to Mixmax - 9 upvotes, $0
+177. [Login CSRF : Login Authentication Flaw](https://hackerone.com/reports/229528) to Weblate - 9 upvotes, $0
+178. [CSRF Full Account Takeover - https://redtube.com/settings](https://hackerone.com/reports/388531) to Redtube - 9 upvotes, $0
+179. [vulnerable to Cross-site Request Forgery | Jira](https://hackerone.com/reports/392761) to MariaDB - 9 upvotes, $0
+180. [Missing CSRF Token On Remove Coupun From Cart](https://hackerone.com/reports/227726) to Starbucks - 9 upvotes, $0
+181. [CSRF уязвимость позволяет взять беспроцентный кредит пользователю cfire.mail.ru](https://hackerone.com/reports/496260) to Mail.ru - 9 upvotes, $0
+182. [No CSRF Protection in Resend Confirmation Email feature leads to Sending Unwanted Email in Victim's Inbox without knowing Victim's email address](https://hackerone.com/reports/753386) to Stripo Inc - 9 upvotes, $0
+183. [CSRF Based XSS @ https://██████████](https://hackerone.com/reports/1147949) to U.S. Dept Of Defense - 9 upvotes, $0
+184. [RCE in AirOS 6.2.0 Devices with CSRF bypass](https://hackerone.com/reports/703659) to Ubiquiti Inc. - 8 upvotes, $6839
+185. [CSRF in login form would led to account takeover](https://hackerone.com/reports/50703) to Ubiquiti Inc. - 8 upvotes, $500
+186. [account.ubnt.com CSRF](https://hackerone.com/reports/101909) to Ubiquiti Inc. - 8 upvotes, $200
+187. [CSRF Delete chat invitation link.](https://hackerone.com/reports/970902) to Mail.ru - 8 upvotes, $100
+188. [CSRF in the "Add restaurant picture" function](https://hackerone.com/reports/169699) to Zomato - 8 upvotes, $50
+189. [CSRF in account configuration leads to complete account compromise](https://hackerone.com/reports/150586) to OLX - 8 upvotes, $0
+190. [CSRF to change Account Security Keys on secure.login.gov](https://hackerone.com/reports/263498) to GSA Bounty - 8 upvotes, $0
+191. [CSRF in twitterflightschool.com ( CAN POST ON TIMELINE WITHOUT USER PERMISSION)](https://hackerone.com/reports/115158) to Twitter - 8 upvotes, $0
+192. [CSRF token fixation and potential account takeover](https://hackerone.com/reports/308394) to Khan Academy - 8 upvotes, $0
+193. [Application Vulnerable to CSRF - Remove Invited user](https://hackerone.com/reports/282490) to Infogram - 8 upvotes, $0
+194. [Missing CSRF Token On Add Coupon To Basket](https://hackerone.com/reports/227725) to Starbucks - 8 upvotes, $0
+195. [Authenticated Cross-Site-Request-Forgery](https://hackerone.com/reports/505595) to Semmle - 8 upvotes, $0
+196. [CSRF on https://market.my.games](https://hackerone.com/reports/802930) to Mail.ru - 8 upvotes, $0
+197. [Cross-Site WebSocket Hijacking Lead to Steal XSRF-TOKEN](https://hackerone.com/reports/915541) to Stripo Inc - 8 upvotes, $0
+198. [Stored unauth XSS in calendar event via CSRF](https://hackerone.com/reports/1102018) to Concrete CMS - 8 upvotes, $0
+199. [Limited CSRF bypass.](https://hackerone.com/reports/99708) to HackerOne - 7 upvotes, $500
+200. [Missing of csrf protection ](https://hackerone.com/reports/96470) to Shopify - 7 upvotes, $500
+201. [CSRF exploit | Adding/Editing comment of wishlist items (teavana.com - Wishlist-Comments)](https://hackerone.com/reports/177639) to Starbucks - 7 upvotes, $375
+202. [CSRF на "ловлю гостей" и раскрытие аудиотрансляции в частной группе](https://hackerone.com/reports/301631) to VK.com - 7 upvotes, $100
+203. [[CRITICAL]  CSRF  leading to account take over ](https://hackerone.com/reports/141344) to drchrono - 7 upvotes, $50
+204. [CSRF To change Email Notification Settings ](https://hackerone.com/reports/157956) to Instacart - 7 upvotes, $50
+205. [CSRF bypass + XSS on verkkopalvelu.tapiola.fi](https://hackerone.com/reports/200683) to LocalTapiola - 7 upvotes, $50
+206. [Private Project Access Request Invitation Sent Via CSRF ](https://hackerone.com/reports/8226) to Localize - 7 upvotes, $0
+207. [CSRF vulnerability that allows an attacker to purge plugin metric data](https://hackerone.com/reports/157270) to New Relic - 7 upvotes, $0
+208. [CSRF to Connect third party Account](https://hackerone.com/reports/225100) to Weblate - 7 upvotes, $0
+209. [CSRF For Adding Users](https://hackerone.com/reports/225326) to New Relic - 7 upvotes, $0
+210. [csrf token did not changed after login/logout many times](https://hackerone.com/reports/361131) to Liberapay - 7 upvotes, $0
+211. [[out-of-scope] toxiproxy: Lack of CSRF protection allows an attacker to gain access to internal Shopify network](https://hackerone.com/reports/236349) to Shopify - 7 upvotes, $0
+212. [Imperfect CSRF To Overwrite Server Config at /go/admin/restful/configuration/file/POST/xml](https://hackerone.com/reports/240048) to GoCD - 7 upvotes, $0
+213. [CSRF на загрузку изображения Pandao](https://hackerone.com/reports/482922) to Mail.ru - 7 upvotes, $0
+214. [CSRF on /subscription_manage.php endpoint at allods.mail.ru](https://hackerone.com/reports/517470) to Mail.ru - 7 upvotes, $0
+215. [CSRF on delete friend requests - Not protected with CSRF Token](https://hackerone.com/reports/1408745) to XVIDEOS - 7 upvotes, $0
+216. [CSRF in cancel group and private show requests](https://hackerone.com/reports/396338) to Chaturbate - 6 upvotes, $300
+217. [WordPress core  - Denial of Service via Cross Site Request Forgery](https://hackerone.com/reports/153093) to WordPress - 6 upvotes, $250
+218. [CSRF in "send them an email and browser notification" feature](https://hackerone.com/reports/396802) to Chaturbate - 6 upvotes, $150
+219. [Security Issue : CSRF Token Design Flaw](https://hackerone.com/reports/141065) to drchrono - 6 upvotes, $100
+220. [CSRF @ configuration ](https://hackerone.com/reports/208734) to Files.com - 6 upvotes, $100
+221. [CSRF](https://hackerone.com/reports/65167) to Legal Robot - 6 upvotes, $20
+222. [Sign-up Form CSRF](https://hackerone.com/reports/7865) to Localize - 6 upvotes, $0
+223. [CSRF - Delete all empty application policy](https://hackerone.com/reports/123092) to New Relic - 6 upvotes, $0
+224. [CSRF Token Bypass in Account Deletion](https://hackerone.com/reports/182487) to GitLab - 6 upvotes, $0
+225. [CSRF in delete advertisement on olx.com.eg](https://hackerone.com/reports/178384) to OLX - 6 upvotes, $0
+226. [Logout CSRF](https://hackerone.com/reports/223329) to Weblate - 6 upvotes, $0
+227. [CSRF : Reset API ](https://hackerone.com/reports/223333) to Weblate - 6 upvotes, $0
+228. [CSRF bug ](https://hackerone.com/reports/239170) to Bumble - 6 upvotes, $0
+229. [CSRF создание опроса от имени пользователя, зная id приложения. + небольшой флуд сообщениями на стену](https://hackerone.com/reports/288540) to VK.com - 6 upvotes, $0
+230. [Account takeover due to CSRF in "Account details" option on █████████](https://hackerone.com/reports/410099) to U.S. Dept Of Defense - 6 upvotes, $0
+231. [CSRF при вводе промокода на Pandao](https://hackerone.com/reports/485354) to Mail.ru - 6 upvotes, $0
+232. [Cross Site Request Forgery in auth in https://auth.ratelimited.me/](https://hackerone.com/reports/473798) to RATELIMITED - 6 upvotes, $0
+233. [CSRF to account takeover in https://█████/](https://hackerone.com/reports/1018270) to U.S. Dept Of Defense - 6 upvotes, $0
+234. [███████mill is vulnerable to cross site request forgery that leads to full account take over.](https://hackerone.com/reports/1066083) to U.S. Dept Of Defense - 6 upvotes, $0
+235. [Non-changing "_idnonce" value leads to CSRF on accounts at https://intensedebate.com for account takeover](https://hackerone.com/reports/1090982) to Automattic - 6 upvotes, $0
+236. [Data-Tags and the New HTML Sanitizer Subverts CSRF protection](https://hackerone.com/reports/42728) to Ruby on Rails - 5 upvotes, $2000
+237. [CSRF at adding new role (user-management.service.newrelic.com)](https://hackerone.com/reports/504782) to New Relic - 5 upvotes, $1500
+238. [Full account takeover using CSRF and password reset](https://hackerone.com/reports/6910) to IRCCloud - 5 upvotes, $500
+239. [Stealing CSRF Tokens](https://hackerone.com/reports/77065) to Keybase - 5 upvotes, $500
+240. [[CRITICAL] CSRF leading to account take over](https://hackerone.com/reports/102194) to Zendesk - 5 upvotes, $500
+241. [CSRF - Add optional two factor mobile number](https://hackerone.com/reports/155774) to Slack - 5 upvotes, $500
+242. [Critical : Account removing using CSRF attack](https://hackerone.com/reports/26866) to WePay - 5 upvotes, $350
+243. [The PdfServlet-functionality used by the "Tee vakuutustodistus" allows injection of custom PDF-content via CSRF-attack](https://hackerone.com/reports/129002) to LocalTapiola - 5 upvotes, $300
+244. [CSRF Attack on (m.badoo.com)deleting account and erasing imported contacts](https://hackerone.com/reports/192131) to Bumble - 5 upvotes, $280
+245. [CSRF. Удаление адресной книги, добавление контактов](https://hackerone.com/reports/232653) to Mail.ru - 5 upvotes, $250
+246. [CSRF in Profile Fields allows deleting any field in BuddyPress](https://hackerone.com/reports/836187) to WordPress - 5 upvotes, $225
+247. [CSRF bypass on Submit Time sheet for Approval](https://hackerone.com/reports/164546) to Harvest - 5 upvotes, $150
+248. [CSRF token leakage](https://hackerone.com/reports/46736) to Enter - 5 upvotes, $0
+249. [Unauthenticated CSRF(User can input any value for CSRF Token)](https://hackerone.com/reports/143321) to Veris - 5 upvotes, $0
+250. [Create Multiple Account Using Similar X-CSRF token](https://hackerone.com/reports/155726) to Coinbase - 5 upvotes, $0
+251. [CSRF AT INVITING PEOPLE THOUGH PHONE NUMBER](https://hackerone.com/reports/113865) to Zomato - 5 upvotes, $0
+252. [CSRF in Cloudflare login](https://hackerone.com/reports/8767) to Cloudflare Vulnerability Disclosure - 5 upvotes, $0
+253. [Cross-site request forgery vulnerability on a DoD website](https://hackerone.com/reports/191608) to U.S. Dept Of Defense - 5 upvotes, $0
+254. [CSRF To Like/Unlike Photos](https://hackerone.com/reports/230837) to Zomato - 5 upvotes, $0
+255. [Csrf in watch-unwatch projects](https://hackerone.com/reports/229405) to Weblate - 5 upvotes, $0
+256. [CSRF на biz.mail.ru](https://hackerone.com/reports/290023) to Mail.ru - 5 upvotes, $0
+257. [Issue:Form does not contain an anti-CSRF token](https://hackerone.com/reports/513134) to Phabricator - 5 upvotes, $0
+258. [relap.io CSRF bypass on adding domain to use relap widgets ](https://hackerone.com/reports/820277) to Mail.ru - 5 upvotes, $0
+259. [Send Empty CSRF leads to log out user on [https://hosted.weblate.org/accounts/profile]](https://hackerone.com/reports/1003468) to Weblate - 5 upvotes, $0
+260. [CSRF in updating username https://pw.mail.ru/](https://hackerone.com/reports/1046466) to Mail.ru - 5 upvotes, $0
+261. [CodeQL query for finding CSRF vulnerabilities in Spring applications](https://hackerone.com/reports/785120) to GitHub Security Lab - 4 upvotes, $1800
+262. [CSRF at acknowledging an incident](https://hackerone.com/reports/512102) to New Relic - 4 upvotes, $750
+263. [CSRF  AT SUBSCRIBE TO LIST ](https://hackerone.com/reports/115323) to Paragon Initiative Enterprises - 4 upvotes, $0
+264. [The 'Create a New Account' action is vulnerable to CSRF](https://hackerone.com/reports/109810) to Coinbase - 4 upvotes, $0
+265. [CSRF in changing settings of Basic Google Maps Placemarks](https://hackerone.com/reports/153580) to Ian Dunn - 4 upvotes, $0
+266. [[allods.mail.ru] Cross-Site Request Forgery (Add-Item)](https://hackerone.com/reports/178241) to Mail.ru - 4 upvotes, $0
+267. [CSRF : Lock and Unlock Translation](https://hackerone.com/reports/223345) to Weblate - 4 upvotes, $0
+268. [CSRF bypass ( Delate Source Translation From dictionaries ) in demo.weblate.org](https://hackerone.com/reports/230863) to Weblate - 4 upvotes, $0
+269. [Cross-site request forgery (CSRF) vulnerability in a DoD website](https://hackerone.com/reports/202808) to U.S. Dept Of Defense - 4 upvotes, $0
+270. [csrf blogs.starbucks.com](https://hackerone.com/reports/198470) to Starbucks - 4 upvotes, $0
+271. [CSRF-Token leak by request forgery](https://hackerone.com/reports/221432) to GitLab - 4 upvotes, $0
+272. [CSRF in generating a new Personal Key](https://hackerone.com/reports/263512) to GSA Bounty - 4 upvotes, $0
+273. [CSRF to make any user accept the invitation to the team](https://hackerone.com/reports/360834) to Liberapay - 4 upvotes, $0
+274. [CSRF на удаление товара из корзины](https://hackerone.com/reports/485359) to Mail.ru - 4 upvotes, $0
+275. [Request vulnerable to CSRF](https://hackerone.com/reports/513137) to Phabricator - 4 upvotes, $0
+276. [CSRF on https://apps.topcoder.com/wiki/users general and email preferences](https://hackerone.com/reports/868583) to Topcoder - 4 upvotes, $0
+277. [[express-cart] Wide CSRF in application](https://hackerone.com/reports/800356) to Node.js third-party modules - 4 upvotes, $0
+278. [CSRF on https://apps.topcoder.com/wiki/pages/doattachfile.action](https://hackerone.com/reports/867473) to Topcoder - 4 upvotes, $0
+279. [Self XSS + CSRF Leads to Reflected XSS in https://████/ ](https://hackerone.com/reports/1109544) to U.S. Dept Of Defense - 4 upvotes, $0
+280. [Leaking CSRF token over HTTP resulting in CSRF protection bypass](https://hackerone.com/reports/15412) to Coinbase - 3 upvotes, $1000
+281. [Login CSRF using Twitter OAuth](https://hackerone.com/reports/2228) to Phabricator - 3 upvotes, $300
+282. [Internal GET SSRF via CSRF with Press This scan feature](https://hackerone.com/reports/110801) to Automattic - 3 upvotes, $250
+283. [Resubmitted with POC #18685 Password reset CSRF](https://hackerone.com/reports/18698) to RelateIQ - 3 upvotes, $190
+284. [Login CSRF can be bypassed (Similar approach to previous one).](https://hackerone.com/reports/7531) to IRCCloud - 3 upvotes, $100
+285. [Akismet Several CSRF vulnerabilities](https://hackerone.com/reports/131108) to Automattic - 3 upvotes, $75
+286. [CSRF token does not valided during blog comment](https://hackerone.com/reports/273998) to Paragon Initiative Enterprises - 3 upvotes, $25
+287. [csrf](https://hackerone.com/reports/2635) to Slack - 3 upvotes, $0
+288. [Unwanted Spamming Using CSRF [LOGGED IN USER]](https://hackerone.com/reports/7436) to IRCCloud - 3 upvotes, $0
+289. [CSRF to Account Take Over Bug ](https://hackerone.com/reports/7116) to IRCCloud - 3 upvotes, $0
+290. [CSRF AT SELECTING ZAMATO HANDLE](https://hackerone.com/reports/113857) to Zomato - 3 upvotes, $0
+291. [CSRF on eng.uber.com may lead to server-side compromise](https://hackerone.com/reports/125594) to Uber - 3 upvotes, $0
+292. [Newsroom.uber HTML form without CSRF protection](https://hackerone.com/reports/144147) to Uber - 3 upvotes, $0
+293. [No CSRF validation on Account Monitors in Synthetics Block](https://hackerone.com/reports/140275) to New Relic - 3 upvotes, $0
+294. [The contribution save option seem to be vulnerable to CSRF](https://hackerone.com/reports/151827) to Gratipay - 3 upvotes, $0
+295. [Login CSRF vulnerability](https://hackerone.com/reports/156992) to New Relic - 3 upvotes, $0
+296. [CSRF csrftoken in cookies](https://hackerone.com/reports/174228) to Gratipay - 3 upvotes, $0
+297. [Csrf on creating course](https://hackerone.com/reports/137008) to Udemy - 3 upvotes, $0
+298. [CSRF - Changing the full name / adding a secondary email identity of an account via a GET request](https://hackerone.com/reports/223367) to Weblate - 3 upvotes, $0
+299. [Cross-site request forgery (CSRF) vulnerability on a DoD website](https://hackerone.com/reports/191831) to U.S. Dept Of Defense - 3 upvotes, $0
+300. [Add movie or series CSRF](https://hackerone.com/reports/267865) to delight.im - 3 upvotes, $0
+301. [Same CSRF token is being used for deleting other platform login’s within an account and across other liberapay Account’s](https://hackerone.com/reports/361130) to Liberapay - 3 upvotes, $0
+302. [CSRF ON EDITING NAME (OPTIONAL)](https://hackerone.com/reports/361184) to Liberapay - 3 upvotes, $0
+303. [CSRF token manipulation in every possible form submits. NO server side Validation](https://hackerone.com/reports/361414) to Liberapay - 3 upvotes, $0
+304. [Missing CSRF Protection in  /stats EndPoint.](https://hackerone.com/reports/415350) to Chaturbate - 3 upvotes, $0
+305. [XSRF Token is Not being validated when sending emails test request which lead to CSRF attack using the flash file + 307 redirect technique](https://hackerone.com/reports/799867) to Stripo Inc - 3 upvotes, $0
+306. [CSRF on https://apps.topcoder.com/wiki/users/editmyprofile.action](https://hackerone.com/reports/868561) to Topcoder - 3 upvotes, $0
+307. [Cross-Site Request Forgery (CSRF) in my.games API](https://hackerone.com/reports/855269) to Mail.ru - 3 upvotes, $0
+308. [Cross-Site Request Forgery (CSRF) in comment update - api.my.games](https://hackerone.com/reports/855322) to Mail.ru - 3 upvotes, $0
+309. [CSRF on comment post](https://hackerone.com/reports/914232) to WordPress - 3 upvotes, $0
+310. [tracker.my.com information disclosure via csrf bypass](https://hackerone.com/reports/748538) to Mail.ru - 3 upvotes, $0
+311. [CSRF on https://apps.topcoder.com/wiki/users/editmyprofilepicture.action](https://hackerone.com/reports/868572) to Topcoder - 3 upvotes, $0
+312. [CSRF in Demographic Settings with valid gdtoken of other account ](https://hackerone.com/reports/1092849) to Glassdoor - 3 upvotes, $0
+313. [CSRF Vulnerabiliy on Facebook Linkage Page Allows Full Account takerover of Socialclub Accounts.](https://hackerone.com/reports/653254) to Rockstar Games - 2 upvotes, $550
+314. [CSRF on https://shopify.com/plus](https://hackerone.com/reports/114430) to Shopify - 2 upvotes, $500
+315. [Обход защиты от csrf-ок в m.ok.ru](https://hackerone.com/reports/102376) to ok.ru - 2 upvotes, $500
+316. [[HIGH RISK] CSRF could potentially delete a zendesk subdomain.](https://hackerone.com/reports/132049) to Zendesk - 2 upvotes, $500
+317. [Sign up CSRF](https://hackerone.com/reports/6872) to IRCCloud - 2 upvotes, $100
+318. [Value of JSESSIONID  and XSRF token parameter in cookie remains same before and after login](https://hackerone.com/reports/2421) to RelateIQ - 2 upvotes, $100
+319. [CSRF on "Set as primary" option on the accounts page](https://hackerone.com/reports/10563) to Coinbase - 2 upvotes, $100
+320. [CSRF vulnerability on https://sehacure.slack.com/account/settings](https://hackerone.com/reports/2628) to Slack - 2 upvotes, $100
+321. [Marking notifications as read CSRF bug](https://hackerone.com/reports/5946) to HackerOne - 2 upvotes, $100
+322. [CSRF  Add Album On  onpatient.com ](https://hackerone.com/reports/99647) to drchrono - 2 upvotes, $100
+323. [The csrf token remains same after user logs in](https://hackerone.com/reports/49974) to Enter - 2 upvotes, $50
+324. [Using GET method for account login with CSRF token leaking to external sites Via Referer.](https://hackerone.com/reports/76733) to Zaption - 2 upvotes, $25
+325. [Login CSRF in Secret.ly](https://hackerone.com/reports/7936) to Secret - 2 upvotes, $0
+326. [logout csrf app.simplenote.com/logout](https://hackerone.com/reports/13705) to Automattic - 2 upvotes, $0
+327. [HTML form without CSRF protection](https://hackerone.com/reports/7849) to Automattic - 2 upvotes, $0
+328. [csrf on password change functionality ](https://hackerone.com/reports/8849) to Cloudflare Vulnerability Disclosure - 2 upvotes, $0
+329. [Notifications can mark as read by CSRF](https://hackerone.com/reports/36980) to Twitter - 2 upvotes, $0
+330. [[mobile.twitter.com / twitter.com] CSRF protection bypass](https://hackerone.com/reports/14883) to Twitter - 2 upvotes, $0
+331. [The product/status method CSRF](https://hackerone.com/reports/74595) to DigitalSellz - 2 upvotes, $0
+332. [CSRF in apps.owncloud.com](https://hackerone.com/reports/84395) to ownCloud - 2 upvotes, $0
+333. [don't store CSRF tokens in cookies](https://hackerone.com/reports/140377) to Gratipay - 2 upvotes, $0
+334. [Lost Password CSRF](https://hackerone.com/reports/145583) to Nextcloud - 2 upvotes, $0
+335. [Multiple Cross Site Request Forgery Vulnerabilities in Concrete5 version 5.7.3.1](https://hackerone.com/reports/59660) to Concrete CMS - 2 upvotes, $0
+336. [Full path disclosure when CSRF validation failed ](https://hackerone.com/reports/148890) to Paragon Initiative Enterprises - 2 upvotes, $0
+337. [Full Path Disclosure by removing CSRF token](https://hackerone.com/reports/150018) to Paragon Initiative Enterprises - 2 upvotes, $0
+338. [CSRF with redeem coupon request ](https://hackerone.com/reports/148417) to Instacart - 2 upvotes, $0
+339. [CSRF token validation is missing](https://hackerone.com/reports/221043) to Nextcloud - 2 upvotes, $0
+340. [Logout CSRF](https://hackerone.com/reports/267867) to delight.im - 2 upvotes, $0
+341. [Login Cross Site Request Forgery ](https://hackerone.com/reports/283482) to Infogram - 2 upvotes, $0
+342. [CSRF on https://apps.topcoder.com/wiki/plugins/socialbookmarking/updatebookmark.action](https://hackerone.com/reports/866844) to Topcoder - 2 upvotes, $0
+343. [CSRF header is sent to external websites when using data-remote forms](https://hackerone.com/reports/189878) to Ruby on Rails - 2 upvotes, $0
+344. [Logout page does not prevent CSRF](https://hackerone.com/reports/905831) to Courier - 2 upvotes, $0
+345. [Authenticity token doesnt expire after single use leading to CSRF](https://hackerone.com/reports/919112) to Omise - 2 upvotes, $0
+346. [rails-ujs will send CSRF tokens to other origins](https://hackerone.com/reports/49935) to Ruby on Rails - 1 upvotes, $1000
+347. [CSRF token fixation in facebook store app that can lead to adding attacker to victim acc ](https://hackerone.com/reports/55911) to Shopify - 1 upvotes, $500
+348. [CSRF in Connecting Pinterest Account](https://hackerone.com/reports/104931) to Shopify - 1 upvotes, $500
+349. [CSRF on email address operations. Also performing unintended operations. ](https://hackerone.com/reports/18507) to WePay - 1 upvotes, $150
+350. [CSRF on add comment section](https://hackerone.com/reports/2638) to Slack - 1 upvotes, $0
+351. [HTML Form Without CSRF protection](https://hackerone.com/reports/7863) to Localize - 1 upvotes, $0
+352. [No Cross-Site Request Forgery protection at multiple locations](https://hackerone.com/reports/7916) to Localize - 1 upvotes, $0
+353. [Group Deletion Via CSRF](https://hackerone.com/reports/8218) to Localize - 1 upvotes, $0
+354. [Group Creation Via CSRF](https://hackerone.com/reports/8216) to Localize - 1 upvotes, $0
+355. [ Private Project Access Request Accpeted Via CSRF ](https://hackerone.com/reports/8224) to Localize - 1 upvotes, $0
+356. [CSRF - Adding/Removing items to cart - shop.khanacademy.org](https://hackerone.com/reports/6378) to Khan Academy - 1 upvotes, $0
+357. [Projects Watch or Notifications Settings Change Via CSRF](https://hackerone.com/reports/8273) to Localize - 1 upvotes, $0
+358. [Sign  up CSRF](https://hackerone.com/reports/13583) to Factlink - 1 upvotes, $0
+359. [ User Account Creation CSRF ](https://hackerone.com/reports/7051) to IRCCloud - 1 upvotes, $0
+360. [CSRF token valid even after the session logout of a particular user](https://hackerone.com/reports/2857) to Phabricator - 1 upvotes, $0
+361. [Login CSRF using Twitter oauth](https://hackerone.com/reports/13555) to Factlink - 1 upvotes, $0
+362. [CSRF and No password requirement in this URL Billing Info](https://hackerone.com/reports/12034) to Cloudflare Vulnerability Disclosure - 1 upvotes, $0
+363. [CSRF - Disabling orders at https://panel.stopthehacker.com/manage/disable-order/order/ID](https://hackerone.com/reports/8843) to StopTheHacker - 1 upvotes, $0
+364. [CSRF & Nonce Token Weak Implementation](https://hackerone.com/reports/14702) to WePay - 1 upvotes, $0
+365. [System Status Update CSRF](https://hackerone.com/reports/8943) to Cloudflare Vulnerability Disclosure - 1 upvotes, $0
+366. [Clickjacking & CSRF attack can be done at https://app.mavenlink.com/login](https://hackerone.com/reports/14494) to Mavenlink - 1 upvotes, $0
+367. [CSRF bypass](https://hackerone.com/reports/45428) to Vimeo - 1 upvotes, $0
+368. [CSRF token from another valid user session accepted](https://hackerone.com/reports/47357) to Mobile Vikings - 1 upvotes, $0
+369. [A csrf vulnerability which add and remove a favorite team from a user account.](https://hackerone.com/reports/1620) to Yahoo! - 1 upvotes, $0
+370. [No CSRF protection when creating new community points actions, and related stored XSS](https://hackerone.com/reports/65808) to Concrete CMS - 1 upvotes, $0
+371. [owncloud.com: Account Compromise Through CSRF](https://hackerone.com/reports/84372) to ownCloud - 1 upvotes, $0
+372. [The Anti-CSRF Library fails to restrict token to a particular IP address when being behind a reverse-proxy/WAF](https://hackerone.com/reports/134894) to Paragon Initiative Enterprises - 1 upvotes, $0
+373. [ProBlog 2.6.6 CSRF Exploit](https://hackerone.com/reports/133847) to Concrete CMS - 1 upvotes, $0
+374. [XSS and CSRF in Zomato Contact form](https://hackerone.com/reports/115248) to Zomato - 1 upvotes, $0
+375. [Missing Server Side Validation of CSRF Middleware Token in Change Password Request](https://hackerone.com/reports/120143) to Veris - 1 upvotes, $0
+376. [CSRF - Regenerate all admin api keys](https://hackerone.com/reports/119148) to New Relic - 1 upvotes, $0
+377. [No csrf protection on logout](https://hackerone.com/reports/165923) to Boozt Fashion AB - 1 upvotes, $0
+378. [[community.informatica.com] - CSRF in Private Messages allows to move user's messages to Trash](https://hackerone.com/reports/45050) to Informatica - 1 upvotes, $0
+379. [Udemy s3 storage can be used by an attacker personal website because of missing CSRF Token](https://hackerone.com/reports/172707) to Udemy - 1 upvotes, $0
+380. [Lack of CSRF token validation at server side](https://hackerone.com/reports/163815) to Gratipay - 1 upvotes, $0
+381. [CSRF on cuvva.insure allows to attacker to send multiple SMS to download the app without visiting the cuvva](https://hackerone.com/reports/250430) to Cuvva - 1 upvotes, $0
+382. [Login csrf.](https://hackerone.com/reports/117195) to Gratipay - 1 upvotes, $0
+383. [Csrf bug on signup session](https://hackerone.com/reports/230428) to Coinbase - 1 upvotes, $0
+384. [The csrf token remains same after user logs in](https://hackerone.com/reports/361400) to Liberapay - 1 upvotes, $0
+385. [Csrf token does not meet security design](https://hackerone.com/reports/362033) to Liberapay - 1 upvotes, $0
+386. [Cross-Site Request Forgery](https://hackerone.com/reports/215383) to Mail.ru - 1 upvotes, $0
+387. [CSRF allows attacker to manage customer's shopping cart.](https://hackerone.com/reports/540382) to TomTom - 1 upvotes, $0
+388. [Social Oauth Disconnect CSRF at znakcup.ru](https://hackerone.com/reports/1074869) to Mail.ru - 1 upvotes, $0
+389. [CSRF in newsletter form](https://hackerone.com/reports/1190705) to Sifchain - 1 upvotes, $0
+390. [CSRF Token missing on  http://baseball.fantasysports.yahoo.com/b1/127146/messages](https://hackerone.com/reports/6700) to Yahoo! - 0 upvotes, $400
+391. [CSRF Token is missing on DELETE message option on  http://baseball.fantasysports.yahoo.com/b1/127146/messages](https://hackerone.com/reports/6702) to Yahoo! - 0 upvotes, $200
+392. [XSRF token problem](https://hackerone.com/reports/2427) to RelateIQ - 0 upvotes, $100
+393. [Login CSRF](https://hackerone.com/reports/6871) to IRCCloud - 0 upvotes, $100
+394. [CSRF in function "Set as primary" on  accounts page](https://hackerone.com/reports/10829) to Coinbase - 0 upvotes, $100
+395. [Login CSRF](https://hackerone.com/reports/21069) to Mavenlink - 0 upvotes, $100
+396. [HTML Form without CSRF protection](https://hackerone.com/reports/6888) to IRCCloud - 0 upvotes, $0
+397. [CSRF - Creating accounts](https://hackerone.com/reports/7332) to IRCCloud - 0 upvotes, $0
+398. [Change user settings through CSRF](https://hackerone.com/reports/7870) to Localize - 0 upvotes, $0
+399. [No CSRF token used in Phone Verification POST](https://hackerone.com/reports/9062) to Mail.ru - 0 upvotes, $0
+400. [Log Out Cross site Request Forgery](https://hackerone.com/reports/7516) to IRCCloud - 0 upvotes, $0
+401. [NO CSRF token found on user details update](https://hackerone.com/reports/15454) to FanFootage - 0 upvotes, $0
+402. [HTML Form Without CSRF Protection Vulnerability](https://hackerone.com/reports/17312) to Uzbey - 0 upvotes, $0
+403. [Typical form vulnerable to csrf attack](https://hackerone.com/reports/14751) to WePay - 0 upvotes, $0
+404. [CSRF   in crashlytics.com](https://hackerone.com/reports/13856) to Twitter - 0 upvotes, $0
+405. [CSRF (Make email primary) may lead to account compromise](https://hackerone.com/reports/25405) to WePay - 0 upvotes, $0
+406. [HTML form without CSRF protection at http://try.crashlytics.com/enterprise/](https://hackerone.com/reports/25128) to Twitter - 0 upvotes, $0
+407. [No csrf protection on index.php/ccm/system/user/add_group, index.php/ccm/system/user/remove_group](https://hackerone.com/reports/64184) to Concrete CMS - 0 upvotes, $0
+408. [Csrf near report abuse meme ](https://hackerone.com/reports/93154) to Imgur - 0 upvotes, $0
+409. [The csrf token remains same after user logs in](https://hackerone.com/reports/111262) to ownCloud - 0 upvotes, $0
+410. [Login CSRF using Google OAuth](https://hackerone.com/reports/118737) to ThisData - 0 upvotes, $0
+411. [apps.owncloud.com: CSRF change privacy settings](https://hackerone.com/reports/85565) to ownCloud - 0 upvotes, $0
+412. [CSRF Token](https://hackerone.com/reports/257237) to Udemy - 0 upvotes, $0
+413. [CSRF Issue](https://hackerone.com/reports/166231) to Legal Robot - 0 upvotes, $0
+414. [CSRF bug on password change](https://hackerone.com/reports/230436) to Coinbase - 0 upvotes, $0
+415. [CSRF Token Design Flaw](https://hackerone.com/reports/216161) to Udemy - 0 upvotes, $0
+416. [Logout CSRF](https://hackerone.com/reports/244778) to WakaTime - 0 upvotes, $0
+417. [Cross site request forgery](https://hackerone.com/reports/269196) to Hiro - 0 upvotes, $0
