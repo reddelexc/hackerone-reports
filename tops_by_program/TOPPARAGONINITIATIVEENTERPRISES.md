@@ -1,8 +1,8 @@
 Top reports from Paragon Initiative Enterprises program at HackerOne:
 
-1. [BAD Code ! ](https://hackerone.com/reports/180074) to Paragon Initiative Enterprises - 481 upvotes, $0
+1. [BAD Code ! ](https://hackerone.com/reports/180074) to Paragon Initiative Enterprises - 482 upvotes, $0
 2. [DMARC  Not found for paragonie.com   URGENT](https://hackerone.com/reports/179828) to Paragon Initiative Enterprises - 135 upvotes, $0
-3. [Subdomain Takeover](https://hackerone.com/reports/180393) to Paragon Initiative Enterprises - 64 upvotes, $0
+3. [Subdomain Takeover](https://hackerone.com/reports/180393) to Paragon Initiative Enterprises - 65 upvotes, $0
 4. [I am because bug](https://hackerone.com/reports/226094) to Paragon Initiative Enterprises - 38 upvotes, $0
 5. [ssl info shown ](https://hackerone.com/reports/149369) to Paragon Initiative Enterprises - 31 upvotes, $0
 6. [[Critical] billion dollars issue](https://hackerone.com/reports/244836) to Paragon Initiative Enterprises - 29 upvotes, $0
@@ -33,23 +33,23 @@ Top reports from Paragon Initiative Enterprises program at HackerOne:
 31. [Email Spoofing With Your Website's Email](https://hackerone.com/reports/163156) to Paragon Initiative Enterprises - 3 upvotes, $0
 32. [SMTP server allows anonymous relay from internal addresses to internal addresses](https://hackerone.com/reports/144385) to Paragon Initiative Enterprises - 3 upvotes, $0
 33. [Github repo's wiki publicly editable](https://hackerone.com/reports/461429) to Paragon Initiative Enterprises - 3 upvotes, $0
-34. [Missing rel=noopener noreferrer in target=_blank links (Phishing attack)](https://hackerone.com/reports/181225) to Paragon Initiative Enterprises - 2 upvotes, $50
-35. [Information Disclosure in Error Page](https://hackerone.com/reports/115219) to Paragon Initiative Enterprises - 2 upvotes, $0
-36. [Missing SPF](https://hackerone.com/reports/115294) to Paragon Initiative Enterprises - 2 upvotes, $0
-37. [Email spoofing in security@paragonie.com](https://hackerone.com/reports/148763) to Paragon Initiative Enterprises - 2 upvotes, $0
-38. [Nginx Version Disclosure On Forbidden Page](https://hackerone.com/reports/148768) to Paragon Initiative Enterprises - 2 upvotes, $0
-39. [Full path disclosure when CSRF validation failed ](https://hackerone.com/reports/148890) to Paragon Initiative Enterprises - 2 upvotes, $0
-40. [Session Management Issue CMS Airship](https://hackerone.com/reports/148914) to Paragon Initiative Enterprises - 2 upvotes, $0
-41. [[URGENT] Password reset emails are sent in clear-text (without encryption)](https://hackerone.com/reports/149028) to Paragon Initiative Enterprises - 2 upvotes, $0
-42. [Full Path Disclosure by removing CSRF token](https://hackerone.com/reports/150018) to Paragon Initiative Enterprises - 2 upvotes, $0
-43. [Not clearing hex-decoded variable after usage in Authentication](https://hackerone.com/reports/168293) to Paragon Initiative Enterprises - 2 upvotes, $0
-44. [directory information disclose](https://hackerone.com/reports/226212) to Paragon Initiative Enterprises - 2 upvotes, $0
-45. [Full Path Disclousure on https://airship.paragonie.com](https://hackerone.com/reports/226514) to Paragon Initiative Enterprises - 2 upvotes, $0
-46. [no session logout after changing the password  in https://bridge.cspr.ng/](https://hackerone.com/reports/226518) to Paragon Initiative Enterprises - 2 upvotes, $0
-47. [Improper validation of Email ](https://hackerone.com/reports/226334) to Paragon Initiative Enterprises - 2 upvotes, $0
-48. [Your Application Have Cacheable SSL Pages](https://hackerone.com/reports/115296) to Paragon Initiative Enterprises - 2 upvotes, $0
-49. [Github wikis are editable by anyone https://github.com/paragonie/password_lock/wiki](https://hackerone.com/reports/661977) to Paragon Initiative Enterprises - 2 upvotes, $0
-50. [Recaptcha Secret key Leaked](https://hackerone.com/reports/1416665) to Paragon Initiative Enterprises - 2 upvotes, $0
+34. [Recaptcha Secret key Leaked](https://hackerone.com/reports/1416665) to Paragon Initiative Enterprises - 3 upvotes, $0
+35. [Missing rel=noopener noreferrer in target=_blank links (Phishing attack)](https://hackerone.com/reports/181225) to Paragon Initiative Enterprises - 2 upvotes, $50
+36. [Information Disclosure in Error Page](https://hackerone.com/reports/115219) to Paragon Initiative Enterprises - 2 upvotes, $0
+37. [Missing SPF](https://hackerone.com/reports/115294) to Paragon Initiative Enterprises - 2 upvotes, $0
+38. [Email spoofing in security@paragonie.com](https://hackerone.com/reports/148763) to Paragon Initiative Enterprises - 2 upvotes, $0
+39. [Nginx Version Disclosure On Forbidden Page](https://hackerone.com/reports/148768) to Paragon Initiative Enterprises - 2 upvotes, $0
+40. [Full path disclosure when CSRF validation failed ](https://hackerone.com/reports/148890) to Paragon Initiative Enterprises - 2 upvotes, $0
+41. [Session Management Issue CMS Airship](https://hackerone.com/reports/148914) to Paragon Initiative Enterprises - 2 upvotes, $0
+42. [[URGENT] Password reset emails are sent in clear-text (without encryption)](https://hackerone.com/reports/149028) to Paragon Initiative Enterprises - 2 upvotes, $0
+43. [Full Path Disclosure by removing CSRF token](https://hackerone.com/reports/150018) to Paragon Initiative Enterprises - 2 upvotes, $0
+44. [Not clearing hex-decoded variable after usage in Authentication](https://hackerone.com/reports/168293) to Paragon Initiative Enterprises - 2 upvotes, $0
+45. [directory information disclose](https://hackerone.com/reports/226212) to Paragon Initiative Enterprises - 2 upvotes, $0
+46. [Full Path Disclousure on https://airship.paragonie.com](https://hackerone.com/reports/226514) to Paragon Initiative Enterprises - 2 upvotes, $0
+47. [no session logout after changing the password  in https://bridge.cspr.ng/](https://hackerone.com/reports/226518) to Paragon Initiative Enterprises - 2 upvotes, $0
+48. [Improper validation of Email ](https://hackerone.com/reports/226334) to Paragon Initiative Enterprises - 2 upvotes, $0
+49. [Your Application Have Cacheable SSL Pages](https://hackerone.com/reports/115296) to Paragon Initiative Enterprises - 2 upvotes, $0
+50. [Github wikis are editable by anyone https://github.com/paragonie/password_lock/wiki](https://hackerone.com/reports/661977) to Paragon Initiative Enterprises - 2 upvotes, $0
 51. [Full Path Disclosure](https://hackerone.com/reports/115337) to Paragon Initiative Enterprises - 1 upvotes, $50
 52. [Vunerability : spf](https://hackerone.com/reports/130990) to Paragon Initiative Enterprises - 1 upvotes, $0
 53. [DNSsec not configured](https://hackerone.com/reports/115246) to Paragon Initiative Enterprises - 1 upvotes, $0

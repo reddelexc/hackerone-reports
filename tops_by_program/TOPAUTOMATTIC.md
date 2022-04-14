@@ -3,11 +3,11 @@ Top reports from Automattic program at HackerOne:
 1. [Denial of service to WP-JSON API by cache poisoning the CORS allow origin header](https://hackerone.com/reports/591302) to Automattic - 385 upvotes, $550
 2. [Stored XSS in wordpress.com](https://hackerone.com/reports/733248) to Automattic - 346 upvotes, $650
 3. [IDOR when editing users leads to Account Takeover without User Interaction at CrowdSignal](https://hackerone.com/reports/915114) to Automattic - 178 upvotes, $650
-4. [Sql injection on docs.atavist.com](https://hackerone.com/reports/1039315) to Automattic - 153 upvotes, $200
-5. [IDOR leads to Edit Anyone's Blogs / Websites](https://hackerone.com/reports/974222) to Automattic - 140 upvotes, $200
+4. [Sql injection on docs.atavist.com](https://hackerone.com/reports/1039315) to Automattic - 154 upvotes, $200
+5. [IDOR leads to Edit Anyone's Blogs / Websites](https://hackerone.com/reports/974222) to Automattic - 141 upvotes, $200
 6. [Permanent DoS with one click.](https://hackerone.com/reports/975827) to Automattic - 123 upvotes, $250
-7. [[intensedebate.com] SQL Injection Time Based On /js/commentAction/](https://hackerone.com/reports/1044698) to Automattic - 120 upvotes, $350
-8. [SQL Injection Union Based](https://hackerone.com/reports/1046084) to Automattic - 119 upvotes, $350
+7. [SQL Injection Union Based](https://hackerone.com/reports/1046084) to Automattic - 121 upvotes, $350
+8. [[intensedebate.com] SQL Injection Time Based On /js/commentAction/](https://hackerone.com/reports/1044698) to Automattic - 120 upvotes, $350
 9. [Stored XSS vulnerability in comments on *.wordpress.com](https://hackerone.com/reports/707720) to Automattic - 114 upvotes, $350
 10. [Email Verification bypass on signup](https://hackerone.com/reports/1040047) to Automattic - 112 upvotes, $300
 11. [Stored XSS on app.crowdsignal.com + your-subdomain.survey.fm via Embed Media](https://hackerone.com/reports/920005) to Automattic - 92 upvotes, $100
@@ -19,7 +19,7 @@ Top reports from Automattic program at HackerOne:
 17. [Stored XSS on https://app.crowdsignal.com/surveys/[Survey-Id]/question - Bypass](https://hackerone.com/reports/974271) to Automattic - 74 upvotes, $150
 18. [Reflected XSS in https://www.intensedebate.com/js/getCommentLink.php](https://hackerone.com/reports/1043804) to Automattic - 73 upvotes, $250
 19. [[intensedebate.com] SQL Injection Time Based on /changeReplaceOpt.php](https://hackerone.com/reports/1042746) to Automattic - 72 upvotes, $350
-20. [Unauthenticated access to webmail at maildev.happytools.dev leading to compromised wordpress site api.happytools.dev [RCE]](https://hackerone.com/reports/1067547) to Automattic - 69 upvotes, $200
+20. [Unauthenticated access to webmail at maildev.happytools.dev leading to compromised wordpress site api.happytools.dev [RCE]](https://hackerone.com/reports/1067547) to Automattic - 70 upvotes, $200
 21. [WordPress Flash XSS in *flashmediaelement.swf*](https://hackerone.com/reports/134546) to Automattic - 68 upvotes, $1337
 22. [Stored Self XSS on https://app.crowdsignal.com (in Photo Insert App) + Stored XSS on https://*your-subdomain*.survey.fm](https://hackerone.com/reports/667188) to Automattic - 67 upvotes, $150
 23. [Disclosure of 152 cookie names via crafted input](https://hackerone.com/reports/310105) to Automattic - 63 upvotes, $100
@@ -79,14 +79,14 @@ Top reports from Automattic program at HackerOne:
 77. [Denial-of- service By Cache Poisoning The Cross-Origin Resource Sharing Misconfiguration Allow Origin Header](https://hackerone.com/reports/921704) to Automattic - 14 upvotes, $200
 78. [No Rate Limit on CrowdSignal Polls when Adding Comment](https://hackerone.com/reports/488923) to Automattic - 14 upvotes, $150
 79. [Reflected XSS on a Atavist theme at external_import.php](https://hackerone.com/reports/976657) to Automattic - 14 upvotes, $150
-80. [Crafted frame injection leading to form-based UI redressing.](https://hackerone.com/reports/291683) to Automattic - 14 upvotes, $100
-81. [Users can bypass page restrictions via Export feature at "Share" feature in CrowdSignal](https://hackerone.com/reports/915140) to Automattic - 13 upvotes, $150
-82. [information disclosure lead to disclose users private notes](https://hackerone.com/reports/1070081) to Automattic - 13 upvotes, $150
-83. [[bbPress] Stored XSS in any forum post.](https://hackerone.com/reports/151117) to Automattic - 12 upvotes, $300
-84. [Lazy Load stored XSS](https://hackerone.com/reports/152416) to Automattic - 12 upvotes, $275
-85. [Follow Button XSS](https://hackerone.com/reports/172574) to Automattic - 12 upvotes, $100
-86. [Modify account details by exploiting clickjacking vulnerability on refer.wordpress.com](https://hackerone.com/reports/765355) to Automattic - 12 upvotes, $75
-87. [[sub.wordpress.com] - XSS when adjust block Poll - Confirmation Message -  On submission:Redirect to another webpage - Redirect address:[xss_payload]](https://hackerone.com/reports/1050733) to Automattic - 11 upvotes, $350
+80. [information disclosure lead to disclose users private notes](https://hackerone.com/reports/1070081) to Automattic - 14 upvotes, $150
+81. [Crafted frame injection leading to form-based UI redressing.](https://hackerone.com/reports/291683) to Automattic - 14 upvotes, $100
+82. [Users can bypass page restrictions via Export feature at "Share" feature in CrowdSignal](https://hackerone.com/reports/915140) to Automattic - 13 upvotes, $150
+83. [[sub.wordpress.com] - XSS when adjust block Poll - Confirmation Message -  On submission:Redirect to another webpage - Redirect address:[xss_payload]](https://hackerone.com/reports/1050733) to Automattic - 12 upvotes, $350
+84. [[bbPress] Stored XSS in any forum post.](https://hackerone.com/reports/151117) to Automattic - 12 upvotes, $300
+85. [Lazy Load stored XSS](https://hackerone.com/reports/152416) to Automattic - 12 upvotes, $275
+86. [Follow Button XSS](https://hackerone.com/reports/172574) to Automattic - 12 upvotes, $100
+87. [Modify account details by exploiting clickjacking vulnerability on refer.wordpress.com](https://hackerone.com/reports/765355) to Automattic - 12 upvotes, $75
 88. [wpjobmanager - unserialize of user input](https://hackerone.com/reports/308489) to Automattic - 11 upvotes, $250
 89. [WooCommerce: Support Ticket indirect object reference](https://hackerone.com/reports/91599) to Automattic - 11 upvotes, $50
 90. [Invalidate session after password reset on https://polldaddy.com](https://hackerone.com/reports/273881) to Automattic - 11 upvotes, $0
@@ -104,39 +104,40 @@ Top reports from Automattic program at HackerOne:
 102. [Theme Assets uploader allows HTML content](https://hackerone.com/reports/769998) to Automattic - 8 upvotes, $100
 103. [Object Injection in Woocommerce / Handle PDT Responses from PayPal](https://hackerone.com/reports/245228) to Automattic - 7 upvotes, $300
 104. [GET /api/v2/url_info endpoint is vulnerable to Blind SSRF](https://hackerone.com/reports/1057531) to Automattic - 7 upvotes, $0
-105. [Non-changing "_idnonce" value leads to CSRF on accounts at https://intensedebate.com for account takeover](https://hackerone.com/reports/1090982) to Automattic - 6 upvotes, $0
-106. [Wordpress.com REST API oauth bypass via Cross Site Flashing](https://hackerone.com/reports/176308) to Automattic - 5 upvotes, $150
-107. [Persistent Cross-Site Scripting in WooCommerce WordPress plugin](https://hackerone.com/reports/152692) to Automattic - 5 upvotes, $75
-108. [XSS Vulnerability in WooCommerce Product Vendors plugin](https://hackerone.com/reports/253313) to Automattic - 4 upvotes, $225
-109. [Internal GET SSRF via CSRF with Press This scan feature](https://hackerone.com/reports/110801) to Automattic - 3 upvotes, $250
-110. [XSS at www.woothemes.com](https://hackerone.com/reports/111365) to Automattic - 3 upvotes, $75
-111. [XSS on www.wordpress.com](https://hackerone.com/reports/133963) to Automattic - 3 upvotes, $75
-112. [Akismet Several CSRF vulnerabilities](https://hackerone.com/reports/131108) to Automattic - 3 upvotes, $75
-113. [XSS on codex.wordpress.org](https://hackerone.com/reports/104559) to Automattic - 3 upvotes, $75
-114. [CPU utilization 99% on visiting wordpress site url & open redirect found](https://hackerone.com/reports/129091) to Automattic - 3 upvotes, $75
-115. [privilege escalation](https://hackerone.com/reports/13959) to Automattic - 2 upvotes, $250
-116. [XSS in WordPress ](https://hackerone.com/reports/81736) to Automattic - 2 upvotes, $100
-117. [Serving Transitions From: HTTP Protocol (not secure)](https://hackerone.com/reports/14803) to Automattic - 2 upvotes, $0
-118. [logout csrf app.simplenote.com/logout](https://hackerone.com/reports/13705) to Automattic - 2 upvotes, $0
-119. [HTML form without CSRF protection](https://hackerone.com/reports/7849) to Automattic - 2 upvotes, $0
-120. [Verification code issues for Two-Step Authentication](https://hackerone.com/reports/67660) to Automattic - 1 upvotes, $100
-121. [XSS at wordpress.com](https://hackerone.com/reports/111500) to Automattic - 1 upvotes, $75
-122. [Remove anyone's pic gravtar](https://hackerone.com/reports/101145) to Automattic - 1 upvotes, $75
-123. [Possible Timing Side-Channel in XMLRPC Verification](https://hackerone.com/reports/107296) to Automattic - 1 upvotes, $50
-124. [Session Cookie without Secure flag set](https://hackerone.com/reports/7680) to Automattic - 1 upvotes, $0
-125. [https://polldaddy.com storage.swf XSS](https://hackerone.com/reports/9522) to Automattic - 1 upvotes, $0
-126. [xss in app.simplenote.com](https://hackerone.com/reports/13703) to Automattic - 1 upvotes, $0
-127. [Process of changing email address and password does not asks old Password.](https://hackerone.com/reports/15777) to Automattic - 1 upvotes, $0
-128. [CSV Injection in polldaddy.com](https://hackerone.com/reports/92353) to Automattic - 0 upvotes, $75
-129. [Simplenote Silverlight cross-domain policy misconfiguration](https://hackerone.com/reports/7571) to Automattic - 0 upvotes, $0
-130. [Session Cookie without Secure flag set](https://hackerone.com/reports/7843) to Automattic - 0 upvotes, $0
-131. [genericons.com - DOM based XSS.](https://hackerone.com/reports/14305) to Automattic - 0 upvotes, $0
-132. [http://jetpack.me/ Self XSS](https://hackerone.com/reports/14303) to Automattic - 0 upvotes, $0
-133. [information disclosure](https://hackerone.com/reports/13939) to Automattic - 0 upvotes, $0
-134. [Open Redirect in WordPress Feed Statistics {Affected All Versions}](https://hackerone.com/reports/22142) to Automattic - 0 upvotes, $0
-135. [xss in simperium.com](https://hackerone.com/reports/13746) to Automattic - 0 upvotes, $0
-136. [Top 10 2013-A2-Broken Authentication and Session Management - wordpress.com](https://hackerone.com/reports/18503) to Automattic - 0 upvotes, $0
-137. [Missing HSTS header in https://app.simplenote.com](https://hackerone.com/reports/20072) to Automattic - 0 upvotes, $0
-138. [Missing HSTS header in https://public-api.wordpress.com](https://hackerone.com/reports/20071) to Automattic - 0 upvotes, $0
-139. [XSS on gravatar](https://hackerone.com/reports/13794) to Automattic - 0 upvotes, $0
-140. [User Enumeration and Guessable User Account Attack on WORDPRESS](https://hackerone.com/reports/16439) to Automattic - 0 upvotes, $0
+105. [De-anonymize anonymous tips through the Tumblr blog network](https://hackerone.com/reports/1484168) to Automattic - 6 upvotes, $450
+106. [Persistent Cross-Site Scripting in WooCommerce WordPress plugin](https://hackerone.com/reports/152692) to Automattic - 6 upvotes, $75
+107. [Non-changing "_idnonce" value leads to CSRF on accounts at https://intensedebate.com for account takeover](https://hackerone.com/reports/1090982) to Automattic - 6 upvotes, $0
+108. [Wordpress.com REST API oauth bypass via Cross Site Flashing](https://hackerone.com/reports/176308) to Automattic - 5 upvotes, $150
+109. [XSS Vulnerability in WooCommerce Product Vendors plugin](https://hackerone.com/reports/253313) to Automattic - 4 upvotes, $225
+110. [Internal GET SSRF via CSRF with Press This scan feature](https://hackerone.com/reports/110801) to Automattic - 3 upvotes, $250
+111. [XSS at www.woothemes.com](https://hackerone.com/reports/111365) to Automattic - 3 upvotes, $75
+112. [XSS on www.wordpress.com](https://hackerone.com/reports/133963) to Automattic - 3 upvotes, $75
+113. [Akismet Several CSRF vulnerabilities](https://hackerone.com/reports/131108) to Automattic - 3 upvotes, $75
+114. [XSS on codex.wordpress.org](https://hackerone.com/reports/104559) to Automattic - 3 upvotes, $75
+115. [CPU utilization 99% on visiting wordpress site url & open redirect found](https://hackerone.com/reports/129091) to Automattic - 3 upvotes, $75
+116. [privilege escalation](https://hackerone.com/reports/13959) to Automattic - 2 upvotes, $250
+117. [XSS in WordPress ](https://hackerone.com/reports/81736) to Automattic - 2 upvotes, $100
+118. [Serving Transitions From: HTTP Protocol (not secure)](https://hackerone.com/reports/14803) to Automattic - 2 upvotes, $0
+119. [logout csrf app.simplenote.com/logout](https://hackerone.com/reports/13705) to Automattic - 2 upvotes, $0
+120. [HTML form without CSRF protection](https://hackerone.com/reports/7849) to Automattic - 2 upvotes, $0
+121. [Verification code issues for Two-Step Authentication](https://hackerone.com/reports/67660) to Automattic - 1 upvotes, $100
+122. [XSS at wordpress.com](https://hackerone.com/reports/111500) to Automattic - 1 upvotes, $75
+123. [Remove anyone's pic gravtar](https://hackerone.com/reports/101145) to Automattic - 1 upvotes, $75
+124. [Possible Timing Side-Channel in XMLRPC Verification](https://hackerone.com/reports/107296) to Automattic - 1 upvotes, $50
+125. [Session Cookie without Secure flag set](https://hackerone.com/reports/7680) to Automattic - 1 upvotes, $0
+126. [https://polldaddy.com storage.swf XSS](https://hackerone.com/reports/9522) to Automattic - 1 upvotes, $0
+127. [xss in app.simplenote.com](https://hackerone.com/reports/13703) to Automattic - 1 upvotes, $0
+128. [Process of changing email address and password does not asks old Password.](https://hackerone.com/reports/15777) to Automattic - 1 upvotes, $0
+129. [CSV Injection in polldaddy.com](https://hackerone.com/reports/92353) to Automattic - 0 upvotes, $75
+130. [Simplenote Silverlight cross-domain policy misconfiguration](https://hackerone.com/reports/7571) to Automattic - 0 upvotes, $0
+131. [Session Cookie without Secure flag set](https://hackerone.com/reports/7843) to Automattic - 0 upvotes, $0
+132. [genericons.com - DOM based XSS.](https://hackerone.com/reports/14305) to Automattic - 0 upvotes, $0
+133. [http://jetpack.me/ Self XSS](https://hackerone.com/reports/14303) to Automattic - 0 upvotes, $0
+134. [information disclosure](https://hackerone.com/reports/13939) to Automattic - 0 upvotes, $0
+135. [Open Redirect in WordPress Feed Statistics {Affected All Versions}](https://hackerone.com/reports/22142) to Automattic - 0 upvotes, $0
+136. [xss in simperium.com](https://hackerone.com/reports/13746) to Automattic - 0 upvotes, $0
+137. [Top 10 2013-A2-Broken Authentication and Session Management - wordpress.com](https://hackerone.com/reports/18503) to Automattic - 0 upvotes, $0
+138. [Missing HSTS header in https://app.simplenote.com](https://hackerone.com/reports/20072) to Automattic - 0 upvotes, $0
+139. [Missing HSTS header in https://public-api.wordpress.com](https://hackerone.com/reports/20071) to Automattic - 0 upvotes, $0
+140. [XSS on gravatar](https://hackerone.com/reports/13794) to Automattic - 0 upvotes, $0
+141. [User Enumeration and Guessable User Account Attack on WORDPRESS](https://hackerone.com/reports/16439) to Automattic - 0 upvotes, $0

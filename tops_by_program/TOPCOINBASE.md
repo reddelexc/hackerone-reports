@@ -1,9 +1,9 @@
 Top reports from Coinbase program at HackerOne:
 
-1. [Double Payout via PayPal](https://hackerone.com/reports/307239) to Coinbase - 256 upvotes, $10000
-2. [Ethereum account balance manipulation](https://hackerone.com/reports/300748) to Coinbase - 250 upvotes, $10000
-3. [ETH contract handling errors](https://hackerone.com/reports/328526) to Coinbase - 199 upvotes, $21000
-4. [HTML injection in apps user review ](https://hackerone.com/reports/104543) to Coinbase - 24 upvotes, $200
+1. [Double Payout via PayPal](https://hackerone.com/reports/307239) to Coinbase - 259 upvotes, $10000
+2. [Ethereum account balance manipulation](https://hackerone.com/reports/300748) to Coinbase - 251 upvotes, $10000
+3. [ETH contract handling errors](https://hackerone.com/reports/328526) to Coinbase - 200 upvotes, $21000
+4. [HTML injection in apps user review ](https://hackerone.com/reports/104543) to Coinbase - 25 upvotes, $200
 5. [[buy.coinbase.com]Content Injection](https://hackerone.com/reports/218680) to Coinbase - 23 upvotes, $100
 6. [Authentication Issue](https://hackerone.com/reports/176979) to Coinbase - 22 upvotes, $200
 7. [Prepopulation of email address and name leaks information provided to other merchants](https://hackerone.com/reports/316290) to Coinbase - 15 upvotes, $250
@@ -11,8 +11,8 @@ Top reports from Coinbase program at HackerOne:
 9. [XSSI (Cross Site Script Inclusion)](https://hackerone.com/reports/118631) to Coinbase - 13 upvotes, $200
 10. [Captcha Bypass in Coinbase SignUp Form](https://hackerone.com/reports/246801) to Coinbase - 13 upvotes, $100
 11. [Requestor Email Disclosure via Email Notification](https://hackerone.com/reports/202361) to Coinbase - 13 upvotes, $0
-12. [Email leak in transcations in Android app](https://hackerone.com/reports/126376) to Coinbase - 11 upvotes, $500
-13. [Application error message](https://hackerone.com/reports/147577) to Coinbase - 11 upvotes, $100
+12. [Application error message](https://hackerone.com/reports/147577) to Coinbase - 12 upvotes, $100
+13. [Email leak in transcations in Android app](https://hackerone.com/reports/126376) to Coinbase - 11 upvotes, $500
 14. [Bypassing 2FA for BTC transfers](https://hackerone.com/reports/10554) to Coinbase - 10 upvotes, $1000
 15. [Blacklist bypass on Callback URLs](https://hackerone.com/reports/53004) to Coinbase - 10 upvotes, $100
 16. [Coinbase Android Application - Bitcoin Wallet Leaks OAuth Response Code](https://hackerone.com/reports/5314) to Coinbase - 9 upvotes, $1000

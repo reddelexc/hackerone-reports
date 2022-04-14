@@ -26,11 +26,11 @@ Top reports from Concrete CMS program at HackerOne:
 24. [Stored XSS in Private Messages 'Reply' allows to execute malicious JavaScript against any user while replying to the message which contains payload](https://hackerone.com/reports/247517) to Concrete CMS - 8 upvotes, $0
 25. [Stored unauth XSS in calendar event via CSRF](https://hackerone.com/reports/1102018) to Concrete CMS - 8 upvotes, $0
 26. [Stored XSS in Express Objects - Concrete5 v8.1.0](https://hackerone.com/reports/221325) to Concrete CMS - 7 upvotes, $0
-27. [Stored XSS vulnerability in additional URLs in 'Location' dialog [Sitemap]](https://hackerone.com/reports/251358) to Concrete CMS - 7 upvotes, $0
-28. [Stored XSS on Add Event in Calendar](https://hackerone.com/reports/300532) to Concrete CMS - 7 upvotes, $0
-29. [Stored XSS on Add Calendar](https://hackerone.com/reports/300571) to Concrete CMS - 7 upvotes, $0
-30. [Stored XSS in the file search filter](https://hackerone.com/reports/873584) to Concrete CMS - 7 upvotes, $0
-31. [Stored XSS in Name field in User Groups/Group Details form](https://hackerone.com/reports/247521) to Concrete CMS - 6 upvotes, $0
+27. [Stored XSS in Name field in User Groups/Group Details form](https://hackerone.com/reports/247521) to Concrete CMS - 7 upvotes, $0
+28. [Stored XSS vulnerability in additional URLs in 'Location' dialog [Sitemap]](https://hackerone.com/reports/251358) to Concrete CMS - 7 upvotes, $0
+29. [Stored XSS on Add Event in Calendar](https://hackerone.com/reports/300532) to Concrete CMS - 7 upvotes, $0
+30. [Stored XSS on Add Calendar](https://hackerone.com/reports/300571) to Concrete CMS - 7 upvotes, $0
+31. [Stored XSS in the file search filter](https://hackerone.com/reports/873584) to Concrete CMS - 7 upvotes, $0
 32. [Unauthenticated HTML Injection Stored - ContactUs form](https://hackerone.com/reports/768327) to Concrete CMS - 6 upvotes, $0
 33. [Fetching the update json scheme from concrete5 over HTTP leads to remote code execution](https://hackerone.com/reports/982130) to Concrete CMS - 6 upvotes, $0
 34. [Stored XSS on express entries](https://hackerone.com/reports/873474) to Concrete CMS - 5 upvotes, $0

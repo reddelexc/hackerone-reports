@@ -1,36 +1,36 @@
 Top DoS reports from HackerOne:
 
-1. [DoS on PayPal via web cache poisoning](https://hackerone.com/reports/622122) to PayPal - 800 upvotes, $9700
+1. [DoS on PayPal via web cache poisoning](https://hackerone.com/reports/622122) to PayPal - 801 upvotes, $9700
 2. [profile-picture name parameter with large value lead to DoS for other users and programs on the platform](https://hackerone.com/reports/764434) to HackerOne - 460 upvotes, $2500
 3. [Denial of service to WP-JSON API by cache poisoning the CORS allow origin header](https://hackerone.com/reports/591302) to Automattic - 385 upvotes, $550
-4. [Denial of service via cache poisoning](https://hackerone.com/reports/409370) to HackerOne - 228 upvotes, $2500
-5. [Ability to DOS any organization's SSO and open up the door to account takeovers](https://hackerone.com/reports/976603) to Grammarly - 201 upvotes, $10500
-6. [Uploading large payload on domain instructions causes server-side DoS](https://hackerone.com/reports/887321) to HackerOne - 190 upvotes, $2500
+4. [Denial of service via cache poisoning](https://hackerone.com/reports/409370) to HackerOne - 230 upvotes, $2500
+5. [Ability to DOS any organization's SSO and open up the door to account takeovers](https://hackerone.com/reports/976603) to Grammarly - 204 upvotes, $10500
+6. [Uploading large payload on domain instructions causes server-side DoS](https://hackerone.com/reports/887321) to HackerOne - 191 upvotes, $2500
 7. [Node disk DOS by writing to container /etc/hosts](https://hackerone.com/reports/867699) to Kubernetes - 158 upvotes, $1000
 8. [xmlrpc.php FILE IS enable it will used for Bruteforce attack and Denial of Service(DoS)](https://hackerone.com/reports/752073) to Nord Security - 149 upvotes, $200
-9. [DoS on the Issue page by exploiting Mermaid.](https://hackerone.com/reports/470067) to GitLab - 137 upvotes, $3000
+9. [DoS on the Issue page by exploiting Mermaid.](https://hackerone.com/reports/470067) to GitLab - 138 upvotes, $3000
 10. [character limitation bypass can lead to DoS on Twitter App and 500 Internal Server Error](https://hackerone.com/reports/819088) to Twitter - 137 upvotes, $560
 11. [Permanent DoS with one click.](https://hackerone.com/reports/975827) to Automattic - 123 upvotes, $250
-12. [a very long name in hey.com can prevent anyone from accessing their contacts and probably can cause denial of service](https://hackerone.com/reports/1018037) to Basecamp - 117 upvotes, $1000
-13. [HTML Injection in Swing can disclose netNTLM hash or cause DoS](https://hackerone.com/reports/1054382) to PortSwigger Web Security - 110 upvotes, $1000
-14. [ActiveStorage throws exception when using whitespace as filename, may lead to denial of service of multiple pages](https://hackerone.com/reports/713407) to HackerOne - 106 upvotes, $2500
-15. [Denial of Service via Hyperlinks in Posts](https://hackerone.com/reports/1077136) to Slack - 100 upvotes, $1500
+12. [a very long name in hey.com can prevent anyone from accessing their contacts and probably can cause denial of service](https://hackerone.com/reports/1018037) to Basecamp - 118 upvotes, $1000
+13. [HTML Injection in Swing can disclose netNTLM hash or cause DoS](https://hackerone.com/reports/1054382) to PortSwigger Web Security - 111 upvotes, $1000
+14. [ActiveStorage throws exception when using whitespace as filename, may lead to denial of service of multiple pages](https://hackerone.com/reports/713407) to HackerOne - 108 upvotes, $2500
+15. [Denial of Service via Hyperlinks in Posts](https://hackerone.com/reports/1077136) to Slack - 101 upvotes, $1500
 16. [Attacker with an Old account might still be able to DoS ctf.hacker101.com by sending a Crafted request ](https://hackerone.com/reports/861170) to HackerOne - 92 upvotes, $500
-17. [Cache Poisoning DoS on downloads.exodus.com](https://hackerone.com/reports/1173153) to Exodus - 89 upvotes, $2500
+17. [Cache Poisoning DoS on downloads.exodus.com](https://hackerone.com/reports/1173153) to Exodus - 90 upvotes, $2500
 18. [Denial of Service | twitter.com & mobile.twitter.com](https://hackerone.com/reports/903740) to Twitter - 86 upvotes, $1120
 19. [[mijn.werkenbijdefensie.nl] Denial of service occurs due to lack of email length confirmation](https://hackerone.com/reports/920926) to Radancy - 79 upvotes, $50
-20. [DoS attack via comment on Issue](https://hackerone.com/reports/557154) to GitLab - 78 upvotes, $1000
-21. [Denial Of Service (Out Of Memory) on Updating Bounty Table [Urgent]](https://hackerone.com/reports/1043372) to HackerOne - 77 upvotes, $0
+20. [Denial Of Service (Out Of Memory) on Updating Bounty Table [Urgent]](https://hackerone.com/reports/1043372) to HackerOne - 79 upvotes, $0
+21. [DoS attack via comment on Issue](https://hackerone.com/reports/557154) to GitLab - 78 upvotes, $1000
 22. [https://themes.shopify.com::: Host header web cache poisoning lead to DoS](https://hackerone.com/reports/1096609) to Shopify - 72 upvotes, $2900
 23. [DoS of https://nordvpn.com/ via CVE-2018-6389 exploitation](https://hackerone.com/reports/752010) to Nord Security - 71 upvotes, $200
-24. [Cache Poisoning DoS on updates.rockstargames.com](https://hackerone.com/reports/1219038) to Rockstar Games - 66 upvotes, $500
+24. [Cache Poisoning DoS on updates.rockstargames.com](https://hackerone.com/reports/1219038) to Rockstar Games - 67 upvotes, $500
 25. [[www.werkenbijbakertilly.nl] Denial of service due to incorrect server return can result in total denial of service.](https://hackerone.com/reports/892615) to Radancy - 66 upvotes, $100
 26. [Denial of Service  [Chrome]](https://hackerone.com/reports/921286) to Twitter - 65 upvotes, $560
 27. [Cache poisoning Denial of Service affecting assets.gitlab-static.net](https://hackerone.com/reports/1160407) to GitLab - 64 upvotes, $4850
 28. [Authorization issue in Google G Suite allows DoS through HTTP redirect](https://hackerone.com/reports/191196) to Uber - 61 upvotes, $2500
 29. [DoS: type confusion in mrb_no_method_error](https://hackerone.com/reports/181871) to shopify-scripts - 60 upvotes, $20000
 30. [[api.tumblr.com] Denial of Service by cookies manipulation](https://hackerone.com/reports/1005421) to Automattic - 51 upvotes, $200
-31. [DoS through PeerExplorer](https://hackerone.com/reports/363636) to IOVLabs - 44 upvotes, $4000
+31. [DoS through PeerExplorer](https://hackerone.com/reports/363636) to IOVLabs - 45 upvotes, $4000
 32. [DOS in stream filters](https://hackerone.com/reports/505278) to Internet Bug Bounty - 44 upvotes, $1500
 33. [Arbitrary file creation with semi-controlled content (leads to DoS, EoP and others) at Steam Windows Client](https://hackerone.com/reports/682774) to Valve - 41 upvotes, $1250
 34. [Google  Maps API key stored as plain text leading to DOS and financial damage](https://hackerone.com/reports/1093667) to Zenly - 40 upvotes, $750
@@ -60,11 +60,11 @@ Top DoS reports from HackerOne:
 58. [xmlrpc.php FILE IS enable it will used for bruteforce attack and denial of service](https://hackerone.com/reports/325040) to LocalTapiola - 20 upvotes, $315
 59. [DoS of LINE client for Android via message containing multiple unicode characters (0x0e & 0x0f)](https://hackerone.com/reports/1058383) to LINE - 20 upvotes, $250
 60. [Pixel Flood Attack leads to Application level DoS](https://hackerone.com/reports/970760) to CS Money - 20 upvotes, $200
-61. [scripts loader (denial of service) vulnerability](https://hackerone.com/reports/690330) to MariaDB - 19 upvotes, $0
-62. [Comments Denial of Service in socialclub.rockstargames.com](https://hackerone.com/reports/214370) to Rockstar Games - 18 upvotes, $500
-63. [Denial of Service by requesting to reset a password](https://hackerone.com/reports/812754) to Nextcloud - 18 upvotes, $250
-64. [Specially constructed multi-part requests cause multi-second response times; vulnerable to DoS](https://hackerone.com/reports/431561) to Ruby on Rails - 17 upvotes, $1500
-65. [No redirect_uri in the db for web-internal clientKey leads to one-click DoS on gitter.im](https://hackerone.com/reports/702987) to GitLab - 17 upvotes, $1000
+61. [No redirect_uri in the db for web-internal clientKey leads to one-click DoS on gitter.im](https://hackerone.com/reports/702987) to GitLab - 19 upvotes, $1000
+62. [scripts loader (denial of service) vulnerability](https://hackerone.com/reports/690330) to MariaDB - 19 upvotes, $0
+63. [Comments Denial of Service in socialclub.rockstargames.com](https://hackerone.com/reports/214370) to Rockstar Games - 18 upvotes, $500
+64. [Denial of Service by requesting to reset a password](https://hackerone.com/reports/812754) to Nextcloud - 18 upvotes, $250
+65. [Specially constructed multi-part requests cause multi-second response times; vulnerable to DoS](https://hackerone.com/reports/431561) to Ruby on Rails - 17 upvotes, $1500
 66. [lack of input validation that can lead Denial of Service (DOS)](https://hackerone.com/reports/768677) to Twitter - 17 upvotes, $560
 67. [Variant of CVE-2013-0269 (Denial of Service and Unsafe Object Creation Vulnerability in JSON)](https://hackerone.com/reports/706934) to Ruby - 17 upvotes, $500
 68. [xmlrpc.php And /wp-json/wp/v2/users FILE IS enable it will used for bruteforce attack and denial of service](https://hackerone.com/reports/1147449) to Sifchain - 17 upvotes, $50
@@ -174,43 +174,46 @@ Top DoS reports from HackerOne:
 172. [Dos  https://iandunn.name/ via CVE-2018-6389 exploitation](https://hackerone.com/reports/770508) to Ian Dunn - 3 upvotes, $0
 173. [load scripts DOS vulnerability](https://hackerone.com/reports/826238) to BlockDev Sp. Z o.o - 3 upvotes, $0
 174. [Cache Posioning leading do Denial of Service on `www.█████████`](https://hackerone.com/reports/1198434) to U.S. Dept Of Defense - 3 upvotes, $0
-175. [Denial of service (segfault) due to null pointer dereference in mrb_vm_exec](https://hackerone.com/reports/202584) to shopify-scripts - 2 upvotes, $800
-176. [Denial of service in account statistics endpoint](https://hackerone.com/reports/136221) to Mapbox - 2 upvotes, $400
-177. [DNS Max Responses for DOS](https://hackerone.com/reports/1033107) to Node.js - 2 upvotes, $250
-178. [Denial of Service](https://hackerone.com/reports/17785) to HackerOne - 2 upvotes, $100
-179. [Denial of service attack(window object) on brave browser](https://hackerone.com/reports/176197) to Brave Software - 2 upvotes, $100
-180. [DoS Attack in Controller Lookup Code](https://hackerone.com/reports/83962) to Ruby on Rails - 2 upvotes, $0
-181. [Possible  SQL injection can cause denial of service attack](https://hackerone.com/reports/123660) to Dropbox - 2 upvotes, $0
-182. [Abuse of Api that causes spamming users and possible DOS due to missing rate limit](https://hackerone.com/reports/223557) to Weblate - 2 upvotes, $0
-183. [Regular Expression Denial of Service (ReDoS)](https://hackerone.com/reports/317548) to Node.js third-party modules - 2 upvotes, $0
-184. [Server side includes in https://lgtm-com.pentesting.semmle.net/internal_api/v0.2/savePublicInformation leads to 500 server error and  D-DOS](https://hackerone.com/reports/413655) to Semmle - 2 upvotes, $0
-185. [Node.js HTTP/2 Large Settings Frame DoS](https://hackerone.com/reports/446662) to Node.js - 2 upvotes, $0
-186. [Improper Input Validation allows an attacker to "double spend" or "respend", violating the integrity of the message command history or causing DoS](https://hackerone.com/reports/981357) to Agoric - 2 upvotes, $0
-187. [DoS attack against the client when entering a long password](https://hackerone.com/reports/949712) to Nextcloud - 2 upvotes, $0
-188. [API Server DoS (crash?) if many large resources (~1MB each) are concurrently/repeatedly sent to an external Validating WebHook endpoint](https://hackerone.com/reports/1096907) to Kubernetes - 2 upvotes, $0
-189. [[play.mtn.co.za] Application level DoS via xmlrpc.php](https://hackerone.com/reports/925519) to MTN Group - 2 upvotes, $0
-190. [1-click DOS in fastify-static via directly passing user's input to new URL() of NodeJS without try/catch](https://hackerone.com/reports/1361804) to Fastify - 2 upvotes, $0
-191. [moderate: mod_deflate denial of service](https://hackerone.com/reports/20861) to Internet Bug Bounty - 1 upvotes, $500
-192. [Potential denial of service in hackerone.com/teams/new](https://hackerone.com/reports/13748) to HackerOne - 1 upvotes, $100
-193. [History Disclosure of MS-Dos](https://hackerone.com/reports/5549) to MS-DOS - 1 upvotes, $0
-194. [Apache Range Header Denial of Service Attack (Confirmed PoC)](https://hackerone.com/reports/88904) to ownCloud - 1 upvotes, $0
-195. [CrashPlan Backup is Vulnerable Allowing to a DoS Attack Against Uber's Backups to ```backup.uber.com```](https://hackerone.com/reports/131560) to Uber - 1 upvotes, $0
-196. [Denial of service in report view.](https://hackerone.com/reports/140720) to HackerOne - 1 upvotes, $0
-197. [xmlrpc.php FILE IS enable it can be used for conducting a Bruteforce attack and Denial of Service(DoS)](https://hackerone.com/reports/769716) to Ian Dunn - 1 upvotes, $0
-198. ["Self" DOS with large deployment and scaling](https://hackerone.com/reports/831654) to Kubernetes - 1 upvotes, $0
-199. [Denial of Service when entring an Array in email at seetings](https://hackerone.com/reports/961997) to Nextcloud - 1 upvotes, $0
-200. [[meemo-app] Denial of Service via LDAP Injection](https://hackerone.com/reports/907311) to Node.js third-party modules - 1 upvotes, $0
-201. [[json-bigint] DoS via `__proto__` assignment](https://hackerone.com/reports/916430) to Node.js third-party modules - 1 upvotes, $0
-202. [[http-live-simulator] Application-level DoS](https://hackerone.com/reports/764725) to Node.js third-party modules - 1 upvotes, $0
-203. [DRb denial of service vulnerability](https://hackerone.com/reports/898614) to Ruby - 1 upvotes, $0
-204. [Possibility of DoS attack at https://sifchain.finance// via CVE-2018-6389 exploitation](https://hackerone.com/reports/1186985) to Sifchain - 1 upvotes, $0
-205. [Inadequate input validation on API endpoint leading to self denial of service and increased system load.](https://hackerone.com/reports/90912) to IRCCloud - 0 upvotes, $500
-206. [Dashboard panel embedded onto itself causes a denial of service](https://hackerone.com/reports/85011) to Phabricator - 0 upvotes, $0
-207. [owncloud.com: CVE-2015-5477 BIND9 TKEY Vulnerability + Exploit (Denial of Service)](https://hackerone.com/reports/89097) to ownCloud - 0 upvotes, $0
-208. [DOS in browser using window.print() function](https://hackerone.com/reports/176364) to Brave Software - 0 upvotes, $0
-209. [Denial of service(POP UP Recursion) on Brave browser](https://hackerone.com/reports/179248) to Brave Software - 0 upvotes, $0
-210. [Possibility of DOS Through logging System](https://hackerone.com/reports/242489) to Quora - 0 upvotes, $0
-211. [Media parsing in canvas is at least vulnerable to Denial of Service through multiple vulnerabilities](https://hackerone.com/reports/315037) to Node.js third-party modules - 0 upvotes, $0
-212. [DoS of https://blog.makerdao.com/ via CVE-2018-6389](https://hackerone.com/reports/777274) to BlockDev Sp. Z o.o - 0 upvotes, $0
-213. [A specifically designed sieve script can cause a DoS in lib-sieve during sieve script compilation via NULL pointer dereference](https://hackerone.com/reports/965774) to Open-Xchange - 0 upvotes, $0
-214. [No Password Length Restriction leads to Denial of Service](https://hackerone.com/reports/1243009) to Reddit - 0 upvotes, $0
+175. [Denial of Service vulnerability in curl when parsing MQTT server response](https://hackerone.com/reports/1521610) to curl - 3 upvotes, $0
+176. [Denial of service (segfault) due to null pointer dereference in mrb_vm_exec](https://hackerone.com/reports/202584) to shopify-scripts - 2 upvotes, $800
+177. [Denial of service in account statistics endpoint](https://hackerone.com/reports/136221) to Mapbox - 2 upvotes, $400
+178. [DNS Max Responses for DOS](https://hackerone.com/reports/1033107) to Node.js - 2 upvotes, $250
+179. [Instance Page DOS  within Organization on TikTok Ads](https://hackerone.com/reports/1478930) to TikTok - 2 upvotes, $200
+180. [Denial of Service](https://hackerone.com/reports/17785) to HackerOne - 2 upvotes, $100
+181. [Denial of service attack(window object) on brave browser](https://hackerone.com/reports/176197) to Brave Software - 2 upvotes, $100
+182. [DoS Attack in Controller Lookup Code](https://hackerone.com/reports/83962) to Ruby on Rails - 2 upvotes, $0
+183. [Possible  SQL injection can cause denial of service attack](https://hackerone.com/reports/123660) to Dropbox - 2 upvotes, $0
+184. [Abuse of Api that causes spamming users and possible DOS due to missing rate limit](https://hackerone.com/reports/223557) to Weblate - 2 upvotes, $0
+185. [Regular Expression Denial of Service (ReDoS)](https://hackerone.com/reports/317548) to Node.js third-party modules - 2 upvotes, $0
+186. [Server side includes in https://lgtm-com.pentesting.semmle.net/internal_api/v0.2/savePublicInformation leads to 500 server error and  D-DOS](https://hackerone.com/reports/413655) to Semmle - 2 upvotes, $0
+187. [Node.js HTTP/2 Large Settings Frame DoS](https://hackerone.com/reports/446662) to Node.js - 2 upvotes, $0
+188. [Improper Input Validation allows an attacker to "double spend" or "respend", violating the integrity of the message command history or causing DoS](https://hackerone.com/reports/981357) to Agoric - 2 upvotes, $0
+189. [DoS attack against the client when entering a long password](https://hackerone.com/reports/949712) to Nextcloud - 2 upvotes, $0
+190. [API Server DoS (crash?) if many large resources (~1MB each) are concurrently/repeatedly sent to an external Validating WebHook endpoint](https://hackerone.com/reports/1096907) to Kubernetes - 2 upvotes, $0
+191. [[play.mtn.co.za] Application level DoS via xmlrpc.php](https://hackerone.com/reports/925519) to MTN Group - 2 upvotes, $0
+192. [1-click DOS in fastify-static via directly passing user's input to new URL() of NodeJS without try/catch](https://hackerone.com/reports/1361804) to Fastify - 2 upvotes, $0
+193. [moderate: mod_deflate denial of service](https://hackerone.com/reports/20861) to Internet Bug Bounty - 1 upvotes, $500
+194. [Potential denial of service in hackerone.com/teams/new](https://hackerone.com/reports/13748) to HackerOne - 1 upvotes, $100
+195. [History Disclosure of MS-Dos](https://hackerone.com/reports/5549) to MS-DOS - 1 upvotes, $0
+196. [Apache Range Header Denial of Service Attack (Confirmed PoC)](https://hackerone.com/reports/88904) to ownCloud - 1 upvotes, $0
+197. [CrashPlan Backup is Vulnerable Allowing to a DoS Attack Against Uber's Backups to ```backup.uber.com```](https://hackerone.com/reports/131560) to Uber - 1 upvotes, $0
+198. [Denial of service in report view.](https://hackerone.com/reports/140720) to HackerOne - 1 upvotes, $0
+199. [xmlrpc.php FILE IS enable it can be used for conducting a Bruteforce attack and Denial of Service(DoS)](https://hackerone.com/reports/769716) to Ian Dunn - 1 upvotes, $0
+200. ["Self" DOS with large deployment and scaling](https://hackerone.com/reports/831654) to Kubernetes - 1 upvotes, $0
+201. [Denial of Service when entring an Array in email at seetings](https://hackerone.com/reports/961997) to Nextcloud - 1 upvotes, $0
+202. [[meemo-app] Denial of Service via LDAP Injection](https://hackerone.com/reports/907311) to Node.js third-party modules - 1 upvotes, $0
+203. [[json-bigint] DoS via `__proto__` assignment](https://hackerone.com/reports/916430) to Node.js third-party modules - 1 upvotes, $0
+204. [[http-live-simulator] Application-level DoS](https://hackerone.com/reports/764725) to Node.js third-party modules - 1 upvotes, $0
+205. [DRb denial of service vulnerability](https://hackerone.com/reports/898614) to Ruby - 1 upvotes, $0
+206. [Possibility of DoS attack at https://sifchain.finance// via CVE-2018-6389 exploitation](https://hackerone.com/reports/1186985) to Sifchain - 1 upvotes, $0
+207. [Regular Expression Denial of Service vulnerability](https://hackerone.com/reports/1538157) to Reddit - 1 upvotes, $0
+208. [Inadequate input validation on API endpoint leading to self denial of service and increased system load.](https://hackerone.com/reports/90912) to IRCCloud - 0 upvotes, $500
+209. [Dashboard panel embedded onto itself causes a denial of service](https://hackerone.com/reports/85011) to Phabricator - 0 upvotes, $0
+210. [owncloud.com: CVE-2015-5477 BIND9 TKEY Vulnerability + Exploit (Denial of Service)](https://hackerone.com/reports/89097) to ownCloud - 0 upvotes, $0
+211. [DOS in browser using window.print() function](https://hackerone.com/reports/176364) to Brave Software - 0 upvotes, $0
+212. [Denial of service(POP UP Recursion) on Brave browser](https://hackerone.com/reports/179248) to Brave Software - 0 upvotes, $0
+213. [Possibility of DOS Through logging System](https://hackerone.com/reports/242489) to Quora - 0 upvotes, $0
+214. [Media parsing in canvas is at least vulnerable to Denial of Service through multiple vulnerabilities](https://hackerone.com/reports/315037) to Node.js third-party modules - 0 upvotes, $0
+215. [DoS of https://blog.makerdao.com/ via CVE-2018-6389](https://hackerone.com/reports/777274) to BlockDev Sp. Z o.o - 0 upvotes, $0
+216. [A specifically designed sieve script can cause a DoS in lib-sieve during sieve script compilation via NULL pointer dereference](https://hackerone.com/reports/965774) to Open-Xchange - 0 upvotes, $0
+217. [No Password Length Restriction leads to Denial of Service](https://hackerone.com/reports/1243009) to Reddit - 0 upvotes, $0

@@ -1,6 +1,6 @@
 Top XXE reports from HackerOne:
 
-1. [XXE at ecjobs.starbucks.com.cn/retail/hxpublic_v6/hxdynamicpage6.aspx](https://hackerone.com/reports/500515) to Starbucks - 304 upvotes, $4000
+1. [XXE at ecjobs.starbucks.com.cn/retail/hxpublic_v6/hxdynamicpage6.aspx](https://hackerone.com/reports/500515) to Starbucks - 306 upvotes, $4000
 2. [XXE on pulse.mail.ru](https://hackerone.com/reports/505947) to Mail.ru - 263 upvotes, $6000
 3. [XXE on sms-be-vip.twitter.com in SXMP Processor](https://hackerone.com/reports/248668) to Twitter - 250 upvotes, $10080
 4. [XXE on https://duckduckgo.com](https://hackerone.com/reports/483774) to DuckDuckGo - 208 upvotes, $0
@@ -47,7 +47,8 @@ Top XXE reports from HackerOne:
 45. [[Java]: Add XXE sinks](https://hackerone.com/reports/1339787) to GitHub Security Lab - 6 upvotes, $1800
 46. [XXE at Informatica sub-domain](https://hackerone.com/reports/150520) to Informatica - 6 upvotes, $0
 47. [OOB XXE ](https://hackerone.com/reports/690295) to Mail.ru - 5 upvotes, $500
-48. [XXE and SSRF on webmaster.mail.ru](https://hackerone.com/reports/12583) to Mail.ru - 3 upvotes, $700
-49. [XXE in OAuth2 Applications gallery profile App logo](https://hackerone.com/reports/104620) to Coinbase - 2 upvotes, $0
-50. [XXE at host vpn.owncloud.com](https://hackerone.com/reports/105980) to ownCloud - 2 upvotes, $0
-51. [Pippo XML Entity Expansion (Billion Laughs Attack)](https://hackerone.com/reports/506791) to Central Security Project - 1 upvotes, $0
+48. [[Python]: CWE-611: XXE](https://hackerone.com/reports/1512937) to GitHub Security Lab - 4 upvotes, $1800
+49. [XXE and SSRF on webmaster.mail.ru](https://hackerone.com/reports/12583) to Mail.ru - 3 upvotes, $700
+50. [XXE in OAuth2 Applications gallery profile App logo](https://hackerone.com/reports/104620) to Coinbase - 2 upvotes, $0
+51. [XXE at host vpn.owncloud.com](https://hackerone.com/reports/105980) to ownCloud - 2 upvotes, $0
+52. [Pippo XML Entity Expansion (Billion Laughs Attack)](https://hackerone.com/reports/506791) to Central Security Project - 1 upvotes, $0

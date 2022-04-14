@@ -77,3 +77,4 @@ Tops by program.
 - [Top Yahoo! reports](tops_by_program/TOPYAHOO!.md)
 - [Top Internet Bug Bounty reports](tops_by_program/TOPINTERNETBUGBOUNTY.md)
 - [Top Concrete CMS reports](tops_by_program/TOPCONCRETECMS.md)
+- [Top Sifchain reports](tops_by_program/TOPSIFCHAIN.md)

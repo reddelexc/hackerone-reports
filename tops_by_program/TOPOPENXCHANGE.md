@@ -3,7 +3,7 @@ Top reports from Open-Xchange program at HackerOne:
 1. [Arbitrary local system file read on open-xchange server ](https://hackerone.com/reports/303744) to Open-Xchange - 125 upvotes, $2000
 2. [Null pointer dereference in SMTP server function smtp_string_parse](https://hackerone.com/reports/827729) to Open-Xchange - 105 upvotes, $1500
 3. [Blind XXE via Powerpoint files](https://hackerone.com/reports/334488) to Open-Xchange - 86 upvotes, $2000
-4. [Path Traversal in dict-fs and no-check Escape Character in oauth2-jwt](https://hackerone.com/reports/1132160) to Open-Xchange - 56 upvotes, $982
+4. [Path Traversal in dict-fs and no-check Escape Character in oauth2-jwt](https://hackerone.com/reports/1132160) to Open-Xchange - 57 upvotes, $982
 5. [CSRF combined with IDOR within Document Converter exposes files](https://hackerone.com/reports/398316) to Open-Xchange - 52 upvotes, $500
 6. [SSRF - Unchecked Snippet IDs for distributed files](https://hackerone.com/reports/997926) to Open-Xchange - 49 upvotes, $1500
 7. [SSRF in VCARD photo upload functionality](https://hackerone.com/reports/296045) to Open-Xchange - 49 upvotes, $850
@@ -28,7 +28,7 @@ Top reports from Open-Xchange program at HackerOne:
 26. [IDOR - Accessing other user's attachements via PUT /appsuite/api/files?action=saveAs](https://hackerone.com/reports/204984) to Open-Xchange - 20 upvotes, $888
 27. [SSRF in /appsuite/api/autoconfig ](https://hackerone.com/reports/293847) to Open-Xchange - 20 upvotes, $850
 28. [Command Injection via STARTTLS in SMTP](https://hackerone.com/reports/1204962) to Open-Xchange - 20 upvotes, $350
-29. [IDOR - Deleting other user's signature via /appsuite/api/snippet?action=update (although an error is thrown)](https://hackerone.com/reports/199321) to Open-Xchange - 19 upvotes, $300
+29. [IDOR - Deleting other user's signature via /appsuite/api/snippet?action=update (although an error is thrown)](https://hackerone.com/reports/199321) to Open-Xchange - 20 upvotes, $300
 30. [XSS on opening a malicious OpenOffice text document](https://hackerone.com/reports/894915) to Open-Xchange - 18 upvotes, $400
 31. [OX (Guard): Stored Cross-Site Scripting via Email Attachment](https://hackerone.com/reports/165275) to Open-Xchange - 17 upvotes, $300
 32. [Dovecot authentication is vulnerable to timing attacks.](https://hackerone.com/reports/219607) to Open-Xchange - 16 upvotes, $600
@@ -51,12 +51,12 @@ Top reports from Open-Xchange program at HackerOne:
 49. [Pre-auth Denial-of-Service in Dovecot RPA implementation](https://hackerone.com/reports/866605) to Open-Xchange - 11 upvotes, $550
 50. [Stored XSS in mail app](https://hackerone.com/reports/538323) to Open-Xchange - 11 upvotes, $500
 51. [[XSS] RSS Feed Widget](https://hackerone.com/reports/361938) to Open-Xchange - 11 upvotes, $500
-52. [access to stack memory beyond array boundaries](https://hackerone.com/reports/796555) to Open-Xchange - 11 upvotes, $400
-53. [No session expiry after log-out and session id exposed in URL](https://hackerone.com/reports/434715) to Open-Xchange - 11 upvotes, $300
-54. [[SSRF] PDF documentconverterws](https://hackerone.com/reports/361793) to Open-Xchange - 10 upvotes, $850
-55. [[XSS/CSRF] filter content-type bypass in Files](https://hackerone.com/reports/304098) to Open-Xchange - 10 upvotes, $750
-56. [Blind SSRF in /appsuite/api/oxodocumentfilter&action=addfile](https://hackerone.com/reports/865652) to Open-Xchange - 10 upvotes, $550
-57. [Guard WKS lookup: Evil WKS server forces connections to last forever](https://hackerone.com/reports/1016691) to Open-Xchange - 10 upvotes, $444
+52. [Guard WKS lookup: Evil WKS server forces connections to last forever](https://hackerone.com/reports/1016691) to Open-Xchange - 11 upvotes, $444
+53. [access to stack memory beyond array boundaries](https://hackerone.com/reports/796555) to Open-Xchange - 11 upvotes, $400
+54. [No session expiry after log-out and session id exposed in URL](https://hackerone.com/reports/434715) to Open-Xchange - 11 upvotes, $300
+55. [[SSRF] PDF documentconverterws](https://hackerone.com/reports/361793) to Open-Xchange - 10 upvotes, $850
+56. [[XSS/CSRF] filter content-type bypass in Files](https://hackerone.com/reports/304098) to Open-Xchange - 10 upvotes, $750
+57. [Blind SSRF in /appsuite/api/oxodocumentfilter&action=addfile](https://hackerone.com/reports/865652) to Open-Xchange - 10 upvotes, $550
 58. [XSS on opening malicious OpenOffice presentation document](https://hackerone.com/reports/894918) to Open-Xchange - 9 upvotes, $400
 59. [Stored XSS in Template Documents](https://hackerone.com/reports/179559) to Open-Xchange - 9 upvotes, $300
 60. [A malicious user can upload a malicious script through managesieve  and trigger its execution in order to consume almost 100% of CPU (LMTP).](https://hackerone.com/reports/989668) to Open-Xchange - 9 upvotes, $300

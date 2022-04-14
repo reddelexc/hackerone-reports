@@ -1,6 +1,6 @@
 Top reports from Ubiquiti Inc. program at HackerOne:
 
-1. [Privilege Escalation From user to SYSTEM via unauthenticated command execution ](https://hackerone.com/reports/544928) to Ubiquiti Inc. - 532 upvotes, $16109
+1. [Privilege Escalation From user to SYSTEM via unauthenticated command execution ](https://hackerone.com/reports/544928) to Ubiquiti Inc. - 533 upvotes, $16109
 2. [Privilege-0 to Root Privilege Escalation on EdgeSwitch](https://hackerone.com/reports/511025) to Ubiquiti Inc. - 81 upvotes, $1604
 3. [Public Jenkins instance with /script enabled](https://hackerone.com/reports/403402) to Ubiquiti Inc. - 69 upvotes, $2500
 4. [Remote Code Execution at http://tw.corp.ubnt.com](https://hackerone.com/reports/269066) to Ubiquiti Inc. - 61 upvotes, $5000
@@ -11,7 +11,7 @@ Top reports from Ubiquiti Inc. program at HackerOne:
 9. [Authentication bypass on sso.ubnt.com via subdomain takeover of ping.ubnt.com](https://hackerone.com/reports/172137) to Ubiquiti Inc. - 45 upvotes, $500
 10. [Read-Only user can execute arbitraty shell commands on AirOS](https://hackerone.com/reports/139398) to Ubiquiti Inc. - 43 upvotes, $2750
 11. [Unrestricted File System Access via Twig Template Injection on dev-ucrm-billing-demo.ubnt.com](https://hackerone.com/reports/301406) to Ubiquiti Inc. - 39 upvotes, $2000
-12. [View Only to Root Privilege Escalation on UniFi Protect](https://hackerone.com/reports/825764) to Ubiquiti Inc. - 37 upvotes, $11689
+12. [View Only to Root Privilege Escalation on UniFi Protect](https://hackerone.com/reports/825764) to Ubiquiti Inc. - 38 upvotes, $11689
 13. [Firmware download/install vulnerable to CSRF](https://hackerone.com/reports/323852) to Ubiquiti Inc. - 32 upvotes, $1100
 14. [sqli](https://hackerone.com/reports/207695) to Ubiquiti Inc. - 32 upvotes, $1000
 15. [[dev-nightly.ubnt.com] Local File Reading](https://hackerone.com/reports/260420) to Ubiquiti Inc. - 31 upvotes, $100
@@ -51,11 +51,11 @@ Top reports from Ubiquiti Inc. program at HackerOne:
 49. [[scores.ubnt.com] DOM based XSS at form.html](https://hackerone.com/reports/158484) to Ubiquiti Inc. - 11 upvotes, $150
 50. [Reflected File Download in community.ubnt.com/restapi/](https://hackerone.com/reports/107960) to Ubiquiti Inc. - 11 upvotes, $150
 51. [Stored XSS in unifi.ubnt.com](https://hackerone.com/reports/142084) to Ubiquiti Inc. - 11 upvotes, $125
-52. [Subdomain takeover on https://cloudfront.ubnt.com/ due to non-used CloudFront DNS entry](https://hackerone.com/reports/210188) to Ubiquiti Inc. - 11 upvotes, $0
-53. [UniFi Video Server - Arbitrary file upload as SYSTEM](https://hackerone.com/reports/129641) to Ubiquiti Inc. - 10 upvotes, $1375
-54. [[dev-unifi-go.ubnt.com] Insecure CORS, Stealing Cookies](https://hackerone.com/reports/219014) to Ubiquiti Inc. - 10 upvotes, $500
-55. [Reflected XSS in scores.ubnt.com](https://hackerone.com/reports/130889) to Ubiquiti Inc. - 10 upvotes, $275
-56. [Bypass blocked profile protection on aircrm.ubnt.com](https://hackerone.com/reports/332631) to Ubiquiti Inc. - 10 upvotes, $100
+52. [Bypass blocked profile protection on aircrm.ubnt.com](https://hackerone.com/reports/332631) to Ubiquiti Inc. - 11 upvotes, $100
+53. [Subdomain takeover on https://cloudfront.ubnt.com/ due to non-used CloudFront DNS entry](https://hackerone.com/reports/210188) to Ubiquiti Inc. - 11 upvotes, $0
+54. [UniFi Video Server - Arbitrary file upload as SYSTEM](https://hackerone.com/reports/129641) to Ubiquiti Inc. - 10 upvotes, $1375
+55. [[dev-unifi-go.ubnt.com] Insecure CORS, Stealing Cookies](https://hackerone.com/reports/219014) to Ubiquiti Inc. - 10 upvotes, $500
+56. [Reflected XSS in scores.ubnt.com](https://hackerone.com/reports/130889) to Ubiquiti Inc. - 10 upvotes, $275
 57. [UniFi Video Server web interface Configuration Restore path traversal leading to local system compromise](https://hackerone.com/reports/329770) to Ubiquiti Inc. - 9 upvotes, $250
 58. [UniFi Video Server web interface admin user Firmware Update path traversal leading to local system compromise](https://hackerone.com/reports/330051) to Ubiquiti Inc. - 9 upvotes, $250
 59. [Stored XSS / Bypassing .htaccess protection in http://nodebb.ubnt.com/](https://hackerone.com/reports/202354) to Ubiquiti Inc. - 9 upvotes, $150

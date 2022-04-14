@@ -1,19 +1,19 @@
 Top OAuth reports from HackerOne:
 
 1. [Shopify Stocky App OAuth Misconfiguration](https://hackerone.com/reports/740989) to Shopify - 513 upvotes, $5000
-2. [Chained Bugs to Leak Victim's Uber's FB Oauth Token](https://hackerone.com/reports/202781) to Uber - 387 upvotes, $7500
+2. [Chained Bugs to Leak Victim's Uber's FB Oauth Token](https://hackerone.com/reports/202781) to Uber - 388 upvotes, $7500
 3. [Insufficient OAuth callback validation which leads to Periscope account takeover](https://hackerone.com/reports/110293) to Twitter - 258 upvotes, $5040
 4. [Ability to bypass email verification for OAuth grants results in accounts takeovers on 3rd parties](https://hackerone.com/reports/922456) to GitLab - 218 upvotes, $3000
-5. [Unauthenticated blind SSRF in OAuth Jira authorization controller](https://hackerone.com/reports/398799) to GitLab - 216 upvotes, $4000
-6. [OAuth `redirect_uri` bypass using IDN homograph attack resulting in user's access token leakage](https://hackerone.com/reports/861940) to Semrush - 212 upvotes, $1000
-7. [Stealing Facebook OAuth Code Through Screenshot viewer](https://hackerone.com/reports/488269) to Rockstar Games - 191 upvotes, $750
+5. [Unauthenticated blind SSRF in OAuth Jira authorization controller](https://hackerone.com/reports/398799) to GitLab - 217 upvotes, $4000
+6. [OAuth `redirect_uri` bypass using IDN homograph attack resulting in user's access token leakage](https://hackerone.com/reports/861940) to Semrush - 214 upvotes, $1000
+7. [Stealing Facebook OAuth Code Through Screenshot viewer](https://hackerone.com/reports/488269) to Rockstar Games - 192 upvotes, $750
 8. [Referer Leakage Vulnerability in  socialclub.rockstargames.com/crew/ leads to FB'S OAuth token theft.](https://hackerone.com/reports/787160) to Rockstar Games - 105 upvotes, $750
 9. [User account compromised authentication bypass via oauth token impersonation](https://hackerone.com/reports/739321) to PicsArt - 91 upvotes, $0
 10. [Incorrect details on OAuth permissions screen allows DMs to be read without permission](https://hackerone.com/reports/434763) to Twitter - 71 upvotes, $2940
 11. [Facebook OAuth Code Theft through referer leakage on support.rockstargames.com](https://hackerone.com/reports/482743) to Rockstar Games - 67 upvotes, $750
 12. [CSRF on Periscope Web OAuth authorization endpoint ](https://hackerone.com/reports/215381) to Twitter - 63 upvotes, $2520
 13. [Stealing Users OAuth Tokens through redirect_uri parameter](https://hackerone.com/reports/665651) to GSA Bounty - 51 upvotes, $750
-14. [Misconfigured oauth leads to Pre account takeover ](https://hackerone.com/reports/1074047) to Bumble - 49 upvotes, $300
+14. [Misconfigured oauth leads to Pre account takeover ](https://hackerone.com/reports/1074047) to Bumble - 50 upvotes, $300
 15. [[auth2.zomato.com] Reflected XSS at `oauth2/fallbacks/error` | ORY Hydra an OAuth 2.0 and OpenID Connect Provider](https://hackerone.com/reports/456333) to Zomato - 44 upvotes, $250
 16. [Ability to bypass social OAuth and take over any account [d2c-api]](https://hackerone.com/reports/729960) to Genasys Technologies - 40 upvotes, $0
 17. [Oauth flow on the comments widget login can lead to the access code leakage](https://hackerone.com/reports/292783) to Ed - 38 upvotes, $0
@@ -37,7 +37,7 @@ Top OAuth reports from HackerOne:
 35. [Account takeover via Pornhub Oauth](https://hackerone.com/reports/192648) to YouPorn - 17 upvotes, $1000
 36. [[qiwi.com] Oauth захват аккаунта](https://hackerone.com/reports/159507) to QIWI - 17 upvotes, $950
 37. [XSS on OAuth authorize/authenticate endpoint](https://hackerone.com/reports/87040) to Twitter - 16 upvotes, $2520
-38. [Insecure OAuth redirection at [admin.8x8.vc]](https://hackerone.com/reports/770548) to 8x8 - 15 upvotes, $0
+38. [Insecure OAuth redirection at [admin.8x8.vc]](https://hackerone.com/reports/770548) to 8x8 - 16 upvotes, $0
 39. [SocialClub's Facebook OAuth Theft through Warehouse XSS.](https://hackerone.com/reports/316948) to Rockstar Games - 13 upvotes, $750
 40. [configure a redirect URI for Facebook OAuth](https://hackerone.com/reports/140432) to Gratipay - 13 upvotes, $10
 41. [Image Injection on www.rockstargames.com/screenshot-viewer/responsive/image may allow facebook oauth token theft.](https://hackerone.com/reports/497655) to Rockstar Games - 11 upvotes, $500

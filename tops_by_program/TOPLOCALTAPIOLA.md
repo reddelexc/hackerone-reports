@@ -5,12 +5,12 @@ Top reports from LocalTapiola program at HackerOne:
 3. [CORS misconfiguration allows to steal customers data ](https://hackerone.com/reports/577969) to LocalTapiola - 83 upvotes, $2100
 4. [CORS misconfiguration allows to steal client's "password", Authorization token and the customer details e.g. names, SSN, bank account etc.](https://hackerone.com/reports/688567) to LocalTapiola - 83 upvotes, $1984
 5. [Blind Stored XSS Against Lahitapiola Employees - Session and Information leakage](https://hackerone.com/reports/135154) to LocalTapiola - 68 upvotes, $5000
-6. [Blind Stored XSS Against Lahitapiola Employees - Session and Information leakage](https://hackerone.com/reports/159498) to LocalTapiola - 66 upvotes, $3000
-7. [User able to access company details in yrityspalvelu without proper permissions](https://hackerone.com/reports/213418) to LocalTapiola - 62 upvotes, $2000
+6. [Blind Stored XSS Against Lahitapiola Employees - Session and Information leakage](https://hackerone.com/reports/159498) to LocalTapiola - 67 upvotes, $3000
+7. [User able to access company details in yrityspalvelu without proper permissions](https://hackerone.com/reports/213418) to LocalTapiola - 63 upvotes, $2000
 8. [SQL Injection /webApp/oma_conf ctx parameter (viestinta.lahitapiola.fi)](https://hackerone.com/reports/181803) to LocalTapiola - 50 upvotes, $1350
 9. [SQL Injection on /webApp/omatalousuk (viestinta.lahitapiola.fi)](https://hackerone.com/reports/179751) to LocalTapiola - 41 upvotes, $1560
 10. [SQL Injection in sijoitustalous_peruutus (viestinta.lahitapiola.fi)](https://hackerone.com/reports/190434) to LocalTapiola - 36 upvotes, $1350
-11. [PHPMYADMIN Setup is accessible without authentication on https://lml.lahitapiola.fi/](https://hackerone.com/reports/297339) to LocalTapiola - 33 upvotes, $600
+11. [PHPMYADMIN Setup is accessible without authentication on https://lml.lahitapiola.fi/](https://hackerone.com/reports/297339) to LocalTapiola - 34 upvotes, $600
 12. [Open Redirect (verkkopalvelu.lahitapiola.fi)](https://hackerone.com/reports/179328) to LocalTapiola - 28 upvotes, $400
 13. [SQL Injection on `/cs/Satellite` path](https://hackerone.com/reports/164739) to LocalTapiola - 27 upvotes, $400
 14. [SQL Injection /webApp/cancel_iltakoulu regId parameter (viestinta.lahitapiola.fi)](https://hackerone.com/reports/200818) to LocalTapiola - 26 upvotes, $1350

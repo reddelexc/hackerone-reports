@@ -1,6 +1,6 @@
 Top reports from WordPress program at HackerOne:
 
-1. [Stored XSS Vulnerability](https://hackerone.com/reports/643908) to WordPress - 389 upvotes, $500
+1. [Stored XSS Vulnerability](https://hackerone.com/reports/643908) to WordPress - 390 upvotes, $500
 2. [Stored XSS in Private Message component (BuddyPress)](https://hackerone.com/reports/487081) to WordPress - 331 upvotes, $500
 3. [RCE as Admin defeats WordPress hardening and file permissions](https://hackerone.com/reports/436928) to WordPress - 158 upvotes, $800
 4. [Stored XSS on byddypress Plug-in via groups name](https://hackerone.com/reports/592316) to WordPress - 131 upvotes, $450
@@ -18,7 +18,7 @@ Top reports from WordPress program at HackerOne:
 16. [Logic flaw in the Post creation process allows creating posts with arbitrary types without needing the corresponding nonce](https://hackerone.com/reports/404323) to WordPress - 33 upvotes, $900
 17. [Add users to groups who have restricted group invites](https://hackerone.com/reports/538008) to WordPress - 29 upvotes, $275
 18. [[mercantile.wordpress.org] Reflected XSS via AngularJS Template Injection](https://hackerone.com/reports/230234) to WordPress - 28 upvotes, $300
-19. [Information / sensitive data disclosure on some endpoints](https://hackerone.com/reports/273726) to WordPress - 27 upvotes, $0
+19. [Information / sensitive data disclosure on some endpoints](https://hackerone.com/reports/273726) to WordPress - 28 upvotes, $0
 20. [Stored XSS on Broken Themes via filename](https://hackerone.com/reports/406289) to WordPress - 24 upvotes, $300
 21. [Authenticated Stored Cross-site Scripting in bbPress](https://hackerone.com/reports/881918) to WordPress - 24 upvotes, $225
 22. [Open API For Username enumeration](https://hackerone.com/reports/385322) to WordPress - 24 upvotes, $0

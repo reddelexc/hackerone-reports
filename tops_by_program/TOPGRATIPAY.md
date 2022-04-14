@@ -16,11 +16,11 @@ Top reports from Gratipay program at HackerOne:
 14. [HTTP trace method is enabled on aspen.io](https://hackerone.com/reports/203409) to Gratipay - 10 upvotes, $0
 15. [Gratipay rails secret token (secret_key_base) publicly exposed in GitHub](https://hackerone.com/reports/262620) to Gratipay - 9 upvotes, $0
 16. [upgrade Aspen on inside.gratipay.com to pick up CR injection fix](https://hackerone.com/reports/143139) to Gratipay - 8 upvotes, $40
-17. [CSV injection in gratipay.com via payment history export feature.](https://hackerone.com/reports/219323) to Gratipay - 8 upvotes, $0
-18. [Stored XSS On Statement](https://hackerone.com/reports/84740) to Gratipay - 7 upvotes, $40
-19. [Sub Domain Take over](https://hackerone.com/reports/111078) to Gratipay - 7 upvotes, $15
-20. [protect against tabnabbing in statement](https://hackerone.com/reports/109161) to Gratipay - 7 upvotes, $10
-21. [Reflected SQL Execution](https://hackerone.com/reports/284811) to Gratipay - 7 upvotes, $0
+17. [Sub Domain Take over](https://hackerone.com/reports/111078) to Gratipay - 8 upvotes, $15
+18. [Reflected SQL Execution](https://hackerone.com/reports/284811) to Gratipay - 8 upvotes, $0
+19. [CSV injection in gratipay.com via payment history export feature.](https://hackerone.com/reports/219323) to Gratipay - 8 upvotes, $0
+20. [Stored XSS On Statement](https://hackerone.com/reports/84740) to Gratipay - 7 upvotes, $40
+21. [protect against tabnabbing in statement](https://hackerone.com/reports/109161) to Gratipay - 7 upvotes, $10
 22. [Avoid "resend verification email" confusion](https://hackerone.com/reports/156542) to Gratipay - 6 upvotes, $1
 23. [Inadequate/dangerous jQuery behavior](https://hackerone.com/reports/211149) to Gratipay - 6 upvotes, $1
 24. [Host Header Injection/Redirection Attack](https://hackerone.com/reports/157465) to Gratipay - 6 upvotes, $0
