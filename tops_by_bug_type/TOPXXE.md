@@ -10,14 +10,14 @@ Top XXE reports from HackerOne:
 8. [XXE through injection of a payload in the XMP metadata of a JPEG file](https://hackerone.com/reports/836877) to Informatica - 128 upvotes, $0
 9. [XXE Injection through SVG image upload leads to SSRF](https://hackerone.com/reports/897244) to Zivver - 110 upvotes, $0
 10. [XXE in Site Audit function exposing file and directory contents](https://hackerone.com/reports/312543) to Semrush - 99 upvotes, $2000
-11. [XXE in DoD website that may lead to RCE](https://hackerone.com/reports/227880) to U.S. Dept Of Defense - 89 upvotes, $0
-12. [[RCE] Unserialize to XXE - file disclosure on ams.upload.pornhub.com](https://hackerone.com/reports/142562) to Pornhub - 88 upvotes, $10000
+11. [[RCE] Unserialize to XXE - file disclosure on ams.upload.pornhub.com](https://hackerone.com/reports/142562) to Pornhub - 89 upvotes, $10000
+12. [XXE in DoD website that may lead to RCE](https://hackerone.com/reports/227880) to U.S. Dept Of Defense - 89 upvotes, $0
 13. [Blind XXE via Powerpoint files](https://hackerone.com/reports/334488) to Open-Xchange - 86 upvotes, $2000
 14. [blind XXE in autodiscover parser](https://hackerone.com/reports/315837) to Mail.ru - 70 upvotes, $5000
 15. [LFI and SSRF via XXE in emblem editor](https://hackerone.com/reports/347139) to Rockstar Games - 68 upvotes, $1500
 16. [Blind OOB XXE At "http://ubermovement.com/"](https://hackerone.com/reports/154096) to Uber - 55 upvotes, $500
 17. [XXE на webdav.mail.ru -  PROPFIND/PROPPATCH](https://hackerone.com/reports/758978) to Mail.ru - 54 upvotes, $10000
-18. [XXE on ██████████ by bypassing WAF ████](https://hackerone.com/reports/433996) to QIWI - 50 upvotes, $5000
+18. [XXE on ██████████ by bypassing WAF ████](https://hackerone.com/reports/433996) to QIWI - 51 upvotes, $5000
 19. [[rev-app.informatica.com] - XXE](https://hackerone.com/reports/105434) to Informatica - 44 upvotes, $0
 20. [RCE via Local File Read -\> php unserialization-\> XXE -\> unpickling](https://hackerone.com/reports/415501) to h1-5411-CTF - 43 upvotes, $0
 21. [XML External Entity (XXE) in qiwi.com + waf bypass](https://hackerone.com/reports/99279) to QIWI - 39 upvotes, $3137

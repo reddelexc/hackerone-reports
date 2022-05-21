@@ -13,7 +13,7 @@ Top reports from Open-Xchange program at HackerOne:
 11. [SSRF - Image Sources in HTML Snippets - 727234 bypass](https://hackerone.com/reports/737163) to Open-Xchange - 41 upvotes, $400
 12. [[XSS] Style/Event Filter Bypass v3.0](https://hackerone.com/reports/314204) to Open-Xchange - 39 upvotes, $500
 13. [SSRF - Office Documents - Image URL](https://hackerone.com/reports/738015) to Open-Xchange - 37 upvotes, $450
-14. [SSRF - URL Attachments - 725307 bypass](https://hackerone.com/reports/737161) to Open-Xchange - 36 upvotes, $400
+14. [SSRF - URL Attachments - 725307 bypass](https://hackerone.com/reports/737161) to Open-Xchange - 37 upvotes, $400
 15. [Another window.opener issue](https://hackerone.com/reports/537840) to Open-Xchange - 33 upvotes, $900
 16. [SSRF - RSS feed, blacklist bypass (301 re-direct)](https://hackerone.com/reports/299135) to Open-Xchange - 33 upvotes, $850
 17. [Stored XSS ](https://hackerone.com/reports/299806) to Open-Xchange - 33 upvotes, $500

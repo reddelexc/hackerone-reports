@@ -1,6 +1,6 @@
 Top reports from Coinbase program at HackerOne:
 
-1. [Double Payout via PayPal](https://hackerone.com/reports/307239) to Coinbase - 259 upvotes, $10000
+1. [Double Payout via PayPal](https://hackerone.com/reports/307239) to Coinbase - 261 upvotes, $10000
 2. [Ethereum account balance manipulation](https://hackerone.com/reports/300748) to Coinbase - 251 upvotes, $10000
 3. [ETH contract handling errors](https://hackerone.com/reports/328526) to Coinbase - 200 upvotes, $21000
 4. [HTML injection in apps user review ](https://hackerone.com/reports/104543) to Coinbase - 25 upvotes, $200
@@ -18,8 +18,8 @@ Top reports from Coinbase program at HackerOne:
 16. [Coinbase Android Application - Bitcoin Wallet Leaks OAuth Response Code](https://hackerone.com/reports/5314) to Coinbase - 9 upvotes, $1000
 17. [Session Issue Maybe Can lead to huge loss [CRITICAL]](https://hackerone.com/reports/112496) to Coinbase - 9 upvotes, $1000
 18. [Stored-XSS in https://www.coinbase.com/](https://hackerone.com/reports/100829) to Coinbase - 8 upvotes, $5000
-19. [Information disclosure same issue #176002](https://hackerone.com/reports/248599) to Coinbase - 8 upvotes, $100
-20. [OAuth authorization page vulnerable to clickjacking](https://hackerone.com/reports/65825) to Coinbase - 7 upvotes, $5000
+19. [OAuth authorization page vulnerable to clickjacking](https://hackerone.com/reports/65825) to Coinbase - 8 upvotes, $5000
+20. [Information disclosure same issue #176002](https://hackerone.com/reports/248599) to Coinbase - 8 upvotes, $100
 21. [Information disclosure of user by email using buy widget](https://hackerone.com/reports/176002) to Coinbase - 6 upvotes, $100
 22. [Information leakage on https://docs.gdax.com](https://hackerone.com/reports/168509) to Coinbase - 6 upvotes, $100
 23. [Content Injection error page](https://hackerone.com/reports/148952) to Coinbase - 6 upvotes, $0

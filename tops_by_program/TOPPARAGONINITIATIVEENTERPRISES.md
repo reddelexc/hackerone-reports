@@ -1,8 +1,8 @@
 Top reports from Paragon Initiative Enterprises program at HackerOne:
 
-1. [BAD Code ! ](https://hackerone.com/reports/180074) to Paragon Initiative Enterprises - 482 upvotes, $0
-2. [DMARC  Not found for paragonie.com   URGENT](https://hackerone.com/reports/179828) to Paragon Initiative Enterprises - 135 upvotes, $0
-3. [Subdomain Takeover](https://hackerone.com/reports/180393) to Paragon Initiative Enterprises - 65 upvotes, $0
+1. [BAD Code ! ](https://hackerone.com/reports/180074) to Paragon Initiative Enterprises - 483 upvotes, $0
+2. [DMARC  Not found for paragonie.com   URGENT](https://hackerone.com/reports/179828) to Paragon Initiative Enterprises - 136 upvotes, $0
+3. [Subdomain Takeover](https://hackerone.com/reports/180393) to Paragon Initiative Enterprises - 67 upvotes, $0
 4. [I am because bug](https://hackerone.com/reports/226094) to Paragon Initiative Enterprises - 38 upvotes, $0
 5. [ssl info shown ](https://hackerone.com/reports/149369) to Paragon Initiative Enterprises - 31 upvotes, $0
 6. [[Critical] billion dollars issue](https://hackerone.com/reports/244836) to Paragon Initiative Enterprises - 29 upvotes, $0

@@ -1,27 +1,27 @@
 Top 100 paid reports from HackerOne:
 
-1. [Github access token exposure](https://hackerone.com/reports/1087489) to Shopify - $50000, 964 upvotes
+1. [Github access token exposure](https://hackerone.com/reports/1087489) to Shopify - $50000, 969 upvotes
 2. [Steal ALL collateral during liquidation by exploiting lack of validation in `flip.kick`](https://hackerone.com/reports/684092) to BlockDev Sp. Z o.o - $50000, 461 upvotes
-3. [[Pre-Submission][H1-4420-2019] API access to Phabricator on code.uberinternal.com from leaked certificate in git repo](https://hackerone.com/reports/591813) to Uber - $39999, 264 upvotes
+3. [[Pre-Submission][H1-4420-2019] API access to Phabricator on code.uberinternal.com from leaked certificate in git repo](https://hackerone.com/reports/591813) to Uber - $39999, 269 upvotes
 4. [Незащищённый экземпляр Zeppelin ](https://hackerone.com/reports/992564) to Mail.ru - $35000, 138 upvotes
-5. [RCE via npm misconfig -- installing internal libraries from the public registry](https://hackerone.com/reports/925585) to PayPal - $30000, 782 upvotes
-6. [Arbitrary file read  via the bulk imports UploadsPipeline](https://hackerone.com/reports/1439593) to GitLab - $29000, 208 upvotes
+5. [RCE via npm misconfig -- installing internal libraries from the public registry](https://hackerone.com/reports/925585) to PayPal - $30000, 785 upvotes
+6. [Arbitrary file read  via the bulk imports UploadsPipeline](https://hackerone.com/reports/1439593) to GitLab - $29000, 247 upvotes
 7. [Exposed Kubernetes API - RCE/Exposed Creds](https://hackerone.com/reports/455645) to Snapchat - $25000, 1063 upvotes
-8. [Improper Authentication - any user can login as other user with otp/logout & otp/login](https://hackerone.com/reports/921780) to Snapchat - $25000, 872 upvotes
-9. [Publicly accessible Continuous Integration Tool](https://hackerone.com/reports/313457) to Snapchat - $25000, 528 upvotes
-10. [SSRF in Exchange leads to ROOT access in all instances](https://hackerone.com/reports/341876) to Shopify - $25000, 508 upvotes
+8. [Improper Authentication - any user can login as other user with otp/logout & otp/login](https://hackerone.com/reports/921780) to Snapchat - $25000, 874 upvotes
+9. [Publicly accessible Continuous Integration Tool](https://hackerone.com/reports/313457) to Snapchat - $25000, 529 upvotes
+10. [SSRF in Exchange leads to ROOT access in all instances](https://hackerone.com/reports/341876) to Shopify - $25000, 512 upvotes
 11. [SQL Injection in report_xml.php through countryFilter[] parameter](https://hackerone.com/reports/383127) to Valve - $25000, 344 upvotes
 12. [Key Reinstallation Attacks: Breaking WPA2 by forcing nonce reuse](https://hackerone.com/reports/286740) to Internet Bug Bounty - $25000, 191 upvotes
 13. [Steal collateral during `end` process, by earning DSR interest after `flow`.](https://hackerone.com/reports/672664) to BlockDev Sp. Z o.o - $25000, 147 upvotes
-14. [Takeover an account that doesn't have a Shopify ID and more](https://hackerone.com/reports/867513) to Shopify - $23550, 2834 upvotes
+14. [Takeover an account that doesn't have a Shopify ID and more](https://hackerone.com/reports/867513) to Shopify - $23550, 2833 upvotes
 15. [Email Confirmation Bypass in your-store.myshopify.com which leads to privilege escalation](https://hackerone.com/reports/910300) to Shopify - $22500, 532 upvotes
 16. [ETH contract handling errors](https://hackerone.com/reports/328526) to Coinbase - $21000, 200 upvotes
-17. [Potential pre-auth RCE on Twitter VPN](https://hackerone.com/reports/591295) to Twitter - $20160, 1151 upvotes
+17. [Potential pre-auth RCE on Twitter VPN](https://hackerone.com/reports/591295) to Twitter - $20160, 1152 upvotes
 18. [Bypass for #488147 enables stored XSS on https://paypal.com/signin again](https://hackerone.com/reports/510152) to PayPal - $20000, 2523 upvotes
 19. [Account takeover via leaked session cookie](https://hackerone.com/reports/745324) to HackerOne - $20000, 1483 upvotes
 20. [Arbitrary file read via the UploadsRewriter when moving and issue](https://hackerone.com/reports/827052) to GitLab - $20000, 1424 upvotes
-21. [Confidential data of users and limited metadata of programs and reports accessible via GraphQL](https://hackerone.com/reports/489146) to HackerOne - $20000, 964 upvotes
-22. [[phpobject in cookie] Remote shell/command execution](https://hackerone.com/reports/141956) to Pornhub - $20000, 602 upvotes
+21. [Confidential data of users and limited metadata of programs and reports accessible via GraphQL](https://hackerone.com/reports/489146) to HackerOne - $20000, 965 upvotes
+22. [[phpobject in cookie] Remote shell/command execution](https://hackerone.com/reports/141956) to Pornhub - $20000, 603 upvotes
 23. [Getting all the CD keys of any game](https://hackerone.com/reports/391217) to Valve - $20000, 598 upvotes
 24. [RCE when removing metadata with ExifTool](https://hackerone.com/reports/1154542) to GitLab - $20000, 469 upvotes
 25. [RCE via unsafe inline Kramdown options when rendering certain Wiki pages](https://hackerone.com/reports/1125425) to GitLab - $20000, 406 upvotes
@@ -31,72 +31,72 @@ Top 100 paid reports from HackerOne:
 29. [Use after free vulnerability in mruby Array#to_h causing DOS possible RCE](https://hackerone.com/reports/181321) to shopify-scripts - $20000, 29 upvotes
 30. [TOCTTOU bug in mrb_str_setbyte leading the memory corruption](https://hackerone.com/reports/181893) to shopify-scripts - $20000, 23 upvotes
 31. [GNU Bourne-Again Shell (Bash) 'Shellshock' Vulnerability](https://hackerone.com/reports/29839) to Internet Bug Bounty - $20000, 17 upvotes
-32. [Stored XSS on https://paypal.com/signin via cache poisoning](https://hackerone.com/reports/488147) to PayPal - $18900, 639 upvotes
+32. [Stored XSS on https://paypal.com/signin via cache poisoning](https://hackerone.com/reports/488147) to PayPal - $18900, 640 upvotes
 33. [RCE on Steam Client via buffer overflow in Server Info](https://hackerone.com/reports/470520) to Valve - $18000, 1252 upvotes
 34. [Oracle Webcenter Sites administrative and hi-privilege access available directly from the internet (/cs/Satellite)](https://hackerone.com/reports/170532) to LocalTapiola - $18000, 260 upvotes
 35. [HTTP Smuggling multiple issues in Squid 3.x & squid 4.x](https://hackerone.com/reports/758445) to Internet Bug Bounty - $18000, 72 upvotes
 36. [Type confusion in wrap_decimal leading to memory corruption](https://hackerone.com/reports/185051) to shopify-scripts - $18000, 35 upvotes
 37. [Arbritrary file Upload on AirMax](https://hackerone.com/reports/73480) to Ubiquiti Inc. - $18000, 19 upvotes
 38. [Struct type confusion RCE](https://hackerone.com/reports/181879) to shopify-scripts - $18000, 6 upvotes
-39. [Full Response SSRF via Google Drive](https://hackerone.com/reports/1406938) to Dropbox - $17576, 285 upvotes
+39. [Full Response SSRF via Google Drive](https://hackerone.com/reports/1406938) to Dropbox - $17576, 298 upvotes
 40. [Privilege Escalation From user to SYSTEM via unauthenticated command execution ](https://hackerone.com/reports/544928) to Ubiquiti Inc. - $16109, 533 upvotes
-41. [Email Confirmation Bypass in myshop.myshopify.com that Leads to Full Privilege Escalation to Any Shop Owner by Taking Advantage of the Shopify SSO](https://hackerone.com/reports/791775) to Shopify - $16000, 1792 upvotes
-42. [Stored XSS in markdown via the DesignReferenceFilter ](https://hackerone.com/reports/1212067) to GitLab - $16000, 270 upvotes
+41. [Email Confirmation Bypass in myshop.myshopify.com that Leads to Full Privilege Escalation to Any Shop Owner by Taking Advantage of the Shopify SSO](https://hackerone.com/reports/791775) to Shopify - $16000, 1794 upvotes
+42. [Stored XSS in markdown via the DesignReferenceFilter ](https://hackerone.com/reports/1212067) to GitLab - $16000, 272 upvotes
 43. [Arbitrary file read during project import](https://hackerone.com/reports/1132378) to GitLab - $16000, 173 upvotes
 44. [Token leak in security challenge flow allows retrieving victim's PayPal email and plain text password](https://hackerone.com/reports/739737) to PayPal - $15300, 1319 upvotes
 45. [Ability to bypass partner email confirmation to take over any store given an employee email](https://hackerone.com/reports/300305) to Shopify - $15250, 223 upvotes
 46. [[Part II] Email Confirmation Bypass in myshop.myshopify.com that Leads to Full Privilege Escalation](https://hackerone.com/reports/796808) to Shopify - $15000, 866 upvotes
-47. [H1514 Remote Code Execution on kitcrm using bulk customer update of Priority Products](https://hackerone.com/reports/422944) to Shopify - $15000, 776 upvotes
-48. [Websites Can Run Arbitrary Code on Machines Running the 'PlayStation Now' Application](https://hackerone.com/reports/873614) to PlayStation - $15000, 734 upvotes
+47. [H1514 Remote Code Execution on kitcrm using bulk customer update of Priority Products](https://hackerone.com/reports/422944) to Shopify - $15000, 777 upvotes
+48. [Websites Can Run Arbitrary Code on Machines Running the 'PlayStation Now' Application](https://hackerone.com/reports/873614) to PlayStation - $15000, 738 upvotes
 49. [Time-Based SQL injection at city-mobil.ru](https://hackerone.com/reports/868436) to Mail.ru - $15000, 618 upvotes
 50. [Github Token Leaked publicly for https://github.sc-corp.net](https://hackerone.com/reports/396467) to Snapchat - $15000, 562 upvotes
 51. [Open prod Jenkins instance](https://hackerone.com/reports/231460) to Snapchat - $15000, 421 upvotes
-52. [RCE on build server via misconfigured pip install](https://hackerone.com/reports/946409) to Yelp - $15000, 337 upvotes
+52. [RCE on build server via misconfigured pip install](https://hackerone.com/reports/946409) to Yelp - $15000, 339 upvotes
 53. [file read on MCS servers via supplying a QCOW2 image with external backing file](https://hackerone.com/reports/1024899) to Mail.ru - $15000, 218 upvotes
-54. [Incorrect authorization to the intelbot service leading to ticket information](https://hackerone.com/reports/1328546) to TikTok - $15000, 183 upvotes
+54. [Incorrect authorization to the intelbot service leading to ticket information](https://hackerone.com/reports/1328546) to TikTok - $15000, 196 upvotes
 55. [[mcs.mail.ru] Пользователь с ролью наблюдателя может создавать ключи доступа для очереди сообщений (sqs.mcs.mail.ru)](https://hackerone.com/reports/1177451) to Mail.ru - $15000, 146 upvotes
 56. [Leaked JFrog Artifactory  username and password exposed on GitHub - https://snapchat.jfrog.io](https://hackerone.com/reports/911606) to Snapchat - $15000, 115 upvotes
 57. [H1514 Ability to MiTM Shopify PoS Session to Takeover Communications](https://hackerone.com/reports/423467) to Shopify - $13337, 357 upvotes
 58. [RCE on TikTok Ads Portal](https://hackerone.com/reports/1024575) to TikTok - $12582, 294 upvotes
 59. [Internal attachments can be exported via "Export as .zip" feature](https://hackerone.com/reports/186230) to HackerOne - $12500, 248 upvotes
-60. [Spring Actuator endpoints publicly available and broken authentication](https://hackerone.com/reports/838635) to LINE - $12500, 221 upvotes
-61. [Test-scripts for postgis in mason-repository using unsafe unzip of content from unclaimed bucket creates potential RCE-issues](https://hackerone.com/reports/329689) to Mapbox - $12500, 197 upvotes
-62. [Malformed .BSP Access Violation in CS:GO can lead to Remote Code Execution](https://hackerone.com/reports/351014) to Valve - $12500, 149 upvotes
-63. [[3DS][SSL] Improper certificate validation allows an attacker to perform MitM attacks](https://hackerone.com/reports/894922) to Nintendo - $12168, 123 upvotes
-64. [Git flag injection - local file overwrite to remote code execution](https://hackerone.com/reports/658013) to GitLab - $12000, 755 upvotes
-65. [Local files could be overwritten in GitLab, leading to remote command execution](https://hackerone.com/reports/587854) to GitLab - $12000, 535 upvotes
-66. [Project Template functionality can be used to copy private project data, such as repository, confidential issues, snippets, and merge requests](https://hackerone.com/reports/689314) to GitLab - $12000, 433 upvotes
-67. [Bypass of GitLab CI runner slash fix in YAML validation](https://hackerone.com/reports/409395) to GitLab - $12000, 351 upvotes
-68. [JSON serialization of any Project model results in all Runner tokens being exposed through Quick Actions](https://hackerone.com/reports/509924) to GitLab - $12000, 349 upvotes
-69. [An attacker can run pipeline jobs as arbitrary user](https://hackerone.com/reports/894569) to GitLab - $12000, 299 upvotes
-70. [Full Read SSRF on Gitlab's Internal Grafana](https://hackerone.com/reports/878779) to GitLab - $12000, 200 upvotes
-71. [UrnState Heap Overflow](https://hackerone.com/reports/824771) to Internet Bug Bounty - $12000, 26 upvotes
-72. [URN Request bypass ACL Checks](https://hackerone.com/reports/824802) to Internet Bug Bounty - $12000, 20 upvotes
-73. [Cache Manager ACL Bypass](https://hackerone.com/reports/824203) to Internet Bug Bounty - $12000, 19 upvotes
-74. [View Only to Root Privilege Escalation on UniFi Protect](https://hackerone.com/reports/825764) to Ubiquiti Inc. - $11689, 38 upvotes
-75. [Arbitrary Code Execution via npm misconfiguration – installing internal libraries from the public registry](https://hackerone.com/reports/1043385) to LINE - $11500, 264 upvotes
-76. [Multiple bugs leads to RCE on TikTok for Android](https://hackerone.com/reports/1065500) to TikTok - $11214, 357 upvotes
-77. [Exfiltrate and mutate repository and project data through injected templated service](https://hackerone.com/reports/446585) to GitLab - $11000, 728 upvotes
-78. [IDOR to add secondary users in www.paypal.com/businessmanage/users/api/v1/users](https://hackerone.com/reports/415081) to PayPal - $10500, 672 upvotes
-79. [Ability to DOS any organization's SSO and open up the door to account takeovers](https://hackerone.com/reports/976603) to Grammarly - $10500, 204 upvotes
-80. [Chain of IDORs Between U4B and Vouchers APIs Allows Attackers to View and Modify Program/Voucher Policies and to Obtain Organization Employees' PII](https://hackerone.com/reports/1148697) to Uber - $10250, 36 upvotes
-81. [XXE on sms-be-vip.twitter.com in SXMP Processor](https://hackerone.com/reports/248668) to Twitter - $10080, 250 upvotes
-82. [WannaCrypt “Killswitch”](https://hackerone.com/reports/228648) to HackerOne - $10000, 796 upvotes
-83. [Remote Code Execution on www.semrush.com/my_reports on Logo upload](https://hackerone.com/reports/403417) to Semrush - $10000, 780 upvotes
-84. [Use-After-Free In IPV6_2292PKTOPTIONS leading To Arbitrary Kernel R/W Primitives](https://hackerone.com/reports/826026) to PlayStation - $10000, 698 upvotes
-85. [Access to multiple production Grafana dashboards](https://hackerone.com/reports/663628) to Snapchat - $10000, 436 upvotes
-86. [touch.mail.ru / e.mail.ru memory content disclosure](https://hackerone.com/reports/513236) to Mail.ru - $10000, 408 upvotes
-87. [gitlab-workhorse bypass in Gitlab::Middleware::Multipart allowing files in `allowed_paths` to be read](https://hackerone.com/reports/850447) to GitLab - $10000, 395 upvotes
-88. [H1514 Server Side Template Injection in Return Magic email templates?](https://hackerone.com/reports/423541) to Shopify - $10000, 393 upvotes
-89. [SQL injection at fleet.city-mobil.ru](https://hackerone.com/reports/881901) to Mail.ru - $10000, 368 upvotes
-90. [RCE on shared.mail.ru due to "widget" plugin](https://hackerone.com/reports/518637) to Mail.ru - $10000, 359 upvotes
-91. [SSRF on project import via the remote_attachment_url on a Note](https://hackerone.com/reports/826361) to GitLab - $10000, 337 upvotes
-92. [Partial disclosure of report activity through new "Export as .zip" feature](https://hackerone.com/reports/182358) to HackerOne - $10000, 332 upvotes
-93. [Change any Uber user's password through /rt/users/passwordless-signup - Account Takeover (critical)](https://hackerone.com/reports/143717) to Uber - $10000, 291 upvotes
-94. [SOCK_RAW sockets reachable from Webkit process allows triggering double free in IP6_EXTHDR_CHECK](https://hackerone.com/reports/943231) to PlayStation - $10000, 268 upvotes
-95. [Malformed NAV file leads to buffer overflow and code execution in Left4Dead2.exe](https://hackerone.com/reports/542180) to Valve - $10000, 261 upvotes
-96. [Double Payout via PayPal](https://hackerone.com/reports/307239) to Coinbase - $10000, 259 upvotes
-97. [Deserialization of untrusted data at https://www.redtube.com/media/hls?s=data](https://hackerone.com/reports/1312641) to Redtube - $10000, 257 upvotes
-98. [Information Disclosure in /skills call](https://hackerone.com/reports/188719) to HackerOne - $10000, 252 upvotes
-99. [Ethereum account balance manipulation](https://hackerone.com/reports/300748) to Coinbase - $10000, 251 upvotes
-100. [Attacker can add arbitrary data to the blockchain without paying gas](https://hackerone.com/reports/396954) to IOVLabs - $10000, 246 upvotes
+60. [An attacker can archive and unarchive any structured scope object on HackerOne](https://hackerone.com/reports/1501611) to HackerOne - $12500, 229 upvotes
+61. [Spring Actuator endpoints publicly available and broken authentication](https://hackerone.com/reports/838635) to LINE - $12500, 221 upvotes
+62. [Test-scripts for postgis in mason-repository using unsafe unzip of content from unclaimed bucket creates potential RCE-issues](https://hackerone.com/reports/329689) to Mapbox - $12500, 197 upvotes
+63. [Malformed .BSP Access Violation in CS:GO can lead to Remote Code Execution](https://hackerone.com/reports/351014) to Valve - $12500, 149 upvotes
+64. [[3DS][SSL] Improper certificate validation allows an attacker to perform MitM attacks](https://hackerone.com/reports/894922) to Nintendo - $12168, 123 upvotes
+65. [Git flag injection - local file overwrite to remote code execution](https://hackerone.com/reports/658013) to GitLab - $12000, 755 upvotes
+66. [Local files could be overwritten in GitLab, leading to remote command execution](https://hackerone.com/reports/587854) to GitLab - $12000, 535 upvotes
+67. [Project Template functionality can be used to copy private project data, such as repository, confidential issues, snippets, and merge requests](https://hackerone.com/reports/689314) to GitLab - $12000, 434 upvotes
+68. [Bypass of GitLab CI runner slash fix in YAML validation](https://hackerone.com/reports/409395) to GitLab - $12000, 351 upvotes
+69. [JSON serialization of any Project model results in all Runner tokens being exposed through Quick Actions](https://hackerone.com/reports/509924) to GitLab - $12000, 349 upvotes
+70. [An attacker can run pipeline jobs as arbitrary user](https://hackerone.com/reports/894569) to GitLab - $12000, 299 upvotes
+71. [Full Read SSRF on Gitlab's Internal Grafana](https://hackerone.com/reports/878779) to GitLab - $12000, 200 upvotes
+72. [UrnState Heap Overflow](https://hackerone.com/reports/824771) to Internet Bug Bounty - $12000, 26 upvotes
+73. [URN Request bypass ACL Checks](https://hackerone.com/reports/824802) to Internet Bug Bounty - $12000, 20 upvotes
+74. [Cache Manager ACL Bypass](https://hackerone.com/reports/824203) to Internet Bug Bounty - $12000, 19 upvotes
+75. [View Only to Root Privilege Escalation on UniFi Protect](https://hackerone.com/reports/825764) to Ubiquiti Inc. - $11689, 38 upvotes
+76. [Arbitrary Code Execution via npm misconfiguration – installing internal libraries from the public registry](https://hackerone.com/reports/1043385) to LINE - $11500, 266 upvotes
+77. [Multiple bugs leads to RCE on TikTok for Android](https://hackerone.com/reports/1065500) to TikTok - $11214, 357 upvotes
+78. [Exfiltrate and mutate repository and project data through injected templated service](https://hackerone.com/reports/446585) to GitLab - $11000, 728 upvotes
+79. [IDOR to add secondary users in www.paypal.com/businessmanage/users/api/v1/users](https://hackerone.com/reports/415081) to PayPal - $10500, 674 upvotes
+80. [Ability to DOS any organization's SSO and open up the door to account takeovers](https://hackerone.com/reports/976603) to Grammarly - $10500, 204 upvotes
+81. [Chain of IDORs Between U4B and Vouchers APIs Allows Attackers to View and Modify Program/Voucher Policies and to Obtain Organization Employees' PII](https://hackerone.com/reports/1148697) to Uber - $10250, 50 upvotes
+82. [XXE on sms-be-vip.twitter.com in SXMP Processor](https://hackerone.com/reports/248668) to Twitter - $10080, 250 upvotes
+83. [WannaCrypt “Killswitch”](https://hackerone.com/reports/228648) to HackerOne - $10000, 796 upvotes
+84. [Remote Code Execution on www.semrush.com/my_reports on Logo upload](https://hackerone.com/reports/403417) to Semrush - $10000, 780 upvotes
+85. [Use-After-Free In IPV6_2292PKTOPTIONS leading To Arbitrary Kernel R/W Primitives](https://hackerone.com/reports/826026) to PlayStation - $10000, 702 upvotes
+86. [Access to multiple production Grafana dashboards](https://hackerone.com/reports/663628) to Snapchat - $10000, 436 upvotes
+87. [touch.mail.ru / e.mail.ru memory content disclosure](https://hackerone.com/reports/513236) to Mail.ru - $10000, 408 upvotes
+88. [gitlab-workhorse bypass in Gitlab::Middleware::Multipart allowing files in `allowed_paths` to be read](https://hackerone.com/reports/850447) to GitLab - $10000, 395 upvotes
+89. [H1514 Server Side Template Injection in Return Magic email templates?](https://hackerone.com/reports/423541) to Shopify - $10000, 393 upvotes
+90. [SQL injection at fleet.city-mobil.ru](https://hackerone.com/reports/881901) to Mail.ru - $10000, 368 upvotes
+91. [RCE on shared.mail.ru due to "widget" plugin](https://hackerone.com/reports/518637) to Mail.ru - $10000, 359 upvotes
+92. [SSRF on project import via the remote_attachment_url on a Note](https://hackerone.com/reports/826361) to GitLab - $10000, 337 upvotes
+93. [Partial disclosure of report activity through new "Export as .zip" feature](https://hackerone.com/reports/182358) to HackerOne - $10000, 332 upvotes
+94. [Change any Uber user's password through /rt/users/passwordless-signup - Account Takeover (critical)](https://hackerone.com/reports/143717) to Uber - $10000, 291 upvotes
+95. [SOCK_RAW sockets reachable from Webkit process allows triggering double free in IP6_EXTHDR_CHECK](https://hackerone.com/reports/943231) to PlayStation - $10000, 273 upvotes
+96. [Double Payout via PayPal](https://hackerone.com/reports/307239) to Coinbase - $10000, 261 upvotes
+97. [Malformed NAV file leads to buffer overflow and code execution in Left4Dead2.exe](https://hackerone.com/reports/542180) to Valve - $10000, 261 upvotes
+98. [Deserialization of untrusted data at https://www.redtube.com/media/hls?s=data](https://hackerone.com/reports/1312641) to Redtube - $10000, 257 upvotes
+99. [Information Disclosure in /skills call](https://hackerone.com/reports/188719) to HackerOne - $10000, 252 upvotes
+100. [Ethereum account balance manipulation](https://hackerone.com/reports/300748) to Coinbase - $10000, 251 upvotes

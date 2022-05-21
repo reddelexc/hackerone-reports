@@ -78,3 +78,4 @@ Tops by program.
 - [Top Internet Bug Bounty reports](tops_by_program/TOPINTERNETBUGBOUNTY.md)
 - [Top Concrete CMS reports](tops_by_program/TOPCONCRETECMS.md)
 - [Top Sifchain reports](tops_by_program/TOPSIFCHAIN.md)
+- [Top Curl reports](tops_by_program/TOPCURL.md)

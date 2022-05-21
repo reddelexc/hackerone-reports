@@ -18,20 +18,20 @@ Top reports from Legal Robot program at HackerOne:
 16. [Information Disclosure on rate limit defense mechanism](https://hackerone.com/reports/172296) to Legal Robot - 12 upvotes, $20
 17. [AWS S3 website can't serve security headers, may allow clickjacking](https://hackerone.com/reports/149572) to Legal Robot - 11 upvotes, $40
 18. [Near-duplicate accounts allowed with ignored email mutations](https://hackerone.com/reports/171337) to Legal Robot - 11 upvotes, $20
-19. [Update any profile](https://hackerone.com/reports/260604) to Legal Robot - 10 upvotes, $100
-20. [Logic issue in email change process](https://hackerone.com/reports/265931) to Legal Robot - 10 upvotes, $70
-21. [Password reset access control](https://hackerone.com/reports/180895) to Legal Robot - 10 upvotes, $40
-22. [content spoofing](https://hackerone.com/reports/167380) to Legal Robot - 10 upvotes, $0
-23. [I cant login to my account](https://hackerone.com/reports/263743) to Legal Robot - 10 upvotes, $0
-24. [Failed OutLink on Terms of Service](https://hackerone.com/reports/268629) to Legal Robot - 10 upvotes, $0
-25. [Venturebeat.com URL should be HTTPS](https://hackerone.com/reports/268612) to Legal Robot - 10 upvotes, $0
-26. [Exposes a series of other private credentials](https://hackerone.com/reports/289189) to Legal Robot - 10 upvotes, $0
-27. [Missing link to TOTP manual enroll option](https://hackerone.com/reports/249339) to Legal Robot - 9 upvotes, $90
-28. [Missing restriction on string size in profile fields](https://hackerone.com/reports/180548) to Legal Robot - 9 upvotes, $40
-29. [Information Disclosure in AWS S3 Bucket](https://hackerone.com/reports/163476) to Legal Robot - 9 upvotes, $20
-30. [Pages don't render in old browsers like IE11](https://hackerone.com/reports/251468) to Legal Robot - 9 upvotes, $20
-31. [Meta characters are not filtered into full name on profile page](https://hackerone.com/reports/251469) to Legal Robot - 9 upvotes, $20
-32. [Change password session fixed](https://hackerone.com/reports/260751) to Legal Robot - 9 upvotes, $0
+19. [content spoofing](https://hackerone.com/reports/167380) to Legal Robot - 11 upvotes, $0
+20. [Update any profile](https://hackerone.com/reports/260604) to Legal Robot - 10 upvotes, $100
+21. [Logic issue in email change process](https://hackerone.com/reports/265931) to Legal Robot - 10 upvotes, $70
+22. [Password reset access control](https://hackerone.com/reports/180895) to Legal Robot - 10 upvotes, $40
+23. [Change password session fixed](https://hackerone.com/reports/260751) to Legal Robot - 10 upvotes, $0
+24. [I cant login to my account](https://hackerone.com/reports/263743) to Legal Robot - 10 upvotes, $0
+25. [Failed OutLink on Terms of Service](https://hackerone.com/reports/268629) to Legal Robot - 10 upvotes, $0
+26. [Venturebeat.com URL should be HTTPS](https://hackerone.com/reports/268612) to Legal Robot - 10 upvotes, $0
+27. [Exposes a series of other private credentials](https://hackerone.com/reports/289189) to Legal Robot - 10 upvotes, $0
+28. [Missing link to TOTP manual enroll option](https://hackerone.com/reports/249339) to Legal Robot - 9 upvotes, $90
+29. [Missing restriction on string size in profile fields](https://hackerone.com/reports/180548) to Legal Robot - 9 upvotes, $40
+30. [Information Disclosure in AWS S3 Bucket](https://hackerone.com/reports/163476) to Legal Robot - 9 upvotes, $20
+31. [Pages don't render in old browsers like IE11](https://hackerone.com/reports/251468) to Legal Robot - 9 upvotes, $20
+32. [Meta characters are not filtered into full name on profile page](https://hackerone.com/reports/251469) to Legal Robot - 9 upvotes, $20
 33. [Email Length Verification ](https://hackerone.com/reports/263589) to Legal Robot - 9 upvotes, $0
 34. [User Information leak allows user to bypass email verification.](https://hackerone.com/reports/163467) to Legal Robot - 8 upvotes, $120
 35. [User Information sent to client through websockets](https://hackerone.com/reports/163464) to Legal Robot - 8 upvotes, $120

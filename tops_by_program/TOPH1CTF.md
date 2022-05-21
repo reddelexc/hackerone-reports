@@ -1,6 +1,6 @@
 Top reports from h1-ctf program at HackerOne:
 
-1. [How The Hackers Saved Christmas](https://hackerone.com/reports/1069335) to h1-ctf - 169 upvotes, $250
+1. [How The Hackers Saved Christmas](https://hackerone.com/reports/1069335) to h1-ctf - 170 upvotes, $250
 2. [[H1-415 2020] CTF Writeup](https://hackerone.com/reports/776634) to h1-ctf - 104 upvotes, $500
 3. [[h1-415 2020] Spent a week and failed at solving the last step.](https://hackerone.com/reports/781265) to h1-ctf - 96 upvotes, $0
 4. [[H1-2006 2020] I successfully solved it!](https://hackerone.com/reports/887818) to h1-ctf - 63 upvotes, $0
@@ -18,11 +18,11 @@ Top reports from h1-ctf program at HackerOne:
 16. [[H1-2006 2020] Flag for H1-CTF](https://hackerone.com/reports/888141) to h1-ctf - 17 upvotes, $0
 17. [[H1-2006 2020] [Multiple Vulnerability] CTF Writeup - @abdilahrf_](https://hackerone.com/reports/888484) to h1-ctf - 16 upvotes, $0
 18. [Saving Christmas from Grinchy Gods](https://hackerone.com/reports/1434017) to h1-ctf - 14 upvotes, $1000
-19. [HackerOne’s 100K CTF Writeup](https://hackerone.com/reports/1218708) to h1-ctf - 14 upvotes, $100
-20. [CCC H1 June 2021 CTF Writeup](https://hackerone.com/reports/1217114) to h1-ctf - 14 upvotes, $0
-21. [Solution for hackyholiday](https://hackerone.com/reports/1065495) to h1-ctf - 13 upvotes, $500
-22. [Adam and the  Deadly  Injections](https://hackerone.com/reports/1217702) to h1-ctf - 13 upvotes, $100
-23. [100K CTF's Writeup](https://hackerone.com/reports/1216591) to h1-ctf - 13 upvotes, $100
+19. [100K CTF's Writeup](https://hackerone.com/reports/1216591) to h1-ctf - 14 upvotes, $100
+20. [HackerOne’s 100K CTF Writeup](https://hackerone.com/reports/1218708) to h1-ctf - 14 upvotes, $100
+21. [CCC H1 June 2021 CTF Writeup](https://hackerone.com/reports/1217114) to h1-ctf - 14 upvotes, $0
+22. [Solution for hackyholiday](https://hackerone.com/reports/1065495) to h1-ctf - 13 upvotes, $500
+23. [Adam and the  Deadly  Injections](https://hackerone.com/reports/1217702) to h1-ctf - 13 upvotes, $100
 24. [[h1-415 2020] Solution for h1415's CTF challenge](https://hackerone.com/reports/776699) to h1-ctf - 13 upvotes, $0
 25. [[h1-415 2020] H1-415 CTF Writeup by W--](https://hackerone.com/reports/780285) to h1-ctf - 13 upvotes, $0
 26. [ccc ctf ](https://hackerone.com/reports/1216085) to h1-ctf - 12 upvotes, $100
