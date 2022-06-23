@@ -88,17 +88,17 @@ Top reports from Open-Xchange program at HackerOne:
 86. [SSRF - Guard - Unchecked HKP servers](https://hackerone.com/reports/792953) to Open-Xchange - 4 upvotes, $400
 87. [SSRF - Guard - Unchecked WKS servers](https://hackerone.com/reports/792960) to Open-Xchange - 4 upvotes, $400
 88. [Unauthorized access to attachments details of Private Calendar appointments  (Access control issue)](https://hackerone.com/reports/220864) to Open-Xchange - 4 upvotes, $200
-89. [command Injection in rawlog binary](https://hackerone.com/reports/356775) to Open-Xchange - 4 upvotes, $0
-90. [[XSS] content_disposition=inline in files](https://hackerone.com/reports/356586) to Open-Xchange - 3 upvotes, $500
-91. [[XSS/CSRF] filter content-type bypass in Files v2.0](https://hackerone.com/reports/321980) to Open-Xchange - 3 upvotes, $500
-92. [[XSS] Parameter Theme ](https://hackerone.com/reports/340926) to Open-Xchange - 3 upvotes, $300
-93. [[XSS] Forgot password link](https://hackerone.com/reports/337488) to Open-Xchange - 3 upvotes, $300
-94. [[XSS] select/onchange in TinyMCE via set body](https://hackerone.com/reports/335607) to Open-Xchange - 3 upvotes, $300
-95. [[XSS] Portal Widget Mail](https://hackerone.com/reports/295540) to Open-Xchange - 3 upvotes, $250
-96. [Critical : View/Edit access to private appointments of calendar folder by read only user (Vertical privilege escalation)](https://hackerone.com/reports/220874) to Open-Xchange - 3 upvotes, $200
-97. [ Null pointer dereference in SMTP server function smtp_command_parse_data_with_size](https://hackerone.com/reports/831290) to Open-Xchange - 3 upvotes, $50
-98. [Null dereference or redundant null check in `mail_crypt_load_global_private_key` for plugin mail-crypt](https://hackerone.com/reports/908894) to Open-Xchange - 3 upvotes, $50
-99. [Directory listing](https://hackerone.com/reports/193753) to Open-Xchange - 3 upvotes, $0
+89. [Directory listing](https://hackerone.com/reports/193753) to Open-Xchange - 4 upvotes, $0
+90. [command Injection in rawlog binary](https://hackerone.com/reports/356775) to Open-Xchange - 4 upvotes, $0
+91. [[XSS] content_disposition=inline in files](https://hackerone.com/reports/356586) to Open-Xchange - 3 upvotes, $500
+92. [[XSS/CSRF] filter content-type bypass in Files v2.0](https://hackerone.com/reports/321980) to Open-Xchange - 3 upvotes, $500
+93. [[XSS] Parameter Theme ](https://hackerone.com/reports/340926) to Open-Xchange - 3 upvotes, $300
+94. [[XSS] Forgot password link](https://hackerone.com/reports/337488) to Open-Xchange - 3 upvotes, $300
+95. [[XSS] select/onchange in TinyMCE via set body](https://hackerone.com/reports/335607) to Open-Xchange - 3 upvotes, $300
+96. [[XSS] Portal Widget Mail](https://hackerone.com/reports/295540) to Open-Xchange - 3 upvotes, $250
+97. [Critical : View/Edit access to private appointments of calendar folder by read only user (Vertical privilege escalation)](https://hackerone.com/reports/220874) to Open-Xchange - 3 upvotes, $200
+98. [ Null pointer dereference in SMTP server function smtp_command_parse_data_with_size](https://hackerone.com/reports/831290) to Open-Xchange - 3 upvotes, $50
+99. [Null dereference or redundant null check in `mail_crypt_load_global_private_key` for plugin mail-crypt](https://hackerone.com/reports/908894) to Open-Xchange - 3 upvotes, $50
 100. [Web Browser XSS Protection Not Enabled](https://hackerone.com/reports/187225) to Open-Xchange - 3 upvotes, $0
 101. [Some build dependencies are downloaded over an insecure channel (without subsequent integrity checks)](https://hackerone.com/reports/1042141) to Open-Xchange - 3 upvotes, $0
 102. [Null pointer dereference in lib-sieve after calling sieve_binary_block_index](https://hackerone.com/reports/1130792) to Open-Xchange - 3 upvotes, $0

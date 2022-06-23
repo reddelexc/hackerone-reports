@@ -8,7 +8,7 @@ Top reports from WordPress program at HackerOne:
 6. [Reflected XSS on https://make.wordpress.org via 'channel' parameter](https://hackerone.com/reports/659419) to WordPress - 95 upvotes, $387
 7. [CSRF to HTML Injection in Comments](https://hackerone.com/reports/428019) to WordPress - 94 upvotes, $950
 8. [Clickjacking on donation page](https://hackerone.com/reports/921709) to WordPress - 88 upvotes, $50
-9. [Privilege Escalation via REST API to Administrator leads to RCE](https://hackerone.com/reports/1107282) to WordPress - 84 upvotes, $1125
+9. [Privilege Escalation via REST API to Administrator leads to RCE](https://hackerone.com/reports/1107282) to WordPress - 85 upvotes, $1125
 10. [Potential unprivileged Stored XSS through wp_targeted_link_rel](https://hackerone.com/reports/509930) to WordPress - 80 upvotes, $650
 11. [Mssing Authorization on Private Message replies (BuddyPress)](https://hackerone.com/reports/490782) to WordPress - 63 upvotes, $375
 12. [plugins.trac.wordpress.org likely vulnerable to Cross Site Tracing (xst), TRACE HTTP method should be disabled](https://hackerone.com/reports/222692) to WordPress - 55 upvotes, $150
@@ -49,17 +49,17 @@ Top reports from WordPress program at HackerOne:
 47. [pre-auth Stored XSS in comments via javascript: url when administrator edits user supplied comment](https://hackerone.com/reports/633231) to WordPress - 11 upvotes, $650
 48. [Clickjacking mercantile.wordpress.org](https://hackerone.com/reports/264125) to WordPress - 11 upvotes, $0
 49. [Stored xss via template injection](https://hackerone.com/reports/250837) to WordPress - 10 upvotes, $300
-50. [[support.wordcamp.org] - publicly accessible .svn repository](https://hackerone.com/reports/309714) to WordPress - 10 upvotes, $0
-51. [MediaElements XSS](https://hackerone.com/reports/299112) to WordPress - 9 upvotes, $450
-52. [Lack of Sanitization and Insufficient Authentication](https://hackerone.com/reports/249759) to WordPress - 9 upvotes, $300
-53. [code.wordpress.net subdomain Takeover](https://hackerone.com/reports/295330) to WordPress - 9 upvotes, $25
-54. [Stored XSS on Wordpress 5.3 via Title Post](https://hackerone.com/reports/754352) to WordPress - 9 upvotes, $0
-55. [[Buddypress] Arbitrary File Deletion through bp_avatar_set](https://hackerone.com/reports/183568) to WordPress - 8 upvotes, $350
-56. [XSS on support.wordcamp.org in ajax-quote.php](https://hackerone.com/reports/355773) to WordPress - 8 upvotes, $225
-57. [Allow authenticated users can edit, trash,and add new in BuddyPress Emails function](https://hackerone.com/reports/833782) to WordPress - 8 upvotes, $225
-58. [Stored but [SELF] XSS in mercantile.wordpress.org](https://hackerone.com/reports/222224) to WordPress - 8 upvotes, $150
-59. [Self-XSS in WordPress Editor Link Modal](https://hackerone.com/reports/224556) to WordPress - 8 upvotes, $150
-60. [xss - reflected](https://hackerone.com/reports/384112) to WordPress - 8 upvotes, $50
+50. [xss - reflected](https://hackerone.com/reports/384112) to WordPress - 10 upvotes, $50
+51. [[support.wordcamp.org] - publicly accessible .svn repository](https://hackerone.com/reports/309714) to WordPress - 10 upvotes, $0
+52. [MediaElements XSS](https://hackerone.com/reports/299112) to WordPress - 9 upvotes, $450
+53. [Lack of Sanitization and Insufficient Authentication](https://hackerone.com/reports/249759) to WordPress - 9 upvotes, $300
+54. [code.wordpress.net subdomain Takeover](https://hackerone.com/reports/295330) to WordPress - 9 upvotes, $25
+55. [Stored XSS on Wordpress 5.3 via Title Post](https://hackerone.com/reports/754352) to WordPress - 9 upvotes, $0
+56. [[Buddypress] Arbitrary File Deletion through bp_avatar_set](https://hackerone.com/reports/183568) to WordPress - 8 upvotes, $350
+57. [XSS on support.wordcamp.org in ajax-quote.php](https://hackerone.com/reports/355773) to WordPress - 8 upvotes, $225
+58. [Allow authenticated users can edit, trash,and add new in BuddyPress Emails function](https://hackerone.com/reports/833782) to WordPress - 8 upvotes, $225
+59. [Stored but [SELF] XSS in mercantile.wordpress.org](https://hackerone.com/reports/222224) to WordPress - 8 upvotes, $150
+60. [Self-XSS in WordPress Editor Link Modal](https://hackerone.com/reports/224556) to WordPress - 8 upvotes, $150
 61. [Clickjacking - https://mercantile.wordpress.org/](https://hackerone.com/reports/258283) to WordPress - 8 upvotes, $0
 62. [[BuddyPress 2.9.1] Open Redirect via "wp_http_referer" parameter on "bp-profile-edit" endpoint](https://hackerone.com/reports/277502) to WordPress - 7 upvotes, $275
 63. [Lack of Password Confirmation when Changing Password and Email](https://hackerone.com/reports/224214) to WordPress - 7 upvotes, $0
