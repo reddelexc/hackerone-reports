@@ -70,53 +70,54 @@ Top reports from Open-Xchange program at HackerOne:
 68. [Stored XSS in Email attachment file name](https://hackerone.com/reports/388506) to Open-Xchange - 7 upvotes, $500
 69. [XSS - Guard - Insufficient escaping of User-IDs from PGP Keys](https://hackerone.com/reports/788691) to Open-Xchange - 7 upvotes, $500
 70. [XSS on opening malicious OpenOffice presentation document](https://hackerone.com/reports/894919) to Open-Xchange - 7 upvotes, $400
-71. [[XSS] Style/Event Filter Bypass v4.0](https://hackerone.com/reports/342610) to Open-Xchange - 6 upvotes, $500
-72. [Stored-XSS with user interaction on [sandbox.open-xchange.com] via inserted link in mail](https://hackerone.com/reports/325510) to Open-Xchange - 6 upvotes, $500
-73. [Adding external participants to unaccessible appointments](https://hackerone.com/reports/294232) to Open-Xchange - 6 upvotes, $300
-74. [Panic in file smtp-address.c: line 684 (smtp_address_write): assertion failed: (smtp_char_is_qpair(*p))](https://hackerone.com/reports/890798) to Open-Xchange - 6 upvotes, $50
-75. [Buffer overflow in sha3](https://hackerone.com/reports/356763) to Open-Xchange - 6 upvotes, $0
-76. [Pre-auth buffer over-read in Dovecot NTLM implementation](https://hackerone.com/reports/866597) to Open-Xchange - 5 upvotes, $550
-77. [A specially crafted message sent to the local delivery agent (LMTP) causes the LMTP child process to issue a panic (call i_panic)](https://hackerone.com/reports/978515) to Open-Xchange - 5 upvotes, $450
-78. [Recursor accepts unsigned, empty NXDOMAINs in secure zones](https://hackerone.com/reports/858854) to Open-Xchange - 5 upvotes, $400
-79. [Incomplete fix for CVE-2020-12673 : Specially crafted NTML message leads to buffer over read](https://hackerone.com/reports/966834) to Open-Xchange - 5 upvotes, $400
-80. [null dereference in `sieve_address_do_validate` (or redundant null check)](https://hackerone.com/reports/891069) to Open-Xchange - 5 upvotes, $50
-81. [Null pointer deference in call to `mail_get_flags`](https://hackerone.com/reports/891080) to Open-Xchange - 5 upvotes, $50
-82. [Out of memory with combination of `test_config_set` and `test_config_reload`](https://hackerone.com/reports/898693) to Open-Xchange - 5 upvotes, $50
-83. [nginx server vulnerable](https://hackerone.com/reports/137230) to Open-Xchange - 5 upvotes, $0
-84. [Information About Your System(Sensitive Directories)](https://hackerone.com/reports/200572) to Open-Xchange - 5 upvotes, $0
-85. [[XSS] Mail \<style\> v2.0](https://hackerone.com/reports/299466) to Open-Xchange - 4 upvotes, $500
-86. [SSRF - Guard - Unchecked HKP servers](https://hackerone.com/reports/792953) to Open-Xchange - 4 upvotes, $400
-87. [SSRF - Guard - Unchecked WKS servers](https://hackerone.com/reports/792960) to Open-Xchange - 4 upvotes, $400
-88. [Unauthorized access to attachments details of Private Calendar appointments  (Access control issue)](https://hackerone.com/reports/220864) to Open-Xchange - 4 upvotes, $200
-89. [Directory listing](https://hackerone.com/reports/193753) to Open-Xchange - 4 upvotes, $0
-90. [command Injection in rawlog binary](https://hackerone.com/reports/356775) to Open-Xchange - 4 upvotes, $0
-91. [[XSS] content_disposition=inline in files](https://hackerone.com/reports/356586) to Open-Xchange - 3 upvotes, $500
-92. [[XSS/CSRF] filter content-type bypass in Files v2.0](https://hackerone.com/reports/321980) to Open-Xchange - 3 upvotes, $500
-93. [[XSS] Parameter Theme ](https://hackerone.com/reports/340926) to Open-Xchange - 3 upvotes, $300
-94. [[XSS] Forgot password link](https://hackerone.com/reports/337488) to Open-Xchange - 3 upvotes, $300
-95. [[XSS] select/onchange in TinyMCE via set body](https://hackerone.com/reports/335607) to Open-Xchange - 3 upvotes, $300
-96. [[XSS] Portal Widget Mail](https://hackerone.com/reports/295540) to Open-Xchange - 3 upvotes, $250
-97. [Critical : View/Edit access to private appointments of calendar folder by read only user (Vertical privilege escalation)](https://hackerone.com/reports/220874) to Open-Xchange - 3 upvotes, $200
-98. [ Null pointer dereference in SMTP server function smtp_command_parse_data_with_size](https://hackerone.com/reports/831290) to Open-Xchange - 3 upvotes, $50
-99. [Null dereference or redundant null check in `mail_crypt_load_global_private_key` for plugin mail-crypt](https://hackerone.com/reports/908894) to Open-Xchange - 3 upvotes, $50
-100. [Web Browser XSS Protection Not Enabled](https://hackerone.com/reports/187225) to Open-Xchange - 3 upvotes, $0
-101. [Some build dependencies are downloaded over an insecure channel (without subsequent integrity checks)](https://hackerone.com/reports/1042141) to Open-Xchange - 3 upvotes, $0
-102. [Null pointer dereference in lib-sieve after calling sieve_binary_block_index](https://hackerone.com/reports/1130792) to Open-Xchange - 3 upvotes, $0
-103. [Buffer overread off by one in `rpa_read_buffer`, incomplete fix for CVE-2020-12674](https://hackerone.com/reports/967457) to Open-Xchange - 2 upvotes, $400
-104. [[XSS] Pasting bootstrap in mail compose](https://hackerone.com/reports/331975) to Open-Xchange - 2 upvotes, $300
-105. [Resend invitation to members by Read only user(Privilege Escalation)](https://hackerone.com/reports/219192) to Open-Xchange - 2 upvotes, $200
-106. [Buffer overread in parse_angle_addr called from message_address_parse_path ](https://hackerone.com/reports/836045) to Open-Xchange - 2 upvotes, $50
-107. [Multiple buffer over reads in mbox_from_parse](https://hackerone.com/reports/836036) to Open-Xchange - 2 upvotes, $50
-108. [Failed assert in `mail_index_transaction_lookup`](https://hackerone.com/reports/965782) to Open-Xchange - 2 upvotes, $50
-109. [SSL Certification Expired And TLS Vulnerability ](https://hackerone.com/reports/207404) to Open-Xchange - 2 upvotes, $0
-110. [Directory traversal allows execution of arbitrary binaries usign doveadm exec](https://hackerone.com/reports/883104) to Open-Xchange - 2 upvotes, $0
-111. [Referer in /servlet/TestServlet](https://hackerone.com/reports/342976) to Open-Xchange - 1 upvotes, $300
-112. [Cross-Site Scripting Vulnerability in dovecot.fi](https://hackerone.com/reports/135316) to Open-Xchange - 1 upvotes, $0
-113. [DIrectory Listing Found](https://hackerone.com/reports/138558) to Open-Xchange - 1 upvotes, $0
-114. [Apache version disclosure](https://hackerone.com/reports/139547) to Open-Xchange - 1 upvotes, $0
-115. [Outdated Apache Server in www.dovecot.fi is vulnerable to various attack.](https://hackerone.com/reports/139591) to Open-Xchange - 1 upvotes, $0
-116. [Null dereference in mcht_relational_validate ext-relational-common.c:136](https://hackerone.com/reports/894446) to Open-Xchange - 0 upvotes, $50
-117. [Null dereference in `cmd_denotify_operation_execute`](https://hackerone.com/reports/965881) to Open-Xchange - 0 upvotes, $50
-118. [Assert failed in `edit_mail_istream_read`](https://hackerone.com/reports/965790) to Open-Xchange - 0 upvotes, $50
-119. [Missing (or redundant) null check in `dcrypt_openssl_sign`](https://hackerone.com/reports/883606) to Open-Xchange - 0 upvotes, $0
-120. [A specifically designed sieve script can cause a DoS in lib-sieve during sieve script compilation via NULL pointer dereference](https://hackerone.com/reports/965774) to Open-Xchange - 0 upvotes, $0
+71. [Privilege escalation possible in dovecot when similar passdbs are used](https://hackerone.com/reports/1561579) to Open-Xchange - 6 upvotes, $900
+72. [[XSS] Style/Event Filter Bypass v4.0](https://hackerone.com/reports/342610) to Open-Xchange - 6 upvotes, $500
+73. [Stored-XSS with user interaction on [sandbox.open-xchange.com] via inserted link in mail](https://hackerone.com/reports/325510) to Open-Xchange - 6 upvotes, $500
+74. [Adding external participants to unaccessible appointments](https://hackerone.com/reports/294232) to Open-Xchange - 6 upvotes, $300
+75. [Panic in file smtp-address.c: line 684 (smtp_address_write): assertion failed: (smtp_char_is_qpair(*p))](https://hackerone.com/reports/890798) to Open-Xchange - 6 upvotes, $50
+76. [Buffer overflow in sha3](https://hackerone.com/reports/356763) to Open-Xchange - 6 upvotes, $0
+77. [Pre-auth buffer over-read in Dovecot NTLM implementation](https://hackerone.com/reports/866597) to Open-Xchange - 5 upvotes, $550
+78. [A specially crafted message sent to the local delivery agent (LMTP) causes the LMTP child process to issue a panic (call i_panic)](https://hackerone.com/reports/978515) to Open-Xchange - 5 upvotes, $450
+79. [Recursor accepts unsigned, empty NXDOMAINs in secure zones](https://hackerone.com/reports/858854) to Open-Xchange - 5 upvotes, $400
+80. [Incomplete fix for CVE-2020-12673 : Specially crafted NTML message leads to buffer over read](https://hackerone.com/reports/966834) to Open-Xchange - 5 upvotes, $400
+81. [null dereference in `sieve_address_do_validate` (or redundant null check)](https://hackerone.com/reports/891069) to Open-Xchange - 5 upvotes, $50
+82. [Null pointer deference in call to `mail_get_flags`](https://hackerone.com/reports/891080) to Open-Xchange - 5 upvotes, $50
+83. [Out of memory with combination of `test_config_set` and `test_config_reload`](https://hackerone.com/reports/898693) to Open-Xchange - 5 upvotes, $50
+84. [nginx server vulnerable](https://hackerone.com/reports/137230) to Open-Xchange - 5 upvotes, $0
+85. [Information About Your System(Sensitive Directories)](https://hackerone.com/reports/200572) to Open-Xchange - 5 upvotes, $0
+86. [[XSS] Mail \<style\> v2.0](https://hackerone.com/reports/299466) to Open-Xchange - 4 upvotes, $500
+87. [SSRF - Guard - Unchecked HKP servers](https://hackerone.com/reports/792953) to Open-Xchange - 4 upvotes, $400
+88. [SSRF - Guard - Unchecked WKS servers](https://hackerone.com/reports/792960) to Open-Xchange - 4 upvotes, $400
+89. [Unauthorized access to attachments details of Private Calendar appointments  (Access control issue)](https://hackerone.com/reports/220864) to Open-Xchange - 4 upvotes, $200
+90. [Directory listing](https://hackerone.com/reports/193753) to Open-Xchange - 4 upvotes, $0
+91. [command Injection in rawlog binary](https://hackerone.com/reports/356775) to Open-Xchange - 4 upvotes, $0
+92. [[XSS] content_disposition=inline in files](https://hackerone.com/reports/356586) to Open-Xchange - 3 upvotes, $500
+93. [[XSS/CSRF] filter content-type bypass in Files v2.0](https://hackerone.com/reports/321980) to Open-Xchange - 3 upvotes, $500
+94. [[XSS] Parameter Theme ](https://hackerone.com/reports/340926) to Open-Xchange - 3 upvotes, $300
+95. [[XSS] Forgot password link](https://hackerone.com/reports/337488) to Open-Xchange - 3 upvotes, $300
+96. [[XSS] select/onchange in TinyMCE via set body](https://hackerone.com/reports/335607) to Open-Xchange - 3 upvotes, $300
+97. [[XSS] Portal Widget Mail](https://hackerone.com/reports/295540) to Open-Xchange - 3 upvotes, $250
+98. [Critical : View/Edit access to private appointments of calendar folder by read only user (Vertical privilege escalation)](https://hackerone.com/reports/220874) to Open-Xchange - 3 upvotes, $200
+99. [ Null pointer dereference in SMTP server function smtp_command_parse_data_with_size](https://hackerone.com/reports/831290) to Open-Xchange - 3 upvotes, $50
+100. [Null dereference or redundant null check in `mail_crypt_load_global_private_key` for plugin mail-crypt](https://hackerone.com/reports/908894) to Open-Xchange - 3 upvotes, $50
+101. [Web Browser XSS Protection Not Enabled](https://hackerone.com/reports/187225) to Open-Xchange - 3 upvotes, $0
+102. [Some build dependencies are downloaded over an insecure channel (without subsequent integrity checks)](https://hackerone.com/reports/1042141) to Open-Xchange - 3 upvotes, $0
+103. [Null pointer dereference in lib-sieve after calling sieve_binary_block_index](https://hackerone.com/reports/1130792) to Open-Xchange - 3 upvotes, $0
+104. [Buffer overread off by one in `rpa_read_buffer`, incomplete fix for CVE-2020-12674](https://hackerone.com/reports/967457) to Open-Xchange - 2 upvotes, $400
+105. [[XSS] Pasting bootstrap in mail compose](https://hackerone.com/reports/331975) to Open-Xchange - 2 upvotes, $300
+106. [Resend invitation to members by Read only user(Privilege Escalation)](https://hackerone.com/reports/219192) to Open-Xchange - 2 upvotes, $200
+107. [Buffer overread in parse_angle_addr called from message_address_parse_path ](https://hackerone.com/reports/836045) to Open-Xchange - 2 upvotes, $50
+108. [Multiple buffer over reads in mbox_from_parse](https://hackerone.com/reports/836036) to Open-Xchange - 2 upvotes, $50
+109. [Failed assert in `mail_index_transaction_lookup`](https://hackerone.com/reports/965782) to Open-Xchange - 2 upvotes, $50
+110. [SSL Certification Expired And TLS Vulnerability ](https://hackerone.com/reports/207404) to Open-Xchange - 2 upvotes, $0
+111. [Directory traversal allows execution of arbitrary binaries usign doveadm exec](https://hackerone.com/reports/883104) to Open-Xchange - 2 upvotes, $0
+112. [Referer in /servlet/TestServlet](https://hackerone.com/reports/342976) to Open-Xchange - 1 upvotes, $300
+113. [Cross-Site Scripting Vulnerability in dovecot.fi](https://hackerone.com/reports/135316) to Open-Xchange - 1 upvotes, $0
+114. [DIrectory Listing Found](https://hackerone.com/reports/138558) to Open-Xchange - 1 upvotes, $0
+115. [Apache version disclosure](https://hackerone.com/reports/139547) to Open-Xchange - 1 upvotes, $0
+116. [Outdated Apache Server in www.dovecot.fi is vulnerable to various attack.](https://hackerone.com/reports/139591) to Open-Xchange - 1 upvotes, $0
+117. [Null dereference in mcht_relational_validate ext-relational-common.c:136](https://hackerone.com/reports/894446) to Open-Xchange - 0 upvotes, $50
+118. [Null dereference in `cmd_denotify_operation_execute`](https://hackerone.com/reports/965881) to Open-Xchange - 0 upvotes, $50
+119. [Assert failed in `edit_mail_istream_read`](https://hackerone.com/reports/965790) to Open-Xchange - 0 upvotes, $50
+120. [Missing (or redundant) null check in `dcrypt_openssl_sign`](https://hackerone.com/reports/883606) to Open-Xchange - 0 upvotes, $0
+121. [A specifically designed sieve script can cause a DoS in lib-sieve during sieve script compilation via NULL pointer dereference](https://hackerone.com/reports/965774) to Open-Xchange - 0 upvotes, $0

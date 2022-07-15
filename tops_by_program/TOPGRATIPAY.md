@@ -61,20 +61,20 @@ Top reports from Gratipay program at HackerOne:
 59. [Username Restriction is not applied for reserved folders](https://hackerone.com/reports/163949) to Gratipay - 3 upvotes, $0
 60. [nginx version disclosure on downloads.gratipay.com](https://hackerone.com/reports/157507) to Gratipay - 3 upvotes, $0
 61. [This is a test report](https://hackerone.com/reports/151165) to Gratipay - 3 upvotes, $0
-62. [Show hide privacy giving receiving on my website ](https://hackerone.com/reports/262088) to Gratipay - 3 upvotes, $0
-63. [don't serve hidden files from Nginx](https://hackerone.com/reports/120026) to Gratipay - 2 upvotes, $1
-64. [limit number of images in statement](https://hackerone.com/reports/117739) to Gratipay - 2 upvotes, $1
-65. [Vulnerable to clickjacking](https://hackerone.com/reports/123782) to Gratipay - 2 upvotes, $0
-66. [don't store CSRF tokens in cookies](https://hackerone.com/reports/140377) to Gratipay - 2 upvotes, $0
-67. [XSS Via Method injection](https://hackerone.com/reports/161621) to Gratipay - 2 upvotes, $0
-68. [Content type incorrectly stated](https://hackerone.com/reports/190964) to Gratipay - 2 upvotes, $0
-69. [URL Given leading to end users ending up in malicious sites](https://hackerone.com/reports/209821) to Gratipay - 2 upvotes, $0
-70. [CSP "script-src" includes "unsafe-inline" in https://gratipay.com](https://hackerone.com/reports/231086) to Gratipay - 2 upvotes, $0
-71. [don't leak Server version for assets.gratipay.com](https://hackerone.com/reports/151302) to Gratipay - 2 upvotes, $0
-72. [[gratipay.com] Cross Site Tracing](https://hackerone.com/reports/152834) to Gratipay - 2 upvotes, $0
-73. [Host Header poisoning on gratipay.com](https://hackerone.com/reports/158482) to Gratipay - 2 upvotes, $0
-74. [xss ](https://hackerone.com/reports/262005) to Gratipay - 2 upvotes, $0
-75. [Information Disclosure on inside.gratipay.com](https://hackerone.com/reports/267213) to Gratipay - 2 upvotes, $0
+62. [Information Disclosure on inside.gratipay.com](https://hackerone.com/reports/267213) to Gratipay - 3 upvotes, $0
+63. [Show hide privacy giving receiving on my website ](https://hackerone.com/reports/262088) to Gratipay - 3 upvotes, $0
+64. [don't serve hidden files from Nginx](https://hackerone.com/reports/120026) to Gratipay - 2 upvotes, $1
+65. [limit number of images in statement](https://hackerone.com/reports/117739) to Gratipay - 2 upvotes, $1
+66. [Vulnerable to clickjacking](https://hackerone.com/reports/123782) to Gratipay - 2 upvotes, $0
+67. [don't store CSRF tokens in cookies](https://hackerone.com/reports/140377) to Gratipay - 2 upvotes, $0
+68. [XSS Via Method injection](https://hackerone.com/reports/161621) to Gratipay - 2 upvotes, $0
+69. [Content type incorrectly stated](https://hackerone.com/reports/190964) to Gratipay - 2 upvotes, $0
+70. [URL Given leading to end users ending up in malicious sites](https://hackerone.com/reports/209821) to Gratipay - 2 upvotes, $0
+71. [CSP "script-src" includes "unsafe-inline" in https://gratipay.com](https://hackerone.com/reports/231086) to Gratipay - 2 upvotes, $0
+72. [don't leak Server version for assets.gratipay.com](https://hackerone.com/reports/151302) to Gratipay - 2 upvotes, $0
+73. [[gratipay.com] Cross Site Tracing](https://hackerone.com/reports/152834) to Gratipay - 2 upvotes, $0
+74. [Host Header poisoning on gratipay.com](https://hackerone.com/reports/158482) to Gratipay - 2 upvotes, $0
+75. [xss ](https://hackerone.com/reports/262005) to Gratipay - 2 upvotes, $0
 76. [Bypassing X-frame options ](https://hackerone.com/reports/283951) to Gratipay - 2 upvotes, $0
 77. [Mail spaming](https://hackerone.com/reports/87531) to Gratipay - 1 upvotes, $20
 78. [DMARC is misconfigured for grtp.co](https://hackerone.com/reports/117325) to Gratipay - 1 upvotes, $10

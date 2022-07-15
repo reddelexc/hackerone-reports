@@ -70,9 +70,9 @@ Top reports from WordPress program at HackerOne:
 68. [Improper Access Control in Buddypress core allows reply,delete any user's activity](https://hackerone.com/reports/837256) to WordPress - 4 upvotes, $225
 69. [Administrator(s) Information disclosure via JSON on wordpress.org](https://hackerone.com/reports/221734) to WordPress - 4 upvotes, $0
 70. [Wordpress 4.8.1 - Rogue editor leads to RCE. And the risks of same origin frame scripting in general](https://hackerone.com/reports/263718) to WordPress - 4 upvotes, $0
-71. [Privilege Escalation in BuddyPress core allows Moderate to Administrator ](https://hackerone.com/reports/837018) to WordPress - 3 upvotes, $225
-72. [Stored XSS in WordPress](https://hackerone.com/reports/276105) to WordPress - 3 upvotes, $0
-73. [Parameter tampering : Price Manipulation of Products](https://hackerone.com/reports/682344) to WordPress - 3 upvotes, $0
+71. [Parameter tampering : Price Manipulation of Products](https://hackerone.com/reports/682344) to WordPress - 4 upvotes, $0
+72. [Privilege Escalation in BuddyPress core allows Moderate to Administrator ](https://hackerone.com/reports/837018) to WordPress - 3 upvotes, $225
+73. [Stored XSS in WordPress](https://hackerone.com/reports/276105) to WordPress - 3 upvotes, $0
 74. [antispambot does not always escape \<, \>, &, " and '](https://hackerone.com/reports/298218) to WordPress - 3 upvotes, $0
 75. [CSRF on comment post](https://hackerone.com/reports/914232) to WordPress - 3 upvotes, $0
 76. [Clickjacking irclogs.wordpress.org](https://hackerone.com/reports/267075) to WordPress - 2 upvotes, $0

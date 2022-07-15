@@ -1,11 +1,11 @@
 Top IDOR reports from HackerOne:
 
-1. [IDOR to add secondary users in www.paypal.com/businessmanage/users/api/v1/users](https://hackerone.com/reports/415081) to PayPal - 676 upvotes, $10500
+1. [IDOR to add secondary users in www.paypal.com/businessmanage/users/api/v1/users](https://hackerone.com/reports/415081) to PayPal - 678 upvotes, $10500
 2. [IDOR allow access to payments data of any user](https://hackerone.com/reports/751577) to Nord Security - 332 upvotes, $1000
 3. [idor allows you to delete photos and album from a gallery](https://hackerone.com/reports/380410) to Redtube - 263 upvotes, $1500
 4. [IDOR allows any user to edit others videos](https://hackerone.com/reports/681473) to YouPorn - 242 upvotes, $1500
 5. [Singapore - Account Takeover via IDOR](https://hackerone.com/reports/876300) to Starbucks - 217 upvotes, $6000
-6. [IDOR delete any Tickets on ads.tiktok.com](https://hackerone.com/reports/1475520) to TikTok - 179 upvotes, $5000
+6. [IDOR delete any Tickets on ads.tiktok.com](https://hackerone.com/reports/1475520) to TikTok - 181 upvotes, $5000
 7. [I.D.O.R To Order,Book,Buy,reserve On YELP FOR FREE (UNAUTHORIZED USE OF OTHER USER'S CREDIT CARD)](https://hackerone.com/reports/391092) to Yelp - 179 upvotes, $2500
 8. [IDOR when editing users leads to Account Takeover without User Interaction at CrowdSignal](https://hackerone.com/reports/915114) to Automattic - 178 upvotes, $650
 9. [IDOR in the https://market.semrush.com/](https://hackerone.com/reports/837400) to Semrush - 153 upvotes, $5000
@@ -14,7 +14,7 @@ Top IDOR reports from HackerOne:
 12. [IDOR vulnerability (Price manipulation)](https://hackerone.com/reports/1403176) to Acronis - 119 upvotes, $400
 13. [IDOR in https://3d.cs.money/](https://hackerone.com/reports/990878) to CS Money - 110 upvotes, $200
 14. [IDOR and statistics leakage in Orders ](https://hackerone.com/reports/544329) to Twitter - 109 upvotes, $289
-15. [IDOR leading to downloading of any attachment](https://hackerone.com/reports/668439) to BCM Messenger - 104 upvotes, $100
+15. [IDOR leading to downloading of any attachment](https://hackerone.com/reports/668439) to BCM Messenger - 105 upvotes, $100
 16. [IDOR leads to leak analytics of any restaurant](https://hackerone.com/reports/1116387) to Uber - 100 upvotes, $2000
 17. [IDOR leads to See analytics of Loyalty Program in any restaurant.](https://hackerone.com/reports/1137819) to Uber - 92 upvotes, $1500
 18. [Access User Tickets via IDOR in [widget.support.my.games]](https://hackerone.com/reports/1005315) to Mail.ru - 85 upvotes, $2000
@@ -27,7 +27,7 @@ Top IDOR reports from HackerOne:
 25. [IDOR to view order information of users and personal information](https://hackerone.com/reports/1323406) to Affirm - 56 upvotes, $500
 26. [IDOR in Report CSV export discloses the IDs of Custom Field Attributes of Programs](https://hackerone.com/reports/510759) to HackerOne - 53 upvotes, $0
 27. [CSRF combined with IDOR within Document Converter exposes files](https://hackerone.com/reports/398316) to Open-Xchange - 52 upvotes, $500
-28. [IDOR on HackerOne Feedback Review](https://hackerone.com/reports/262661) to HackerOne - 50 upvotes, $0
+28. [IDOR on HackerOne Feedback Review](https://hackerone.com/reports/262661) to HackerOne - 51 upvotes, $0
 29. [Ability to add arbitrary images/descriptions/titles to ohter people's issues via IDOR on getrevue.co](https://hackerone.com/reports/1096560) to Twitter - 50 upvotes, $0
 30. [IDOR to delete images from other stores](https://hackerone.com/reports/404797) to Zomato - 49 upvotes, $600
 31. [IDOR in marketing calendar tool](https://hackerone.com/reports/797685) to Semrush - 48 upvotes, $500

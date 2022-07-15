@@ -8,7 +8,7 @@ Top reports from VK.com program at HackerOne:
 6. [Path Traversal в iOS приложении](https://hackerone.com/reports/1050231) to VK.com - 55 upvotes, $700
 7. [Stealing Private Information in VK Android App through PlayerProxy Port Remotely](https://hackerone.com/reports/292761) to VK.com - 50 upvotes, $700
 8. [XSS Reflected in m.vk.com](https://hackerone.com/reports/1011463) to VK.com - 48 upvotes, $500
-9. [XSS в сюжетах.](https://hackerone.com/reports/1115763) to VK.com - 47 upvotes, $500
+9. [XSS в сюжетах.](https://hackerone.com/reports/1115763) to VK.com - 48 upvotes, $500
 10. [Уязвимость в приложении для Android](https://hackerone.com/reports/1343528) to VK.com - 46 upvotes, $3000
 11. [Вставляем свой код в мобильном приложении в разделе помощи сообществам](https://hackerone.com/reports/433904) to VK.com - 44 upvotes, $300
 12. [Clickjacking vkpay](https://hackerone.com/reports/374817) to VK.com - 44 upvotes, $0
@@ -17,8 +17,8 @@ Top reports from VK.com program at HackerOne:
 15. [Мини-уязвимость в обработке ссылок](https://hackerone.com/reports/726063) to VK.com - 41 upvotes, $500
 16. [[VK Android] Access to app protected components leads to arbitrary code execution](https://hackerone.com/reports/1095633) to VK.com - 39 upvotes, $1000
 17. [XSS в upload.php](https://hackerone.com/reports/142135) to VK.com - 38 upvotes, $1500
-18. [Reflected xss в m.vk.com/chatjoin](https://hackerone.com/reports/316475) to VK.com - 36 upvotes, $500
-19. [Reflected Xss On https://vk.com/search](https://hackerone.com/reports/1454359) to VK.com - 36 upvotes, $500
+18. [Reflected Xss On https://vk.com/search](https://hackerone.com/reports/1454359) to VK.com - 37 upvotes, $500
+19. [Reflected xss в m.vk.com/chatjoin](https://hackerone.com/reports/316475) to VK.com - 36 upvotes, $500
 20. [Просмотр приватных видео записей у Пользователей](https://hackerone.com/reports/317985) to VK.com - 34 upvotes, $300
 21. [Получение БД кэша из Android-приложения через стороннее приложение](https://hackerone.com/reports/377582) to VK.com - 32 upvotes, $500
 22. [Stored XSS при удалении группы из беседы (m.vk.com)](https://hackerone.com/reports/1101500) to VK.com - 32 upvotes, $500

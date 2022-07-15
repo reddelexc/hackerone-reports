@@ -27,13 +27,13 @@ Top reports from Yahoo! program at HackerOne:
 25. [invite1.us2.msg.vip.bf1.yahoo.com/ - CSRF/email disclosure](https://hackerone.com/reports/7608) to Yahoo! - 3 upvotes, $400
 26. [XSS Vulnerability (my.yahoo.com)](https://hackerone.com/reports/4256) to Yahoo! - 3 upvotes, $250
 27. [http://conf.member.yahoo.com configuration file disclosure](https://hackerone.com/reports/2598) to Yahoo! - 3 upvotes, $100
-28. [In Fantasy Sports iOS app, signup page is requested over HTTP](https://hackerone.com/reports/2101) to Yahoo! - 3 upvotes, $0
-29. [caesary.yahoo.net Blind Sql Injection](https://hackerone.com/reports/21899) to Yahoo! - 3 upvotes, $0
-30. [Stored Cross Site Scripting Vulnerability in Yahoo Mail](https://hackerone.com/reports/4277) to Yahoo! - 3 upvotes, $0
-31. [XSS in my yahoo](https://hackerone.com/reports/1203) to Yahoo! - 2 upvotes, $800
-32. [information disclosure (LOAD BALANCER + URI XSS)](https://hackerone.com/reports/8284) to Yahoo! - 2 upvotes, $300
-33. [XSS in Yahoo! Web Analytics](https://hackerone.com/reports/5442) to Yahoo! - 2 upvotes, $100
-34. [Default /docs folder of PHPBB3 installation on gamesnet.yahoo.com](https://hackerone.com/reports/17506) to Yahoo! - 2 upvotes, $50
+28. [Default /docs folder of PHPBB3 installation on gamesnet.yahoo.com](https://hackerone.com/reports/17506) to Yahoo! - 3 upvotes, $50
+29. [In Fantasy Sports iOS app, signup page is requested over HTTP](https://hackerone.com/reports/2101) to Yahoo! - 3 upvotes, $0
+30. [caesary.yahoo.net Blind Sql Injection](https://hackerone.com/reports/21899) to Yahoo! - 3 upvotes, $0
+31. [Stored Cross Site Scripting Vulnerability in Yahoo Mail](https://hackerone.com/reports/4277) to Yahoo! - 3 upvotes, $0
+32. [XSS in my yahoo](https://hackerone.com/reports/1203) to Yahoo! - 2 upvotes, $800
+33. [information disclosure (LOAD BALANCER + URI XSS)](https://hackerone.com/reports/8284) to Yahoo! - 2 upvotes, $300
+34. [XSS in Yahoo! Web Analytics](https://hackerone.com/reports/5442) to Yahoo! - 2 upvotes, $100
 35. [ClickJacking on http://au.launch.yahoo.com](https://hackerone.com/reports/1229) to Yahoo! - 2 upvotes, $0
 36. [Yahoo YQL Injection? ](https://hackerone.com/reports/1407) to Yahoo! - 2 upvotes, $0
 37. [Open Redirect via Request-URI](https://hackerone.com/reports/15298) to Yahoo! - 2 upvotes, $0
