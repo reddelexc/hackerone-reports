@@ -1,6 +1,6 @@
 Top reports from Rockstar Games program at HackerOne:
 
-1. [The return of the ＜](https://hackerone.com/reports/639684) to Rockstar Games - 530 upvotes, $1000
+1. [The return of the ＜](https://hackerone.com/reports/639684) to Rockstar Games - 532 upvotes, $1000
 2. [Account Takeover using Linked Accounts due to lack of CSRF protection](https://hackerone.com/reports/463330) to Rockstar Games - 227 upvotes, $1000
 3. [Stealing Facebook OAuth Code Through Screenshot viewer](https://hackerone.com/reports/488269) to Rockstar Games - 192 upvotes, $750
 4. [XSS STORED AT socialclub.rockstargames.com (add friend request from profile attacker)](https://hackerone.com/reports/220852) to Rockstar Games - 183 upvotes, $750
@@ -45,7 +45,7 @@ Top reports from Rockstar Games program at HackerOne:
 43. [Open redirect on https://signin.rockstargames.com/connect/authorize/rsg](https://hackerone.com/reports/1101771) to Rockstar Games - 23 upvotes, $150
 44. [Uninstalling Rockstar Games Launcher for Windows (64-bit), then reinstalling keeps you logged in without authentication](https://hackerone.com/reports/1278261) to Rockstar Games - 22 upvotes, $250
 45. [Reflected XSS via Double Encoding](https://hackerone.com/reports/246505) to Rockstar Games - 21 upvotes, $500
-46. [Login form on non-HTTPS page](https://hackerone.com/reports/214571) to Rockstar Games - 20 upvotes, $350
+46. [Login form on non-HTTPS page](https://hackerone.com/reports/214571) to Rockstar Games - 21 upvotes, $350
 47. [use of unsafe host header leads to open redirect](https://hackerone.com/reports/210875) to Rockstar Games - 20 upvotes, $300
 48. [Information Disclosure in https://www.rockstargames.com/search](https://hackerone.com/reports/808832) to Rockstar Games - 20 upvotes, $250
 49. [Stored XSS with CRLF injection via post message to user feed](https://hackerone.com/reports/263191) to Rockstar Games - 19 upvotes, $1000

@@ -69,14 +69,14 @@ Top Clickjacking reports from HackerOne:
 67. [Clickjacking Full account takeover and editing the personal information at [account.my.com]](https://hackerone.com/reports/261652) to Mail.ru - 4 upvotes, $0
 68. [Clickjacking Vulnerability via https://webagent.mail.ru leading to protection bypass for https://web.icq.com/ end point](https://hackerone.com/reports/918923) to Mail.ru - 3 upvotes, $150
 69. [Missing security headers, possible clickjacking](https://hackerone.com/reports/64645) to Legal Robot - 3 upvotes, $20
-70. [Clickjacking: X-Frame-Options header missing](https://hackerone.com/reports/163646) to Legal Robot - 3 upvotes, $0
-71. [Clickjacking login page of http://book.zomato.com/](https://hackerone.com/reports/146948) to Zomato - 3 upvotes, $0
-72. [Clickjacking: Delete Account, Change privacy settings, Rate business, follow/unfollow (IE)](https://hackerone.com/reports/338569) to Zomato - 3 upvotes, $0
-73. [Settings page in https://support.my.com is vulnerable to clickjacking](https://hackerone.com/reports/667400) to Mail.ru - 3 upvotes, $0
-74. [Clickjacking on profile page leading to unauthorized changes](https://hackerone.com/reports/1198907) to UPchieve - 3 upvotes, $0
-75. [Site-wide clickjacking at IE11](https://hackerone.com/reports/614947) to New Relic - 2 upvotes, $500
-76. [Clickjacking](https://hackerone.com/reports/8724) to Mail.ru - 2 upvotes, $150
-77. [ClickJacking on http://au.launch.yahoo.com](https://hackerone.com/reports/1229) to Yahoo! - 2 upvotes, $0
+70. [ClickJacking on http://au.launch.yahoo.com](https://hackerone.com/reports/1229) to Yahoo! - 3 upvotes, $0
+71. [Clickjacking: X-Frame-Options header missing](https://hackerone.com/reports/163646) to Legal Robot - 3 upvotes, $0
+72. [Clickjacking login page of http://book.zomato.com/](https://hackerone.com/reports/146948) to Zomato - 3 upvotes, $0
+73. [Clickjacking: Delete Account, Change privacy settings, Rate business, follow/unfollow (IE)](https://hackerone.com/reports/338569) to Zomato - 3 upvotes, $0
+74. [Settings page in https://support.my.com is vulnerable to clickjacking](https://hackerone.com/reports/667400) to Mail.ru - 3 upvotes, $0
+75. [Clickjacking on profile page leading to unauthorized changes](https://hackerone.com/reports/1198907) to UPchieve - 3 upvotes, $0
+76. [Site-wide clickjacking at IE11](https://hackerone.com/reports/614947) to New Relic - 2 upvotes, $500
+77. [Clickjacking](https://hackerone.com/reports/8724) to Mail.ru - 2 upvotes, $150
 78. [Click-Jacking due to missing X-frame header](https://hackerone.com/reports/17664) to Factlink - 2 upvotes, $0
 79. [Clickjacking at surveylink.yahoo.com](https://hackerone.com/reports/3578) to Yahoo! - 2 upvotes, $0
 80. [Vulnerable to clickjacking](https://hackerone.com/reports/123782) to Gratipay - 2 upvotes, $0

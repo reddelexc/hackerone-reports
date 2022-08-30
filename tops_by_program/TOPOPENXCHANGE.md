@@ -109,13 +109,13 @@ Top reports from Open-Xchange program at HackerOne:
 107. [Buffer overread in parse_angle_addr called from message_address_parse_path ](https://hackerone.com/reports/836045) to Open-Xchange - 2 upvotes, $50
 108. [Multiple buffer over reads in mbox_from_parse](https://hackerone.com/reports/836036) to Open-Xchange - 2 upvotes, $50
 109. [Failed assert in `mail_index_transaction_lookup`](https://hackerone.com/reports/965782) to Open-Xchange - 2 upvotes, $50
-110. [SSL Certification Expired And TLS Vulnerability ](https://hackerone.com/reports/207404) to Open-Xchange - 2 upvotes, $0
-111. [Directory traversal allows execution of arbitrary binaries usign doveadm exec](https://hackerone.com/reports/883104) to Open-Xchange - 2 upvotes, $0
-112. [Referer in /servlet/TestServlet](https://hackerone.com/reports/342976) to Open-Xchange - 1 upvotes, $300
-113. [Cross-Site Scripting Vulnerability in dovecot.fi](https://hackerone.com/reports/135316) to Open-Xchange - 1 upvotes, $0
-114. [DIrectory Listing Found](https://hackerone.com/reports/138558) to Open-Xchange - 1 upvotes, $0
-115. [Apache version disclosure](https://hackerone.com/reports/139547) to Open-Xchange - 1 upvotes, $0
-116. [Outdated Apache Server in www.dovecot.fi is vulnerable to various attack.](https://hackerone.com/reports/139591) to Open-Xchange - 1 upvotes, $0
+110. [Outdated Apache Server in www.dovecot.fi is vulnerable to various attack.](https://hackerone.com/reports/139591) to Open-Xchange - 2 upvotes, $0
+111. [SSL Certification Expired And TLS Vulnerability ](https://hackerone.com/reports/207404) to Open-Xchange - 2 upvotes, $0
+112. [Directory traversal allows execution of arbitrary binaries usign doveadm exec](https://hackerone.com/reports/883104) to Open-Xchange - 2 upvotes, $0
+113. [Referer in /servlet/TestServlet](https://hackerone.com/reports/342976) to Open-Xchange - 1 upvotes, $300
+114. [Cross-Site Scripting Vulnerability in dovecot.fi](https://hackerone.com/reports/135316) to Open-Xchange - 1 upvotes, $0
+115. [DIrectory Listing Found](https://hackerone.com/reports/138558) to Open-Xchange - 1 upvotes, $0
+116. [Apache version disclosure](https://hackerone.com/reports/139547) to Open-Xchange - 1 upvotes, $0
 117. [Null dereference in mcht_relational_validate ext-relational-common.c:136](https://hackerone.com/reports/894446) to Open-Xchange - 0 upvotes, $50
 118. [Null dereference in `cmd_denotify_operation_execute`](https://hackerone.com/reports/965881) to Open-Xchange - 0 upvotes, $50
 119. [Assert failed in `edit_mail_istream_read`](https://hackerone.com/reports/965790) to Open-Xchange - 0 upvotes, $50

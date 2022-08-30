@@ -1,6 +1,6 @@
 Top reports from WordPress program at HackerOne:
 
-1. [Stored XSS Vulnerability](https://hackerone.com/reports/643908) to WordPress - 390 upvotes, $500
+1. [Stored XSS Vulnerability](https://hackerone.com/reports/643908) to WordPress - 391 upvotes, $500
 2. [Stored XSS in Private Message component (BuddyPress)](https://hackerone.com/reports/487081) to WordPress - 331 upvotes, $500
 3. [RCE as Admin defeats WordPress hardening and file permissions](https://hackerone.com/reports/436928) to WordPress - 158 upvotes, $800
 4. [Stored XSS on byddypress Plug-in via groups name](https://hackerone.com/reports/592316) to WordPress - 131 upvotes, $450

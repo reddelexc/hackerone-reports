@@ -9,13 +9,13 @@ Top reports from VK.com program at HackerOne:
 7. [Stealing Private Information in VK Android App through PlayerProxy Port Remotely](https://hackerone.com/reports/292761) to VK.com - 50 upvotes, $700
 8. [XSS Reflected in m.vk.com](https://hackerone.com/reports/1011463) to VK.com - 48 upvotes, $500
 9. [XSS в сюжетах.](https://hackerone.com/reports/1115763) to VK.com - 48 upvotes, $500
-10. [Уязвимость в приложении для Android](https://hackerone.com/reports/1343528) to VK.com - 46 upvotes, $3000
+10. [Уязвимость в приложении для Android](https://hackerone.com/reports/1343528) to VK.com - 47 upvotes, $3000
 11. [Вставляем свой код в мобильном приложении в разделе помощи сообществам](https://hackerone.com/reports/433904) to VK.com - 44 upvotes, $300
 12. [Clickjacking vkpay](https://hackerone.com/reports/374817) to VK.com - 44 upvotes, $0
 13. [Выполнение API-методов при открытии сообщества/приложения](https://hackerone.com/reports/1354452) to VK.com - 41 upvotes, $2000
-14. [Bypass User Interaction to initiate a VoIP call to Another User](https://hackerone.com/reports/386144) to VK.com - 41 upvotes, $500
-15. [Мини-уязвимость в обработке ссылок](https://hackerone.com/reports/726063) to VK.com - 41 upvotes, $500
-16. [[VK Android] Access to app protected components leads to arbitrary code execution](https://hackerone.com/reports/1095633) to VK.com - 39 upvotes, $1000
+14. [[VK Android] Access to app protected components leads to arbitrary code execution](https://hackerone.com/reports/1095633) to VK.com - 41 upvotes, $1000
+15. [Bypass User Interaction to initiate a VoIP call to Another User](https://hackerone.com/reports/386144) to VK.com - 41 upvotes, $500
+16. [Мини-уязвимость в обработке ссылок](https://hackerone.com/reports/726063) to VK.com - 41 upvotes, $500
 17. [XSS в upload.php](https://hackerone.com/reports/142135) to VK.com - 38 upvotes, $1500
 18. [Reflected Xss On https://vk.com/search](https://hackerone.com/reports/1454359) to VK.com - 37 upvotes, $500
 19. [Reflected xss в m.vk.com/chatjoin](https://hackerone.com/reports/316475) to VK.com - 36 upvotes, $500

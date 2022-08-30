@@ -2,9 +2,9 @@ Top reports from Concrete CMS program at HackerOne:
 
 1. [Remote Code Execution (Reverse Shell) - File Manager](https://hackerone.com/reports/768322) to Concrete CMS - 111 upvotes, $0
 2. [Time-base SQL Injection in Search Users](https://hackerone.com/reports/876800) to Concrete CMS - 56 upvotes, $0
-3. [Password Reset link hijacking via Host Header Poisoning ](https://hackerone.com/reports/226659) to Concrete CMS - 53 upvotes, $0
+3. [Password Reset link hijacking via Host Header Poisoning ](https://hackerone.com/reports/226659) to Concrete CMS - 55 upvotes, $0
 4. [SVG file that HTML Included is able to upload via File Manager](https://hackerone.com/reports/437863) to Concrete CMS - 26 upvotes, $0
-5. [Arbitrary File delete via PHAR deserialization](https://hackerone.com/reports/921288) to Concrete CMS - 25 upvotes, $0
+5. [Arbitrary File delete via PHAR deserialization](https://hackerone.com/reports/921288) to Concrete CMS - 26 upvotes, $0
 6. [XSS in select attribute options](https://hackerone.com/reports/753567) to Concrete CMS - 20 upvotes, $0
 7. [SSRF thru File Replace](https://hackerone.com/reports/243865) to Concrete CMS - 17 upvotes, $0
 8. [Reflected XSS vulnerability in Database name field on installation screen](https://hackerone.com/reports/289330) to Concrete CMS - 17 upvotes, $0
@@ -15,7 +15,7 @@ Top reports from Concrete CMS program at HackerOne:
 13. [Local File Inclusion path bypass](https://hackerone.com/reports/147570) to Concrete CMS - 13 upvotes, $0
 14. [Stored XSS in Headline TextControl element in Express forms [ concrete5 8.1.0 ]](https://hackerone.com/reports/230278) to Concrete CMS - 12 upvotes, $0
 15. [Unauthenticated reflected XSS in preview_as_user function](https://hackerone.com/reports/643442) to Concrete CMS - 12 upvotes, $0
-16. [SSRF bypass](https://hackerone.com/reports/863221) to Concrete CMS - 11 upvotes, $0
+16. [SSRF bypass](https://hackerone.com/reports/863221) to Concrete CMS - 12 upvotes, $0
 17. [Bypass auth.email-domains](https://hackerone.com/reports/4795) to Concrete CMS - 9 upvotes, $0
 18. [Local File Inclusion Vulnerability in Concrete5 version 5.7.3.1](https://hackerone.com/reports/59665) to Concrete CMS - 9 upvotes, $0
 19. [CSRF Full Account Takeover](https://hackerone.com/reports/152052) to Concrete CMS - 9 upvotes, $0
@@ -33,13 +33,13 @@ Top reports from Concrete CMS program at HackerOne:
 31. [Stored XSS in the file search filter](https://hackerone.com/reports/873584) to Concrete CMS - 7 upvotes, $0
 32. [Unauthenticated HTML Injection Stored - ContactUs form](https://hackerone.com/reports/768327) to Concrete CMS - 6 upvotes, $0
 33. [Fetching the update json scheme from concrete5 over HTTP leads to remote code execution](https://hackerone.com/reports/982130) to Concrete CMS - 6 upvotes, $0
-34. [Stored XSS on express entries](https://hackerone.com/reports/873474) to Concrete CMS - 5 upvotes, $0
-35. [FULL PATH DISCLOSUR ](https://hackerone.com/reports/7736) to Concrete CMS - 4 upvotes, $0
-36. [XSS in private message](https://hackerone.com/reports/4826) to Concrete CMS - 4 upvotes, $0
-37. [XSS on [/concrete/concrete/elements/dashboard/sitemap.php]](https://hackerone.com/reports/6853) to Concrete CMS - 4 upvotes, $0
-38. [Stored XSS in RSS Feeds Title (Concrete5 v8.1.0)](https://hackerone.com/reports/221380) to Concrete CMS - 4 upvotes, $0
-39. [Stored XSS in Conversations (both client and admin) when Active Conversation Editor is set to "Rich Text"](https://hackerone.com/reports/616770) to Concrete CMS - 4 upvotes, $0
-40. [XSS IN member List (Because of City Textbox)](https://hackerone.com/reports/4839) to Concrete CMS - 3 upvotes, $0
+34. [XSS in private message](https://hackerone.com/reports/4826) to Concrete CMS - 5 upvotes, $0
+35. [Stored XSS on express entries](https://hackerone.com/reports/873474) to Concrete CMS - 5 upvotes, $0
+36. [XSS on [/concrete/concrete/elements/dashboard/sitemap.php]](https://hackerone.com/reports/6853) to Concrete CMS - 4 upvotes, $0
+37. [Stored XSS in RSS Feeds Title (Concrete5 v8.1.0)](https://hackerone.com/reports/221380) to Concrete CMS - 4 upvotes, $0
+38. [Stored XSS in Conversations (both client and admin) when Active Conversation Editor is set to "Rich Text"](https://hackerone.com/reports/616770) to Concrete CMS - 4 upvotes, $0
+39. [XSS IN member List (Because of City Textbox)](https://hackerone.com/reports/4839) to Concrete CMS - 3 upvotes, $0
+40. [FULL PATH DISCLOSUR ](https://hackerone.com/reports/7736) to Concrete CMS - 3 upvotes, $0
 41. [Phar Deserialization Vulnerability via Logging Settings](https://hackerone.com/reports/1063039) to Concrete CMS - 3 upvotes, $0
 42. [/index.php/dashboard/sitemap/explore/ Cross-site scripting](https://hackerone.com/reports/4808) to Concrete CMS - 2 upvotes, $0
 43. [stored XSS in concrete5 5.7.2.1](https://hackerone.com/reports/38890) to Concrete CMS - 2 upvotes, $0

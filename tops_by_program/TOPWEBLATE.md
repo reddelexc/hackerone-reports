@@ -92,27 +92,27 @@ Top reports from Weblate program at HackerOne:
 90. [Running 2 accounts with a single email #3](https://hackerone.com/reports/245304) to Weblate - 4 upvotes, $0
 91. [ Account Restore / Reactivating an old email via old reset link](https://hackerone.com/reports/275303) to Weblate - 4 upvotes, $0
 92. [Audit log validation](https://hackerone.com/reports/296632) to Weblate - 4 upvotes, $0
-93. [Web server is vulnerable to Beast Attack](https://hackerone.com/reports/223350) to Weblate - 3 upvotes, $0
-94. [No Password Length Restriction leads to Denial of Service](https://hackerone.com/reports/223854) to Weblate - 3 upvotes, $0
-95. [Content Spoofing](https://hackerone.com/reports/223630) to Weblate - 3 upvotes, $0
-96. [Open Redirect via "next" parameter in third-party authentication](https://hackerone.com/reports/223326) to Weblate - 3 upvotes, $0
-97. [Abuse of Api that causes spamming users and possible DOS due to missing rate limit on contact form](https://hackerone.com/reports/223542) to Weblate - 3 upvotes, $0
-98. [Already Registered Email Disclosure](https://hackerone.com/reports/223343) to Weblate - 3 upvotes, $0
-99. [User Enumeration when adding email to account](https://hackerone.com/reports/223531) to Weblate - 3 upvotes, $0
-100. [Self XSS at translation page through Editor Link at demo.weblate.org](https://hackerone.com/reports/223692) to Weblate - 3 upvotes, $0
-101. [Setting a password with a single character](https://hackerone.com/reports/223851) to Weblate - 3 upvotes, $0
-102. [Null Password - Setting a new password doesn't check for empty spaces](https://hackerone.com/reports/223618) to Weblate - 3 upvotes, $0
-103. [API Does Not Apply Access Controls to Translations](https://hackerone.com/reports/232994) to Weblate - 3 upvotes, $0
-104. [CSRF - Changing the full name / adding a secondary email identity of an account via a GET request](https://hackerone.com/reports/223367) to Weblate - 3 upvotes, $0
-105. [Takeover of an account via reset password options after removing the account](https://hackerone.com/reports/230076) to Weblate - 3 upvotes, $0
-106. [7BO: Binary Option Robot URL should be HTTPS](https://hackerone.com/reports/225722) to Weblate - 3 upvotes, $0
-107. [Email spoofing at weblate.org](https://hackerone.com/reports/224186) to Weblate - 3 upvotes, $0
-108. [Existing sessions valid after removing third party auth](https://hackerone.com/reports/223475) to Weblate - 3 upvotes, $0
-109. [Adding Email lacks Password validation](https://hackerone.com/reports/229869) to Weblate - 3 upvotes, $0
-110. [Error Message When Changing Username](https://hackerone.com/reports/243664) to Weblate - 3 upvotes, $0
-111. [[debian.weblate.org]-Missing SPF Record](https://hackerone.com/reports/245518) to Weblate - 3 upvotes, $0
-112. [Add another email address without verification](https://hackerone.com/reports/265987) to Weblate - 3 upvotes, $0
-113. [Open port leads to information disclosure](https://hackerone.com/reports/223421) to Weblate - 3 upvotes, $0
+93. [Open port leads to information disclosure](https://hackerone.com/reports/223421) to Weblate - 4 upvotes, $0
+94. [Web server is vulnerable to Beast Attack](https://hackerone.com/reports/223350) to Weblate - 3 upvotes, $0
+95. [No Password Length Restriction leads to Denial of Service](https://hackerone.com/reports/223854) to Weblate - 3 upvotes, $0
+96. [Content Spoofing](https://hackerone.com/reports/223630) to Weblate - 3 upvotes, $0
+97. [Open Redirect via "next" parameter in third-party authentication](https://hackerone.com/reports/223326) to Weblate - 3 upvotes, $0
+98. [Abuse of Api that causes spamming users and possible DOS due to missing rate limit on contact form](https://hackerone.com/reports/223542) to Weblate - 3 upvotes, $0
+99. [Already Registered Email Disclosure](https://hackerone.com/reports/223343) to Weblate - 3 upvotes, $0
+100. [User Enumeration when adding email to account](https://hackerone.com/reports/223531) to Weblate - 3 upvotes, $0
+101. [Self XSS at translation page through Editor Link at demo.weblate.org](https://hackerone.com/reports/223692) to Weblate - 3 upvotes, $0
+102. [Setting a password with a single character](https://hackerone.com/reports/223851) to Weblate - 3 upvotes, $0
+103. [Null Password - Setting a new password doesn't check for empty spaces](https://hackerone.com/reports/223618) to Weblate - 3 upvotes, $0
+104. [API Does Not Apply Access Controls to Translations](https://hackerone.com/reports/232994) to Weblate - 3 upvotes, $0
+105. [CSRF - Changing the full name / adding a secondary email identity of an account via a GET request](https://hackerone.com/reports/223367) to Weblate - 3 upvotes, $0
+106. [Takeover of an account via reset password options after removing the account](https://hackerone.com/reports/230076) to Weblate - 3 upvotes, $0
+107. [7BO: Binary Option Robot URL should be HTTPS](https://hackerone.com/reports/225722) to Weblate - 3 upvotes, $0
+108. [Email spoofing at weblate.org](https://hackerone.com/reports/224186) to Weblate - 3 upvotes, $0
+109. [Existing sessions valid after removing third party auth](https://hackerone.com/reports/223475) to Weblate - 3 upvotes, $0
+110. [Adding Email lacks Password validation](https://hackerone.com/reports/229869) to Weblate - 3 upvotes, $0
+111. [Error Message When Changing Username](https://hackerone.com/reports/243664) to Weblate - 3 upvotes, $0
+112. [[debian.weblate.org]-Missing SPF Record](https://hackerone.com/reports/245518) to Weblate - 3 upvotes, $0
+113. [Add another email address without verification](https://hackerone.com/reports/265987) to Weblate - 3 upvotes, $0
 114. [Improper validation of unicode characters#2](https://hackerone.com/reports/279945) to Weblate - 3 upvotes, $0
 115. [Improper access control when an added email address is deleted from authentication](https://hackerone.com/reports/223434) to Weblate - 2 upvotes, $0
 116. [full path disclosure at hosted.weblate.org/admin/accounts/profile/ ](https://hackerone.com/reports/225495) to Weblate - 2 upvotes, $0
