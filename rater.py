@@ -106,12 +106,31 @@ def main():
     top_by_bug_type(reports, 'SSRF', 'SSRF', ['ssrf', 'server side request forgery'])
     top_by_bug_type(reports, 'RACECONDITION', 'Race Condition', ['race condition'])
     top_by_bug_type(reports, 'SUBDOMAINTAKEOVER', 'Subdomain Takeover',
-                    ['domain takeover', 'domain takeover', 'domain take over'])
+        ['domain takeover', 'domain takeover', 'domain take over'])
     top_by_bug_type(reports, 'OPENREDIRECT', 'Open Redirect', ['open redirect'])
     top_by_bug_type(reports, 'CLICKJACKING', 'Clickjacking', ['clickjacking', 'click jacking', 'clicjacking'])
     top_by_bug_type(reports, 'DOS', 'DoS', ['dos', 'denial of service', 'service denial'])
     top_by_bug_type(reports, 'OAUTH', 'OAuth', ['oauth'])
     top_by_bug_type(reports, 'ACCOUNTTAKEOVER', 'Account Takeover', ['account takeover', 'ato'])
+    top_by_bug_type(reports, 'BUSINESSLOGIC', 'Business Logic',
+        ['functional', 'logic', 'function', 'functionality', 'manipulating response', 'response manipulation', 'manipulation'])
+    top_by_bug_type(reports, 'API', 'REST API', ['api', 'rest api', 'restapi'])
+    top_by_bug_type(reports, 'GRAPHQL', 'GRAPHQL', ['graphql', 'graphql api', 'api graphql'])
+    top_by_bug_type(reports, 'INFODISCLOSURE', 'Information Disclosure',
+        ['information disclosure', 'infos disclosure', 'user information', 'pii'])
+    top_by_bug_type(reports, 'WEBCACHE', 'Web Cache', ['web cache poisoning', 'web cache', 'web cache deception'])
+    top_by_bug_type(reports, 'SSTI', 'SSTI', ['ssti', 'server side template injection'])
+    top_by_bug_type(reports, 'UPLOAD', 'Upload', ['upload', 'unrestricted file upload', 'file upload'])
+    top_by_bug_type(reports, 'REQUESTSMUGGLING', 'Request Smuggling', ['request smuggling', 'http request smuggling'])
+    top_by_bug_type(reports, 'OPENID', 'OpenID', ['openid', 'saml', 'sso'])
+    top_by_bug_type(reports, 'MOBILE', 'Mobile', ['mobile', 'android', 'ios', 'apk'])
+    top_by_bug_type(reports, 'FILEREADING', 'File Reading',
+        ['lfi', 'rfi', 'file reading', 'path', 'traversal', 'file inclusion'])
+    top_by_bug_type(reports, 'AUTHORIZATION', 'Authorization Bypass',
+        ['authorization bypass', 'authorization', 'able to access', 'access control', 'ability',
+        'privilege', 'escalation', 'admin', 'unauthorized', 'permission'])
+    top_by_bug_type(reports, 'AUTH', 'Authentication', ['authentication bypass', 'authentication', 'auth'])
+    top_by_bug_type(reports, 'MFA', 'MFA', ['mfa', '2fa', 'two factor', 'two_factor', 'multi factor', 'multi_factor'])
 
     programs = {}
     for report in reports:
