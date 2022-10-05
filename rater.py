@@ -112,6 +112,21 @@ def main():
     top_by_bug_type(reports, 'DOS', 'DoS', ['dos', 'denial of service', 'service denial'])
     top_by_bug_type(reports, 'OAUTH', 'OAuth', ['oauth'])
     top_by_bug_type(reports, 'ACCOUNTTAKEOVER', 'Account Takeover', ['account takeover', 'ato'])
+    top_by_bug_type(reports, 'Business', 'business', ['Functional','logic','function','functionality','manipulating response','response manipulation','manipulation'])
+    top_by_bug_type(reports, 'API', 'REST API', ['api', 'rest api','restapi'])
+    top_by_bug_type(reports, 'GRAPHQL', 'GRAPHQL', ['GRAPHQL API','graphql' ,'API GRAPHQL'])
+    top_by_bug_type(reports, 'Info Dsiclosure', 'Info Dsiclosure', ['information disclosure','infos disclosure' ,'user information','user informations','PII','Information Disclosure'])
+    top_by_bug_type(reports, 'Web Cache', 'Web Cache', ['Web Cache Poisoning','Web Cache','Web Cache Deception'])
+    top_by_bug_type(reports, 'SSTI', 'SSTI', ['SSTI','server side tempalte injection','ssti'])
+    top_by_bug_type(reports, 'UPLOAD', 'UPLOAD', ['Upload','Unrestricted File Upload','File Upload'])
+    top_by_bug_type(reports, 'Request Smuggling', 'Request Smuggling', ['Request Smuggling','HTTP Request Smuggling','http request smuggling'])
+    top_by_bug_type(reports, 'OpenID', 'OpenID', ['OpenID','SAML','openid','SSO','saml'])
+    top_by_bug_type(reports, 'Mobile', 'Mobile', ['Mobile','Android','android','mobile','apk'])
+    top_by_bug_type(reports, 'File Reading', 'Files Reading', ['LFI','RFI','lfi','file reading','path','traversal','file inclusion'])
+    top_by_bug_type(reports, 'Authorization_Bypass', 'Authorization Bypass', ['Authorization Bypass','authorization','able to access','Access Control','ability','Privilege escalations','Privilege',
+        'escalations','escalation','admin','Unauthorized','permissions','permission','access controls'])
+    top_by_bug_type(reports, 'Authentication_Issues', 'Authentication', ['Authentication Bypass','Authentication','auth'])
+    top_by_bug_type(reports, 'MFA_2FA', 'MFA_2FA', ['MFA','2FA','two factor','two_factor','multi factor','multi_factor'])
 
     programs = {}
     for report in reports:
