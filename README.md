@@ -41,7 +41,7 @@ Tops by bug type.
 - [Top Mobile reports](tops_by_bug_type/TOPMOBILE.md)
 - [Top File Reading reports](tops_by_bug_type/TOPFILEREADING.md)
 - [Top Authorization Bypass reports](tops_by_bug_type/TOPAUTHORIZATION.md)
-- [Top Authentication Bypass reports](tops_by_bug_type/TOPAUTHENTICATION.md)
+- [Top Authentication Bypass reports](tops_by_bug_type/TOPAUTH.md)
 - [Top MFA reports](tops_by_bug_type/TOPMFA.md)
 
 Tops by program.
