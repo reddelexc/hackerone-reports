@@ -16,8 +16,8 @@ Top reports from GitHub Security Lab program at HackerOne:
 14. [Python : Add query to detect Server Side Template Injection](https://hackerone.com/reports/944359) to GitHub Security Lab - 29 upvotes, $2300
 15. [CodeQL query to detect JNDI injections](https://hackerone.com/reports/892465) to GitHub Security Lab - 28 upvotes, $2300
 16. [Java: Unsafe deserialization with Jackson](https://hackerone.com/reports/1287573) to GitHub Security Lab - 26 upvotes, $4500
-17. [[porcupiney.hairs]: [Python] Add Flask Path injection sinks](https://hackerone.com/reports/1413541) to GitHub Security Lab - 24 upvotes, $2300
-18. [[porcupiney.hairs]: [Python] Add Flask Path injection sinks](https://hackerone.com/reports/1413541) to GitHub Security Lab - 24 upvotes, $2300
+17. [[porcupiney.hairs]: [Python] Add Flask Path injection sinks](https://hackerone.com/reports/1413541) to GitHub Security Lab - 26 upvotes, $2300
+18. [[porcupiney.hairs]: [Python] Add Flask Path injection sinks](https://hackerone.com/reports/1413541) to GitHub Security Lab - 26 upvotes, $2300
 19. [CPP: Out of order Linux permission dropping without checking return codes](https://hackerone.com/reports/845729) to GitHub Security Lab - 22 upvotes, $1800
 20. [Java: Static initialization vector](https://hackerone.com/reports/1329260) to GitHub Security Lab - 22 upvotes, $1800
 21. [Java: Query for detecting JEXL injections](https://hackerone.com/reports/1118508) to GitHub Security Lab - 20 upvotes, $4500

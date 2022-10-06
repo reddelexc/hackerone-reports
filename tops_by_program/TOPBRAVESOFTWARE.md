@@ -56,10 +56,10 @@ Top reports from Brave Software program at HackerOne:
 54. [Command Execution because of extension handling](https://hackerone.com/reports/188078) to Brave Software - 8 upvotes, $0
 55. [There is vulnebility Click Here TO fix](https://hackerone.com/reports/319036) to Brave Software - 8 upvotes, $0
 56. [URI Obfuscation](https://hackerone.com/reports/175529) to Brave Software - 7 upvotes, $150
-57. [[iOS] URL can be replaceState by blob URL in iOS Brave](https://hackerone.com/reports/215044) to Brave Software - 6 upvotes, $100
-58. [OS username disclosure](https://hackerone.com/reports/258585) to Brave Software - 6 upvotes, $100
-59. [Brave Browser potentially logs the last time a Tor window was used](https://hackerone.com/reports/1024668) to Brave Software - 6 upvotes, $100
-60. [2 Directory Listing on ledger.brave.com & vault-staging.brave.com](https://hackerone.com/reports/175320) to Brave Software - 6 upvotes, $50
+57. [2 Directory Listing on ledger.brave.com & vault-staging.brave.com](https://hackerone.com/reports/175320) to Brave Software - 7 upvotes, $50
+58. [[iOS] URL can be replaceState by blob URL in iOS Brave](https://hackerone.com/reports/215044) to Brave Software - 6 upvotes, $100
+59. [OS username disclosure](https://hackerone.com/reports/258585) to Brave Software - 6 upvotes, $100
+60. [Brave Browser potentially logs the last time a Tor window was used](https://hackerone.com/reports/1024668) to Brave Software - 6 upvotes, $100
 61. [[DOS] denial of service using code snippet on brave browser](https://hackerone.com/reports/181558) to Brave Software - 6 upvotes, $25
 62. [Subdomain Takeover of Brave.com](https://hackerone.com/reports/175397) to Brave Software - 6 upvotes, $0
 63. [Sending arbitrary IPC messages via overriding Array.prototype.push](https://hackerone.com/reports/188561) to Brave Software - 6 upvotes, $0

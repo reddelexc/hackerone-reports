@@ -1,6 +1,6 @@
 Top reports from WordPress program at HackerOne:
 
-1. [Stored XSS Vulnerability](https://hackerone.com/reports/643908) to WordPress - 391 upvotes, $500
+1. [Stored XSS Vulnerability](https://hackerone.com/reports/643908) to WordPress - 393 upvotes, $500
 2. [Stored XSS in Private Message component (BuddyPress)](https://hackerone.com/reports/487081) to WordPress - 331 upvotes, $500
 3. [RCE as Admin defeats WordPress hardening and file permissions](https://hackerone.com/reports/436928) to WordPress - 158 upvotes, $800
 4. [Stored XSS on byddypress Plug-in via groups name](https://hackerone.com/reports/592316) to WordPress - 131 upvotes, $450
@@ -8,7 +8,7 @@ Top reports from WordPress program at HackerOne:
 6. [Reflected XSS on https://make.wordpress.org via 'channel' parameter](https://hackerone.com/reports/659419) to WordPress - 95 upvotes, $387
 7. [CSRF to HTML Injection in Comments](https://hackerone.com/reports/428019) to WordPress - 94 upvotes, $950
 8. [Clickjacking on donation page](https://hackerone.com/reports/921709) to WordPress - 88 upvotes, $50
-9. [Privilege Escalation via REST API to Administrator leads to RCE](https://hackerone.com/reports/1107282) to WordPress - 85 upvotes, $1125
+9. [Privilege Escalation via REST API to Administrator leads to RCE](https://hackerone.com/reports/1107282) to WordPress - 86 upvotes, $1125
 10. [Potential unprivileged Stored XSS through wp_targeted_link_rel](https://hackerone.com/reports/509930) to WordPress - 80 upvotes, $650
 11. [Mssing Authorization on Private Message replies (BuddyPress)](https://hackerone.com/reports/490782) to WordPress - 63 upvotes, $375
 12. [plugins.trac.wordpress.org likely vulnerable to Cross Site Tracing (xst), TRACE HTTP method should be disabled](https://hackerone.com/reports/222692) to WordPress - 55 upvotes, $150

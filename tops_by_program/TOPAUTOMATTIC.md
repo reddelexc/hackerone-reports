@@ -1,20 +1,20 @@
 Top reports from Automattic program at HackerOne:
 
-1. [Denial of service to WP-JSON API by cache poisoning the CORS allow origin header](https://hackerone.com/reports/591302) to Automattic - 385 upvotes, $550
+1. [Denial of service to WP-JSON API by cache poisoning the CORS allow origin header](https://hackerone.com/reports/591302) to Automattic - 386 upvotes, $550
 2. [Stored XSS in wordpress.com](https://hackerone.com/reports/733248) to Automattic - 346 upvotes, $650
 3. [IDOR when editing users leads to Account Takeover without User Interaction at CrowdSignal](https://hackerone.com/reports/915114) to Automattic - 178 upvotes, $650
-4. [Sql injection on docs.atavist.com](https://hackerone.com/reports/1039315) to Automattic - 154 upvotes, $200
+4. [Sql injection on docs.atavist.com](https://hackerone.com/reports/1039315) to Automattic - 155 upvotes, $200
 5. [IDOR leads to Edit Anyone's Blogs / Websites](https://hackerone.com/reports/974222) to Automattic - 141 upvotes, $200
 6. [Permanent DoS with one click.](https://hackerone.com/reports/975827) to Automattic - 123 upvotes, $250
 7. [SQL Injection Union Based](https://hackerone.com/reports/1046084) to Automattic - 121 upvotes, $350
 8. [[intensedebate.com] SQL Injection Time Based On /js/commentAction/](https://hackerone.com/reports/1044698) to Automattic - 120 upvotes, $350
 9. [Stored XSS vulnerability in comments on *.wordpress.com](https://hackerone.com/reports/707720) to Automattic - 114 upvotes, $350
 10. [Email Verification bypass on signup](https://hackerone.com/reports/1040047) to Automattic - 112 upvotes, $300
-11. [Stored XSS on app.crowdsignal.com + your-subdomain.survey.fm via Embed Media](https://hackerone.com/reports/920005) to Automattic - 92 upvotes, $100
+11. [Stored XSS on app.crowdsignal.com + your-subdomain.survey.fm via Embed Media](https://hackerone.com/reports/920005) to Automattic - 93 upvotes, $100
 12. [DOM-Based XSS in tumblr.com](https://hackerone.com/reports/882546) to Automattic - 90 upvotes, $350
 13. [XSS in Email Input [intensedebate.com]](https://hackerone.com/reports/1037714) to Automattic - 88 upvotes, $100
 14. [Authenticated Code Execution through Phar deserialization in CSV Importer as Shop manager in WooCommerce](https://hackerone.com/reports/403083) to Automattic - 84 upvotes, $350
-15. [SQL Injection  intensedebate.com](https://hackerone.com/reports/1069561) to Automattic - 82 upvotes, $350
+15. [SQL Injection  intensedebate.com](https://hackerone.com/reports/1069561) to Automattic - 84 upvotes, $350
 16. [IDOR when moving contents at CrowdSignal](https://hackerone.com/reports/915127) to Automattic - 76 upvotes, $550
 17. [Stored XSS on https://app.crowdsignal.com/surveys/[Survey-Id]/question - Bypass](https://hackerone.com/reports/974271) to Automattic - 74 upvotes, $150
 18. [Reflected XSS in https://www.intensedebate.com/js/getCommentLink.php](https://hackerone.com/reports/1043804) to Automattic - 73 upvotes, $250
@@ -31,20 +31,20 @@ Top reports from Automattic program at HackerOne:
 29. [Stored XSS in Intense Debate comment system](https://hackerone.com/reports/1039750) to Automattic - 51 upvotes, $200
 30. [Wordpress VIP leaks email of the test a/c](https://hackerone.com/reports/540301) to Automattic - 51 upvotes, $100
 31. [WordPress SOME bug in plupload.flash.swf leading to RCE](https://hackerone.com/reports/134738) to Automattic - 49 upvotes, $1337
-32. [Able to comment/view in others support ticket at https://en.instagram-brand.com/requests/dashboard](https://hackerone.com/reports/1007988) to Automattic - 49 upvotes, $200
-33. [Captcha bypass for the most important function - At en.instagram-brand.com](https://hackerone.com/reports/206653) to Automattic - 48 upvotes, $150
-34. [Stored XSS in wordpress.com](https://hackerone.com/reports/1054526) to Automattic - 47 upvotes, $350
-35. [[intensedebate.com] No Rate Limit On The report Functionality Lead To Delete Any Comment When it is enabled](https://hackerone.com/reports/1051734) to Automattic - 43 upvotes, $200
-36. [[intensedebate.com] XSS Reflected POST-Based ](https://hackerone.com/reports/1040533) to Automattic - 42 upvotes, $100
-37. [[IDOR] Attacker user can Approve/Decline AFK on the behalf of other users](https://hackerone.com/reports/725569) to Automattic - 41 upvotes, $100
-38. [WooCommerce: Persistent XSS via customer address (state/county)](https://hackerone.com/reports/530499) to Automattic - 40 upvotes, $350
-39. [Stored XSS in Jetpack's Simple Payment Module by Contributors / Authors](https://hackerone.com/reports/402753) to Automattic - 40 upvotes, $350
-40. [Unauthenticated Private Messages DIsclosure via wordpress Rest API](https://hackerone.com/reports/1590237) to Automattic - 38 upvotes, $350
-41. [cloudup Subdomain Takeover That resolves to Desk.com ( CNAME cloudup.desk.com ) ](https://hackerone.com/reports/201796) to Automattic - 38 upvotes, $250
-42. [DOM based XSS in the WooCommerce plugin](https://hackerone.com/reports/507139) to Automattic - 37 upvotes, $275
-43. [XSS and HTML Injection on the pressable.com search box](https://hackerone.com/reports/1537149) to Automattic - 33 upvotes, $250
-44. [Unauthenticated RCE in Vaultpress](https://hackerone.com/reports/236552) to Automattic - 31 upvotes, $500
-45. [Sensei LMS IDOR to send message](https://hackerone.com/reports/1592596) to Automattic - 31 upvotes, $100
+32. [XSS and HTML Injection on the pressable.com search box](https://hackerone.com/reports/1537149) to Automattic - 49 upvotes, $250
+33. [Able to comment/view in others support ticket at https://en.instagram-brand.com/requests/dashboard](https://hackerone.com/reports/1007988) to Automattic - 49 upvotes, $200
+34. [Captcha bypass for the most important function - At en.instagram-brand.com](https://hackerone.com/reports/206653) to Automattic - 48 upvotes, $150
+35. [Stored XSS in wordpress.com](https://hackerone.com/reports/1054526) to Automattic - 47 upvotes, $350
+36. [[intensedebate.com] No Rate Limit On The report Functionality Lead To Delete Any Comment When it is enabled](https://hackerone.com/reports/1051734) to Automattic - 43 upvotes, $200
+37. [[intensedebate.com] XSS Reflected POST-Based ](https://hackerone.com/reports/1040533) to Automattic - 42 upvotes, $100
+38. [[IDOR] Attacker user can Approve/Decline AFK on the behalf of other users](https://hackerone.com/reports/725569) to Automattic - 41 upvotes, $100
+39. [WooCommerce: Persistent XSS via customer address (state/county)](https://hackerone.com/reports/530499) to Automattic - 40 upvotes, $350
+40. [Stored XSS in Jetpack's Simple Payment Module by Contributors / Authors](https://hackerone.com/reports/402753) to Automattic - 40 upvotes, $350
+41. [Unauthenticated Private Messages DIsclosure via wordpress Rest API](https://hackerone.com/reports/1590237) to Automattic - 40 upvotes, $350
+42. [cloudup Subdomain Takeover That resolves to Desk.com ( CNAME cloudup.desk.com ) ](https://hackerone.com/reports/201796) to Automattic - 38 upvotes, $250
+43. [DOM based XSS in the WooCommerce plugin](https://hackerone.com/reports/507139) to Automattic - 37 upvotes, $275
+44. [Sensei LMS IDOR to send message](https://hackerone.com/reports/1592596) to Automattic - 32 upvotes, $100
+45. [Unauthenticated RCE in Vaultpress](https://hackerone.com/reports/236552) to Automattic - 31 upvotes, $500
 46. [[FG-VD-19-022] Wordpress WooCommerce Cross-Site Scripting Vulnerability Notification](https://hackerone.com/reports/495583) to Automattic - 30 upvotes, $200
 47. [Site-wide CSRF at Atavist ](https://hackerone.com/reports/951292) to Automattic - 30 upvotes, $200
 48. [[api.tumblr.com] Exploiting clickjacking vulnerability to trigger self DOM-based XSS](https://hackerone.com/reports/953579) to Automattic - 30 upvotes, $150

@@ -17,8 +17,8 @@ Top reports from h1-ctf program at HackerOne:
 15. [[h1-415 2020] h1ctf{y3s_1m_c0sm1c_n0w}](https://hackerone.com/reports/781253) to h1-ctf - 17 upvotes, $0
 16. [[H1-2006 2020] Flag for H1-CTF](https://hackerone.com/reports/888141) to h1-ctf - 17 upvotes, $0
 17. [[H1-2006 2020] [Multiple Vulnerability] CTF Writeup - @abdilahrf_](https://hackerone.com/reports/888484) to h1-ctf - 16 upvotes, $0
-18. [Saving Christmas from Grinchy Gods](https://hackerone.com/reports/1434017) to h1-ctf - 14 upvotes, $1000
-19. [100K CTF's Writeup](https://hackerone.com/reports/1216591) to h1-ctf - 14 upvotes, $100
+18. [100K CTF's Writeup](https://hackerone.com/reports/1216591) to h1-ctf - 15 upvotes, $100
+19. [Saving Christmas from Grinchy Gods](https://hackerone.com/reports/1434017) to h1-ctf - 14 upvotes, $1000
 20. [HackerOne’s 100K CTF Writeup](https://hackerone.com/reports/1218708) to h1-ctf - 14 upvotes, $100
 21. [[h1-415 2020] H1-415 CTF Writeup by W--](https://hackerone.com/reports/780285) to h1-ctf - 14 upvotes, $0
 22. [CCC H1 June 2021 CTF Writeup](https://hackerone.com/reports/1217114) to h1-ctf - 14 upvotes, $0

@@ -2,7 +2,7 @@ Top reports from Ubiquiti Inc. program at HackerOne:
 
 1. [Privilege Escalation From user to SYSTEM via unauthenticated command execution ](https://hackerone.com/reports/544928) to Ubiquiti Inc. - 534 upvotes, $16109
 2. [Privilege-0 to Root Privilege Escalation on EdgeSwitch](https://hackerone.com/reports/511025) to Ubiquiti Inc. - 81 upvotes, $1604
-3. [Public Jenkins instance with /script enabled](https://hackerone.com/reports/403402) to Ubiquiti Inc. - 69 upvotes, $2500
+3. [Public Jenkins instance with /script enabled](https://hackerone.com/reports/403402) to Ubiquiti Inc. - 70 upvotes, $2500
 4. [Remote Code Execution at http://tw.corp.ubnt.com](https://hackerone.com/reports/269066) to Ubiquiti Inc. - 61 upvotes, $5000
 5. [Subdomain takeover on partners.ubnt.com due to non-used CloudFront DNS entry](https://hackerone.com/reports/145224) to Ubiquiti Inc. - 56 upvotes, $1000
 6. [Login as root without password on EdgeSwitchX](https://hackerone.com/reports/512958) to Ubiquiti Inc. - 54 upvotes, $100
@@ -10,10 +10,10 @@ Top reports from Ubiquiti Inc. program at HackerOne:
 8. [CORS Misconfiguration leading to Private Information Disclosure](https://hackerone.com/reports/430249) to Ubiquiti Inc. - 50 upvotes, $500
 9. [Authentication bypass on sso.ubnt.com via subdomain takeover of ping.ubnt.com](https://hackerone.com/reports/172137) to Ubiquiti Inc. - 45 upvotes, $500
 10. [Read-Only user can execute arbitraty shell commands on AirOS](https://hackerone.com/reports/139398) to Ubiquiti Inc. - 43 upvotes, $2750
-11. [Unrestricted File System Access via Twig Template Injection on dev-ucrm-billing-demo.ubnt.com](https://hackerone.com/reports/301406) to Ubiquiti Inc. - 40 upvotes, $2000
+11. [Unrestricted File System Access via Twig Template Injection on dev-ucrm-billing-demo.ubnt.com](https://hackerone.com/reports/301406) to Ubiquiti Inc. - 41 upvotes, $2000
 12. [View Only to Root Privilege Escalation on UniFi Protect](https://hackerone.com/reports/825764) to Ubiquiti Inc. - 38 upvotes, $11689
-13. [Firmware download/install vulnerable to CSRF](https://hackerone.com/reports/323852) to Ubiquiti Inc. - 32 upvotes, $1100
-14. [sqli](https://hackerone.com/reports/207695) to Ubiquiti Inc. - 32 upvotes, $1000
+13. [sqli](https://hackerone.com/reports/207695) to Ubiquiti Inc. - 33 upvotes, $1000
+14. [Firmware download/install vulnerable to CSRF](https://hackerone.com/reports/323852) to Ubiquiti Inc. - 32 upvotes, $1100
 15. [[dev-nightly.ubnt.com] Local File Reading](https://hackerone.com/reports/260420) to Ubiquiti Inc. - 31 upvotes, $100
 16. [[EdgeSwitch] Web GUI command injection as root with Privilege-1 and Privilege-15 users](https://hackerone.com/reports/197958) to Ubiquiti Inc. - 25 upvotes, $2000
 17. [Source code disclosure on https://107.23.69.180](https://hackerone.com/reports/136891) to Ubiquiti Inc. - 25 upvotes, $1000

@@ -2,9 +2,9 @@ Top reports from Twitter program at HackerOne:
 
 1. [Potential pre-auth RCE on Twitter VPN](https://hackerone.com/reports/591295) to Twitter - 1155 upvotes, $20160
 2. [Bypassing Digits origin validation which leads to account takeover](https://hackerone.com/reports/129873) to Twitter - 587 upvotes, $5040
-3. [CRLF injection](https://hackerone.com/reports/446271) to Twitter - 419 upvotes, $2940
+3. [CRLF injection](https://hackerone.com/reports/446271) to Twitter - 420 upvotes, $2940
 4. [Read-only application can publish/delete fleets](https://hackerone.com/reports/1032468) to Twitter - 394 upvotes, $7700
-5. [Blind XSS on Twitter's internal Big Data panel at █████████████](https://hackerone.com/reports/1207040) to Twitter - 336 upvotes, $5040
+5. [Blind XSS on Twitter's internal Big Data panel at █████████████](https://hackerone.com/reports/1207040) to Twitter - 338 upvotes, $5040
 6. [Private list members disclosure via GraphQL](https://hackerone.com/reports/885539) to Twitter - 324 upvotes, $2940
 7. [[Urgent] Invalidating OAuth2 Bearer token makes TweetDeck unavailable](https://hackerone.com/reports/210779) to Twitter - 319 upvotes, $5040
 8. [Insufficient OAuth callback validation which leads to Periscope account takeover](https://hackerone.com/reports/110293) to Twitter - 259 upvotes, $5040
@@ -14,12 +14,12 @@ Top reports from Twitter program at HackerOne:
 12. [XSS via Direct Message deeplinks](https://hackerone.com/reports/341908) to Twitter - 226 upvotes, $2940
 13. [XSS and Open Redirect on MoPub Login](https://hackerone.com/reports/683298) to Twitter - 225 upvotes, $1540
 14. [ Github Account hijack through broken link in developer.twitter.com](https://hackerone.com/reports/1031321) to Twitter - 208 upvotes, $280
-15. [Periscope android app deeplink leads to CSRF in follow action](https://hackerone.com/reports/583987) to Twitter - 204 upvotes, $1540
-16. [Stored XSS on reports.](https://hackerone.com/reports/485748) to Twitter - 204 upvotes, $700
+15. [Stored XSS on reports.](https://hackerone.com/reports/485748) to Twitter - 205 upvotes, $700
+16. [Periscope android app deeplink leads to CSRF in follow action](https://hackerone.com/reports/583987) to Twitter - 204 upvotes, $1540
 17. [XSS and cache poisoning via upload.twitter.com on ton.twitter.com](https://hackerone.com/reports/84601) to Twitter - 192 upvotes, $2520
 18. [Account Takeover in Periscope TV](https://hackerone.com/reports/317476) to Twitter - 191 upvotes, $7560
 19. [Verify any unused email address](https://hackerone.com/reports/574962) to Twitter - 188 upvotes, $560
-20. [Discoverability by phone number/email restriction bypass](https://hackerone.com/reports/1439026) to Twitter - 176 upvotes, $5040
+20. [Discoverability by phone number/email restriction bypass](https://hackerone.com/reports/1439026) to Twitter - 178 upvotes, $5040
 21. [protected Tweet settings overwritten by other settings](https://hackerone.com/reports/664038) to Twitter - 174 upvotes, $1540
 22. [Takeover of Twitter-owned domain at mobileapplinking.com](https://hackerone.com/reports/321699) to Twitter - 157 upvotes, $0
 23. [Twitter ID exposure via error-based side-channel attack](https://hackerone.com/reports/505424) to Twitter - 147 upvotes, $1470
@@ -29,7 +29,7 @@ Top reports from Twitter program at HackerOne:
 27. [Highly wormable clickjacking in player card](https://hackerone.com/reports/85624) to Twitter - 128 upvotes, $5040
 28. [Twitter Periscope Clickjacking Vulnerability](https://hackerone.com/reports/591432) to Twitter - 125 upvotes, $1120
 29. [Incorrect param parsing in Digits web authentication](https://hackerone.com/reports/126522) to Twitter - 122 upvotes, $2520
-30. [XSS via referrer parameter](https://hackerone.com/reports/867616) to Twitter - 120 upvotes, $0
+30. [XSS via referrer parameter](https://hackerone.com/reports/867616) to Twitter - 119 upvotes, $0
 31. [[URGENT] Opportunity to publish tweets on any twitters account](https://hackerone.com/reports/208978) to Twitter - 116 upvotes, $7560
 32. [Changing email address on Twitter for Android unsets "Protect your Tweets"](https://hackerone.com/reports/472013) to Twitter - 116 upvotes, $2940
 33. [Vine all registered user Private/sensitive information disclosure .[ Ip address/phone no/email and many other informations ]](https://hackerone.com/reports/202823) to Twitter - 114 upvotes, $7560
@@ -37,7 +37,7 @@ Top reports from Twitter program at HackerOne:
 35. [Bypassing Digits web authentication's host validation with HPP](https://hackerone.com/reports/114169) to Twitter - 104 upvotes, $2520
 36. [Ability to perform actions (Tweet, Retweet, DM) and other actions, unauthenticated, on any account with SMS enabled.](https://hackerone.com/reports/470749) to Twitter - 98 upvotes, $0
 37. [Safe Redirect Bypass ](https://hackerone.com/reports/945990) to Twitter - 93 upvotes, $560
-38. [Blind XSS on Twitter's internal Jira panel at ████ allows exfiltration of hackers reports and other sensitive data](https://hackerone.com/reports/1369674) to Twitter - 91 upvotes, $5040
+38. [Blind XSS on Twitter's internal Jira panel at ████ allows exfiltration of hackers reports and other sensitive data](https://hackerone.com/reports/1369674) to Twitter - 92 upvotes, $5040
 39. [Attacker can get vine repost user all informations even Ip address and location .](https://hackerone.com/reports/201300) to Twitter - 89 upvotes, $5040
 40. [Bypassing Digits bridge origin validation](https://hackerone.com/reports/110467) to Twitter - 89 upvotes, $5040
 41. [Creating malformed URLs via new line character in-between two URLs leads to misrepresented hyperlinks in Tweets/DMs](https://hackerone.com/reports/712979) to Twitter - 89 upvotes, $560
@@ -61,8 +61,8 @@ Top reports from Twitter program at HackerOne:
 59. [Blind XSS in Mobpub Marketplace Admin Production | Sentry via demand.mopub.com (User-Agent)](https://hackerone.com/reports/275518) to Twitter - 60 upvotes, $840
 60. [NO username used in authenthication to www.mopub.com leading to direct password submission which  has unlimited submission rate.](https://hackerone.com/reports/790854) to Twitter - 56 upvotes, $280
 61. [Subdomain takeover on dev-admin.periscope.tv](https://hackerone.com/reports/531890) to Twitter - 54 upvotes, $0
-62. [Periscope iOS app CSRF in follow action due to deeplink](https://hackerone.com/reports/805073) to Twitter - 52 upvotes, $2940
-63. [HTTP Response Splitting (CRLF injection) in report_story](https://hackerone.com/reports/52042) to Twitter - 51 upvotes, $3500
+62. [HTTP Response Splitting (CRLF injection) in report_story](https://hackerone.com/reports/52042) to Twitter - 52 upvotes, $3500
+63. [Periscope iOS app CSRF in follow action due to deeplink](https://hackerone.com/reports/805073) to Twitter - 52 upvotes, $2940
 64. [DOMXSS in Tweetdeck](https://hackerone.com/reports/119471) to Twitter - 50 upvotes, $1120
 65. [Bypass Password Authentication to Update the Password](https://hackerone.com/reports/970157) to Twitter - 50 upvotes, $700
 66. [reverb.twitter.com redirects to vulnerable reverb.guru](https://hackerone.com/reports/158148) to Twitter - 50 upvotes, $560
@@ -90,8 +90,8 @@ Top reports from Twitter program at HackerOne:
 88. [Urgent : Unauthorised Access to Media content of all Direct messages and protected tweets(Indirect object reference)](https://hackerone.com/reports/99600) to Twitter - 36 upvotes, $420
 89. [CSRF on https://www.niche.co leads to "account disconnection"](https://hackerone.com/reports/493552) to Twitter - 35 upvotes, $0
 90. [Twitter iOS fails to validate server certificate and sends oauth token](https://hackerone.com/reports/168538) to Twitter - 34 upvotes, $2100
-91. [[staging-engineering.gnip.com] Publicly accessible GIT directory](https://hackerone.com/reports/218465) to Twitter - 32 upvotes, $280
-92. [2 Subdomains Takeover at readfu.com](https://hackerone.com/reports/1073114) to Twitter - 32 upvotes, $0
+91. [2 Subdomains Takeover at readfu.com](https://hackerone.com/reports/1073114) to Twitter - 33 upvotes, $0
+92. [[staging-engineering.gnip.com] Publicly accessible GIT directory](https://hackerone.com/reports/218465) to Twitter - 32 upvotes, $280
 93. [Listing of Amazon S3 Bucket accessible to any amazon authenticated user (metrics.pscp.tv)](https://hackerone.com/reports/278191) to Twitter - 31 upvotes, $140
 94. [暴力破解用户密码没有速率控制](https://hackerone.com/reports/854424) to Twitter - 30 upvotes, $700
 95. [HTTP 401 response injection on "amp.twimg.com/amplify-web-player/prod/source.html" through "image_src" parameter](https://hackerone.com/reports/221328) to Twitter - 30 upvotes, $560
@@ -130,8 +130,8 @@ Top reports from Twitter program at HackerOne:
 128. [Sensitive Information Disclosure https://cards-dev.twitter.com](https://hackerone.com/reports/268888) to Twitter - 18 upvotes, $280
 129. [ms5 debug page exposing internal info (internal IPs, headers)](https://hackerone.com/reports/311326) to Twitter - 18 upvotes, $280
 130. [AppLovin API Key hardcoded in a Github repo](https://hackerone.com/reports/674774) to Twitter - 18 upvotes, $280
-131. [lack of input validation that can lead Denial of Service (DOS)](https://hackerone.com/reports/768677) to Twitter - 17 upvotes, $560
-132. [XSS on OAuth authorize/authenticate endpoint](https://hackerone.com/reports/87040) to Twitter - 16 upvotes, $2520
+131. [XSS on OAuth authorize/authenticate endpoint](https://hackerone.com/reports/87040) to Twitter - 17 upvotes, $2520
+132. [lack of input validation that can lead Denial of Service (DOS)](https://hackerone.com/reports/768677) to Twitter - 17 upvotes, $560
 133. [Protected Tweets setting overridden by Android app](https://hackerone.com/reports/519059) to Twitter - 16 upvotes, $560
 134. [XSS using javascript:alert(8007)](https://hackerone.com/reports/127154) to Twitter - 15 upvotes, $280
 135. [SSRF in https://cards-dev.twitter.com/validator](https://hackerone.com/reports/178184) to Twitter - 15 upvotes, $280

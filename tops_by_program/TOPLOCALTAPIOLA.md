@@ -93,9 +93,9 @@ Top reports from LocalTapiola program at HackerOne:
 91. [Reflected XSS and Open Redirect (verkkopalvelu.lahitapiola.fi)](https://hackerone.com/reports/194207) to LocalTapiola - 3 upvotes, $400
 92. [Reflected XSS on iltakoulu_varkaus (viestinta.lahitapiola.fi)](https://hackerone.com/reports/201137) to LocalTapiola - 3 upvotes, $150
 93. [Amazon Bucket Accessible (http://inpref.s3.amazonaws.com/)](https://hackerone.com/reports/137487) to LocalTapiola - 3 upvotes, $100
-94. [Enumeration in unsubscribe -function of /omatalousuk (viestinta.lahitapiola.fi)](https://hackerone.com/reports/201314) to LocalTapiola - 3 upvotes, $100
-95. [Possibly big authorization problem in Lähitapiola´s varainhoito](https://hackerone.com/reports/135252) to LocalTapiola - 2 upvotes, $400
-96. [Suspicious browser fingerprinting(?) scripts on http://www.lahitapiola.fi/ redirector](https://hackerone.com/reports/179763) to LocalTapiola - 2 upvotes, $100
+94. [Suspicious browser fingerprinting(?) scripts on http://www.lahitapiola.fi/ redirector](https://hackerone.com/reports/179763) to LocalTapiola - 3 upvotes, $100
+95. [Enumeration in unsubscribe -function of /omatalousuk (viestinta.lahitapiola.fi)](https://hackerone.com/reports/201314) to LocalTapiola - 3 upvotes, $100
+96. [Possibly big authorization problem in Lähitapiola´s varainhoito](https://hackerone.com/reports/135252) to LocalTapiola - 2 upvotes, $400
 97. [OpenSSL Padding Oracle Attack (CVE-2016-2107) on viestinta.lahitapiola.fi](https://hackerone.com/reports/194761) to LocalTapiola - 2 upvotes, $100
 98. [Open redirect - user interaction needed (verkkopalvelu.lahitapiola.fi/e2/..) - based on #179328](https://hackerone.com/reports/194017) to LocalTapiola - 2 upvotes, $100
 99. [Reflected XSS in www.lahitapiola.fi (/cs/Satellite) using Oracle WebCenter -page](https://hackerone.com/reports/164578) to LocalTapiola - 2 upvotes, $50

@@ -29,6 +29,20 @@ Tops by bug type.
 - [Top DoS reports](tops_by_bug_type/TOPDOS.md)
 - [Top OAuth reports](tops_by_bug_type/TOPOAUTH.md)
 - [Top Account Takeover reports](tops_by_bug_type/TOPACCOUNTTAKEOVER.md)
+- [Top Business Logic reports](tops_by_bug_type/TOPBUSINESSLOGIC.md)
+- [Top API reports](tops_by_bug_type/TOPAPI.md)
+- [Top GraphQL reports](tops_by_bug_type/TOPGRAPHQL.md)
+- [Top Information Disclosure reports](tops_by_bug_type/TOPINFODISCLOSURE.md)
+- [Top Web Cache reports](tops_by_bug_type/TOPWEBCACHE.md)
+- [Top SSTI reports](tops_by_bug_type/TOPSSTI.md)
+- [Top Upload reports](tops_by_bug_type/TOPUPLOAD.md)
+- [Top HTTP Request Smuggling reports](tops_by_bug_type/TOPREQUESTSMUGGLING.md)
+- [Top OpenID reports](tops_by_bug_type/TOPOPENID.md)
+- [Top Mobile reports](tops_by_bug_type/TOPMOBILE.md)
+- [Top File Reading reports](tops_by_bug_type/TOPFILEREADING.md)
+- [Top Authorization Bypass reports](tops_by_bug_type/TOPAUTHORIZATION.md)
+- [Top Authentication Bypass reports](tops_by_bug_type/TOPAUTHENTICATION.md)
+- [Top MFA reports](tops_by_bug_type/TOPMFA.md)
 
 Tops by program.
 

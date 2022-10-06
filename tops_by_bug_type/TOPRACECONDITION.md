@@ -12,11 +12,11 @@ Top Race Condition reports from HackerOne:
 10. [Race condition leads to duplicate payouts](https://hackerone.com/reports/220445) to HackerOne - 62 upvotes, $750
 11. [Race Condition of Transfer data Credits to Organization Leads to Add Extra free Data Credits to the Organization](https://hackerone.com/reports/974892) to Helium - 60 upvotes, $250
 12. [Race Condition on "Get free Badoo Premium" which allows to get more days of free premium for Free. ](https://hackerone.com/reports/1037430) to Bumble - 50 upvotes, $200
-13. [Race condition in faucet when using starport](https://hackerone.com/reports/1438052) to Cosmos - 44 upvotes, $5000
+13. [Race condition in faucet when using starport](https://hackerone.com/reports/1438052) to Cosmos - 46 upvotes, $5000
 14. [Race condition in claiming program credentials ](https://hackerone.com/reports/488985) to HackerOne - 44 upvotes, $500
 15. [Race Conditions in OAuth 2 API implementations](https://hackerone.com/reports/55140) to Internet Bug Bounty - 35 upvotes, $2500
-16. [Race conditions can be used to bypass invitation limit](https://hackerone.com/reports/115007) to Keybase - 33 upvotes, $350
-17. [Race condition in User comments  Likes](https://hackerone.com/reports/1409913) to Zomato - 33 upvotes, $150
+16. [Race condition in User comments  Likes](https://hackerone.com/reports/1409913) to Zomato - 35 upvotes, $150
+17. [Race conditions can be used to bypass invitation limit](https://hackerone.com/reports/115007) to Keybase - 33 upvotes, $350
 18. [Race Condition in Redeeming Coupons](https://hackerone.com/reports/157996) to Instacart - 31 upvotes, $200
 19. [Race condition while removing the love react in community files.](https://hackerone.com/reports/996141) to Figma - 31 upvotes, $150
 20. [JSBeautifier BApp: Race condition leads to memory disclosure](https://hackerone.com/reports/187134) to PortSwigger Web Security - 29 upvotes, $0
@@ -25,7 +25,7 @@ Top Race Condition reports from HackerOne:
 23. [Race condition leads to Inflation of coins when bought via Google Play Store at endpoint https://oauth.reddit.com/api/v2/gold/android/verify_purchase ](https://hackerone.com/reports/801743) to Reddit - 23 upvotes, $500
 24. [Race condition via project team member invitation system.](https://hackerone.com/reports/1108291) to Enjin - 23 upvotes, $60
 25. [Race Condition in account survey](https://hackerone.com/reports/165570) to Slack - 21 upvotes, $150
-26. [[api.krisp.ai] Race condition on /v2/seats endpoint allows bypassing the original seat limit](https://hackerone.com/reports/1418419) to Krisp - 21 upvotes, $100
+26. [[api.krisp.ai] Race condition on /v2/seats endpoint allows bypassing the original seat limit](https://hackerone.com/reports/1418419) to Krisp - 20 upvotes, $100
 27. [Register multiple users using one invitation (race condition)](https://hackerone.com/reports/148609) to Keybase - 17 upvotes, $350
 28. [Race condition vulnerability on "This Rocks" button.](https://hackerone.com/reports/474021) to Rockstar Games - 17 upvotes, $250
 29. [Race condition in endpoint POST fetlife.com/users/invitation, allow attacker to generate unlimited invites](https://hackerone.com/reports/1460373) to FetLife - 17 upvotes, $100

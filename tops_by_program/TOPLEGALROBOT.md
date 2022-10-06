@@ -30,13 +30,13 @@ Top reports from Legal Robot program at HackerOne:
 28. [Missing link to TOTP manual enroll option](https://hackerone.com/reports/249339) to Legal Robot - 9 upvotes, $90
 29. [Missing restriction on string size in profile fields](https://hackerone.com/reports/180548) to Legal Robot - 9 upvotes, $40
 30. [Information Disclosure in AWS S3 Bucket](https://hackerone.com/reports/163476) to Legal Robot - 9 upvotes, $20
-31. [Pages don't render in old browsers like IE11](https://hackerone.com/reports/251468) to Legal Robot - 9 upvotes, $20
-32. [Meta characters are not filtered into full name on profile page](https://hackerone.com/reports/251469) to Legal Robot - 9 upvotes, $20
-33. [Email Length Verification ](https://hackerone.com/reports/263589) to Legal Robot - 9 upvotes, $0
-34. [User Information leak allows user to bypass email verification.](https://hackerone.com/reports/163467) to Legal Robot - 8 upvotes, $120
-35. [User Information sent to client through websockets](https://hackerone.com/reports/163464) to Legal Robot - 8 upvotes, $120
-36. [Logic issue in email change process](https://hackerone.com/reports/266017) to Legal Robot - 8 upvotes, $60
-37. [Domain takeover (legalrobot.co.za)](https://hackerone.com/reports/230525) to Legal Robot - 8 upvotes, $20
+31. [Domain takeover (legalrobot.co.za)](https://hackerone.com/reports/230525) to Legal Robot - 9 upvotes, $20
+32. [Pages don't render in old browsers like IE11](https://hackerone.com/reports/251468) to Legal Robot - 9 upvotes, $20
+33. [Meta characters are not filtered into full name on profile page](https://hackerone.com/reports/251469) to Legal Robot - 9 upvotes, $20
+34. [Email Length Verification ](https://hackerone.com/reports/263589) to Legal Robot - 9 upvotes, $0
+35. [User Information leak allows user to bypass email verification.](https://hackerone.com/reports/163467) to Legal Robot - 8 upvotes, $120
+36. [User Information sent to client through websockets](https://hackerone.com/reports/163464) to Legal Robot - 8 upvotes, $120
+37. [Logic issue in email change process](https://hackerone.com/reports/266017) to Legal Robot - 8 upvotes, $60
 38. [User enumeration](https://hackerone.com/reports/250457) to Legal Robot - 8 upvotes, $20
 39. [[New Feature] Password history check](https://hackerone.com/reports/250741) to Legal Robot - 8 upvotes, $20
 40. [[Cross-domain Referer leakage] Password reset token leakage via referer](https://hackerone.com/reports/253448) to Legal Robot - 8 upvotes, $20
