@@ -30,7 +30,7 @@ Tops by bug type.
 - [Top OAuth reports](tops_by_bug_type/TOPOAUTH.md)
 - [Top Account Takeover reports](tops_by_bug_type/TOPACCOUNTTAKEOVER.md)
 - [Top Business Logic reports](tops_by_bug_type/TOPBUSINESSLOGIC.md)
-- [Top API reports](tops_by_bug_type/TOPAPI.md)
+- [Top REST API reports](tops_by_bug_type/TOPAPI.md)
 - [Top GraphQL reports](tops_by_bug_type/TOPGRAPHQL.md)
 - [Top Information Disclosure reports](tops_by_bug_type/TOPINFODISCLOSURE.md)
 - [Top Web Cache reports](tops_by_bug_type/TOPWEBCACHE.md)

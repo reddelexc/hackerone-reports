@@ -115,7 +115,7 @@ def main():
     top_by_bug_type(reports, 'BUSINESSLOGIC', 'Business Logic',
         ['functional', 'logic', 'function', 'functionality', 'manipulating response', 'response manipulation', 'manipulation'])
     top_by_bug_type(reports, 'API', 'REST API', ['api', 'rest api', 'restapi'])
-    top_by_bug_type(reports, 'GRAPHQL', 'GRAPHQL', ['graphql', 'graphql api', 'api graphql'])
+    top_by_bug_type(reports, 'GRAPHQL', 'GraphQL', ['graphql', 'graphql api', 'api graphql'])
     top_by_bug_type(reports, 'INFODISCLOSURE', 'Information Disclosure',
         ['information disclosure', 'infos disclosure', 'user information', 'pii'])
     top_by_bug_type(reports, 'WEBCACHE', 'Web Cache', ['web cache poisoning', 'web cache', 'web cache deception'])
