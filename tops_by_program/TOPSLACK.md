@@ -1,11 +1,11 @@
 Top reports from Slack program at HackerOne:
 
-1. [Mass account takeovers using HTTP Request Smuggling on https://slackb.com/ to steal session cookies](https://hackerone.com/reports/737140) to Slack - 821 upvotes, $6500
+1. [Mass account takeovers using HTTP Request Smuggling on https://slackb.com/ to steal session cookies](https://hackerone.com/reports/737140) to Slack - 822 upvotes, $6500
 2. [Remote Code Execution in Slack desktop apps + bonus](https://hackerone.com/reports/783877) to Slack - 480 upvotes, $1750
-3. [XSS vulnerable parameter in a location hash](https://hackerone.com/reports/146336) to Slack - 439 upvotes, $1100
+3. [XSS vulnerable parameter in a location hash](https://hackerone.com/reports/146336) to Slack - 440 upvotes, $1100
 4. [URL link spoofing](https://hackerone.com/reports/481472) to Slack - 354 upvotes, $250
 5. [AWS bucket leading to iOS test build code and configuration exposure](https://hackerone.com/reports/404822) to Slack - 315 upvotes, $1500
-6. [TURN server allows TCP and UDP proxying to internal network, localhost and meta-data services](https://hackerone.com/reports/333419) to Slack - 309 upvotes, $3500
+6. [TURN server allows TCP and UDP proxying to internal network, localhost and meta-data services](https://hackerone.com/reports/333419) to Slack - 310 upvotes, $3500
 7. [Slack DTLS uses a private key that is in the public domain, which may lead to SRTP stream hijack](https://hackerone.com/reports/531032) to Slack - 166 upvotes, $2000
 8. [XSS in gist integration](https://hackerone.com/reports/11073) to Slack - 152 upvotes, $500
 9. [Unauthenticated LFI revealing log information](https://hackerone.com/reports/272578) to Slack - 119 upvotes, $4000
@@ -18,7 +18,7 @@ Top reports from Slack program at HackerOne:
 16. [User-assisted RCE in Slack for macOS (from official site) due to improper quarantine meta-attribute handling for downloaded files](https://hackerone.com/reports/470637) to Slack - 94 upvotes, $750
 17. [Tricking the "Create snippet" feature into displaying the wrong filetype can lead to RCE on Slack users](https://hackerone.com/reports/833080) to Slack - 91 upvotes, $1500
 18. [Header modification results in disclosure of Slack infra metadata to unauthorized parties](https://hackerone.com/reports/727330) to Slack - 89 upvotes, $500
-19. [SSRF via Office file thumbnails](https://hackerone.com/reports/671935) to Slack - 84 upvotes, $4000
+19. [SSRF via Office file thumbnails](https://hackerone.com/reports/671935) to Slack - 86 upvotes, $4000
 20. [Many Slack teams can be joined by abusing an improperly configured support@ inbox](https://hackerone.com/reports/239623) to Slack - 83 upvotes, $1500
 21. [SSRF in api.slack.com, using slash commands and bypassing the protections.](https://hackerone.com/reports/381129) to Slack - 78 upvotes, $500
 22. [OSX slack:// protocol handler javascript injection](https://hackerone.com/reports/79348) to Slack - 71 upvotes, $1000
@@ -76,10 +76,10 @@ Top reports from Slack program at HackerOne:
 74. [Slack OAuth2 "redirect_uri" Bypass ](https://hackerone.com/reports/2575) to Slack - 7 upvotes, $100
 75. [Data exports stored on S3 can be scraped easily](https://hackerone.com/reports/2746) to Slack - 7 upvotes, $0
 76. [Authentication bypass leads to sensitive data exposure (token+secret)](https://hackerone.com/reports/129918) to Slack - 6 upvotes, $2000
-77. [File upload over private IM channel](https://hackerone.com/reports/143903) to Slack - 5 upvotes, $500
-78. [CSRF - Add optional two factor mobile number](https://hackerone.com/reports/155774) to Slack - 5 upvotes, $500
-79. [Email information leakage for certain addresses](https://hackerone.com/reports/169992) to Slack - 5 upvotes, $400
-80. [CSV export/import functionality allows administrators to modify member and message content of a workspace](https://hackerone.com/reports/1661310) to Slack - 5 upvotes, $250
+77. [CSV export/import functionality allows administrators to modify member and message content of a workspace](https://hackerone.com/reports/1661310) to Slack - 6 upvotes, $250
+78. [File upload over private IM channel](https://hackerone.com/reports/143903) to Slack - 5 upvotes, $500
+79. [CSRF - Add optional two factor mobile number](https://hackerone.com/reports/155774) to Slack - 5 upvotes, $500
+80. [Email information leakage for certain addresses](https://hackerone.com/reports/169992) to Slack - 5 upvotes, $400
 81. [Stored XSS in www.slack-files.com](https://hackerone.com/reports/2617) to Slack - 5 upvotes, $200
 82. [RC4 cipher suites detected on status.slack.com](https://hackerone.com/reports/99157) to Slack - 5 upvotes, $100
 83. [Remote file Inclusion - RFI in upload](https://hackerone.com/reports/14092) to Slack - 5 upvotes, $0

@@ -1,7 +1,7 @@
 Top GraphQL reports from HackerOne:
 
 1. [Confidential data of users and limited metadata of programs and reports accessible via GraphQL](https://hackerone.com/reports/489146) to HackerOne - 972 upvotes, $20000
-2. [Email address of any user can be queried on Report Invitation GraphQL type when username is known](https://hackerone.com/reports/792927) to HackerOne - 620 upvotes, $8500
+2. [Email address of any user can be queried on Report Invitation GraphQL type when username is known](https://hackerone.com/reports/792927) to HackerOne - 621 upvotes, $8500
 3. [Private list members disclosure via GraphQL](https://hackerone.com/reports/885539) to Twitter - 324 upvotes, $2940
 4. [Disclosure of `payment_transactions` for programs via GraphQL query](https://hackerone.com/reports/707433) to HackerOne - 171 upvotes, $2500
 5. [GraphQL AdminGenerateSessionPayload is leaked to staff with no permission](https://hackerone.com/reports/898528) to Shopify - 166 upvotes, $2000

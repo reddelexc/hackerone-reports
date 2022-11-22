@@ -7,9 +7,9 @@ Top Web Cache reports from HackerOne:
 5. [https://themes.shopify.com::: Host header web cache poisoning lead to DoS](https://hackerone.com/reports/1096609) to Shopify - 72 upvotes, $2900
 6. [web cache deception in https://tradus.com lead to name/user_id enumeration and other info](https://hackerone.com/reports/537564) to OLX - 61 upvotes, $0
 7. [CSRF-tokens on pages without no-cache headers, resulting in ATO when using CloudFlare proxy (Web Cache Deception)](https://hackerone.com/reports/260697) to Discourse - 50 upvotes, $256
-8. [Web cache deception attack on https://open.vanillaforums.com/messages/all](https://hackerone.com/reports/593712) to Vanilla - 45 upvotes, $150
-9. [Web Cache Poisoning leads to XSS and DoS](https://hackerone.com/reports/1621540) to Glassdoor - 43 upvotes, $1700
-10. [[https://www.glassdoor.com] -  Web Cache Deception Leads to gdtoken Disclosure ](https://hackerone.com/reports/1343086) to Glassdoor - 37 upvotes, $1600
+8. [Web Cache Poisoning leads to XSS and DoS](https://hackerone.com/reports/1621540) to Glassdoor - 46 upvotes, $1700
+9. [Web cache deception attack on https://open.vanillaforums.com/messages/all](https://hackerone.com/reports/593712) to Vanilla - 45 upvotes, $150
+10. [[https://www.glassdoor.com] -  Web Cache Deception Leads to gdtoken Disclosure ](https://hackerone.com/reports/1343086) to Glassdoor - 38 upvotes, $1600
 11. [Web cache poisoning leads to disclosure of CSRF token and sensitive information](https://hackerone.com/reports/504514) to Smule - 35 upvotes, $0
 12. [Web Cache Deception Attack (XSS)](https://hackerone.com/reports/394016) to Discourse - 33 upvotes, $256
 13. [Web Cache Poisoning on  █████ ](https://hackerone.com/reports/1183263) to U.S. Dept Of Defense - 32 upvotes, $0

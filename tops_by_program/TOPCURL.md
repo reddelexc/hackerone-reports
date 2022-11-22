@@ -43,56 +43,58 @@ Top reports from curl program at HackerOne:
 41. [CVE-2022-27781: CERTINFO never-ending busy-loop](https://hackerone.com/reports/1555441) to curl - 4 upvotes, $0
 42. [CVE-2022-32206: HTTP compression denial of service](https://hackerone.com/reports/1570651) to curl - 4 upvotes, $0
 43. [CVE-2022-32205: Set-Cookie denial of service](https://hackerone.com/reports/1569946) to curl - 4 upvotes, $0
-44. [CVE-2021-22925: TELNET stack contents disclosure again](https://hackerone.com/reports/1223882) to curl - 3 upvotes, $800
-45. [CVE-2021-22922: Wrong content via metalink not discarded](https://hackerone.com/reports/1213175) to curl - 3 upvotes, $700
-46. [CVE-2021-22923: Metalink download sends credentials](https://hackerone.com/reports/1213181) to curl - 3 upvotes, $700
-47. [Active Mixed Content over HTTPS](https://hackerone.com/reports/640532) to curl - 3 upvotes, $0
-48. [curl overwrites local file with -J option if file non-readable, but file writable.](https://hackerone.com/reports/926638) to curl - 3 upvotes, $0
-49. [Poll loop/hang on incomplete HTTP header](https://hackerone.com/reports/889160) to curl - 3 upvotes, $0
-50. [Integer overflow in the source code tool_cb_prg.c](https://hackerone.com/reports/600359) to curl - 3 upvotes, $0
-51. [Denial of Service vulnerability in curl when parsing MQTT server response](https://hackerone.com/reports/1521610) to curl - 3 upvotes, $0
-52. [CURLOPT_SSH_HOST_PUBLIC_KEY_MD5 bypass if string not 32 chars](https://hackerone.com/reports/1549461) to curl - 3 upvotes, $0
-53. [CVE-2022-32207: Unpreserved file permissions](https://hackerone.com/reports/1573634) to curl - 3 upvotes, $0
-54. [CVE-2021-22926: CURLOPT_SSLCERT mixup with Secure Transport](https://hackerone.com/reports/1234760) to curl - 2 upvotes, $1000
-55. [Abusing URL Parsers by long schema name](https://hackerone.com/reports/1049624) to curl - 2 upvotes, $0
-56. [Heap Buffer Overflow (READ of size 1) in ourWriteOut](https://hackerone.com/reports/765664) to curl - 2 upvotes, $0
-57. [Libcurl ocasionally sends HTTPS traffic to port 443 rather than specified port 8080](https://hackerone.com/reports/637800) to curl - 2 upvotes, $0
-58. [Integer overlow in "header_append" function](https://hackerone.com/reports/627245) to curl - 2 upvotes, $0
-59. [curl on Windows can be forced to execute code via OpenSSL environment variables](https://hackerone.com/reports/714215) to curl - 2 upvotes, $0
-60. [Binary output bypass](https://hackerone.com/reports/1468962) to curl - 2 upvotes, $0
-61. [CURLOPT_SSH_HOST_PUBLIC_KEY_SHA256 comparison disaster](https://hackerone.com/reports/1549435) to curl - 2 upvotes, $0
-62. [Cookie injection from non-secure context](https://hackerone.com/reports/1560324) to curl - 2 upvotes, $0
-63. [Heap overflow via HTTP/2 PUSH_PROMISE](https://hackerone.com/reports/1589847) to curl - 2 upvotes, $0
-64. [Credential leak when use two url](https://hackerone.com/reports/1569926) to curl - 2 upvotes, $0
-65. [Insecure Frame (External)](https://hackerone.com/reports/640530) to curl - 1 upvotes, $0
-66. [Parallel upload hangs curl if upload file not found](https://hackerone.com/reports/1019372) to curl - 1 upvotes, $0
-67. [CVE-2020-8285: FTP wildcard stack overflow](https://hackerone.com/reports/1045844) to curl - 1 upvotes, $0
-68. [libcurl: SMTP end-of-response out-of-bounds read - CVE-2019-3823](https://hackerone.com/reports/518097) to curl - 1 upvotes, $0
-69. [Race condition with CURL_LOCK_DATA_CONNECT can cause connections to be used at the same time](https://hackerone.com/reports/724134) to curl - 1 upvotes, $0
-70. [Division by zero if terminal width is 2](https://hackerone.com/reports/774883) to curl - 1 upvotes, $0
-71. [Unexpected access to process open files via file:///proc/self/fd/n](https://hackerone.com/reports/770190) to curl - 1 upvotes, $0
-72. [use after free in cookie.c](https://hackerone.com/reports/707006) to curl - 1 upvotes, $0
-73. [Potential invocation of qsort on uninitialized memory during cookie save](https://hackerone.com/reports/696822) to curl - 1 upvotes, $0
-74. [Resource leak when using a normal site as DOH server](https://hackerone.com/reports/694988) to curl - 1 upvotes, $0
-75. [Buffer write overflow when forming dns over http request](https://hackerone.com/reports/694449) to curl - 1 upvotes, $0
-76. [Integer overflow  at line 1603 in the src/operator.c file](https://hackerone.com/reports/662412) to curl - 1 upvotes, $0
-77. [huge COLUMNS causes progress-bar to buffer overflow](https://hackerone.com/reports/636013) to curl - 1 upvotes, $0
-78. [Inadequate Cryptographic Key Size and Insecure Cryptographic Mode.  File Name :- curl_ntlm_core.c](https://hackerone.com/reports/1113663) to curl - 1 upvotes, $0
-79. [Proxy-Authorization header carried to a new host on a redirect](https://hackerone.com/reports/1086259) to curl - 1 upvotes, $0
-80. [Occasional use-after-free in multi_done() libcurl-7.81.0](https://hackerone.com/reports/1463013) to curl - 1 upvotes, $0
-81. [Use of Unsafe function || Strcpy](https://hackerone.com/reports/1485379) to curl - 1 upvotes, $0
-82. [curl proceeds with unsafe connections when -K file can't be read](https://hackerone.com/reports/1542881) to curl - 1 upvotes, $0
-83. [Certificate authentication re-use on redirect](https://hackerone.com/reports/1563061) to curl - 1 upvotes, $0
-84. [error parse uri path in curl](https://hackerone.com/reports/1566462) to curl - 1 upvotes, $0
-85. [KRB-FTP: Security level downgrade](https://hackerone.com/reports/1590102) to curl - 1 upvotes, $0
-86. [curl "globbing" can lead to denial of service attacks](https://hackerone.com/reports/1572120) to curl - 1 upvotes, $0
-87. [Port and service scanning on localhost due to improper URL validation.](https://hackerone.com/reports/773313) to curl - 0 upvotes, $0
-88. [Data race conditions reported by helgrind when performing parallel DNS queries in libcurl](https://hackerone.com/reports/1019457) to curl - 0 upvotes, $0
-89. [Only OpenSSL handles a CRL when passed in via CApath ](https://hackerone.com/reports/713975) to curl - 0 upvotes, $0
-90. [curl successfully matches IP address literal in URL against IP address literal in certificate Common Name](https://hackerone.com/reports/715413) to curl - 0 upvotes, $0
-91. [Curl_auth_create_plain_message integer overflow leads to heap buffer overflow](https://hackerone.com/reports/872089) to curl - 0 upvotes, $0
-92. [curl still vulnerable to SMB access smuggling via FILE URL on Windows](https://hackerone.com/reports/812969) to curl - 0 upvotes, $0
-93. [Incorrect IPv6 literal parsing leads to validated connection to unexpected https server.](https://hackerone.com/reports/688048) to curl - 0 upvotes, $0
-94. [Double-free of `trailers_buf' on `Curl_http_compile_trailers()` failure](https://hackerone.com/reports/687734) to curl - 0 upvotes, $0
-95. [match](https://hackerone.com/reports/1555440) to curl - 0 upvotes, $0
-96. [Integer overflows in unescape_word()](https://hackerone.com/reports/1564922) to curl - 0 upvotes, $0
+44. [CVE-2022-35260: .netrc parser out-of-bounds access](https://hackerone.com/reports/1721098) to curl - 4 upvotes, $0
+45. [CVE-2021-22925: TELNET stack contents disclosure again](https://hackerone.com/reports/1223882) to curl - 3 upvotes, $800
+46. [CVE-2021-22922: Wrong content via metalink not discarded](https://hackerone.com/reports/1213175) to curl - 3 upvotes, $700
+47. [CVE-2021-22923: Metalink download sends credentials](https://hackerone.com/reports/1213181) to curl - 3 upvotes, $700
+48. [Active Mixed Content over HTTPS](https://hackerone.com/reports/640532) to curl - 3 upvotes, $0
+49. [curl overwrites local file with -J option if file non-readable, but file writable.](https://hackerone.com/reports/926638) to curl - 3 upvotes, $0
+50. [Poll loop/hang on incomplete HTTP header](https://hackerone.com/reports/889160) to curl - 3 upvotes, $0
+51. [Integer overflow in the source code tool_cb_prg.c](https://hackerone.com/reports/600359) to curl - 3 upvotes, $0
+52. [Denial of Service vulnerability in curl when parsing MQTT server response](https://hackerone.com/reports/1521610) to curl - 3 upvotes, $0
+53. [CURLOPT_SSH_HOST_PUBLIC_KEY_MD5 bypass if string not 32 chars](https://hackerone.com/reports/1549461) to curl - 3 upvotes, $0
+54. [CVE-2022-32207: Unpreserved file permissions](https://hackerone.com/reports/1573634) to curl - 3 upvotes, $0
+55. [CVE-2021-22926: CURLOPT_SSLCERT mixup with Secure Transport](https://hackerone.com/reports/1234760) to curl - 2 upvotes, $1000
+56. [Abusing URL Parsers by long schema name](https://hackerone.com/reports/1049624) to curl - 2 upvotes, $0
+57. [Heap Buffer Overflow (READ of size 1) in ourWriteOut](https://hackerone.com/reports/765664) to curl - 2 upvotes, $0
+58. [Libcurl ocasionally sends HTTPS traffic to port 443 rather than specified port 8080](https://hackerone.com/reports/637800) to curl - 2 upvotes, $0
+59. [Integer overlow in "header_append" function](https://hackerone.com/reports/627245) to curl - 2 upvotes, $0
+60. [curl on Windows can be forced to execute code via OpenSSL environment variables](https://hackerone.com/reports/714215) to curl - 2 upvotes, $0
+61. [Binary output bypass](https://hackerone.com/reports/1468962) to curl - 2 upvotes, $0
+62. [CURLOPT_SSH_HOST_PUBLIC_KEY_SHA256 comparison disaster](https://hackerone.com/reports/1549435) to curl - 2 upvotes, $0
+63. [Cookie injection from non-secure context](https://hackerone.com/reports/1560324) to curl - 2 upvotes, $0
+64. [Heap overflow via HTTP/2 PUSH_PROMISE](https://hackerone.com/reports/1589847) to curl - 2 upvotes, $0
+65. [Credential leak when use two url](https://hackerone.com/reports/1569926) to curl - 2 upvotes, $0
+66. [CVE-2022-42916: HSTS bypass via IDN](https://hackerone.com/reports/1730660) to curl - 2 upvotes, $0
+67. [Insecure Frame (External)](https://hackerone.com/reports/640530) to curl - 1 upvotes, $0
+68. [Parallel upload hangs curl if upload file not found](https://hackerone.com/reports/1019372) to curl - 1 upvotes, $0
+69. [CVE-2020-8285: FTP wildcard stack overflow](https://hackerone.com/reports/1045844) to curl - 1 upvotes, $0
+70. [libcurl: SMTP end-of-response out-of-bounds read - CVE-2019-3823](https://hackerone.com/reports/518097) to curl - 1 upvotes, $0
+71. [Race condition with CURL_LOCK_DATA_CONNECT can cause connections to be used at the same time](https://hackerone.com/reports/724134) to curl - 1 upvotes, $0
+72. [Division by zero if terminal width is 2](https://hackerone.com/reports/774883) to curl - 1 upvotes, $0
+73. [Unexpected access to process open files via file:///proc/self/fd/n](https://hackerone.com/reports/770190) to curl - 1 upvotes, $0
+74. [use after free in cookie.c](https://hackerone.com/reports/707006) to curl - 1 upvotes, $0
+75. [Potential invocation of qsort on uninitialized memory during cookie save](https://hackerone.com/reports/696822) to curl - 1 upvotes, $0
+76. [Resource leak when using a normal site as DOH server](https://hackerone.com/reports/694988) to curl - 1 upvotes, $0
+77. [Buffer write overflow when forming dns over http request](https://hackerone.com/reports/694449) to curl - 1 upvotes, $0
+78. [Integer overflow  at line 1603 in the src/operator.c file](https://hackerone.com/reports/662412) to curl - 1 upvotes, $0
+79. [huge COLUMNS causes progress-bar to buffer overflow](https://hackerone.com/reports/636013) to curl - 1 upvotes, $0
+80. [Inadequate Cryptographic Key Size and Insecure Cryptographic Mode.  File Name :- curl_ntlm_core.c](https://hackerone.com/reports/1113663) to curl - 1 upvotes, $0
+81. [Proxy-Authorization header carried to a new host on a redirect](https://hackerone.com/reports/1086259) to curl - 1 upvotes, $0
+82. [Occasional use-after-free in multi_done() libcurl-7.81.0](https://hackerone.com/reports/1463013) to curl - 1 upvotes, $0
+83. [Use of Unsafe function || Strcpy](https://hackerone.com/reports/1485379) to curl - 1 upvotes, $0
+84. [curl proceeds with unsafe connections when -K file can't be read](https://hackerone.com/reports/1542881) to curl - 1 upvotes, $0
+85. [Certificate authentication re-use on redirect](https://hackerone.com/reports/1563061) to curl - 1 upvotes, $0
+86. [error parse uri path in curl](https://hackerone.com/reports/1566462) to curl - 1 upvotes, $0
+87. [KRB-FTP: Security level downgrade](https://hackerone.com/reports/1590102) to curl - 1 upvotes, $0
+88. [curl "globbing" can lead to denial of service attacks](https://hackerone.com/reports/1572120) to curl - 1 upvotes, $0
+89. [Port and service scanning on localhost due to improper URL validation.](https://hackerone.com/reports/773313) to curl - 0 upvotes, $0
+90. [Data race conditions reported by helgrind when performing parallel DNS queries in libcurl](https://hackerone.com/reports/1019457) to curl - 0 upvotes, $0
+91. [Only OpenSSL handles a CRL when passed in via CApath ](https://hackerone.com/reports/713975) to curl - 0 upvotes, $0
+92. [curl successfully matches IP address literal in URL against IP address literal in certificate Common Name](https://hackerone.com/reports/715413) to curl - 0 upvotes, $0
+93. [Curl_auth_create_plain_message integer overflow leads to heap buffer overflow](https://hackerone.com/reports/872089) to curl - 0 upvotes, $0
+94. [curl still vulnerable to SMB access smuggling via FILE URL on Windows](https://hackerone.com/reports/812969) to curl - 0 upvotes, $0
+95. [Incorrect IPv6 literal parsing leads to validated connection to unexpected https server.](https://hackerone.com/reports/688048) to curl - 0 upvotes, $0
+96. [Double-free of `trailers_buf' on `Curl_http_compile_trailers()` failure](https://hackerone.com/reports/687734) to curl - 0 upvotes, $0
+97. [match](https://hackerone.com/reports/1555440) to curl - 0 upvotes, $0
+98. [Integer overflows in unescape_word()](https://hackerone.com/reports/1564922) to curl - 0 upvotes, $0

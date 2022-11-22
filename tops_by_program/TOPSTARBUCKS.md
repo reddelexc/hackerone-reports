@@ -10,7 +10,7 @@ Top reports from Starbucks program at HackerOne:
 8. [Misuse of an authentication cookie combined with a path traversal on app.starbucks.com permitted access to restricted data](https://hackerone.com/reports/876295) to Starbucks - 221 upvotes, $4000
 9. [Singapore - Account Takeover via IDOR](https://hackerone.com/reports/876300) to Starbucks - 218 upvotes, $6000
 10. [Blind SQLi leading to RCE, from Unauthenticated access to a test API Webservice](https://hackerone.com/reports/592400) to Starbucks - 217 upvotes, $4000
-11. [Blind SQL Injection on starbucks.com.gt and WAF Bypass  :*](https://hackerone.com/reports/549355) to Starbucks - 200 upvotes, $500
+11. [Blind SQL Injection on starbucks.com.gt and WAF Bypass  :*](https://hackerone.com/reports/549355) to Starbucks - 201 upvotes, $500
 12. [sdrc.starbucks.com - Information Disclosure via unsecured attachment directory](https://hackerone.com/reports/769016) to Starbucks - 194 upvotes, $4000
 13. [Reflected Cross site Scripting (XSS) on www.starbucks.com](https://hackerone.com/reports/438240) to Starbucks - 164 upvotes, $375
 14. [Bug in GraphQL and API integration leads to limited user address disclosure](https://hackerone.com/reports/473742) to Starbucks - 136 upvotes, $1000
@@ -37,7 +37,7 @@ Top reports from Starbucks program at HackerOne:
 35. [Information disclosure on sim.starbucks.com](https://hackerone.com/reports/632808) to Starbucks - 54 upvotes, $0
 36. [Open Redirection in Login - Korean Starbucks](https://hackerone.com/reports/380939) to Starbucks - 52 upvotes, $0
 37. [Subdomain takeover on developer.openapi.starbucks.com](https://hackerone.com/reports/275714) to Starbucks - 49 upvotes, $2000
-38. [Java Deserialization RCE via JBoss on card.starbucks.in](https://hackerone.com/reports/221294) to Starbucks - 47 upvotes, $0
+38. [Java Deserialization RCE via JBoss on card.starbucks.in](https://hackerone.com/reports/221294) to Starbucks - 48 upvotes, $0
 39. [Information Leak - Github - JMS Information](https://hackerone.com/reports/360811) to Starbucks - 46 upvotes, $1000
 40. [Unauthorized access to jiratest.starbucks.com ](https://hackerone.com/reports/332586) to Starbucks - 45 upvotes, $4000
 41. [China - ecjobsdc.starbucks.com.cn html/shtml file upload vulnerability](https://hackerone.com/reports/412481) to Starbucks - 45 upvotes, $0

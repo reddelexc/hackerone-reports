@@ -1,7 +1,7 @@
 Top reports from QIWI program at HackerOne:
 
 1. [SQL injection on contactws.contact-sys.com in TScenObject action ScenObjects leads to remote code execution](https://hackerone.com/reports/816254) to QIWI - 463 upvotes, $5500
-2. [Unauthenticated SSRF in jira.tochka.com leading to RCE in confluence.bank24.int](https://hackerone.com/reports/713900) to QIWI - 215 upvotes, $1000
+2. [Unauthenticated SSRF in jira.tochka.com leading to RCE in confluence.bank24.int](https://hackerone.com/reports/713900) to QIWI - 216 upvotes, $1000
 3. [Remote Code Execution on contactws.contact-sys.com via SQL injection in TCertObject operation "Delete"](https://hackerone.com/reports/816086) to QIWI - 193 upvotes, $1000
 4. [MobileIron Unauthenticated RCE on mdm.qiwi.com with WAF bypass](https://hackerone.com/reports/983548) to QIWI - 147 upvotes, $3500
 5. [SQL injection on contactws.contact-sys.com in TRateObject.AddForOffice in USER_ID parameter leads to remote code execution](https://hackerone.com/reports/816560) to QIWI - 117 upvotes, $1000
@@ -29,7 +29,7 @@ Top reports from QIWI program at HackerOne:
 27. [gifts.flocktory.com/phpmyadmin is vulnerable csrf](https://hackerone.com/reports/1113212) to QIWI - 30 upvotes, $100
 28. [Account takeover just through csrf in https://booking.qiwi.kz/profile](https://hackerone.com/reports/1066189) to QIWI - 29 upvotes, $100
 29. [[qiwi.com] XSS on payment form](https://hackerone.com/reports/263684) to QIWI - 28 upvotes, $550
-30. [HTTP Request Smuggling on api.flocktory.com Leads to XSS on Customer Sites](https://hackerone.com/reports/955170) to QIWI - 27 upvotes, $300
+30. [HTTP Request Smuggling on api.flocktory.com Leads to XSS on Customer Sites](https://hackerone.com/reports/955170) to QIWI - 28 upvotes, $300
 31. [[QIWI Wallet] Access to protected app components ](https://hackerone.com/reports/482998) to QIWI - 26 upvotes, $500
 32. [Account Takeover through registration to the same email address](https://hackerone.com/reports/1224008) to QIWI - 26 upvotes, $100
 33. [CVE-2020-3187 - unauthenticated arbitrary file deletion in Cisco](https://hackerone.com/reports/944665) to QIWI - 24 upvotes, $500
