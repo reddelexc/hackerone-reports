@@ -12,6 +12,7 @@ scrolling through the whole hacktivity is almost impossible for now.
 import time
 import csv
 from selenium.webdriver import Chrome, ChromeOptions
+from selenium.webdriver.common.by import By
 
 hacktivity_url = 'https://hackerone.com/hacktivity?order_field=latest_disclosable_activity_at&filter=type%3Apublic'
 page_loading_timeout = 10
@@ -75,7 +76,7 @@ def fetch():
             counter = 0
         last_height = new_height
 
-        raw_reports = driver.find_elements_by_class_name('fade')
+        raw_reports = driver.find_elements(By.CLASS_NAME, 'fade')
         new_reports = extract_reports(raw_reports)
         found = False
         for i in range(len(new_reports)):
