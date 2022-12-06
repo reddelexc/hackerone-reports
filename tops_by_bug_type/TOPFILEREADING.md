@@ -8,7 +8,7 @@ Top File Reading reports from HackerOne:
 6. [Path traversal in filename in LINE Mac client](https://hackerone.com/reports/727727) to LINE - 167 upvotes, $2785
 7. [Path traversal, SSTI and RCE on a MailRu acquisition ](https://hackerone.com/reports/536130) to Mail.ru - 152 upvotes, $2000
 8. [Path traversal, to RCE](https://hackerone.com/reports/733072) to GitLab - 136 upvotes, $12000
-9. [XSS Reflected on reddit.com via url path](https://hackerone.com/reports/1051373) to Reddit - 126 upvotes, $5000
+9. [XSS Reflected on reddit.com via url path](https://hackerone.com/reports/1051373) to Reddit - 128 upvotes, $5000
 10. [Directory Traversal in uftpd 2.6-2.10](https://hackerone.com/reports/694141) to ██████ - 126 upvotes, $0
 11. [Unauthenticated LFI revealing log information](https://hackerone.com/reports/272578) to Slack - 119 upvotes, $4000
 12. [Wordpress unzip_file path traversal](https://hackerone.com/reports/205481) to WordPress - 113 upvotes, $800
@@ -45,8 +45,8 @@ Top File Reading reports from HackerOne:
 43. [Arbitrary File Reading leads to RCE in the Pulse Secure SSL VPN on the https://████](https://hackerone.com/reports/695005) to U.S. Dept Of Defense - 36 upvotes, $5000
 44. [Path Traversal on Default Installed Rails Application (Asset Pipeline)](https://hackerone.com/reports/307808) to Ruby on Rails - 36 upvotes, $1500
 45. [Stored XSS in galleries - https://www.redtube.com/gallery/[id] path](https://hackerone.com/reports/380207) to Redtube - 35 upvotes, $1500
-46. [[p2p.qiwi.com] nginx alias traversal](https://hackerone.com/reports/455858) to QIWI - 34 upvotes, $150
-47. [Path Traversal issue at https://████/blaze/](https://hackerone.com/reports/1320084) to Sony - 34 upvotes, $0
+46. [Path Traversal issue at https://████/blaze/](https://hackerone.com/reports/1320084) to Sony - 35 upvotes, $0
+47. [[p2p.qiwi.com] nginx alias traversal](https://hackerone.com/reports/455858) to QIWI - 34 upvotes, $150
 48. [Reflected XSS at https://www.glassdoor.co.in/FAQ/Microsoft-Question-FAQ200086-E1651.htm?countryRedirect=true via PATH](https://hackerone.com/reports/1016253) to Glassdoor - 33 upvotes, $500
 49. [Arbitrary File Reading on Uber SSL VPN](https://hackerone.com/reports/617543) to Uber - 32 upvotes, $6500
 50. [Full Path and internal information disclosure+ SQLNet.log file disclose internal network information](https://hackerone.com/reports/410187) to Uber - 32 upvotes, $0
@@ -78,12 +78,12 @@ Top File Reading reports from HackerOne:
 76. [Ingress-nginx path allows retrieval of ingress-nginx serviceaccount token](https://hackerone.com/reports/1382919) to Kubernetes - 17 upvotes, $2500
 77. [Persistent XSS found on bin.pinion.gg due to outdated FlowPlayer SWF file with Remote File Inclusion vulnerability.](https://hackerone.com/reports/254269) to Unikrn - 17 upvotes, $30
 78. [███ is vulnerable to CVE-2020-3452 Read-Only Path Traversal Vulnerability](https://hackerone.com/reports/959187) to U.S. Dept Of Defense - 17 upvotes, $0
-79. [Unix domain socket and a path containing a null character](https://hackerone.com/reports/302997) to Ruby - 16 upvotes, $500
-80. [CSS Injection via Client Side Path Traversal + Open Redirect leads to personal data exfiltration on Acronis Cloud](https://hackerone.com/reports/1245165) to Acronis - 16 upvotes, $250
-81. [[Total.js] Path traversal vulnerability allows to read files outside public directory](https://hackerone.com/reports/748765) to Node.js third-party modules - 16 upvotes, $0
-82. [Authenticated path traversal to RCE](https://hackerone.com/reports/1102067) to Concrete CMS - 16 upvotes, $0
-83. [[doc.rt.informaticacloud.com] Arbitrary File Reading via Double URL Encode](https://hackerone.com/reports/232371) to Informatica - 16 upvotes, $0
-84. [path traversal vulnerability in Grafana 8.x allows " local file read "](https://hackerone.com/reports/1427086) to MTN Group - 16 upvotes, $0
+79. [path traversal vulnerability in Grafana 8.x allows " local file read "](https://hackerone.com/reports/1427086) to MTN Group - 17 upvotes, $0
+80. [Unix domain socket and a path containing a null character](https://hackerone.com/reports/302997) to Ruby - 16 upvotes, $500
+81. [CSS Injection via Client Side Path Traversal + Open Redirect leads to personal data exfiltration on Acronis Cloud](https://hackerone.com/reports/1245165) to Acronis - 16 upvotes, $250
+82. [[Total.js] Path traversal vulnerability allows to read files outside public directory](https://hackerone.com/reports/748765) to Node.js third-party modules - 16 upvotes, $0
+83. [Authenticated path traversal to RCE](https://hackerone.com/reports/1102067) to Concrete CMS - 16 upvotes, $0
+84. [[doc.rt.informaticacloud.com] Arbitrary File Reading via Double URL Encode](https://hackerone.com/reports/232371) to Informatica - 16 upvotes, $0
 85. [Ad Builder Display Ads Path Traversal](https://hackerone.com/reports/316713) to Semrush - 15 upvotes, $500
 86. [Korea - LFI Server directory traversal at starbucks.co.kr](https://hackerone.com/reports/844067) to Starbucks - 15 upvotes, $500
 87. [Node modules path disclosure due to lack of error handling](https://hackerone.com/reports/225537) to Mapbox - 15 upvotes, $300
@@ -110,17 +110,17 @@ Top File Reading reports from HackerOne:
 108. [[m-server] XSS reflected because path does not escapeHtml](https://hackerone.com/reports/951468) to Node.js third-party modules - 12 upvotes, $0
 109. [REMOTE CODE EXECUTION/LOCAL FILE INCLUSION/XSPA/SSRF, view-source:http://sb*.geo.sp1.yahoo.com/, 4/6/14, #SpringClean](https://hackerone.com/reports/6674) to Yahoo! - 11 upvotes, $3000
 110. [Local file inclusion vulnerability on a DoD website](https://hackerone.com/reports/196448) to U.S. Dept Of Defense - 11 upvotes, $0
-111. [[html-pages] Path Traversal in html-pages module allows to read any file from the server with curl](https://hackerone.com/reports/306607) to Node.js third-party modules - 11 upvotes, $0
-112. [[buttle] Path traversal in mid-buttle module allows to read any file in the server.](https://hackerone.com/reports/358112) to Node.js third-party modules - 11 upvotes, $0
-113. [[simplehttpserver] List any file in the folder by using path traversal.](https://hackerone.com/reports/357109) to Node.js third-party modules - 11 upvotes, $0
-114. [Full Path disclosure on 500 error](https://hackerone.com/reports/708076) to Liberapay - 11 upvotes, $0
-115. [Exposing debug.log file leads to server full path disclosure](https://hackerone.com/reports/696360) to Nextcloud - 11 upvotes, $0
-116. [Path Traversal - [ CVE-2020-3452 ]](https://hackerone.com/reports/1137321) to U.S. Dept Of Defense - 11 upvotes, $0
-117. [[city-mobil.ru/taxiserv/] SQLi at /taxiserv/requests path at driver_company param](https://hackerone.com/reports/1079480) to Mail.ru - 10 upvotes, $3500
-118. [Forbidden access to https://apps-staging.pingone.com but "/packages.json" visible and full path disclosure](https://hackerone.com/reports/770711) to Ping Identity - 10 upvotes, $100
-119. [Arbitrary File Reading](https://hackerone.com/reports/150783) to OLX - 10 upvotes, $0
-120. [Debug.log file Exposed to Public \Full Path Disclosure\](https://hackerone.com/reports/202939) to Pornhub - 10 upvotes, $0
-121. [Full directory path listing](https://hackerone.com/reports/230098) to Paragon Initiative Enterprises - 10 upvotes, $0
+111. [Full directory path listing](https://hackerone.com/reports/230098) to Paragon Initiative Enterprises - 11 upvotes, $0
+112. [[html-pages] Path Traversal in html-pages module allows to read any file from the server with curl](https://hackerone.com/reports/306607) to Node.js third-party modules - 11 upvotes, $0
+113. [[buttle] Path traversal in mid-buttle module allows to read any file in the server.](https://hackerone.com/reports/358112) to Node.js third-party modules - 11 upvotes, $0
+114. [[simplehttpserver] List any file in the folder by using path traversal.](https://hackerone.com/reports/357109) to Node.js third-party modules - 11 upvotes, $0
+115. [Full Path disclosure on 500 error](https://hackerone.com/reports/708076) to Liberapay - 11 upvotes, $0
+116. [Exposing debug.log file leads to server full path disclosure](https://hackerone.com/reports/696360) to Nextcloud - 11 upvotes, $0
+117. [Path Traversal - [ CVE-2020-3452 ]](https://hackerone.com/reports/1137321) to U.S. Dept Of Defense - 11 upvotes, $0
+118. [[city-mobil.ru/taxiserv/] SQLi at /taxiserv/requests path at driver_company param](https://hackerone.com/reports/1079480) to Mail.ru - 10 upvotes, $3500
+119. [Forbidden access to https://apps-staging.pingone.com but "/packages.json" visible and full path disclosure](https://hackerone.com/reports/770711) to Ping Identity - 10 upvotes, $100
+120. [Arbitrary File Reading](https://hackerone.com/reports/150783) to OLX - 10 upvotes, $0
+121. [Debug.log file Exposed to Public \Full Path Disclosure\](https://hackerone.com/reports/202939) to Pornhub - 10 upvotes, $0
 122. [Path traversal on ████████](https://hackerone.com/reports/217344) to U.S. Dept Of Defense - 10 upvotes, $0
 123. [Local File Inclusion In Registration Page](https://hackerone.com/reports/1007799) to U.S. Dept Of Defense - 10 upvotes, $0
 124. [[samokat.ru] PHP modules path disclosure due to lack of error handling](https://hackerone.com/reports/1353244) to Mail.ru - 10 upvotes, $0
@@ -192,30 +192,30 @@ Top File Reading reports from HackerOne:
 190. [[statichttpserver] List any file in the folder by using path traversal.](https://hackerone.com/reports/570035) to Node.js third-party modules - 5 upvotes, $0
 191. [https://█████████ Vulnerable to CVE-2018-0296 Cisco ASA Path Traversal Authentication Bypass](https://hackerone.com/reports/622864) to U.S. Dept Of Defense - 5 upvotes, $0
 192. [Remote File Inclusion, Malicious File Hosting, and Cross-site Scripting (XSS) in ████████](https://hackerone.com/reports/192940) to U.S. Dept Of Defense - 5 upvotes, $0
-193. [Relative Path Traversal vulnerability in fabric-private-chaincode](https://hackerone.com/reports/1690377) to Hyperledger - 5 upvotes, $0
-194. [[Java]: CWE-073 - File path injection with the JFinal framework](https://hackerone.com/reports/1483918) to GitHub Security Lab - 4 upvotes, $1800
-195. [Directory traversal attack in view resolver](https://hackerone.com/reports/3370) to Ruby on Rails - 4 upvotes, $1500
-196. [Local file inclusion ](https://hackerone.com/reports/1675) to Yahoo! - 4 upvotes, $1390
-197. [CVE-2021-22924: Bad connection reuse due to flawed path name checks](https://hackerone.com/reports/1223565) to curl - 4 upvotes, $1200
-198. [Image Upload Path Disclosure](https://hackerone.com/reports/158021) to Instacart - 4 upvotes, $100
-199. [Error in Deleting Deck cards attachment reveals the full path of the website](https://hackerone.com/reports/1354334) to Nextcloud - 4 upvotes, $100
-200. [full path disclosure vulnerability at https://security.olx.com/*](https://hackerone.com/reports/159481) to OLX - 4 upvotes, $0
-201. [newrelic.com rails directory traversal vuln](https://hackerone.com/reports/134032) to New Relic - 4 upvotes, $0
-202. [Full Path Disclosure](https://hackerone.com/reports/47876) to Mail.ru - 4 upvotes, $0
-203. [[allods.my.com] Full Path Disclosure](https://hackerone.com/reports/97319) to Mail.ru - 4 upvotes, $0
-204. [[serve-here] Static Web Server Directory Traversal via Crafted GET Request](https://hackerone.com/reports/296254) to Node.js third-party modules - 4 upvotes, $0
-205. [[featurebook] Specification Server Directory Traversal via Crafted Browser Request](https://hackerone.com/reports/296305) to Node.js third-party modules - 4 upvotes, $0
-206. [[public] Path Traversal allows to read content of arbitrary files](https://hackerone.com/reports/312918) to Node.js third-party modules - 4 upvotes, $0
-207. [[angular-http-server] Server Directory Traversal](https://hackerone.com/reports/330349) to Node.js third-party modules - 4 upvotes, $0
-208. [Bypass to defective fix of Path Traversal ](https://hackerone.com/reports/329837) to Node.js third-party modules - 4 upvotes, $0
-209. [[ponse] Path traversal in ponse module allows to read any file on server](https://hackerone.com/reports/383112) to Node.js third-party modules - 4 upvotes, $0
-210. [[sapper] Path Traversal](https://hackerone.com/reports/820224) to Node.js third-party modules - 4 upvotes, $0
-211. [Full path disclosure vulnerability  via Upload .htaccess file](https://hackerone.com/reports/919429) to Nextcloud - 4 upvotes, $0
-212. [[hnzserver] Path Traversal allowing to read any files on the server](https://hackerone.com/reports/579517) to Node.js third-party modules - 4 upvotes, $0
-213. [[██████████.mil] Cisco VPN Service Path Traversal](https://hackerone.com/reports/943717) to U.S. Dept Of Defense - 4 upvotes, $0
-214. [Read-only path traversal (CVE-2020-3452)  at https://█████](https://hackerone.com/reports/960082) to U.S. Dept Of Defense - 4 upvotes, $0
-215. [Read-only path traversal (CVE-2020-3452)  at https://████████](https://hackerone.com/reports/959679) to U.S. Dept Of Defense - 4 upvotes, $0
-216. [Path traversal on [███]](https://hackerone.com/reports/1212746) to U.S. Dept Of Defense - 4 upvotes, $0
+193. [Path traversal on [███]](https://hackerone.com/reports/1212746) to U.S. Dept Of Defense - 5 upvotes, $0
+194. [Relative Path Traversal vulnerability in fabric-private-chaincode](https://hackerone.com/reports/1690377) to Hyperledger - 5 upvotes, $0
+195. [[Java]: CWE-073 - File path injection with the JFinal framework](https://hackerone.com/reports/1483918) to GitHub Security Lab - 4 upvotes, $1800
+196. [Directory traversal attack in view resolver](https://hackerone.com/reports/3370) to Ruby on Rails - 4 upvotes, $1500
+197. [Local file inclusion ](https://hackerone.com/reports/1675) to Yahoo! - 4 upvotes, $1390
+198. [CVE-2021-22924: Bad connection reuse due to flawed path name checks](https://hackerone.com/reports/1223565) to curl - 4 upvotes, $1200
+199. [Image Upload Path Disclosure](https://hackerone.com/reports/158021) to Instacart - 4 upvotes, $100
+200. [Error in Deleting Deck cards attachment reveals the full path of the website](https://hackerone.com/reports/1354334) to Nextcloud - 4 upvotes, $100
+201. [full path disclosure vulnerability at https://security.olx.com/*](https://hackerone.com/reports/159481) to OLX - 4 upvotes, $0
+202. [newrelic.com rails directory traversal vuln](https://hackerone.com/reports/134032) to New Relic - 4 upvotes, $0
+203. [Full Path Disclosure](https://hackerone.com/reports/47876) to Mail.ru - 4 upvotes, $0
+204. [[allods.my.com] Full Path Disclosure](https://hackerone.com/reports/97319) to Mail.ru - 4 upvotes, $0
+205. [[serve-here] Static Web Server Directory Traversal via Crafted GET Request](https://hackerone.com/reports/296254) to Node.js third-party modules - 4 upvotes, $0
+206. [[featurebook] Specification Server Directory Traversal via Crafted Browser Request](https://hackerone.com/reports/296305) to Node.js third-party modules - 4 upvotes, $0
+207. [[public] Path Traversal allows to read content of arbitrary files](https://hackerone.com/reports/312918) to Node.js third-party modules - 4 upvotes, $0
+208. [[angular-http-server] Server Directory Traversal](https://hackerone.com/reports/330349) to Node.js third-party modules - 4 upvotes, $0
+209. [Bypass to defective fix of Path Traversal ](https://hackerone.com/reports/329837) to Node.js third-party modules - 4 upvotes, $0
+210. [[ponse] Path traversal in ponse module allows to read any file on server](https://hackerone.com/reports/383112) to Node.js third-party modules - 4 upvotes, $0
+211. [[sapper] Path Traversal](https://hackerone.com/reports/820224) to Node.js third-party modules - 4 upvotes, $0
+212. [Full path disclosure vulnerability  via Upload .htaccess file](https://hackerone.com/reports/919429) to Nextcloud - 4 upvotes, $0
+213. [[hnzserver] Path Traversal allowing to read any files on the server](https://hackerone.com/reports/579517) to Node.js third-party modules - 4 upvotes, $0
+214. [[██████████.mil] Cisco VPN Service Path Traversal](https://hackerone.com/reports/943717) to U.S. Dept Of Defense - 4 upvotes, $0
+215. [Read-only path traversal (CVE-2020-3452)  at https://█████](https://hackerone.com/reports/960082) to U.S. Dept Of Defense - 4 upvotes, $0
+216. [Read-only path traversal (CVE-2020-3452)  at https://████████](https://hackerone.com/reports/959679) to U.S. Dept Of Defense - 4 upvotes, $0
 217. [[JAVA]: Partial Path Traversal](https://hackerone.com/reports/1678405) to GitHub Security Lab - 3 upvotes, $1800
 218. [Full Path Disclosure at 27.prd.vine.co](https://hackerone.com/reports/175451) to Twitter - 3 upvotes, $140
 219. [FULL PATH DISCLOSUR ](https://hackerone.com/reports/7736) to Concrete CMS - 3 upvotes, $0

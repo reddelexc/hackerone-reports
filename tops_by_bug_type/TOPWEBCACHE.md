@@ -16,8 +16,8 @@ Top Web Cache reports from HackerOne:
 14. [Shopify.com Web Cache Deception vulnerability leads to personal information and CSRF tokens leakage](https://hackerone.com/reports/1271944) to Shopify - 25 upvotes, $800
 15. [Web cache information leakage at sbermarket.ru](https://hackerone.com/reports/893353) to Mail.ru - 22 upvotes, $400
 16. [Web Cache poisoning attack leads to User information Disclosure and more](https://hackerone.com/reports/631589) to Lyst - 21 upvotes, $300
-17. [https://help.nextcloud.com::: Web cache poisoning attack](https://hackerone.com/reports/429747) to Nextcloud - 21 upvotes, $0
-18. [Web Cache Deception Attack (XSS)](https://hackerone.com/reports/504261) to Algolia - 20 upvotes, $100
+17. [Web Cache Deception Attack (XSS)](https://hackerone.com/reports/504261) to Algolia - 21 upvotes, $100
+18. [https://help.nextcloud.com::: Web cache poisoning attack](https://hackerone.com/reports/429747) to Nextcloud - 21 upvotes, $0
 19. [[*.rocketbank.ru] Web Cache Deception & XSS](https://hackerone.com/reports/415168) to QIWI - 19 upvotes, $200
 20. [HTTP request smuggling on Basecamp 2 allows web cache poisoning](https://hackerone.com/reports/919175) to Basecamp - 17 upvotes, $1700
 21. [Web Cache Poisoning](https://hackerone.com/reports/534297) to Mail.ru - 17 upvotes, $0

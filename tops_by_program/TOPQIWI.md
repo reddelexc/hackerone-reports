@@ -46,10 +46,10 @@ Top reports from QIWI program at HackerOne:
 44. [Небезопасная схема выдачи номера карты QVC (возможно, также QVV и QVP)](https://hackerone.com/reports/87586) to QIWI - 17 upvotes, $200
 45. [Information disclosure on https://paycard.rapida.ru](https://hackerone.com/reports/299552) to QIWI - 17 upvotes, $100
 46. [[wallet.rapida.ru] XSS Cookie flashcookie](https://hackerone.com/reports/164662) to QIWI - 17 upvotes, $100
-47. [[ibank.qiwi.ru] XSS via Request-URI](https://hackerone.com/reports/164152) to QIWI - 15 upvotes, $150
-48. [https://fundl.qiwi.com CSRF на подтверждении sms ](https://hackerone.com/reports/301718) to QIWI - 15 upvotes, $100
-49. [[sms.qiwi.ru] XSS via Request-URI](https://hackerone.com/reports/38345) to QIWI - 15 upvotes, $100
-50. [broken authentication (password reset link not expire after use   in  https://network.tochka.com/sign-up)](https://hackerone.com/reports/1401891) to QIWI - 15 upvotes, $100
+47. [broken authentication (password reset link not expire after use   in  https://network.tochka.com/sign-up)](https://hackerone.com/reports/1401891) to QIWI - 16 upvotes, $100
+48. [[ibank.qiwi.ru] XSS via Request-URI](https://hackerone.com/reports/164152) to QIWI - 15 upvotes, $150
+49. [https://fundl.qiwi.com CSRF на подтверждении sms ](https://hackerone.com/reports/301718) to QIWI - 15 upvotes, $100
+50. [[sms.qiwi.ru] XSS via Request-URI](https://hackerone.com/reports/38345) to QIWI - 15 upvotes, $100
 51. [Слив какого-то access токена](https://hackerone.com/reports/735971) to QIWI - 14 upvotes, $200
 52. [[contact-sys.com] XSS via Request-URI](https://hackerone.com/reports/164656) to QIWI - 14 upvotes, $100
 53. [Каким-то образом получил чужой платеж к себе на копилку https://qiwi.me/undefined](https://hackerone.com/reports/487296) to QIWI - 14 upvotes, $50

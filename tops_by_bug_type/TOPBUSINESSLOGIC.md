@@ -4,8 +4,8 @@ Top Business Logic reports from HackerOne:
 2. [Ethereum account balance manipulation](https://hackerone.com/reports/300748) to Coinbase - 251 upvotes, $10000
 3. [Account takeover through the combination of cookie manipulation and XSS](https://hackerone.com/reports/534450) to Grammarly - 251 upvotes, $2000
 4. [SSRF  leaking internal google cloud data through upload function [SSH Keys, etc..]](https://hackerone.com/reports/549882) to Vimeo - 248 upvotes, $5000
-5. [Account Takeover via Email ID Change and Forgot Password Functionality](https://hackerone.com/reports/1089467) to New Relic - 208 upvotes, $2048
-6. [Blind SQL injection and making any profile comments from any users to disappear using "like" function (2 in 1 issues)](https://hackerone.com/reports/363815) to Tube8 - 207 upvotes, $2500
+5. [Account Takeover via Email ID Change and Forgot Password Functionality](https://hackerone.com/reports/1089467) to New Relic - 209 upvotes, $2048
+6. [Blind SQL injection and making any profile comments from any users to disappear using "like" function (2 in 1 issues)](https://hackerone.com/reports/363815) to Tube8 - 208 upvotes, $2500
 7. [Abusing "Report as abuse" functionality to delete any user's post.](https://hackerone.com/reports/411075) to Vanilla - 159 upvotes, $300
 8. [OLO Total price manipulation using negative quantities](https://hackerone.com/reports/364843) to Upserve  - 144 upvotes, $3500
 9. [Unserialize leading to arbitrary PHP function invoke](https://hackerone.com/reports/210741) to Rockstar Games - 113 upvotes, $5000

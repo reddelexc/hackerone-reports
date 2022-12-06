@@ -10,7 +10,7 @@ Top Mobile reports from HackerOne:
 8. [XSS via message subject - mobile application](https://hackerone.com/reports/368912) to Mail.ru - 138 upvotes, $1000
 9. [url that twitter mobile site can not load](https://hackerone.com/reports/500686) to Twitter - 136 upvotes, $1120
 10. [Changing email address on Twitter for Android unsets "Protect your Tweets"](https://hackerone.com/reports/472013) to Twitter - 116 upvotes, $2940
-11. [Possible to steal any protected files on Android](https://hackerone.com/reports/377107) to ownCloud - 110 upvotes, $750
+11. [Possible to steal any protected files on Android](https://hackerone.com/reports/377107) to ownCloud - 111 upvotes, $750
 12. [[Razer Pay Android App] Multiple vulnerabilities chained to allow "RedPacket" money to be stolen by a 3rd party](https://hackerone.com/reports/753280) to Razer - 84 upvotes, $1000
 13. [Disclosure of all uploads to Cloudinary via hardcoded api secret in Android app](https://hackerone.com/reports/351555) to Reverb.com - 83 upvotes, $750
 14. [Grammarly Keyboard for Android \<4.1  leaks user input through logs (except for sensitive input fields)](https://hackerone.com/reports/462416) to Grammarly - 82 upvotes, $300
@@ -56,7 +56,7 @@ Top Mobile reports from HackerOne:
 54. [Vine - overwrite account associated with email via android application](https://hackerone.com/reports/187714) to Twitter - 23 upvotes, $280
 55. [Leak arbitrary file under nextcloud android client privacy directory](https://hackerone.com/reports/1142918) to Nextcloud - 23 upvotes, $100
 56. [Possibility to enumerate and bruteforce promotion codes in Uber iOS App](https://hackerone.com/reports/125707) to Uber - 22 upvotes, $3000
-57. [No validation to Image upload user can upload ( php APK zip files and can be used as storage purpose)](https://hackerone.com/reports/1644062) to Linktree - 21 upvotes, $750
+57. [No validation to Image upload user can upload ( php APK zip files and can be used as storage purpose)](https://hackerone.com/reports/1644062) to Linktree - 22 upvotes, $750
 58. [Insecure HostnameVerifier within WebView of Razer Pay Android (TLS Vulnerability)](https://hackerone.com/reports/795272) to Razer - 20 upvotes, $750
 59. [Identify the mobile number of a twitter user](https://hackerone.com/reports/1225164) to Twitter - 20 upvotes, $560
 60. [DoS of LINE client for Android via message containing multiple unicode characters (0x0e & 0x0f)](https://hackerone.com/reports/1058383) to LINE - 20 upvotes, $250

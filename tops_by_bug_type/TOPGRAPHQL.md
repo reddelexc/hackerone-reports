@@ -13,7 +13,7 @@ Top GraphQL reports from HackerOne:
 11. [Private program disclosure via `vpn_suspended` GraphQL query](https://hackerone.com/reports/715192) to HackerOne - 131 upvotes, $2500
 12. [GraphQL field on Team node can be used to determine if External Program runs invite-only program](https://hackerone.com/reports/877642) to HackerOne - 99 upvotes, $2500
 13. [Team object in GraphQL disclosed total number of whitelisted hackers](https://hackerone.com/reports/342978) to HackerOne - 86 upvotes, $2500
-14. [Private information exposed through GraphQL filters](https://hackerone.com/reports/645299) to HackerOne - 73 upvotes, $0
+14. [Private information exposed through GraphQL filters](https://hackerone.com/reports/645299) to HackerOne - 74 upvotes, $0
 15. [Team object in GraphQL discloses team group names and permissions](https://hackerone.com/reports/343464) to HackerOne - 70 upvotes, $2500
 16. [Cross-Tenant IDOR ( graphql `AddRulesToPixelEvents` query ) allowing to add, update, and delete rules of any Pixel events on the platform](https://hackerone.com/reports/984965) to TikTok - 69 upvotes, $2373
 17. [Team object in GraphQL disclosed of private programs via the industry](https://hackerone.com/reports/707406) to HackerOne - 68 upvotes, $500

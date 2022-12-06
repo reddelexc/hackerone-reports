@@ -1,6 +1,6 @@
 Top MFA reports from HackerOne:
 
-1. [2FA bypass by sending blank code](https://hackerone.com/reports/897385) to Glassdoor - 265 upvotes, $1000
+1. [2FA bypass by sending blank code](https://hackerone.com/reports/897385) to Glassdoor - 266 upvotes, $1000
 2. [Hacker can bypass 2FA requirement and reporter blacklist through embedded submission form](https://hackerone.com/reports/418767) to HackerOne - 176 upvotes, $10000
 3. [Previously created sessions continue being valid after MFA activation](https://hackerone.com/reports/667739) to Grammarly - 148 upvotes, $2500
 4. [Enable 2FA without verifying the email](https://hackerone.com/reports/649533) to Moneybird - 124 upvotes, $100
@@ -30,9 +30,9 @@ Top MFA reports from HackerOne:
 28. [2FA Error Handling on Google Authenticator](https://hackerone.com/reports/249695) to Legal Robot - 12 upvotes, $60
 29. [2FA manual entry uses wrong encoding](https://hackerone.com/reports/260390) to Legal Robot - 12 upvotes, $30
 30. [Can register any mobile number in MFA without current code.](https://hackerone.com/reports/667740) to Grammarly - 11 upvotes, $750
-31. [Pending MFA logins aren't immediatly expired after a password change](https://hackerone.com/reports/743518) to Moneybird - 11 upvotes, $50
-32. [Bypassing 2FA for BTC transfers](https://hackerone.com/reports/10554) to Coinbase - 10 upvotes, $1000
-33. [Email Verification Bypass by bruteforcing when setting up 2FA](https://hackerone.com/reports/1394984) to Evernote - 10 upvotes, $150
+31. [Email Verification Bypass by bruteforcing when setting up 2FA](https://hackerone.com/reports/1394984) to Evernote - 11 upvotes, $150
+32. [Pending MFA logins aren't immediatly expired after a password change](https://hackerone.com/reports/743518) to Moneybird - 11 upvotes, $50
+33. [Bypassing 2FA for BTC transfers](https://hackerone.com/reports/10554) to Coinbase - 10 upvotes, $1000
 34. [CSRF в получении резервных токенов+framing , приводящие к компроментации 2fa](https://hackerone.com/reports/90165) to VK.com - 9 upvotes, $500
 35. [2FA Disable With Wrong Password - Response Tampering.](https://hackerone.com/reports/893085) to 8x8 - 9 upvotes, $0
 36. [Новый 2FA Bypass](https://hackerone.com/reports/179421) to VK.com - 8 upvotes, $1000

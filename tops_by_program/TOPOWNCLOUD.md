@@ -1,6 +1,6 @@
 Top reports from ownCloud program at HackerOne:
 
-1. [Possible to steal any protected files on Android](https://hackerone.com/reports/377107) to ownCloud - 110 upvotes, $750
+1. [Possible to steal any protected files on Android](https://hackerone.com/reports/377107) to ownCloud - 111 upvotes, $750
 2. [Banner Grabbing - Apache Server Version Disclousure](https://hackerone.com/reports/269467) to ownCloud - 19 upvotes, $0
 3. [Arbitrary Code Injection in ownCloud’s Windows Client](https://hackerone.com/reports/155657) to ownCloud - 16 upvotes, $100
 4. [Remote Code Execution through Deserialization Attack in OwnBackup app.](https://hackerone.com/reports/562335) to ownCloud - 15 upvotes, $0
