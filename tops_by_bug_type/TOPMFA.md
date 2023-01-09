@@ -1,7 +1,7 @@
 Top MFA reports from HackerOne:
 
 1. [2FA bypass by sending blank code](https://hackerone.com/reports/897385) to Glassdoor - 266 upvotes, $1000
-2. [Hacker can bypass 2FA requirement and reporter blacklist through embedded submission form](https://hackerone.com/reports/418767) to HackerOne - 176 upvotes, $10000
+2. [Hacker can bypass 2FA requirement and reporter blacklist through embedded submission form](https://hackerone.com/reports/418767) to HackerOne - 177 upvotes, $10000
 3. [Previously created sessions continue being valid after MFA activation](https://hackerone.com/reports/667739) to Grammarly - 148 upvotes, $2500
 4. [Enable 2FA without verifying the email](https://hackerone.com/reports/649533) to Moneybird - 124 upvotes, $100
 5. [Password not checked when disabling 2FA on HackerOne](https://hackerone.com/reports/587910) to HackerOne - 81 upvotes, $500
@@ -51,16 +51,16 @@ Top MFA reports from HackerOne:
 49. [Users with 2FA can have multiple sessions](https://hackerone.com/reports/250243) to Legal Robot - 5 upvotes, $60
 50. [Bypass MFA requirement to send messages](https://hackerone.com/reports/987650) to Zivver - 5 upvotes, $0
 51. [2FA bypass - confirmation tokens don't expire](https://hackerone.com/reports/264090) to GSA Bounty - 4 upvotes, $0
-52. [Missing Two Factor Authentication in /admin/login](https://hackerone.com/reports/474963) to CFP Time - 3 upvotes, $0
-53. [Two-factor authentication (2FA) Bypass](https://hackerone.com/reports/708303) to BlockDev Sp. Z o.o - 3 upvotes, $0
-54. [Able to upload backgrounds before entering 2FA](https://hackerone.com/reports/1080839) to CS Money - 3 upvotes, $0
-55. [The authentication code when activating 2FA can be used again to log in](https://hackerone.com/reports/695041) to Shopify - 3 upvotes, $0
-56. [No admin audit entry for enabling/disabling 2FA](https://hackerone.com/reports/1200989) to Nextcloud - 3 upvotes, $0
-57. [No rate-limit in Two factor Authentication leads to bypass using bruteforce attack](https://hackerone.com/reports/128777) to Algolia - 2 upvotes, $100
-58. [Incorrect email content when disabling 2FA](https://hackerone.com/reports/259416) to Legal Robot - 2 upvotes, $20
-59. [Lengthy manual entry of 2FA secret](https://hackerone.com/reports/259415) to Legal Robot - 2 upvotes, $20
-60. [2FA manual entry uses wrong encoding](https://hackerone.com/reports/260491) to Legal Robot - 2 upvotes, $20
-61. [2FA settings allowed to be changed with no delay/freeze on funds](https://hackerone.com/reports/16696) to Coinbase - 2 upvotes, $0
+52. [2FA settings allowed to be changed with no delay/freeze on funds](https://hackerone.com/reports/16696) to Coinbase - 3 upvotes, $0
+53. [Missing Two Factor Authentication in /admin/login](https://hackerone.com/reports/474963) to CFP Time - 3 upvotes, $0
+54. [Two-factor authentication (2FA) Bypass](https://hackerone.com/reports/708303) to BlockDev Sp. Z o.o - 3 upvotes, $0
+55. [Able to upload backgrounds before entering 2FA](https://hackerone.com/reports/1080839) to CS Money - 3 upvotes, $0
+56. [The authentication code when activating 2FA can be used again to log in](https://hackerone.com/reports/695041) to Shopify - 3 upvotes, $0
+57. [No admin audit entry for enabling/disabling 2FA](https://hackerone.com/reports/1200989) to Nextcloud - 3 upvotes, $0
+58. [No rate-limit in Two factor Authentication leads to bypass using bruteforce attack](https://hackerone.com/reports/128777) to Algolia - 2 upvotes, $100
+59. [Incorrect email content when disabling 2FA](https://hackerone.com/reports/259416) to Legal Robot - 2 upvotes, $20
+60. [Lengthy manual entry of 2FA secret](https://hackerone.com/reports/259415) to Legal Robot - 2 upvotes, $20
+61. [2FA manual entry uses wrong encoding](https://hackerone.com/reports/260491) to Legal Robot - 2 upvotes, $20
 62. [[h1-2006 CTF] Multiple vulnerabilities leading to account takeover and two-factor authentication bypass allows to send pending bounty payments](https://hackerone.com/reports/895722) to h1-ctf - 2 upvotes, $0
 63. [Two-factor authentication (via SMS)](https://hackerone.com/reports/66223) to Coinbase - 1 upvotes, $0
 64. [Bypass configured 2FA provider with another provider that can be set up at login](https://hackerone.com/reports/722748) to Nextcloud - 1 upvotes, $0

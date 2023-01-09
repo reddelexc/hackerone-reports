@@ -2,8 +2,8 @@ Top reports from New Relic program at HackerOne:
 
 1. [Password theft login.newrelic.com via Request Smuggling](https://hackerone.com/reports/498052) to New Relic - 484 upvotes, $3000
 2. [Unsafe charts embedding implementation leads to cross-account stored XSS and SSRF](https://hackerone.com/reports/708589) to New Relic - 223 upvotes, $2500
-3. [Account Takeover via Email ID Change and Forgot Password Functionality](https://hackerone.com/reports/1089467) to New Relic - 209 upvotes, $2048
-4. [Cross-account stored XSS at embedded charts](https://hackerone.com/reports/709883) to New Relic - 154 upvotes, $3625
+3. [Account Takeover via Email ID Change and Forgot Password Functionality](https://hackerone.com/reports/1089467) to New Relic - 210 upvotes, $2048
+4. [Cross-account stored XSS at embedded charts](https://hackerone.com/reports/709883) to New Relic - 155 upvotes, $3625
 5. [Stored XSS in notes (charts) because of insecure chart data JSON generation](https://hackerone.com/reports/507132) to New Relic - 145 upvotes, $4250
 6. [Reflected XSS in VPN Appliance](https://hackerone.com/reports/1386438) to New Relic - 96 upvotes, $1024
 7. [CSTI at Plugin page leading to active stored XSS (Publisher name)](https://hackerone.com/reports/587829) to New Relic - 91 upvotes, $2500
@@ -26,7 +26,7 @@ Top reports from New Relic program at HackerOne:
 24. [removed user can still join the organization](https://hackerone.com/reports/976441) to New Relic - 35 upvotes, $250
 25. [Users can enable API access for free via mass assignment](https://hackerone.com/reports/267781) to New Relic - 34 upvotes, $0
 26. [Sending thousands of notifications with single request](https://hackerone.com/reports/957829) to New Relic - 29 upvotes, $500
-27. [Adding your account to victim's app via deeplink](https://hackerone.com/reports/957874) to New Relic - 28 upvotes, $100
+27. [Adding your account to victim's app via deeplink](https://hackerone.com/reports/957874) to New Relic - 29 upvotes, $100
 28. [Cache-Control Misconfiguration Leads to Sensitive Information Leakage](https://hackerone.com/reports/132835) to New Relic - 28 upvotes, $0
 29. [[NR Insights] IDOR - Modify the filter settings for any NR Insights dashboard through internal_api endpoint](https://hackerone.com/reports/459443) to New Relic - 27 upvotes, $2500
 30. [The impossibility of inclusion of the trial (BROWSER)](https://hackerone.com/reports/460428) to New Relic - 26 upvotes, $200

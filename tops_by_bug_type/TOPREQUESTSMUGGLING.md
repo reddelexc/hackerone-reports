@@ -1,8 +1,8 @@
 Top Request Smuggling reports from HackerOne:
 
-1. [Mass account takeovers using HTTP Request Smuggling on https://slackb.com/ to steal session cookies](https://hackerone.com/reports/737140) to Slack - 822 upvotes, $6500
+1. [Mass account takeovers using HTTP Request Smuggling on https://slackb.com/ to steal session cookies](https://hackerone.com/reports/737140) to Slack - 823 upvotes, $6500
 2. [Request smuggling on admin-official.line.me could lead to account takeover](https://hackerone.com/reports/740037) to LINE - 551 upvotes, $9000
-3. [Stealing Zomato X-Access-Token: in Bulk using HTTP Request Smuggling on api.zomato.com](https://hackerone.com/reports/771666) to Zomato - 531 upvotes, $5000
+3. [Stealing Zomato X-Access-Token: in Bulk using HTTP Request Smuggling on api.zomato.com](https://hackerone.com/reports/771666) to Zomato - 532 upvotes, $5000
 4. [Password theft login.newrelic.com via Request Smuggling](https://hackerone.com/reports/498052) to New Relic - 484 upvotes, $3000
 5. [HTTP request Smuggling](https://hackerone.com/reports/867952) to Helium - 287 upvotes, $500
 6. [HTTP Request Smuggling via HTTP/2](https://hackerone.com/reports/1211724) to Basecamp - 284 upvotes, $7500
@@ -12,12 +12,12 @@ Top Request Smuggling reports from HackerOne:
 10. [HTTP Request Smuggling due to CR-to-Hyphen conversion](https://hackerone.com/reports/922597) to Node.js - 131 upvotes, $500
 11. [HTTP Request Smuggling on vpn.lob.com](https://hackerone.com/reports/694604) to Lob - 123 upvotes, $500
 12. [HTTP Request Smuggling in Transform Rules using hexadecimal escape sequences in the concat() function](https://hackerone.com/reports/1478633) to Cloudflare Public Bug Bounty - 104 upvotes, $6000
-13. [HTTP request smuggling using malformed Transfer-Encoding header](https://hackerone.com/reports/735748) to Node.js - 100 upvotes, $250
+13. [HTTP request smuggling using malformed Transfer-Encoding header](https://hackerone.com/reports/735748) to Node.js - 101 upvotes, $250
 14. [Potential HTTP Request Smuggling in ruby webrick](https://hackerone.com/reports/965267) to Ruby - 52 upvotes, $500
 15. [HTTP request smuggling with Origin Rules using newlines in the host_header action parameter](https://hackerone.com/reports/1575912) to Cloudflare Public Bug Bounty - 44 upvotes, $3100
 16. [HTTP Request Smuggling ](https://hackerone.com/reports/1120982) to U.S. Dept Of Defense - 38 upvotes, $0
-17. [Potential HTTP Request Smuggling in nodejs](https://hackerone.com/reports/1002188) to Node.js - 29 upvotes, $250
-18. [HTTP Request Smuggling on api.flocktory.com Leads to XSS on Customer Sites](https://hackerone.com/reports/955170) to QIWI - 28 upvotes, $300
+17. [HTTP Request Smuggling on api.flocktory.com Leads to XSS on Customer Sites](https://hackerone.com/reports/955170) to QIWI - 29 upvotes, $300
+18. [Potential HTTP Request Smuggling in nodejs](https://hackerone.com/reports/1002188) to Node.js - 29 upvotes, $250
 19. [Request smuggling on ████████](https://hackerone.com/reports/526880) to U.S. Dept Of Defense - 23 upvotes, $0
 20. [Unauthenticated request smuggling on launchpad.37signals.com](https://hackerone.com/reports/867577) to Basecamp - 21 upvotes, $1737
 21. [Apache HTTP Server: mod_proxy_ajp: Possible request smuggling](https://hackerone.com/reports/1594627) to Internet Bug Bounty - 20 upvotes, $2400
