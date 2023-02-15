@@ -2,11 +2,11 @@ Top reports from Pornhub program at HackerOne:
 
 1. [[phpobject in cookie] Remote shell/command execution](https://hackerone.com/reports/141956) to Pornhub - 605 upvotes, $20000
 2. [idor allows you to delete photos and album from a gallery](https://hackerone.com/reports/380410) to Pornhub - 265 upvotes, $1500
-3. [Deserialization of untrusted data at https://www.redtube.com/media/hls?s=data](https://hackerone.com/reports/1312641) to Pornhub - 259 upvotes, $10000
-4. [IDOR allows any user to edit others videos](https://hackerone.com/reports/681473) to Pornhub - 242 upvotes, $1500
+3. [Deserialization of untrusted data at https://www.redtube.com/media/hls?s=data](https://hackerone.com/reports/1312641) to Pornhub - 260 upvotes, $10000
+4. [IDOR allows any user to edit others videos](https://hackerone.com/reports/681473) to Pornhub - 243 upvotes, $1500
 5. [Blind SQL injection and making any profile comments from any users to disappear using "like" function (2 in 1 issues)](https://hackerone.com/reports/363815) to Pornhub - 208 upvotes, $2500
 6. [Publicly exposed SVN repository, ht.pornhub.com](https://hackerone.com/reports/72243) to Pornhub - 207 upvotes, $10000
-7. [Blind SQL injection in Hall of Fap](https://hackerone.com/reports/295841) to Pornhub - 173 upvotes, $2500
+7. [Blind SQL injection in Hall of Fap](https://hackerone.com/reports/295841) to Pornhub - 174 upvotes, $2500
 8. [CRITICAL ISSUE : Leak of all accounts mail login md5 pass and more](https://hackerone.com/reports/514488) to Pornhub - 156 upvotes, $5000
 9. [Multiple endpoints are vulnerable to XML External Entity injection (XXE) ](https://hackerone.com/reports/72272) to Pornhub - 136 upvotes, $2500
 10. [View storyboard of private video @ ht.pornhub.com](https://hackerone.com/reports/138703) to Pornhub - 129 upvotes, $750
@@ -15,13 +15,13 @@ Top reports from Pornhub program at HackerOne:
 13. [[RCE] Unserialize to XXE - file disclosure on ams.upload.pornhub.com](https://hackerone.com/reports/142562) to Pornhub - 89 upvotes, $10000
 14. [xss](https://hackerone.com/reports/306554) to Pornhub - 84 upvotes, $100
 15. [Reflect XSS on Mobile Search page ](https://hackerone.com/reports/380246) to Pornhub - 79 upvotes, $250
-16. [Unsecured DB instance](https://hackerone.com/reports/189192) to Pornhub - 72 upvotes, $5000
+16. [Unsecured DB instance](https://hackerone.com/reports/189192) to Pornhub - 73 upvotes, $5000
 17. [Reflected XSS on www.pornhub.com and www.pornhubpremium.com](https://hackerone.com/reports/1354161) to Pornhub - 70 upvotes, $750
 18. [Blind XSS in redtube administering site my.reflected.net](https://hackerone.com/reports/603941) to Pornhub - 69 upvotes, $1000
 19. [SSRF and local file disclosure by video upload on https://www.redtube.com/upload](https://hackerone.com/reports/570537) to Pornhub - 60 upvotes, $500
 20. [[idor] Unauthorized Read access to all the private posts(Including Photos,Videos,Gifs)](https://hackerone.com/reports/148764) to Pornhub - 58 upvotes, $1500
 21. [SSRF and local file disclosure by video upload on https://www.tube8.com/](https://hackerone.com/reports/574133) to Pornhub - 53 upvotes, $500
-22. [Wordpress Content injection ](https://hackerone.com/reports/202949) to Pornhub - 47 upvotes, $1500
+22. [Wordpress Content injection ](https://hackerone.com/reports/202949) to Pornhub - 48 upvotes, $1500
 23. [Stored XSS in photo comment functionality](https://hackerone.com/reports/172227) to Pornhub - 44 upvotes, $1500
 24. [Stored XSS (client-side, using cookie poisoning) on the pornhubpremium.com](https://hackerone.com/reports/311948) to Pornhub - 40 upvotes, $250
 25. [RCE Possible Via Video Manager Export using @ character in Video Title](https://hackerone.com/reports/146593) to Pornhub - 38 upvotes, $500
@@ -81,8 +81,8 @@ Top reports from Pornhub program at HackerOne:
 79. [Private videos can be added to our playlists](https://hackerone.com/reports/246819) to Pornhub - 7 upvotes, $0
 80. [Unauthenticated access to Content Management System - www1.pornhubpremium.com](https://hackerone.com/reports/72735) to Pornhub - 6 upvotes, $5000
 81. [SSRF & XSS (W3 Total Cache)](https://hackerone.com/reports/138721) to Pornhub - 6 upvotes, $1000
-82. [[crossdomain.xml] Dangerous Flash Cross-Domain Policy](https://hackerone.com/reports/105655) to Pornhub - 6 upvotes, $50
-83. [Reflected XSS in Meta Tag](https://hackerone.com/reports/203974) to Pornhub - 5 upvotes, $250
+82. [Reflected XSS in Meta Tag](https://hackerone.com/reports/203974) to Pornhub - 6 upvotes, $250
+83. [[crossdomain.xml] Dangerous Flash Cross-Domain Policy](https://hackerone.com/reports/105655) to Pornhub - 6 upvotes, $50
 84. [Reflected cross-site scripting (XSS) vulnerability in pornhub.com allows attackers to inject arbitrary web script or HTML.](https://hackerone.com/reports/182132) to Pornhub - 5 upvotes, $200
 85. [Cross Site Scripting – Album Page](https://hackerone.com/reports/82929) to Pornhub - 4 upvotes, $50
 86. [HTTP Track/Trace Method Enabled](https://hackerone.com/reports/119860) to Pornhub - 4 upvotes, $50

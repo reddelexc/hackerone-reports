@@ -1,6 +1,6 @@
 Top Web Cache reports from HackerOne:
 
-1. [DoS on PayPal via web cache poisoning](https://hackerone.com/reports/622122) to PayPal - 806 upvotes, $9700
+1. [DoS on PayPal via web cache poisoning](https://hackerone.com/reports/622122) to PayPal - 807 upvotes, $9700
 2. [Web cache poisoning attack leads to user information and more](https://hackerone.com/reports/492841) to Postmates - 340 upvotes, $500
 3. [Web Cache Poisoning leads to Stored XSS ](https://hackerone.com/reports/1424094) to Glassdoor - 92 upvotes, $2000
 4. [Defacement of catalog.data.gov via web cache poisoning to stored DOMXSS](https://hackerone.com/reports/303730) to GSA Bounty - 75 upvotes, $750
