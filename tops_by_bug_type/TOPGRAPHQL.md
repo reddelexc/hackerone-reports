@@ -1,17 +1,17 @@
 Top GraphQL reports from HackerOne:
 
-1. [Confidential data of users and limited metadata of programs and reports accessible via GraphQL](https://hackerone.com/reports/489146) to HackerOne - 972 upvotes, $20000
+1. [Confidential data of users and limited metadata of programs and reports accessible via GraphQL](https://hackerone.com/reports/489146) to HackerOne - 974 upvotes, $20000
 2. [Email address of any user can be queried on Report Invitation GraphQL type when username is known](https://hackerone.com/reports/792927) to HackerOne - 621 upvotes, $8500
-3. [Private list members disclosure via GraphQL](https://hackerone.com/reports/885539) to Twitter - 324 upvotes, $2940
+3. [Private list members disclosure via GraphQL](https://hackerone.com/reports/885539) to Twitter - 325 upvotes, $2940
 4. [Disclosure of `payment_transactions` for programs via GraphQL query](https://hackerone.com/reports/707433) to HackerOne - 171 upvotes, $2500
-5. [GraphQL AdminGenerateSessionPayload is leaked to staff with no permission](https://hackerone.com/reports/898528) to Shopify - 166 upvotes, $2000
-6. [SQL injection in GraphQL endpoint through embedded_submission_form_uuid parameter](https://hackerone.com/reports/435066) to HackerOne - 147 upvotes, $0
-7. [Team object in GraphQL disclosed private_comment](https://hackerone.com/reports/978143) to HackerOne - 140 upvotes, $2500
-8. [Undocumented `fileCopy` GraphQL API](https://hackerone.com/reports/981472) to Shopify - 140 upvotes, $2000
-9. [Unauthorized user can obtain `report_sources` attribute through Team GraphQL object](https://hackerone.com/reports/770209) to HackerOne - 136 upvotes, $2500
-10. [Bug in GraphQL and API integration leads to limited user address disclosure](https://hackerone.com/reports/473742) to Starbucks - 136 upvotes, $1000
-11. [Private program disclosure via `vpn_suspended` GraphQL query](https://hackerone.com/reports/715192) to HackerOne - 131 upvotes, $2500
-12. [Github Apps can use Scoped-User-To-Server Tokens to Obtain Full Access to User's Projects in Project V2 GraphQL api](https://hackerone.com/reports/1711938) to GitHub - 129 upvotes, $20000
+5. [Github Apps can use Scoped-User-To-Server Tokens to Obtain Full Access to User's Projects in Project V2 GraphQL api](https://hackerone.com/reports/1711938) to GitHub - 167 upvotes, $20000
+6. [GraphQL AdminGenerateSessionPayload is leaked to staff with no permission](https://hackerone.com/reports/898528) to Shopify - 166 upvotes, $2000
+7. [SQL injection in GraphQL endpoint through embedded_submission_form_uuid parameter](https://hackerone.com/reports/435066) to HackerOne - 147 upvotes, $0
+8. [Team object in GraphQL disclosed private_comment](https://hackerone.com/reports/978143) to HackerOne - 140 upvotes, $2500
+9. [Undocumented `fileCopy` GraphQL API](https://hackerone.com/reports/981472) to Shopify - 140 upvotes, $2000
+10. [Unauthorized user can obtain `report_sources` attribute through Team GraphQL object](https://hackerone.com/reports/770209) to HackerOne - 136 upvotes, $2500
+11. [Bug in GraphQL and API integration leads to limited user address disclosure](https://hackerone.com/reports/473742) to Starbucks - 136 upvotes, $1000
+12. [Private program disclosure via `vpn_suspended` GraphQL query](https://hackerone.com/reports/715192) to HackerOne - 131 upvotes, $2500
 13. [GraphQL field on Team node can be used to determine if External Program runs invite-only program](https://hackerone.com/reports/877642) to HackerOne - 99 upvotes, $2500
 14. [Team object in GraphQL disclosed total number of whitelisted hackers](https://hackerone.com/reports/342978) to HackerOne - 86 upvotes, $2500
 15. [Private information exposed through GraphQL filters](https://hackerone.com/reports/645299) to HackerOne - 75 upvotes, $0
@@ -39,7 +39,7 @@ Top GraphQL reports from HackerOne:
 37. [Private information exposed through GraphQL search endpoints aggregates](https://hackerone.com/reports/1838329) to HackerOne - 27 upvotes, $0
 38. [User object in GraphQL exposes number of trial reports for External Programs that also have a Private Program](https://hackerone.com/reports/350964) to HackerOne - 24 upvotes, $0
 39. [Disabled account can still use GraphQL endpoint](https://hackerone.com/reports/608656) to HackerOne - 22 upvotes, $500
-40. [Staff  can use BULK_OPERATIONS_FINISH webhook topic using Graphql without permissions all](https://hackerone.com/reports/1350095) to Shopify - 20 upvotes, $600
+40. [Staff  can use BULK_OPERATIONS_FINISH webhook topic using Graphql without permissions all](https://hackerone.com/reports/1350095) to Shopify - 21 upvotes, $600
 41. [STAFF member with NO Explicit permissions can view `ActivityFeed` via GraphQL](https://hackerone.com/reports/528940) to Shopify - 20 upvotes, $500
 42. [Bypass GraphQL rate limit by abusing negative cost queries](https://hackerone.com/reports/481518) to Shopify - 20 upvotes, $0
 43. [GRAPHQL cross-tenant IDOR giving write access thought the operation UpdateAtlasApplicationPerson](https://hackerone.com/reports/1066203) to Stripe - 18 upvotes, $2500

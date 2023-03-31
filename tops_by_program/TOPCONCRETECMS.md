@@ -16,8 +16,8 @@ Top reports from Concrete CMS program at HackerOne:
 14. [Stored XSS in Headline TextControl element in Express forms [ concrete5 8.1.0 ]](https://hackerone.com/reports/230278) to Concrete CMS - 12 upvotes, $0
 15. [Unauthenticated reflected XSS in preview_as_user function](https://hackerone.com/reports/643442) to Concrete CMS - 12 upvotes, $0
 16. [SSRF bypass](https://hackerone.com/reports/863221) to Concrete CMS - 12 upvotes, $0
-17. [Bypass auth.email-domains](https://hackerone.com/reports/4795) to Concrete CMS - 9 upvotes, $0
-18. [Local File Inclusion Vulnerability in Concrete5 version 5.7.3.1](https://hackerone.com/reports/59665) to Concrete CMS - 9 upvotes, $0
+17. [Local File Inclusion Vulnerability in Concrete5 version 5.7.3.1](https://hackerone.com/reports/59665) to Concrete CMS - 10 upvotes, $0
+18. [Bypass auth.email-domains](https://hackerone.com/reports/4795) to Concrete CMS - 9 upvotes, $0
 19. [CSRF Full Account Takeover](https://hackerone.com/reports/152052) to Concrete CMS - 9 upvotes, $0
 20. [Stored XSS in Pages SEO dialog Name field (concrete5 8.1.0)](https://hackerone.com/reports/230029) to Concrete CMS - 9 upvotes, $0
 21. [Stored XSS vulnerability in RSS Feeds Description field](https://hackerone.com/reports/248133) to Concrete CMS - 9 upvotes, $0

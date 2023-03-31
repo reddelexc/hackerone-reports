@@ -1,13 +1,13 @@
 Top Request Smuggling reports from HackerOne:
 
-1. [Mass account takeovers using HTTP Request Smuggling on https://slackb.com/ to steal session cookies](https://hackerone.com/reports/737140) to Slack - 823 upvotes, $6500
+1. [Mass account takeovers using HTTP Request Smuggling on https://slackb.com/ to steal session cookies](https://hackerone.com/reports/737140) to Slack - 824 upvotes, $6500
 2. [Request smuggling on admin-official.line.me could lead to account takeover](https://hackerone.com/reports/740037) to LINE - 553 upvotes, $9000
-3. [Stealing Zomato X-Access-Token: in Bulk using HTTP Request Smuggling on api.zomato.com](https://hackerone.com/reports/771666) to Zomato - 533 upvotes, $5000
+3. [Stealing Zomato X-Access-Token: in Bulk using HTTP Request Smuggling on api.zomato.com](https://hackerone.com/reports/771666) to Zomato - 534 upvotes, $5000
 4. [Password theft login.newrelic.com via Request Smuggling](https://hackerone.com/reports/498052) to New Relic - 485 upvotes, $3000
 5. [HTTP request Smuggling](https://hackerone.com/reports/867952) to Helium - 287 upvotes, $500
 6. [HTTP Request Smuggling via HTTP/2](https://hackerone.com/reports/1211724) to Basecamp - 284 upvotes, $7500
 7. [HTTP request smuggling (?) canpol.deti.mail.ru](https://hackerone.com/reports/957881) to Mail.ru - 241 upvotes, $5000
-8. [HTTP Request Smuggling on https://labs.data.gov](https://hackerone.com/reports/726773) to GSA Bounty - 145 upvotes, $750
+8. [HTTP Request Smuggling on https://labs.data.gov](https://hackerone.com/reports/726773) to GSA Bounty - 146 upvotes, $750
 9. [HTTP Request Smuggling at app.workbox.dk](https://hackerone.com/reports/919988) to Visma Public - 139 upvotes, $500
 10. [HTTP Request Smuggling due to CR-to-Hyphen conversion](https://hackerone.com/reports/922597) to Node.js - 131 upvotes, $500
 11. [HTTP Request Smuggling on vpn.lob.com](https://hackerone.com/reports/694604) to Lob - 123 upvotes, $500

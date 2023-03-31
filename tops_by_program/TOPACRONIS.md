@@ -2,7 +2,7 @@ Top reports from Acronis program at HackerOne:
 
 1. [SQL Injection in agent-manager](https://hackerone.com/reports/962889) to Acronis - 222 upvotes, $1500
 2. [bypass sql injection #1109311](https://hackerone.com/reports/1224660) to Acronis - 148 upvotes, $500
-3. [Ticket Trick at https://account.acronis.com](https://hackerone.com/reports/999765) to Acronis - 129 upvotes, $750
+3. [Ticket Trick at https://account.acronis.com](https://hackerone.com/reports/999765) to Acronis - 130 upvotes, $750
 4. [IDOR vulnerability (Price manipulation)](https://hackerone.com/reports/1403176) to Acronis - 119 upvotes, $400
 5. [Stored XSS in backup scanning plan name](https://hackerone.com/reports/961046) to Acronis - 113 upvotes, $500
 6. [SQL injection on admin.acronis.host development web service](https://hackerone.com/reports/923020) to Acronis - 102 upvotes, $250
@@ -10,7 +10,7 @@ Top reports from Acronis program at HackerOne:
 8. [SQL injection in  https://www.acronis.cz/ via the log parameter](https://hackerone.com/reports/1109311) to Acronis - 95 upvotes, $250
 9. [Flash Based Reflected XSS on www.grouplogic.com/jwplayer/player.swf](https://hackerone.com/reports/859806) to Acronis - 84 upvotes, $0
 10. [Reflected XSS on http://www.grouplogic.com/files/glidownload/verify.asp](https://hackerone.com/reports/859395) to Acronis - 80 upvotes, $200
-11. [[CVE-2021-44228] nps.acronis.com is vulnerable to the recent log4shell 0-day](https://hackerone.com/reports/1425474) to Acronis - 71 upvotes, $1000
+11. [[CVE-2021-44228] nps.acronis.com is vulnerable to the recent log4shell 0-day](https://hackerone.com/reports/1425474) to Acronis - 72 upvotes, $1000
 12. [XSS on https://partners.acronis.com/](https://hackerone.com/reports/979204) to Acronis - 71 upvotes, $50
 13. [ mail.acronis.com is vulnerable to zero day vulnerability CVE-2022-41040](https://hackerone.com/reports/1719719) to Acronis - 66 upvotes, $1000
 14. [Stored Cross-site Scripting on devicelock.com/forum/](https://hackerone.com/reports/1122513) to Acronis - 65 upvotes, $50

@@ -145,43 +145,43 @@ Top reports from Node.js third-party modules program at HackerOne:
 143. [[serve] Directory listing and File access even when they have been set to be ignored](https://hackerone.com/reports/330650) to Node.js third-party modules - 5 upvotes, $0
 144. [[public] Stored XSS in the filename when directories listing](https://hackerone.com/reports/329950) to Node.js third-party modules - 5 upvotes, $0
 145. [[html-pages] Stored XSS in the filename when directories listing](https://hackerone.com/reports/330356) to Node.js third-party modules - 5 upvotes, $0
-146. [[git-dummy-commit] Command injection on the msg parameter](https://hackerone.com/reports/341710) to Node.js third-party modules - 5 upvotes, $0
-147. [[bruteser] Path Traversal allows to read content of arbitrary file](https://hackerone.com/reports/342066) to Node.js third-party modules - 5 upvotes, $0
-148. [[entitlements] Command injection on the 'path' parameter](https://hackerone.com/reports/341869) to Node.js third-party modules - 5 upvotes, $0
-149. [stored xss in scrape-metadata when reading metadata from an html page](https://hackerone.com/reports/369573) to Node.js third-party modules - 5 upvotes, $0
-150. [Arbitrary File Write through archive extraction](https://hackerone.com/reports/362119) to Node.js third-party modules - 5 upvotes, $0
-151. [Prototype pollution attack (extend)](https://hackerone.com/reports/381185) to Node.js third-party modules - 5 upvotes, $0
-152. [http-live-simulator npm module is prone to path traversal attacks](https://hackerone.com/reports/384939) to Node.js third-party modules - 5 upvotes, $0
-153. [Prototype Pollution Vulnerability in mpath Package](https://hackerone.com/reports/390860) to Node.js third-party modules - 5 upvotes, $0
-154. [[larvitbase-api] Unintended Require](https://hackerone.com/reports/566056) to Node.js third-party modules - 5 upvotes, $0
-155. [[statichttpserver] List any file in the folder by using path traversal.](https://hackerone.com/reports/570035) to Node.js third-party modules - 5 upvotes, $0
-156. [[larvitbase-www] Unintended Require](https://hackerone.com/reports/579560) to Node.js third-party modules - 5 upvotes, $0
-157. [[node-df] RCE via insecure command concatenation](https://hackerone.com/reports/703412) to Node.js third-party modules - 5 upvotes, $0
-158. [Lack of input validation and sanitization in react-autolinker-wrapper library causes XSS ](https://hackerone.com/reports/592525) to Node.js third-party modules - 5 upvotes, $0
-159. [[script-manager] Unintended require](https://hackerone.com/reports/660563) to Node.js third-party modules - 5 upvotes, $0
-160. [[extend-merge] Prototype pollution](https://hackerone.com/reports/878339) to Node.js third-party modules - 5 upvotes, $0
-161. [[json8-merge-patch] Prototype Pollution](https://hackerone.com/reports/980649) to Node.js third-party modules - 5 upvotes, $0
-162. [[arpping] Remote Code Execution](https://hackerone.com/reports/972220) to Node.js third-party modules - 5 upvotes, $0
-163. [Server-side Template Injection in lodash.js ](https://hackerone.com/reports/904672) to Node.js third-party modules - 5 upvotes, $0
-164. [Fastify uses allErrors: true ajv configuration by default which is susceptible to DoS](https://hackerone.com/reports/903521) to Node.js third-party modules - 4 upvotes, $250
-165. [[serve-here] Static Web Server Directory Traversal via Crafted GET Request](https://hackerone.com/reports/296254) to Node.js third-party modules - 4 upvotes, $0
-166. [[featurebook] Specification Server Directory Traversal via Crafted Browser Request](https://hackerone.com/reports/296305) to Node.js third-party modules - 4 upvotes, $0
-167. [[redis-commander] Reflected SWF XSS via vulnerable "clipboard.swf" component](https://hackerone.com/reports/296377) to Node.js third-party modules - 4 upvotes, $0
-168. [Prototype pollution attack (Hoek)](https://hackerone.com/reports/310439) to Node.js third-party modules - 4 upvotes, $0
-169. [Prototype pollution attack (mixin-deep)](https://hackerone.com/reports/311236) to Node.js third-party modules - 4 upvotes, $0
-170. [Prototype pollution attack (assign-deep)](https://hackerone.com/reports/310707) to Node.js third-party modules - 4 upvotes, $0
-171. [[public] Path Traversal allows to read content of arbitrary files](https://hackerone.com/reports/312918) to Node.js third-party modules - 4 upvotes, $0
-172. [[crud-file-server] Stored XSS in filenames when directory index is served by crud-file-server](https://hackerone.com/reports/311101) to Node.js third-party modules - 4 upvotes, $0
-173. [[glance] Stored XSS via file name allows to run arbitrary JavaScript when directory listing is displayed in browser](https://hackerone.com/reports/310133) to Node.js third-party modules - 4 upvotes, $0
-174. [Prototype pollution attack (deep-extend)](https://hackerone.com/reports/311333) to Node.js third-party modules - 4 upvotes, $0
-175. [[angular-http-server] Server Directory Traversal](https://hackerone.com/reports/330349) to Node.js third-party modules - 4 upvotes, $0
-176. [Bypass to defective fix of Path Traversal ](https://hackerone.com/reports/329837) to Node.js third-party modules - 4 upvotes, $0
-177. [[buttle] Remote Command Execution via unsanitized PHP filename when it's run with --php-bin flag](https://hackerone.com/reports/331032) to Node.js third-party modules - 4 upvotes, $0
-178. [`base64url` allocates uninitialized Buffers when number is passed in input on Node.js 4.x and below](https://hackerone.com/reports/321687) to Node.js third-party modules - 4 upvotes, $0
-179. [`byte` allocates uninitialized buffers and reads data from them past the initialized length](https://hackerone.com/reports/330351) to Node.js third-party modules - 4 upvotes, $0
-180. [[localhost-now] bypassing url filter which leads to read content of arbitrary file](https://hackerone.com/reports/334837) to Node.js third-party modules - 4 upvotes, $0
-181. [`put` allocates uninitialized Buffers when non-round numbers are passed in input](https://hackerone.com/reports/321702) to Node.js third-party modules - 4 upvotes, $0
-182. [`njwt` allocates uninitialized Buffers when number is passed in base64urlEncode input](https://hackerone.com/reports/321704) to Node.js third-party modules - 4 upvotes, $0
+146. [`njwt` allocates uninitialized Buffers when number is passed in base64urlEncode input](https://hackerone.com/reports/321704) to Node.js third-party modules - 5 upvotes, $0
+147. [[git-dummy-commit] Command injection on the msg parameter](https://hackerone.com/reports/341710) to Node.js third-party modules - 5 upvotes, $0
+148. [[bruteser] Path Traversal allows to read content of arbitrary file](https://hackerone.com/reports/342066) to Node.js third-party modules - 5 upvotes, $0
+149. [[entitlements] Command injection on the 'path' parameter](https://hackerone.com/reports/341869) to Node.js third-party modules - 5 upvotes, $0
+150. [stored xss in scrape-metadata when reading metadata from an html page](https://hackerone.com/reports/369573) to Node.js third-party modules - 5 upvotes, $0
+151. [Arbitrary File Write through archive extraction](https://hackerone.com/reports/362119) to Node.js third-party modules - 5 upvotes, $0
+152. [Prototype pollution attack (extend)](https://hackerone.com/reports/381185) to Node.js third-party modules - 5 upvotes, $0
+153. [http-live-simulator npm module is prone to path traversal attacks](https://hackerone.com/reports/384939) to Node.js third-party modules - 5 upvotes, $0
+154. [Prototype Pollution Vulnerability in mpath Package](https://hackerone.com/reports/390860) to Node.js third-party modules - 5 upvotes, $0
+155. [[larvitbase-api] Unintended Require](https://hackerone.com/reports/566056) to Node.js third-party modules - 5 upvotes, $0
+156. [[statichttpserver] List any file in the folder by using path traversal.](https://hackerone.com/reports/570035) to Node.js third-party modules - 5 upvotes, $0
+157. [[larvitbase-www] Unintended Require](https://hackerone.com/reports/579560) to Node.js third-party modules - 5 upvotes, $0
+158. [[node-df] RCE via insecure command concatenation](https://hackerone.com/reports/703412) to Node.js third-party modules - 5 upvotes, $0
+159. [Lack of input validation and sanitization in react-autolinker-wrapper library causes XSS ](https://hackerone.com/reports/592525) to Node.js third-party modules - 5 upvotes, $0
+160. [[script-manager] Unintended require](https://hackerone.com/reports/660563) to Node.js third-party modules - 5 upvotes, $0
+161. [[extend-merge] Prototype pollution](https://hackerone.com/reports/878339) to Node.js third-party modules - 5 upvotes, $0
+162. [[json8-merge-patch] Prototype Pollution](https://hackerone.com/reports/980649) to Node.js third-party modules - 5 upvotes, $0
+163. [[arpping] Remote Code Execution](https://hackerone.com/reports/972220) to Node.js third-party modules - 5 upvotes, $0
+164. [Server-side Template Injection in lodash.js ](https://hackerone.com/reports/904672) to Node.js third-party modules - 5 upvotes, $0
+165. [Fastify uses allErrors: true ajv configuration by default which is susceptible to DoS](https://hackerone.com/reports/903521) to Node.js third-party modules - 4 upvotes, $250
+166. [[serve-here] Static Web Server Directory Traversal via Crafted GET Request](https://hackerone.com/reports/296254) to Node.js third-party modules - 4 upvotes, $0
+167. [[featurebook] Specification Server Directory Traversal via Crafted Browser Request](https://hackerone.com/reports/296305) to Node.js third-party modules - 4 upvotes, $0
+168. [[redis-commander] Reflected SWF XSS via vulnerable "clipboard.swf" component](https://hackerone.com/reports/296377) to Node.js third-party modules - 4 upvotes, $0
+169. [Prototype pollution attack (Hoek)](https://hackerone.com/reports/310439) to Node.js third-party modules - 4 upvotes, $0
+170. [Prototype pollution attack (mixin-deep)](https://hackerone.com/reports/311236) to Node.js third-party modules - 4 upvotes, $0
+171. [Prototype pollution attack (assign-deep)](https://hackerone.com/reports/310707) to Node.js third-party modules - 4 upvotes, $0
+172. [[public] Path Traversal allows to read content of arbitrary files](https://hackerone.com/reports/312918) to Node.js third-party modules - 4 upvotes, $0
+173. [[crud-file-server] Stored XSS in filenames when directory index is served by crud-file-server](https://hackerone.com/reports/311101) to Node.js third-party modules - 4 upvotes, $0
+174. [[glance] Stored XSS via file name allows to run arbitrary JavaScript when directory listing is displayed in browser](https://hackerone.com/reports/310133) to Node.js third-party modules - 4 upvotes, $0
+175. [Prototype pollution attack (deep-extend)](https://hackerone.com/reports/311333) to Node.js third-party modules - 4 upvotes, $0
+176. [[angular-http-server] Server Directory Traversal](https://hackerone.com/reports/330349) to Node.js third-party modules - 4 upvotes, $0
+177. [Bypass to defective fix of Path Traversal ](https://hackerone.com/reports/329837) to Node.js third-party modules - 4 upvotes, $0
+178. [[buttle] Remote Command Execution via unsanitized PHP filename when it's run with --php-bin flag](https://hackerone.com/reports/331032) to Node.js third-party modules - 4 upvotes, $0
+179. [`base64url` allocates uninitialized Buffers when number is passed in input on Node.js 4.x and below](https://hackerone.com/reports/321687) to Node.js third-party modules - 4 upvotes, $0
+180. [`byte` allocates uninitialized buffers and reads data from them past the initialized length](https://hackerone.com/reports/330351) to Node.js third-party modules - 4 upvotes, $0
+181. [[localhost-now] bypassing url filter which leads to read content of arbitrary file](https://hackerone.com/reports/334837) to Node.js third-party modules - 4 upvotes, $0
+182. [`put` allocates uninitialized Buffers when non-round numbers are passed in input](https://hackerone.com/reports/321702) to Node.js third-party modules - 4 upvotes, $0
 183. [[ponse] Path traversal in ponse module allows to read any file on server](https://hackerone.com/reports/383112) to Node.js third-party modules - 4 upvotes, $0
 184. [[exceljs] Possible XSS via cell value when worksheet is displayed in browser](https://hackerone.com/reports/356809) to Node.js third-party modules - 4 upvotes, $0
 185. [[serve] XSS via HTML tag injection in directory lisiting page](https://hackerone.com/reports/398285) to Node.js third-party modules - 4 upvotes, $0

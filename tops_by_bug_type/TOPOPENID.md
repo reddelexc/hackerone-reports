@@ -1,9 +1,9 @@
 Top OpenID reports from HackerOne:
 
-1. [Email Confirmation Bypass in myshop.myshopify.com that Leads to Full Privilege Escalation to Any Shop Owner by Taking Advantage of the Shopify SSO](https://hackerone.com/reports/791775) to Shopify - 1804 upvotes, $16000
-2. [Able to Takeover Merchants Accounts Even They Have Already Setup SSO, After Bypassing the Email Confirmation](https://hackerone.com/reports/796956) to Shopify - 295 upvotes, $7500
-3. [Stealing SSO Login Tokens (snappublisher.snapchat.com)](https://hackerone.com/reports/265943) to Snapchat - 214 upvotes, $7500
-4. [Ability to DOS any organization's SSO and open up the door to account takeovers](https://hackerone.com/reports/976603) to Grammarly - 209 upvotes, $10500
+1. [Email Confirmation Bypass in myshop.myshopify.com that Leads to Full Privilege Escalation to Any Shop Owner by Taking Advantage of the Shopify SSO](https://hackerone.com/reports/791775) to Shopify - 1807 upvotes, $16000
+2. [Able to Takeover Merchants Accounts Even They Have Already Setup SSO, After Bypassing the Email Confirmation](https://hackerone.com/reports/796956) to Shopify - 296 upvotes, $7500
+3. [Stealing SSO Login Tokens (snappublisher.snapchat.com)](https://hackerone.com/reports/265943) to Snapchat - 216 upvotes, $7500
+4. [Ability to DOS any organization's SSO and open up the door to account takeovers](https://hackerone.com/reports/976603) to Grammarly - 211 upvotes, $10500
 5. [Insecure Zendesk SSO implementation by generating JWT client-side](https://hackerone.com/reports/638635) to Trint Ltd - 89 upvotes, $0
 6. [SAML Authentication Bypass on uchat.uberinternal.com](https://hackerone.com/reports/223014) to Uber - 82 upvotes, $8500
 7. [Twitter SSO allows unverified e-mail registration, leads to Slack and social media hijacks](https://hackerone.com/reports/235139) to Zendesk - 65 upvotes, $750
@@ -17,8 +17,8 @@ Top OpenID reports from HackerOne:
 15. [SSO through odnoklassniki uses http rather than https](https://hackerone.com/reports/703759) to Bumble - 12 upvotes, $150
 16. [SSO Authentication Bypass](https://hackerone.com/reports/168108) to New Relic - 12 upvotes, $0
 17. [SAML authentication bypass](https://hackerone.com/reports/812064) to Rocket.Chat - 12 upvotes, $0
-18. [[rev-app.informatica.com] - XXE via SAML](https://hackerone.com/reports/106865) to Informatica - 11 upvotes, $0
-19. [SSO bypass in zendesk using trint organization able to leak internal ticket information](https://hackerone.com/reports/734936) to Trint Ltd - 11 upvotes, $0
+18. [SSO bypass in zendesk using trint organization able to leak internal ticket information](https://hackerone.com/reports/734936) to Trint Ltd - 12 upvotes, $0
+19. [[rev-app.informatica.com] - XXE via SAML](https://hackerone.com/reports/106865) to Informatica - 11 upvotes, $0
 20. [Update php-saml library to 2.10.5](https://hackerone.com/reports/213789) to Nextcloud - 7 upvotes, $0
 21. [Открытое перенапровление на OpenID](https://hackerone.com/reports/241484) to Mail.ru - 5 upvotes, $0
 22. [Configuration and/or source code files on uchat-staging.uberinternal.com can be viewed without OneLogin SSO Authentication ](https://hackerone.com/reports/298990) to Uber - 4 upvotes, $0

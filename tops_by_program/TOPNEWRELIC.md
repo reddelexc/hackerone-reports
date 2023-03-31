@@ -3,11 +3,11 @@ Top reports from New Relic program at HackerOne:
 1. [Password theft login.newrelic.com via Request Smuggling](https://hackerone.com/reports/498052) to New Relic - 485 upvotes, $3000
 2. [Unsafe charts embedding implementation leads to cross-account stored XSS and SSRF](https://hackerone.com/reports/708589) to New Relic - 223 upvotes, $2500
 3. [Account Takeover via Email ID Change and Forgot Password Functionality](https://hackerone.com/reports/1089467) to New Relic - 210 upvotes, $2048
-4. [Cross-account stored XSS at embedded charts](https://hackerone.com/reports/709883) to New Relic - 155 upvotes, $3625
+4. [Cross-account stored XSS at embedded charts](https://hackerone.com/reports/709883) to New Relic - 156 upvotes, $3625
 5. [Stored XSS in notes (charts) because of insecure chart data JSON generation](https://hackerone.com/reports/507132) to New Relic - 145 upvotes, $4250
-6. [Reflected XSS in VPN Appliance](https://hackerone.com/reports/1386438) to New Relic - 98 upvotes, $1024
+6. [Reflected XSS in VPN Appliance](https://hackerone.com/reports/1386438) to New Relic - 99 upvotes, $1024
 7. [CSTI at Plugin page leading to active stored XSS (Publisher name)](https://hackerone.com/reports/587829) to New Relic - 91 upvotes, $2500
-8. [Stored XSS via malicious key value of Synthetics monitor tag when visiting an Insights dashboard with filtering enabled](https://hackerone.com/reports/1067321) to New Relic - 83 upvotes, $2123
+8. [Stored XSS via malicious key value of Synthetics monitor tag when visiting an Insights dashboard with filtering enabled](https://hackerone.com/reports/1067321) to New Relic - 85 upvotes, $2123
 9. [Urgent! Stored XSS at plugin's violations leading to account takeover](https://hackerone.com/reports/602527) to New Relic - 79 upvotes, $2500
 10. [IDOR via internal_api "users" endpoint ](https://hackerone.com/reports/349291) to New Relic - 76 upvotes, $1500
 11. [Host Header Injection](https://hackerone.com/reports/698416) to New Relic - 68 upvotes, $500

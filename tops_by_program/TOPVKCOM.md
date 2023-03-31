@@ -61,9 +61,9 @@ Top reports from VK.com program at HackerOne:
 59. [Проверяем принадлеженость email и номера телефона к определенному юзеру / CSRF на смену номера для некоторых пользователей](https://hackerone.com/reports/388236) to VK.com - 16 upvotes, $300
 60. [Написать от имени любого пользователя на его стене, если он перейдет по ссылке. https://vk.com/al_video.php](https://hackerone.com/reports/211072) to VK.com - 16 upvotes, $200
 61. [Получение стикеров](https://hackerone.com/reports/1035320) to VK.com - 16 upvotes, $200
-62. [Уязвимость дает возможность смотреть кто лайкал приватным фото или видео ](https://hackerone.com/reports/92113) to VK.com - 16 upvotes, $100
-63. [Open Redirection Vulnerability in m.vk.com](https://hackerone.com/reports/347645) to VK.com - 15 upvotes, $300
-64. [Просмотр Участников ЧАСТНОЙ встречи ](https://hackerone.com/reports/261764) to VK.com - 15 upvotes, $100
+62. [Просмотр Участников ЧАСТНОЙ встречи ](https://hackerone.com/reports/261764) to VK.com - 16 upvotes, $100
+63. [Уязвимость дает возможность смотреть кто лайкал приватным фото или видео ](https://hackerone.com/reports/92113) to VK.com - 16 upvotes, $100
+64. [Open Redirection Vulnerability in m.vk.com](https://hackerone.com/reports/347645) to VK.com - 15 upvotes, $300
 65. [Раскрытие названия частной группы через старый бокс просмотра фото.](https://hackerone.com/reports/303062) to VK.com - 15 upvotes, $100
 66. [новенькое (старенькое upgreid) хакерство: делаем демократию во всем в контакте (XSS - на англиском)](https://hackerone.com/reports/316946) to VK.com - 15 upvotes, $0
 67. [Второй способ обхода 2FA](https://hackerone.com/reports/167121) to VK.com - 14 upvotes, $1050
