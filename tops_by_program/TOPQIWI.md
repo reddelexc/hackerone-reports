@@ -6,7 +6,7 @@ Top reports from QIWI program at HackerOne:
 4. [MobileIron Unauthenticated RCE on mdm.qiwi.com with WAF bypass](https://hackerone.com/reports/983548) to QIWI - 147 upvotes, $3500
 5. [SQL injection on contactws.contact-sys.com in TRateObject.AddForOffice in USER_ID parameter leads to remote code execution](https://hackerone.com/reports/816560) to QIWI - 117 upvotes, $1000
 6. [account takeover https://qiwi.me ](https://hackerone.com/reports/685304) to QIWI - 106 upvotes, $750
-7. [account takeover https://idea.qiwi.com/ ](https://hackerone.com/reports/464426) to QIWI - 87 upvotes, $300
+7. [account takeover https://idea.qiwi.com/ ](https://hackerone.com/reports/464426) to QIWI - 88 upvotes, $300
 8. [Remote Code Execution on contactws.contact-sys.com via SQL injection in TAktifBankObject.GetOrder in parameter DOC_ID](https://hackerone.com/reports/1104120) to QIWI - 84 upvotes, $2500
 9. [SSRF на https://qiwi.com с помощью "Prerender HAR Capturer"](https://hackerone.com/reports/1153862) to QIWI - 76 upvotes, $1500
 10. [DOM XSS triggered in secure support desk](https://hackerone.com/reports/512065) to QIWI - 65 upvotes, $500
@@ -15,12 +15,12 @@ Top reports from QIWI program at HackerOne:
 13. [XXE on ██████████ by bypassing WAF ████](https://hackerone.com/reports/433996) to QIWI - 53 upvotes, $5000
 14. [Remote Code Execution on contactws.contact-sys.com via SQL injection in TPrabhuObject.BeginOrder in parameter DOC_ID](https://hackerone.com/reports/1104111) to QIWI - 52 upvotes, $2500
 15. [[contact-sys.com] SQL Injection████ limit param](https://hackerone.com/reports/164945) to QIWI - 50 upvotes, $250
-16. [apache access.log leakage via long request on https://rapida.ru/](https://hackerone.com/reports/280912) to QIWI - 41 upvotes, $100
+16. [apache access.log leakage via long request on https://rapida.ru/](https://hackerone.com/reports/280912) to QIWI - 42 upvotes, $100
 17. [account takeover https://teamplay.qiwi.com](https://hackerone.com/reports/439207) to QIWI - 40 upvotes, $500
 18. [XML External Entity (XXE) in qiwi.com + waf bypass](https://hackerone.com/reports/99279) to QIWI - 39 upvotes, $3137
 19. [PIN OK attack](https://hackerone.com/reports/890747) to QIWI - 39 upvotes, $2000
-20. [[qiwi.me] Stored XSS](https://hackerone.com/reports/736236) to QIWI - 37 upvotes, $500
-21. [account impersonate through broken link](https://hackerone.com/reports/1205604) to QIWI - 37 upvotes, $100
+20. [account impersonate through broken link](https://hackerone.com/reports/1205604) to QIWI - 39 upvotes, $100
+21. [[qiwi.me] Stored XSS](https://hackerone.com/reports/736236) to QIWI - 37 upvotes, $500
 22. [[p2p.qiwi.com] nginx alias traversal](https://hackerone.com/reports/455858) to QIWI - 34 upvotes, $150
 23. [Обход комиссии при оплате картой](https://hackerone.com/reports/654851) to QIWI - 32 upvotes, $1000
 24. [[lk.contact-sys.com] SQL Injection reset_password FP_LK_USER_LOGIN](https://hackerone.com/reports/164684) to QIWI - 32 upvotes, $300
@@ -32,7 +32,7 @@ Top reports from QIWI program at HackerOne:
 30. [[qiwi.com] XSS on payment form](https://hackerone.com/reports/263684) to QIWI - 28 upvotes, $550
 31. [[QIWI Wallet] Access to protected app components ](https://hackerone.com/reports/482998) to QIWI - 26 upvotes, $500
 32. [Account Takeover through registration to the same email address](https://hackerone.com/reports/1224008) to QIWI - 26 upvotes, $100
-33. [CVE-2020-3187 - unauthenticated arbitrary file deletion in Cisco](https://hackerone.com/reports/944665) to QIWI - 24 upvotes, $500
+33. [CVE-2020-3187 - unauthenticated arbitrary file deletion in Cisco](https://hackerone.com/reports/944665) to QIWI - 25 upvotes, $500
 34. [Обход комиссии на переводы](https://hackerone.com/reports/691766) to QIWI - 21 upvotes, $1000
 35. [[lk.contact-sys.com] LKlang Path Traversal](https://hackerone.com/reports/164933) to QIWI - 21 upvotes, $150
 36. [[contact-sys.com] XSS /ajax/transfer/status trn param](https://hackerone.com/reports/164704) to QIWI - 21 upvotes, $100

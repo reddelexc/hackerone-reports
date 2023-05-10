@@ -1,32 +1,32 @@
 Top Race Condition reports from HackerOne:
 
-1. [Race Condition allows to redeem multiple times gift cards which leads to free "money"](https://hackerone.com/reports/759247) to Reverb.com - 269 upvotes, $1500
-2. [Race condition in performing retest allows duplicated payments](https://hackerone.com/reports/429026) to HackerOne - 201 upvotes, $2100
+1. [Race Condition allows to redeem multiple times gift cards which leads to free "money"](https://hackerone.com/reports/759247) to Reverb.com - 273 upvotes, $1500
+2. [Race condition in performing retest allows duplicated payments](https://hackerone.com/reports/429026) to HackerOne - 203 upvotes, $2100
 3. [Client-Side Race Condition using Marketo, allows sending user to data-protocol in Safari when form without onSuccess is submitted on www.hackerone.com](https://hackerone.com/reports/381356) to HackerOne - 143 upvotes, $1250
 4. [Race condition in activating email resulting in infinite amount of diamonds received](https://hackerone.com/reports/509629) to InnoGames - 137 upvotes, $2000
-5. [Race Condition leads to undeletable group member](https://hackerone.com/reports/604534) to HackerOne - 123 upvotes, $500
-6. [Race Conditions in Popular reports feature.](https://hackerone.com/reports/146845) to HackerOne - 105 upvotes, $500
+5. [Race Condition leads to undeletable group member](https://hackerone.com/reports/604534) to HackerOne - 124 upvotes, $500
+6. [Race Conditions in Popular reports feature.](https://hackerone.com/reports/146845) to HackerOne - 106 upvotes, $500
 7. [Race Condition when following a user](https://hackerone.com/reports/927384) to Staging.every.org - 92 upvotes, $0
 8. [Race Condition : Exploiting the loyalty claim https://xxx.vendhq.com/loyalty/claim/email/xxxxx url and gain x amount of loyalty bonus/cash](https://hackerone.com/reports/331940) to Vend VDP - 89 upvotes, $0
-9. [Race Condition in Flag Submission](https://hackerone.com/reports/454949) to HackerOne - 74 upvotes, $500
+9. [Race Condition in Flag Submission](https://hackerone.com/reports/454949) to HackerOne - 75 upvotes, $500
 10. [Race condition leads to duplicate payouts](https://hackerone.com/reports/220445) to HackerOne - 63 upvotes, $750
-11. [Race Condition of Transfer data Credits to Organization Leads to Add Extra free Data Credits to the Organization](https://hackerone.com/reports/974892) to Helium - 61 upvotes, $250
-12. [Race condition in joining CTF group](https://hackerone.com/reports/1540969) to HackerOne - 58 upvotes, $500
+11. [Race Condition of Transfer data Credits to Organization Leads to Add Extra free Data Credits to the Organization](https://hackerone.com/reports/974892) to Helium - 62 upvotes, $250
+12. [Race condition in joining CTF group](https://hackerone.com/reports/1540969) to HackerOne - 59 upvotes, $500
 13. [Race Condition on "Get free Badoo Premium" which allows to get more days of free premium for Free. ](https://hackerone.com/reports/1037430) to Bumble - 51 upvotes, $200
 14. [Race condition in faucet when using starport](https://hackerone.com/reports/1438052) to Cosmos - 49 upvotes, $5000
 15. [Race condition in claiming program credentials ](https://hackerone.com/reports/488985) to HackerOne - 45 upvotes, $500
-16. [Race Conditions in OAuth 2 API implementations](https://hackerone.com/reports/55140) to Internet Bug Bounty - 36 upvotes, $2500
-17. [Race condition in User comments  Likes](https://hackerone.com/reports/1409913) to Zomato - 36 upvotes, $150
+16. [Race condition in User comments  Likes](https://hackerone.com/reports/1409913) to Zomato - 37 upvotes, $150
+17. [Race Conditions in OAuth 2 API implementations](https://hackerone.com/reports/55140) to Internet Bug Bounty - 36 upvotes, $2500
 18. [Race conditions can be used to bypass invitation limit](https://hackerone.com/reports/115007) to Keybase - 34 upvotes, $350
 19. [Race condition while removing the love react in community files.](https://hackerone.com/reports/996141) to Figma - 33 upvotes, $150
 20. [Race Condition in Redeeming Coupons](https://hackerone.com/reports/157996) to Instacart - 32 upvotes, $200
-21. [JSBeautifier BApp: Race condition leads to memory disclosure](https://hackerone.com/reports/187134) to PortSwigger Web Security - 30 upvotes, $0
-22. [Race condition на market.games.mail.ru](https://hackerone.com/reports/317557) to Mail.ru - 29 upvotes, $1000
-23. [Race condition via project team member invitation system.](https://hackerone.com/reports/1108291) to Enjin - 25 upvotes, $60
+21. [Race condition на market.games.mail.ru](https://hackerone.com/reports/317557) to Mail.ru - 30 upvotes, $1000
+22. [JSBeautifier BApp: Race condition leads to memory disclosure](https://hackerone.com/reports/187134) to PortSwigger Web Security - 30 upvotes, $0
+23. [Race condition via project team member invitation system.](https://hackerone.com/reports/1108291) to Enjin - 26 upvotes, $60
 24. [Race condition at create new Location](https://hackerone.com/reports/413759) to Shopify - 23 upvotes, $500
 25. [Race condition leads to Inflation of coins when bought via Google Play Store at endpoint https://oauth.reddit.com/api/v2/gold/android/verify_purchase ](https://hackerone.com/reports/801743) to Reddit - 23 upvotes, $500
-26. [Race Condition in account survey](https://hackerone.com/reports/165570) to Slack - 21 upvotes, $150
-27. [[api.krisp.ai] Race condition on /v2/seats endpoint allows bypassing the original seat limit](https://hackerone.com/reports/1418419) to Krisp - 21 upvotes, $100
+26. [[api.krisp.ai] Race condition on /v2/seats endpoint allows bypassing the original seat limit](https://hackerone.com/reports/1418419) to Krisp - 22 upvotes, $100
+27. [Race Condition in account survey](https://hackerone.com/reports/165570) to Slack - 21 upvotes, $150
 28. [Register multiple users using one invitation (race condition)](https://hackerone.com/reports/148609) to Keybase - 18 upvotes, $350
 29. [Race condition vulnerability on "This Rocks" button.](https://hackerone.com/reports/474021) to Rockstar Games - 18 upvotes, $250
 30. [Race condition in endpoint POST fetlife.com/users/invitation, allow attacker to generate unlimited invites](https://hackerone.com/reports/1460373) to FetLife - 18 upvotes, $100

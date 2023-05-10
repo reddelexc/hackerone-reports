@@ -12,10 +12,10 @@ Top reports from curl program at HackerOne:
 10. [CVE-2021-22945: UAF and double-free in MQTT sending](https://hackerone.com/reports/1269242) to curl - 14 upvotes, $1000
 11. [Heap Buffer Overflow at lib/tftp.c](https://hackerone.com/reports/550696) to curl - 13 upvotes, $200
 12. [CVE-2022-35252: control code in cookie denial of service](https://hackerone.com/reports/1613943) to curl - 13 upvotes, $0
-13. [Connect-only connections can use the wrong connection](https://hackerone.com/reports/948876) to curl - 11 upvotes, $500
-14. [Heap buffer overflow in TFTP when using small blksize](https://hackerone.com/reports/684603) to curl - 11 upvotes, $250
-15. [CVE-2022-43552: HTTP Proxy deny use-after-free](https://hackerone.com/reports/1764858) to curl - 11 upvotes, $0
-16. [CVE-2023-27537: HSTS double-free](https://hackerone.com/reports/1897203) to curl - 11 upvotes, $0
+13. [CVE-2023-27537: HSTS double-free](https://hackerone.com/reports/1897203) to curl - 13 upvotes, $0
+14. [Connect-only connections can use the wrong connection](https://hackerone.com/reports/948876) to curl - 11 upvotes, $500
+15. [Heap buffer overflow in TFTP when using small blksize](https://hackerone.com/reports/684603) to curl - 11 upvotes, $250
+16. [CVE-2022-43552: HTTP Proxy deny use-after-free](https://hackerone.com/reports/1764858) to curl - 11 upvotes, $0
 17. [CVE-2021-22897: schannel cipher selection surprise](https://hackerone.com/reports/1172857) to curl - 10 upvotes, $800
 18. [SMB access smuggling via FILE URL on Windows](https://hackerone.com/reports/726117) to curl - 9 upvotes, $400
 19. [CVE-2021-22946: Protocol downgrade required TLS bypassed](https://hackerone.com/reports/1334111) to curl - 8 upvotes, $1000

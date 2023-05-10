@@ -20,7 +20,7 @@ Top Business Logic reports from HackerOne:
 18. [Manipulating response leads to free access to Streamlabs Prime ](https://hackerone.com/reports/1070510) to Logitech - 60 upvotes, $200
 19. [[api.tumblr.com] Denial of Service by cookies manipulation](https://hackerone.com/reports/1005421) to Automattic - 51 upvotes, $200
 20. [SSRF in VCARD photo upload functionality](https://hackerone.com/reports/296045) to Open-Xchange - 49 upvotes, $850
-21. [Captcha bypass for the most important function - At en.instagram-brand.com](https://hackerone.com/reports/206653) to Automattic - 48 upvotes, $150
+21. [Captcha bypass for the most important function - At en.instagram-brand.com](https://hackerone.com/reports/206653) to Automattic - 49 upvotes, $150
 22. [Stored XSS in photo comment functionality](https://hackerone.com/reports/172227) to Pornhub - 44 upvotes, $1500
 23. [[intensedebate.com] No Rate Limit On The report Functionality Lead To Delete Any Comment When it is enabled](https://hackerone.com/reports/1051734) to Automattic - 43 upvotes, $200
 24. [SSRF in the application's image export functionality](https://hackerone.com/reports/816848) to Visma Public - 42 upvotes, $250
@@ -28,8 +28,8 @@ Top Business Logic reports from HackerOne:
 26. [Unrestricted access to quiesce functionality in dss.api.playstation.com REST API leads to unavailability of application](https://hackerone.com/reports/993722) to PlayStation - 40 upvotes, $1000
 27. [[stored xss, pornhub.com] stream post function](https://hackerone.com/reports/138075) to Pornhub - 35 upvotes, $1500
 28. [Parameter Manipulation allowed for editing the shipping address for other user’s teavana.com subscriptions.](https://hackerone.com/reports/141120) to Starbucks - 33 upvotes, $4000
-29. [Logic flaw in the Post creation process allows creating posts with arbitrary types without needing the corresponding nonce](https://hackerone.com/reports/404323) to WordPress - 33 upvotes, $900
-30. [SSRF in Functional Administrative Support Tool pdf generator (████) [HtUS]](https://hackerone.com/reports/1628209) to U.S. Dept Of Defense - 32 upvotes, $4000
+29. [SSRF in Functional Administrative Support Tool pdf generator (████) [HtUS]](https://hackerone.com/reports/1628209) to U.S. Dept Of Defense - 33 upvotes, $4000
+30. [Logic flaw in the Post creation process allows creating posts with arbitrary types without needing the corresponding nonce](https://hackerone.com/reports/404323) to WordPress - 33 upvotes, $900
 31. [Able to steal private files by manipulating response using Auto Reply function of Lark](https://hackerone.com/reports/1387320) to Lark Technologies - 31 upvotes, $2000
 32. [Business Logic Flaw in the subscription of the app](https://hackerone.com/reports/1505189) to Kraden - 31 upvotes, $250
 33. [Price manipulation via fraction values (Parameter Tampering)](https://hackerone.com/reports/388564) to Shipt - 31 upvotes, $100
@@ -56,9 +56,9 @@ Top Business Logic reports from HackerOne:
 54. [[CVE-2020-27194] Linux kernel: eBPF verifier bug in `or` binary operation tracking function leads to LPE](https://hackerone.com/reports/1010340) to Internet Bug Bounty - 10 upvotes, $750
 55. [Logic issue in email change process](https://hackerone.com/reports/265931) to Legal Robot - 10 upvotes, $70
 56. [[kb.informatica.com] DOM based XSS in the bindBreadCrumb function](https://hackerone.com/reports/189834) to Informatica - 10 upvotes, $0
-57. [Time-of-check to time-of-use vulnerability in the std::fs::remove_dir_all() function of the Rust standard library](https://hackerone.com/reports/1520931) to Internet Bug Bounty - 9 upvotes, $4000
-58. [Reflected XSS by way of jQuery function](https://hackerone.com/reports/141493) to Pornhub - 9 upvotes, $50
-59. [No Rate limit on Password Reset Function](https://hackerone.com/reports/280389) to Infogram - 9 upvotes, $0
+57. [No Rate limit on Password Reset Function](https://hackerone.com/reports/280389) to Infogram - 10 upvotes, $0
+58. [Time-of-check to time-of-use vulnerability in the std::fs::remove_dir_all() function of the Rust standard library](https://hackerone.com/reports/1520931) to Internet Bug Bounty - 9 upvotes, $4000
+59. [Reflected XSS by way of jQuery function](https://hackerone.com/reports/141493) to Pornhub - 9 upvotes, $50
 60. [Business Logic, currency arbitrage - Possibility to pay less than the price in USD](https://hackerone.com/reports/1677155) to PortSwigger Web Security - 9 upvotes, $0
 61. [Improperly implemented password recovery link functionality](https://hackerone.com/reports/809) to Phabricator - 8 upvotes, $300
 62. [Allow authenticated users can edit, trash,and add new in BuddyPress Emails function](https://hackerone.com/reports/833782) to WordPress - 8 upvotes, $225
@@ -84,16 +84,16 @@ Top Business Logic reports from HackerOne:
 82. [Business Logic Flaw allowing Privilege Escalation](https://hackerone.com/reports/280914) to Inflection - 6 upvotes, $0
 83. [Parameter tampering : Price Manipulation of Products](https://hackerone.com/reports/682344) to WordPress - 6 upvotes, $0
 84. [Lodash "difference" (possibly others) Function Denial of Service Through Unvalidated Input](https://hackerone.com/reports/670779) to Node.js third-party modules - 6 upvotes, $0
-85. [Owner can change themself for another Role Mode but application doesnot have this function.](https://hackerone.com/reports/1072635) to Doppler - 6 upvotes, $0
-86. [ihsinme: CPP Add query for CWE-783 Operator Precedence Logic Error When Use Bool Type](https://hackerone.com/reports/1241578) to GitHub Security Lab - 5 upvotes, $1800
-87. [Logic Issue with Reputation: Boost Reputation Points](https://hackerone.com/reports/36211) to HackerOne - 5 upvotes, $500
-88. [The PdfServlet-functionality used by the "Tee vakuutustodistus" allows injection of custom PDF-content via CSRF-attack](https://hackerone.com/reports/129002) to LocalTapiola - 5 upvotes, $300
-89. [Deleted name still present via mouseover functionality for user accounts](https://hackerone.com/reports/127914) to HackerOne - 5 upvotes, $0
-90. [Issue with password reset functionality [Minor]](https://hackerone.com/reports/149027) to Paragon Initiative Enterprises - 5 upvotes, $0
-91. [Weak e-mail change functionality could lead to account takeover](https://hackerone.com/reports/223461) to Weblate - 5 upvotes, $0
-92. [Amount Manipulation Buy Unlimited Credits in just $1.00](https://hackerone.com/reports/277377) to Inflection - 5 upvotes, $0
-93. [Locked_Transfer functional burning](https://hackerone.com/reports/417515) to Monero - 5 upvotes, $0
-94. [Rate limit function bypass can leads to occur huge critical problem into website. ](https://hackerone.com/reports/1067533) to Courier - 5 upvotes, $0
+85. [Rate limit function bypass can leads to occur huge critical problem into website. ](https://hackerone.com/reports/1067533) to Courier - 6 upvotes, $0
+86. [Owner can change themself for another Role Mode but application doesnot have this function.](https://hackerone.com/reports/1072635) to Doppler - 6 upvotes, $0
+87. [ihsinme: CPP Add query for CWE-783 Operator Precedence Logic Error When Use Bool Type](https://hackerone.com/reports/1241578) to GitHub Security Lab - 5 upvotes, $1800
+88. [Logic Issue with Reputation: Boost Reputation Points](https://hackerone.com/reports/36211) to HackerOne - 5 upvotes, $500
+89. [The PdfServlet-functionality used by the "Tee vakuutustodistus" allows injection of custom PDF-content via CSRF-attack](https://hackerone.com/reports/129002) to LocalTapiola - 5 upvotes, $300
+90. [Deleted name still present via mouseover functionality for user accounts](https://hackerone.com/reports/127914) to HackerOne - 5 upvotes, $0
+91. [Issue with password reset functionality [Minor]](https://hackerone.com/reports/149027) to Paragon Initiative Enterprises - 5 upvotes, $0
+92. [Weak e-mail change functionality could lead to account takeover](https://hackerone.com/reports/223461) to Weblate - 5 upvotes, $0
+93. [Amount Manipulation Buy Unlimited Credits in just $1.00](https://hackerone.com/reports/277377) to Inflection - 5 upvotes, $0
+94. [Locked_Transfer functional burning](https://hackerone.com/reports/417515) to Monero - 5 upvotes, $0
 95. [HTTP Host injection in redirect_to function](https://hackerone.com/reports/888176) to Ruby on Rails - 5 upvotes, $0
 96. [2 Cache Poisoning Attack Methods Affect Core Functionality www.exodus.com](https://hackerone.com/reports/1581454) to Exodus - 5 upvotes, $0
 97. [Manipulation of submit payment request allows me to obtain Infrastructure Pro/Other Services for free or at greatly reduced price](https://hackerone.com/reports/219356) to New Relic - 4 upvotes, $600
