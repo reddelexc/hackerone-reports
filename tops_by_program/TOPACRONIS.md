@@ -1,8 +1,8 @@
 Top reports from Acronis program at HackerOne:
 
 1. [SQL Injection in agent-manager](https://hackerone.com/reports/962889) to Acronis - 222 upvotes, $1500
-2. [bypass sql injection #1109311](https://hackerone.com/reports/1224660) to Acronis - 149 upvotes, $500
-3. [Ticket Trick at https://account.acronis.com](https://hackerone.com/reports/999765) to Acronis - 130 upvotes, $750
+2. [bypass sql injection #1109311](https://hackerone.com/reports/1224660) to Acronis - 150 upvotes, $500
+3. [Ticket Trick at https://account.acronis.com](https://hackerone.com/reports/999765) to Acronis - 131 upvotes, $750
 4. [IDOR vulnerability (Price manipulation)](https://hackerone.com/reports/1403176) to Acronis - 119 upvotes, $400
 5. [Stored XSS in backup scanning plan name](https://hackerone.com/reports/961046) to Acronis - 113 upvotes, $500
 6. [SQL injection on admin.acronis.host development web service](https://hackerone.com/reports/923020) to Acronis - 102 upvotes, $250
@@ -15,9 +15,9 @@ Top reports from Acronis program at HackerOne:
 13. [ mail.acronis.com is vulnerable to zero day vulnerability CVE-2022-41040](https://hackerone.com/reports/1719719) to Acronis - 66 upvotes, $1000
 14. [Stored Cross-site Scripting on devicelock.com/forum/](https://hackerone.com/reports/1122513) to Acronis - 64 upvotes, $50
 15. [Reflected XSS on www.grouplogic.com/video.asp](https://hackerone.com/reports/859802) to Acronis - 64 upvotes, $0
-16. [Stored XSS in Acronis Cyber Protect Console](https://hackerone.com/reports/1064095) to Acronis - 61 upvotes, $500
-17. [Subdomain takeover of main domain of https://www.cyberlynx.lu/](https://hackerone.com/reports/1256389) to Acronis - 60 upvotes, $100
-18. [Delete any user's added Email,Telephone,Fax,Address,Skype via csrf in (https://academy.acronis.com/)](https://hackerone.com/reports/709537) to Acronis - 57 upvotes, $0
+16. [Delete any user's added Email,Telephone,Fax,Address,Skype via csrf in (https://academy.acronis.com/)](https://hackerone.com/reports/709537) to Acronis - 64 upvotes, $0
+17. [Stored XSS in Acronis Cyber Protect Console](https://hackerone.com/reports/1064095) to Acronis - 61 upvotes, $500
+18. [Subdomain takeover of main domain of https://www.cyberlynx.lu/](https://hackerone.com/reports/1256389) to Acronis - 61 upvotes, $100
 19. [HTML Injection in E-mail](https://hackerone.com/reports/1536899) to Acronis - 45 upvotes, $0
 20. [Stored XSS in profile page](https://hackerone.com/reports/1084183) to Acronis - 43 upvotes, $50
 21. [admin password disclosure via log file ](https://hackerone.com/reports/1121972) to Acronis - 40 upvotes, $100
@@ -55,9 +55,9 @@ Top reports from Acronis program at HackerOne:
 53. [Web cache poisoning at www.acronis.com](https://hackerone.com/reports/1010858) to Acronis - 15 upvotes, $50
 54. [Stored Cross Site Scripting at http://www.grouplogic.com/ADMIN/store/index.cfm?fa=disprocode](https://hackerone.com/reports/1164853) to Acronis - 15 upvotes, $0
 55. [Self XSS in attachments name](https://hackerone.com/reports/1536901) to Acronis - 14 upvotes, $0
-56. [Subdomain Takeover – jet.acronis.com pointing to unclaimed Webflow services](https://hackerone.com/reports/952166) to Acronis - 13 upvotes, $50
-57. [Acronis True Image Local Privilege Escalation via insecure folder permissions](https://hackerone.com/reports/908162) to Acronis - 12 upvotes, $300
-58. [CVE-2021-40438 on cp-eu2.acronis.com](https://hackerone.com/reports/1370731) to Acronis - 12 upvotes, $150
+56. [CVE-2021-40438 on cp-eu2.acronis.com](https://hackerone.com/reports/1370731) to Acronis - 13 upvotes, $150
+57. [Subdomain Takeover – jet.acronis.com pointing to unclaimed Webflow services](https://hackerone.com/reports/952166) to Acronis - 13 upvotes, $50
+58. [Acronis True Image Local Privilege Escalation via insecure folder permissions](https://hackerone.com/reports/908162) to Acronis - 12 upvotes, $300
 59. [Any expired reset password link can still be used to reset the password](https://hackerone.com/reports/1615790) to Acronis - 11 upvotes, $100
 60. [Cross Origin Resource Sharing Misconfiguration](https://hackerone.com/reports/958459) to Acronis - 11 upvotes, $0
 61. [Arbitrary DLL injection in mmsminisrv (Acronis Managed Machine Service Mini)](https://hackerone.com/reports/944735) to Acronis - 10 upvotes, $250

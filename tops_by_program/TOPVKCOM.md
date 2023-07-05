@@ -17,7 +17,7 @@ Top reports from VK.com program at HackerOne:
 15. [Bypass User Interaction to initiate a VoIP call to Another User](https://hackerone.com/reports/386144) to VK.com - 41 upvotes, $500
 16. [Мини-уязвимость в обработке ссылок](https://hackerone.com/reports/726063) to VK.com - 41 upvotes, $500
 17. [XSS в upload.php](https://hackerone.com/reports/142135) to VK.com - 38 upvotes, $1500
-18. [Reflected Xss On https://vk.com/search](https://hackerone.com/reports/1454359) to VK.com - 37 upvotes, $500
+18. [Reflected Xss On https://vk.com/search](https://hackerone.com/reports/1454359) to VK.com - 38 upvotes, $500
 19. [Reflected xss в m.vk.com/chatjoin](https://hackerone.com/reports/316475) to VK.com - 36 upvotes, $500
 20. [Просмотр приватных видео записей у Пользователей](https://hackerone.com/reports/317985) to VK.com - 34 upvotes, $300
 21. [Получение БД кэша из Android-приложения через стороннее приложение](https://hackerone.com/reports/377582) to VK.com - 32 upvotes, $500
@@ -25,7 +25,7 @@ Top reports from VK.com program at HackerOne:
 23. [Возможность взлома любого пользователя, не использующего двухфакторной аутентификации, через получения кода восстановления на чужой номер.](https://hackerone.com/reports/219171) to VK.com - 31 upvotes, $2000
 24. [XSS-уязвимость, связанная с загрузкой файлов](https://hackerone.com/reports/375886) to VK.com - 30 upvotes, $1000
 25. [XSS в колбек апи в сообществах ](https://hackerone.com/reports/261966) to VK.com - 29 upvotes, $500
-26. [Отправка подарков/стикерпаков не теряя голоса.](https://hackerone.com/reports/729064) to VK.com - 28 upvotes, $200
+26. [Отправка подарков/стикерпаков не теряя голоса.](https://hackerone.com/reports/729064) to VK.com - 29 upvotes, $200
 27. [CSRF на загрузку аудиозаписей](https://hackerone.com/reports/329345) to VK.com - 28 upvotes, $100
 28. [Доступ к администраторским faq ](https://hackerone.com/reports/370629) to VK.com - 27 upvotes, $500
 29. [Уязвимость в методе auth.restore](https://hackerone.com/reports/366153) to VK.com - 27 upvotes, $400
@@ -74,11 +74,11 @@ Top reports from VK.com program at HackerOne:
 72. [Злом (virus).. Смотрим кто голосовал в анонимном опросе!!](https://hackerone.com/reports/388143) to VK.com - 14 upvotes, $200
 73. [Просмотр записей пользователя, который тебя заблокировал](https://hackerone.com/reports/369063) to VK.com - 14 upvotes, $100
 74. [[m.vk.com] XSS на страницах /artist/ ](https://hackerone.com/reports/874198) to VK.com - 13 upvotes, $500
-75. [Отсутствие flood контроля в ИСТОРИЯХ вк](https://hackerone.com/reports/249786) to VK.com - 13 upvotes, $100
-76. [Раскрытие информации о частной группе или приложении](https://hackerone.com/reports/216289) to VK.com - 13 upvotes, $100
-77. [[Привязка email к странице] by admin@notify.vk.com | email-flood](https://hackerone.com/reports/344223) to VK.com - 13 upvotes, $0
-78. [Просмотр лайков и репостов фотографии, которая находятся в приватном альбоме](https://hackerone.com/reports/64754) to VK.com - 12 upvotes, $300
-79. [Issue in the implementation of captcha and race condition](https://hackerone.com/reports/67562) to VK.com - 12 upvotes, $100
+75. [Issue in the implementation of captcha and race condition](https://hackerone.com/reports/67562) to VK.com - 13 upvotes, $100
+76. [Отсутствие flood контроля в ИСТОРИЯХ вк](https://hackerone.com/reports/249786) to VK.com - 13 upvotes, $100
+77. [Раскрытие информации о частной группе или приложении](https://hackerone.com/reports/216289) to VK.com - 13 upvotes, $100
+78. [[Привязка email к странице] by admin@notify.vk.com | email-flood](https://hackerone.com/reports/344223) to VK.com - 13 upvotes, $0
+79. [Просмотр лайков и репостов фотографии, которая находятся в приватном альбоме](https://hackerone.com/reports/64754) to VK.com - 12 upvotes, $300
 80. [CSRF в m.vk.com](https://hackerone.com/reports/300999) to VK.com - 12 upvotes, $100
 81. [CSRF в виджетах ](https://hackerone.com/reports/1091296) to VK.com - 12 upvotes, $100
 82. [XSS в обработчике ссылок](https://hackerone.com/reports/1073571) to VK.com - 11 upvotes, $700

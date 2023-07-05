@@ -1,8 +1,8 @@
 Top MFA reports from HackerOne:
 
 1. [2FA bypass by sending blank code](https://hackerone.com/reports/897385) to Glassdoor - 268 upvotes, $1000
-2. [Hacker can bypass 2FA requirement and reporter blacklist through embedded submission form](https://hackerone.com/reports/418767) to HackerOne - 179 upvotes, $10000
-3. [TikTok 2FA Bypass](https://hackerone.com/reports/1247108) to TikTok - 169 upvotes, $1564
+2. [Hacker can bypass 2FA requirement and reporter blacklist through embedded submission form](https://hackerone.com/reports/418767) to HackerOne - 181 upvotes, $10000
+3. [TikTok 2FA Bypass](https://hackerone.com/reports/1247108) to TikTok - 172 upvotes, $1564
 4. [Previously created sessions continue being valid after MFA activation](https://hackerone.com/reports/667739) to Grammarly - 153 upvotes, $2500
 5. [Enable 2FA without verifying the email](https://hackerone.com/reports/649533) to Moneybird - 125 upvotes, $100
 6. [Password not checked when disabling 2FA on HackerOne](https://hackerone.com/reports/587910) to HackerOne - 82 upvotes, $500
@@ -23,7 +23,7 @@ Top MFA reports from HackerOne:
 21. [Enable 2Fa verification without verifying email](https://hackerone.com/reports/1618021) to Cloudflare Public Bug Bounty - 26 upvotes, $350
 22. [Two-factor authentication can be disabled when logged in without 2fa or password confirmation ](https://hackerone.com/reports/992450) to Zivver - 24 upvotes, $0
 23. [Sign in with Apple works on existing accounts, bypasses 2FA](https://hackerone.com/reports/1593404) to Cloudflare Public Bug Bounty - 23 upvotes, $1000
-24. [Bypass two-factor authentication](https://hackerone.com/reports/1664974) to Cloudflare Public Bug Bounty - 22 upvotes, $250
+24. [Bypass two-factor authentication](https://hackerone.com/reports/1664974) to Cloudflare Public Bug Bounty - 23 upvotes, $250
 25. [Обход 2ух-шаговой авторизации / 2FA Bypass](https://hackerone.com/reports/163834) to VK.com - 19 upvotes, $1000
 26. [bypass of 2FA](https://hackerone.com/reports/248656) to Nextcloud - 17 upvotes, $750
 27. [Bypassing password authentication of users that have 2FA enabled](https://hackerone.com/reports/128085) to GitLab - 17 upvotes, $0
@@ -36,8 +36,8 @@ Top MFA reports from HackerOne:
 34. [Bypassing 2FA for BTC transfers](https://hackerone.com/reports/10554) to Coinbase - 11 upvotes, $1000
 35. [Can register any mobile number in MFA without current code.](https://hackerone.com/reports/667740) to Grammarly - 11 upvotes, $750
 36. [Email Verification Bypass by bruteforcing when setting up 2FA](https://hackerone.com/reports/1394984) to Evernote - 11 upvotes, $150
-37. [CSRF в получении резервных токенов+framing , приводящие к компроментации 2fa](https://hackerone.com/reports/90165) to VK.com - 9 upvotes, $500
-38. [2FA Disable With Wrong Password - Response Tampering.](https://hackerone.com/reports/893085) to 8x8 - 9 upvotes, $0
+37. [2FA Disable With Wrong Password - Response Tampering.](https://hackerone.com/reports/893085) to 8x8 - 10 upvotes, $0
+38. [CSRF в получении резервных токенов+framing , приводящие к компроментации 2fa](https://hackerone.com/reports/90165) to VK.com - 9 upvotes, $500
 39. [Новый 2FA Bypass](https://hackerone.com/reports/179421) to VK.com - 8 upvotes, $1000
 40. [Обходим 2FA и/или получаем access_token, если мы когда-либо были на аккаунте жертвы](https://hackerone.com/reports/316078) to VK.com - 8 upvotes, $300
 41. [Rate limits too low for email 2FA](https://hackerone.com/reports/979820) to Bitwarden - 8 upvotes, $0

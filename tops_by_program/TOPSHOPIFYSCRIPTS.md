@@ -134,24 +134,24 @@ Top reports from shopify-scripts program at HackerOne:
 132. [Integer Overflow in mrb_ary_set](https://hackerone.com/reports/192235) to shopify-scripts - 3 upvotes, $100
 133. [Crash in print_backtrace](https://hackerone.com/reports/197916) to shopify-scripts - 3 upvotes, $100
 134. [Segmentfault at mrb_vm_exec](https://hackerone.com/reports/201903) to shopify-scripts - 3 upvotes, $100
-135. [segafult in mruby's sprintf - mrb_str_format](https://hackerone.com/reports/204628) to shopify-scripts - 3 upvotes, $100
-136. [Segmentation fault - mrb_gc_mark](https://hackerone.com/reports/195842) to shopify-scripts - 3 upvotes, $100
-137. [Controlled address leak due to type confusion - ASLR bypass](https://hackerone.com/reports/207321) to shopify-scripts - 3 upvotes, $100
-138. [sprintf gem - format string combined attack](https://hackerone.com/reports/212239) to shopify-scripts - 3 upvotes, $100
-139. [mirb only: stack-buffer-overflow (OOB write) in main()](https://hackerone.com/reports/219870) to shopify-scripts - 3 upvotes, $100
-140. [Heap Overflow in fiber_switch triggered from Fiber.transfer](https://hackerone.com/reports/227762) to shopify-scripts - 3 upvotes, $100
-141. [Segmentation fault while printing backtrace](https://hackerone.com/reports/204047) to shopify-scripts - 2 upvotes, $1000
-142. [Denial of service (segfault) due to null pointer dereference in mrb_vm_exec](https://hackerone.com/reports/202584) to shopify-scripts - 2 upvotes, $800
-143. [Heap buffer overflow with long array assignment](https://hackerone.com/reports/209449) to shopify-scripts - 2 upvotes, $800
-144. [Null pointer dereference in mrb_class](https://hackerone.com/reports/212107) to shopify-scripts - 2 upvotes, $800
-145. [Null pointer dereference in mark_context_stack](https://hackerone.com/reports/208526) to shopify-scripts - 2 upvotes, $800
-146. [Heap use-after-free in mrb_vm_exec ](https://hackerone.com/reports/207710) to shopify-scripts - 2 upvotes, $800
-147. [Heap buffer overflow in mruby value_move](https://hackerone.com/reports/209765) to shopify-scripts - 2 upvotes, $800
-148. [SIGSEGV in array_copy - array.c:71](https://hackerone.com/reports/218567) to shopify-scripts - 2 upvotes, $800
-149. [Null pointer dereference with send/method_missing](https://hackerone.com/reports/242354) to shopify-scripts - 2 upvotes, $800
-150. [Garbage collector crash](https://hackerone.com/reports/215854) to shopify-scripts - 2 upvotes, $300
-151. [ heap-use-after-free /home/operac/testafl/mruby/mrubylast/mruby/src/gc.c](https://hackerone.com/reports/200821) to shopify-scripts - 2 upvotes, $100
-152. [Incorrect code generation with redo inside NODE_RESCUE.](https://hackerone.com/reports/200387) to shopify-scripts - 2 upvotes, $100
+135. [Incorrect code generation with redo inside NODE_RESCUE.](https://hackerone.com/reports/200387) to shopify-scripts - 3 upvotes, $100
+136. [segafult in mruby's sprintf - mrb_str_format](https://hackerone.com/reports/204628) to shopify-scripts - 3 upvotes, $100
+137. [Segmentation fault - mrb_gc_mark](https://hackerone.com/reports/195842) to shopify-scripts - 3 upvotes, $100
+138. [Controlled address leak due to type confusion - ASLR bypass](https://hackerone.com/reports/207321) to shopify-scripts - 3 upvotes, $100
+139. [sprintf gem - format string combined attack](https://hackerone.com/reports/212239) to shopify-scripts - 3 upvotes, $100
+140. [mirb only: stack-buffer-overflow (OOB write) in main()](https://hackerone.com/reports/219870) to shopify-scripts - 3 upvotes, $100
+141. [Heap Overflow in fiber_switch triggered from Fiber.transfer](https://hackerone.com/reports/227762) to shopify-scripts - 3 upvotes, $100
+142. [Segmentation fault while printing backtrace](https://hackerone.com/reports/204047) to shopify-scripts - 2 upvotes, $1000
+143. [Denial of service (segfault) due to null pointer dereference in mrb_vm_exec](https://hackerone.com/reports/202584) to shopify-scripts - 2 upvotes, $800
+144. [Heap buffer overflow with long array assignment](https://hackerone.com/reports/209449) to shopify-scripts - 2 upvotes, $800
+145. [Null pointer dereference in mrb_class](https://hackerone.com/reports/212107) to shopify-scripts - 2 upvotes, $800
+146. [Null pointer dereference in mark_context_stack](https://hackerone.com/reports/208526) to shopify-scripts - 2 upvotes, $800
+147. [Heap use-after-free in mrb_vm_exec ](https://hackerone.com/reports/207710) to shopify-scripts - 2 upvotes, $800
+148. [Heap buffer overflow in mruby value_move](https://hackerone.com/reports/209765) to shopify-scripts - 2 upvotes, $800
+149. [SIGSEGV in array_copy - array.c:71](https://hackerone.com/reports/218567) to shopify-scripts - 2 upvotes, $800
+150. [Null pointer dereference with send/method_missing](https://hackerone.com/reports/242354) to shopify-scripts - 2 upvotes, $800
+151. [Garbage collector crash](https://hackerone.com/reports/215854) to shopify-scripts - 2 upvotes, $300
+152. [ heap-use-after-free /home/operac/testafl/mruby/mrubylast/mruby/src/gc.c](https://hackerone.com/reports/200821) to shopify-scripts - 2 upvotes, $100
 153. [SIGABRT in sym_validate_len - symbol.c:44](https://hackerone.com/reports/218803) to shopify-scripts - 2 upvotes, $100
 154. [heap use after free in fiber_switch](https://hackerone.com/reports/222171) to shopify-scripts - 2 upvotes, $100
 155. [Invalid Pointer reference in L_RESCUE](https://hackerone.com/reports/219293) to shopify-scripts - 2 upvotes, $100

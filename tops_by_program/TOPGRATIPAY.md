@@ -3,9 +3,9 @@ Top reports from Gratipay program at HackerOne:
 1. [Saying goodbye to HackerOne and Gratipay.](https://hackerone.com/reports/286728) to Gratipay - 92 upvotes, $0
 2. [Reflected XSS - gratipay.com](https://hackerone.com/reports/262852) to Gratipay - 35 upvotes, $0
 3. [Sub Domain Takeover](https://hackerone.com/reports/221133) to Gratipay - 16 upvotes, $0
-4. [configure a redirect URI for Facebook OAuth](https://hackerone.com/reports/140432) to Gratipay - 14 upvotes, $10
-5. [SQL TEST](https://hackerone.com/reports/248037) to Gratipay - 14 upvotes, $0
-6. [i am The bug](https://hackerone.com/reports/284807) to Gratipay - 14 upvotes, $0
+4. [i am The bug](https://hackerone.com/reports/284807) to Gratipay - 16 upvotes, $0
+5. [configure a redirect URI for Facebook OAuth](https://hackerone.com/reports/140432) to Gratipay - 14 upvotes, $10
+6. [SQL TEST](https://hackerone.com/reports/248037) to Gratipay - 14 upvotes, $0
 7. [Application-level DoS on image's "size" parameter.](https://hackerone.com/reports/247700) to Gratipay - 14 upvotes, $0
 8. [fix bug in username restriction](https://hackerone.com/reports/128121) to Gratipay - 13 upvotes, $10
 9. [don't leak Server version for assets.gratipay.com](https://hackerone.com/reports/149710) to Gratipay - 12 upvotes, $0
@@ -28,26 +28,26 @@ Top reports from Gratipay program at HackerOne:
 26. [Transferring incorrect data to the http://gip.rocks/v1 endpoint with correct Content-Type leads to local paths disclosure through the error message](https://hackerone.com/reports/219601) to Gratipay - 6 upvotes, $0
 27. [Prevent content spoofing on /~username/emails/verify.html](https://hackerone.com/reports/117187) to Gratipay - 5 upvotes, $10
 28. [suppress version in Server header on gratipay.com or grtp.co](https://hackerone.com/reports/123742) to Gratipay - 5 upvotes, $1
-29. [Cross Site Scripting In Profile Statement ](https://hackerone.com/reports/162120) to Gratipay - 5 upvotes, $0
-30. [Gratipay uses the random module's cryptographically insecure PRNG.](https://hackerone.com/reports/190373) to Gratipay - 5 upvotes, $0
-31. [Session Fixation At Logout /Session Misconfiguration](https://hackerone.com/reports/193556) to Gratipay - 5 upvotes, $0
-32. [Username can be used to trick the victim on the name of www.gratipay.com](https://hackerone.com/reports/163904) to Gratipay - 5 upvotes, $0
-33. [Content-Length restriction bypass to heap overflow in gip.rocks.](https://hackerone.com/reports/214449) to Gratipay - 5 upvotes, $0
-34. [HTTP trace method is enabled on gip.rocks](https://hackerone.com/reports/203384) to Gratipay - 5 upvotes, $0
-35. [Harden resend throttling](https://hackerone.com/reports/108645) to Gratipay - 5 upvotes, $0
-36. [clickjacking on https://gratipay.com/on/npm/[text]](https://hackerone.com/reports/267189) to Gratipay - 5 upvotes, $0
-37. [[gratipay.com] CRLF Injection](https://hackerone.com/reports/79552) to Gratipay - 4 upvotes, $40
-38. [No Valid SPF Records.](https://hackerone.com/reports/116973) to Gratipay - 4 upvotes, $10
-39. [limit HTTP methods on other domains](https://hackerone.com/reports/117142) to Gratipay - 4 upvotes, $1
-40. [Content Spoofing/Text Injection ](https://hackerone.com/reports/154921) to Gratipay - 4 upvotes, $1
-41. [Incomplete or No Cache-control and Pragma HTTP Header Set](https://hackerone.com/reports/185833) to Gratipay - 4 upvotes, $1
-42. [prevent null bytes in email field](https://hackerone.com/reports/150917) to Gratipay - 4 upvotes, $0
-43. [don't allow directory browsing on grtp.co](https://hackerone.com/reports/151295) to Gratipay - 4 upvotes, $0
-44. [Secure Pages Include Mixed Content](https://hackerone.com/reports/185835) to Gratipay - 4 upvotes, $0
-45. [nginx version disclosure on downloads.gratipay.com](https://hackerone.com/reports/157507) to Gratipay - 4 upvotes, $0
-46. [CSP Policy Bypass and javascript execution](https://hackerone.com/reports/241192) to Gratipay - 4 upvotes, $0
-47. [Send email asynchronously](https://hackerone.com/reports/128856) to Gratipay - 3 upvotes, $10
-48. [HTTP trace method is enabled](https://hackerone.com/reports/109054) to Gratipay - 3 upvotes, $5
+29. [Incomplete or No Cache-control and Pragma HTTP Header Set](https://hackerone.com/reports/185833) to Gratipay - 5 upvotes, $1
+30. [Cross Site Scripting In Profile Statement ](https://hackerone.com/reports/162120) to Gratipay - 5 upvotes, $0
+31. [Gratipay uses the random module's cryptographically insecure PRNG.](https://hackerone.com/reports/190373) to Gratipay - 5 upvotes, $0
+32. [Session Fixation At Logout /Session Misconfiguration](https://hackerone.com/reports/193556) to Gratipay - 5 upvotes, $0
+33. [Username can be used to trick the victim on the name of www.gratipay.com](https://hackerone.com/reports/163904) to Gratipay - 5 upvotes, $0
+34. [Content-Length restriction bypass to heap overflow in gip.rocks.](https://hackerone.com/reports/214449) to Gratipay - 5 upvotes, $0
+35. [HTTP trace method is enabled on gip.rocks](https://hackerone.com/reports/203384) to Gratipay - 5 upvotes, $0
+36. [Harden resend throttling](https://hackerone.com/reports/108645) to Gratipay - 5 upvotes, $0
+37. [clickjacking on https://gratipay.com/on/npm/[text]](https://hackerone.com/reports/267189) to Gratipay - 5 upvotes, $0
+38. [[gratipay.com] CRLF Injection](https://hackerone.com/reports/79552) to Gratipay - 4 upvotes, $40
+39. [No Valid SPF Records.](https://hackerone.com/reports/116973) to Gratipay - 4 upvotes, $10
+40. [HTTP trace method is enabled](https://hackerone.com/reports/109054) to Gratipay - 4 upvotes, $5
+41. [limit HTTP methods on other domains](https://hackerone.com/reports/117142) to Gratipay - 4 upvotes, $1
+42. [Content Spoofing/Text Injection ](https://hackerone.com/reports/154921) to Gratipay - 4 upvotes, $1
+43. [prevent null bytes in email field](https://hackerone.com/reports/150917) to Gratipay - 4 upvotes, $0
+44. [don't allow directory browsing on grtp.co](https://hackerone.com/reports/151295) to Gratipay - 4 upvotes, $0
+45. [Secure Pages Include Mixed Content](https://hackerone.com/reports/185835) to Gratipay - 4 upvotes, $0
+46. [nginx version disclosure on downloads.gratipay.com](https://hackerone.com/reports/157507) to Gratipay - 4 upvotes, $0
+47. [CSP Policy Bypass and javascript execution](https://hackerone.com/reports/241192) to Gratipay - 4 upvotes, $0
+48. [Send email asynchronously](https://hackerone.com/reports/128856) to Gratipay - 3 upvotes, $10
 49. [SPF/DKIM/DMARC for aspen.io](https://hackerone.com/reports/117159) to Gratipay - 3 upvotes, $2
 50. [The POODLE attack (SSLv3 supported) for https://grtp.co/](https://hackerone.com/reports/116360) to Gratipay - 3 upvotes, $1
 51. [Hijacking user session by forcing the use of  invalid HTTPs Certificate on images.gratipay.com](https://hackerone.com/reports/124976) to Gratipay - 3 upvotes, $1

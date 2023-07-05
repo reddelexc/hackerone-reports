@@ -1,6 +1,6 @@
 Top reports from QIWI program at HackerOne:
 
-1. [SQL injection on contactws.contact-sys.com in TScenObject action ScenObjects leads to remote code execution](https://hackerone.com/reports/816254) to QIWI - 465 upvotes, $5500
+1. [SQL injection on contactws.contact-sys.com in TScenObject action ScenObjects leads to remote code execution](https://hackerone.com/reports/816254) to QIWI - 467 upvotes, $5500
 2. [Unauthenticated SSRF in jira.tochka.com leading to RCE in confluence.bank24.int](https://hackerone.com/reports/713900) to QIWI - 217 upvotes, $1000
 3. [Remote Code Execution on contactws.contact-sys.com via SQL injection in TCertObject operation "Delete"](https://hackerone.com/reports/816086) to QIWI - 193 upvotes, $1000
 4. [MobileIron Unauthenticated RCE on mdm.qiwi.com with WAF bypass](https://hackerone.com/reports/983548) to QIWI - 147 upvotes, $3500
@@ -36,8 +36,8 @@ Top reports from QIWI program at HackerOne:
 34. [Обход комиссии на переводы](https://hackerone.com/reports/691766) to QIWI - 21 upvotes, $1000
 35. [[lk.contact-sys.com] LKlang Path Traversal](https://hackerone.com/reports/164933) to QIWI - 21 upvotes, $150
 36. [[contact-sys.com] XSS /ajax/transfer/status trn param](https://hackerone.com/reports/164704) to QIWI - 21 upvotes, $100
-37. [IDOR редактирование любого вишлиста](https://hackerone.com/reports/736065) to QIWI - 19 upvotes, $500
-38. [[*.rocketbank.ru] Web Cache Deception & XSS](https://hackerone.com/reports/415168) to QIWI - 19 upvotes, $200
+37. [[*.rocketbank.ru] Web Cache Deception & XSS](https://hackerone.com/reports/415168) to QIWI - 20 upvotes, $200
+38. [IDOR редактирование любого вишлиста](https://hackerone.com/reports/736065) to QIWI - 19 upvotes, $500
 39. [[id.rapida.ru] Full Path Disclosure](https://hackerone.com/reports/165219) to QIWI - 19 upvotes, $50
 40. [crlf injection на https://bug.qiwi.com](https://hackerone.com/reports/1081367) to QIWI - 18 upvotes, $100
 41. [[send.qiwi.ru] Soap-based XXE vulnerability /soapserver/ ](https://hackerone.com/reports/36450) to QIWI - 17 upvotes, $1000

@@ -5,7 +5,7 @@ Top reports from New Relic program at HackerOne:
 3. [Account Takeover via Email ID Change and Forgot Password Functionality](https://hackerone.com/reports/1089467) to New Relic - 210 upvotes, $2048
 4. [Cross-account stored XSS at embedded charts](https://hackerone.com/reports/709883) to New Relic - 156 upvotes, $3625
 5. [Stored XSS in notes (charts) because of insecure chart data JSON generation](https://hackerone.com/reports/507132) to New Relic - 145 upvotes, $4250
-6. [Reflected XSS in VPN Appliance](https://hackerone.com/reports/1386438) to New Relic - 100 upvotes, $1024
+6. [Reflected XSS in VPN Appliance](https://hackerone.com/reports/1386438) to New Relic - 102 upvotes, $1024
 7. [CSTI at Plugin page leading to active stored XSS (Publisher name)](https://hackerone.com/reports/587829) to New Relic - 91 upvotes, $2500
 8. [Stored XSS via malicious key value of Synthetics monitor tag when visiting an Insights dashboard with filtering enabled](https://hackerone.com/reports/1067321) to New Relic - 85 upvotes, $2123
 9. [Urgent! Stored XSS at plugin's violations leading to account takeover](https://hackerone.com/reports/602527) to New Relic - 79 upvotes, $2500
@@ -75,20 +75,20 @@ Top reports from New Relic program at HackerOne:
 73. [Stored XSS at Synthetics private locations (planted through location label or description)](https://hackerone.com/reports/680240) to New Relic - 8 upvotes, $2500
 74. [Ability to view monitor names of other NR accounts through internal API (v3) via "monitor_id" parameter ](https://hackerone.com/reports/462321) to New Relic - 8 upvotes, $2000
 75. [https://rpm.newrelic.com/login vulnerable to host header attack](https://hackerone.com/reports/123078) to New Relic - 8 upvotes, $0
-76. [Bypass of my two other reports #267636 + #255894 - (IDOR) Ability to see full name associated with other New Relic accounts](https://hackerone.com/reports/271861) to New Relic - 8 upvotes, $0
-77. [Drupal admin takeover via install.php not being performed prior to install.](https://hackerone.com/reports/329407) to New Relic - 8 upvotes, $0
-78. [Mixed content issues on newrelic.com](https://hackerone.com/reports/700091) to New Relic - 8 upvotes, $0
-79. [Stored XSS at Mobile (Versions tab)](https://hackerone.com/reports/706533) to New Relic - 7 upvotes, $2500
-80. [Passive stored XSS at Synthetics job result page (View resource)](https://hackerone.com/reports/690536) to New Relic - 7 upvotes, $1075
-81. [Restricted user can view all account invoices, payment method details, PII of account owner through zoura_api endpoints](https://hackerone.com/reports/501672) to New Relic - 7 upvotes, $900
-82. [[NR Alerts/Synthetics?] User with no Synthetics permissions can view synthetic monitor details through /internal_api/ endpoint](https://hackerone.com/reports/320200) to New Relic - 7 upvotes, $750
-83. [One Click Remote Code Injection - *.blog.newrelic.com](https://hackerone.com/reports/941421) to New Relic - 7 upvotes, $506
-84. [Logic flaw enables restricted account to access account license key](https://hackerone.com/reports/200576) to New Relic - 7 upvotes, $500
-85. [SSRF on synthetics.newrelic.com permitting access to sensitive data](https://hackerone.com/reports/141682) to New Relic - 7 upvotes, $0
-86. [Session Management Flaw](https://hackerone.com/reports/152944) to New Relic - 7 upvotes, $0
-87. [CSRF vulnerability that allows an attacker to purge plugin metric data](https://hackerone.com/reports/157270) to New Relic - 7 upvotes, $0
-88. [Leaking license key in source code](https://hackerone.com/reports/154855) to New Relic - 7 upvotes, $0
-89. [JIRA account misconfig causes internal info leak](https://hackerone.com/reports/139970) to New Relic - 7 upvotes, $0
+76. [JIRA account misconfig causes internal info leak](https://hackerone.com/reports/139970) to New Relic - 8 upvotes, $0
+77. [Bypass of my two other reports #267636 + #255894 - (IDOR) Ability to see full name associated with other New Relic accounts](https://hackerone.com/reports/271861) to New Relic - 8 upvotes, $0
+78. [Drupal admin takeover via install.php not being performed prior to install.](https://hackerone.com/reports/329407) to New Relic - 8 upvotes, $0
+79. [Mixed content issues on newrelic.com](https://hackerone.com/reports/700091) to New Relic - 8 upvotes, $0
+80. [Stored XSS at Mobile (Versions tab)](https://hackerone.com/reports/706533) to New Relic - 7 upvotes, $2500
+81. [Passive stored XSS at Synthetics job result page (View resource)](https://hackerone.com/reports/690536) to New Relic - 7 upvotes, $1075
+82. [Restricted user can view all account invoices, payment method details, PII of account owner through zoura_api endpoints](https://hackerone.com/reports/501672) to New Relic - 7 upvotes, $900
+83. [[NR Alerts/Synthetics?] User with no Synthetics permissions can view synthetic monitor details through /internal_api/ endpoint](https://hackerone.com/reports/320200) to New Relic - 7 upvotes, $750
+84. [One Click Remote Code Injection - *.blog.newrelic.com](https://hackerone.com/reports/941421) to New Relic - 7 upvotes, $506
+85. [Logic flaw enables restricted account to access account license key](https://hackerone.com/reports/200576) to New Relic - 7 upvotes, $500
+86. [SSRF on synthetics.newrelic.com permitting access to sensitive data](https://hackerone.com/reports/141682) to New Relic - 7 upvotes, $0
+87. [Session Management Flaw](https://hackerone.com/reports/152944) to New Relic - 7 upvotes, $0
+88. [CSRF vulnerability that allows an attacker to purge plugin metric data](https://hackerone.com/reports/157270) to New Relic - 7 upvotes, $0
+89. [Leaking license key in source code](https://hackerone.com/reports/154855) to New Relic - 7 upvotes, $0
 90. [CSRF For Adding Users](https://hackerone.com/reports/225326) to New Relic - 7 upvotes, $0
 91. [[Bypass] Code injection to open redirect in https://insights.newrelic.com/accounts/2521182/dashboards/1026927](https://hackerone.com/reports/727368) to New Relic - 7 upvotes, $0
 92. [HTML Injection In Email In one.newrelic.com](https://hackerone.com/reports/1173219) to New Relic - 7 upvotes, $0

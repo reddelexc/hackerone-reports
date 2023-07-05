@@ -2,7 +2,7 @@ Top Upload reports from HackerOne:
 
 1. [Remote Code Execution on www.semrush.com/my_reports on Logo upload](https://hackerone.com/reports/403417) to Semrush - 790 upvotes, $10000
 2. [Webshell via File Upload on ecjobs.starbucks.com.cn](https://hackerone.com/reports/506646) to Starbucks - 672 upvotes, $4000
-3. [Blind XSS on image upload](https://hackerone.com/reports/1010466) to CS Money - 408 upvotes, $1000
+3. [Blind XSS on image upload](https://hackerone.com/reports/1010466) to CS Money - 410 upvotes, $1000
 4. [Unrestricted file upload on [ambassador.mail.ru] ](https://hackerone.com/reports/854032) to Mail.ru - 404 upvotes, $3000
 5. [[ RCE ] Through stopping the redirect in /admin/* the attacker able to bypass Authentication And Upload Malicious File](https://hackerone.com/reports/683957) to Mail.ru - 340 upvotes, $4000
 6. [Unrestricted file upload leads to Stored XSS](https://hackerone.com/reports/808862) to Visma Public - 268 upvotes, $250
@@ -14,10 +14,10 @@ Top Upload reports from HackerOne:
 12. [Unrestricted file upload in www.semrush.com \> /my_reports/api/v1/upload/image](https://hackerone.com/reports/748903) to Semrush - 124 upvotes, $500
 13. [User can upload files even after closing his account](https://hackerone.com/reports/1020371) to Basecamp - 114 upvotes, $500
 14. [XXE Injection through SVG image upload leads to SSRF](https://hackerone.com/reports/897244) to Zivver - 112 upvotes, $0
-15. [Insecure file upload in xiaoai.mi.com Lead to Stored  XSS](https://hackerone.com/reports/882733) to Xiaomi - 106 upvotes, $50
-16. [[insideok.ru] Remote Command Execution via file upload.](https://hackerone.com/reports/666716) to ok.ru - 94 upvotes, $500
-17. [Avatar upload allows arbitrary file overwriting](https://hackerone.com/reports/671605) to Mail.ru - 88 upvotes, $750
-18. [Unrestricted File Upload on https://partner.tiktokshop.com/wsos_v2/oec_partner/upload](https://hackerone.com/reports/1890284) to TikTok - 85 upvotes, $2500
+15. [Insecure file upload in xiaoai.mi.com Lead to Stored  XSS](https://hackerone.com/reports/882733) to Xiaomi - 107 upvotes, $50
+16. [Unrestricted File Upload on https://partner.tiktokshop.com/wsos_v2/oec_partner/upload](https://hackerone.com/reports/1890284) to TikTok - 94 upvotes, $2500
+17. [[insideok.ru] Remote Command Execution via file upload.](https://hackerone.com/reports/666716) to ok.ru - 94 upvotes, $500
+18. [Avatar upload allows arbitrary file overwriting](https://hackerone.com/reports/671605) to Mail.ru - 88 upvotes, $750
 19. [Unrestricted file upload leads to Stored XSS](https://hackerone.com/reports/880099) to GitLab - 82 upvotes, $1500
 20. [Unauthenticated user can upload an attachment to the last updated report draft](https://hackerone.com/reports/419896) to HackerOne - 80 upvotes, $0
 21. [XSS from arbitrary attachment upload.](https://hackerone.com/reports/831703) to Qulture.Rocks - 74 upvotes, $0
@@ -45,7 +45,7 @@ Top Upload reports from HackerOne:
 43. [SVG file that HTML Included is able to upload via File Manager](https://hackerone.com/reports/437863) to Concrete CMS - 26 upvotes, $0
 44. [No validation to Image upload user can upload ( php APK zip files and can be used as storage purpose)](https://hackerone.com/reports/1644062) to Linktree - 25 upvotes, $750
 45. [Shell upload in partner service](https://hackerone.com/reports/369557) to Mail.ru - 25 upvotes, $500
-46. [Unrestricted File Upload on reddit.secure.force.com](https://hackerone.com/reports/1606957) to Reddit - 24 upvotes, $100
+46. [Unrestricted File Upload on reddit.secure.force.com](https://hackerone.com/reports/1606957) to Reddit - 25 upvotes, $100
 47. [Wordpress 4.7.2 - Two XSS in Media Upload when file too large.](https://hackerone.com/reports/203515) to WordPress - 23 upvotes, $350
 48. [Malicious file upload (secure.lahitapiola.fi)](https://hackerone.com/reports/305237) to LocalTapiola - 22 upvotes, $600
 49. [XSS via unicode characters in upload filename](https://hackerone.com/reports/179695) to WordPress - 22 upvotes, $600
@@ -127,7 +127,8 @@ Top Upload reports from HackerOne:
 125. [Uploading Plain Text to uber-documents.s3.amazonaws.com Through the Driver Document Upload Page](https://hackerone.com/reports/126374) to Uber - 1 upvotes, $0
 126. [UNRESTRICTED FILE UPLOAD AT chat.makerdao.com](https://hackerone.com/reports/692360) to BlockDev Sp. Z o.o - 1 upvotes, $0
 127. [Parallel upload hangs curl if upload file not found](https://hackerone.com/reports/1019372) to curl - 1 upvotes, $0
-128. [File upload XSS (Java applet) on http://slackatwork.com/](https://hackerone.com/reports/97657) to Slack - 0 upvotes, $200
-129. [cloud.mail.ru: File upload XSS using Content-Type header](https://hackerone.com/reports/20720) to Mail.ru - 0 upvotes, $150
-130. [ftp upload of video allows naming that is not sanitized as the manual naming](https://hackerone.com/reports/45368) to Vimeo - 0 upvotes, $100
-131. [unknow files Upload  in profile photo](https://hackerone.com/reports/52383) to Dropbox Acquisitions - 0 upvotes, $0
+128. [Reflected XSS via File Upload](https://hackerone.com/reports/1816181) to Reddit - 1 upvotes, $0
+129. [File upload XSS (Java applet) on http://slackatwork.com/](https://hackerone.com/reports/97657) to Slack - 0 upvotes, $200
+130. [cloud.mail.ru: File upload XSS using Content-Type header](https://hackerone.com/reports/20720) to Mail.ru - 0 upvotes, $150
+131. [ftp upload of video allows naming that is not sanitized as the manual naming](https://hackerone.com/reports/45368) to Vimeo - 0 upvotes, $100
+132. [unknow files Upload  in profile photo](https://hackerone.com/reports/52383) to Dropbox Acquisitions - 0 upvotes, $0
