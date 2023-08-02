@@ -47,6 +47,7 @@ def extract_reports(raw_reports):
 
 def fetch():
     options = ChromeOptions()
+    # options.binary_location = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
     options.add_argument('no-sandbox')
     options.add_argument('headless')
     driver = Chrome(options=options)
