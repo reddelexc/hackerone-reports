@@ -27,10 +27,10 @@ def fill():
             reports[i]['title'] = json_info['title']
             reports[i]['program'] = json_info['team']['profile']['name']
             reports[i]['upvotes'] = int(json_info['vote_count'])
-            reports[i]['bounty'] = float(json_info['bounty_amount']) if json_info['has_bounty?'] else 0.0
+            reports[i]['bounty'] = float(json_info['bounty_amount'] if 'bounty_amount' in json_info else "0") if json_info['has_bounty?'] else 0.0
             reports[i]['vuln_type'] = json_info['weakness']['name'] if 'weakness' in json_info else ''
-        except Exception:
-            print('error at report ' + str(i + 1))
+        except Exception as err:
+            print('error at report ' + str(i + 1), err)
             continue
 
         print(reports[i])
