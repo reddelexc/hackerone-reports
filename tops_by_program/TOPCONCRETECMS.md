@@ -1,7 +1,7 @@
 Top reports from Concrete CMS program at HackerOne:
 
 1. [Remote Code Execution (Reverse Shell) - File Manager](https://hackerone.com/reports/768322) to Concrete CMS - 111 upvotes, $0
-2. [Time-base SQL Injection in Search Users](https://hackerone.com/reports/876800) to Concrete CMS - 56 upvotes, $0
+2. [Time-base SQL Injection in Search Users](https://hackerone.com/reports/876800) to Concrete CMS - 57 upvotes, $0
 3. [Password Reset link hijacking via Host Header Poisoning ](https://hackerone.com/reports/226659) to Concrete CMS - 55 upvotes, $0
 4. [SVG file that HTML Included is able to upload via File Manager](https://hackerone.com/reports/437863) to Concrete CMS - 26 upvotes, $0
 5. [Arbitrary File delete via PHAR deserialization](https://hackerone.com/reports/921288) to Concrete CMS - 26 upvotes, $0

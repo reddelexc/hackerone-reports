@@ -2,7 +2,7 @@ Top reports from Weblate program at HackerOne:
 
 1. [Reset password cookie leads to account takeover](https://hackerone.com/reports/1004536) to Weblate - 33 upvotes, $0
 2. [no captcha for register user and weak question attacker can spam email](https://hackerone.com/reports/236398) to Weblate - 27 upvotes, $0
-3. [CSRF with logout action](https://hackerone.com/reports/1971589) to Weblate - 23 upvotes, $0
+3. [CSRF with logout action](https://hackerone.com/reports/1971589) to Weblate - 24 upvotes, $0
 4. [HTML injection and information disclosure in support panel](https://hackerone.com/reports/634312) to Weblate - 20 upvotes, $0
 5. [Open Github Repo Leaking WEBLATE SECRET KEY](https://hackerone.com/reports/942146) to Weblate - 20 upvotes, $0
 6. [Uploaded XLF files result in External Entity Execution](https://hackerone.com/reports/232614) to Weblate - 15 upvotes, $0
@@ -39,18 +39,18 @@ Top reports from Weblate program at HackerOne:
 37. [CSV export filter bypass leads to formula injection.](https://hackerone.com/reports/223999) to Weblate - 6 upvotes, $0
 38. [CSRF : Reset API ](https://hackerone.com/reports/223333) to Weblate - 6 upvotes, $0
 39. [You can simply just use passwords that simply are as 123456](https://hackerone.com/reports/223374) to Weblate - 6 upvotes, $0
-40. [Information Disclosure on demo.weblate.org](https://hackerone.com/reports/229620) to Weblate - 6 upvotes, $0
-41. [Old password can be new password](https://hackerone.com/reports/229577) to Weblate - 6 upvotes, $0
-42. [Invalidate session after password reset - hosted website](https://hackerone.com/reports/224362) to Weblate - 6 upvotes, $0
-43. [Reset password more than once with a reset link #2](https://hackerone.com/reports/245450) to Weblate - 6 upvotes, $0
-44. [2nd issue\>\>\> flood of email  no rate limit on delete account confirmation email \>\> ](https://hackerone.com/reports/404713) to Weblate - 6 upvotes, $0
-45. [Secret_key in GitHub](https://hackerone.com/reports/926093) to Weblate - 6 upvotes, $0
-46. [Testing flow includes a DeepSource secret](https://hackerone.com/reports/1927499) to Weblate - 6 upvotes, $0
-47. [[hosted.weblate.org]Account Takeover](https://hackerone.com/reports/223637) to Weblate - 5 upvotes, $0
-48. [session id missing secure flag - Hosted Website](https://hackerone.com/reports/224379) to Weblate - 5 upvotes, $0
-49. [Weak e-mail change functionality could lead to account takeover](https://hackerone.com/reports/223461) to Weblate - 5 upvotes, $0
-50. [CSV Injection with the CSV export feature](https://hackerone.com/reports/223344) to Weblate - 5 upvotes, $0
-51. [Open SMTP port can let anyone send email from mail.chihar.com](https://hackerone.com/reports/223435) to Weblate - 5 upvotes, $0
+40. [Open SMTP port can let anyone send email from mail.chihar.com](https://hackerone.com/reports/223435) to Weblate - 6 upvotes, $0
+41. [Information Disclosure on demo.weblate.org](https://hackerone.com/reports/229620) to Weblate - 6 upvotes, $0
+42. [Old password can be new password](https://hackerone.com/reports/229577) to Weblate - 6 upvotes, $0
+43. [Invalidate session after password reset - hosted website](https://hackerone.com/reports/224362) to Weblate - 6 upvotes, $0
+44. [Reset password more than once with a reset link #2](https://hackerone.com/reports/245450) to Weblate - 6 upvotes, $0
+45. [2nd issue\>\>\> flood of email  no rate limit on delete account confirmation email \>\> ](https://hackerone.com/reports/404713) to Weblate - 6 upvotes, $0
+46. [Secret_key in GitHub](https://hackerone.com/reports/926093) to Weblate - 6 upvotes, $0
+47. [Testing flow includes a DeepSource secret](https://hackerone.com/reports/1927499) to Weblate - 6 upvotes, $0
+48. [[hosted.weblate.org]Account Takeover](https://hackerone.com/reports/223637) to Weblate - 5 upvotes, $0
+49. [session id missing secure flag - Hosted Website](https://hackerone.com/reports/224379) to Weblate - 5 upvotes, $0
+50. [Weak e-mail change functionality could lead to account takeover](https://hackerone.com/reports/223461) to Weblate - 5 upvotes, $0
+51. [CSV Injection with the CSV export feature](https://hackerone.com/reports/223344) to Weblate - 5 upvotes, $0
 52. [Option method enabled](https://hackerone.com/reports/230194) to Weblate - 5 upvotes, $0
 53. [Self-XSS can be achieved in the editor link using filter bypass](https://hackerone.com/reports/229735) to Weblate - 5 upvotes, $0
 54. [Missing restriction on string size](https://hackerone.com/reports/229796) to Weblate - 5 upvotes, $0

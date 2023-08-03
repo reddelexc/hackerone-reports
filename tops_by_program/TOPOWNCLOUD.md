@@ -1,30 +1,30 @@
 Top reports from ownCloud program at HackerOne:
 
 1. [Possible to steal any protected files on Android](https://hackerone.com/reports/377107) to ownCloud - 111 upvotes, $750
-2. [Federated share permissions can be increased by recipient](https://hackerone.com/reports/1990443) to ownCloud - 24 upvotes, $500
+2. [Federated share permissions can be increased by recipient](https://hackerone.com/reports/1990443) to ownCloud - 25 upvotes, $500
 3. [Banner Grabbing - Apache Server Version Disclousure](https://hackerone.com/reports/269467) to ownCloud - 19 upvotes, $0
 4. [Arbitrary Code Injection in ownCloud’s Windows Client](https://hackerone.com/reports/155657) to ownCloud - 16 upvotes, $100
 5. [Remote Code Execution through Deserialization Attack in OwnBackup app.](https://hackerone.com/reports/562335) to ownCloud - 15 upvotes, $0
 6. [Remote Code Execution through "Files_antivirus" plugin](https://hackerone.com/reports/903872) to ownCloud - 14 upvotes, $0
 7. [GitHub Security Lab (GHSL) Vulnerability Report: Insufficient path validation in ReceiveExternalFilesActivity.java (GHSL-2022-060)](https://hackerone.com/reports/1650270) to ownCloud - 11 upvotes, $50
 8. [Theft of protected files on Android](https://hackerone.com/reports/1454002) to ownCloud - 10 upvotes, $50
-9. [Protocol Smuggling over LDAP password field](https://hackerone.com/reports/1054282) to ownCloud - 9 upvotes, $50
-10. [Password Complexity Not Enforced On Password Change](https://hackerone.com/reports/276123) to ownCloud - 9 upvotes, $0
+9. [Password Complexity Not Enforced On Password Change](https://hackerone.com/reports/276123) to ownCloud - 9 upvotes, $0
+10. [Protocol Smuggling over LDAP password field](https://hackerone.com/reports/1054282) to ownCloud - 9 upvotes, $0
 11. [SMB User Authentication Bypass and Persistence](https://hackerone.com/reports/148151) to ownCloud - 8 upvotes, $150
 12. [RCE in ci.owncloud.com / ci.owncloud.org](https://hackerone.com/reports/98559) to ownCloud - 8 upvotes, $0
 13. [[api.owncloud.org] CRLF Injection](https://hackerone.com/reports/154306) to ownCloud - 7 upvotes, $0
 14. [User Information Disclosure via REST API](https://hackerone.com/reports/197786) to ownCloud - 7 upvotes, $0
-15. [HTML Injection in Owncloud](https://hackerone.com/reports/215410) to ownCloud - 6 upvotes, $150
-16. [Accessable Htaccess](https://hackerone.com/reports/171272) to ownCloud - 6 upvotes, $0
-17. [Outdated Jenkins server hosted at OwnCloud.org](https://hackerone.com/reports/208566) to ownCloud - 6 upvotes, $0
-18. [Remote Code Execution on ownCloud instances with ImageMagick installed](https://hackerone.com/reports/1838674) to ownCloud - 5 upvotes, $250
+15. [GitHub Security Lab (GHSL) Vulnerability Report: SQLInjection in FileContentProvider.kt (GHSL-2022-059)](https://hackerone.com/reports/1650264) to ownCloud - 6 upvotes, $300
+16. [HTML Injection in Owncloud](https://hackerone.com/reports/215410) to ownCloud - 6 upvotes, $150
+17. [Accessable Htaccess](https://hackerone.com/reports/171272) to ownCloud - 6 upvotes, $0
+18. [Outdated Jenkins server hosted at OwnCloud.org](https://hackerone.com/reports/208566) to ownCloud - 6 upvotes, $0
 19. [Open Redirector via (apps/files_pdfviewer) for un-authenticated users.](https://hackerone.com/reports/131082) to ownCloud - 5 upvotes, $150
 20. [ownCloud 2.2.2.6192 DLL Hijacking Vulnerability](https://hackerone.com/reports/151475) to ownCloud - 5 upvotes, $50
 21. [apps.owncloud.com: Malicious file upload leads to remote code execution](https://hackerone.com/reports/84374) to ownCloud - 5 upvotes, $0
 22. [[doc.owncloud.org] CRLF Injection](https://hackerone.com/reports/154275) to ownCloud - 5 upvotes, $0
 23. [HTML injection in Desktop Client](https://hackerone.com/reports/206877) to ownCloud - 5 upvotes, $0
-24. [Exploiting unauthenticated encryption mode](https://hackerone.com/reports/108082) to ownCloud - 4 upvotes, $350
-25. [GitHub Security Lab (GHSL) Vulnerability Report: SQLInjection in FileContentProvider.kt (GHSL-2022-059)](https://hackerone.com/reports/1650264) to ownCloud - 4 upvotes, $300
+24. [Remote Code Execution on ownCloud instances with ImageMagick installed](https://hackerone.com/reports/1838674) to ownCloud - 5 upvotes, $0
+25. [Exploiting unauthenticated encryption mode](https://hackerone.com/reports/108082) to ownCloud - 4 upvotes, $350
 26. [Stored xss](https://hackerone.com/reports/187380) to ownCloud - 4 upvotes, $0
 27. [apps.owncloud.com: XSS via referrer](https://hackerone.com/reports/83374) to ownCloud - 3 upvotes, $0
 28. [owncloud.com: Parameter pollution in social sharing buttons](https://hackerone.com/reports/106024) to ownCloud - 3 upvotes, $0
