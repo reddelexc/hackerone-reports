@@ -1,8 +1,8 @@
 Top Web Cache reports from HackerOne:
 
-1. [DoS on PayPal via web cache poisoning](https://hackerone.com/reports/622122) to PayPal - 810 upvotes, $9700
+1. [DoS on PayPal via web cache poisoning](https://hackerone.com/reports/622122) to PayPal - 811 upvotes, $9700
 2. [Web cache poisoning attack leads to user information and more](https://hackerone.com/reports/492841) to Postmates - 343 upvotes, $500
-3. [Web Cache Poisoning leads to Stored XSS ](https://hackerone.com/reports/1424094) to Glassdoor - 98 upvotes, $0
+3. [Web Cache Poisoning leads to Stored XSS ](https://hackerone.com/reports/1424094) to Glassdoor - 99 upvotes, $0
 4. [Defacement of catalog.data.gov via web cache poisoning to stored DOMXSS](https://hackerone.com/reports/303730) to GSA Bounty - 77 upvotes, $750
 5. [https://themes.shopify.com::: Host header web cache poisoning lead to DoS](https://hackerone.com/reports/1096609) to Shopify - 72 upvotes, $2900
 6. [web cache deception in https://tradus.com lead to name/user_id enumeration and other info](https://hackerone.com/reports/537564) to OLX - 61 upvotes, $0
@@ -15,7 +15,7 @@ Top Web Cache reports from HackerOne:
 13. [Web Cache Poisoning on  █████ ](https://hackerone.com/reports/1183263) to U.S. Dept Of Defense - 32 upvotes, $0
 14. [Web Cache Deception vulnerability on algolia.com leads to personal information leakage](https://hackerone.com/reports/1530066) to Algolia - 30 upvotes, $400
 15. [Shopify.com Web Cache Deception vulnerability leads to personal information and CSRF tokens leakage](https://hackerone.com/reports/1271944) to Shopify - 26 upvotes, $800
-16. [Web Cache poisoning attack leads to User information Disclosure and more](https://hackerone.com/reports/631589) to Lyst - 23 upvotes, $300
+16. [Web Cache poisoning attack leads to User information Disclosure and more](https://hackerone.com/reports/631589) to Lyst - 23 upvotes, $0
 17. [Web cache information leakage at sbermarket.ru](https://hackerone.com/reports/893353) to Mail.ru - 22 upvotes, $400
 18. [Web Cache Deception Attack (XSS)](https://hackerone.com/reports/504261) to Algolia - 21 upvotes, $0
 19. [https://help.nextcloud.com::: Web cache poisoning attack](https://hackerone.com/reports/429747) to Nextcloud - 21 upvotes, $0

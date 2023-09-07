@@ -5,13 +5,13 @@ Top reports from New Relic program at HackerOne:
 3. [Account Takeover via Email ID Change and Forgot Password Functionality](https://hackerone.com/reports/1089467) to New Relic - 211 upvotes, $2048
 4. [Cross-account stored XSS at embedded charts](https://hackerone.com/reports/709883) to New Relic - 156 upvotes, $0
 5. [Stored XSS in notes (charts) because of insecure chart data JSON generation](https://hackerone.com/reports/507132) to New Relic - 145 upvotes, $0
-6. [Reflected XSS in VPN Appliance](https://hackerone.com/reports/1386438) to New Relic - 102 upvotes, $0
+6. [Reflected XSS in VPN Appliance](https://hackerone.com/reports/1386438) to New Relic - 103 upvotes, $0
 7. [CSTI at Plugin page leading to active stored XSS (Publisher name)](https://hackerone.com/reports/587829) to New Relic - 91 upvotes, $0
 8. [Stored XSS via malicious key value of Synthetics monitor tag when visiting an Insights dashboard with filtering enabled](https://hackerone.com/reports/1067321) to New Relic - 85 upvotes, $2123
 9. [Urgent! Stored XSS at plugin's violations leading to account takeover](https://hackerone.com/reports/602527) to New Relic - 79 upvotes, $0
 10. [IDOR via internal_api "users" endpoint ](https://hackerone.com/reports/349291) to New Relic - 76 upvotes, $1500
 11. [Host Header Injection](https://hackerone.com/reports/698416) to New Relic - 70 upvotes, $0
-12. [Insecure Infrastructure Integrations YML Loading leads to Windows Privilege Escalation](https://hackerone.com/reports/363971) to New Relic - 63 upvotes, $2500
+12. [Insecure Infrastructure Integrations YML Loading leads to Windows Privilege Escalation](https://hackerone.com/reports/363971) to New Relic - 63 upvotes, $0
 13. [Internal API endpoint discloses full account name of email address associated with unconfirmed user](https://hackerone.com/reports/332381) to New Relic - 61 upvotes, $1500
 14. [[synthetics.newrelic.com] SMTP header injection leads to (mass) arbitrary email sending](https://hackerone.com/reports/347439) to New Relic - 59 upvotes, $500
 15. [(Prerelease UI) Stored XSS via role name in JSON chart](https://hackerone.com/reports/520630) to New Relic - 48 upvotes, $2500
@@ -66,9 +66,9 @@ Top reports from New Relic program at HackerOne:
 64. [Upgrade menu exposes the mobile application token meant to only be visible to administrators ](https://hackerone.com/reports/447975) to New Relic - 10 upvotes, $750
 65. [Vulnerable Link Leaks the User Names](https://hackerone.com/reports/123089) to New Relic - 10 upvotes, $0
 66. [No validation on account names](https://hackerone.com/reports/114796) to New Relic - 10 upvotes, $0
-67. [newrelic.atlassian.net - jira information disclosure](https://hackerone.com/reports/197726) to New Relic - 10 upvotes, $0
-68. [Stored XSS Via NRQL chartbuilder JSON view ](https://hackerone.com/reports/634692) to New Relic - 9 upvotes, $2500
-69. [Sensitive information contained with New Relic APM iOS application](https://hackerone.com/reports/130739) to New Relic - 9 upvotes, $0
+67. [Sensitive information contained with New Relic APM iOS application](https://hackerone.com/reports/130739) to New Relic - 10 upvotes, $0
+68. [newrelic.atlassian.net - jira information disclosure](https://hackerone.com/reports/197726) to New Relic - 10 upvotes, $0
+69. [Stored XSS Via NRQL chartbuilder JSON view ](https://hackerone.com/reports/634692) to New Relic - 9 upvotes, $2500
 70. [Session Hijacking ](https://hackerone.com/reports/167460) to New Relic - 9 upvotes, $0
 71. [Restricted User is able to edit Alert Conditions of Synthetics Monitors even if Synthetics Permissions is enabled by an admin](https://hackerone.com/reports/197436) to New Relic - 9 upvotes, $0
 72. [GitHub Integration doesn't sanitize repository URLs which might be attacker-controlled](https://hackerone.com/reports/1197160) to New Relic - 9 upvotes, $0

@@ -2,12 +2,12 @@ Top reports from curl program at HackerOne:
 
 1. [CVE-2021-22901: TLS session caching disaster](https://hackerone.com/reports/1180380) to curl - 70 upvotes, $2000
 2. [curl overwrite local file with -J](https://hackerone.com/reports/887462) to curl - 52 upvotes, $700
-3. [CVE-2020-8286: Inferior OCSP verification](https://hackerone.com/reports/1048457) to curl - 49 upvotes, $900
-4. [CVE-2020-8284: trusting FTP PASV responses](https://hackerone.com/reports/1040166) to curl - 30 upvotes, $700
+3. [CVE-2020-8286: Inferior OCSP verification](https://hackerone.com/reports/1048457) to curl - 49 upvotes, $0
+4. [CVE-2020-8284: trusting FTP PASV responses](https://hackerone.com/reports/1040166) to curl - 30 upvotes, $0
 5. [Windows Privilege Escalation: Malicious OpenSSL Engine](https://hackerone.com/reports/608577) to curl - 23 upvotes, $200
-6. [An integer overflow found in /lib/urlapi.c](https://hackerone.com/reports/547630) to curl - 23 upvotes, $150
+6. [An integer overflow found in /lib/urlapi.c](https://hackerone.com/reports/547630) to curl - 23 upvotes, $0
 7. [CVE-2023-32001: fopen race condition](https://hackerone.com/reports/2039870) to curl - 23 upvotes, $0
-8. [Partial password leak over DNS on HTTP redirect](https://hackerone.com/reports/874778) to curl - 21 upvotes, $400
+8. [Partial password leak over DNS on HTTP redirect](https://hackerone.com/reports/874778) to curl - 21 upvotes, $0
 9. [CVE-2023-28319: UAF in SSH sha256 fingerprint check](https://hackerone.com/reports/1913733) to curl - 20 upvotes, $0
 10. [CVE-2022-27776: Auth/cookie leak on redirect ](https://hackerone.com/reports/1547048) to curl - 18 upvotes, $0
 11. [CVE-2023-23916: HTTP multi-header compression denial of service](https://hackerone.com/reports/1826048) to curl - 16 upvotes, $0
@@ -15,7 +15,7 @@ Top reports from curl program at HackerOne:
 13. [Heap Buffer Overflow at lib/tftp.c](https://hackerone.com/reports/550696) to curl - 13 upvotes, $200
 14. [CVE-2022-35252: control code in cookie denial of service](https://hackerone.com/reports/1613943) to curl - 13 upvotes, $0
 15. [CVE-2023-27537: HSTS double-free](https://hackerone.com/reports/1897203) to curl - 13 upvotes, $0
-16. [Connect-only connections can use the wrong connection](https://hackerone.com/reports/948876) to curl - 11 upvotes, $500
+16. [Connect-only connections can use the wrong connection](https://hackerone.com/reports/948876) to curl - 11 upvotes, $0
 17. [Heap buffer overflow in TFTP when using small blksize](https://hackerone.com/reports/684603) to curl - 11 upvotes, $0
 18. [CVE-2022-43552: HTTP Proxy deny use-after-free](https://hackerone.com/reports/1764858) to curl - 11 upvotes, $0
 19. [CVE-2021-22897: schannel cipher selection surprise](https://hackerone.com/reports/1172857) to curl - 10 upvotes, $800

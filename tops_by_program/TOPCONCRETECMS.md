@@ -35,13 +35,13 @@ Top reports from Concrete CMS program at HackerOne:
 33. [Fetching the update json scheme from concrete5 over HTTP leads to remote code execution](https://hackerone.com/reports/982130) to Concrete CMS - 6 upvotes, $0
 34. [XSS in private message](https://hackerone.com/reports/4826) to Concrete CMS - 5 upvotes, $0
 35. [Stored XSS on express entries](https://hackerone.com/reports/873474) to Concrete CMS - 5 upvotes, $0
-36. [XSS on [/concrete/concrete/elements/dashboard/sitemap.php]](https://hackerone.com/reports/6853) to Concrete CMS - 4 upvotes, $0
-37. [Stored XSS in RSS Feeds Title (Concrete5 v8.1.0)](https://hackerone.com/reports/221380) to Concrete CMS - 4 upvotes, $0
-38. [Phar Deserialization Vulnerability via Logging Settings](https://hackerone.com/reports/1063039) to Concrete CMS - 4 upvotes, $0
-39. [Stored XSS in Conversations (both client and admin) when Active Conversation Editor is set to "Rich Text"](https://hackerone.com/reports/616770) to Concrete CMS - 4 upvotes, $0
-40. [SSRF mitigation bypass using DNS Rebind attack](https://hackerone.com/reports/1369312) to Concrete CMS - 4 upvotes, $0
-41. [XSS IN member List (Because of City Textbox)](https://hackerone.com/reports/4839) to Concrete CMS - 3 upvotes, $0
-42. [FULL PATH DISCLOSUR ](https://hackerone.com/reports/7736) to Concrete CMS - 3 upvotes, $0
+36. [FULL PATH DISCLOSUR ](https://hackerone.com/reports/7736) to Concrete CMS - 4 upvotes, $0
+37. [XSS on [/concrete/concrete/elements/dashboard/sitemap.php]](https://hackerone.com/reports/6853) to Concrete CMS - 4 upvotes, $0
+38. [Stored XSS in RSS Feeds Title (Concrete5 v8.1.0)](https://hackerone.com/reports/221380) to Concrete CMS - 4 upvotes, $0
+39. [Phar Deserialization Vulnerability via Logging Settings](https://hackerone.com/reports/1063039) to Concrete CMS - 4 upvotes, $0
+40. [Stored XSS in Conversations (both client and admin) when Active Conversation Editor is set to "Rich Text"](https://hackerone.com/reports/616770) to Concrete CMS - 4 upvotes, $0
+41. [SSRF mitigation bypass using DNS Rebind attack](https://hackerone.com/reports/1369312) to Concrete CMS - 4 upvotes, $0
+42. [XSS IN member List (Because of City Textbox)](https://hackerone.com/reports/4839) to Concrete CMS - 3 upvotes, $0
 43. [SSRF - pivoting in the private LAN](https://hackerone.com/reports/1364797) to Concrete CMS - 3 upvotes, $0
 44. [/index.php/dashboard/sitemap/explore/ Cross-site scripting](https://hackerone.com/reports/4808) to Concrete CMS - 2 upvotes, $0
 45. [stored XSS in concrete5 5.7.2.1](https://hackerone.com/reports/38890) to Concrete CMS - 2 upvotes, $0
