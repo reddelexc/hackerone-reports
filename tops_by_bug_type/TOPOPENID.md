@@ -1,12 +1,12 @@
 Top OpenID reports from HackerOne:
 
-1. [Email Confirmation Bypass in myshop.myshopify.com that Leads to Full Privilege Escalation to Any Shop Owner by Taking Advantage of the Shopify SSO](https://hackerone.com/reports/791775) to Shopify - 1812 upvotes, $0
-2. [Able to Takeover Merchants Accounts Even They Have Already Setup SSO, After Bypassing the Email Confirmation](https://hackerone.com/reports/796956) to Shopify - 297 upvotes, $0
+1. [Email Confirmation Bypass in myshop.myshopify.com that Leads to Full Privilege Escalation to Any Shop Owner by Taking Advantage of the Shopify SSO](https://hackerone.com/reports/791775) to Shopify - 1817 upvotes, $0
+2. [Able to Takeover Merchants Accounts Even They Have Already Setup SSO, After Bypassing the Email Confirmation](https://hackerone.com/reports/796956) to Shopify - 298 upvotes, $0
 3. [Stealing SSO Login Tokens (snappublisher.snapchat.com)](https://hackerone.com/reports/265943) to Snapchat - 217 upvotes, $7500
-4. [Ability to DOS any organization's SSO and open up the door to account takeovers](https://hackerone.com/reports/976603) to Grammarly - 212 upvotes, $10500
+4. [Ability to DOS any organization's SSO and open up the door to account takeovers](https://hackerone.com/reports/976603) to Grammarly - 213 upvotes, $10500
 5. [Insecure Zendesk SSO implementation by generating JWT client-side](https://hackerone.com/reports/638635) to Trint Ltd - 91 upvotes, $0
 6. [SAML Authentication Bypass on uchat.uberinternal.com](https://hackerone.com/reports/223014) to Uber - 82 upvotes, $0
-7. [Twitter SSO allows unverified e-mail registration, leads to Slack and social media hijacks](https://hackerone.com/reports/235139) to Zendesk - 65 upvotes, $0
+7. [Twitter SSO allows unverified e-mail registration, leads to Slack and social media hijacks](https://hackerone.com/reports/235139) to Zendesk - 67 upvotes, $0
 8. [[auth2.zomato.com] Reflected XSS at `oauth2/fallbacks/error` | ORY Hydra an OAuth 2.0 and OpenID Connect Provider](https://hackerone.com/reports/456333) to Zomato - 46 upvotes, $0
 9. [(HackerOne SSO-SAML) Login CSRF, Open Redirect, and Self-XSS Possible Exploitation](https://hackerone.com/reports/171398) to HackerOne - 41 upvotes, $0
 10. [Accidental Access to Programs Information via SAML Login](https://hackerone.com/reports/438306) to HackerOne - 32 upvotes, $0

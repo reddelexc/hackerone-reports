@@ -79,31 +79,31 @@ Top reports from shopify-scripts program at HackerOne:
 77. [SIGSEGV in mrb_class](https://hackerone.com/reports/215447) to shopify-scripts - 5 upvotes, $0
 78. [SIGABRT - mirb - Double Free](https://hackerone.com/reports/214576) to shopify-scripts - 5 upvotes, $0
 79. [SEGV on ary_concat](https://hackerone.com/reports/296198) to shopify-scripts - 5 upvotes, $0
-80. [Segmentation fault due to bad memory access in kh_get_mt](https://hackerone.com/reports/188313) to shopify-scripts - 4 upvotes, $8000
-81. [Heap Overflow in mrb_arb_splice](https://hackerone.com/reports/192362) to shopify-scripts - 4 upvotes, $800
-82. [Heap Buffer Overflow while processing OP_SEND](https://hackerone.com/reports/206239) to shopify-scripts - 4 upvotes, $800
-83. [Null pointer dereferences in mrb_get_args](https://hackerone.com/reports/216351) to shopify-scripts - 4 upvotes, $800
-84. [Interger overflow in str_substr leading to read/write out of bound memory](https://hackerone.com/reports/205884) to shopify-scripts - 4 upvotes, $100
-85. [Crash: calling Proc::initialize_copy with a Proc instance where initialize never ran leads to a crash](https://hackerone.com/reports/184857) to shopify-scripts - 4 upvotes, $0
-86. [Crash: mrb_any_to_s can't handle NilClass, Symbol and Fixnum](https://hackerone.com/reports/185794) to shopify-scripts - 4 upvotes, $0
-87. [Null pointer dereference in mrb_str_modify](https://hackerone.com/reports/197723) to shopify-scripts - 4 upvotes, $0
-88. [mrb_vformat() heap overflow could lead to code execution](https://hackerone.com/reports/192318) to shopify-scripts - 4 upvotes, $0
-89. [heap-buffer-overflow on mruby](https://hackerone.com/reports/192665) to shopify-scripts - 4 upvotes, $0
-90. [SIGSEGV on mruby mrb_get_args() ](https://hackerone.com/reports/191938) to shopify-scripts - 4 upvotes, $0
-91. [A crash when an exception is caught in a caller and the receiver returned from `ensure`](https://hackerone.com/reports/204774) to shopify-scripts - 4 upvotes, $0
-92. [SIGSEGV in mrb_vm_exec](https://hackerone.com/reports/196380) to shopify-scripts - 4 upvotes, $0
-93. [Aborted - proc.c - line:143](https://hackerone.com/reports/199764) to shopify-scripts - 4 upvotes, $0
-94. [SIGSEGV - kh_resize_iv - Null Deref](https://hackerone.com/reports/193724) to shopify-scripts - 4 upvotes, $0
-95. [SIGSEGV - mrb_vm_exec - line:1312](https://hackerone.com/reports/203513) to shopify-scripts - 4 upvotes, $0
-96. [SIGABRT - mrb_realloc_simple - gc.c - line:201](https://hackerone.com/reports/198452) to shopify-scripts - 4 upvotes, $0
-97. [SIGSEGV - mrb_yield_with_class](https://hackerone.com/reports/212074) to shopify-scripts - 4 upvotes, $0
-98. [SIGABRT in only mirb](https://hackerone.com/reports/212882) to shopify-scripts - 4 upvotes, $0
-99. [SIGSEGV in mrb_vm_exec](https://hackerone.com/reports/217097) to shopify-scripts - 4 upvotes, $0
-100. [SIGSEGV in mrb_str_inum](https://hackerone.com/reports/217083) to shopify-scripts - 4 upvotes, $0
-101. [heap use-after-free in mrb_vm_exec()](https://hackerone.com/reports/216700) to shopify-scripts - 4 upvotes, $0
-102. [mruby heredoc notation](https://hackerone.com/reports/297383) to shopify-scripts - 4 upvotes, $0
-103. [heap-use-after-free in OP_RESCUE](https://hackerone.com/reports/295276) to shopify-scripts - 4 upvotes, $0
-104. [Segfault in mruby, mruby_engine and the parent MRI Ruby due to null pointer dereference](https://hackerone.com/reports/181828) to shopify-scripts - 3 upvotes, $10000
+80. [Segfault in mruby, mruby_engine and the parent MRI Ruby due to null pointer dereference](https://hackerone.com/reports/181828) to shopify-scripts - 4 upvotes, $10000
+81. [Segmentation fault due to bad memory access in kh_get_mt](https://hackerone.com/reports/188313) to shopify-scripts - 4 upvotes, $8000
+82. [Heap Overflow in mrb_arb_splice](https://hackerone.com/reports/192362) to shopify-scripts - 4 upvotes, $800
+83. [Heap Buffer Overflow while processing OP_SEND](https://hackerone.com/reports/206239) to shopify-scripts - 4 upvotes, $800
+84. [Null pointer dereferences in mrb_get_args](https://hackerone.com/reports/216351) to shopify-scripts - 4 upvotes, $800
+85. [Interger overflow in str_substr leading to read/write out of bound memory](https://hackerone.com/reports/205884) to shopify-scripts - 4 upvotes, $100
+86. [Crash: calling Proc::initialize_copy with a Proc instance where initialize never ran leads to a crash](https://hackerone.com/reports/184857) to shopify-scripts - 4 upvotes, $0
+87. [Crash: mrb_any_to_s can't handle NilClass, Symbol and Fixnum](https://hackerone.com/reports/185794) to shopify-scripts - 4 upvotes, $0
+88. [Null pointer dereference in mrb_str_modify](https://hackerone.com/reports/197723) to shopify-scripts - 4 upvotes, $0
+89. [mrb_vformat() heap overflow could lead to code execution](https://hackerone.com/reports/192318) to shopify-scripts - 4 upvotes, $0
+90. [heap-buffer-overflow on mruby](https://hackerone.com/reports/192665) to shopify-scripts - 4 upvotes, $0
+91. [SIGSEGV on mruby mrb_get_args() ](https://hackerone.com/reports/191938) to shopify-scripts - 4 upvotes, $0
+92. [A crash when an exception is caught in a caller and the receiver returned from `ensure`](https://hackerone.com/reports/204774) to shopify-scripts - 4 upvotes, $0
+93. [SIGSEGV in mrb_vm_exec](https://hackerone.com/reports/196380) to shopify-scripts - 4 upvotes, $0
+94. [Aborted - proc.c - line:143](https://hackerone.com/reports/199764) to shopify-scripts - 4 upvotes, $0
+95. [SIGSEGV - kh_resize_iv - Null Deref](https://hackerone.com/reports/193724) to shopify-scripts - 4 upvotes, $0
+96. [SIGSEGV - mrb_vm_exec - line:1312](https://hackerone.com/reports/203513) to shopify-scripts - 4 upvotes, $0
+97. [SIGABRT - mrb_realloc_simple - gc.c - line:201](https://hackerone.com/reports/198452) to shopify-scripts - 4 upvotes, $0
+98. [SIGSEGV - mrb_yield_with_class](https://hackerone.com/reports/212074) to shopify-scripts - 4 upvotes, $0
+99. [SIGABRT in only mirb](https://hackerone.com/reports/212882) to shopify-scripts - 4 upvotes, $0
+100. [SIGSEGV in mrb_vm_exec](https://hackerone.com/reports/217097) to shopify-scripts - 4 upvotes, $0
+101. [SIGSEGV in mrb_str_inum](https://hackerone.com/reports/217083) to shopify-scripts - 4 upvotes, $0
+102. [heap use-after-free in mrb_vm_exec()](https://hackerone.com/reports/216700) to shopify-scripts - 4 upvotes, $0
+103. [mruby heredoc notation](https://hackerone.com/reports/297383) to shopify-scripts - 4 upvotes, $0
+104. [heap-use-after-free in OP_RESCUE](https://hackerone.com/reports/295276) to shopify-scripts - 4 upvotes, $0
 105. [Recursion causing uninitialized memory reads leading to a segfault](https://hackerone.com/reports/201897) to shopify-scripts - 3 upvotes, $2000
 106. [Null pointer dereference in mrb_str_prepend](https://hackerone.com/reports/193081) to shopify-scripts - 3 upvotes, $800
 107. [Still heap overflow in mrb_ary_splice](https://hackerone.com/reports/197719) to shopify-scripts - 3 upvotes, $800
@@ -122,15 +122,15 @@ Top reports from shopify-scripts program at HackerOne:
 120. [Crash in print_backtrace](https://hackerone.com/reports/197916) to shopify-scripts - 3 upvotes, $100
 121. [Segmentfault at mrb_vm_exec](https://hackerone.com/reports/201903) to shopify-scripts - 3 upvotes, $100
 122. [Incorrect code generation with redo inside NODE_RESCUE.](https://hackerone.com/reports/200387) to shopify-scripts - 3 upvotes, $100
-123. [Segmentation fault - mrb_gc_mark](https://hackerone.com/reports/195842) to shopify-scripts - 3 upvotes, $100
-124. [mruby-time: Crash host with uninitialized Time obj](https://hackerone.com/reports/184661) to shopify-scripts - 3 upvotes, $0
-125. [Crash: A call to Symbol.new leads to a crash when inspecting the resulting object](https://hackerone.com/reports/185957) to shopify-scripts - 3 upvotes, $0
-126. [SIGSEGV mrb_obj_freeze() Manipulating Register RAX and RSI](https://hackerone.com/reports/191994) to shopify-scripts - 3 upvotes, $0
-127. [Denial of service (segfault) due to null pointer dereference in mrb_obj_instance_eval](https://hackerone.com/reports/202582) to shopify-scripts - 3 upvotes, $0
-128. [segafult in mruby's sprintf - mrb_str_format](https://hackerone.com/reports/204628) to shopify-scripts - 3 upvotes, $0
-129. [SIGABRT, SIGSEGV mspace_free() and mrb_default_allocf()](https://hackerone.com/reports/192532) to shopify-scripts - 3 upvotes, $0
-130. [SIGSEGV on mrb_vm_exec() Null Deref](https://hackerone.com/reports/192485) to shopify-scripts - 3 upvotes, $0
-131. [SIGSEGV - mrb_check_intern_str() - NullPointer](https://hackerone.com/reports/193075) to shopify-scripts - 3 upvotes, $0
+123. [mruby-time: Crash host with uninitialized Time obj](https://hackerone.com/reports/184661) to shopify-scripts - 3 upvotes, $0
+124. [Crash: A call to Symbol.new leads to a crash when inspecting the resulting object](https://hackerone.com/reports/185957) to shopify-scripts - 3 upvotes, $0
+125. [SIGSEGV mrb_obj_freeze() Manipulating Register RAX and RSI](https://hackerone.com/reports/191994) to shopify-scripts - 3 upvotes, $0
+126. [Denial of service (segfault) due to null pointer dereference in mrb_obj_instance_eval](https://hackerone.com/reports/202582) to shopify-scripts - 3 upvotes, $0
+127. [segafult in mruby's sprintf - mrb_str_format](https://hackerone.com/reports/204628) to shopify-scripts - 3 upvotes, $0
+128. [SIGABRT, SIGSEGV mspace_free() and mrb_default_allocf()](https://hackerone.com/reports/192532) to shopify-scripts - 3 upvotes, $0
+129. [SIGSEGV on mrb_vm_exec() Null Deref](https://hackerone.com/reports/192485) to shopify-scripts - 3 upvotes, $0
+130. [SIGSEGV - mrb_check_intern_str() - NullPointer](https://hackerone.com/reports/193075) to shopify-scripts - 3 upvotes, $0
+131. [Segmentation fault - mrb_gc_mark](https://hackerone.com/reports/195842) to shopify-scripts - 3 upvotes, $0
 132. [Controlled address leak due to type confusion - ASLR bypass](https://hackerone.com/reports/207321) to shopify-scripts - 3 upvotes, $0
 133. [sprintf gem - format string combined attack](https://hackerone.com/reports/212239) to shopify-scripts - 3 upvotes, $0
 134. [forgot to add the patch](https://hackerone.com/reports/203595) to shopify-scripts - 3 upvotes, $0

@@ -2,16 +2,16 @@ Top Web Cache reports from HackerOne:
 
 1. [DoS on PayPal via web cache poisoning](https://hackerone.com/reports/622122) to PayPal - 811 upvotes, $9700
 2. [Web cache poisoning attack leads to user information and more](https://hackerone.com/reports/492841) to Postmates - 343 upvotes, $500
-3. [Web Cache Poisoning leads to Stored XSS ](https://hackerone.com/reports/1424094) to Glassdoor - 99 upvotes, $0
+3. [Web Cache Poisoning leads to Stored XSS ](https://hackerone.com/reports/1424094) to Glassdoor - 100 upvotes, $0
 4. [Defacement of catalog.data.gov via web cache poisoning to stored DOMXSS](https://hackerone.com/reports/303730) to GSA Bounty - 77 upvotes, $750
 5. [https://themes.shopify.com::: Host header web cache poisoning lead to DoS](https://hackerone.com/reports/1096609) to Shopify - 72 upvotes, $2900
 6. [web cache deception in https://tradus.com lead to name/user_id enumeration and other info](https://hackerone.com/reports/537564) to OLX - 61 upvotes, $0
-7. [Web Cache Poisoning leads to XSS and DoS](https://hackerone.com/reports/1621540) to Glassdoor - 55 upvotes, $0
+7. [Web Cache Poisoning leads to XSS and DoS](https://hackerone.com/reports/1621540) to Glassdoor - 56 upvotes, $0
 8. [CSRF-tokens on pages without no-cache headers, resulting in ATO when using CloudFlare proxy (Web Cache Deception)](https://hackerone.com/reports/260697) to Discourse - 51 upvotes, $256
 9. [Web cache deception attack on https://open.vanillaforums.com/messages/all](https://hackerone.com/reports/593712) to Vanilla - 45 upvotes, $150
 10. [[https://www.glassdoor.com] -  Web Cache Deception Leads to gdtoken Disclosure ](https://hackerone.com/reports/1343086) to Glassdoor - 43 upvotes, $0
 11. [Web cache poisoning leads to disclosure of CSRF token and sensitive information](https://hackerone.com/reports/504514) to Smule - 35 upvotes, $0
-12. [Web Cache Deception Attack (XSS)](https://hackerone.com/reports/394016) to Discourse - 33 upvotes, $256
+12. [Web Cache Deception Attack (XSS)](https://hackerone.com/reports/394016) to Discourse - 34 upvotes, $256
 13. [Web Cache Poisoning on  █████ ](https://hackerone.com/reports/1183263) to U.S. Dept Of Defense - 32 upvotes, $0
 14. [Web Cache Deception vulnerability on algolia.com leads to personal information leakage](https://hackerone.com/reports/1530066) to Algolia - 30 upvotes, $400
 15. [Shopify.com Web Cache Deception vulnerability leads to personal information and CSRF tokens leakage](https://hackerone.com/reports/1271944) to Shopify - 26 upvotes, $800

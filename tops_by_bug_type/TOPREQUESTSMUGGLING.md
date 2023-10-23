@@ -1,11 +1,11 @@
 Top Request Smuggling reports from HackerOne:
 
-1. [Mass account takeovers using HTTP Request Smuggling on https://slackb.com/ to steal session cookies](https://hackerone.com/reports/737140) to Slack - 827 upvotes, $0
-2. [Request smuggling on admin-official.line.me could lead to account takeover](https://hackerone.com/reports/740037) to LINE - 554 upvotes, $0
+1. [Mass account takeovers using HTTP Request Smuggling on https://slackb.com/ to steal session cookies](https://hackerone.com/reports/737140) to Slack - 828 upvotes, $0
+2. [Request smuggling on admin-official.line.me could lead to account takeover](https://hackerone.com/reports/740037) to LY Corporation - 554 upvotes, $0
 3. [Stealing Zomato X-Access-Token: in Bulk using HTTP Request Smuggling on api.zomato.com](https://hackerone.com/reports/771666) to Zomato - 538 upvotes, $0
-4. [Password theft login.newrelic.com via Request Smuggling](https://hackerone.com/reports/498052) to New Relic - 486 upvotes, $3000
-5. [HTTP request Smuggling](https://hackerone.com/reports/867952) to Helium - 287 upvotes, $0
-6. [HTTP Request Smuggling via HTTP/2](https://hackerone.com/reports/1211724) to Basecamp - 285 upvotes, $7500
+4. [Password theft login.newrelic.com via Request Smuggling](https://hackerone.com/reports/498052) to New Relic - 487 upvotes, $3000
+5. [HTTP Request Smuggling via HTTP/2](https://hackerone.com/reports/1211724) to Basecamp - 290 upvotes, $7500
+6. [HTTP request Smuggling](https://hackerone.com/reports/867952) to Helium - 287 upvotes, $0
 7. [HTTP request smuggling (?) canpol.deti.mail.ru](https://hackerone.com/reports/957881) to Mail.ru - 241 upvotes, $5000
 8. [HTTP Request Smuggling on https://labs.data.gov](https://hackerone.com/reports/726773) to GSA Bounty - 147 upvotes, $750
 9. [HTTP Request Smuggling at app.workbox.dk](https://hackerone.com/reports/919988) to Visma Public - 139 upvotes, $500
@@ -26,7 +26,7 @@ Top Request Smuggling reports from HackerOne:
 24. [HTTP request smuggling on Basecamp 2 allows web cache poisoning](https://hackerone.com/reports/919175) to Basecamp - 17 upvotes, $1700
 25. [HTTP Request Smuggling due to accepting space before colon](https://hackerone.com/reports/1238709) to Node.js - 17 upvotes, $0
 26. [http request smuggling in  twitter.com](https://hackerone.com/reports/715996) to X (Formerly Twitter) - 15 upvotes, $0
-27. [HTTP Request Smuggling Due to Incorrect Parsing of Header Fields](https://hackerone.com/reports/1888760) to Internet Bug Bounty - 13 upvotes, $1800
+27. [HTTP Request Smuggling Due to Incorrect Parsing of Header Fields](https://hackerone.com/reports/1888760) to Internet Bug Bounty - 14 upvotes, $1800
 28. [HTTP Request Smuggling via Empty headers separated by CR](https://hackerone.com/reports/2032842) to Internet Bug Bounty - 13 upvotes, $1800
 29. [HTTP Request Smuggling](https://hackerone.com/reports/866382) to Brave Software - 12 upvotes, $0
 30. [ CVE-2022-32213 - HTTP Request Smuggling Due to Flawed Parsing of Transfer-Encoding](https://hackerone.com/reports/1630668) to Internet Bug Bounty - 11 upvotes, $1800

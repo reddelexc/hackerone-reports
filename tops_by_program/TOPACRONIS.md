@@ -2,7 +2,7 @@ Top reports from Acronis program at HackerOne:
 
 1. [SQL Injection in agent-manager](https://hackerone.com/reports/962889) to Acronis - 223 upvotes, $0
 2. [bypass sql injection #1109311](https://hackerone.com/reports/1224660) to Acronis - 150 upvotes, $0
-3. [Ticket Trick at https://account.acronis.com](https://hackerone.com/reports/999765) to Acronis - 132 upvotes, $0
+3. [Ticket Trick at https://account.acronis.com](https://hackerone.com/reports/999765) to Acronis - 132 upvotes, $750
 4. [IDOR vulnerability (Price manipulation)](https://hackerone.com/reports/1403176) to Acronis - 119 upvotes, $0
 5. [Stored XSS in backup scanning plan name](https://hackerone.com/reports/961046) to Acronis - 113 upvotes, $500
 6. [SQL injection on admin.acronis.host development web service](https://hackerone.com/reports/923020) to Acronis - 102 upvotes, $0
@@ -66,12 +66,12 @@ Top reports from Acronis program at HackerOne:
 64. [HTTP Request Smuggling on https://promosandbox.acronis.com](https://hackerone.com/reports/1063493) to Acronis - 10 upvotes, $0
 65. [No brute force protection on web-api-cloud.acronis.com](https://hackerone.com/reports/972045) to Acronis - 9 upvotes, $100
 66. [Get ip and Geo location any user via Clickjacking with inspectlet technology](https://hackerone.com/reports/998555) to Acronis - 9 upvotes, $0
-67. [No Rate Limit On Forgot Password Page](https://hackerone.com/reports/1245529) to Acronis - 9 upvotes, $0
-68. [HTTP Request Smuggling on https://consumer.acronis.com](https://hackerone.com/reports/1063627) to Acronis - 9 upvotes, $0
-69. [Open redirect at mc-beta-cloud-acronis.com](https://hackerone.com/reports/846389) to Acronis - 9 upvotes, $0
-70. [Reflected XSS on cz.acronis.com/dekujeme-za-odber-novinek-produktu-disk-director with ability to creating an admin user in WordPress](https://hackerone.com/reports/935503) to Acronis - 8 upvotes, $0
-71. [Denial of Service in anti_ransomware_service.exe via logs files](https://hackerone.com/reports/858603) to Acronis - 7 upvotes, $0
-72. [Missing brute force protection on login page on www.acronis.com](https://hackerone.com/reports/1435392) to Acronis - 6 upvotes, $250
+67. [Reflected XSS on cz.acronis.com/dekujeme-za-odber-novinek-produktu-disk-director with ability to creating an admin user in WordPress](https://hackerone.com/reports/935503) to Acronis - 9 upvotes, $0
+68. [No Rate Limit On Forgot Password Page](https://hackerone.com/reports/1245529) to Acronis - 9 upvotes, $0
+69. [HTTP Request Smuggling on https://consumer.acronis.com](https://hackerone.com/reports/1063627) to Acronis - 9 upvotes, $0
+70. [Open redirect at mc-beta-cloud-acronis.com](https://hackerone.com/reports/846389) to Acronis - 9 upvotes, $0
+71. [Missing brute force protection on login page on www.acronis.com](https://hackerone.com/reports/1435392) to Acronis - 7 upvotes, $250
+72. [Denial of Service in anti_ransomware_service.exe via logs files](https://hackerone.com/reports/858603) to Acronis - 7 upvotes, $0
 73. [Content Spoofing](https://hackerone.com/reports/841630) to Acronis - 6 upvotes, $0
 74. [No server side check on terms of service page which leads to bypass](https://hackerone.com/reports/1338256) to Acronis - 6 upvotes, $0
 75. [Acronis True Image Local Privilege Escalation Due To Race Condition In Application Verification ](https://hackerone.com/reports/1251464) to Acronis - 6 upvotes, $0

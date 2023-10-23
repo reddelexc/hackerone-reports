@@ -2,7 +2,7 @@ Top reports from Weblate program at HackerOne:
 
 1. [Reset password cookie leads to account takeover](https://hackerone.com/reports/1004536) to Weblate - 33 upvotes, $0
 2. [no captcha for register user and weak question attacker can spam email](https://hackerone.com/reports/236398) to Weblate - 27 upvotes, $0
-3. [CSRF with logout action](https://hackerone.com/reports/1971589) to Weblate - 24 upvotes, $0
+3. [CSRF with logout action](https://hackerone.com/reports/1971589) to Weblate - 25 upvotes, $0
 4. [Open Github Repo Leaking WEBLATE SECRET KEY](https://hackerone.com/reports/942146) to Weblate - 21 upvotes, $0
 5. [HTML injection and information disclosure in support panel](https://hackerone.com/reports/634312) to Weblate - 20 upvotes, $0
 6. [Uploaded XLF files result in External Entity Execution](https://hackerone.com/reports/232614) to Weblate - 15 upvotes, $0
