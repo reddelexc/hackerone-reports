@@ -14,20 +14,20 @@ import csv
 from selenium.webdriver import Chrome, ChromeOptions
 from selenium.webdriver.common.by import By
 
-hacktivity_url = 'https://hackerone.com/hacktivity?order_field=latest_disclosable_activity_at&filter=type%3Apublic'
+hacktivity_url = 'https://hackerone.com/hacktivity/overview'
 page_loading_timeout = 10
 
 
 def extract_reports(raw_reports):
     reports = []
     for raw_report in raw_reports:
-        html = raw_report.get_attribute('innerHTML')
+        html = raw_report.get_attribute('href')
         try:
             index = html.index('/reports/')
         except ValueError:
             continue
         link = 'hackerone.com'
-        for i in range(index, index + 50):
+        for i in range(index, len(html)):
             if html[i] == '"':
                 break
             else:
@@ -47,7 +47,7 @@ def extract_reports(raw_reports):
 
 def fetch():
     options = ChromeOptions()
-    # options.binary_location = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
+    options.binary_location = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
     options.add_argument('no-sandbox')
     options.add_argument('headless')
     driver = Chrome(options=options)
@@ -60,25 +60,15 @@ def fetch():
     first_report_link = reports[0]['link']
 
     driver.get(hacktivity_url)
-    driver.implicitly_wait(page_loading_timeout)
+    time.sleep(page_loading_timeout)
 
-    counter = 0
     page = 0
-    last_height = driver.execute_script("return document.body.scrollHeight")
+    driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+    next_page_button = driver.find_element(By.ID, 'pagination-next-page')
+    new_reports = []
     while True:
-        driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-        time.sleep(page_loading_timeout)
-        new_height = driver.execute_script("return document.body.scrollHeight")
-        if new_height == last_height:
-            counter += 1
-            if counter > 1:
-                break
-        else:
-            counter = 0
-        last_height = new_height
-
-        raw_reports = driver.find_elements(By.CLASS_NAME, 'fade')
-        new_reports = extract_reports(raw_reports)
+        raw_reports = driver.find_elements(By.CLASS_NAME, 'routerlink')
+        new_reports += extract_reports(raw_reports)
         found = False
         for i in range(len(new_reports)):
             if new_reports[i]['link'] == first_report_link:
@@ -90,6 +80,9 @@ def fetch():
 
         page += 1
         print('Page:', page)
+        next_page_button.click()
+        time.sleep(page_loading_timeout)
+        driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
 
     driver.close()
 
