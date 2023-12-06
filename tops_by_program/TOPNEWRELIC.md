@@ -1,10 +1,10 @@
 Top reports from New Relic program at HackerOne:
 
-1. [Password theft login.newrelic.com via Request Smuggling](https://hackerone.com/reports/498052) to New Relic - 487 upvotes, $3000
+1. [Password theft login.newrelic.com via Request Smuggling](https://hackerone.com/reports/498052) to New Relic - 488 upvotes, $3000
 2. [Unsafe charts embedding implementation leads to cross-account stored XSS and SSRF](https://hackerone.com/reports/708589) to New Relic - 224 upvotes, $0
 3. [Account Takeover via Email ID Change and Forgot Password Functionality](https://hackerone.com/reports/1089467) to New Relic - 212 upvotes, $2048
 4. [Cross-account stored XSS at embedded charts](https://hackerone.com/reports/709883) to New Relic - 156 upvotes, $0
-5. [Stored XSS in notes (charts) because of insecure chart data JSON generation](https://hackerone.com/reports/507132) to New Relic - 145 upvotes, $0
+5. [Stored XSS in notes (charts) because of insecure chart data JSON generation](https://hackerone.com/reports/507132) to New Relic - 146 upvotes, $0
 6. [Reflected XSS in VPN Appliance](https://hackerone.com/reports/1386438) to New Relic - 103 upvotes, $0
 7. [CSTI at Plugin page leading to active stored XSS (Publisher name)](https://hackerone.com/reports/587829) to New Relic - 91 upvotes, $0
 8. [Stored XSS via malicious key value of Synthetics monitor tag when visiting an Insights dashboard with filtering enabled](https://hackerone.com/reports/1067321) to New Relic - 85 upvotes, $2123
@@ -57,17 +57,17 @@ Top reports from New Relic program at HackerOne:
 55. [Swiftype key stored in JavaScript source](https://hackerone.com/reports/427373) to New Relic - 12 upvotes, $0
 56. [Full name of other accounts exposed through NR API Explorer (another workaround of #476958)](https://hackerone.com/reports/520518) to New Relic - 11 upvotes, $750
 57. [CSRF- delete all empty server policy](https://hackerone.com/reports/123095) to New Relic - 11 upvotes, $0
-58. [[docs-ra.newrelic.com] subdomain and Drupal takeover via unconfigured endpoint](https://hackerone.com/reports/207381) to New Relic - 11 upvotes, $0
-59. [Captcha Bypass on SignUp Form](https://hackerone.com/reports/277300) to New Relic - 11 upvotes, $0
-60. [Cross-account stored XSS at notes (through "swf" note parameter)](https://hackerone.com/reports/710535) to New Relic - 11 upvotes, $0
-61. [Adding a new user discloses their full name in the "Users" section of NR Alerts notification channels page](https://hackerone.com/reports/344309) to New Relic - 10 upvotes, $1500
-62. [[NR Synthetics] Restricted user can view synthetics monitors and user permissions through .json endpoint at /permissions/securablemetadata/{GROUP ID}](https://hackerone.com/reports/320689) to New Relic - 10 upvotes, $750
-63. [[NR Insights] Data app permissions setting does not fully prevent other users from modifying/changing changing data related to your data app ](https://hackerone.com/reports/388743) to New Relic - 10 upvotes, $750
-64. [Upgrade menu exposes the mobile application token meant to only be visible to administrators ](https://hackerone.com/reports/447975) to New Relic - 10 upvotes, $750
-65. [Vulnerable Link Leaks the User Names](https://hackerone.com/reports/123089) to New Relic - 10 upvotes, $0
-66. [No validation on account names](https://hackerone.com/reports/114796) to New Relic - 10 upvotes, $0
-67. [Sensitive information contained with New Relic APM iOS application](https://hackerone.com/reports/130739) to New Relic - 10 upvotes, $0
-68. [newrelic.atlassian.net - jira information disclosure](https://hackerone.com/reports/197726) to New Relic - 10 upvotes, $0
+58. [newrelic.atlassian.net - jira information disclosure](https://hackerone.com/reports/197726) to New Relic - 11 upvotes, $0
+59. [[docs-ra.newrelic.com] subdomain and Drupal takeover via unconfigured endpoint](https://hackerone.com/reports/207381) to New Relic - 11 upvotes, $0
+60. [Captcha Bypass on SignUp Form](https://hackerone.com/reports/277300) to New Relic - 11 upvotes, $0
+61. [Cross-account stored XSS at notes (through "swf" note parameter)](https://hackerone.com/reports/710535) to New Relic - 11 upvotes, $0
+62. [Adding a new user discloses their full name in the "Users" section of NR Alerts notification channels page](https://hackerone.com/reports/344309) to New Relic - 10 upvotes, $1500
+63. [[NR Synthetics] Restricted user can view synthetics monitors and user permissions through .json endpoint at /permissions/securablemetadata/{GROUP ID}](https://hackerone.com/reports/320689) to New Relic - 10 upvotes, $750
+64. [[NR Insights] Data app permissions setting does not fully prevent other users from modifying/changing changing data related to your data app ](https://hackerone.com/reports/388743) to New Relic - 10 upvotes, $750
+65. [Upgrade menu exposes the mobile application token meant to only be visible to administrators ](https://hackerone.com/reports/447975) to New Relic - 10 upvotes, $750
+66. [Vulnerable Link Leaks the User Names](https://hackerone.com/reports/123089) to New Relic - 10 upvotes, $0
+67. [No validation on account names](https://hackerone.com/reports/114796) to New Relic - 10 upvotes, $0
+68. [Sensitive information contained with New Relic APM iOS application](https://hackerone.com/reports/130739) to New Relic - 10 upvotes, $0
 69. [Stored XSS Via NRQL chartbuilder JSON view ](https://hackerone.com/reports/634692) to New Relic - 9 upvotes, $2500
 70. [Session Hijacking ](https://hackerone.com/reports/167460) to New Relic - 9 upvotes, $0
 71. [Restricted User is able to edit Alert Conditions of Synthetics Monitors even if Synthetics Permissions is enabled by an admin](https://hackerone.com/reports/197436) to New Relic - 9 upvotes, $0

@@ -1,11 +1,11 @@
 Top GraphQL reports from HackerOne:
 
-1. [Confidential data of users and limited metadata of programs and reports accessible via GraphQL](https://hackerone.com/reports/489146) to HackerOne - 985 upvotes, $0
-2. [Email address of any user can be queried on Report Invitation GraphQL type when username is known](https://hackerone.com/reports/792927) to HackerOne - 626 upvotes, $0
+1. [Confidential data of users and limited metadata of programs and reports accessible via GraphQL](https://hackerone.com/reports/489146) to HackerOne - 989 upvotes, $0
+2. [Email address of any user can be queried on Report Invitation GraphQL type when username is known](https://hackerone.com/reports/792927) to HackerOne - 629 upvotes, $0
 3. [Private list members disclosure via GraphQL](https://hackerone.com/reports/885539) to X (Formerly Twitter) - 326 upvotes, $0
-4. [IDOR - Delete all Licenses and certifications from users account using CreateOrUpdateHackerCertification GraphQL query](https://hackerone.com/reports/2122671) to HackerOne - 212 upvotes, $0
-5. [SSRF in graphQL query (pwapi.ex2b.com)](https://hackerone.com/reports/1864188) to EXNESS - 203 upvotes, $3000
-6. [Github Apps can use Scoped-User-To-Server Tokens to Obtain Full Access to User's Projects in Project V2 GraphQL api](https://hackerone.com/reports/1711938) to GitHub - 179 upvotes, $0
+4. [IDOR - Delete all Licenses and certifications from users account using CreateOrUpdateHackerCertification GraphQL query](https://hackerone.com/reports/2122671) to HackerOne - 224 upvotes, $0
+5. [SSRF in graphQL query (pwapi.ex2b.com)](https://hackerone.com/reports/1864188) to EXNESS - 210 upvotes, $3000
+6. [Github Apps can use Scoped-User-To-Server Tokens to Obtain Full Access to User's Projects in Project V2 GraphQL api](https://hackerone.com/reports/1711938) to GitHub - 181 upvotes, $20000
 7. [Disclosure of `payment_transactions` for programs via GraphQL query](https://hackerone.com/reports/707433) to HackerOne - 171 upvotes, $0
 8. [GraphQL AdminGenerateSessionPayload is leaked to staff with no permission](https://hackerone.com/reports/898528) to Shopify - 166 upvotes, $0
 9. [SQL injection in GraphQL endpoint through embedded_submission_form_uuid parameter](https://hackerone.com/reports/435066) to HackerOne - 148 upvotes, $0
@@ -18,7 +18,7 @@ Top GraphQL reports from HackerOne:
 16. [Team object in GraphQL disclosed total number of whitelisted hackers](https://hackerone.com/reports/342978) to HackerOne - 86 upvotes, $0
 17. [Private information exposed through GraphQL filters](https://hackerone.com/reports/645299) to HackerOne - 75 upvotes, $0
 18. [Team object in GraphQL discloses team group names and permissions](https://hackerone.com/reports/343464) to HackerOne - 70 upvotes, $0
-19. [Cross-Tenant IDOR ( graphql `AddRulesToPixelEvents` query ) allowing to add, update, and delete rules of any Pixel events on the platform](https://hackerone.com/reports/984965) to TikTok - 69 upvotes, $0
+19. [Cross-Tenant IDOR ( graphql `AddRulesToPixelEvents` query ) allowing to add, update, and delete rules of any Pixel events on the platform](https://hackerone.com/reports/984965) to TikTok - 70 upvotes, $0
 20. [Team object in GraphQL disclosed of private programs via the industry](https://hackerone.com/reports/707406) to HackerOne - 68 upvotes, $0
 21. [Attachment object in GraphQL continues to grant access to files, even if they are removed from rendering](https://hackerone.com/reports/1132606) to HackerOne - 63 upvotes, $0
 22. [Using GraphQL, STAFF with NO explicit permissions on Store can retrieve Shopify Payments Balance.](https://hackerone.com/reports/417170) to Shopify - 60 upvotes, $500
@@ -36,7 +36,7 @@ Top GraphQL reports from HackerOne:
 34. [A deactivated user can access data through GraphQL](https://hackerone.com/reports/1192460) to GitLab - 35 upvotes, $1370
 35. [[h1-2102] shopApps query from the graphql at /users/api returns all existing created apps, including private ones](https://hackerone.com/reports/1085332) to Shopify - 29 upvotes, $1900
 36. [HackerOne Pentesters can access any structured scope object through GraphQL node interface](https://hackerone.com/reports/781150) to HackerOne - 29 upvotes, $0
-37. [Hacker can bypass minimum bounty amount restrictions in "invitation preferences" setting via UpdateInvitationPreferencesMutation GraphQL operation](https://hackerone.com/reports/981036) to HackerOne - 29 upvotes, $0
+37. [Hacker can bypass minimum bounty amount restrictions in "invitation preferences" setting via UpdateInvitationPreferencesMutation GraphQL operation](https://hackerone.com/reports/981036) to HackerOne - 28 upvotes, $0
 38. [Able to leak private email of any user given his/her username via graphql](https://hackerone.com/reports/972355) to GitLab - 27 upvotes, $0
 39. [Private information exposed through GraphQL search endpoints aggregates](https://hackerone.com/reports/1838329) to HackerOne - 27 upvotes, $0
 40. [User object in GraphQL exposes number of trial reports for External Programs that also have a Private Program](https://hackerone.com/reports/350964) to HackerOne - 24 upvotes, $0

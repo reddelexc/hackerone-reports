@@ -96,7 +96,6 @@ Nextcloud,Inviting excessive long email addresses to a calendar event makes the 
 Nextcloud,Responsive Server-side Request Forgery (SSRF),hackerone.com/reports/1895874,10,0.0,Server-Side Request Forgery (SSRF)
 IRCCloud,XSS from Mastodon embeds,hackerone.com/reports/1887917,56,0.0,Cross-site Scripting (XSS) - Generic
 Basecamp,AWS keys and user cookie leakage via uninitialized memory leak in outdated librsvg version in Basecamp,hackerone.com/reports/2107680,217,8868.0,Information Disclosure
-U.S. Dept Of Defense,Information Disclosure FrontPage Configuration Information,hackerone.com/reports/2180018,13,0.0,Improper Access Control - Generic
 HackerOne,Draft report exposure via slack alerting system for programs,hackerone.com/reports/2069593,69,2500.0,Information Disclosure
 curl,CVE-2023-38545: socks5 heap buffer overflow,hackerone.com/reports/2187833,50,0.0,Heap Overflow
 Brave Software,UAF on JSEthereumProvider,hackerone.com/reports/1977252,31,3000.0,Use After Free
