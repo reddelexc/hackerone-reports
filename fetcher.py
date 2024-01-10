@@ -64,7 +64,7 @@ def fetch():
 
     page = 0
     driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-    next_page_button = driver.find_element(By.ID, 'pagination-next-page')
+    next_page_button = driver.find_element(By.CSS_SELECTOR, 'button[data-testid=\'hacktivity-next-button\']')
     new_reports = []
     while True:
         raw_reports = driver.find_elements(By.CLASS_NAME, 'routerlink')
