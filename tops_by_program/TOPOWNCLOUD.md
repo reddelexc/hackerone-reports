@@ -1,7 +1,7 @@
 Top reports from ownCloud program at HackerOne:
 
 1. [Possible to steal any protected files on Android](https://hackerone.com/reports/377107) to ownCloud - 111 upvotes, $750
-2. [Cross-Site Request Forgery ](https://hackerone.com/reports/2041007) to ownCloud - 100 upvotes, $0
+2. [Cross-Site Request Forgery ](https://hackerone.com/reports/2041007) to ownCloud - 102 upvotes, $0
 3. [Federated share permissions can be increased by recipient](https://hackerone.com/reports/1990443) to ownCloud - 25 upvotes, $500
 4. [Banner Grabbing - Apache Server Version Disclousure](https://hackerone.com/reports/269467) to ownCloud - 19 upvotes, $0
 5. [Arbitrary Code Injection in ownCloud’s Windows Client](https://hackerone.com/reports/155657) to ownCloud - 16 upvotes, $0
@@ -46,25 +46,25 @@ Top reports from ownCloud program at HackerOne:
 44. [gallery_plus: Content Spoofing ](https://hackerone.com/reports/87752) to ownCloud - 2 upvotes, $0
 45. [apps.owncloud.com: Path Disclosure](https://hackerone.com/reports/83801) to ownCloud - 2 upvotes, $0
 46. [[s3.owncloud.com] Web Server HTTP Trace/Track Method Support ](https://hackerone.com/reports/90601) to ownCloud - 2 upvotes, $0
-47. [demo.owncloud.org: HTTP compression is enabled potentially leading to BREACH attack](https://hackerone.com/reports/84105) to ownCloud - 2 upvotes, $0
-48. [Config](https://hackerone.com/reports/84797) to ownCloud - 2 upvotes, $0
-49. [apps.owncloud.com: Stored XSS in profile page](https://hackerone.com/reports/84371) to ownCloud - 2 upvotes, $0
-50. [owncloud.com: Outdated plugins contains public exploits  ](https://hackerone.com/reports/84581) to ownCloud - 2 upvotes, $0
-51. [apps.owncloud.com: Session Cookie in URL can be captured by hackers](https://hackerone.com/reports/83667) to ownCloud - 2 upvotes, $0
-52. [apps.owncloud.com: Potential XSS](https://hackerone.com/reports/85577) to ownCloud - 2 upvotes, $0
-53. [XXE at host vpn.owncloud.com](https://hackerone.com/reports/105980) to ownCloud - 2 upvotes, $0
-54. [Self-XSS in mails sent by hello@owncloud.com](https://hackerone.com/reports/92111) to ownCloud - 2 upvotes, $0
-55. [owncloud.com: Account Compromise Through CSRF](https://hackerone.com/reports/84372) to ownCloud - 2 upvotes, $0
-56. [[forum.owncloud.org] IE, Edge XSS via Request-URI](https://hackerone.com/reports/154319) to ownCloud - 2 upvotes, $0
-57. [password reset email spamming](https://hackerone.com/reports/224095) to ownCloud - 2 upvotes, $0
-58. [owncloud.com open redirect](https://hackerone.com/reports/258632) to ownCloud - 2 upvotes, $0
-59. [Full Path Disclosure ](https://hackerone.com/reports/87505) to ownCloud - 1 upvotes, $25
-60. [daily.owncloud.com: Information disclosure](https://hackerone.com/reports/84085) to ownCloud - 1 upvotes, $0
-61. [owncloud.com: Allowed an attacker to force a user to change profile details. (XCSRF)](https://hackerone.com/reports/83239) to ownCloud - 1 upvotes, $0
-62. [demo.owncloud.org: Web Server HTTP Trace/Track Method Support Cross-Site Tracing Vulnerability](https://hackerone.com/reports/83837) to ownCloud - 1 upvotes, $0
-63. [apps.owncloud.com: SSL Session cookie without secure flag set](https://hackerone.com/reports/83710) to ownCloud - 1 upvotes, $0
-64. [owncloud.com: CVE-2015-5477 BIND9 TKEY Vulnerability + Exploit (Denial of Service)](https://hackerone.com/reports/89097) to ownCloud - 1 upvotes, $0
-65. [No email verification during registration](https://hackerone.com/reports/90643) to ownCloud - 1 upvotes, $0
+47. [No email verification during registration](https://hackerone.com/reports/90643) to ownCloud - 2 upvotes, $0
+48. [demo.owncloud.org: HTTP compression is enabled potentially leading to BREACH attack](https://hackerone.com/reports/84105) to ownCloud - 2 upvotes, $0
+49. [Config](https://hackerone.com/reports/84797) to ownCloud - 2 upvotes, $0
+50. [apps.owncloud.com: Stored XSS in profile page](https://hackerone.com/reports/84371) to ownCloud - 2 upvotes, $0
+51. [owncloud.com: Outdated plugins contains public exploits  ](https://hackerone.com/reports/84581) to ownCloud - 2 upvotes, $0
+52. [apps.owncloud.com: Session Cookie in URL can be captured by hackers](https://hackerone.com/reports/83667) to ownCloud - 2 upvotes, $0
+53. [apps.owncloud.com: Potential XSS](https://hackerone.com/reports/85577) to ownCloud - 2 upvotes, $0
+54. [XXE at host vpn.owncloud.com](https://hackerone.com/reports/105980) to ownCloud - 2 upvotes, $0
+55. [Self-XSS in mails sent by hello@owncloud.com](https://hackerone.com/reports/92111) to ownCloud - 2 upvotes, $0
+56. [owncloud.com: Account Compromise Through CSRF](https://hackerone.com/reports/84372) to ownCloud - 2 upvotes, $0
+57. [[forum.owncloud.org] IE, Edge XSS via Request-URI](https://hackerone.com/reports/154319) to ownCloud - 2 upvotes, $0
+58. [password reset email spamming](https://hackerone.com/reports/224095) to ownCloud - 2 upvotes, $0
+59. [owncloud.com open redirect](https://hackerone.com/reports/258632) to ownCloud - 2 upvotes, $0
+60. [Full Path Disclosure ](https://hackerone.com/reports/87505) to ownCloud - 1 upvotes, $25
+61. [daily.owncloud.com: Information disclosure](https://hackerone.com/reports/84085) to ownCloud - 1 upvotes, $0
+62. [owncloud.com: Allowed an attacker to force a user to change profile details. (XCSRF)](https://hackerone.com/reports/83239) to ownCloud - 1 upvotes, $0
+63. [demo.owncloud.org: Web Server HTTP Trace/Track Method Support Cross-Site Tracing Vulnerability](https://hackerone.com/reports/83837) to ownCloud - 1 upvotes, $0
+64. [apps.owncloud.com: SSL Session cookie without secure flag set](https://hackerone.com/reports/83710) to ownCloud - 1 upvotes, $0
+65. [owncloud.com: CVE-2015-5477 BIND9 TKEY Vulnerability + Exploit (Denial of Service)](https://hackerone.com/reports/89097) to ownCloud - 1 upvotes, $0
 66. [apps.owncloud.com: Mixed Active Scripting Issue ](https://hackerone.com/reports/85541) to ownCloud - 1 upvotes, $0
 67. [owncloud.com: PermError SPF Permanent Error: Too many DNS lookups](https://hackerone.com/reports/83578) to ownCloud - 1 upvotes, $0
 68. [owncloud.com: DOM Based XSS](https://hackerone.com/reports/83178) to ownCloud - 1 upvotes, $0

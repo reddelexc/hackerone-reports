@@ -24,8 +24,8 @@ Top reports from QIWI program at HackerOne:
 22. [[p2p.qiwi.com] nginx alias traversal](https://hackerone.com/reports/455858) to QIWI - 34 upvotes, $0
 23. [[lk.contact-sys.com] SQL Injection reset_password FP_LK_USER_LOGIN](https://hackerone.com/reports/164684) to QIWI - 32 upvotes, $0
 24. [Обход комиссии при оплате картой](https://hackerone.com/reports/654851) to QIWI - 32 upvotes, $0
-25. [XSS https://agent.postamat.tech/ в профиле + дисклоз секретной информации](https://hackerone.com/reports/365093) to QIWI - 31 upvotes, $0
-26. [gifts.flocktory.com/phpmyadmin is vulnerable csrf](https://hackerone.com/reports/1113212) to QIWI - 31 upvotes, $0
+25. [gifts.flocktory.com/phpmyadmin is vulnerable csrf](https://hackerone.com/reports/1113212) to QIWI - 32 upvotes, $0
+26. [XSS https://agent.postamat.tech/ в профиле + дисклоз секретной информации](https://hackerone.com/reports/365093) to QIWI - 31 upvotes, $0
 27. [mysql.initial.sql file is accessable for everyone](https://hackerone.com/reports/1081817) to QIWI - 30 upvotes, $0
 28. [Account takeover just through csrf in https://booking.qiwi.kz/profile](https://hackerone.com/reports/1066189) to QIWI - 30 upvotes, $0
 29. [HTTP Request Smuggling on api.flocktory.com Leads to XSS on Customer Sites](https://hackerone.com/reports/955170) to QIWI - 29 upvotes, $0

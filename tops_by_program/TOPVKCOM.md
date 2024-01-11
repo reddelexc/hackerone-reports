@@ -7,7 +7,7 @@ Top reports from VK.com program at HackerOne:
 5. [Определение id по номеру телефона](https://hackerone.com/reports/331040) to VK.com - 60 upvotes, $5000
 6. [Path Traversal в iOS приложении](https://hackerone.com/reports/1050231) to VK.com - 55 upvotes, $0
 7. [Stealing Private Information in VK Android App through PlayerProxy Port Remotely](https://hackerone.com/reports/292761) to VK.com - 50 upvotes, $700
-8. [XSS в сюжетах.](https://hackerone.com/reports/1115763) to VK.com - 48 upvotes, $500
+8. [XSS в сюжетах.](https://hackerone.com/reports/1115763) to VK.com - 49 upvotes, $500
 9. [XSS Reflected in m.vk.com](https://hackerone.com/reports/1011463) to VK.com - 48 upvotes, $0
 10. [Уязвимость в приложении для Android](https://hackerone.com/reports/1343528) to VK.com - 47 upvotes, $0
 11. [Вставляем свой код в мобильном приложении в разделе помощи сообществам](https://hackerone.com/reports/433904) to VK.com - 44 upvotes, $300
@@ -59,11 +59,11 @@ Top reports from VK.com program at HackerOne:
 57. [[Клевер/Android] Небезопасный BroadcastReceiver позволяет создавать окно диалога в приложении посредством другого неавторизованного приложения](https://hackerone.com/reports/394332) to VK.com - 17 upvotes, $0
 58. [XSS в товарах](https://hackerone.com/reports/273365) to VK.com - 16 upvotes, $1000
 59. [Blind XXE on pu.vk.com](https://hackerone.com/reports/296622) to VK.com - 16 upvotes, $500
-60. [Проверяем принадлеженость email и номера телефона к определенному юзеру / CSRF на смену номера для некоторых пользователей](https://hackerone.com/reports/388236) to VK.com - 16 upvotes, $300
-61. [Написать от имени любого пользователя на его стене, если он перейдет по ссылке. https://vk.com/al_video.php](https://hackerone.com/reports/211072) to VK.com - 16 upvotes, $200
-62. [Получение стикеров](https://hackerone.com/reports/1035320) to VK.com - 16 upvotes, $200
-63. [Просмотр Участников ЧАСТНОЙ встречи ](https://hackerone.com/reports/261764) to VK.com - 16 upvotes, $100
-64. [Open Redirection Vulnerability in m.vk.com](https://hackerone.com/reports/347645) to VK.com - 15 upvotes, $300
+60. [Open Redirection Vulnerability in m.vk.com](https://hackerone.com/reports/347645) to VK.com - 16 upvotes, $300
+61. [Проверяем принадлеженость email и номера телефона к определенному юзеру / CSRF на смену номера для некоторых пользователей](https://hackerone.com/reports/388236) to VK.com - 16 upvotes, $300
+62. [Написать от имени любого пользователя на его стене, если он перейдет по ссылке. https://vk.com/al_video.php](https://hackerone.com/reports/211072) to VK.com - 16 upvotes, $200
+63. [Получение стикеров](https://hackerone.com/reports/1035320) to VK.com - 16 upvotes, $200
+64. [Просмотр Участников ЧАСТНОЙ встречи ](https://hackerone.com/reports/261764) to VK.com - 16 upvotes, $100
 65. [новенькое (старенькое upgreid) хакерство: делаем демократию во всем в контакте (XSS - на англиском)](https://hackerone.com/reports/316946) to VK.com - 15 upvotes, $0
 66. [Раскрытие названия частной группы через старый бокс просмотра фото.](https://hackerone.com/reports/303062) to VK.com - 15 upvotes, $0
 67. [Второй способ обхода 2FA](https://hackerone.com/reports/167121) to VK.com - 14 upvotes, $1050
@@ -154,8 +154,8 @@ Top reports from VK.com program at HackerOne:
 152. [Отвязываем Twitter от любого профиля вк ! + несколько багов по дизайну](https://hackerone.com/reports/71337) to VK.com - 4 upvotes, $250
 153. [[0.vk.com] Reflected XSS на странице подтверждения.](https://hackerone.com/reports/502819) to VK.com - 4 upvotes, $200
 154. [Checking whether user liked the media or not even when you are blocked ](https://hackerone.com/reports/111417) to VK.com - 4 upvotes, $100
-155. [vk.com/login.php ](https://hackerone.com/reports/116764) to VK.com - 4 upvotes, $0
-156. [Able to intercept app Traffic after choosing up the Secured Connection using SSL (HTTPS)](https://hackerone.com/reports/64731) to VK.com - 4 upvotes, $0
+155. [Able to intercept app Traffic after choosing up the Secured Connection using SSL (HTTPS)](https://hackerone.com/reports/64731) to VK.com - 4 upvotes, $100
+156. [vk.com/login.php ](https://hackerone.com/reports/116764) to VK.com - 4 upvotes, $0
 157. [Подмена SSL-сертификата для любой группы в секции Управление группой-\>Работа с API неавторизированным пользователем.](https://hackerone.com/reports/215326) to VK.com - 4 upvotes, $0
 158. [Дайте swag](https://hackerone.com/reports/665688) to VK.com - 4 upvotes, $0
 159. [Stored XSS вирус в al_video.php?act=a_choose_video_box](https://hackerone.com/reports/670509) to VK.com - 4 upvotes, $0
