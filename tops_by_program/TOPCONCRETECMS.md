@@ -8,7 +8,7 @@ Top reports from Concrete CMS program at HackerOne:
 6. [XSS in select attribute options](https://hackerone.com/reports/753567) to Concrete CMS - 20 upvotes, $0
 7. [SSRF thru File Replace](https://hackerone.com/reports/243865) to Concrete CMS - 17 upvotes, $0
 8. [Reflected XSS vulnerability in Database name field on installation screen](https://hackerone.com/reports/289330) to Concrete CMS - 17 upvotes, $0
-9. ['cnvID' parameter vulnerable to Insecure Direct Object References](https://hackerone.com/reports/265284) to Concrete CMS - 15 upvotes, $0
+9. ['cnvID' parameter vulnerable to Insecure Direct Object References](https://hackerone.com/reports/265284) to Concrete CMS - 16 upvotes, $0
 10. [Cross Site Scripting (XSS) Stored - Private messaging](https://hackerone.com/reports/768313) to Concrete CMS - 15 upvotes, $0
 11. [Authenticated path traversal to RCE](https://hackerone.com/reports/1102067) to Concrete CMS - 15 upvotes, $0
 12. [Remote Code Execution through Extension Bypass on Log Functionality](https://hackerone.com/reports/841947) to Concrete CMS - 14 upvotes, $0
@@ -34,10 +34,10 @@ Top reports from Concrete CMS program at HackerOne:
 32. [XSS in private message](https://hackerone.com/reports/4826) to Concrete CMS - 6 upvotes, $0
 33. [Unauthenticated HTML Injection Stored - ContactUs form](https://hackerone.com/reports/768327) to Concrete CMS - 6 upvotes, $0
 34. [Fetching the update json scheme from concrete5 over HTTP leads to remote code execution](https://hackerone.com/reports/982130) to Concrete CMS - 6 upvotes, $0
-35. [FULL PATH DISCLOSUR ](https://hackerone.com/reports/7736) to Concrete CMS - 5 upvotes, $0
-36. [XSS on [/concrete/concrete/elements/dashboard/sitemap.php]](https://hackerone.com/reports/6853) to Concrete CMS - 5 upvotes, $0
-37. [Stored XSS on express entries](https://hackerone.com/reports/873474) to Concrete CMS - 5 upvotes, $0
-38. [SSRF mitigation bypass using DNS Rebind attack](https://hackerone.com/reports/1369312) to Concrete CMS - 5 upvotes, $0
+35. [SSRF mitigation bypass using DNS Rebind attack](https://hackerone.com/reports/1369312) to Concrete CMS - 6 upvotes, $0
+36. [FULL PATH DISCLOSUR ](https://hackerone.com/reports/7736) to Concrete CMS - 5 upvotes, $0
+37. [XSS on [/concrete/concrete/elements/dashboard/sitemap.php]](https://hackerone.com/reports/6853) to Concrete CMS - 5 upvotes, $0
+38. [Stored XSS on express entries](https://hackerone.com/reports/873474) to Concrete CMS - 5 upvotes, $0
 39. [XSS IN member List (Because of City Textbox)](https://hackerone.com/reports/4839) to Concrete CMS - 4 upvotes, $0
 40. [Stored XSS in RSS Feeds Title (Concrete5 v8.1.0)](https://hackerone.com/reports/221380) to Concrete CMS - 4 upvotes, $0
 41. [Phar Deserialization Vulnerability via Logging Settings](https://hackerone.com/reports/1063039) to Concrete CMS - 4 upvotes, $0

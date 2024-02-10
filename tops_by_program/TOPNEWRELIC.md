@@ -2,20 +2,20 @@ Top reports from New Relic program at HackerOne:
 
 1. [Password theft login.newrelic.com via Request Smuggling](https://hackerone.com/reports/498052) to New Relic - 489 upvotes, $3000
 2. [Unsafe charts embedding implementation leads to cross-account stored XSS and SSRF](https://hackerone.com/reports/708589) to New Relic - 224 upvotes, $0
-3. [Account Takeover via Email ID Change and Forgot Password Functionality](https://hackerone.com/reports/1089467) to New Relic - 212 upvotes, $2048
+3. [Account Takeover via Email ID Change and Forgot Password Functionality](https://hackerone.com/reports/1089467) to New Relic - 214 upvotes, $2048
 4. [Cross-account stored XSS at embedded charts](https://hackerone.com/reports/709883) to New Relic - 157 upvotes, $0
 5. [Stored XSS in notes (charts) because of insecure chart data JSON generation](https://hackerone.com/reports/507132) to New Relic - 146 upvotes, $0
-6. [Reflected XSS in VPN Appliance](https://hackerone.com/reports/1386438) to New Relic - 103 upvotes, $0
+6. [Reflected XSS in VPN Appliance](https://hackerone.com/reports/1386438) to New Relic - 104 upvotes, $0
 7. [CSTI at Plugin page leading to active stored XSS (Publisher name)](https://hackerone.com/reports/587829) to New Relic - 91 upvotes, $0
 8. [Stored XSS via malicious key value of Synthetics monitor tag when visiting an Insights dashboard with filtering enabled](https://hackerone.com/reports/1067321) to New Relic - 85 upvotes, $2123
 9. [Urgent! Stored XSS at plugin's violations leading to account takeover](https://hackerone.com/reports/602527) to New Relic - 79 upvotes, $0
 10. [IDOR via internal_api "users" endpoint ](https://hackerone.com/reports/349291) to New Relic - 76 upvotes, $1500
 11. [Host Header Injection](https://hackerone.com/reports/698416) to New Relic - 70 upvotes, $0
-12. [Insecure Infrastructure Integrations YML Loading leads to Windows Privilege Escalation](https://hackerone.com/reports/363971) to New Relic - 63 upvotes, $0
-13. [Internal API endpoint discloses full account name of email address associated with unconfirmed user](https://hackerone.com/reports/332381) to New Relic - 62 upvotes, $1500
+12. [Internal API endpoint discloses full account name of email address associated with unconfirmed user](https://hackerone.com/reports/332381) to New Relic - 63 upvotes, $1500
+13. [Insecure Infrastructure Integrations YML Loading leads to Windows Privilege Escalation](https://hackerone.com/reports/363971) to New Relic - 63 upvotes, $0
 14. [[synthetics.newrelic.com] SMTP header injection leads to (mass) arbitrary email sending](https://hackerone.com/reports/347439) to New Relic - 59 upvotes, $500
 15. [(Prerelease UI) Stored XSS via role name in JSON chart](https://hackerone.com/reports/520630) to New Relic - 48 upvotes, $2500
-16. [ Reflected Cross site Scripting (XSS) on https://one.newrelic.com](https://hackerone.com/reports/1367642) to New Relic - 41 upvotes, $0
+16. [ Reflected Cross site Scripting (XSS) on https://one.newrelic.com](https://hackerone.com/reports/1367642) to New Relic - 42 upvotes, $0
 17. [User can run monitors at private locations, which he has no access to](https://hackerone.com/reports/681001) to New Relic - 40 upvotes, $0
 18. [Stored XSS in Brower `name` field reflected in two pages](https://hackerone.com/reports/348076) to New Relic - 39 upvotes, $3000
 19. [Untrusted deserialization issue when loading newrelic.yml file in Java agent leads to code execution on host](https://hackerone.com/reports/1109620) to New Relic - 39 upvotes, $768
@@ -106,21 +106,21 @@ Top reports from New Relic program at HackerOne:
 104. [[Synthetics/Infrastructure/everything] Individual account permissions are not properly managed and inherited on sub accounts ](https://hackerone.com/reports/268541) to New Relic - 5 upvotes, $750
 105. [User is able to access and create private synthetics locations without upgrading (regression of #276157) ](https://hackerone.com/reports/344468) to New Relic - 5 upvotes, $500
 106. [Restricted user can bypass permissions restriction to create NR Alert policies](https://hackerone.com/reports/380413) to New Relic - 5 upvotes, $500
-107. [http://newrelic.com SSRF/XSPA](https://hackerone.com/reports/146875) to New Relic - 5 upvotes, $0
-108. [CSV Injection in sub_accounts.csv](https://hackerone.com/reports/127032) to New Relic - 5 upvotes, $0
-109. [Reflected XSS on Signup Page](https://hackerone.com/reports/119090) to New Relic - 5 upvotes, $0
-110. [No Rate Limitation on Promo Code](https://hackerone.com/reports/123091) to New Relic - 5 upvotes, $0
-111. [/accounts/USERID.json file is left open for Restricted User of organization disclosing Owners's Mobile Number and "billing_info, cc_email"](https://hackerone.com/reports/221250) to New Relic - 5 upvotes, $0
-112. [Privilege Escalation in Default Notification Preferences](https://hackerone.com/reports/210298) to New Relic - 5 upvotes, $0
-113. [ Missing security best practices (leads to further impact) ](https://hackerone.com/reports/385420) to New Relic - 5 upvotes, $0
-114. [CSRF at adding new role (user-management.service.newrelic.com)](https://hackerone.com/reports/504782) to New Relic - 5 upvotes, $0
-115. [Stored XSS at APM transaction map (transactionName field)](https://hackerone.com/reports/667770) to New Relic - 5 upvotes, $0
-116. [NRQL Query allows restricted user to pull all data from Synthetics monitors without having read permissions enabled ](https://hackerone.com/reports/387290) to New Relic - 4 upvotes, $750
-117. [Manipulation of submit payment request allows me to obtain Infrastructure Pro/Other Services for free or at greatly reduced price](https://hackerone.com/reports/219356) to New Relic - 4 upvotes, $600
-118. [Bypass of #447975 - view mobile application token though "Application Information" sidebar on Installation page ](https://hackerone.com/reports/479139) to New Relic - 4 upvotes, $500
-119. [https://rpm.newrelic.com/.htaccess file is world readable](https://hackerone.com/reports/123074) to New Relic - 4 upvotes, $0
-120. [Open redirection bypass](https://hackerone.com/reports/127741) to New Relic - 4 upvotes, $0
-121. [Normal user can set "Job title" of other users by Direct Object Reference](https://hackerone.com/reports/123435) to New Relic - 4 upvotes, $0
+107. [Normal user can set "Job title" of other users by Direct Object Reference](https://hackerone.com/reports/123435) to New Relic - 5 upvotes, $0
+108. [http://newrelic.com SSRF/XSPA](https://hackerone.com/reports/146875) to New Relic - 5 upvotes, $0
+109. [CSV Injection in sub_accounts.csv](https://hackerone.com/reports/127032) to New Relic - 5 upvotes, $0
+110. [Reflected XSS on Signup Page](https://hackerone.com/reports/119090) to New Relic - 5 upvotes, $0
+111. [No Rate Limitation on Promo Code](https://hackerone.com/reports/123091) to New Relic - 5 upvotes, $0
+112. [/accounts/USERID.json file is left open for Restricted User of organization disclosing Owners's Mobile Number and "billing_info, cc_email"](https://hackerone.com/reports/221250) to New Relic - 5 upvotes, $0
+113. [Privilege Escalation in Default Notification Preferences](https://hackerone.com/reports/210298) to New Relic - 5 upvotes, $0
+114. [ Missing security best practices (leads to further impact) ](https://hackerone.com/reports/385420) to New Relic - 5 upvotes, $0
+115. [CSRF at adding new role (user-management.service.newrelic.com)](https://hackerone.com/reports/504782) to New Relic - 5 upvotes, $0
+116. [Stored XSS at APM transaction map (transactionName field)](https://hackerone.com/reports/667770) to New Relic - 5 upvotes, $0
+117. [NRQL Query allows restricted user to pull all data from Synthetics monitors without having read permissions enabled ](https://hackerone.com/reports/387290) to New Relic - 4 upvotes, $750
+118. [Manipulation of submit payment request allows me to obtain Infrastructure Pro/Other Services for free or at greatly reduced price](https://hackerone.com/reports/219356) to New Relic - 4 upvotes, $600
+119. [Bypass of #447975 - view mobile application token though "Application Information" sidebar on Installation page ](https://hackerone.com/reports/479139) to New Relic - 4 upvotes, $500
+120. [https://rpm.newrelic.com/.htaccess file is world readable](https://hackerone.com/reports/123074) to New Relic - 4 upvotes, $0
+121. [Open redirection bypass](https://hackerone.com/reports/127741) to New Relic - 4 upvotes, $0
 122. [User enumeration possible from log-in timing difference](https://hackerone.com/reports/127026) to New Relic - 4 upvotes, $0
 123. [Login Open Redirect](https://hackerone.com/reports/131552) to New Relic - 4 upvotes, $0
 124. [newrelic.com rails directory traversal vuln](https://hackerone.com/reports/134032) to New Relic - 4 upvotes, $0
