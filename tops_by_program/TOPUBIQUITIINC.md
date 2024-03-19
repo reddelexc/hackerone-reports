@@ -79,10 +79,10 @@ Top reports from Ubiquiti Inc. program at HackerOne:
 77. [UniFi Video v3.10.1 (Windows) Local Privileges Escalation to SYSTEM from arbitrary filedelete and DLL hijack vulnerabilities.](https://hackerone.com/reports/530967) to Ubiquiti Inc. - 8 upvotes, $0
 78. [UniFi Video web interface Configuration Restore user privilege escalation](https://hackerone.com/reports/329659) to Ubiquiti Inc. - 8 upvotes, $0
 79. [Unauthenticated request allows changing hostname](https://hackerone.com/reports/802079) to Ubiquiti Inc. - 8 upvotes, $0
-80. [200 http code in 403 forbidden directories on main Ubnt.com domain](https://hackerone.com/reports/220150) to Ubiquiti Inc. - 7 upvotes, $0
-81. [Command injection in the process of downloading the latest version of the cloud key firmware through the unifi management software.](https://hackerone.com/reports/183458) to Ubiquiti Inc. - 7 upvotes, $0
-82. [Format String Vulnerability in the EdgeSwitch restricted CLI](https://hackerone.com/reports/311884) to Ubiquiti Inc. - 7 upvotes, $0
-83. [XW 6.2.0 firmware: 5 Reflected XSS issues in link.cgi](https://hackerone.com/reports/802498) to Ubiquiti Inc. - 7 upvotes, $0
+80. [XW 6.2.0 firmware: 5 Reflected XSS issues in link.cgi](https://hackerone.com/reports/802498) to Ubiquiti Inc. - 8 upvotes, $0
+81. [200 http code in 403 forbidden directories on main Ubnt.com domain](https://hackerone.com/reports/220150) to Ubiquiti Inc. - 7 upvotes, $0
+82. [Command injection in the process of downloading the latest version of the cloud key firmware through the unifi management software.](https://hackerone.com/reports/183458) to Ubiquiti Inc. - 7 upvotes, $0
+83. [Format String Vulnerability in the EdgeSwitch restricted CLI](https://hackerone.com/reports/311884) to Ubiquiti Inc. - 7 upvotes, $0
 84. [UniFi v3.2.10 Cross-Site Request Forgeries / Referer-Check Bypass](https://hackerone.com/reports/52635) to Ubiquiti Inc. - 6 upvotes, $0
 85. [Privilege Escalation with Session Hijacking Having a Non-privileged Valid User](https://hackerone.com/reports/242407) to Ubiquiti Inc. - 6 upvotes, $0
 86. [Authenticated RCE in ToughSwitch](https://hackerone.com/reports/273449) to Ubiquiti Inc. - 6 upvotes, $0

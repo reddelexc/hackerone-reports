@@ -7,7 +7,7 @@ Top XXE reports from HackerOne:
 5. [Phone Call to XXE via Interactive Voice Response](https://hackerone.com/reports/395296) to ██████ - 171 upvotes, $0
 6. [Partial bypass of #483774 with Blind XXE on https://duckduckgo.com](https://hackerone.com/reports/486732) to DuckDuckGo - 151 upvotes, $0
 7. [Multiple endpoints are vulnerable to XML External Entity injection (XXE) ](https://hackerone.com/reports/72272) to Pornhub - 138 upvotes, $2500
-8. [XXE through injection of a payload in the XMP metadata of a JPEG file](https://hackerone.com/reports/836877) to Informatica - 130 upvotes, $0
+8. [XXE through injection of a payload in the XMP metadata of a JPEG file](https://hackerone.com/reports/836877) to Informatica - 131 upvotes, $0
 9. [XXE Injection through SVG image upload leads to SSRF](https://hackerone.com/reports/897244) to Zivver - 112 upvotes, $0
 10. [XXE in Site Audit function exposing file and directory contents](https://hackerone.com/reports/312543) to Semrush - 101 upvotes, $0
 11. [[RCE] Unserialize to XXE - file disclosure on ams.upload.pornhub.com](https://hackerone.com/reports/142562) to Pornhub - 90 upvotes, $0
@@ -23,8 +23,8 @@ Top XXE reports from HackerOne:
 21. [XML External Entity (XXE) in qiwi.com + waf bypass](https://hackerone.com/reports/99279) to QIWI - 41 upvotes, $0
 22. [Authenticated XXE](https://hackerone.com/reports/1095645) to WordPress - 40 upvotes, $0
 23. [XML Parser Bug: XXE over which leads to RCE](https://hackerone.com/reports/55431) to drchrono - 33 upvotes, $0
-24. [XXE on DoD web server](https://hackerone.com/reports/188743) to U.S. Dept Of Defense - 31 upvotes, $0
-25. [[HTA2] XXE on https://███ via SpellCheck Endpoint.](https://hackerone.com/reports/715949) to U.S. Dept Of Defense - 31 upvotes, $0
+24. [[HTA2] XXE on https://███ via SpellCheck Endpoint.](https://hackerone.com/reports/715949) to U.S. Dept Of Defense - 32 upvotes, $0
+25. [XXE on DoD web server](https://hackerone.com/reports/188743) to U.S. Dept Of Defense - 31 upvotes, $0
 26. [Singapore - XXE at https://www.starbucks.com.sg/RestApi/soap11](https://hackerone.com/reports/762251) to Starbucks - 30 upvotes, $0
 27. [[app.informaticaondemand.com] XXE](https://hackerone.com/reports/105753) to Informatica - 24 upvotes, $0
 28. [Blind XXE on my.mail.ru](https://hackerone.com/reports/276276) to Mail.ru - 23 upvotes, $800
@@ -32,7 +32,7 @@ Top XXE reports from HackerOne:
 30. [ XXE in upload file feature](https://hackerone.com/reports/105787) to Informatica - 21 upvotes, $0
 31. [[send.qiwi.ru] Soap-based XXE vulnerability /soapserver/ ](https://hackerone.com/reports/36450) to QIWI - 18 upvotes, $0
 32. [Blind XXE on pu.vk.com](https://hackerone.com/reports/296622) to VK.com - 16 upvotes, $500
-33. [AEM forms XXE Vulnerability](https://hackerone.com/reports/1321070) to Adobe - 14 upvotes, $0
+33. [AEM forms XXE Vulnerability](https://hackerone.com/reports/1321070) to Adobe - 15 upvotes, $0
 34. [XXE in the Connector Designer](https://hackerone.com/reports/112116) to Bime - 13 upvotes, $0
 35. [[marketplace.informatica.com] - XXE](https://hackerone.com/reports/106797) to Informatica - 13 upvotes, $0
 36. [blind XXE when uploading avatar in mymail phone app](https://hackerone.com/reports/277341) to Mail.ru - 12 upvotes, $1000
@@ -41,11 +41,11 @@ Top XXE reports from HackerOne:
 39. [[marketplace.informatica.com] - XXE](https://hackerone.com/reports/106802) to Informatica - 11 upvotes, $0
 40. [XXE issue](https://hackerone.com/reports/130661) to Moneybird - 11 upvotes, $0
 41. [h1-5411-CTF report: LFI / Deserialization / XXE vulnerability, ](https://hackerone.com/reports/415233) to h1-5411-CTF - 8 upvotes, $0
-42. [XXE крит](https://hackerone.com/reports/449627) to Mail.ru - 7 upvotes, $0
-43. [[usuppliers.uber.com] - Server Side Request Forgery via XXE OOB](https://hackerone.com/reports/448598) to Uber - 7 upvotes, $0
-44. [XXE on www.publish.engelvoelkers.com](https://hackerone.com/reports/914801) to Engel & Völkers Technology GmbH - 7 upvotes, $0
-45. [XXE at Informatica sub-domain](https://hackerone.com/reports/150520) to Informatica - 6 upvotes, $0
-46. [XXE in Enterprise Search's App Search web crawler](https://hackerone.com/reports/1156748) to Elastic - 6 upvotes, $0
+42. [[usuppliers.uber.com] - Server Side Request Forgery via XXE OOB](https://hackerone.com/reports/448598) to Uber - 8 upvotes, $0
+43. [XXE крит](https://hackerone.com/reports/449627) to Mail.ru - 7 upvotes, $0
+44. [XXE in Enterprise Search's App Search web crawler](https://hackerone.com/reports/1156748) to Elastic - 7 upvotes, $0
+45. [XXE on www.publish.engelvoelkers.com](https://hackerone.com/reports/914801) to Engel & Völkers Technology GmbH - 7 upvotes, $0
+46. [XXE at Informatica sub-domain](https://hackerone.com/reports/150520) to Informatica - 6 upvotes, $0
 47. [[Java]: Add XXE sinks](https://hackerone.com/reports/1339787) to GitHub Security Lab - 6 upvotes, $0
 48. [OOB XXE ](https://hackerone.com/reports/690295) to Mail.ru - 5 upvotes, $500
 49. [[Python]: CWE-611: XXE](https://hackerone.com/reports/1512937) to GitHub Security Lab - 4 upvotes, $1800

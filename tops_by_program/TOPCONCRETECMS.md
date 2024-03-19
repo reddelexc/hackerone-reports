@@ -1,7 +1,7 @@
 Top reports from Concrete CMS program at HackerOne:
 
 1. [Remote Code Execution (Reverse Shell) - File Manager](https://hackerone.com/reports/768322) to Concrete CMS - 111 upvotes, $0
-2. [Time-base SQL Injection in Search Users](https://hackerone.com/reports/876800) to Concrete CMS - 57 upvotes, $0
+2. [Time-base SQL Injection in Search Users](https://hackerone.com/reports/876800) to Concrete CMS - 58 upvotes, $0
 3. [Password Reset link hijacking via Host Header Poisoning ](https://hackerone.com/reports/226659) to Concrete CMS - 55 upvotes, $0
 4. [SVG file that HTML Included is able to upload via File Manager](https://hackerone.com/reports/437863) to Concrete CMS - 26 upvotes, $0
 5. [Arbitrary File delete via PHAR deserialization](https://hackerone.com/reports/921288) to Concrete CMS - 26 upvotes, $0
@@ -9,28 +9,28 @@ Top reports from Concrete CMS program at HackerOne:
 7. [SSRF thru File Replace](https://hackerone.com/reports/243865) to Concrete CMS - 17 upvotes, $0
 8. [Reflected XSS vulnerability in Database name field on installation screen](https://hackerone.com/reports/289330) to Concrete CMS - 17 upvotes, $0
 9. ['cnvID' parameter vulnerable to Insecure Direct Object References](https://hackerone.com/reports/265284) to Concrete CMS - 16 upvotes, $0
-10. [Cross Site Scripting (XSS) Stored - Private messaging](https://hackerone.com/reports/768313) to Concrete CMS - 15 upvotes, $0
-11. [Authenticated path traversal to RCE](https://hackerone.com/reports/1102067) to Concrete CMS - 15 upvotes, $0
-12. [Remote Code Execution through Extension Bypass on Log Functionality](https://hackerone.com/reports/841947) to Concrete CMS - 14 upvotes, $0
+10. [Authenticated path traversal to RCE](https://hackerone.com/reports/1102067) to Concrete CMS - 16 upvotes, $0
+11. [Remote Code Execution through Extension Bypass on Log Functionality](https://hackerone.com/reports/841947) to Concrete CMS - 15 upvotes, $0
+12. [Cross Site Scripting (XSS) Stored - Private messaging](https://hackerone.com/reports/768313) to Concrete CMS - 15 upvotes, $0
 13. [Local File Inclusion path bypass](https://hackerone.com/reports/147570) to Concrete CMS - 13 upvotes, $0
 14. [Stored XSS in Headline TextControl element in Express forms [ concrete5 8.1.0 ]](https://hackerone.com/reports/230278) to Concrete CMS - 12 upvotes, $0
 15. [Unauthenticated reflected XSS in preview_as_user function](https://hackerone.com/reports/643442) to Concrete CMS - 12 upvotes, $0
 16. [SSRF bypass](https://hackerone.com/reports/863221) to Concrete CMS - 12 upvotes, $0
 17. [Local File Inclusion Vulnerability in Concrete5 version 5.7.3.1](https://hackerone.com/reports/59665) to Concrete CMS - 11 upvotes, $0
 18. [Bypass auth.email-domains](https://hackerone.com/reports/4795) to Concrete CMS - 10 upvotes, $0
-19. [HttpOnly flag not set for cookie on concrete5.org](https://hackerone.com/reports/4792) to Concrete CMS - 9 upvotes, $0
-20. [CSRF Full Account Takeover](https://hackerone.com/reports/152052) to Concrete CMS - 9 upvotes, $0
-21. [Stored XSS in Pages SEO dialog Name field (concrete5 8.1.0)](https://hackerone.com/reports/230029) to Concrete CMS - 9 upvotes, $0
-22. [Stored XSS vulnerability in RSS Feeds Description field](https://hackerone.com/reports/248133) to Concrete CMS - 9 upvotes, $0
-23. [A bypass of adding remote files in concrete5 FIlemanager leads to remote code execution](https://hackerone.com/reports/1350444) to Concrete CMS - 9 upvotes, $0
-24. [Stored XSS in Private Messages 'Reply' allows to execute malicious JavaScript against any user while replying to the message which contains payload](https://hackerone.com/reports/247517) to Concrete CMS - 8 upvotes, $0
-25. [Stored unauth XSS in calendar event via CSRF](https://hackerone.com/reports/1102018) to Concrete CMS - 8 upvotes, $0
-26. [Stored XSS in Express Objects - Concrete5 v8.1.0](https://hackerone.com/reports/221325) to Concrete CMS - 7 upvotes, $0
-27. [Stored XSS in Name field in User Groups/Group Details form](https://hackerone.com/reports/247521) to Concrete CMS - 7 upvotes, $0
-28. [Stored XSS vulnerability in additional URLs in 'Location' dialog [Sitemap]](https://hackerone.com/reports/251358) to Concrete CMS - 7 upvotes, $0
-29. [Stored XSS on Add Event in Calendar](https://hackerone.com/reports/300532) to Concrete CMS - 7 upvotes, $0
-30. [Stored XSS on Add Calendar](https://hackerone.com/reports/300571) to Concrete CMS - 7 upvotes, $0
-31. [Stored XSS in the file search filter](https://hackerone.com/reports/873584) to Concrete CMS - 7 upvotes, $0
+19. [A bypass of adding remote files in concrete5 FIlemanager leads to remote code execution](https://hackerone.com/reports/1350444) to Concrete CMS - 10 upvotes, $0
+20. [HttpOnly flag not set for cookie on concrete5.org](https://hackerone.com/reports/4792) to Concrete CMS - 9 upvotes, $0
+21. [CSRF Full Account Takeover](https://hackerone.com/reports/152052) to Concrete CMS - 9 upvotes, $0
+22. [Stored XSS in Pages SEO dialog Name field (concrete5 8.1.0)](https://hackerone.com/reports/230029) to Concrete CMS - 9 upvotes, $0
+23. [Stored XSS vulnerability in RSS Feeds Description field](https://hackerone.com/reports/248133) to Concrete CMS - 9 upvotes, $0
+24. [Stored unauth XSS in calendar event via CSRF](https://hackerone.com/reports/1102018) to Concrete CMS - 9 upvotes, $0
+25. [Stored XSS in Private Messages 'Reply' allows to execute malicious JavaScript against any user while replying to the message which contains payload](https://hackerone.com/reports/247517) to Concrete CMS - 8 upvotes, $0
+26. [Stored XSS in the file search filter](https://hackerone.com/reports/873584) to Concrete CMS - 8 upvotes, $0
+27. [Stored XSS in Express Objects - Concrete5 v8.1.0](https://hackerone.com/reports/221325) to Concrete CMS - 7 upvotes, $0
+28. [Stored XSS in Name field in User Groups/Group Details form](https://hackerone.com/reports/247521) to Concrete CMS - 7 upvotes, $0
+29. [Stored XSS vulnerability in additional URLs in 'Location' dialog [Sitemap]](https://hackerone.com/reports/251358) to Concrete CMS - 7 upvotes, $0
+30. [Stored XSS on Add Event in Calendar](https://hackerone.com/reports/300532) to Concrete CMS - 7 upvotes, $0
+31. [Stored XSS on Add Calendar](https://hackerone.com/reports/300571) to Concrete CMS - 7 upvotes, $0
 32. [XSS in private message](https://hackerone.com/reports/4826) to Concrete CMS - 6 upvotes, $0
 33. [Unauthenticated HTML Injection Stored - ContactUs form](https://hackerone.com/reports/768327) to Concrete CMS - 6 upvotes, $0
 34. [Fetching the update json scheme from concrete5 over HTTP leads to remote code execution](https://hackerone.com/reports/982130) to Concrete CMS - 6 upvotes, $0

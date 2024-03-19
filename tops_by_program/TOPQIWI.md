@@ -1,17 +1,17 @@
 Top reports from QIWI program at HackerOne:
 
 1. [SQL injection on contactws.contact-sys.com in TScenObject action ScenObjects leads to remote code execution](https://hackerone.com/reports/816254) to QIWI - 470 upvotes, $0
-2. [Unauthenticated SSRF in jira.tochka.com leading to RCE in confluence.bank24.int](https://hackerone.com/reports/713900) to QIWI - 218 upvotes, $0
+2. [Unauthenticated SSRF in jira.tochka.com leading to RCE in confluence.bank24.int](https://hackerone.com/reports/713900) to QIWI - 220 upvotes, $0
 3. [Remote Code Execution on contactws.contact-sys.com via SQL injection in TCertObject operation "Delete"](https://hackerone.com/reports/816086) to QIWI - 194 upvotes, $0
-4. [MobileIron Unauthenticated RCE on mdm.qiwi.com with WAF bypass](https://hackerone.com/reports/983548) to QIWI - 147 upvotes, $0
+4. [MobileIron Unauthenticated RCE on mdm.qiwi.com with WAF bypass](https://hackerone.com/reports/983548) to QIWI - 148 upvotes, $0
 5. [SQL injection on contactws.contact-sys.com in TRateObject.AddForOffice in USER_ID parameter leads to remote code execution](https://hackerone.com/reports/816560) to QIWI - 118 upvotes, $0
 6. [account takeover https://qiwi.me ](https://hackerone.com/reports/685304) to QIWI - 106 upvotes, $0
 7. [account takeover https://idea.qiwi.com/ ](https://hackerone.com/reports/464426) to QIWI - 87 upvotes, $0
 8. [Remote Code Execution on contactws.contact-sys.com via SQL injection in TAktifBankObject.GetOrder in parameter DOC_ID](https://hackerone.com/reports/1104120) to QIWI - 84 upvotes, $0
 9. [SSRF на https://qiwi.com с помощью "Prerender HAR Capturer"](https://hackerone.com/reports/1153862) to QIWI - 77 upvotes, $0
 10. [DOM XSS triggered in secure support desk](https://hackerone.com/reports/512065) to QIWI - 65 upvotes, $0
-11. [Обход комиссии на переводы](https://hackerone.com/reports/604560) to QIWI - 56 upvotes, $0
-12. [account takeover through password reset in url https://reklama.tochka.com/](https://hackerone.com/reports/1379842) to QIWI - 56 upvotes, $0
+11. [account takeover through password reset in url https://reklama.tochka.com/](https://hackerone.com/reports/1379842) to QIWI - 57 upvotes, $0
+12. [Обход комиссии на переводы](https://hackerone.com/reports/604560) to QIWI - 56 upvotes, $0
 13. [XXE on ██████████ by bypassing WAF ████](https://hackerone.com/reports/433996) to QIWI - 53 upvotes, $0
 14. [Remote Code Execution on contactws.contact-sys.com via SQL injection in TPrabhuObject.BeginOrder in parameter DOC_ID](https://hackerone.com/reports/1104111) to QIWI - 52 upvotes, $0
 15. [[contact-sys.com] SQL Injection████ limit param](https://hackerone.com/reports/164945) to QIWI - 50 upvotes, $0

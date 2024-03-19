@@ -1,6 +1,6 @@
 Top reports from ownCloud program at HackerOne:
 
-1. [Possible to steal any protected files on Android](https://hackerone.com/reports/377107) to ownCloud - 111 upvotes, $750
+1. [Possible to steal any protected files on Android](https://hackerone.com/reports/377107) to ownCloud - 112 upvotes, $750
 2. [Cross-Site Request Forgery ](https://hackerone.com/reports/2041007) to ownCloud - 103 upvotes, $0
 3. [Federated share permissions can be increased by recipient](https://hackerone.com/reports/1990443) to ownCloud - 26 upvotes, $500
 4. [Banner Grabbing - Apache Server Version Disclousure](https://hackerone.com/reports/269467) to ownCloud - 19 upvotes, $0

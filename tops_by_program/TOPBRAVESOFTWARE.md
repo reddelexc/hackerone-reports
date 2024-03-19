@@ -1,7 +1,7 @@
 Top reports from Brave Software program at HackerOne:
 
 1. [Brave Browser Tor Window leaks user's real IP to the external DNS server](https://hackerone.com/reports/1077022) to Brave Software - 276 upvotes, $0
-2. [Open redirect due to scanning QR code via brave browser](https://hackerone.com/reports/1946534) to Brave Software - 132 upvotes, $0
+2. [Open redirect due to scanning QR code via brave browser](https://hackerone.com/reports/1946534) to Brave Software - 133 upvotes, $0
 3. [Stored XSS in localhost:* via integrated torrent downloader](https://hackerone.com/reports/681617) to Brave Software - 122 upvotes, $0
 4. [Cookie steal through content Uri](https://hackerone.com/reports/876192) to Brave Software - 76 upvotes, $500
 5. [Local files reading from the web using `brave://`](https://hackerone.com/reports/390013) to Brave Software - 74 upvotes, $5000
@@ -13,7 +13,7 @@ Top reports from Brave Software program at HackerOne:
 11. [`chrome://brave` available for navigation in Release build [-\> RCE] + navigation to `chrome://*` using tab_helper ["Open in new tab"]](https://hackerone.com/reports/395737) to Brave Software - 46 upvotes, $2000
 12. [Local files reading using `link[rel="import"]`](https://hackerone.com/reports/375329) to Brave Software - 42 upvotes, $400
 13. [[Android] HTML Injection in BatterySaveArticleRenderer WebView](https://hackerone.com/reports/176065) to Brave Software - 41 upvotes, $150
-14. [Browser is not following proper flow for redirection cause open redirect ](https://hackerone.com/reports/1579374) to Brave Software - 40 upvotes, $0
+14. [Browser is not following proper flow for redirection cause open redirect ](https://hackerone.com/reports/1579374) to Brave Software - 40 upvotes, $500
 15. [Information disclosure-Referer leak](https://hackerone.com/reports/1337624) to Brave Software - 39 upvotes, $500
 16. [Onion-Location header allows to open arbitrary URLs including chrome:](https://hackerone.com/reports/1089995) to Brave Software - 37 upvotes, $400
 17. [UAF on JSEthereumProvider](https://hackerone.com/reports/1977252) to Brave Software - 34 upvotes, $3000
@@ -30,10 +30,10 @@ Top reports from Brave Software program at HackerOne:
 28. [Brave Browser permanently timestamps & logs connection times for all v2 domains ~/.config/BraveSoftware/Brave-Browser/tor/data/tor.log](https://hackerone.com/reports/1249056) to Brave Software - 19 upvotes, $400
 29. [https://publishers.basicattentiontoken.org/favicon.ico is Vulnerable to CVE-2017-7529](https://hackerone.com/reports/980856) to Brave Software - 18 upvotes, $100
 30. [Open redirect found on account.brave.com](https://hackerone.com/reports/1338437) to Brave Software - 18 upvotes, $0
-31. [RCE: DnDing shortcut files to chrome://brave allows loading HTML files in Muon's context](https://hackerone.com/reports/415258) to Brave Software - 16 upvotes, $300
-32. [Username Information Disclosure via Json response - Using parameter number Intruder](https://hackerone.com/reports/812351) to Brave Software - 16 upvotes, $0
-33. [No rate limiting for confirmation email lead to email flooding and leads to enumeration of emails in publishers.basicattentiontoken.org](https://hackerone.com/reports/854793) to Brave Software - 16 upvotes, $0
-34. [S3 Bucket Takeover  "brave-browser-rpm-staging-release-test"](https://hackerone.com/reports/1835133) to Brave Software - 16 upvotes, $0
+31. [S3 Bucket Takeover  "brave-browser-rpm-staging-release-test"](https://hackerone.com/reports/1835133) to Brave Software - 17 upvotes, $0
+32. [RCE: DnDing shortcut files to chrome://brave allows loading HTML files in Muon's context](https://hackerone.com/reports/415258) to Brave Software - 16 upvotes, $300
+33. [Username Information Disclosure via Json response - Using parameter number Intruder](https://hackerone.com/reports/812351) to Brave Software - 16 upvotes, $0
+34. [No rate limiting for confirmation email lead to email flooding and leads to enumeration of emails in publishers.basicattentiontoken.org](https://hackerone.com/reports/854793) to Brave Software - 16 upvotes, $0
 35. [Homograph Attack Bypass [ Tested on Linux & Windows ]](https://hackerone.com/reports/268984) to Brave Software - 15 upvotes, $0
 36. [Bypassing Homograph Attack Using /@ [ Tested On Windows ]](https://hackerone.com/reports/317931) to Brave Software - 15 upvotes, $0
 37. [URL spoofing in Brave for macOS](https://hackerone.com/reports/369086) to Brave Software - 14 upvotes, $50

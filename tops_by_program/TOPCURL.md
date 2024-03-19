@@ -2,7 +2,7 @@ Top reports from curl program at HackerOne:
 
 1. [CVE-2021-22901: TLS session caching disaster](https://hackerone.com/reports/1180380) to curl - 70 upvotes, $2000
 2. [CVE-2020-8177: curl overwrite local file with -J](https://hackerone.com/reports/887462) to curl - 52 upvotes, $700
-3. [CVE-2023-38545: socks5 heap buffer overflow](https://hackerone.com/reports/2187833) to curl - 50 upvotes, $0
+3. [CVE-2023-38545: socks5 heap buffer overflow](https://hackerone.com/reports/2187833) to curl - 51 upvotes, $0
 4. [CVE-2020-8286: Inferior OCSP verification](https://hackerone.com/reports/1048457) to curl - 49 upvotes, $0
 5. [Buffer Overflow Vulnerability in WebSocket Handling](https://hackerone.com/reports/2298307) to curl - 32 upvotes, $0
 6. [CVE-2020-8284: trusting FTP PASV responses](https://hackerone.com/reports/1040166) to curl - 30 upvotes, $0
@@ -26,7 +26,7 @@ Top reports from curl program at HackerOne:
 24. [CVE-2019-5482: Heap buffer overflow in TFTP when using small blksize](https://hackerone.com/reports/684603) to curl - 11 upvotes, $0
 25. [CVE-2021-22897: schannel cipher selection surprise](https://hackerone.com/reports/1172857) to curl - 10 upvotes, $800
 26. [SMB access smuggling via FILE URL on Windows](https://hackerone.com/reports/726117) to curl - 9 upvotes, $400
-27. [CVE-2021-22946: Protocol downgrade required TLS bypassed](https://hackerone.com/reports/1334111) to curl - 8 upvotes, $0
+27. [CVE-2021-22946: Protocol downgrade required TLS bypassed](https://hackerone.com/reports/1334111) to curl - 9 upvotes, $0
 28. [CVE-2022-27778: curl removes wrong file on error](https://hackerone.com/reports/1553598) to curl - 8 upvotes, $0
 29. [CVE-2021-22890: TLS 1.3 session ticket proxy host mixup](https://hackerone.com/reports/1129529) to curl - 7 upvotes, $0
 30. [CVE-2021-22947: STARTTLS protocol injection via MITM](https://hackerone.com/reports/1334763) to curl - 7 upvotes, $0
