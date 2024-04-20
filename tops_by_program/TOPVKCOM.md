@@ -2,7 +2,7 @@ Top reports from VK.com program at HackerOne:
 
 1. [CVE-2018-0296](https://hackerone.com/reports/377542) to VK.com - 80 upvotes, $0
 2. [Reflected XSS в /video](https://hackerone.com/reports/1052856) to VK.com - 79 upvotes, $500
-3. [local file disclosure via FFmpeg hls processing](https://hackerone.com/reports/226756) to VK.com - 76 upvotes, $1000
+3. [local file disclosure via FFmpeg hls processing](https://hackerone.com/reports/226756) to VK.com - 77 upvotes, $1000
 4. [Stored XSS в личных сообщениях](https://hackerone.com/reports/181823) to VK.com - 67 upvotes, $0
 5. [Определение id по номеру телефона](https://hackerone.com/reports/331040) to VK.com - 60 upvotes, $5000
 6. [Path Traversal в iOS приложении](https://hackerone.com/reports/1050231) to VK.com - 55 upvotes, $0
@@ -163,12 +163,12 @@ Top reports from VK.com program at HackerOne:
 161. [Уязвимость в Указание мест на фото + фича + хакинг](https://hackerone.com/reports/66235) to VK.com - 3 upvotes, $200
 162. [Способ узнать имя человека и ВУЗ удаленной страницы](https://hackerone.com/reports/93020) to VK.com - 3 upvotes, $0
 163. [Логирование ответов запросов VK API в приложении Клевер](https://hackerone.com/reports/475177) to VK.com - 3 upvotes, $0
-164. [Stored XSS в m.vk.com/video](https://hackerone.com/reports/730963) to VK.com - 3 upvotes, $0
-165. [Делаем плейлист от любого(почти) пользователя/группы/артиста.](https://hackerone.com/reports/504162) to VK.com - 3 upvotes, $0
-166. [Паблики: Модератор паблика может удалять добавленные редакторами материалы с таймером на публикацию.](https://hackerone.com/reports/148467) to VK.com - 2 upvotes, $100
-167. [API: Bug in method auth.validatePhone](https://hackerone.com/reports/64963) to VK.com - 2 upvotes, $0
-168. [XSS at http://vk.com on IE using flash files](https://hackerone.com/reports/66121) to VK.com - 2 upvotes, $0
-169. [Information Disclosure (phpinfo())](https://hackerone.com/reports/531146) to VK.com - 2 upvotes, $0
+164. [Information Disclosure (phpinfo())](https://hackerone.com/reports/531146) to VK.com - 3 upvotes, $0
+165. [Stored XSS в m.vk.com/video](https://hackerone.com/reports/730963) to VK.com - 3 upvotes, $0
+166. [Делаем плейлист от любого(почти) пользователя/группы/артиста.](https://hackerone.com/reports/504162) to VK.com - 3 upvotes, $0
+167. [Паблики: Модератор паблика может удалять добавленные редакторами материалы с таймером на публикацию.](https://hackerone.com/reports/148467) to VK.com - 2 upvotes, $100
+168. [API: Bug in method auth.validatePhone](https://hackerone.com/reports/64963) to VK.com - 2 upvotes, $0
+169. [XSS at http://vk.com on IE using flash files](https://hackerone.com/reports/66121) to VK.com - 2 upvotes, $0
 170. [Загружаем видеозаписи в основной альбом любой открытой группе/паблику.](https://hackerone.com/reports/508506) to VK.com - 2 upvotes, $0
 171. [Не достаточная проверка логина скайп](https://hackerone.com/reports/65330) to VK.com - 1 upvotes, $100
 172. [XSS on added name album on videos.](https://hackerone.com/reports/65324) to VK.com - 1 upvotes, $0

@@ -10,10 +10,10 @@ Top MFA reports from HackerOne:
 8. [2FA doesn't work in "https://insider.razer.com"](https://hackerone.com/reports/701901) to Razer - 72 upvotes, $200
 9. [Information disclosure -\> 2fa bypass -\> POST exploitation ](https://hackerone.com/reports/1276373) to Algolia - 71 upvotes, $0
 10. [“email” MFA mode allows bypassing MFA from victim’s device when the device trust is not expired](https://hackerone.com/reports/665722) to Grammarly - 66 upvotes, $2500
-11. [Session Doesn't expire after 2fa and also other session can change passsword ](https://hackerone.com/reports/2234736) to SideFX - 61 upvotes, $300
-12. [Able to blocking users with 2fa from login into their accounts by just knowing the SteamID](https://hackerone.com/reports/1179232) to CS Money - 51 upvotes, $300
+11. [Session Doesn't expire after 2fa and also other session can change passsword ](https://hackerone.com/reports/2234736) to SideFX - 65 upvotes, $300
+12. [Able to blocking users with 2fa from login into their accounts by just knowing the SteamID](https://hackerone.com/reports/1179232) to CS Money - 53 upvotes, $300
 13. [Changing the 2FA secret key and backup codes without knowing the 2FA OTP](https://hackerone.com/reports/1139535) to HackerOne - 50 upvotes, $0
-14. [Two-factor authentication enforcement bypass](https://hackerone.com/reports/1050244) to Nextcloud - 48 upvotes, $750
+14. [Two-factor authentication enforcement bypass](https://hackerone.com/reports/1050244) to Nextcloud - 49 upvotes, $750
 15. [Missing ownership check in 2FA for secondary client login](https://hackerone.com/reports/1250474) to LY Corporation - 47 upvotes, $0
 16. [bypass two-factor authentication in Android apps and web](https://hackerone.com/reports/1747978) to TikTok - 39 upvotes, $0
 17. [Two-factor authentication bypass on Grab Android App](https://hackerone.com/reports/202425) to Grab - 38 upvotes, $0

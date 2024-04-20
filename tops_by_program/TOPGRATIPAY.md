@@ -2,8 +2,8 @@ Top reports from Gratipay program at HackerOne:
 
 1. [Saying goodbye to HackerOne and Gratipay.](https://hackerone.com/reports/286728) to Gratipay - 92 upvotes, $0
 2. [Reflected XSS - gratipay.com](https://hackerone.com/reports/262852) to Gratipay - 35 upvotes, $0
-3. [Sub Domain Takeover](https://hackerone.com/reports/221133) to Gratipay - 16 upvotes, $0
-4. [i am The bug](https://hackerone.com/reports/284807) to Gratipay - 15 upvotes, $0
+3. [i am The bug](https://hackerone.com/reports/284807) to Gratipay - 17 upvotes, $0
+4. [Sub Domain Takeover](https://hackerone.com/reports/221133) to Gratipay - 16 upvotes, $0
 5. [configure a redirect URI for Facebook OAuth](https://hackerone.com/reports/140432) to Gratipay - 14 upvotes, $10
 6. [fix bug in username restriction](https://hackerone.com/reports/128121) to Gratipay - 14 upvotes, $0
 7. [SQL TEST](https://hackerone.com/reports/248037) to Gratipay - 14 upvotes, $0
@@ -21,11 +21,11 @@ Top reports from Gratipay program at HackerOne:
 19. [Sub Domain Take over](https://hackerone.com/reports/111078) to Gratipay - 8 upvotes, $0
 20. [CSV injection in gratipay.com via payment history export feature.](https://hackerone.com/reports/219323) to Gratipay - 8 upvotes, $0
 21. [Host Header Injection/Redirection Attack](https://hackerone.com/reports/157465) to Gratipay - 7 upvotes, $0
-22. [Inadequate/dangerous jQuery behavior](https://hackerone.com/reports/211149) to Gratipay - 7 upvotes, $0
-23. [protect against tabnabbing in statement](https://hackerone.com/reports/109161) to Gratipay - 7 upvotes, $0
-24. [Email Forgery through Mandrillapp SPF](https://hackerone.com/reports/117097) to Gratipay - 6 upvotes, $10
-25. [Avoid "resend verification email" confusion](https://hackerone.com/reports/156542) to Gratipay - 6 upvotes, $1
-26. [Session Fixation At Logout /Session Misconfiguration](https://hackerone.com/reports/193556) to Gratipay - 6 upvotes, $0
+22. [Session Fixation At Logout /Session Misconfiguration](https://hackerone.com/reports/193556) to Gratipay - 7 upvotes, $0
+23. [Inadequate/dangerous jQuery behavior](https://hackerone.com/reports/211149) to Gratipay - 7 upvotes, $0
+24. [protect against tabnabbing in statement](https://hackerone.com/reports/109161) to Gratipay - 7 upvotes, $0
+25. [Email Forgery through Mandrillapp SPF](https://hackerone.com/reports/117097) to Gratipay - 6 upvotes, $10
+26. [Avoid "resend verification email" confusion](https://hackerone.com/reports/156542) to Gratipay - 6 upvotes, $1
 27. [Transferring incorrect data to the http://gip.rocks/v1 endpoint with correct Content-Type leads to local paths disclosure through the error message](https://hackerone.com/reports/219601) to Gratipay - 6 upvotes, $0
 28. [[gratipay.com] CRLF Injection](https://hackerone.com/reports/79552) to Gratipay - 5 upvotes, $40
 29. [Prevent content spoofing on /~username/emails/verify.html](https://hackerone.com/reports/117187) to Gratipay - 5 upvotes, $10

@@ -1,6 +1,6 @@
 Top Clickjacking reports from HackerOne:
 
-1. [RCE of Burp  Scanner / Crawler via Clickjacking ](https://hackerone.com/reports/1274695) to PortSwigger Web Security - 159 upvotes, $3000
+1. [RCE of Burp  Scanner / Crawler via Clickjacking ](https://hackerone.com/reports/1274695) to PortSwigger Web Security - 160 upvotes, $3000
 2. [Highly wormable clickjacking in player card](https://hackerone.com/reports/85624) to X (Formerly Twitter) - 131 upvotes, $0
 3. [Twitter Periscope Clickjacking Vulnerability](https://hackerone.com/reports/591432) to X (Formerly Twitter) - 129 upvotes, $1120
 4. [Clickjacking on donation page](https://hackerone.com/reports/921709) to WordPress - 89 upvotes, $0
@@ -16,8 +16,8 @@ Top Clickjacking reports from HackerOne:
 14. [Clickjacking in the admin page](https://hackerone.com/reports/728004) to Rocket.Chat - 17 upvotes, $0
 15. [Clickjacking at join.nordvpn.com](https://hackerone.com/reports/765955) to Nord Security - 17 upvotes, $0
 16. [CRITICAL-CLICKJACKING at Yelp Reservations Resulting in exposure of victim Private Data (Email info) + Victim Credit Card MissUse. ](https://hackerone.com/reports/355859) to Yelp - 17 upvotes, $0
-17. [Clickjacking on cas.acronis.com login page](https://hackerone.com/reports/971234) to Acronis - 16 upvotes, $0
-18. [Clickjacking In jobs.wordpress.net](https://hackerone.com/reports/223024) to WordPress - 15 upvotes, $0
+17. [Clickjacking In jobs.wordpress.net](https://hackerone.com/reports/223024) to WordPress - 16 upvotes, $0
+18. [Clickjacking on cas.acronis.com login page](https://hackerone.com/reports/971234) to Acronis - 16 upvotes, $0
 19. [Clickjacking at open.rocket.chat](https://hackerone.com/reports/1584034) to Rocket.Chat - 15 upvotes, $0
 20. [Clickjacking wordcamp.org](https://hackerone.com/reports/230581) to WordPress - 14 upvotes, $0
 21. [Make user buy items via clickjacking possibility](https://hackerone.com/reports/471967) to Mail.ru - 14 upvotes, $0

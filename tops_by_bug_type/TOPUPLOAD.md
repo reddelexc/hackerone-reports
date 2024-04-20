@@ -1,8 +1,8 @@
 Top Upload reports from HackerOne:
 
-1. [Remote Code Execution on www.semrush.com/my_reports on Logo upload](https://hackerone.com/reports/403417) to Semrush - 797 upvotes, $0
-2. [Webshell via File Upload on ecjobs.starbucks.com.cn](https://hackerone.com/reports/506646) to Starbucks - 674 upvotes, $0
-3. [Blind XSS on image upload](https://hackerone.com/reports/1010466) to CS Money - 418 upvotes, $1000
+1. [Remote Code Execution on www.semrush.com/my_reports on Logo upload](https://hackerone.com/reports/403417) to Semrush - 799 upvotes, $0
+2. [Webshell via File Upload on ecjobs.starbucks.com.cn](https://hackerone.com/reports/506646) to Starbucks - 675 upvotes, $0
+3. [Blind XSS on image upload](https://hackerone.com/reports/1010466) to CS Money - 420 upvotes, $1000
 4. [Unrestricted file upload on [ambassador.mail.ru] ](https://hackerone.com/reports/854032) to Mail.ru - 404 upvotes, $3000
 5. [[ RCE ] Through stopping the redirect in /admin/* the attacker able to bypass Authentication And Upload Malicious File](https://hackerone.com/reports/683957) to Mail.ru - 340 upvotes, $0
 6. [Unrestricted file upload leads to Stored XSS](https://hackerone.com/reports/808862) to Visma Public - 268 upvotes, $250
@@ -22,21 +22,21 @@ Top Upload reports from HackerOne:
 20. [Unauthenticated user can upload an attachment to the last updated report draft](https://hackerone.com/reports/419896) to HackerOne - 81 upvotes, $0
 21. [XSS from arbitrary attachment upload.](https://hackerone.com/reports/831703) to Qulture.Rocks - 74 upvotes, $0
 22. [Open s3 bucket allows for public upload](https://hackerone.com/reports/504600) to Augur - 73 upvotes, $100
-23. [Unrestricted File Upload at ██████████](https://hackerone.com/reports/2357778) to Mars - 67 upvotes, $0
+23. [Unrestricted File Upload at ██████████](https://hackerone.com/reports/2357778) to Mars - 70 upvotes, $0
 24. [SSRF and local file disclosure by video upload on https://www.redtube.com/upload](https://hackerone.com/reports/570537) to Pornhub - 61 upvotes, $500
 25. [Cross site scripting via file upload in subdomain ads.tiktok.com](https://hackerone.com/reports/1433125) to TikTok - 61 upvotes, $500
 26. [Singapore - Unrestricted File Upload Leads to XSS on campaign.starbucks.com.sg/api/upload](https://hackerone.com/reports/883151) to Starbucks - 58 upvotes, $0
 27. [Unrestricted file upload when creating quotes allows for Stored XSS](https://hackerone.com/reports/788397) to Visma Public - 57 upvotes, $250
 28. [Stored XSS on upload files leads to steal cookie](https://hackerone.com/reports/765679) to Palo Alto Software - 56 upvotes, $0
-29. [After the upload of an private file, using transformations, the file becomes public without the possibility of changing it.](https://hackerone.com/reports/1984060) to Mozilla Critical Services - 54 upvotes, $1000
-30. [Unrestricted File Upload Results in Cross-Site Scripting Attacks](https://hackerone.com/reports/1005355) to Uber - 54 upvotes, $0
-31. [insecure storage of information, you can view any file uploaded to the server without authentication and only with a single link](https://hackerone.com/reports/2007235) to Radancy - 54 upvotes, $0
+29. [Unrestricted File Upload Results in Cross-Site Scripting Attacks](https://hackerone.com/reports/1005355) to Uber - 54 upvotes, $0
+30. [insecure storage of information, you can view any file uploaded to the server without authentication and only with a single link](https://hackerone.com/reports/2007235) to Radancy - 54 upvotes, $0
+31. [After the upload of an private file, using transformations, the file becomes public without the possibility of changing it.](https://hackerone.com/reports/1984060) to Mozilla - 54 upvotes, $0
 32. [SSRF and local file disclosure by video upload on https://www.tube8.com/](https://hackerone.com/reports/574133) to Pornhub - 53 upvotes, $500
 33. [[Kafka Connect] [JdbcSinkConnector][HttpSinkConnector] RCE by leveraging file upload via SQLite JDBC driver and SSRF to internal Jolokia](https://hackerone.com/reports/1547877) to Aiven Ltd - 50 upvotes, $5000
 34. [SSRF in VCARD photo upload functionality](https://hackerone.com/reports/296045) to Open-Xchange - 49 upvotes, $850
-35. [China - ecjobsdc.starbucks.com.cn html/shtml file upload vulnerability](https://hackerone.com/reports/412481) to Starbucks - 45 upvotes, $0
-36. [XSS Stored via Upload avatar PNG [HTML] File in accounts.shopify.com](https://hackerone.com/reports/964550) to Shopify - 44 upvotes, $0
-37. [IDOR in upload videos of a Channel on https://video.ibm.com](https://hackerone.com/reports/2085185) to IBM - 44 upvotes, $0
+35. [IDOR in upload videos of a Channel on https://video.ibm.com](https://hackerone.com/reports/2085185) to IBM - 46 upvotes, $0
+36. [China - ecjobsdc.starbucks.com.cn html/shtml file upload vulnerability](https://hackerone.com/reports/412481) to Starbucks - 45 upvotes, $0
+37. [XSS Stored via Upload avatar PNG [HTML] File in accounts.shopify.com](https://hackerone.com/reports/964550) to Shopify - 44 upvotes, $0
 38. [forum.getmonero.org Shell upload](https://hackerone.com/reports/357858) to Monero - 40 upvotes, $0
 39. [Shell upload in http://widget.support.my.com/](https://hackerone.com/reports/317043) to Mail.ru - 36 upvotes, $1000
 40. [SSRF and local file disclosure by video upload on http://www.youporn.com/](https://hackerone.com/reports/574134) to Pornhub - 35 upvotes, $500
@@ -50,9 +50,9 @@ Top Upload reports from HackerOne:
 48. [No validation to Image upload user can upload ( php APK zip files and can be used as storage purpose)](https://hackerone.com/reports/1644062) to Linktree - 27 upvotes, $0
 49. [SVG file that HTML Included is able to upload via File Manager](https://hackerone.com/reports/437863) to Concrete CMS - 26 upvotes, $0
 50. [Shell upload in partner service](https://hackerone.com/reports/369557) to Mail.ru - 25 upvotes, $500
-51. [Wordpress 4.7.2 - Two XSS in Media Upload when file too large.](https://hackerone.com/reports/203515) to WordPress - 23 upvotes, $0
-52. [XSS via unicode characters in upload filename](https://hackerone.com/reports/179695) to WordPress - 23 upvotes, $0
-53. [RCE via File Upload  with a Null Byte Truncated File Extension at https://██████/](https://hackerone.com/reports/2054184) to U.S. Dept Of Defense - 23 upvotes, $0
+51. [RCE via File Upload  with a Null Byte Truncated File Extension at https://██████/](https://hackerone.com/reports/2054184) to U.S. Dept Of Defense - 24 upvotes, $0
+52. [Wordpress 4.7.2 - Two XSS in Media Upload when file too large.](https://hackerone.com/reports/203515) to WordPress - 23 upvotes, $0
+53. [XSS via unicode characters in upload filename](https://hackerone.com/reports/179695) to WordPress - 23 upvotes, $0
 54. [File Upload XSS in image uploading of App in mopub](https://hackerone.com/reports/97672) to X (Formerly Twitter) - 22 upvotes, $560
 55. [Malicious file upload (secure.lahitapiola.fi)](https://hackerone.com/reports/305237) to LocalTapiola - 22 upvotes, $0
 56. [ XXE in upload file feature](https://hackerone.com/reports/105787) to Informatica - 21 upvotes, $0
@@ -67,7 +67,7 @@ Top Upload reports from HackerOne:
 65. [Reporters can upload design to issues using the "Move to" feature](https://hackerone.com/reports/1112297) to GitLab - 18 upvotes, $600
 66. [Unrestricted Upload of File with Dangerous Type](https://hackerone.com/reports/1081766) to Enjin - 17 upvotes, $0
 67. [(Pornhub & Youporn & Brazzers ANDROID APP) : Upload Malicious APK / Overrite Existing APK  / Android BackOffice Access ](https://hackerone.com/reports/142352) to Pornhub - 16 upvotes, $1500
-68. [Unrestricted file upload on the image of contacts](https://hackerone.com/reports/808287) to Nextcloud - 15 upvotes, $100
+68. [Unrestricted file upload on the image of contacts](https://hackerone.com/reports/808287) to Nextcloud - 16 upvotes, $100
 69. [Buddypress 2.9.1 - Exceeding the maximum upload size  - XSS leading to potential RCE. ](https://hackerone.com/reports/263109) to WordPress - 14 upvotes, $0
 70. [[█████] Bug Reports allow for Unrestricted File Upload](https://hackerone.com/reports/1850065) to U.S. Dept Of Defense - 14 upvotes, $0
 71. [SVG parser loads external resources on image upload](https://hackerone.com/reports/97501) to Shopify - 13 upvotes, $0
@@ -111,13 +111,13 @@ Top Upload reports from HackerOne:
 109. [Unrestricted file upload vulnerability in IMCE](https://hackerone.com/reports/1121317) to Acronis - 5 upvotes, $0
 110. [Image Upload Path Disclosure](https://hackerone.com/reports/158021) to Instacart - 4 upvotes, $100
 111. [Arbitrary file uploads to Amazon WS.](https://hackerone.com/reports/7929) to HackerOne - 4 upvotes, $0
-112. [Avatar image upload and bypass  real image verification ](https://hackerone.com/reports/145604) to Nextcloud - 4 upvotes, $0
-113. [potential RCE and XSS via file upload requiring user account and default settings](https://hackerone.com/reports/678727) to Nextcloud - 4 upvotes, $0
-114. [idor on upload profile functionality ](https://hackerone.com/reports/741683) to U.S. Dept Of Defense - 4 upvotes, $0
-115. [ActiveStorage direct upload fails to sign content-length header for S3 service](https://hackerone.com/reports/789579) to Ruby on Rails - 4 upvotes, $0
-116. [Unrestricted file upload leads to stored xss on https://████████/](https://hackerone.com/reports/854445) to U.S. Dept Of Defense - 4 upvotes, $0
-117. [Full path disclosure vulnerability  via Upload .htaccess file](https://hackerone.com/reports/919429) to Nextcloud - 4 upvotes, $0
-118. [Missing "size check" on files to upload could make memory leaks.](https://hackerone.com/reports/19532) to Uzbey - 3 upvotes, $0
+112. [Missing "size check" on files to upload could make memory leaks.](https://hackerone.com/reports/19532) to Uzbey - 4 upvotes, $0
+113. [Avatar image upload and bypass  real image verification ](https://hackerone.com/reports/145604) to Nextcloud - 4 upvotes, $0
+114. [potential RCE and XSS via file upload requiring user account and default settings](https://hackerone.com/reports/678727) to Nextcloud - 4 upvotes, $0
+115. [idor on upload profile functionality ](https://hackerone.com/reports/741683) to U.S. Dept Of Defense - 4 upvotes, $0
+116. [ActiveStorage direct upload fails to sign content-length header for S3 service](https://hackerone.com/reports/789579) to Ruby on Rails - 4 upvotes, $0
+117. [Unrestricted file upload leads to stored xss on https://████████/](https://hackerone.com/reports/854445) to U.S. Dept Of Defense - 4 upvotes, $0
+118. [Full path disclosure vulnerability  via Upload .htaccess file](https://hackerone.com/reports/919429) to Nextcloud - 4 upvotes, $0
 119. [Flash Cross Domain Policy Bypass by Using File Upload and Redirection - only in Chrome](https://hackerone.com/reports/51265) to Internet Bug Bounty - 3 upvotes, $0
 120. [Can upload files without authentication on AirFibre 3.2](https://hackerone.com/reports/201529) to Ubiquiti Inc. - 3 upvotes, $0
 121. [Upload directory of Mtn.co.sz has listing enabled](https://hackerone.com/reports/760484) to MTN Group - 3 upvotes, $0

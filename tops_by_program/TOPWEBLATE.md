@@ -10,10 +10,10 @@ Top reports from Weblate program at HackerOne:
 8. [Race Condition allows to get more free trials and get more than 100 languages and strings for free](https://hackerone.com/reports/1087188) to Weblate - 13 upvotes, $0
 9. [Password Restriction](https://hackerone.com/reports/229920) to Weblate - 12 upvotes, $0
 10. [Broken Authentication – Session Token bug](https://hackerone.com/reports/400826) to Weblate - 12 upvotes, $0
-11. [DKIM records not present, Email Hijacking is possible.....](https://hackerone.com/reports/253926) to Weblate - 11 upvotes, $0
-12. [flood of comment no rate  limit on commnets \>\>  by using different user agent ](https://hackerone.com/reports/404035) to Weblate - 11 upvotes, $0
-13. [Stored XSS via Create Project (Add new translation project)](https://hackerone.com/reports/610219) to Weblate - 11 upvotes, $0
-14. [Rate Limit Bypass on login Page](https://hackerone.com/reports/224460) to Weblate - 10 upvotes, $0
+11. [Rate Limit Bypass on login Page](https://hackerone.com/reports/224460) to Weblate - 11 upvotes, $0
+12. [DKIM records not present, Email Hijacking is possible.....](https://hackerone.com/reports/253926) to Weblate - 11 upvotes, $0
+13. [flood of comment no rate  limit on commnets \>\>  by using different user agent ](https://hackerone.com/reports/404035) to Weblate - 11 upvotes, $0
+14. [Stored XSS via Create Project (Add new translation project)](https://hackerone.com/reports/610219) to Weblate - 11 upvotes, $0
 15. [Account Takeover using Third party Auth CSRF](https://hackerone.com/reports/225653) to Weblate - 9 upvotes, $0
 16. [Login CSRF : Login Authentication Flaw](https://hackerone.com/reports/229528) to Weblate - 9 upvotes, $0
 17. [Rate Limit Issue on hosted.weblate.org](https://hackerone.com/reports/229825) to Weblate - 9 upvotes, $0

@@ -1,28 +1,28 @@
 Top Open Redirect reports from HackerOne:
 
-1. [[cs.money] Open Redirect Leads to Account Takeover](https://hackerone.com/reports/905607) to CS Money - 337 upvotes, $0
+1. [[cs.money] Open Redirect Leads to Account Takeover](https://hackerone.com/reports/905607) to CS Money - 338 upvotes, $0
 2. [XSS and Open Redirect on MoPub Login](https://hackerone.com/reports/683298) to X (Formerly Twitter) - 233 upvotes, $1540
 3. [Open Redirect in secure.showmax.com](https://hackerone.com/reports/749338) to Showmax - 225 upvotes, $550
 4. [Open redirect at https://inventory.upserve.com/http://google.com/](https://hackerone.com/reports/469803) to Upserve  - 162 upvotes, $1200
-5. [Open Redirect in Logout & Login](https://hackerone.com/reports/1788006) to Expedia Group Bug Bounty - 145 upvotes, $1000
+5. [Open Redirect in Logout & Login](https://hackerone.com/reports/1788006) to Expedia Group Bug Bounty - 148 upvotes, $1000
 6. [Open redirect due to scanning QR code via brave browser](https://hackerone.com/reports/1946534) to Brave Software - 133 upvotes, $0
 7. [Open Redirect on central.uber.com allows for account takeover](https://hackerone.com/reports/206591) to Uber - 130 upvotes, $8000
 8. [CRLF to XSS & Open Redirection](https://hackerone.com/reports/2012519) to TikTok - 90 upvotes, $0
 9. [Twitter lite(Android): Vulnerable to local file steal, Javascript injection, Open redirect ](https://hackerone.com/reports/499348) to X (Formerly Twitter) - 86 upvotes, $0
 10. [Open redirect vulnerability](https://hackerone.com/reports/380760) to Rockstar Games - 80 upvotes, $250
-11. [Open redirect](https://hackerone.com/reports/753399) to Nord Security - 79 upvotes, $0
+11. [Open redirect](https://hackerone.com/reports/753399) to Nord Security - 80 upvotes, $0
 12. [Open Redirect](https://hackerone.com/reports/1213580) to Affirm - 71 upvotes, $0
-13. [Reflected XSS & Open Redirect at mcs main domain](https://hackerone.com/reports/996262) to Mail.ru - 68 upvotes, $0
-14. [[dev.twitter.com] XSS and Open Redirect](https://hackerone.com/reports/260744) to X (Formerly Twitter) - 67 upvotes, $1120
-15. [Open Redirect](https://hackerone.com/reports/504751) to Omise - 65 upvotes, $100
-16. [Chained open redirects and use of Ideographic Full Stop defeat Twitter's  approach to blocking links](https://hackerone.com/reports/1032610) to X (Formerly Twitter) - 60 upvotes, $560
-17. [Open redirection at https://chaturbate.com/auth/login/](https://hackerone.com/reports/411723) to Chaturbate - 54 upvotes, $0
-18. [Google API key leaks and security misconfiguration leads Open Redirect Vulnerability](https://hackerone.com/reports/1066410) to Clario - 53 upvotes, $300
-19. [Open Redirect on http://events.hackerone.com/redirect?url=https://naglinagli.github.io](https://hackerone.com/reports/1028345) to HackerOne - 53 upvotes, $0
+13. [[dev.twitter.com] XSS and Open Redirect](https://hackerone.com/reports/260744) to X (Formerly Twitter) - 68 upvotes, $1120
+14. [Reflected XSS & Open Redirect at mcs main domain](https://hackerone.com/reports/996262) to Mail.ru - 68 upvotes, $0
+15. [Open Redirect](https://hackerone.com/reports/504751) to Omise - 66 upvotes, $100
+16. [Chained open redirects and use of Ideographic Full Stop defeat Twitter's  approach to blocking links](https://hackerone.com/reports/1032610) to X (Formerly Twitter) - 61 upvotes, $560
+17. [Google API key leaks and security misconfiguration leads Open Redirect Vulnerability](https://hackerone.com/reports/1066410) to Clario - 54 upvotes, $300
+18. [Open redirection at https://chaturbate.com/auth/login/](https://hackerone.com/reports/411723) to Chaturbate - 54 upvotes, $0
+19. [Open Redirect on http://events.hackerone.com/redirect?url=https://naglinagli.github.io](https://hackerone.com/reports/1028345) to HackerOne - 54 upvotes, $0
 20. [Open Redirection in index.php page](https://hackerone.com/reports/320376) to HackerOne - 52 upvotes, $0
 21. [Open Redirection in Login - Korean Starbucks](https://hackerone.com/reports/380939) to Starbucks - 52 upvotes, $0
-22. [Open Redirect on https://www.twitterflightschool.com/widgets/experience?destination_url=https://evil.com](https://hackerone.com/reports/1073565) to X (Formerly Twitter) - 50 upvotes, $0
-23. [Open redirect using theme install](https://hackerone.com/reports/101962) to Shopify - 49 upvotes, $0
+22. [Open redirect using theme install](https://hackerone.com/reports/101962) to Shopify - 51 upvotes, $0
+23. [Open Redirect on https://www.twitterflightschool.com/widgets/experience?destination_url=https://evil.com](https://hackerone.com/reports/1073565) to X (Formerly Twitter) - 50 upvotes, $0
 24. [[crm.unikrn.com] Open Redirect](https://hackerone.com/reports/297803) to Unikrn - 49 upvotes, $0
 25. [Reflected xss and open redirect on larksuite.com using /?back_uri= parameter.](https://hackerone.com/reports/955606) to Lark Technologies - 48 upvotes, $0
 26. [Multiple Open Redirect on TikTok domains](https://hackerone.com/reports/2221547) to TikTok - 47 upvotes, $0
@@ -43,7 +43,7 @@ Top Open Redirect reports from HackerOne:
 41. [Open Redirect Vulnerability on TikTok Ads Portal ](https://hackerone.com/reports/948150) to TikTok - 36 upvotes, $0
 42. [Open Redirect on www.redditinc.com via `failed` query param](https://hackerone.com/reports/1257753) to Reddit - 35 upvotes, $0
 43. [Open Redirect on Gitllab Oauth leading to Acount Takeover](https://hackerone.com/reports/677617) to Vercel - 34 upvotes, $0
-44. [Bypassing Content-Security-Policy leads to open-redirect and iframe xss](https://hackerone.com/reports/1166766) to Stripo Inc - 33 upvotes, $0
+44. [Bypassing Content-Security-Policy leads to open-redirect and iframe xss](https://hackerone.com/reports/1166766) to Stripo Inc - 34 upvotes, $0
 45. [Open Redirection in [https://www.hackerone.com/index.php]](https://hackerone.com/reports/562417) to HackerOne - 32 upvotes, $0
 46. [GET based Open redirect on [streamlabs.com/content-hub/streamlabs-obs/search?query=]](https://hackerone.com/reports/978680) to Logitech - 31 upvotes, $100
 47. [[http2.cloudflare.com] Open Redirect](https://hackerone.com/reports/193027) to Cloudflare Vulnerability Disclosure - 31 upvotes, $0

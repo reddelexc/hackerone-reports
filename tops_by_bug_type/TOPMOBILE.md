@@ -56,11 +56,11 @@ Top Mobile reports from HackerOne:
 54. [Exposed█████████in apk file - devbuilds.uber.com](https://hackerone.com/reports/848905) to Uber - 27 upvotes, $0
 55. [No validation to Image upload user can upload ( php APK zip files and can be used as storage purpose)](https://hackerone.com/reports/1644062) to Linktree - 27 upvotes, $0
 56. [Mail.Ru Email for Android: Injecting custom screen inside adding new account flow](https://hackerone.com/reports/741862) to Mail.ru - 26 upvotes, $750
-57. [Blind Stored XSS on iOS App due to Unsanitized Webview](https://hackerone.com/reports/575562) to Nextcloud - 25 upvotes, $100
-58. [App PIN code can be bypassed in Files iOS](https://hackerone.com/reports/2245437) to Nextcloud - 25 upvotes, $0
-59. [Leak arbitrary file under nextcloud android client privacy directory](https://hackerone.com/reports/1142918) to Nextcloud - 24 upvotes, $0
-60. [Passcode bypass on Talk Android app](https://hackerone.com/reports/1784645) to Nextcloud - 24 upvotes, $0
-61. [Facebook App API credentials leaked in the APK](https://hackerone.com/reports/1641475) to GlassWire - 24 upvotes, $0
+57. [Facebook App API credentials leaked in the APK](https://hackerone.com/reports/1641475) to GlassWire - 26 upvotes, $0
+58. [Blind Stored XSS on iOS App due to Unsanitized Webview](https://hackerone.com/reports/575562) to Nextcloud - 25 upvotes, $100
+59. [App PIN code can be bypassed in Files iOS](https://hackerone.com/reports/2245437) to Nextcloud - 25 upvotes, $0
+60. [Leak arbitrary file under nextcloud android client privacy directory](https://hackerone.com/reports/1142918) to Nextcloud - 24 upvotes, $0
+61. [Passcode bypass on Talk Android app](https://hackerone.com/reports/1784645) to Nextcloud - 24 upvotes, $0
 62. [Possibility to enumerate and bruteforce promotion codes in Uber iOS App](https://hackerone.com/reports/125707) to Uber - 23 upvotes, $3000
 63. [ICQ Android APP remote DoS](https://hackerone.com/reports/892510) to Mail.ru - 23 upvotes, $1000
 64. [Twitter for android is exposing user's location to any installed android app](https://hackerone.com/reports/185862) to X (Formerly Twitter) - 23 upvotes, $0
@@ -92,10 +92,10 @@ Top Mobile reports from HackerOne:
 90. [Local SQL Injection in Content Provider (ru.mail.data.contact.ContactsProvider) of Mail.ru for Android, version 12.2.0.29734](https://hackerone.com/reports/887968) to Mail.ru - 14 upvotes, $0
 91. [Android app does not clear end to end encryption keys](https://hackerone.com/reports/1189168) to Nextcloud - 13 upvotes, $100
 92. [[ios] Address bar spoofing in Brave for iOS](https://hackerone.com/reports/176929) to Brave Software - 13 upvotes, $0
-93. [[Razer Pay Mobile App] IDOR within /v1_IM/friends/queryDrawRedLog allowed unauthorised access to read logs](https://hackerone.com/reports/754044) to Razer - 12 upvotes, $500
-94. [Android MailRu Email: Thirdparty can access private data files with small user interaction](https://hackerone.com/reports/226191) to Mail.ru - 12 upvotes, $300
-95. [Login with Google Not Authenticated on iOS App](https://hackerone.com/reports/202177) to Instacart - 12 upvotes, $0
-96. [End to end encryption public key is not properly verified on Desktop and Android](https://hackerone.com/reports/1189162) to Nextcloud - 11 upvotes, $1500
+93. [End to end encryption public key is not properly verified on Desktop and Android](https://hackerone.com/reports/1189162) to Nextcloud - 12 upvotes, $1500
+94. [[Razer Pay Mobile App] IDOR within /v1_IM/friends/queryDrawRedLog allowed unauthorised access to read logs](https://hackerone.com/reports/754044) to Razer - 12 upvotes, $500
+95. [Android MailRu Email: Thirdparty can access private data files with small user interaction](https://hackerone.com/reports/226191) to Mail.ru - 12 upvotes, $300
+96. [Login with Google Not Authenticated on iOS App](https://hackerone.com/reports/202177) to Instacart - 12 upvotes, $0
 97. [Upgrade menu exposes the mobile application token meant to only be visible to administrators ](https://hackerone.com/reports/447975) to New Relic - 11 upvotes, $750
 98. [Email leak in transcations in Android app](https://hackerone.com/reports/126376) to Coinbase - 11 upvotes, $500
 99. [Access to arbitrary file of the Nextcloud Android app from within the Nextcloud Android app](https://hackerone.com/reports/1408692) to Nextcloud - 11 upvotes, $250
@@ -108,11 +108,11 @@ Top Mobile reports from HackerOne:
 106. [Insecure Storage and Overly Permissive Google Maps API Key in Android App](https://hackerone.com/reports/488371) to Mail.ru - 10 upvotes, $0
 107. [Hard-coded API keys at NordVpn Android App](https://hackerone.com/reports/792850) to Nord Security - 10 upvotes, $0
 108. [NordVPN Android Application privacy violation due to Google Advertising Identifier misuse](https://hackerone.com/reports/803941) to Nord Security - 10 upvotes, $0
-109. [[Java] CWE-312: Query to detect cleartext storage of sensitive information using Android SharedPreferences](https://hackerone.com/reports/1122661) to GitHub Security Lab - 9 upvotes, $4500
-110. [Phishing/Malware site blocking on Brave iOS can be bypassed with trailing dot in hostname](https://hackerone.com/reports/1068505) to Brave Software - 9 upvotes, $250
-111. [Brute force login and bypass locked account restrictions via iOS app](https://hackerone.com/reports/160109) to Instacart - 9 upvotes, $0
-112. [Mapbox Android SDK uses Broadcast Receiver instead of Local Broadcast Manager](https://hackerone.com/reports/192886) to Mapbox - 9 upvotes, $0
-113. [Theft of arbitrary files in LINE Lite client for Android](https://hackerone.com/reports/1094702) to LY Corporation - 9 upvotes, $0
+109. [Theft of arbitrary files in LINE Lite client for Android](https://hackerone.com/reports/1094702) to LY Corporation - 10 upvotes, $0
+110. [[Java] CWE-312: Query to detect cleartext storage of sensitive information using Android SharedPreferences](https://hackerone.com/reports/1122661) to GitHub Security Lab - 9 upvotes, $4500
+111. [Phishing/Malware site blocking on Brave iOS can be bypassed with trailing dot in hostname](https://hackerone.com/reports/1068505) to Brave Software - 9 upvotes, $250
+112. [Brute force login and bypass locked account restrictions via iOS app](https://hackerone.com/reports/160109) to Instacart - 9 upvotes, $0
+113. [Mapbox Android SDK uses Broadcast Receiver instead of Local Broadcast Manager](https://hackerone.com/reports/192886) to Mapbox - 9 upvotes, $0
 114. [DoS in Brave browser for iOS](https://hackerone.com/reports/357665) to Brave Software - 8 upvotes, $80
 115. [Coinbase Android Security Vulnerabilities](https://hackerone.com/reports/5786) to Coinbase - 8 upvotes, $0
 116. [XSS when replying / forwarding to a malicious email on iOS](https://hackerone.com/reports/264177) to Mail.ru - 8 upvotes, $0
@@ -150,15 +150,15 @@ Top Mobile reports from HackerOne:
 148. [[Java] CWE-200: Query to detect exposure of sensitive information from android file intent](https://hackerone.com/reports/1365761) to GitHub Security Lab - 3 upvotes, $1800
 149. [Bypass pin(4 digit passcode on your android app)](https://hackerone.com/reports/50884) to Whisper - 3 upvotes, $100
 150. [iOS application does not destroy session upon logout.](https://hackerone.com/reports/7041) to IRCCloud - 3 upvotes, $0
-151. [User's DM won't deleted after logout from Twitter for iOS (com.atebits.xxx.application-state)](https://hackerone.com/reports/23913) to X (Formerly Twitter) - 3 upvotes, $0
-152. [Lack of SSL Pinning on POS Application ( iOS )](https://hackerone.com/reports/55644) to Shopify - 3 upvotes, $0
-153. [[iOS] URI Obfuscation in iOS application](https://hackerone.com/reports/176159) to Brave Software - 3 upvotes, $0
-154. [Retrieval and alteration of exposed media on Android Oreo ](https://hackerone.com/reports/462441) to Nextcloud - 3 upvotes, $0
-155. [**minor issue ** -Nextcloud 10.0 session issue with desktop client and android client](https://hackerone.com/reports/165353) to Nextcloud - 3 upvotes, $0
-156. [Misconfiguration of Merchant id in jwt header + Weird Debug mode enabling behavior leads to exposed OTP of mobile number.](https://hackerone.com/reports/1080901) to Kartpay - 3 upvotes, $0
-157. [Android App Crashes while sending message to users/ on channel ](https://hackerone.com/reports/832217) to Rocket.Chat - 3 upvotes, $0
-158. [Unproper usage of Mobile Number that will lead to Information Disclosure](https://hackerone.com/reports/9116) to Mail.ru - 2 upvotes, $0
-159. [secret app for iOS and android is sending some info over HTTP](https://hackerone.com/reports/12977) to Secret - 2 upvotes, $0
+151. [secret app for iOS and android is sending some info over HTTP](https://hackerone.com/reports/12977) to Secret - 3 upvotes, $0
+152. [User's DM won't deleted after logout from Twitter for iOS (com.atebits.xxx.application-state)](https://hackerone.com/reports/23913) to X (Formerly Twitter) - 3 upvotes, $0
+153. [Lack of SSL Pinning on POS Application ( iOS )](https://hackerone.com/reports/55644) to Shopify - 3 upvotes, $0
+154. [[iOS] URI Obfuscation in iOS application](https://hackerone.com/reports/176159) to Brave Software - 3 upvotes, $0
+155. [Retrieval and alteration of exposed media on Android Oreo ](https://hackerone.com/reports/462441) to Nextcloud - 3 upvotes, $0
+156. [**minor issue ** -Nextcloud 10.0 session issue with desktop client and android client](https://hackerone.com/reports/165353) to Nextcloud - 3 upvotes, $0
+157. [Misconfiguration of Merchant id in jwt header + Weird Debug mode enabling behavior leads to exposed OTP of mobile number.](https://hackerone.com/reports/1080901) to Kartpay - 3 upvotes, $0
+158. [Android App Crashes while sending message to users/ on channel ](https://hackerone.com/reports/832217) to Rocket.Chat - 3 upvotes, $0
+159. [Unproper usage of Mobile Number that will lead to Information Disclosure](https://hackerone.com/reports/9116) to Mail.ru - 2 upvotes, $0
 160. [Content Spoofing vulnerability in Mail.ru mobile](https://hackerone.com/reports/10927) to Mail.ru - 2 upvotes, $0
 161. [Code for registration of qiwi account is not coming even after a long interval of time for Indian mobile number](https://hackerone.com/reports/35532) to QIWI - 2 upvotes, $0
 162. [iOS App can establish Facetime calls without user's permission](https://hackerone.com/reports/28500) to X (Formerly Twitter) - 2 upvotes, $0
