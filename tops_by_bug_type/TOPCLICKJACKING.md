@@ -12,8 +12,8 @@ Top Clickjacking reports from HackerOne:
 10. [URL is vulnerable to clickjacking  https://app.passit.io/](https://hackerone.com/reports/530008) to Passit - 28 upvotes, $0
 11. [Clickjacking Vulnerability Can Leads To Delete Developer APP](https://hackerone.com/reports/1416612) to TikTok - 23 upvotes, $500
 12. [Clickjacking at ylands.com](https://hackerone.com/reports/405342) to BOHEMIA INTERACTIVE a.s. - 19 upvotes, $80
-13. [Clickjacking in [exchangemarketplace.com]](https://hackerone.com/reports/658217) to Shopify - 17 upvotes, $0
-14. [Clickjacking in the admin page](https://hackerone.com/reports/728004) to Rocket.Chat - 17 upvotes, $0
+13. [Clickjacking in the admin page](https://hackerone.com/reports/728004) to Rocket.Chat - 18 upvotes, $0
+14. [Clickjacking in [exchangemarketplace.com]](https://hackerone.com/reports/658217) to Shopify - 17 upvotes, $0
 15. [Clickjacking at join.nordvpn.com](https://hackerone.com/reports/765955) to Nord Security - 17 upvotes, $0
 16. [CRITICAL-CLICKJACKING at Yelp Reservations Resulting in exposure of victim Private Data (Email info) + Victim Credit Card MissUse. ](https://hackerone.com/reports/355859) to Yelp - 17 upvotes, $0
 17. [Clickjacking In jobs.wordpress.net](https://hackerone.com/reports/223024) to WordPress - 16 upvotes, $0
@@ -61,14 +61,14 @@ Top Clickjacking reports from HackerOne:
 59. [Khan Academy ClickJacking to Steal Users's Credintials](https://hackerone.com/reports/639682) to Khan Academy - 6 upvotes, $0
 60. [Clickjacking Vulnerability via https://profile.my.games/gamecenter/profile/ can lead to sensitive cross site actions (Bypass X-Frame-Options)](https://hackerone.com/reports/974090) to Mail.ru - 6 upvotes, $0
 61. [Vulnerable for clickjacking attack](https://hackerone.com/reports/1188639) to Sifchain - 6 upvotes, $0
-62. [Click Jacking](https://hackerone.com/reports/163888) to Legal Robot - 5 upvotes, $0
-63. [Missing security headers, possible clickjacking](https://hackerone.com/reports/64645) to Legal Robot - 5 upvotes, $0
-64. [https://admin.corp.cuvva.co/ is vulnerable to Clickjacking attacks due to missing X-Frame-Options ](https://hackerone.com/reports/231434) to Cuvva - 5 upvotes, $0
-65. [Clickjacking docs.weblate.org](https://hackerone.com/reports/223391) to Weblate - 5 upvotes, $0
-66. [clickjacking on https://gratipay.com/on/npm/[text]](https://hackerone.com/reports/267189) to Gratipay - 5 upvotes, $0
-67. [ClickJacking on IMPORTANT Functions of Yelp](https://hackerone.com/reports/305128) to Yelp - 5 upvotes, $0
-68. [Clickjacking Vulnerability via https://www.donationalerts.com/help/support leads to bypass for widget.support.my.games X-Frame Options](https://hackerone.com/reports/1027192) to Mail.ru - 5 upvotes, $0
-69. [Shop - Reflected  XSS  With  Clickjacking Leads to Steal User's Cookie  In Two Domain](https://hackerone.com/reports/1221942) to Meredith - 5 upvotes, $0
+62. [Shop - Reflected  XSS  With  Clickjacking Leads to Steal User's Cookie  In Two Domain](https://hackerone.com/reports/1221942) to Meredith - 6 upvotes, $0
+63. [Click Jacking](https://hackerone.com/reports/163888) to Legal Robot - 5 upvotes, $0
+64. [Missing security headers, possible clickjacking](https://hackerone.com/reports/64645) to Legal Robot - 5 upvotes, $0
+65. [https://admin.corp.cuvva.co/ is vulnerable to Clickjacking attacks due to missing X-Frame-Options ](https://hackerone.com/reports/231434) to Cuvva - 5 upvotes, $0
+66. [Clickjacking docs.weblate.org](https://hackerone.com/reports/223391) to Weblate - 5 upvotes, $0
+67. [clickjacking on https://gratipay.com/on/npm/[text]](https://hackerone.com/reports/267189) to Gratipay - 5 upvotes, $0
+68. [ClickJacking on IMPORTANT Functions of Yelp](https://hackerone.com/reports/305128) to Yelp - 5 upvotes, $0
+69. [Clickjacking Vulnerability via https://www.donationalerts.com/help/support leads to bypass for widget.support.my.games X-Frame Options](https://hackerone.com/reports/1027192) to Mail.ru - 5 upvotes, $0
 70. [ClickJacking on http://au.launch.yahoo.com](https://hackerone.com/reports/1229) to Yahoo! - 4 upvotes, $0
 71. [Clickjacking: X-Frame-Options header missing](https://hackerone.com/reports/163646) to Legal Robot - 4 upvotes, $0
 72. [Clickjacking In https://demo.nextcloud.com](https://hackerone.com/reports/222762) to Nextcloud - 4 upvotes, $0

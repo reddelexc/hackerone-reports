@@ -3,14 +3,14 @@ Top reports from Mail.ru program at HackerOne:
 1. [Time-Based SQL injection at city-mobil.ru](https://hackerone.com/reports/868436) to Mail.ru - 631 upvotes, $15000
 2. [touch.mail.ru / e.mail.ru memory content disclosure](https://hackerone.com/reports/513236) to Mail.ru - 409 upvotes, $10000
 3. [Unrestricted file upload on [ambassador.mail.ru] ](https://hackerone.com/reports/854032) to Mail.ru - 404 upvotes, $3000
-4. [Account Takeover worki.ru](https://hackerone.com/reports/744662) to Mail.ru - 390 upvotes, $1700
+4. [Account Takeover worki.ru](https://hackerone.com/reports/744662) to Mail.ru - 391 upvotes, $1700
 5. [Cross-organization data access in city-mobil.ru](https://hackerone.com/reports/863983) to Mail.ru - 373 upvotes, $8000
 6. [SQL injection at fleet.city-mobil.ru](https://hackerone.com/reports/881901) to Mail.ru - 372 upvotes, $10000
 7. [RCE on shared.mail.ru due to "widget" plugin](https://hackerone.com/reports/518637) to Mail.ru - 359 upvotes, $10000
 8. [Account TakeOver at my.33slona.ru](https://hackerone.com/reports/773519) to Mail.ru - 359 upvotes, $1700
 9. [SSRF & LFR via on city-mobil.ru](https://hackerone.com/reports/748123) to Mail.ru - 343 upvotes, $0
 10. [[ RCE ] Through stopping the redirect in /admin/* the attacker able to bypass Authentication And Upload Malicious File](https://hackerone.com/reports/683957) to Mail.ru - 340 upvotes, $0
-11. [[windows10.hi-tech.mail.ru]  Blind SQL Injection ](https://hackerone.com/reports/786044) to Mail.ru - 329 upvotes, $5000
+11. [[windows10.hi-tech.mail.ru]  Blind SQL Injection ](https://hackerone.com/reports/786044) to Mail.ru - 330 upvotes, $5000
 12. [[fleet.city-mobil.ru] Driver balance increasing](https://hackerone.com/reports/751347) to Mail.ru - 319 upvotes, $0
 13. [SSRF on fleet.city-mobil.ru leads to local file read](https://hackerone.com/reports/748069) to Mail.ru - 272 upvotes, $0
 14. [XXE on pulse.mail.ru](https://hackerone.com/reports/505947) to Mail.ru - 264 upvotes, $6000
@@ -24,7 +24,7 @@ Top reports from Mail.ru program at HackerOne:
 22. [Cross application scripting via account.mail.ru](https://hackerone.com/reports/470380) to Mail.ru - 205 upvotes, $5000
 23. [Debug Mode Leak Critical Information [ AWS Keys , SMTP , Database , Django Secret Key ( RCE )  , Dodoc , Telegram , Twilio .. ]](https://hackerone.com/reports/1083543) to Mail.ru - 205 upvotes, $0
 24. [read new emails from any inbox IOS APP in notification center](https://hackerone.com/reports/977212) to Mail.ru - 186 upvotes, $10000
-25. [Незащищённый экземпляр Zeppelin ](https://hackerone.com/reports/992564) to Mail.ru - 164 upvotes, $35000
+25. [Незащищённый экземпляр Zeppelin ](https://hackerone.com/reports/992564) to Mail.ru - 166 upvotes, $35000
 26. [JMX RMI command injection on 195.211.131.82(Mail.ru Gaming)](https://hackerone.com/reports/703910) to Mail.ru - 163 upvotes, $2000
 27. [SQL Injection [unauthenticated] with direct output at https://news.mail.ru/](https://hackerone.com/reports/818972) to Mail.ru - 156 upvotes, $7500
 28. [Information disclosure with sensitive data](https://hackerone.com/reports/703600) to Mail.ru - 156 upvotes, $1500
@@ -40,7 +40,7 @@ Top reports from Mail.ru program at HackerOne:
 38. [worki.ru: SMS code bruteforce](https://hackerone.com/reports/700612) to Mail.ru - 136 upvotes, $1657
 39. [SSRF in clients.city-mobil.ru](https://hackerone.com/reports/712103) to Mail.ru - 132 upvotes, $1500
 40. [SSRF in filtering on relap.io](https://hackerone.com/reports/739962) to Mail.ru - 130 upvotes, $0
-41. [[api.pandao.ru] IDOR for order delivery address](https://hackerone.com/reports/723461) to Mail.ru - 123 upvotes, $3000
+41. [[api.pandao.ru] IDOR for order delivery address](https://hackerone.com/reports/723461) to Mail.ru - 125 upvotes, $3000
 42. [SMS Brute Force Possibility via https://youdrive.today/login/web/code can lead to Account Takeover](https://hackerone.com/reports/922418) to Mail.ru - 121 upvotes, $0
 43. ["😂" + Unauthenticated Stored XSS in API at https://api.my.games/comments/v1/comments/update/](https://hackerone.com/reports/853637) to Mail.ru - 118 upvotes, $0
 44. [web.icq.com XSS in chat message via contact info](https://hackerone.com/reports/810872) to Mail.ru - 116 upvotes, $0
@@ -135,10 +135,10 @@ Top reports from Mail.ru program at HackerOne:
 133. [[api-site.city-mobil.ru] Improper access control leads to information disclosure](https://hackerone.com/reports/977597) to Mail.ru - 34 upvotes, $0
 134. [Bypass the reverse proxy. Request admin](https://hackerone.com/reports/1056676) to Mail.ru - 34 upvotes, $0
 135. [SSRF at jira.plazius.ru - CVE-2019-8451](https://hackerone.com/reports/900618) to Mail.ru - 34 upvotes, $0
-136. [Blind SSRF on [relap.io]](https://hackerone.com/reports/785384) to Mail.ru - 33 upvotes, $1000
-137. [XSS in biz.mail.ru/error](https://hackerone.com/reports/268245) to Mail.ru - 33 upvotes, $500
-138. [Blind SQL injection [https://honor.hi-tech.mail.ru]](https://hackerone.com/reports/398131) to Mail.ru - 33 upvotes, $300
-139. [[api.pandao.ru] IDOR позволяет изменять адрес любого пользователя](https://hackerone.com/reports/484339) to Mail.ru - 33 upvotes, $0
+136. [[api.pandao.ru] IDOR позволяет изменять адрес любого пользователя](https://hackerone.com/reports/484339) to Mail.ru - 33 upvotes, $1000
+137. [Blind SSRF on [relap.io]](https://hackerone.com/reports/785384) to Mail.ru - 33 upvotes, $1000
+138. [XSS in biz.mail.ru/error](https://hackerone.com/reports/268245) to Mail.ru - 33 upvotes, $500
+139. [Blind SQL injection [https://honor.hi-tech.mail.ru]](https://hackerone.com/reports/398131) to Mail.ru - 33 upvotes, $300
 140. [[XSS] postMessage в jsapi/button](https://hackerone.com/reports/503707) to Mail.ru - 33 upvotes, $0
 141. [IDOR смена email пользователя через Ситимобил Бизнес](https://hackerone.com/reports/971422) to Mail.ru - 33 upvotes, $0
 142. [Possible access to the car's photo and registration by its ID on [fleet.city-mobil.ru]](https://hackerone.com/reports/950507) to Mail.ru - 31 upvotes, $5000
@@ -181,11 +181,11 @@ Top reports from Mail.ru program at HackerOne:
 179. [Un Authencitated Quartz Pannel with Scheduling tasks ](https://hackerone.com/reports/933620) to Mail.ru - 25 upvotes, $0
 180. [ Disk-o Cloud application (Windows) does not validate server certificate on a TLS connection](https://hackerone.com/reports/1026893) to Mail.ru - 24 upvotes, $2500
 181. [Reflected XSS on https://e.mail.ru/compose/ via Body parameter](https://hackerone.com/reports/1000363) to Mail.ru - 24 upvotes, $1000
-182. [[e.mail.ru] Stored xss in Mpop cookie](https://hackerone.com/reports/454401) to Mail.ru - 24 upvotes, $600
-183. [XSS via the lang parameter in a POST request on light.mail.ru](https://hackerone.com/reports/496128) to Mail.ru - 24 upvotes, $500
-184. [Stored XSS in api.icq.net](https://hackerone.com/reports/363042) to Mail.ru - 24 upvotes, $150
-185. [XSS in touch.mail.ru ](https://hackerone.com/reports/409440) to Mail.ru - 24 upvotes, $0
-186. [[XSS] iframe в payments/phones](https://hackerone.com/reports/496757) to Mail.ru - 24 upvotes, $0
+182. [XSS via the lang parameter in a POST request on light.mail.ru](https://hackerone.com/reports/496128) to Mail.ru - 24 upvotes, $500
+183. [Stored XSS in api.icq.net](https://hackerone.com/reports/363042) to Mail.ru - 24 upvotes, $150
+184. [XSS in touch.mail.ru ](https://hackerone.com/reports/409440) to Mail.ru - 24 upvotes, $0
+185. [[XSS] iframe в payments/phones](https://hackerone.com/reports/496757) to Mail.ru - 24 upvotes, $0
+186. [[e.mail.ru] Stored xss in Mpop cookie](https://hackerone.com/reports/454401) to Mail.ru - 24 upvotes, $0
 187. [JSONP hijacking](https://hackerone.com/reports/482780) to Mail.ru - 24 upvotes, $0
 188. [Stored XSS in Review Section https://games.mail.ru/](https://hackerone.com/reports/764935) to Mail.ru - 24 upvotes, $0
 189. [Sensitive information exposure via git commit](https://hackerone.com/reports/902064) to Mail.ru - 24 upvotes, $0
@@ -278,17 +278,17 @@ Top reports from Mail.ru program at HackerOne:
 276. [SSRF + RCE через fastCGI в  POST /api/nr/video](https://hackerone.com/reports/1354335) to Mail.ru - 16 upvotes, $0
 277. [Account takeover at geekbrains.ru](https://hackerone.com/reports/761655) to Mail.ru - 15 upvotes, $1500
 278. [Gain access to random information via group chat "about" property](https://hackerone.com/reports/254285) to Mail.ru - 15 upvotes, $1000
-279. [[pulse.mail.ru] Доступ к статистике чужих площадок](https://hackerone.com/reports/831663) to Mail.ru - 15 upvotes, $400
-280. [Potential SSRF in sales.mail.ru](https://hackerone.com/reports/97395) to Mail.ru - 15 upvotes, $300
-281. [Вывод значений переменных Nginx в теле страницы](https://hackerone.com/reports/370094) to Mail.ru - 15 upvotes, $300
-282. [mailer.i.bizml.ru viber service preprod information disclosure](https://hackerone.com/reports/836149) to Mail.ru - 15 upvotes, $300
-283. [Stored XSS на странице "Изменить клиента" [city-mobil.ru/taxiserv]](https://hackerone.com/reports/1050022) to Mail.ru - 15 upvotes, $150
-284. [[cfire.mail.ru] CSRF Bypassed - Changing anyone's 'User Info'](https://hackerone.com/reports/161408) to Mail.ru - 15 upvotes, $0
-285. [Stored XSS](https://hackerone.com/reports/214484) to Mail.ru - 15 upvotes, $0
-286. [BruteForce Any [My.com] Account Credentials.](https://hackerone.com/reports/238041) to Mail.ru - 15 upvotes, $0
-287. [Same origin policy bypass on e.mail.ru via Cross-Site Flashing](https://hackerone.com/reports/164916) to Mail.ru - 15 upvotes, $0
-288. [Cross site scripting vulnerability in JW Player SWF](https://hackerone.com/reports/496883) to Mail.ru - 15 upvotes, $0
-289. [XSS на странице account.mail.ru/recovery](https://hackerone.com/reports/381762) to Mail.ru - 15 upvotes, $0
+279. [XSS на странице account.mail.ru/recovery](https://hackerone.com/reports/381762) to Mail.ru - 15 upvotes, $500
+280. [[pulse.mail.ru] Доступ к статистике чужих площадок](https://hackerone.com/reports/831663) to Mail.ru - 15 upvotes, $400
+281. [Potential SSRF in sales.mail.ru](https://hackerone.com/reports/97395) to Mail.ru - 15 upvotes, $300
+282. [Вывод значений переменных Nginx в теле страницы](https://hackerone.com/reports/370094) to Mail.ru - 15 upvotes, $300
+283. [mailer.i.bizml.ru viber service preprod information disclosure](https://hackerone.com/reports/836149) to Mail.ru - 15 upvotes, $300
+284. [Stored XSS на странице "Изменить клиента" [city-mobil.ru/taxiserv]](https://hackerone.com/reports/1050022) to Mail.ru - 15 upvotes, $150
+285. [[cfire.mail.ru] CSRF Bypassed - Changing anyone's 'User Info'](https://hackerone.com/reports/161408) to Mail.ru - 15 upvotes, $0
+286. [Stored XSS](https://hackerone.com/reports/214484) to Mail.ru - 15 upvotes, $0
+287. [BruteForce Any [My.com] Account Credentials.](https://hackerone.com/reports/238041) to Mail.ru - 15 upvotes, $0
+288. [Same origin policy bypass on e.mail.ru via Cross-Site Flashing](https://hackerone.com/reports/164916) to Mail.ru - 15 upvotes, $0
+289. [Cross site scripting vulnerability in JW Player SWF](https://hackerone.com/reports/496883) to Mail.ru - 15 upvotes, $0
 290. [Cross-site Scripting (XSS) - Stored in ru.mail.mailapp](https://hackerone.com/reports/544782) to Mail.ru - 15 upvotes, $0
 291. [Race condition при покупке подарков на games.mail.ru](https://hackerone.com/reports/685432) to Mail.ru - 15 upvotes, $0
 292. [idor leads to leak order information](https://hackerone.com/reports/791289) to Mail.ru - 15 upvotes, $0
@@ -379,12 +379,12 @@ Top reports from Mail.ru program at HackerOne:
 377. [[account.mail.ru] XSS на странице восстановления пароля](https://hackerone.com/reports/360787) to Mail.ru - 11 upvotes, $500
 378. [Stored Blind XSS](https://hackerone.com/reports/326918) to Mail.ru - 11 upvotes, $500
 379. [[dobro.city-mobil.ru] Недостаточная аутентификация (доступ к панели администратора)](https://hackerone.com/reports/714673) to Mail.ru - 11 upvotes, $500
-380. [Disclosure of the account email by phone number on [corporate.city-mobil.ru]](https://hackerone.com/reports/996981) to Mail.ru - 11 upvotes, $150
-381. [XSS on https://www.delivery-club.ru/sd/test_330933/info/](https://hackerone.com/reports/330974) to Mail.ru - 11 upvotes, $100
-382. [CSRF на покупку товара https://lootdog.io/](https://hackerone.com/reports/317372) to Mail.ru - 11 upvotes, $100
-383. [Stored self-XSS pubg.mail.ru в нескольких местах](https://hackerone.com/reports/280826) to Mail.ru - 11 upvotes, $0
-384. [XSS через подгрузку ссылки.](https://hackerone.com/reports/282602) to Mail.ru - 11 upvotes, $0
-385. [[et.mail.ru] ssrf 2](https://hackerone.com/reports/258237) to Mail.ru - 11 upvotes, $0
+380. [[et.mail.ru] ssrf 2](https://hackerone.com/reports/258237) to Mail.ru - 11 upvotes, $150
+381. [Disclosure of the account email by phone number on [corporate.city-mobil.ru]](https://hackerone.com/reports/996981) to Mail.ru - 11 upvotes, $150
+382. [XSS on https://www.delivery-club.ru/sd/test_330933/info/](https://hackerone.com/reports/330974) to Mail.ru - 11 upvotes, $100
+383. [CSRF на покупку товара https://lootdog.io/](https://hackerone.com/reports/317372) to Mail.ru - 11 upvotes, $100
+384. [Stored self-XSS pubg.mail.ru в нескольких местах](https://hackerone.com/reports/280826) to Mail.ru - 11 upvotes, $0
+385. [XSS через подгрузку ссылки.](https://hackerone.com/reports/282602) to Mail.ru - 11 upvotes, $0
 386. [[web.icq.com] Stored XSS in link when sending message](https://hackerone.com/reports/339237) to Mail.ru - 11 upvotes, $0
 387. [Блокированный ящик ( Обход )](https://hackerone.com/reports/413303) to Mail.ru - 11 upvotes, $0
 388. [Disclosure of user email address and Deanonymization [mail.ru] + Blind | Stored XSS pets.mail.ru](https://hackerone.com/reports/334230) to Mail.ru - 11 upvotes, $0
@@ -457,39 +457,39 @@ Top reports from Mail.ru program at HackerOne:
 455. [[https://city-mobil.ru/taxiserv] IDOR leads to information disclosure](https://hackerone.com/reports/746513) to Mail.ru - 9 upvotes, $0
 456. [xss in ub.icq.net](https://hackerone.com/reports/819428) to Mail.ru - 9 upvotes, $0
 457. [Broken twitter link hijacking at https://games.mail.ru/pc/search/](https://hackerone.com/reports/975653) to Mail.ru - 9 upvotes, $0
-458. [IDOR zakazaka (состояние заказа и перезаказ)](https://hackerone.com/reports/956799) to Mail.ru - 9 upvotes, $0
-459. [Improper Restriction of Excessive Authentication Attempts via https://certification.mail.ru/auth-form/?form=auth_certy (Rate limit Bypass)](https://hackerone.com/reports/1023635) to Mail.ru - 9 upvotes, $0
-460. [[xss] setTheme в ajax_attach_action](https://hackerone.com/reports/800414) to Mail.ru - 9 upvotes, $0
-461. [XSS on https://o2.mail.ru/jsapi/button via PostMessage](https://hackerone.com/reports/868570) to Mail.ru - 9 upvotes, $0
-462. [IDOR to delete test/poll/quiz on relap.io](https://hackerone.com/reports/1107126) to Mail.ru - 9 upvotes, $0
-463. [Brute Force due to Weak security credentials lead access to LICENSE SYSTEM Web Server on [l.ucs.ru]](https://hackerone.com/reports/992114) to Mail.ru - 9 upvotes, $0
-464. [Possibility to view subdepartments for arbitrary domain](https://hackerone.com/reports/287378) to Mail.ru - 8 upvotes, $500
-465. [A manager of a determinate group of users still might have access to any user account from any group that he doesn't administrate anymore.](https://hackerone.com/reports/268228) to Mail.ru - 8 upvotes, $500
-466. [[account.mail.ru] XSS на странице удаления аккаунта через backUrl](https://hackerone.com/reports/360191) to Mail.ru - 8 upvotes, $500
-467. [Stored Xss ](https://hackerone.com/reports/964167) to Mail.ru - 8 upvotes, $200
-468. [[upload-X.my.mail.ru] /uploadphoto Insecure Direct Object References](https://hackerone.com/reports/140548) to Mail.ru - 8 upvotes, $160
-469. [Possible to Upload Local Arbitrary Private File to the Cloud  against User's Will](https://hackerone.com/reports/384472) to Mail.ru - 8 upvotes, $150
-470. [HTML injection in an email [delivery.city-mobil.ru]](https://hackerone.com/reports/1034317) to Mail.ru - 8 upvotes, $150
-471. [CSRF Delete chat invitation link.](https://hackerone.com/reports/970902) to Mail.ru - 8 upvotes, $100
-472. [Cross site scripting](https://hackerone.com/reports/78412) to Mail.ru - 8 upvotes, $0
-473. [[odnoklassniki.ru] XSS via Host](https://hackerone.com/reports/39316) to Mail.ru - 8 upvotes, $0
-474. [XSS when replying / forwarding to a malicious email on iOS](https://hackerone.com/reports/264177) to Mail.ru - 8 upvotes, $0
-475. [XSS on account.mail.ru/login](https://hackerone.com/reports/291522) to Mail.ru - 8 upvotes, $0
-476. [Stored self-xss and its escalation to a victim account in e.mail.ru](https://hackerone.com/reports/319483) to Mail.ru - 8 upvotes, $0
-477. [XSS in delivery club](https://hackerone.com/reports/311413) to Mail.ru - 8 upvotes, $0
-478. [Double authentication bypass](https://hackerone.com/reports/323906) to Mail.ru - 8 upvotes, $0
-479. [Full account takeover am.ru](https://hackerone.com/reports/329263) to Mail.ru - 8 upvotes, $0
-480. [[lk-cdn.3igames.mail.ru] apc.php](https://hackerone.com/reports/277664) to Mail.ru - 8 upvotes, $0
-481. [Reflected cross site scripting at https://auto.mail.ru/reviews/add_review/ via problems_text parameter.](https://hackerone.com/reports/536341) to Mail.ru - 8 upvotes, $0
-482. [XSS при загрузке изображения на [games.mail.ru]](https://hackerone.com/reports/614441) to Mail.ru - 8 upvotes, $0
-483. [Information Disclosure - Получаем доступ к работам и к приватным презентациям к курсам](https://hackerone.com/reports/661873) to Mail.ru - 8 upvotes, $0
-484. [XSS via HTTP request version in account.my.games](https://hackerone.com/reports/781282) to Mail.ru - 8 upvotes, $0
-485. [CSRF on https://market.my.games](https://hackerone.com/reports/802930) to Mail.ru - 8 upvotes, $0
-486. [Http Response Splitting on  thumb.cloud.mail.ru](https://hackerone.com/reports/838682) to Mail.ru - 8 upvotes, $0
-487. [Subdomain Takeover at blog.instamart.ru](https://hackerone.com/reports/894431) to Mail.ru - 8 upvotes, $0
-488. [[api.my.games/social/chat/multi/add] Privilege escalation on adding new members  to group chat ](https://hackerone.com/reports/974878) to Mail.ru - 8 upvotes, $0
-489. [Blind SSRF on http://info.ucs.ru/settings/check/](https://hackerone.com/reports/901050) to Mail.ru - 8 upvotes, $0
-490. [Improper Restriction of Excessive Authentication Attempts at https://ucs.ru/login](https://hackerone.com/reports/905194) to Mail.ru - 8 upvotes, $0
+458. [Improper Restriction of Excessive Authentication Attempts at https://ucs.ru/login](https://hackerone.com/reports/905194) to Mail.ru - 9 upvotes, $0
+459. [IDOR zakazaka (состояние заказа и перезаказ)](https://hackerone.com/reports/956799) to Mail.ru - 9 upvotes, $0
+460. [Improper Restriction of Excessive Authentication Attempts via https://certification.mail.ru/auth-form/?form=auth_certy (Rate limit Bypass)](https://hackerone.com/reports/1023635) to Mail.ru - 9 upvotes, $0
+461. [[xss] setTheme в ajax_attach_action](https://hackerone.com/reports/800414) to Mail.ru - 9 upvotes, $0
+462. [XSS on https://o2.mail.ru/jsapi/button via PostMessage](https://hackerone.com/reports/868570) to Mail.ru - 9 upvotes, $0
+463. [IDOR to delete test/poll/quiz on relap.io](https://hackerone.com/reports/1107126) to Mail.ru - 9 upvotes, $0
+464. [Brute Force due to Weak security credentials lead access to LICENSE SYSTEM Web Server on [l.ucs.ru]](https://hackerone.com/reports/992114) to Mail.ru - 9 upvotes, $0
+465. [Possibility to view subdepartments for arbitrary domain](https://hackerone.com/reports/287378) to Mail.ru - 8 upvotes, $500
+466. [A manager of a determinate group of users still might have access to any user account from any group that he doesn't administrate anymore.](https://hackerone.com/reports/268228) to Mail.ru - 8 upvotes, $500
+467. [[account.mail.ru] XSS на странице удаления аккаунта через backUrl](https://hackerone.com/reports/360191) to Mail.ru - 8 upvotes, $500
+468. [Stored Xss ](https://hackerone.com/reports/964167) to Mail.ru - 8 upvotes, $200
+469. [[upload-X.my.mail.ru] /uploadphoto Insecure Direct Object References](https://hackerone.com/reports/140548) to Mail.ru - 8 upvotes, $160
+470. [Possible to Upload Local Arbitrary Private File to the Cloud  against User's Will](https://hackerone.com/reports/384472) to Mail.ru - 8 upvotes, $150
+471. [HTML injection in an email [delivery.city-mobil.ru]](https://hackerone.com/reports/1034317) to Mail.ru - 8 upvotes, $150
+472. [CSRF Delete chat invitation link.](https://hackerone.com/reports/970902) to Mail.ru - 8 upvotes, $100
+473. [Cross site scripting](https://hackerone.com/reports/78412) to Mail.ru - 8 upvotes, $0
+474. [[odnoklassniki.ru] XSS via Host](https://hackerone.com/reports/39316) to Mail.ru - 8 upvotes, $0
+475. [XSS when replying / forwarding to a malicious email on iOS](https://hackerone.com/reports/264177) to Mail.ru - 8 upvotes, $0
+476. [XSS on account.mail.ru/login](https://hackerone.com/reports/291522) to Mail.ru - 8 upvotes, $0
+477. [Stored self-xss and its escalation to a victim account in e.mail.ru](https://hackerone.com/reports/319483) to Mail.ru - 8 upvotes, $0
+478. [XSS in delivery club](https://hackerone.com/reports/311413) to Mail.ru - 8 upvotes, $0
+479. [Double authentication bypass](https://hackerone.com/reports/323906) to Mail.ru - 8 upvotes, $0
+480. [Full account takeover am.ru](https://hackerone.com/reports/329263) to Mail.ru - 8 upvotes, $0
+481. [[lk-cdn.3igames.mail.ru] apc.php](https://hackerone.com/reports/277664) to Mail.ru - 8 upvotes, $0
+482. [Reflected cross site scripting at https://auto.mail.ru/reviews/add_review/ via problems_text parameter.](https://hackerone.com/reports/536341) to Mail.ru - 8 upvotes, $0
+483. [XSS при загрузке изображения на [games.mail.ru]](https://hackerone.com/reports/614441) to Mail.ru - 8 upvotes, $0
+484. [Information Disclosure - Получаем доступ к работам и к приватным презентациям к курсам](https://hackerone.com/reports/661873) to Mail.ru - 8 upvotes, $0
+485. [XSS via HTTP request version in account.my.games](https://hackerone.com/reports/781282) to Mail.ru - 8 upvotes, $0
+486. [CSRF on https://market.my.games](https://hackerone.com/reports/802930) to Mail.ru - 8 upvotes, $0
+487. [Http Response Splitting on  thumb.cloud.mail.ru](https://hackerone.com/reports/838682) to Mail.ru - 8 upvotes, $0
+488. [Subdomain Takeover at blog.instamart.ru](https://hackerone.com/reports/894431) to Mail.ru - 8 upvotes, $0
+489. [[api.my.games/social/chat/multi/add] Privilege escalation on adding new members  to group chat ](https://hackerone.com/reports/974878) to Mail.ru - 8 upvotes, $0
+490. [Blind SSRF on http://info.ucs.ru/settings/check/](https://hackerone.com/reports/901050) to Mail.ru - 8 upvotes, $0
 491. [Получение гарантированного дохода и бонусов без фактического исполнения заказов, при этом используя аккаунты не существующих людей.](https://hackerone.com/reports/896648) to Mail.ru - 8 upvotes, $0
 492. [[xss] passrestore на m/touch/tel](https://hackerone.com/reports/778314) to Mail.ru - 8 upvotes, $0
 493. [CVE-2020-3187 на ip адресе 91.231.115.30](https://hackerone.com/reports/1023792) to Mail.ru - 8 upvotes, $0
@@ -502,35 +502,35 @@ Top reports from Mail.ru program at HackerOne:
 500. [[connect.mail.ru] Memory Disclosure / IE XSS](https://hackerone.com/reports/38615) to Mail.ru - 7 upvotes, $250
 501. [Stored XSS and html injection in biz.mail.ru](https://hackerone.com/reports/267783) to Mail.ru - 7 upvotes, $250
 502. [Download attachments with traversal path into any sdcard directory (incomplete fix 106097)](https://hackerone.com/reports/284346) to Mail.ru - 7 upvotes, $200
-503. [[lootdog.io] User phone number disclosure](https://hackerone.com/reports/470010) to Mail.ru - 7 upvotes, $200
-504. [[cfire.mail.ru] Time Based SQL Injection 2](https://hackerone.com/reports/111003) to Mail.ru - 7 upvotes, $200
-505. [DOM based XSS via postMessage at store.my.games](https://hackerone.com/reports/1065776) to Mail.ru - 7 upvotes, $200
-506. [[my.mail.ru] CRLF Injection](https://hackerone.com/reports/67386) to Mail.ru - 7 upvotes, $160
-507. [Возможность создать канал в группе, в которой пользователь не является админом [my.games]](https://hackerone.com/reports/972374) to Mail.ru - 7 upvotes, $150
-508. [Пользователь может просматривать, удалять и изменять данные любой компании перебирая domain_id [biz.mail.ru]](https://hackerone.com/reports/977092) to Mail.ru - 7 upvotes, $150
-509. [Брутфорс sms кода подтверждения для смены номера телефона в аккаунте LootDog.](https://hackerone.com/reports/901542) to Mail.ru - 7 upvotes, $150
-510. [[files.ucs.ru] ProFTPd mod_copy Arbitrary Read/Write](https://hackerone.com/reports/1024393) to Mail.ru - 7 upvotes, $150
-511. [[titans.3clans.ru] phpBB 3.0.8 - Захват аккаунта администратора + удалённое выполнение кода.](https://hackerone.com/reports/1072857) to Mail.ru - 7 upvotes, $150
-512. [[rabota.mail.ru] Open Redirect](https://hackerone.com/reports/87804) to Mail.ru - 7 upvotes, $0
-513. [[touch.lady.mail.ru] CRLF Injection ](https://hackerone.com/reports/114198) to Mail.ru - 7 upvotes, $0
-514. [[cooking.lady.mail.ru] Open Redirect](https://hackerone.com/reports/192373) to Mail.ru - 7 upvotes, $0
-515. [[otus.p.mail.ru] Full Path Disclosure](https://hackerone.com/reports/99262) to Mail.ru - 7 upvotes, $0
-516. [xss на нескольких форумах игр от mail.ru (Cross-Site Scripting)](https://hackerone.com/reports/86069) to Mail.ru - 7 upvotes, $0
-517. [Stored XSS using SVG  on subdomain infra.mail.ru](https://hackerone.com/reports/275668) to Mail.ru - 7 upvotes, $0
-518. [The auth token does not expire on logging out and even after logging out all sessions](https://hackerone.com/reports/247721) to Mail.ru - 7 upvotes, $0
-519. [XSS on e.mail.ru via postMessage](https://hackerone.com/reports/301794) to Mail.ru - 7 upvotes, $0
-520. [XSS at https://icq.com/people](https://hackerone.com/reports/361893) to Mail.ru - 7 upvotes, $0
-521. [XSS e.mail.ru fixSpecialSymbols](https://hackerone.com/reports/346219) to Mail.ru - 7 upvotes, $0
-522. [XSS via Cookie in e.mail.ru](https://hackerone.com/reports/312548) to Mail.ru - 7 upvotes, $0
-523. [Хранимая XSS в пожертованиях на dobro.mail.ru](https://hackerone.com/reports/392426) to Mail.ru - 7 upvotes, $0
-524. [[info.tmgame.mail.ru] Apache Server Status](https://hackerone.com/reports/388746) to Mail.ru - 7 upvotes, $0
-525. [Reflected XSS in delivery-club.ru](https://hackerone.com/reports/362133) to Mail.ru - 7 upvotes, $0
-526. [CSRF на загрузку изображения Pandao](https://hackerone.com/reports/482922) to Mail.ru - 7 upvotes, $0
-527. [CSRF on /subscription_manage.php endpoint at allods.mail.ru](https://hackerone.com/reports/517470) to Mail.ru - 7 upvotes, $0
-528. [Reference to external uncontrolled resource in terrhq.ru](https://hackerone.com/reports/430254) to Mail.ru - 7 upvotes, $0
-529. [XXE крит](https://hackerone.com/reports/449627) to Mail.ru - 7 upvotes, $0
-530. [PHP-FPM Status Page](https://hackerone.com/reports/497010) to Mail.ru - 7 upvotes, $0
-531. [astrumnival.com subdomain](https://hackerone.com/reports/471941) to Mail.ru - 7 upvotes, $0
+503. [[cfire.mail.ru] Time Based SQL Injection 2](https://hackerone.com/reports/111003) to Mail.ru - 7 upvotes, $200
+504. [DOM based XSS via postMessage at store.my.games](https://hackerone.com/reports/1065776) to Mail.ru - 7 upvotes, $200
+505. [[my.mail.ru] CRLF Injection](https://hackerone.com/reports/67386) to Mail.ru - 7 upvotes, $160
+506. [Возможность создать канал в группе, в которой пользователь не является админом [my.games]](https://hackerone.com/reports/972374) to Mail.ru - 7 upvotes, $150
+507. [Пользователь может просматривать, удалять и изменять данные любой компании перебирая domain_id [biz.mail.ru]](https://hackerone.com/reports/977092) to Mail.ru - 7 upvotes, $150
+508. [Брутфорс sms кода подтверждения для смены номера телефона в аккаунте LootDog.](https://hackerone.com/reports/901542) to Mail.ru - 7 upvotes, $150
+509. [[files.ucs.ru] ProFTPd mod_copy Arbitrary Read/Write](https://hackerone.com/reports/1024393) to Mail.ru - 7 upvotes, $150
+510. [[titans.3clans.ru] phpBB 3.0.8 - Захват аккаунта администратора + удалённое выполнение кода.](https://hackerone.com/reports/1072857) to Mail.ru - 7 upvotes, $150
+511. [[rabota.mail.ru] Open Redirect](https://hackerone.com/reports/87804) to Mail.ru - 7 upvotes, $0
+512. [[touch.lady.mail.ru] CRLF Injection ](https://hackerone.com/reports/114198) to Mail.ru - 7 upvotes, $0
+513. [[cooking.lady.mail.ru] Open Redirect](https://hackerone.com/reports/192373) to Mail.ru - 7 upvotes, $0
+514. [[otus.p.mail.ru] Full Path Disclosure](https://hackerone.com/reports/99262) to Mail.ru - 7 upvotes, $0
+515. [xss на нескольких форумах игр от mail.ru (Cross-Site Scripting)](https://hackerone.com/reports/86069) to Mail.ru - 7 upvotes, $0
+516. [Stored XSS using SVG  on subdomain infra.mail.ru](https://hackerone.com/reports/275668) to Mail.ru - 7 upvotes, $0
+517. [The auth token does not expire on logging out and even after logging out all sessions](https://hackerone.com/reports/247721) to Mail.ru - 7 upvotes, $0
+518. [XSS on e.mail.ru via postMessage](https://hackerone.com/reports/301794) to Mail.ru - 7 upvotes, $0
+519. [XSS at https://icq.com/people](https://hackerone.com/reports/361893) to Mail.ru - 7 upvotes, $0
+520. [XSS e.mail.ru fixSpecialSymbols](https://hackerone.com/reports/346219) to Mail.ru - 7 upvotes, $0
+521. [XSS via Cookie in e.mail.ru](https://hackerone.com/reports/312548) to Mail.ru - 7 upvotes, $0
+522. [Хранимая XSS в пожертованиях на dobro.mail.ru](https://hackerone.com/reports/392426) to Mail.ru - 7 upvotes, $0
+523. [[info.tmgame.mail.ru] Apache Server Status](https://hackerone.com/reports/388746) to Mail.ru - 7 upvotes, $0
+524. [Reflected XSS in delivery-club.ru](https://hackerone.com/reports/362133) to Mail.ru - 7 upvotes, $0
+525. [CSRF на загрузку изображения Pandao](https://hackerone.com/reports/482922) to Mail.ru - 7 upvotes, $0
+526. [CSRF on /subscription_manage.php endpoint at allods.mail.ru](https://hackerone.com/reports/517470) to Mail.ru - 7 upvotes, $0
+527. [Reference to external uncontrolled resource in terrhq.ru](https://hackerone.com/reports/430254) to Mail.ru - 7 upvotes, $0
+528. [XXE крит](https://hackerone.com/reports/449627) to Mail.ru - 7 upvotes, $0
+529. [PHP-FPM Status Page](https://hackerone.com/reports/497010) to Mail.ru - 7 upvotes, $0
+530. [astrumnival.com subdomain](https://hackerone.com/reports/471941) to Mail.ru - 7 upvotes, $0
+531. [[lootdog.io] User phone number disclosure](https://hackerone.com/reports/470010) to Mail.ru - 7 upvotes, $0
 532. [Загрузка png бомбы, которая начинает DDOS атаку на бота со Стикерами.](https://hackerone.com/reports/363566) to Mail.ru - 7 upvotes, $0
 533. [[sso.33slona.ru] Application Messages Error stacktrace PHP.](https://hackerone.com/reports/666065) to Mail.ru - 7 upvotes, $0
 534. [Brute-force any email account through allods.mail.ru ](https://hackerone.com/reports/811776) to Mail.ru - 7 upvotes, $0
@@ -639,65 +639,65 @@ Top reports from Mail.ru program at HackerOne:
 637. [sql](https://hackerone.com/reports/453297) to Mail.ru - 5 upvotes, $0
 638. [[auto.mail.ru] IDOR на редактирование поста любого юзера.](https://hackerone.com/reports/651966) to Mail.ru - 5 upvotes, $0
 639. [Public available Sensitive Information about drivers](https://hackerone.com/reports/756833) to Mail.ru - 5 upvotes, $0
-640. [[v7lk.relap.io] Sending arbitrary emails to any user](https://hackerone.com/reports/808730) to Mail.ru - 5 upvotes, $0
-641. [relap.io CSRF bypass on adding domain to use relap widgets ](https://hackerone.com/reports/820277) to Mail.ru - 5 upvotes, $0
-642. [Reflected XSS in "keywords" parameter at "https://sbermarket.ru/metro/search"](https://hackerone.com/reports/898344) to Mail.ru - 5 upvotes, $0
-643. [xss on [storehouse5.ucs.ru]](https://hackerone.com/reports/900573) to Mail.ru - 5 upvotes, $0
-644. [XSS via "gp" cookie reflected in source code](https://hackerone.com/reports/929717) to Mail.ru - 5 upvotes, $0
-645. [This Github Repository Seems Leaking "nino.samokat.ru" Source Code](https://hackerone.com/reports/973658) to Mail.ru - 5 upvotes, $0
-646. [Clickjacking Vulnerability via https://www.donationalerts.com/help/support leads to bypass for widget.support.my.games X-Frame Options](https://hackerone.com/reports/1027192) to Mail.ru - 5 upvotes, $0
-647. [CSRF in updating username https://pw.mail.ru/](https://hackerone.com/reports/1046466) to Mail.ru - 5 upvotes, $0
-648. [subdomain Takeover](https://hackerone.com/reports/1004136) to Mail.ru - 5 upvotes, $0
-649. [Customer domain information disclosure at https://biz.mail.ru/api/domains/*](https://hackerone.com/reports/760595) to Mail.ru - 5 upvotes, $0
-650. [Получение локального пути до файла [geekbrains.ru]](https://hackerone.com/reports/1012644) to Mail.ru - 5 upvotes, $0
-651. [Acessed internal api documentation and information](https://hackerone.com/reports/1049733) to Mail.ru - 5 upvotes, $0
-652. [Stored XSS on https://community.my.games/ (Add Post)](https://hackerone.com/reports/755322) to Mail.ru - 5 upvotes, $0
-653. [Ошибка фильтрации](https://hackerone.com/reports/34686) to Mail.ru - 4 upvotes, $500
-654. [mrgs.my.games account takeover](https://hackerone.com/reports/999314) to Mail.ru - 4 upvotes, $500
-655. [connect.mail.ru: SSRF](https://hackerone.com/reports/14033) to Mail.ru - 4 upvotes, $300
-656. [OpenSSL HeartBleed (CVE-2014-0160)](https://hackerone.com/reports/32570) to Mail.ru - 4 upvotes, $200
-657. [[my.mail.ru] HTML injection в письмах от myadmin@corp.mail.ru](https://hackerone.com/reports/140705) to Mail.ru - 4 upvotes, $100
-658. [[online.games.mail.ru] - Sensitive information disclosure](https://hackerone.com/reports/317980) to Mail.ru - 4 upvotes, $100
-659. [ssl cookkie without secure flag set](https://hackerone.com/reports/481733) to Mail.ru - 4 upvotes, $100
-660. [Admin panel of http://tp-test1.corp.mail.ru/ is acccessible publicly](https://hackerone.com/reports/8803) to Mail.ru - 4 upvotes, $0
-661. [XSS in https://e.mail.ru/cgi-bin/lstatic (Limited use)](https://hackerone.com/reports/11410) to Mail.ru - 4 upvotes, $0
-662. [XXE and SSRF on webmaster.mail.ru](https://hackerone.com/reports/12583) to Mail.ru - 4 upvotes, $0
-663. [https://voip.agent.mail.ru/phpinfo.php](https://hackerone.com/reports/63075) to Mail.ru - 4 upvotes, $0
-664. [Авторизуюсь от имени любого пользователя parapa.mail.ru](https://hackerone.com/reports/31418) to Mail.ru - 4 upvotes, $0
-665. [[tz.mail.ru] XSS в функционале авторизации ](https://hackerone.com/reports/100500) to Mail.ru - 4 upvotes, $0
-666. [Back Refresh Attack after registration and successful logout](https://hackerone.com/reports/147744) to Mail.ru - 4 upvotes, $0
-667. [[opensource.mail.ru] system accounts enumeration](https://hackerone.com/reports/153178) to Mail.ru - 4 upvotes, $0
-668. [[support.my.com] Internet Explorer XSS](https://hackerone.com/reports/87806) to Mail.ru - 4 upvotes, $0
-669. [[3k.mail.ru] Content Spoofing](https://hackerone.com/reports/111514) to Mail.ru - 4 upvotes, $0
-670. [[opensource.mail.ru] Debug Mode](https://hackerone.com/reports/99054) to Mail.ru - 4 upvotes, $0
-671. [[allods.my.com] Full SQL Disclosure](https://hackerone.com/reports/97317) to Mail.ru - 4 upvotes, $0
-672. [[it.mail.ru] Open Redirect](https://hackerone.com/reports/96474) to Mail.ru - 4 upvotes, $0
-673. [[allods.mail.ru] Cross-Site Request Forgery (Add-Item)](https://hackerone.com/reports/178241) to Mail.ru - 4 upvotes, $0
-674. [Reflected XSS on hi-tech.mail.ru](https://hackerone.com/reports/100755) to Mail.ru - 4 upvotes, $0
-675. [Reflected XSS.](https://hackerone.com/reports/96381) to Mail.ru - 4 upvotes, $0
-676. [Clickjacking Full account takeover and editing the personal information at [account.my.com]](https://hackerone.com/reports/261652) to Mail.ru - 4 upvotes, $0
-677. [Self-xss via drag&drop in email form](https://hackerone.com/reports/287382) to Mail.ru - 4 upvotes, $0
-678. [[afisha.mail.ru] HTML-инъекция через XSS на портале виджета](https://hackerone.com/reports/243824) to Mail.ru - 4 upvotes, $0
-679. [[target.my.com] CRLF Injection -\> XSS](https://hackerone.com/reports/384872) to Mail.ru - 4 upvotes, $0
-680. [[beta.tracker.my.com] XSS Request-URI](https://hackerone.com/reports/261643) to Mail.ru - 4 upvotes, $0
-681. [CSRF на удаление товара из корзины](https://hackerone.com/reports/485359) to Mail.ru - 4 upvotes, $0
-682. [XSS ](https://hackerone.com/reports/460353) to Mail.ru - 4 upvotes, $0
-683. [xss](https://hackerone.com/reports/450571) to Mail.ru - 4 upvotes, $0
-684. [Phpinfo](https://hackerone.com/reports/521582) to Mail.ru - 4 upvotes, $0
-685. [Rails application running in development mode](https://hackerone.com/reports/518196) to Mail.ru - 4 upvotes, $0
-686. [self XSS на странице https://aw.mail.ru/pin/](https://hackerone.com/reports/582810) to Mail.ru - 4 upvotes, $0
-687. [Раскрытие информации о совершенных операциях](https://hackerone.com/reports/497244) to Mail.ru - 4 upvotes, $0
-688. [Открытые сорцы ](https://hackerone.com/reports/518081) to Mail.ru - 4 upvotes, $0
-689. [mailgun subdomain takeover on "email.mail.geekbrains.ru"](https://hackerone.com/reports/819309) to Mail.ru - 4 upvotes, $0
-690. [Information Disclosure on {http://pro.tracker.my.com}](https://hackerone.com/reports/847276) to Mail.ru - 4 upvotes, $0
-691. [[capsula.mail.ru] overriding order info](https://hackerone.com/reports/859357) to Mail.ru - 4 upvotes, $0
-692. [Content injection on shared event (calendar.mail.ru)](https://hackerone.com/reports/847473) to Mail.ru - 4 upvotes, $0
-693. [information disclosure via IDOR on "https://target.my.com/api/v2/coverage/segment.json?id={id}" endpoint](https://hackerone.com/reports/763258) to Mail.ru - 4 upvotes, $0
-694. [Clickjacking Vulnerability via https://webagent.mail.ru leading to protection bypass for https://web.icq.com/ end point](https://hackerone.com/reports/918923) to Mail.ru - 4 upvotes, $0
-695. [Пользователь может изменить способ оплаты указав чужой corporation ID](https://hackerone.com/reports/969619) to Mail.ru - 4 upvotes, $0
-696. [OTP bypass on user account deletion](https://hackerone.com/reports/803816) to Mail.ru - 4 upvotes, $0
-697. [This Github Repository Seems Leaking Samokat Django Project](https://hackerone.com/reports/1016860) to Mail.ru - 4 upvotes, $0
-698. [Theft of Arbitrary file ](https://hackerone.com/reports/1079766) to Mail.ru - 4 upvotes, $0
+640. [mailgun subdomain takeover on "email.mail.geekbrains.ru"](https://hackerone.com/reports/819309) to Mail.ru - 5 upvotes, $0
+641. [[v7lk.relap.io] Sending arbitrary emails to any user](https://hackerone.com/reports/808730) to Mail.ru - 5 upvotes, $0
+642. [relap.io CSRF bypass on adding domain to use relap widgets ](https://hackerone.com/reports/820277) to Mail.ru - 5 upvotes, $0
+643. [Reflected XSS in "keywords" parameter at "https://sbermarket.ru/metro/search"](https://hackerone.com/reports/898344) to Mail.ru - 5 upvotes, $0
+644. [xss on [storehouse5.ucs.ru]](https://hackerone.com/reports/900573) to Mail.ru - 5 upvotes, $0
+645. [XSS via "gp" cookie reflected in source code](https://hackerone.com/reports/929717) to Mail.ru - 5 upvotes, $0
+646. [This Github Repository Seems Leaking "nino.samokat.ru" Source Code](https://hackerone.com/reports/973658) to Mail.ru - 5 upvotes, $0
+647. [Clickjacking Vulnerability via https://www.donationalerts.com/help/support leads to bypass for widget.support.my.games X-Frame Options](https://hackerone.com/reports/1027192) to Mail.ru - 5 upvotes, $0
+648. [CSRF in updating username https://pw.mail.ru/](https://hackerone.com/reports/1046466) to Mail.ru - 5 upvotes, $0
+649. [subdomain Takeover](https://hackerone.com/reports/1004136) to Mail.ru - 5 upvotes, $0
+650. [Theft of Arbitrary file ](https://hackerone.com/reports/1079766) to Mail.ru - 5 upvotes, $0
+651. [Customer domain information disclosure at https://biz.mail.ru/api/domains/*](https://hackerone.com/reports/760595) to Mail.ru - 5 upvotes, $0
+652. [Получение локального пути до файла [geekbrains.ru]](https://hackerone.com/reports/1012644) to Mail.ru - 5 upvotes, $0
+653. [Acessed internal api documentation and information](https://hackerone.com/reports/1049733) to Mail.ru - 5 upvotes, $0
+654. [Stored XSS on https://community.my.games/ (Add Post)](https://hackerone.com/reports/755322) to Mail.ru - 5 upvotes, $0
+655. [Ошибка фильтрации](https://hackerone.com/reports/34686) to Mail.ru - 4 upvotes, $500
+656. [mrgs.my.games account takeover](https://hackerone.com/reports/999314) to Mail.ru - 4 upvotes, $500
+657. [connect.mail.ru: SSRF](https://hackerone.com/reports/14033) to Mail.ru - 4 upvotes, $300
+658. [OpenSSL HeartBleed (CVE-2014-0160)](https://hackerone.com/reports/32570) to Mail.ru - 4 upvotes, $200
+659. [[my.mail.ru] HTML injection в письмах от myadmin@corp.mail.ru](https://hackerone.com/reports/140705) to Mail.ru - 4 upvotes, $100
+660. [[online.games.mail.ru] - Sensitive information disclosure](https://hackerone.com/reports/317980) to Mail.ru - 4 upvotes, $100
+661. [ssl cookkie without secure flag set](https://hackerone.com/reports/481733) to Mail.ru - 4 upvotes, $100
+662. [Admin panel of http://tp-test1.corp.mail.ru/ is acccessible publicly](https://hackerone.com/reports/8803) to Mail.ru - 4 upvotes, $0
+663. [XSS in https://e.mail.ru/cgi-bin/lstatic (Limited use)](https://hackerone.com/reports/11410) to Mail.ru - 4 upvotes, $0
+664. [XXE and SSRF on webmaster.mail.ru](https://hackerone.com/reports/12583) to Mail.ru - 4 upvotes, $0
+665. [https://voip.agent.mail.ru/phpinfo.php](https://hackerone.com/reports/63075) to Mail.ru - 4 upvotes, $0
+666. [Авторизуюсь от имени любого пользователя parapa.mail.ru](https://hackerone.com/reports/31418) to Mail.ru - 4 upvotes, $0
+667. [[tz.mail.ru] XSS в функционале авторизации ](https://hackerone.com/reports/100500) to Mail.ru - 4 upvotes, $0
+668. [Back Refresh Attack after registration and successful logout](https://hackerone.com/reports/147744) to Mail.ru - 4 upvotes, $0
+669. [[opensource.mail.ru] system accounts enumeration](https://hackerone.com/reports/153178) to Mail.ru - 4 upvotes, $0
+670. [[support.my.com] Internet Explorer XSS](https://hackerone.com/reports/87806) to Mail.ru - 4 upvotes, $0
+671. [[3k.mail.ru] Content Spoofing](https://hackerone.com/reports/111514) to Mail.ru - 4 upvotes, $0
+672. [[opensource.mail.ru] Debug Mode](https://hackerone.com/reports/99054) to Mail.ru - 4 upvotes, $0
+673. [[allods.my.com] Full SQL Disclosure](https://hackerone.com/reports/97317) to Mail.ru - 4 upvotes, $0
+674. [[it.mail.ru] Open Redirect](https://hackerone.com/reports/96474) to Mail.ru - 4 upvotes, $0
+675. [[allods.mail.ru] Cross-Site Request Forgery (Add-Item)](https://hackerone.com/reports/178241) to Mail.ru - 4 upvotes, $0
+676. [Reflected XSS on hi-tech.mail.ru](https://hackerone.com/reports/100755) to Mail.ru - 4 upvotes, $0
+677. [Reflected XSS.](https://hackerone.com/reports/96381) to Mail.ru - 4 upvotes, $0
+678. [Clickjacking Full account takeover and editing the personal information at [account.my.com]](https://hackerone.com/reports/261652) to Mail.ru - 4 upvotes, $0
+679. [Self-xss via drag&drop in email form](https://hackerone.com/reports/287382) to Mail.ru - 4 upvotes, $0
+680. [[afisha.mail.ru] HTML-инъекция через XSS на портале виджета](https://hackerone.com/reports/243824) to Mail.ru - 4 upvotes, $0
+681. [[target.my.com] CRLF Injection -\> XSS](https://hackerone.com/reports/384872) to Mail.ru - 4 upvotes, $0
+682. [[beta.tracker.my.com] XSS Request-URI](https://hackerone.com/reports/261643) to Mail.ru - 4 upvotes, $0
+683. [CSRF на удаление товара из корзины](https://hackerone.com/reports/485359) to Mail.ru - 4 upvotes, $0
+684. [XSS ](https://hackerone.com/reports/460353) to Mail.ru - 4 upvotes, $0
+685. [xss](https://hackerone.com/reports/450571) to Mail.ru - 4 upvotes, $0
+686. [Phpinfo](https://hackerone.com/reports/521582) to Mail.ru - 4 upvotes, $0
+687. [Rails application running in development mode](https://hackerone.com/reports/518196) to Mail.ru - 4 upvotes, $0
+688. [self XSS на странице https://aw.mail.ru/pin/](https://hackerone.com/reports/582810) to Mail.ru - 4 upvotes, $0
+689. [Раскрытие информации о совершенных операциях](https://hackerone.com/reports/497244) to Mail.ru - 4 upvotes, $0
+690. [Открытые сорцы ](https://hackerone.com/reports/518081) to Mail.ru - 4 upvotes, $0
+691. [Information Disclosure on {http://pro.tracker.my.com}](https://hackerone.com/reports/847276) to Mail.ru - 4 upvotes, $0
+692. [[capsula.mail.ru] overriding order info](https://hackerone.com/reports/859357) to Mail.ru - 4 upvotes, $0
+693. [Content injection on shared event (calendar.mail.ru)](https://hackerone.com/reports/847473) to Mail.ru - 4 upvotes, $0
+694. [information disclosure via IDOR on "https://target.my.com/api/v2/coverage/segment.json?id={id}" endpoint](https://hackerone.com/reports/763258) to Mail.ru - 4 upvotes, $0
+695. [Clickjacking Vulnerability via https://webagent.mail.ru leading to protection bypass for https://web.icq.com/ end point](https://hackerone.com/reports/918923) to Mail.ru - 4 upvotes, $0
+696. [Пользователь может изменить способ оплаты указав чужой corporation ID](https://hackerone.com/reports/969619) to Mail.ru - 4 upvotes, $0
+697. [OTP bypass on user account deletion](https://hackerone.com/reports/803816) to Mail.ru - 4 upvotes, $0
+698. [This Github Repository Seems Leaking Samokat Django Project](https://hackerone.com/reports/1016860) to Mail.ru - 4 upvotes, $0
 699. [XSS Stored on https://seedr.ru](https://hackerone.com/reports/1350671) to Mail.ru - 4 upvotes, $0
 700. [[e.mail.ru] XSS на странице отправки денежного перевода](https://hackerone.com/reports/305976) to Mail.ru - 3 upvotes, $500
 701. [Access to git & and  configuration files on backtoschool.geekbrains.ru via gitfile](https://hackerone.com/reports/964603) to Mail.ru - 3 upvotes, $400

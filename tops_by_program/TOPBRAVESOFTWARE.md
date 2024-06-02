@@ -1,7 +1,7 @@
 Top reports from Brave Software program at HackerOne:
 
 1. [Brave Browser Tor Window leaks user's real IP to the external DNS server](https://hackerone.com/reports/1077022) to Brave Software - 276 upvotes, $0
-2. [Open redirect due to scanning QR code via brave browser](https://hackerone.com/reports/1946534) to Brave Software - 133 upvotes, $0
+2. [Open redirect due to scanning QR code via brave browser](https://hackerone.com/reports/1946534) to Brave Software - 134 upvotes, $0
 3. [Stored XSS in localhost:* via integrated torrent downloader](https://hackerone.com/reports/681617) to Brave Software - 122 upvotes, $0
 4. [Cookie steal through content Uri](https://hackerone.com/reports/876192) to Brave Software - 76 upvotes, $500
 5. [Local files reading from the web using `brave://`](https://hackerone.com/reports/390013) to Brave Software - 74 upvotes, $5000
@@ -12,13 +12,13 @@ Top reports from Brave Software program at HackerOne:
 10. [DNS Leaks when using any VPN Browser extension with Brave Shield enabled](https://hackerone.com/reports/1203842) to Brave Software - 51 upvotes, $0
 11. [`chrome://brave` available for navigation in Release build [-\> RCE] + navigation to `chrome://*` using tab_helper ["Open in new tab"]](https://hackerone.com/reports/395737) to Brave Software - 46 upvotes, $2000
 12. [Local files reading using `link[rel="import"]`](https://hackerone.com/reports/375329) to Brave Software - 42 upvotes, $400
-13. [[Android] HTML Injection in BatterySaveArticleRenderer WebView](https://hackerone.com/reports/176065) to Brave Software - 41 upvotes, $150
-14. [Browser is not following proper flow for redirection cause open redirect ](https://hackerone.com/reports/1579374) to Brave Software - 40 upvotes, $500
-15. [Information disclosure-Referer leak](https://hackerone.com/reports/1337624) to Brave Software - 39 upvotes, $500
+13. [Browser is not following proper flow for redirection cause open redirect ](https://hackerone.com/reports/1579374) to Brave Software - 41 upvotes, $500
+14. [[Android] HTML Injection in BatterySaveArticleRenderer WebView](https://hackerone.com/reports/176065) to Brave Software - 41 upvotes, $150
+15. [Information disclosure-Referer leak](https://hackerone.com/reports/1337624) to Brave Software - 40 upvotes, $500
 16. [Onion-Location header allows to open arbitrary URLs including chrome:](https://hackerone.com/reports/1089995) to Brave Software - 37 upvotes, $400
 17. [UAF on JSEthereumProvider](https://hackerone.com/reports/1977252) to Brave Software - 34 upvotes, $3000
-18. [[iOS/Android] Address Bar Spoofing Vulnerability ](https://hackerone.com/reports/175958) to Brave Software - 30 upvotes, $200
-19. [download file type warning on Windows does not appear if "ask where to save file before downloading" setting is enabled](https://hackerone.com/reports/1848062) to Brave Software - 29 upvotes, $500
+18. [download file type warning on Windows does not appear if "ask where to save file before downloading" setting is enabled](https://hackerone.com/reports/1848062) to Brave Software - 30 upvotes, $500
+19. [[iOS/Android] Address Bar Spoofing Vulnerability ](https://hackerone.com/reports/175958) to Brave Software - 30 upvotes, $200
 20. [HTML injection in title of reader view](https://hackerone.com/reports/991713) to Brave Software - 29 upvotes, $300
 21. [Universal XSS with Playlist feature](https://hackerone.com/reports/1436558) to Brave Software - 25 upvotes, $750
 22. [Navigation to protocol handler URL from the opened page displayed as a request from this page.](https://hackerone.com/reports/374969) to Brave Software - 25 upvotes, $200

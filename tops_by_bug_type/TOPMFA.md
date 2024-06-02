@@ -1,6 +1,6 @@
 Top MFA reports from HackerOne:
 
-1. [2FA bypass by sending blank code](https://hackerone.com/reports/897385) to Glassdoor - 276 upvotes, $0
+1. [2FA bypass by sending blank code](https://hackerone.com/reports/897385) to Glassdoor - 278 upvotes, $0
 2. [Hacker can bypass 2FA requirement and reporter blacklist through embedded submission form](https://hackerone.com/reports/418767) to HackerOne - 186 upvotes, $10000
 3. [TikTok 2FA Bypass](https://hackerone.com/reports/1247108) to TikTok - 180 upvotes, $1564
 4. [Previously created sessions continue being valid after MFA activation](https://hackerone.com/reports/667739) to Grammarly - 155 upvotes, $0
@@ -9,11 +9,11 @@ Top MFA reports from HackerOne:
 7. [Account takeover w/o interaction for a user that doesn't have 2fa enabled via 2fa linking and improper auth at /api/2fa/verify](https://hackerone.com/reports/810880) to Helium - 77 upvotes, $0
 8. [2FA doesn't work in "https://insider.razer.com"](https://hackerone.com/reports/701901) to Razer - 72 upvotes, $200
 9. [Information disclosure -\> 2fa bypass -\> POST exploitation ](https://hackerone.com/reports/1276373) to Algolia - 71 upvotes, $0
-10. [“email” MFA mode allows bypassing MFA from victim’s device when the device trust is not expired](https://hackerone.com/reports/665722) to Grammarly - 66 upvotes, $2500
-11. [Session Doesn't expire after 2fa and also other session can change passsword ](https://hackerone.com/reports/2234736) to SideFX - 65 upvotes, $300
+10. [Session Doesn't expire after 2fa and also other session can change passsword ](https://hackerone.com/reports/2234736) to SideFX - 67 upvotes, $0
+11. [“email” MFA mode allows bypassing MFA from victim’s device when the device trust is not expired](https://hackerone.com/reports/665722) to Grammarly - 66 upvotes, $2500
 12. [Able to blocking users with 2fa from login into their accounts by just knowing the SteamID](https://hackerone.com/reports/1179232) to CS Money - 53 upvotes, $300
-13. [Changing the 2FA secret key and backup codes without knowing the 2FA OTP](https://hackerone.com/reports/1139535) to HackerOne - 50 upvotes, $0
-14. [Two-factor authentication enforcement bypass](https://hackerone.com/reports/1050244) to Nextcloud - 49 upvotes, $750
+13. [Two-factor authentication enforcement bypass](https://hackerone.com/reports/1050244) to Nextcloud - 50 upvotes, $750
+14. [Changing the 2FA secret key and backup codes without knowing the 2FA OTP](https://hackerone.com/reports/1139535) to HackerOne - 50 upvotes, $0
 15. [Missing ownership check in 2FA for secondary client login](https://hackerone.com/reports/1250474) to LY Corporation - 47 upvotes, $0
 16. [bypass two-factor authentication in Android apps and web](https://hackerone.com/reports/1747978) to TikTok - 39 upvotes, $0
 17. [Two-factor authentication bypass on Grab Android App](https://hackerone.com/reports/202425) to Grab - 38 upvotes, $0
@@ -41,12 +41,12 @@ Top MFA reports from HackerOne:
 39. [Can register any mobile number in MFA without current code.](https://hackerone.com/reports/667740) to Grammarly - 11 upvotes, $0
 40. [CSRF в получении резервных токенов+framing , приводящие к компроментации 2fa](https://hackerone.com/reports/90165) to VK.com - 10 upvotes, $500
 41. [2FA Disable With Wrong Password - Response Tampering.](https://hackerone.com/reports/893085) to 8x8 - 10 upvotes, $0
-42. [Pre-generation of 2FA secret/backup codes seems like an unnecessary risk](https://hackerone.com/reports/100509) to HackerOne - 8 upvotes, $1000
+42. [Pre-generation of 2FA secret/backup codes seems like an unnecessary risk](https://hackerone.com/reports/100509) to HackerOne - 9 upvotes, $1000
 43. [Новый 2FA Bypass](https://hackerone.com/reports/179421) to VK.com - 8 upvotes, $1000
 44. [Обходим 2FA и/или получаем access_token, если мы когда-либо были на аккаунте жертвы](https://hackerone.com/reports/316078) to VK.com - 8 upvotes, $300
-45. [Rate limits too low for email 2FA](https://hackerone.com/reports/979820) to Bitwarden - 8 upvotes, $0
-46. [Previously created sessions continue being valid after MFA activation](https://hackerone.com/reports/1185479) to CS Money - 8 upvotes, $0
-47. [Missing link to 2FA recovery code](https://hackerone.com/reports/249346) to Legal Robot - 7 upvotes, $0
+45. [Missing link to 2FA recovery code](https://hackerone.com/reports/249346) to Legal Robot - 8 upvotes, $0
+46. [Rate limits too low for email 2FA](https://hackerone.com/reports/979820) to Bitwarden - 8 upvotes, $0
+47. [Previously created sessions continue being valid after MFA activation](https://hackerone.com/reports/1185479) to CS Money - 8 upvotes, $0
 48. [Brute force of a current password on a disable 2fa leads to guess password and disable 2fa.](https://hackerone.com/reports/1465277) to Omise - 7 upvotes, $0
 49. [Non-functional 2FA recovery codes](https://hackerone.com/reports/249337) to Legal Robot - 6 upvotes, $0
 50. [Enhancement: email confirmation for 2FA recovery](https://hackerone.com/reports/250082) to Legal Robot - 6 upvotes, $0

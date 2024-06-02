@@ -4,7 +4,7 @@ Top reports from GitHub Security Lab program at HackerOne:
 2. [[Python] CWE-400: Regular Expression Injection](https://hackerone.com/reports/1196124) to GitHub Security Lab - 72 upvotes, $4500
 3. [Initial websocket support for Javascript (SockJS)](https://hackerone.com/reports/854439) to GitHub Security Lab - 66 upvotes, $1800
 4. [Java: CWE-749 Unsafe resource loading in Android WebView leaking to injection attacks](https://hackerone.com/reports/1011956) to GitHub Security Lab - 59 upvotes, $2300
-5. [[ruby]: ZipSlip/TarSlip vulnerability detection](https://hackerone.com/reports/1914118) to GitHub Security Lab - 53 upvotes, $5500
+5. [[ruby]: ZipSlip/TarSlip vulnerability detection](https://hackerone.com/reports/1914118) to GitHub Security Lab - 54 upvotes, $5500
 6. [Java/CWE-036: Calling openStream on URLs created from remote source can lead to file disclosure](https://hackerone.com/reports/844327) to GitHub Security Lab - 52 upvotes, $1800
 7. [CodeQL query for finding LDAP Injection (CWE-90) vulnerabilities in Java](https://hackerone.com/reports/787113) to GitHub Security Lab - 51 upvotes, $3000
 8. [[CPP]: Add query for CWE-805: Buffer Access with Incorrect Length Value using some functions](https://hackerone.com/reports/1864507) to GitHub Security Lab - 43 upvotes, $1800

@@ -1,9 +1,9 @@
 Top reports from Slack program at HackerOne:
 
-1. [Mass account takeovers using HTTP Request Smuggling on https://slackb.com/ to steal session cookies](https://hackerone.com/reports/737140) to Slack - 833 upvotes, $0
+1. [Mass account takeovers using HTTP Request Smuggling on https://slackb.com/ to steal session cookies](https://hackerone.com/reports/737140) to Slack - 835 upvotes, $0
 2. [Remote Code Execution in Slack desktop apps + bonus](https://hackerone.com/reports/783877) to Slack - 486 upvotes, $0
 3. [XSS vulnerable parameter in a location hash](https://hackerone.com/reports/146336) to Slack - 443 upvotes, $0
-4. [URL link spoofing](https://hackerone.com/reports/481472) to Slack - 355 upvotes, $250
+4. [URL link spoofing](https://hackerone.com/reports/481472) to Slack - 356 upvotes, $250
 5. [AWS bucket leading to iOS test build code and configuration exposure](https://hackerone.com/reports/404822) to Slack - 316 upvotes, $1500
 6. [TURN server allows TCP and UDP proxying to internal network, localhost and meta-data services](https://hackerone.com/reports/333419) to Slack - 312 upvotes, $3500
 7. [Slack DTLS uses a private key that is in the public domain, which may lead to SRTP stream hijack](https://hackerone.com/reports/531032) to Slack - 167 upvotes, $2000

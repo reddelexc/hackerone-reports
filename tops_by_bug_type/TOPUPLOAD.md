@@ -1,6 +1,6 @@
 Top Upload reports from HackerOne:
 
-1. [Remote Code Execution on www.semrush.com/my_reports on Logo upload](https://hackerone.com/reports/403417) to Semrush - 799 upvotes, $0
+1. [Remote Code Execution on www.semrush.com/my_reports on Logo upload](https://hackerone.com/reports/403417) to Semrush - 800 upvotes, $0
 2. [Webshell via File Upload on ecjobs.starbucks.com.cn](https://hackerone.com/reports/506646) to Starbucks - 675 upvotes, $0
 3. [Blind XSS on image upload](https://hackerone.com/reports/1010466) to CS Money - 420 upvotes, $1000
 4. [Unrestricted file upload on [ambassador.mail.ru] ](https://hackerone.com/reports/854032) to Mail.ru - 404 upvotes, $3000
@@ -19,29 +19,29 @@ Top Upload reports from HackerOne:
 17. [[insideok.ru] Remote Command Execution via file upload.](https://hackerone.com/reports/666716) to ok.ru - 94 upvotes, $0
 18. [Avatar upload allows arbitrary file overwriting](https://hackerone.com/reports/671605) to Mail.ru - 88 upvotes, $750
 19. [Unrestricted file upload leads to Stored XSS](https://hackerone.com/reports/880099) to GitLab - 84 upvotes, $0
-20. [Unauthenticated user can upload an attachment to the last updated report draft](https://hackerone.com/reports/419896) to HackerOne - 81 upvotes, $0
+20. [Unauthenticated user can upload an attachment to the last updated report draft](https://hackerone.com/reports/419896) to HackerOne - 82 upvotes, $0
 21. [XSS from arbitrary attachment upload.](https://hackerone.com/reports/831703) to Qulture.Rocks - 74 upvotes, $0
 22. [Open s3 bucket allows for public upload](https://hackerone.com/reports/504600) to Augur - 73 upvotes, $100
-23. [Unrestricted File Upload at ██████████](https://hackerone.com/reports/2357778) to Mars - 70 upvotes, $0
+23. [Unrestricted File Upload at ██████████](https://hackerone.com/reports/2357778) to Mars - 71 upvotes, $0
 24. [SSRF and local file disclosure by video upload on https://www.redtube.com/upload](https://hackerone.com/reports/570537) to Pornhub - 61 upvotes, $500
 25. [Cross site scripting via file upload in subdomain ads.tiktok.com](https://hackerone.com/reports/1433125) to TikTok - 61 upvotes, $500
 26. [Singapore - Unrestricted File Upload Leads to XSS on campaign.starbucks.com.sg/api/upload](https://hackerone.com/reports/883151) to Starbucks - 58 upvotes, $0
 27. [Unrestricted file upload when creating quotes allows for Stored XSS](https://hackerone.com/reports/788397) to Visma Public - 57 upvotes, $250
 28. [Stored XSS on upload files leads to steal cookie](https://hackerone.com/reports/765679) to Palo Alto Software - 56 upvotes, $0
-29. [Unrestricted File Upload Results in Cross-Site Scripting Attacks](https://hackerone.com/reports/1005355) to Uber - 54 upvotes, $0
-30. [insecure storage of information, you can view any file uploaded to the server without authentication and only with a single link](https://hackerone.com/reports/2007235) to Radancy - 54 upvotes, $0
+29. [insecure storage of information, you can view any file uploaded to the server without authentication and only with a single link](https://hackerone.com/reports/2007235) to Radancy - 55 upvotes, $0
+30. [Unrestricted File Upload Results in Cross-Site Scripting Attacks](https://hackerone.com/reports/1005355) to Uber - 54 upvotes, $0
 31. [After the upload of an private file, using transformations, the file becomes public without the possibility of changing it.](https://hackerone.com/reports/1984060) to Mozilla - 54 upvotes, $0
 32. [SSRF and local file disclosure by video upload on https://www.tube8.com/](https://hackerone.com/reports/574133) to Pornhub - 53 upvotes, $500
 33. [[Kafka Connect] [JdbcSinkConnector][HttpSinkConnector] RCE by leveraging file upload via SQLite JDBC driver and SSRF to internal Jolokia](https://hackerone.com/reports/1547877) to Aiven Ltd - 50 upvotes, $5000
 34. [SSRF in VCARD photo upload functionality](https://hackerone.com/reports/296045) to Open-Xchange - 49 upvotes, $850
-35. [IDOR in upload videos of a Channel on https://video.ibm.com](https://hackerone.com/reports/2085185) to IBM - 46 upvotes, $0
+35. [IDOR in upload videos of a Channel on https://video.ibm.com](https://hackerone.com/reports/2085185) to IBM - 47 upvotes, $0
 36. [China - ecjobsdc.starbucks.com.cn html/shtml file upload vulnerability](https://hackerone.com/reports/412481) to Starbucks - 45 upvotes, $0
-37. [XSS Stored via Upload avatar PNG [HTML] File in accounts.shopify.com](https://hackerone.com/reports/964550) to Shopify - 44 upvotes, $0
+37. [XSS Stored via Upload avatar PNG [HTML] File in accounts.shopify.com](https://hackerone.com/reports/964550) to Shopify - 45 upvotes, $0
 38. [forum.getmonero.org Shell upload](https://hackerone.com/reports/357858) to Monero - 40 upvotes, $0
 39. [Shell upload in http://widget.support.my.com/](https://hackerone.com/reports/317043) to Mail.ru - 36 upvotes, $1000
 40. [SSRF and local file disclosure by video upload on http://www.youporn.com/](https://hackerone.com/reports/574134) to Pornhub - 35 upvotes, $500
-41. [Upload profile photo from URL](https://hackerone.com/reports/713) to HackerOne - 32 upvotes, $0
-42. [Unrestricted File Upload Blind Stored Xss  in subdomain ads.tiktok.com](https://hackerone.com/reports/1577370) to TikTok - 31 upvotes, $250
+41. [Unrestricted File Upload Blind Stored Xss  in subdomain ads.tiktok.com](https://hackerone.com/reports/1577370) to TikTok - 32 upvotes, $250
+42. [Upload profile photo from URL](https://hackerone.com/reports/713) to HackerOne - 32 upvotes, $0
 43. [Upload Profile Photo in any folder you want with any extension you want](https://hackerone.com/reports/753375) to Stripo Inc - 31 upvotes, $0
 44. [RCE in profile picture upload](https://hackerone.com/reports/135072) to HackerOne - 30 upvotes, $0
 45. [Unrestricted File Upload](https://hackerone.com/reports/184596) to U.S. Dept Of Defense - 30 upvotes, $0
@@ -75,15 +75,15 @@ Top Upload reports from HackerOne:
 73. [Unrestricted File Upload in Chat Window](https://hackerone.com/reports/925513) to OWOX, Inc. - 13 upvotes, $0
 74. [store xss in calendar via upload filename](https://hackerone.com/reports/385407) to Open-Xchange - 12 upvotes, $250
 75. [(Critical) Remote Code Execution Through Old TinyMCE upload bypass](https://hackerone.com/reports/778629) to 8x8 - 12 upvotes, $0
-76. [Unrestricted File Upload Leads to XSS & Potential RCE](https://hackerone.com/reports/900179) to U.S. Dept Of Defense - 12 upvotes, $0
-77. [Vulnerability in GoldSource Engine allows to upload and run an arbitrary DLL on client](https://hackerone.com/reports/508894) to Valve - 11 upvotes, $1000
-78. [DOS: out of memory from gif through upload api](https://hackerone.com/reports/1620170) to Mattermost - 11 upvotes, $150
-79. [Unrestricted file upload (RCE)](https://hackerone.com/reports/343726) to Node.js third-party modules - 11 upvotes, $0
-80. [Post Based XSS On Upload Via CK Editor [semrush.com]](https://hackerone.com/reports/375352) to Semrush - 11 upvotes, $0
-81. [Unrestricted File Upload on https://app.lemlist.com](https://hackerone.com/reports/722919) to lemlist - 11 upvotes, $0
+76. [Unrestricted File Upload on https://app.lemlist.com](https://hackerone.com/reports/722919) to lemlist - 12 upvotes, $0
+77. [Unrestricted File Upload Leads to XSS & Potential RCE](https://hackerone.com/reports/900179) to U.S. Dept Of Defense - 12 upvotes, $0
+78. [Vulnerability in GoldSource Engine allows to upload and run an arbitrary DLL on client](https://hackerone.com/reports/508894) to Valve - 11 upvotes, $1000
+79. [DOS: out of memory from gif through upload api](https://hackerone.com/reports/1620170) to Mattermost - 11 upvotes, $150
+80. [Unrestricted file upload (RCE)](https://hackerone.com/reports/343726) to Node.js third-party modules - 11 upvotes, $0
+81. [Post Based XSS On Upload Via CK Editor [semrush.com]](https://hackerone.com/reports/375352) to Semrush - 11 upvotes, $0
 82. [UniFi Video Server - Arbitrary file upload as SYSTEM](https://hackerone.com/reports/129641) to Ubiquiti Inc. - 10 upvotes, $0
 83. [Open redirect open.rocket.chat/file-upload/ID/filename.svg](https://hackerone.com/reports/368927) to Rocket.Chat - 10 upvotes, $0
-84. [SVG file upload leads to XML injection](https://hackerone.com/reports/845832) to Topcoder - 10 upvotes, $0
+84. [SVG file upload leads to XML injection](https://hackerone.com/reports/845832) to Lab45 - 10 upvotes, $0
 85. [[chaturbate.com] - CSRF Vulnerability on image upload](https://hackerone.com/reports/401483) to Chaturbate - 9 upvotes, $300
 86. [A malicious user can upload a malicious script through managesieve  and trigger its execution in order to consume almost 100% of CPU (LMTP).](https://hackerone.com/reports/989668) to Open-Xchange - 9 upvotes, $300
 87. [File upload vulnerability on a DoD website](https://hackerone.com/reports/191243) to U.S. Dept Of Defense - 9 upvotes, $0
@@ -99,11 +99,11 @@ Top Upload reports from HackerOne:
 97. [apps.owncloud.com: Malicious file upload leads to remote code execution](https://hackerone.com/reports/84374) to ownCloud - 6 upvotes, $0
 98. [Unrestricted file upload - cloudacademy.informatica.com](https://hackerone.com/reports/253202) to Informatica - 6 upvotes, $0
 99. [Arbitrary file upload when setting an avatar](https://hackerone.com/reports/149268) to ExpressionEngine - 6 upvotes, $0
-100. [Remote code execution due to unvalidated file upload](https://hackerone.com/reports/1164452) to MTN Group - 6 upvotes, $0
-101. [CodeQL query to detect weak (duplicated) encryption keys for ASP.NET Telerik Upload ](https://hackerone.com/reports/781880) to GitHub Security Lab - 5 upvotes, $500
-102. [File upload over private IM channel](https://hackerone.com/reports/143903) to Slack - 5 upvotes, $0
-103. [HTML injection and limited XSS via logo image upload - Nextcloud 12.0.0](https://hackerone.com/reports/231524) to Nextcloud - 5 upvotes, $0
-104. [Upload directory of Mtn.ci](https://hackerone.com/reports/762118) to MTN Group - 5 upvotes, $0
+100. [Upload directory of Mtn.ci](https://hackerone.com/reports/762118) to MTN Group - 6 upvotes, $0
+101. [Remote code execution due to unvalidated file upload](https://hackerone.com/reports/1164452) to MTN Group - 6 upvotes, $0
+102. [CodeQL query to detect weak (duplicated) encryption keys for ASP.NET Telerik Upload ](https://hackerone.com/reports/781880) to GitHub Security Lab - 5 upvotes, $500
+103. [File upload over private IM channel](https://hackerone.com/reports/143903) to Slack - 5 upvotes, $0
+104. [HTML injection and limited XSS via logo image upload - Nextcloud 12.0.0](https://hackerone.com/reports/231524) to Nextcloud - 5 upvotes, $0
 105. [Unrestricted File Upload on https://my.stripo.email and https://stripo.email](https://hackerone.com/reports/823588) to Stripo Inc - 5 upvotes, $0
 106. [File Upload Restriction Bypass](https://hackerone.com/reports/259913) to U.S. Dept Of Defense - 5 upvotes, $0
 107. [[z.tochka.com] Unlimited file uploads lead to malware executed](https://hackerone.com/reports/950853) to QIWI - 5 upvotes, $0

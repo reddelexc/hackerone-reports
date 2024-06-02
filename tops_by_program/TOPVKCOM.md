@@ -9,7 +9,7 @@ Top reports from VK.com program at HackerOne:
 7. [Stealing Private Information in VK Android App through PlayerProxy Port Remotely](https://hackerone.com/reports/292761) to VK.com - 50 upvotes, $700
 8. [XSS в сюжетах.](https://hackerone.com/reports/1115763) to VK.com - 49 upvotes, $500
 9. [XSS Reflected in m.vk.com](https://hackerone.com/reports/1011463) to VK.com - 48 upvotes, $0
-10. [Уязвимость в приложении для Android](https://hackerone.com/reports/1343528) to VK.com - 47 upvotes, $0
+10. [Уязвимость в приложении для Android](https://hackerone.com/reports/1343528) to VK.com - 48 upvotes, $0
 11. [Вставляем свой код в мобильном приложении в разделе помощи сообществам](https://hackerone.com/reports/433904) to VK.com - 44 upvotes, $300
 12. [Clickjacking vkpay](https://hackerone.com/reports/374817) to VK.com - 44 upvotes, $0
 13. [Bypass User Interaction to initiate a VoIP call to Another User](https://hackerone.com/reports/386144) to VK.com - 41 upvotes, $500

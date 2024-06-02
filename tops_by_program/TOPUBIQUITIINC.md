@@ -7,8 +7,8 @@ Top reports from Ubiquiti Inc. program at HackerOne:
 5. [Subdomain takeover on partners.ubnt.com due to non-used CloudFront DNS entry](https://hackerone.com/reports/145224) to Ubiquiti Inc. - 56 upvotes, $0
 6. [Login as root without password on EdgeSwitchX](https://hackerone.com/reports/512958) to Ubiquiti Inc. - 54 upvotes, $0
 7. [Ability to log in as any user without authentication if █████████ is empty](https://hackerone.com/reports/215053) to Ubiquiti Inc. - 52 upvotes, $0
-8. [CORS Misconfiguration leading to Private Information Disclosure](https://hackerone.com/reports/430249) to Ubiquiti Inc. - 50 upvotes, $0
-9. [Authentication bypass on sso.ubnt.com via subdomain takeover of ping.ubnt.com](https://hackerone.com/reports/172137) to Ubiquiti Inc. - 45 upvotes, $0
+8. [CORS Misconfiguration leading to Private Information Disclosure](https://hackerone.com/reports/430249) to Ubiquiti Inc. - 51 upvotes, $0
+9. [Authentication bypass on sso.ubnt.com via subdomain takeover of ping.ubnt.com](https://hackerone.com/reports/172137) to Ubiquiti Inc. - 47 upvotes, $0
 10. [Read-Only user can execute arbitraty shell commands on AirOS](https://hackerone.com/reports/139398) to Ubiquiti Inc. - 43 upvotes, $0
 11. [Unrestricted File System Access via Twig Template Injection on dev-ucrm-billing-demo.ubnt.com](https://hackerone.com/reports/301406) to Ubiquiti Inc. - 43 upvotes, $0
 12. [View Only to Root Privilege Escalation on UniFi Protect](https://hackerone.com/reports/825764) to Ubiquiti Inc. - 38 upvotes, $0
