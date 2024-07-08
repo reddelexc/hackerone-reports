@@ -8,9 +8,9 @@ Top reports from Weblate program at HackerOne:
 6. [Uploaded XLF files result in External Entity Execution](https://hackerone.com/reports/232614) to Weblate - 15 upvotes, $0
 7. [Insecure Account Removal #2](https://hackerone.com/reports/229532) to Weblate - 14 upvotes, $0
 8. [Race Condition allows to get more free trials and get more than 100 languages and strings for free](https://hackerone.com/reports/1087188) to Weblate - 13 upvotes, $0
-9. [Password Restriction](https://hackerone.com/reports/229920) to Weblate - 12 upvotes, $0
-10. [Broken Authentication – Session Token bug](https://hackerone.com/reports/400826) to Weblate - 12 upvotes, $0
-11. [Rate Limit Bypass on login Page](https://hackerone.com/reports/224460) to Weblate - 11 upvotes, $0
+9. [Rate Limit Bypass on login Page](https://hackerone.com/reports/224460) to Weblate - 12 upvotes, $0
+10. [Password Restriction](https://hackerone.com/reports/229920) to Weblate - 12 upvotes, $0
+11. [Broken Authentication – Session Token bug](https://hackerone.com/reports/400826) to Weblate - 12 upvotes, $0
 12. [DKIM records not present, Email Hijacking is possible.....](https://hackerone.com/reports/253926) to Weblate - 11 upvotes, $0
 13. [flood of comment no rate  limit on commnets \>\>  by using different user agent ](https://hackerone.com/reports/404035) to Weblate - 11 upvotes, $0
 14. [Stored XSS via Create Project (Add new translation project)](https://hackerone.com/reports/610219) to Weblate - 11 upvotes, $0

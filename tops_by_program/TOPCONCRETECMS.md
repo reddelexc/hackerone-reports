@@ -2,13 +2,13 @@ Top reports from Concrete CMS program at HackerOne:
 
 1. [Remote Code Execution (Reverse Shell) - File Manager](https://hackerone.com/reports/768322) to Concrete CMS - 111 upvotes, $0
 2. [Time-base SQL Injection in Search Users](https://hackerone.com/reports/876800) to Concrete CMS - 58 upvotes, $0
-3. [Password Reset link hijacking via Host Header Poisoning ](https://hackerone.com/reports/226659) to Concrete CMS - 56 upvotes, $0
+3. [Password Reset link hijacking via Host Header Poisoning ](https://hackerone.com/reports/226659) to Concrete CMS - 57 upvotes, $0
 4. [SVG file that HTML Included is able to upload via File Manager](https://hackerone.com/reports/437863) to Concrete CMS - 26 upvotes, $0
 5. [Arbitrary File delete via PHAR deserialization](https://hackerone.com/reports/921288) to Concrete CMS - 26 upvotes, $0
 6. [XSS in select attribute options](https://hackerone.com/reports/753567) to Concrete CMS - 20 upvotes, $0
 7. [SSRF thru File Replace](https://hackerone.com/reports/243865) to Concrete CMS - 17 upvotes, $0
 8. [Reflected XSS vulnerability in Database name field on installation screen](https://hackerone.com/reports/289330) to Concrete CMS - 17 upvotes, $0
-9. ['cnvID' parameter vulnerable to Insecure Direct Object References](https://hackerone.com/reports/265284) to Concrete CMS - 16 upvotes, $0
+9. ['cnvID' parameter vulnerable to Insecure Direct Object References](https://hackerone.com/reports/265284) to Concrete CMS - 17 upvotes, $0
 10. [Authenticated path traversal to RCE](https://hackerone.com/reports/1102067) to Concrete CMS - 16 upvotes, $0
 11. [Remote Code Execution through Extension Bypass on Log Functionality](https://hackerone.com/reports/841947) to Concrete CMS - 15 upvotes, $0
 12. [Cross Site Scripting (XSS) Stored - Private messaging](https://hackerone.com/reports/768313) to Concrete CMS - 15 upvotes, $0
@@ -43,12 +43,12 @@ Top reports from Concrete CMS program at HackerOne:
 41. [Phar Deserialization Vulnerability via Logging Settings](https://hackerone.com/reports/1063039) to Concrete CMS - 4 upvotes, $0
 42. [Stored XSS in Conversations (both client and admin) when Active Conversation Editor is set to "Rich Text"](https://hackerone.com/reports/616770) to Concrete CMS - 4 upvotes, $0
 43. [SSRF - pivoting in the private LAN](https://hackerone.com/reports/1364797) to Concrete CMS - 4 upvotes, $0
-44. [/index.php/dashboard/sitemap/explore/ Cross-site scripting](https://hackerone.com/reports/4808) to Concrete CMS - 3 upvotes, $0
-45. [stored XSS in concrete5 5.7.2.1](https://hackerone.com/reports/38890) to Concrete CMS - 3 upvotes, $0
-46. [SQL injection in conc/index.php/ccm/system/search/users/submit](https://hackerone.com/reports/38778) to Concrete CMS - 3 upvotes, $0
-47. [Multiple Cross Site Request Forgery Vulnerabilities in Concrete5 version 5.7.3.1](https://hackerone.com/reports/59660) to Concrete CMS - 3 upvotes, $0
-48. [Multiple Stored Cross Site Scripting Vulnerabilities in Concrete5 version 5.7.3.1](https://hackerone.com/reports/59662) to Concrete CMS - 3 upvotes, $0
-49. [page_controls_menu_js can reveal collection version of page](https://hackerone.com/reports/4938) to Concrete CMS - 2 upvotes, $0
+44. [page_controls_menu_js can reveal collection version of page](https://hackerone.com/reports/4938) to Concrete CMS - 3 upvotes, $0
+45. [/index.php/dashboard/sitemap/explore/ Cross-site scripting](https://hackerone.com/reports/4808) to Concrete CMS - 3 upvotes, $0
+46. [stored XSS in concrete5 5.7.2.1](https://hackerone.com/reports/38890) to Concrete CMS - 3 upvotes, $0
+47. [SQL injection in conc/index.php/ccm/system/search/users/submit](https://hackerone.com/reports/38778) to Concrete CMS - 3 upvotes, $0
+48. [Multiple Cross Site Request Forgery Vulnerabilities in Concrete5 version 5.7.3.1](https://hackerone.com/reports/59660) to Concrete CMS - 3 upvotes, $0
+49. [Multiple Stored Cross Site Scripting Vulnerabilities in Concrete5 version 5.7.3.1](https://hackerone.com/reports/59662) to Concrete CMS - 3 upvotes, $0
 50. [https://concrete5.org ::: HeartBleed Attack (CVE-2014-0160)](https://hackerone.com/reports/6475) to Concrete CMS - 2 upvotes, $0
 51. [dashboard/pages/types [Unknown column 'Array' in 'where clause'] disclosure.](https://hackerone.com/reports/4811) to Concrete CMS - 2 upvotes, $0
 52. [CONCRETE5 - path disclosure.](https://hackerone.com/reports/4931) to Concrete CMS - 2 upvotes, $0
