@@ -11,6 +11,7 @@ scrolling through the whole hacktivity is almost impossible for now.
 
 import time
 import csv
+from datetime import datetime
 from selenium.webdriver import Chrome, ChromeOptions
 from selenium.webdriver.common.by import By
 
@@ -59,32 +60,38 @@ def fetch():
             reports.append(dict(row))
     first_report_link = reports[0]['link']
 
-    driver.get(hacktivity_url)
-    time.sleep(page_loading_timeout)
 
-    page = 0
-    driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-    next_page_button = driver.find_element(By.CSS_SELECTOR, 'button[data-testid=\'hacktivity-next-button\']')
-    new_reports = []
-    while True:
-        raw_reports = driver.find_elements(By.CLASS_NAME, 'routerlink')
-        new_reports += extract_reports(raw_reports)
-        found = False
-        for i in range(len(new_reports)):
-            if new_reports[i]['link'] == first_report_link:
-                reports = new_reports[:i] + reports
-                found = True
-                break
-        if found:
-            break
-
-        page += 1
-        print('Page:', page)
-        next_page_button.click()
+    try:
+        driver.get(hacktivity_url)
         time.sleep(page_loading_timeout)
-        driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
 
-    driver.close()
+        page = 0
+        driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+        next_page_button = driver.find_element(By.CSS_SELECTOR, 'button[data-testid=\'hacktivity-next-button\']')
+        new_reports = []
+        while True:
+            raw_reports = driver.find_elements(By.CLASS_NAME, 'routerlink')
+            new_reports += extract_reports(raw_reports)
+            found = False
+            for i in range(len(new_reports)):
+                if new_reports[i]['link'] == first_report_link:
+                    reports = new_reports[:i] + reports
+                    found = True
+                    break
+            if found:
+                break
+
+            page += 1
+            print('Page:', page)
+            driver.execute_script("arguments[0].click();", next_page_button)
+            time.sleep(page_loading_timeout)
+            driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+    except Exception as e:
+        print(e)
+        now = datetime.now().strftime('%Y-%m-%d')
+        driver.get_screenshot_as_file('error-%s.png' % now)
+    finally:
+        driver.close()
 
     with open('data.csv', 'w', newline='', encoding='utf-8') as file:
         keys = reports[0].keys()
