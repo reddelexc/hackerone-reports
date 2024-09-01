@@ -4,7 +4,7 @@ Top reports from GitHub Security Lab program at HackerOne:
 2. [[Python] CWE-400: Regular Expression Injection](https://hackerone.com/reports/1196124) to GitHub Security Lab - 72 upvotes, $4500
 3. [Initial websocket support for Javascript (SockJS)](https://hackerone.com/reports/854439) to GitHub Security Lab - 66 upvotes, $1800
 4. [Java: CWE-749 Unsafe resource loading in Android WebView leaking to injection attacks](https://hackerone.com/reports/1011956) to GitHub Security Lab - 59 upvotes, $2300
-5. [[ruby]: ZipSlip/TarSlip vulnerability detection](https://hackerone.com/reports/1914118) to GitHub Security Lab - 54 upvotes, $5500
+5. [[ruby]: ZipSlip/TarSlip vulnerability detection](https://hackerone.com/reports/1914118) to GitHub Security Lab - 56 upvotes, $5500
 6. [Java/CWE-036: Calling openStream on URLs created from remote source can lead to file disclosure](https://hackerone.com/reports/844327) to GitHub Security Lab - 52 upvotes, $1800
 7. [CodeQL query for finding LDAP Injection (CWE-90) vulnerabilities in Java](https://hackerone.com/reports/787113) to GitHub Security Lab - 51 upvotes, $3000
 8. [[CPP]: Add query for CWE-805: Buffer Access with Incorrect Length Value using some functions](https://hackerone.com/reports/1864507) to GitHub Security Lab - 43 upvotes, $1800
@@ -40,11 +40,11 @@ Top reports from GitHub Security Lab program at HackerOne:
 38. [[Java] JShell Injection](https://hackerone.com/reports/1250307) to GitHub Security Lab - 12 upvotes, $0
 39. [[Java] CWE-939 - Address improper URL authorization](https://hackerone.com/reports/891268) to GitHub Security Lab - 11 upvotes, $1800
 40. [Java: An experimental query for ignored hostname verification](https://hackerone.com/reports/1481247) to GitHub Security Lab - 11 upvotes, $1800
-41. [Java: CWE-532 sensitive info logging](https://hackerone.com/reports/886287) to GitHub Security Lab - 11 upvotes, $500
-42. [gagliardetto: Query to detect incorrect conversion between numeric types](https://hackerone.com/reports/891265) to GitHub Security Lab - 11 upvotes, $0
-43. [Golang : Add Email Content Injection query](https://hackerone.com/reports/892466) to GitHub Security Lab - 11 upvotes, $0
-44. [Java: CWE-600 Uncaught servlet exception](https://hackerone.com/reports/1052793) to GitHub Security Lab - 10 upvotes, $1800
-45. [[Python]: Timing attack](https://hackerone.com/reports/1943049) to GitHub Security Lab - 10 upvotes, $1800
+41. [[Python]: Timing attack](https://hackerone.com/reports/1943049) to GitHub Security Lab - 11 upvotes, $1800
+42. [Java: CWE-532 sensitive info logging](https://hackerone.com/reports/886287) to GitHub Security Lab - 11 upvotes, $500
+43. [gagliardetto: Query to detect incorrect conversion between numeric types](https://hackerone.com/reports/891265) to GitHub Security Lab - 11 upvotes, $0
+44. [Golang : Add Email Content Injection query](https://hackerone.com/reports/892466) to GitHub Security Lab - 11 upvotes, $0
+45. [Java: CWE-600 Uncaught servlet exception](https://hackerone.com/reports/1052793) to GitHub Security Lab - 10 upvotes, $1800
 46. [Java: CWE-798 - Hardcoded AWS credentials](https://hackerone.com/reports/956967) to GitHub Security Lab - 10 upvotes, $1000
 47. [[Java]: CWE-625 - Query to detect regex dot bypass](https://hackerone.com/reports/1690045) to GitHub Security Lab - 10 upvotes, $1000
 48. [[Java] CWE-094: Query to detect Groovy Code Injections](https://hackerone.com/reports/1175840) to GitHub Security Lab - 10 upvotes, $0
@@ -67,17 +67,17 @@ Top reports from GitHub Security Lab program at HackerOne:
 65. [Java: Detect remote source from Android intent extra](https://hackerone.com/reports/1030295) to GitHub Security Lab - 7 upvotes, $1800
 66. [[Java] CWE-297: Insecure LDAP endpoint configuration](https://hackerone.com/reports/1133572) to GitHub Security Lab - 7 upvotes, $1800
 67. [[Java] CWE-1004: Query to check sensitive cookies without the HttpOnly flag set ](https://hackerone.com/reports/1165198) to GitHub Security Lab - 7 upvotes, $1000
-68. [[python]: Zip Slip Vulnerability](https://hackerone.com/reports/1572496) to GitHub Security Lab - 7 upvotes, $1000
-69. [[CPP]: Add query for CWE-125 Out-of-bounds Read with different interpretation of the string when use mbtowc ](https://hackerone.com/reports/1738939) to GitHub Security Lab - 7 upvotes, $1000
-70. [[CPP]Add query to detect bugs like CVE-2017-5123](https://hackerone.com/reports/1775225) to GitHub Security Lab - 7 upvotes, $1000
-71. [Python : Add query to detect PAM authorization bypass ](https://hackerone.com/reports/1587150) to GitHub Security Lab - 7 upvotes, $0
-72. [[Java] CWE-094: Rhino code injection](https://hackerone.com/reports/1204660) to GitHub Security Lab - 6 upvotes, $1800
-73. [[GO]: CWE-326: Insufficient key size](https://hackerone.com/reports/1212272) to GitHub Security Lab - 6 upvotes, $1800
-74. [Python: Add support of clickhouse-driver package](https://hackerone.com/reports/1217143) to GitHub Security Lab - 6 upvotes, $1800
-75. [ihsinme:CPP Add query for CWE-415 Double Free](https://hackerone.com/reports/1219491) to GitHub Security Lab - 6 upvotes, $1800
-76. [[Java]: CWE-665 Insecure environment during RMI/JMX Server initialisation - All for one bounty](https://hackerone.com/reports/1250320) to GitHub Security Lab - 6 upvotes, $1800
-77. [[Java] CWE-502: Unsafe deserialization with three JSON frameworks](https://hackerone.com/reports/1368720) to GitHub Security Lab - 6 upvotes, $1800
-78. [ihsinme: CPP add query for CWE-788 Access of memory location after the end of a buffer using strlen.](https://hackerone.com/reports/1122664) to GitHub Security Lab - 6 upvotes, $1000
+68. [[CPP]: Add query for CWE-125 Out-of-bounds Read with different interpretation of the string when use mbtowc ](https://hackerone.com/reports/1738939) to GitHub Security Lab - 7 upvotes, $1000
+69. [[CPP]Add query to detect bugs like CVE-2017-5123](https://hackerone.com/reports/1775225) to GitHub Security Lab - 7 upvotes, $1000
+70. [Python : Add query to detect PAM authorization bypass ](https://hackerone.com/reports/1587150) to GitHub Security Lab - 7 upvotes, $0
+71. [[Java] CWE-094: Rhino code injection](https://hackerone.com/reports/1204660) to GitHub Security Lab - 6 upvotes, $1800
+72. [[GO]: CWE-326: Insufficient key size](https://hackerone.com/reports/1212272) to GitHub Security Lab - 6 upvotes, $1800
+73. [Python: Add support of clickhouse-driver package](https://hackerone.com/reports/1217143) to GitHub Security Lab - 6 upvotes, $1800
+74. [ihsinme:CPP Add query for CWE-415 Double Free](https://hackerone.com/reports/1219491) to GitHub Security Lab - 6 upvotes, $1800
+75. [[Java]: CWE-665 Insecure environment during RMI/JMX Server initialisation - All for one bounty](https://hackerone.com/reports/1250320) to GitHub Security Lab - 6 upvotes, $1800
+76. [[Java] CWE-502: Unsafe deserialization with three JSON frameworks](https://hackerone.com/reports/1368720) to GitHub Security Lab - 6 upvotes, $1800
+77. [ihsinme: CPP add query for CWE-788 Access of memory location after the end of a buffer using strlen.](https://hackerone.com/reports/1122664) to GitHub Security Lab - 6 upvotes, $1000
+78. [[python]: Zip Slip Vulnerability](https://hackerone.com/reports/1572496) to GitHub Security Lab - 6 upvotes, $1000
 79. [[Go]: Add Beego.Input.RequestBody source to Beego framework](https://hackerone.com/reports/1812743) to GitHub Security Lab - 6 upvotes, $1000
 80. [[codeql-go]: Add query to find use of constant state parameter in Oauth2 flow](https://hackerone.com/reports/1121574) to GitHub Security Lab - 6 upvotes, $0
 81. [porcupiney.hairs : Java/Android - Insecure Loading of a Dex File ](https://hackerone.com/reports/1161956) to GitHub Security Lab - 6 upvotes, $0

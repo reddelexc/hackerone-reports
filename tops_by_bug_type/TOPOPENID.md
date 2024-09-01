@@ -1,14 +1,14 @@
 Top OpenID reports from HackerOne:
 
-1. [Email Confirmation Bypass in myshop.myshopify.com that Leads to Full Privilege Escalation to Any Shop Owner by Taking Advantage of the Shopify SSO](https://hackerone.com/reports/791775) to Shopify - 1844 upvotes, $16000
+1. [Email Confirmation Bypass in myshop.myshopify.com that Leads to Full Privilege Escalation to Any Shop Owner by Taking Advantage of the Shopify SSO](https://hackerone.com/reports/791775) to Shopify - 1847 upvotes, $16000
 2. [Able to Takeover Merchants Accounts Even They Have Already Setup SSO, After Bypassing the Email Confirmation](https://hackerone.com/reports/796956) to Shopify - 301 upvotes, $7500
 3. [Ability to DOS any organization's SSO and open up the door to account takeovers](https://hackerone.com/reports/976603) to Grammarly - 227 upvotes, $10500
-4. [Stealing SSO Login Tokens (snappublisher.snapchat.com)](https://hackerone.com/reports/265943) to Snapchat - 222 upvotes, $7500
-5. [HackerOne SAML signup domain enforcement bypass results in unauthorized access to HackerOne PullRequest organization](https://hackerone.com/reports/2101076) to HackerOne - 203 upvotes, $0
+4. [Stealing SSO Login Tokens (snappublisher.snapchat.com)](https://hackerone.com/reports/265943) to Snapchat - 224 upvotes, $7500
+5. [HackerOne SAML signup domain enforcement bypass results in unauthorized access to HackerOne PullRequest organization](https://hackerone.com/reports/2101076) to HackerOne - 205 upvotes, $0
 6. [Insecure Zendesk SSO implementation by generating JWT client-side](https://hackerone.com/reports/638635) to Trint Ltd - 93 upvotes, $0
 7. [SAML Authentication Bypass on uchat.uberinternal.com](https://hackerone.com/reports/223014) to Uber - 83 upvotes, $8500
 8. [Twitter SSO allows unverified e-mail registration, leads to Slack and social media hijacks](https://hackerone.com/reports/235139) to Zendesk - 67 upvotes, $0
-9. [ID4me feature of OpenID connect app available even when disabled ](https://hackerone.com/reports/2376929) to Nextcloud - 56 upvotes, $0
+9. [ID4me feature of OpenID connect app available even when disabled ](https://hackerone.com/reports/2376929) to Nextcloud - 58 upvotes, $0
 10. [[auth2.zomato.com] Reflected XSS at `oauth2/fallbacks/error` | ORY Hydra an OAuth 2.0 and OpenID Connect Provider](https://hackerone.com/reports/456333) to Zomato - 46 upvotes, $0
 11. [(HackerOne SSO-SAML) Login CSRF, Open Redirect, and Self-XSS Possible Exploitation](https://hackerone.com/reports/171398) to HackerOne - 42 upvotes, $0
 12. [Authentication bypass on JetPack SSO manager - Allows to access the administration panel of wordpress without user interaction](https://hackerone.com/reports/2037902) to Automattic - 34 upvotes, $0
@@ -25,5 +25,5 @@ Top OpenID reports from HackerOne:
 23. [Update php-saml library to 2.10.5](https://hackerone.com/reports/213789) to Nextcloud - 7 upvotes, $0
 24. [Открытое перенапровление на OpenID](https://hackerone.com/reports/241484) to Mail.ru - 5 upvotes, $0
 25. [Configuration and/or source code files on uchat-staging.uberinternal.com can be viewed without OneLogin SSO Authentication ](https://hackerone.com/reports/298990) to Uber - 4 upvotes, $0
-26. [SAML authentication bypass through unauthenticated `addSamlProvider` Meteor Call](https://hackerone.com/reports/1049375) to Rocket.Chat - 3 upvotes, $0
+26. [SAML authentication bypass through unauthenticated `addSamlProvider` Meteor Call](https://hackerone.com/reports/1049375) to Rocket.Chat - 4 upvotes, $0
 27. [SSO Provider Credential Cache (logged out of Google/GitHub, could still log into Courier)](https://hackerone.com/reports/880730) to Courier - 0 upvotes, $0

@@ -39,9 +39,9 @@ Top reports from Gratipay program at HackerOne:
 37. [Harden resend throttling](https://hackerone.com/reports/108645) to Gratipay - 5 upvotes, $0
 38. [clickjacking on https://gratipay.com/on/npm/[text]](https://hackerone.com/reports/267189) to Gratipay - 5 upvotes, $0
 39. [No Valid SPF Records.](https://hackerone.com/reports/116973) to Gratipay - 4 upvotes, $10
-40. [Content Spoofing/Text Injection ](https://hackerone.com/reports/154921) to Gratipay - 4 upvotes, $1
-41. [weak ssl cipher suites](https://hackerone.com/reports/76303) to Gratipay - 4 upvotes, $0
-42. [HTTP trace method is enabled](https://hackerone.com/reports/109054) to Gratipay - 4 upvotes, $0
+40. [HTTP trace method is enabled](https://hackerone.com/reports/109054) to Gratipay - 4 upvotes, $5
+41. [Content Spoofing/Text Injection ](https://hackerone.com/reports/154921) to Gratipay - 4 upvotes, $1
+42. [weak ssl cipher suites](https://hackerone.com/reports/76303) to Gratipay - 4 upvotes, $0
 43. [prevent null bytes in email field](https://hackerone.com/reports/150917) to Gratipay - 4 upvotes, $0
 44. [don't allow directory browsing on grtp.co](https://hackerone.com/reports/151295) to Gratipay - 4 upvotes, $0
 45. [limit HTTP methods on other domains](https://hackerone.com/reports/117142) to Gratipay - 4 upvotes, $0
