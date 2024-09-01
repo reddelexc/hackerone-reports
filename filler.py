@@ -20,7 +20,7 @@ def fill():
             reports.append(dict(row))
     count_of_reports = len(reports)
     for i in range(count_of_reports):
-        time.sleep(0.1)
+        time.sleep(0.5)
         print('Fetching report ' + str(i + 1) + ' out of ' + str(count_of_reports))
         report_url = 'https://' + reports[i]['link'] + '.json'
         try:
