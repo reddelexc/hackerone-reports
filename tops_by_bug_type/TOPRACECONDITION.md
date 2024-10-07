@@ -10,7 +10,7 @@ Top Race Condition reports from HackerOne:
 8. [Race Condition : Exploiting the loyalty claim https://xxx.vendhq.com/loyalty/claim/email/xxxxx url and gain x amount of loyalty bonus/cash](https://hackerone.com/reports/331940) to Vend VDP - 92 upvotes, $0
 9. [Race Condition Enables Bypassing Verification Check](https://hackerone.com/reports/2110030) to Tools for Humanity - 82 upvotes, $3000
 10. [Race Condition in Flag Submission](https://hackerone.com/reports/454949) to HackerOne - 78 upvotes, $0
-11. [Race condition leads to duplicate payouts](https://hackerone.com/reports/220445) to HackerOne - 67 upvotes, $0
+11. [Race condition leads to duplicate payouts](https://hackerone.com/reports/220445) to HackerOne - 68 upvotes, $0
 12. [Race Condition of Transfer data Credits to Organization Leads to Add Extra free Data Credits to the Organization](https://hackerone.com/reports/974892) to Helium - 63 upvotes, $250
 13. [Race condition in joining CTF group](https://hackerone.com/reports/1540969) to HackerOne - 61 upvotes, $500
 14. [Race Condition on "Get free Badoo Premium" which allows to get more days of free premium for Free. ](https://hackerone.com/reports/1037430) to Bumble - 52 upvotes, $0
@@ -37,8 +37,8 @@ Top Race Condition reports from HackerOne:
 35. [Race condition vulnerability on "This Rocks" button.](https://hackerone.com/reports/474021) to Rockstar Games - 19 upvotes, $0
 36. [Race condition on https://judge.me/people](https://hackerone.com/reports/1566017) to Judge.me  - 18 upvotes, $250
 37. [Race condition on the Federalist API endpoints can lead to the Denial of Service attack](https://hackerone.com/reports/249319) to GSA Bounty - 16 upvotes, $150
-38. [Race condition при покупке подарков на games.mail.ru](https://hackerone.com/reports/685432) to Mail.ru - 15 upvotes, $0
-39. [Race condition (TOCTOU) in NordVPN can result in local privilege escalation](https://hackerone.com/reports/768110) to Nord Security - 15 upvotes, $0
+38. [Race condition (TOCTOU) in NordVPN can result in local privilege escalation](https://hackerone.com/reports/768110) to Nord Security - 16 upvotes, $0
+39. [Race condition при покупке подарков на games.mail.ru](https://hackerone.com/reports/685432) to Mail.ru - 15 upvotes, $0
 40. [Issue in the implementation of captcha and race condition](https://hackerone.com/reports/67562) to VK.com - 14 upvotes, $0
 41. [race condition in adding team members](https://hackerone.com/reports/176127) to Shopify - 14 upvotes, $0
 42. [Race Condition Vulnerability On Pornhubpremium.com](https://hackerone.com/reports/183624) to Pornhub - 13 upvotes, $520
