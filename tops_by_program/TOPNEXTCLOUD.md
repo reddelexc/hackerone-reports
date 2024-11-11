@@ -26,46 +26,46 @@ Top reports from Nextcloud program at HackerOne:
 24. [Stored XSS in collabora via user name](https://hackerone.com/reports/968232) to Nextcloud - 48 upvotes, $0
 25. [Download permissions can be changed by resharer](https://hackerone.com/reports/1724016) to Nextcloud - 46 upvotes, $500
 26. [Inviting excessive long email addresses to a calendar event makes the server unresponsive](https://hackerone.com/reports/2058337) to Nextcloud - 46 upvotes, $0
-27. [Password reset endpoint is not brute force protected](https://hackerone.com/reports/1987062) to Nextcloud - 43 upvotes, $500
-28. [SSL certificate not validated when registering with a provider](https://hackerone.com/reports/903424) to Nextcloud - 43 upvotes, $300
-29. [OAuth2 "authorization_code" is valid indefinetly](https://hackerone.com/reports/1784162) to Nextcloud - 43 upvotes, $100
-30. [Notes app can be tricked into using a received share created before the user logged in](https://hackerone.com/reports/2254151) to Nextcloud - 42 upvotes, $0
+27. [Notes app can be tricked into using a received share created before the user logged in](https://hackerone.com/reports/2254151) to Nextcloud - 44 upvotes, $0
+28. [Password reset endpoint is not brute force protected](https://hackerone.com/reports/1987062) to Nextcloud - 43 upvotes, $500
+29. [SSL certificate not validated when registering with a provider](https://hackerone.com/reports/903424) to Nextcloud - 43 upvotes, $300
+30. [OAuth2 "authorization_code" is valid indefinetly](https://hackerone.com/reports/1784162) to Nextcloud - 43 upvotes, $100
 31. [End-to-end encrypted file-drops can be made inaccessible](https://hackerone.com/reports/1914115) to Nextcloud - 41 upvotes, $400
-32. [Delete external storage of any user](https://hackerone.com/reports/2212627) to Nextcloud - 41 upvotes, $0
-33. [Memory Leak in OCUtil.dll library in Desktop client can lead to DoS](https://hackerone.com/reports/588562) to Nextcloud - 40 upvotes, $100
-34. [Events information leaked with shared calendars on recurrence exceptions](https://hackerone.com/reports/2479325) to Nextcloud - 40 upvotes, $100
+32. [Events information leaked with shared calendars on recurrence exceptions](https://hackerone.com/reports/2479325) to Nextcloud - 41 upvotes, $100
+33. [Delete external storage of any user](https://hackerone.com/reports/2212627) to Nextcloud - 41 upvotes, $0
+34. [Memory Leak in OCUtil.dll library in Desktop client can lead to DoS](https://hackerone.com/reports/588562) to Nextcloud - 40 upvotes, $100
 35. [http://www.nextcloud.com/wp-includes/js/swfupload/swfupload.swf allows open redirect / site defacement](https://hackerone.com/reports/209520) to Nextcloud - 40 upvotes, $0
 36. [Scoped apptokens can be changed by that very apptoken](https://hackerone.com/reports/1193321) to Nextcloud - 38 upvotes, $1000
 37. [Remote code execution via path traversal in Zip extraction in the Extract app](https://hackerone.com/reports/765291) to Nextcloud - 38 upvotes, $0
 38. [[Reflected XSS] In Request URL](https://hackerone.com/reports/515484) to Nextcloud - 37 upvotes, $0
 39. [No password length limit when creating a user as an administrator](https://hackerone.com/reports/1727424) to Nextcloud - 37 upvotes, $0
-40. [xmlrpc.php &wp-cron.php files are enabled, and will used for (DDOS),(DOS) and broutforce users attack.](https://hackerone.com/reports/2299069) to Nextcloud - 37 upvotes, $0
-41. [Can download files by zipping the folder](https://hackerone.com/reports/2247457) to Nextcloud - 37 upvotes, $0
-42. [Expired reshare links allow access to all files in share](https://hackerone.com/reports/452854) to Nextcloud - 36 upvotes, $0
-43. [Path traversal allows tricking the Talk Android app into writing files into it's root directory ](https://hackerone.com/reports/1997029) to Nextcloud - 36 upvotes, $0
-44. [Arbitrary read of all SVG files on a Nextcloud server](https://hackerone.com/reports/1302155) to Nextcloud - 35 upvotes, $1250
-45. [No session logout after changing password & alsoandroid sessions not shown in sessions list so they can be deleted](https://hackerone.com/reports/194329) to Nextcloud - 35 upvotes, $0
-46. [DNS pin middleware can be tricked into DNS rebinding allowing SSRF](https://hackerone.com/reports/2115212) to Nextcloud - 35 upvotes, $0
-47. [Blind SSRF in Mail App](https://hackerone.com/reports/1869714) to Nextcloud - 35 upvotes, $0
+40. [Path traversal allows tricking the Talk Android app into writing files into it's root directory ](https://hackerone.com/reports/1997029) to Nextcloud - 37 upvotes, $0
+41. [xmlrpc.php &wp-cron.php files are enabled, and will used for (DDOS),(DOS) and broutforce users attack.](https://hackerone.com/reports/2299069) to Nextcloud - 37 upvotes, $0
+42. [Can download files by zipping the folder](https://hackerone.com/reports/2247457) to Nextcloud - 37 upvotes, $0
+43. [Expired reshare links allow access to all files in share](https://hackerone.com/reports/452854) to Nextcloud - 36 upvotes, $0
+44. [DNS pin middleware can be tricked into DNS rebinding allowing SSRF](https://hackerone.com/reports/2115212) to Nextcloud - 36 upvotes, $0
+45. [Blind SSRF in Mail App](https://hackerone.com/reports/1869714) to Nextcloud - 36 upvotes, $0
+46. [Arbitrary read of all SVG files on a Nextcloud server](https://hackerone.com/reports/1302155) to Nextcloud - 35 upvotes, $1250
+47. [No session logout after changing password & alsoandroid sessions not shown in sessions list so they can be deleted](https://hackerone.com/reports/194329) to Nextcloud - 35 upvotes, $0
 48. [Read-only users can restore old versions](https://hackerone.com/reports/1356508) to Nextcloud - 34 upvotes, $500
 49. [Code injection in Nextcloud Desktop Client for macOS](https://hackerone.com/reports/2307625) to Nextcloud - 34 upvotes, $250
 50. [Brute force protection allows to send more requests than intended](https://hackerone.com/reports/1918525) to Nextcloud - 33 upvotes, $500
-51. [SQL Injection found in NextCloud Android App Content Provider](https://hackerone.com/reports/291764) to Nextcloud - 32 upvotes, $150
+51. [SQL Injection found in NextCloud Android App Content Provider](https://hackerone.com/reports/291764) to Nextcloud - 33 upvotes, $150
 52. [2FA Session not expires after the password reset](https://hackerone.com/reports/486693) to Nextcloud - 32 upvotes, $50
 53. [Cross site scripting - XSRF Token](https://hackerone.com/reports/858255) to Nextcloud - 32 upvotes, $0
 54. [OAuth2 client_secret stored in plain text in the database](https://hackerone.com/reports/1994324) to Nextcloud - 31 upvotes, $100
-55. [Passwords being stored as plain text in logging](https://hackerone.com/reports/469668) to Nextcloud - 30 upvotes, $0
-56. [Group admins can remove arbitrary data from "data" directory (including admin data)](https://hackerone.com/reports/508493) to Nextcloud - 30 upvotes, $0
-57. [SSRF via filter bypass due to lax checking on IPs](https://hackerone.com/reports/1702864) to Nextcloud - 29 upvotes, $250
-58. [I am because bug](https://hackerone.com/reports/226097) to Nextcloud - 29 upvotes, $0
-59. [Ability to read any emails through IDOR on Nextcloud Mail](https://hackerone.com/reports/1784681) to Nextcloud - 29 upvotes, $0
-60. [Weak ssh algorithms and CVE-2023-48795 Discovered on various subdomains of nextcloud.com](https://hackerone.com/reports/2446531) to Nextcloud - 29 upvotes, $0
+55. [SSRF via filter bypass due to lax checking on IPs](https://hackerone.com/reports/1702864) to Nextcloud - 30 upvotes, $250
+56. [Passwords being stored as plain text in logging](https://hackerone.com/reports/469668) to Nextcloud - 30 upvotes, $0
+57. [Group admins can remove arbitrary data from "data" directory (including admin data)](https://hackerone.com/reports/508493) to Nextcloud - 30 upvotes, $0
+58. [Weak ssh algorithms and CVE-2023-48795 Discovered on various subdomains of nextcloud.com](https://hackerone.com/reports/2446531) to Nextcloud - 30 upvotes, $0
+59. [I am because bug](https://hackerone.com/reports/226097) to Nextcloud - 29 upvotes, $0
+60. [Ability to read any emails through IDOR on Nextcloud Mail](https://hackerone.com/reports/1784681) to Nextcloud - 29 upvotes, $0
 61. [Reflected XSS in error pages (NC-SA-2017-008)](https://hackerone.com/reports/216812) to Nextcloud - 28 upvotes, $450
-62. [Code injection in macOS Desktop Client ](https://hackerone.com/reports/633266) to Nextcloud - 28 upvotes, $0
-63. [Database error shown to the user when using a long guest name in richdocuments](https://hackerone.com/reports/1067824) to Nextcloud - 28 upvotes, $0
-64. [Bruteforce protection in password verification can be bypassed](https://hackerone.com/reports/2230915) to Nextcloud - 28 upvotes, $0
-65. [ID4ME does not validate signature or expiration](https://hackerone.com/reports/1878391) to Nextcloud - 27 upvotes, $750
-66. [SSRF via potential filter bypass with too lax local domain checking](https://hackerone.com/reports/1608039) to Nextcloud - 27 upvotes, $250
+62. [SSRF via potential filter bypass with too lax local domain checking](https://hackerone.com/reports/1608039) to Nextcloud - 28 upvotes, $250
+63. [Code injection in macOS Desktop Client ](https://hackerone.com/reports/633266) to Nextcloud - 28 upvotes, $0
+64. [Database error shown to the user when using a long guest name in richdocuments](https://hackerone.com/reports/1067824) to Nextcloud - 28 upvotes, $0
+65. [Bruteforce protection in password verification can be bypassed](https://hackerone.com/reports/2230915) to Nextcloud - 28 upvotes, $0
+66. [ID4ME does not validate signature or expiration](https://hackerone.com/reports/1878391) to Nextcloud - 27 upvotes, $750
 67. [CSRF vulnerability that allows an attacker to modify encryption settings](https://hackerone.com/reports/630146) to Nextcloud - 27 upvotes, $0
 68. [Password of talk conversations can be bruteforced](https://hackerone.com/reports/2094473) to Nextcloud - 27 upvotes, $0
 69. [user_ldap app logs user passwords in the log file on level debug](https://hackerone.com/reports/2101165) to Nextcloud - 27 upvotes, $0
@@ -75,26 +75,26 @@ Top reports from Nextcloud program at HackerOne:
 73. [Blind Stored XSS on iOS App due to Unsanitized Webview](https://hackerone.com/reports/575562) to Nextcloud - 25 upvotes, $100
 74. [SMTP Command Injection in Appointment Emails via Newlines](https://hackerone.com/reports/1509216) to Nextcloud - 25 upvotes, $0
 75. [Passcode bypass on Talk Android app](https://hackerone.com/reports/1784645) to Nextcloud - 25 upvotes, $0
-76. [HTML injection in search UI when selecting a circle with HTML in the display name](https://hackerone.com/reports/2210038) to Nextcloud - 25 upvotes, $0
-77. [ Bypass password confirmation via Context-dependent access control (CDCA)](https://hackerone.com/reports/2120667) to Nextcloud - 24 upvotes, $100
-78. [Leak arbitrary file under nextcloud android client privacy directory](https://hackerone.com/reports/1142918) to Nextcloud - 24 upvotes, $0
-79. [Cards in Deck are readable by any user](https://hackerone.com/reports/1331728) to Nextcloud - 24 upvotes, $0
-80. [Persistent XSS via filename in projects](https://hackerone.com/reports/662204) to Nextcloud - 23 upvotes, $150
-81. [Bypass of privacy filter / tracking pixel blocker](https://hackerone.com/reports/1215251) to Nextcloud - 23 upvotes, $100
-82. [Profile of disabled user stays accessible](https://hackerone.com/reports/1675014) to Nextcloud - 23 upvotes, $100
-83. [Ratelimiting can be bypassed using IPv6 subnets](https://hackerone.com/reports/1154003) to Nextcloud - 23 upvotes, $0
-84. [Missing brute force protection on password confirmation modal](https://hackerone.com/reports/1842114) to Nextcloud - 23 upvotes, $0
-85. [Enabling Birthday Contact to any user](https://hackerone.com/reports/2112973) to Nextcloud - 23 upvotes, $0
-86. [Event create can create attachments that link to other websites ](https://hackerone.com/reports/2457588) to Nextcloud - 22 upvotes, $250
-87. [XSS in PDF Viewer](https://hackerone.com/reports/819863) to Nextcloud - 22 upvotes, $100
+76. [Enabling Birthday Contact to any user](https://hackerone.com/reports/2112973) to Nextcloud - 25 upvotes, $0
+77. [HTML injection in search UI when selecting a circle with HTML in the display name](https://hackerone.com/reports/2210038) to Nextcloud - 25 upvotes, $0
+78. [ Bypass password confirmation via Context-dependent access control (CDCA)](https://hackerone.com/reports/2120667) to Nextcloud - 24 upvotes, $100
+79. [Leak arbitrary file under nextcloud android client privacy directory](https://hackerone.com/reports/1142918) to Nextcloud - 24 upvotes, $0
+80. [Cards in Deck are readable by any user](https://hackerone.com/reports/1331728) to Nextcloud - 24 upvotes, $0
+81. [Persistent XSS via filename in projects](https://hackerone.com/reports/662204) to Nextcloud - 23 upvotes, $150
+82. [XSS in PDF Viewer](https://hackerone.com/reports/819863) to Nextcloud - 23 upvotes, $100
+83. [Bypass of privacy filter / tracking pixel blocker](https://hackerone.com/reports/1215251) to Nextcloud - 23 upvotes, $100
+84. [Profile of disabled user stays accessible](https://hackerone.com/reports/1675014) to Nextcloud - 23 upvotes, $100
+85. [Ratelimiting can be bypassed using IPv6 subnets](https://hackerone.com/reports/1154003) to Nextcloud - 23 upvotes, $0
+86. [Missing brute force protection on password confirmation modal](https://hackerone.com/reports/1842114) to Nextcloud - 23 upvotes, $0
+87. [Event create can create attachments that link to other websites ](https://hackerone.com/reports/2457588) to Nextcloud - 22 upvotes, $250
 88. [Stored XSS on Share-popup of a directory's Gallery-view](https://hackerone.com/reports/145355) to Nextcloud - 22 upvotes, $0
-89. [https://help.nextcloud.com::: Web cache poisoning attack](https://hackerone.com/reports/429747) to Nextcloud - 22 upvotes, $0
-90. ["Secure View" aka "Hide Download" can be bypassed easily](https://hackerone.com/reports/788257) to Nextcloud - 22 upvotes, $0
-91. [Error in  Booking an appointment reveals the full path of the website](https://hackerone.com/reports/1841408) to Nextcloud - 22 upvotes, $0
-92. [Non-admin users can reset app allowlist to the default](https://hackerone.com/reports/2250398) to Nextcloud - 22 upvotes, $0
-93. [Improper handling of request URLs in nextcloud/guests allows guest users to bypass app allowlist](https://hackerone.com/reports/2251074) to Nextcloud - 22 upvotes, $0
-94. [Session fixation on public talk links](https://hackerone.com/reports/1181962) to Nextcloud - 21 upvotes, $100
-95. [IDOR unsubscribe Anyone from NextClouds Newsletters by knowing their Email ](https://hackerone.com/reports/230328) to Nextcloud - 21 upvotes, $0
+89. [IDOR unsubscribe Anyone from NextClouds Newsletters by knowing their Email ](https://hackerone.com/reports/230328) to Nextcloud - 22 upvotes, $0
+90. [https://help.nextcloud.com::: Web cache poisoning attack](https://hackerone.com/reports/429747) to Nextcloud - 22 upvotes, $0
+91. ["Secure View" aka "Hide Download" can be bypassed easily](https://hackerone.com/reports/788257) to Nextcloud - 22 upvotes, $0
+92. [Error in  Booking an appointment reveals the full path of the website](https://hackerone.com/reports/1841408) to Nextcloud - 22 upvotes, $0
+93. [Non-admin users can reset app allowlist to the default](https://hackerone.com/reports/2250398) to Nextcloud - 22 upvotes, $0
+94. [Improper handling of request URLs in nextcloud/guests allows guest users to bypass app allowlist](https://hackerone.com/reports/2251074) to Nextcloud - 22 upvotes, $0
+95. [Session fixation on public talk links](https://hackerone.com/reports/1181962) to Nextcloud - 21 upvotes, $100
 96. [CSRF vulnerability in Nextcloud Desktop Client 3.6.1 on Windows when clicking malicious link ](https://hackerone.com/reports/1741430) to Nextcloud - 21 upvotes, $0
 97. [Improper restriction of excessive authentication attempts on WebDAV endpoint ](https://hackerone.com/reports/1924212) to Nextcloud - 21 upvotes, $0
 98. [Re-emergence of Security Vulnerability in Nextcloud Version 28 Previously Fixed in 25.0.4](https://hackerone.com/reports/2290680) to Nextcloud - 20 upvotes, $500
@@ -102,57 +102,57 @@ Top reports from Nextcloud program at HackerOne:
 100. [Gallery: No feedback for invalid password](https://hackerone.com/reports/428660) to Nextcloud - 20 upvotes, $50
 101. [XSS through image upload of contacts using svg file with png extension ](https://hackerone.com/reports/998422) to Nextcloud - 20 upvotes, $0
 102. [SMTP Command Injection in iCalendar Attachments to Emails via Newlines](https://hackerone.com/reports/1516377) to Nextcloud - 20 upvotes, $0
-103. [Open redirect in user_saml via RelayState parameter](https://hackerone.com/reports/2263044) to Nextcloud - 20 upvotes, $0
-104. [Ability to by-pass second factor ](https://hackerone.com/reports/2419776) to Nextcloud - 19 upvotes, $1000
-105. [Notification implicit PendingIntent in com.nextcloud.client allows to access contacts](https://hackerone.com/reports/1161401) to Nextcloud - 19 upvotes, $250
-106. [SQLi allow query restriction bypass on exposed FileContentProvider](https://hackerone.com/reports/518669) to Nextcloud - 19 upvotes, $100
-107. [XSS through image upload of contacts using svg file](https://hackerone.com/reports/894876) to Nextcloud - 19 upvotes, $100
-108. [Session fixation in password protected public download.](https://hackerone.com/reports/237184) to Nextcloud - 19 upvotes, $0
-109. [Denial of Service by requesting to reset a password](https://hackerone.com/reports/812754) to Nextcloud - 19 upvotes, $0
-110. [[user_oidc] Unencrypted Communications](https://hackerone.com/reports/1687005) to Nextcloud - 19 upvotes, $0
-111. [Memcached used as RateLimiter backend is no-op](https://hackerone.com/reports/2110945) to Nextcloud - 19 upvotes, $0
-112. [Self XSS when pasting HTML into Text app with Ctrl+Shift+V](https://hackerone.com/reports/2211561) to Nextcloud - 19 upvotes, $0
-113. [Self XSS when sending HTML as a comment in the Deck app](https://hackerone.com/reports/2058556) to Nextcloud - 19 upvotes, $0
-114. [Missing brute force protection on OAuth2 API controller](https://hackerone.com/reports/1258448) to Nextcloud - 18 upvotes, $500
-115. [Access control missing while viewing the attachments in the "All boards"](https://hackerone.com/reports/916704) to Nextcloud - 18 upvotes, $150
-116. [SSRF protection bypass](https://hackerone.com/reports/736867) to Nextcloud - 18 upvotes, $100
-117. [Server side request forgery (SSRF) on nextcloud implementation.](https://hackerone.com/reports/145524) to Nextcloud - 18 upvotes, $0
-118. [Log pollution can lead to HTML Injection.](https://hackerone.com/reports/146278) to Nextcloud - 18 upvotes, $0
-119. [OAuth2 Access Token and App Password Security Vulnerability](https://hackerone.com/reports/343111) to Nextcloud - 18 upvotes, $0
-120. [Folder architecture and Filesizes of private file drop shares can be getten](https://hackerone.com/reports/1337422) to Nextcloud - 18 upvotes, $0
-121. [[user_oidc] Stored XSS via Authorization Endpoint - Safari-Only](https://hackerone.com/reports/1687410) to Nextcloud - 18 upvotes, $0
-122. [User scoped external storage can be used to gather credentials of other users ](https://hackerone.com/reports/1978882) to Nextcloud - 18 upvotes, $0
+103. [Self XSS when sending HTML as a comment in the Deck app](https://hackerone.com/reports/2058556) to Nextcloud - 20 upvotes, $0
+104. [Open redirect in user_saml via RelayState parameter](https://hackerone.com/reports/2263044) to Nextcloud - 20 upvotes, $0
+105. [Ability to by-pass second factor ](https://hackerone.com/reports/2419776) to Nextcloud - 19 upvotes, $1000
+106. [Notification implicit PendingIntent in com.nextcloud.client allows to access contacts](https://hackerone.com/reports/1161401) to Nextcloud - 19 upvotes, $250
+107. [SQLi allow query restriction bypass on exposed FileContentProvider](https://hackerone.com/reports/518669) to Nextcloud - 19 upvotes, $100
+108. [XSS through image upload of contacts using svg file](https://hackerone.com/reports/894876) to Nextcloud - 19 upvotes, $100
+109. [Session fixation in password protected public download.](https://hackerone.com/reports/237184) to Nextcloud - 19 upvotes, $0
+110. [Denial of Service by requesting to reset a password](https://hackerone.com/reports/812754) to Nextcloud - 19 upvotes, $0
+111. [[user_oidc] Unencrypted Communications](https://hackerone.com/reports/1687005) to Nextcloud - 19 upvotes, $0
+112. [User scoped external storage can be used to gather credentials of other users ](https://hackerone.com/reports/1978882) to Nextcloud - 19 upvotes, $0
+113. [Memcached used as RateLimiter backend is no-op](https://hackerone.com/reports/2110945) to Nextcloud - 19 upvotes, $0
+114. [Self XSS when pasting HTML into Text app with Ctrl+Shift+V](https://hackerone.com/reports/2211561) to Nextcloud - 19 upvotes, $0
+115. [Missing brute force protection on OAuth2 API controller](https://hackerone.com/reports/1258448) to Nextcloud - 18 upvotes, $500
+116. [Access control missing while viewing the attachments in the "All boards"](https://hackerone.com/reports/916704) to Nextcloud - 18 upvotes, $150
+117. [SSRF protection bypass](https://hackerone.com/reports/736867) to Nextcloud - 18 upvotes, $100
+118. [Server side request forgery (SSRF) on nextcloud implementation.](https://hackerone.com/reports/145524) to Nextcloud - 18 upvotes, $0
+119. [Log pollution can lead to HTML Injection.](https://hackerone.com/reports/146278) to Nextcloud - 18 upvotes, $0
+120. [OAuth2 Access Token and App Password Security Vulnerability](https://hackerone.com/reports/343111) to Nextcloud - 18 upvotes, $0
+121. [Folder architecture and Filesizes of private file drop shares can be getten](https://hackerone.com/reports/1337422) to Nextcloud - 18 upvotes, $0
+122. [[user_oidc] Stored XSS via Authorization Endpoint - Safari-Only](https://hackerone.com/reports/1687410) to Nextcloud - 18 upvotes, $0
 123. [Lack of bruteforce protection for TOTP 2FA](https://hackerone.com/reports/1265709) to Nextcloud - 17 upvotes, $750
-124. [Sensitive files/ data exists  post deletion of user account](https://hackerone.com/reports/1222873) to Nextcloud - 17 upvotes, $150
-125. [Access control issue -- [Allow file system access not validated when using session auth]](https://hackerone.com/reports/388515) to Nextcloud - 17 upvotes, $100
-126. [Unrestricted file upload on the image of contacts](https://hackerone.com/reports/808287) to Nextcloud - 17 upvotes, $100
-127. [Reflected XSS when renaming a file with a vulnerable name which results in an error](https://hackerone.com/reports/896522) to Nextcloud - 17 upvotes, $100
-128. [Ransomware protection is missing extentions take 2](https://hackerone.com/reports/1200785) to Nextcloud - 17 upvotes, $100
-129. [public webdav endpoint not bruteforce protected](https://hackerone.com/reports/1192159) to Nextcloud - 17 upvotes, $100
-130. [Response Header injection using redirect_uri together with PHP that utilizes Header Folding according to RFC1945 and Internet Explorer 11](https://hackerone.com/reports/145392) to Nextcloud - 17 upvotes, $0
-131. [https://xmpp.nextcloud.com///;@www.google.com allows open redirect](https://hackerone.com/reports/211213) to Nextcloud - 17 upvotes, $0
-132. [bypass of 2FA](https://hackerone.com/reports/248656) to Nextcloud - 17 upvotes, $0
-133. [Reflected XSS / Markup Injection in `index.php/svg/core/logo/logo` parameter `color`](https://hackerone.com/reports/605915) to Nextcloud - 17 upvotes, $0
-134. [User with read-only access to a share can gain write access to sub-folders in the share](https://hackerone.com/reports/619484) to Nextcloud - 17 upvotes, $0
-135. [Full Passcode bypass on Nextcloud App iOS](https://hackerone.com/reports/1847368) to Nextcloud - 17 upvotes, $0
-136. [Missing brute force protection for passwords of password protected share links](https://hackerone.com/reports/1894653) to Nextcloud - 17 upvotes, $0
-137. [DOM XSS vulnerability in search dialogue (NC-SA-2017-007)](https://hackerone.com/reports/213227) to Nextcloud - 16 upvotes, $250
-138. [Clients do not verify server public key](https://hackerone.com/reports/1192470) to Nextcloud - 16 upvotes, $250
-139. [Registered users can change app password permissions for any user](https://hackerone.com/reports/297751) to Nextcloud - 16 upvotes, $100
-140. [Authentication Issue](https://hackerone.com/reports/146133) to Nextcloud - 16 upvotes, $50
-141. [XSS in desktop client via invalid server address on login form](https://hackerone.com/reports/685552) to Nextcloud - 16 upvotes, $0
-142. [Possible denial of service when entering a loooong password](https://hackerone.com/reports/952349) to Nextcloud - 16 upvotes, $0
-143. [Missing server side controls when editing the board’s sharing permissions per user](https://hackerone.com/reports/827816) to Nextcloud - 16 upvotes, $0
-144. [Password disclosure in initial setup of Mail App](https://hackerone.com/reports/1561471) to Nextcloud - 16 upvotes, $0
-145. [Unauthenticated SSRF in 3rd party module "cerdic/csstidy"](https://hackerone.com/reports/1595006) to Nextcloud - 15 upvotes, $250
-146. [Android - Possible to intercept broadcasts about uploaded files](https://hackerone.com/reports/167481) to Nextcloud - 15 upvotes, $0
-147. [Email Spoofing Vulnerability from nextcloud.](https://hackerone.com/reports/229599) to Nextcloud - 15 upvotes, $0
-148. [Non-admin users can trigger writes to memcached by entering a malicious server as a share URL](https://hackerone.com/reports/592864) to Nextcloud - 15 upvotes, $0
-149. [When sharing a Deck card in conversation the metaData can be manipulated to open arbitrary URL](https://hackerone.com/reports/1358977) to Nextcloud - 15 upvotes, $0
-150. [Talk Android broadcast receiver is not protected by broadcastPermission allowing malicious apps to communicate](https://hackerone.com/reports/1596459) to Nextcloud - 15 upvotes, $0
-151. [Guests can continue to receive video streams from call after being removed from a conversation](https://hackerone.com/reports/1706248) to Nextcloud - 15 upvotes, $0
-152. [HEIC image preview can be used to invoke Imagick](https://hackerone.com/reports/1261413) to Nextcloud - 15 upvotes, $0
-153. [Possibility to delete files attached to deck cards of other users](https://hackerone.com/reports/1755555) to Nextcloud - 15 upvotes, $0
+124. [Clients do not verify server public key](https://hackerone.com/reports/1192470) to Nextcloud - 17 upvotes, $250
+125. [Sensitive files/ data exists  post deletion of user account](https://hackerone.com/reports/1222873) to Nextcloud - 17 upvotes, $150
+126. [Access control issue -- [Allow file system access not validated when using session auth]](https://hackerone.com/reports/388515) to Nextcloud - 17 upvotes, $100
+127. [Unrestricted file upload on the image of contacts](https://hackerone.com/reports/808287) to Nextcloud - 17 upvotes, $100
+128. [Reflected XSS when renaming a file with a vulnerable name which results in an error](https://hackerone.com/reports/896522) to Nextcloud - 17 upvotes, $100
+129. [Ransomware protection is missing extentions take 2](https://hackerone.com/reports/1200785) to Nextcloud - 17 upvotes, $100
+130. [public webdav endpoint not bruteforce protected](https://hackerone.com/reports/1192159) to Nextcloud - 17 upvotes, $100
+131. [Response Header injection using redirect_uri together with PHP that utilizes Header Folding according to RFC1945 and Internet Explorer 11](https://hackerone.com/reports/145392) to Nextcloud - 17 upvotes, $0
+132. [https://xmpp.nextcloud.com///;@www.google.com allows open redirect](https://hackerone.com/reports/211213) to Nextcloud - 17 upvotes, $0
+133. [bypass of 2FA](https://hackerone.com/reports/248656) to Nextcloud - 17 upvotes, $0
+134. [Reflected XSS / Markup Injection in `index.php/svg/core/logo/logo` parameter `color`](https://hackerone.com/reports/605915) to Nextcloud - 17 upvotes, $0
+135. [User with read-only access to a share can gain write access to sub-folders in the share](https://hackerone.com/reports/619484) to Nextcloud - 17 upvotes, $0
+136. [Full Passcode bypass on Nextcloud App iOS](https://hackerone.com/reports/1847368) to Nextcloud - 17 upvotes, $0
+137. [Missing brute force protection for passwords of password protected share links](https://hackerone.com/reports/1894653) to Nextcloud - 17 upvotes, $0
+138. [DOM XSS vulnerability in search dialogue (NC-SA-2017-007)](https://hackerone.com/reports/213227) to Nextcloud - 16 upvotes, $250
+139. [Unauthenticated SSRF in 3rd party module "cerdic/csstidy"](https://hackerone.com/reports/1595006) to Nextcloud - 16 upvotes, $250
+140. [Registered users can change app password permissions for any user](https://hackerone.com/reports/297751) to Nextcloud - 16 upvotes, $100
+141. [Authentication Issue](https://hackerone.com/reports/146133) to Nextcloud - 16 upvotes, $50
+142. [XSS in desktop client via invalid server address on login form](https://hackerone.com/reports/685552) to Nextcloud - 16 upvotes, $0
+143. [Possible denial of service when entering a loooong password](https://hackerone.com/reports/952349) to Nextcloud - 16 upvotes, $0
+144. [Missing server side controls when editing the board’s sharing permissions per user](https://hackerone.com/reports/827816) to Nextcloud - 16 upvotes, $0
+145. [Password disclosure in initial setup of Mail App](https://hackerone.com/reports/1561471) to Nextcloud - 16 upvotes, $0
+146. [Possibility to delete files attached to deck cards of other users](https://hackerone.com/reports/1755555) to Nextcloud - 16 upvotes, $0
+147. [Android - Possible to intercept broadcasts about uploaded files](https://hackerone.com/reports/167481) to Nextcloud - 15 upvotes, $0
+148. [Email Spoofing Vulnerability from nextcloud.](https://hackerone.com/reports/229599) to Nextcloud - 15 upvotes, $0
+149. [Non-admin users can trigger writes to memcached by entering a malicious server as a share URL](https://hackerone.com/reports/592864) to Nextcloud - 15 upvotes, $0
+150. [When sharing a Deck card in conversation the metaData can be manipulated to open arbitrary URL](https://hackerone.com/reports/1358977) to Nextcloud - 15 upvotes, $0
+151. [Talk Android broadcast receiver is not protected by broadcastPermission allowing malicious apps to communicate](https://hackerone.com/reports/1596459) to Nextcloud - 15 upvotes, $0
+152. [Guests can continue to receive video streams from call after being removed from a conversation](https://hackerone.com/reports/1706248) to Nextcloud - 15 upvotes, $0
+153. [HEIC image preview can be used to invoke Imagick](https://hackerone.com/reports/1261413) to Nextcloud - 15 upvotes, $0
 154. [Suspicious login app ships old league/flysystem version](https://hackerone.com/reports/1720822) to Nextcloud - 15 upvotes, $0
 155. [Messages can still be seen on conversation after expiring when cron is misconfigured](https://hackerone.com/reports/1784310) to Nextcloud - 15 upvotes, $0
 156. [App pin of the Android app can be bypassed via 3rdparty apps generating deep links](https://hackerone.com/reports/1825679) to Nextcloud - 15 upvotes, $0
@@ -164,46 +164,46 @@ Top reports from Nextcloud program at HackerOne:
 162. [Unauthenticated Stored xss ](https://hackerone.com/reports/168054) to Nextcloud - 14 upvotes, $0
 163. [Content Spoofing /Text Injection in https://docs.nextcloud.com](https://hackerone.com/reports/666557) to Nextcloud - 14 upvotes, $0
 164. [Nextcloud domain and name of every user leaked to lookup server](https://hackerone.com/reports/508490) to Nextcloud - 14 upvotes, $0
-165. [Nextcloud 10.0 privilege escalation issue - Normal user can mask external storage shared by admin    ](https://hackerone.com/reports/165229) to Nextcloud - 14 upvotes, $0
-166. [Docker image with FPM is vulnerable to CVE-2019-11043](https://hackerone.com/reports/720306) to Nextcloud - 14 upvotes, $0
-167. [Access Control: Inject tasks into other users decks](https://hackerone.com/reports/867052) to Nextcloud - 14 upvotes, $0
-168. [Disabled download shares still allow download through preview images](https://hackerone.com/reports/1745766) to Nextcloud - 14 upvotes, $0
-169. [Chat room member disclosure via autocomplete API](https://hackerone.com/reports/1850407) to Nextcloud - 14 upvotes, $0
-170. [see card comments after remove shared board](https://hackerone.com/reports/2289333) to Nextcloud - 14 upvotes, $0
-171. [End to end encryption public key is not properly verified on Desktop and Android](https://hackerone.com/reports/1189162) to Nextcloud - 13 upvotes, $1500
-172. [Linux client is vulnerable to directory traversal when downloading files](https://hackerone.com/reports/590319) to Nextcloud - 13 upvotes, $250
-173. [Database resource exhaustion for logged-in users via sharee recommendations with circles](https://hackerone.com/reports/1688199) to Nextcloud - 13 upvotes, $250
-174. [Virtual Data Room / Hide download on collabora is easy to bypass](https://hackerone.com/reports/1194606) to Nextcloud - 13 upvotes, $150
-175. [Android app does not clear end to end encryption keys](https://hackerone.com/reports/1189168) to Nextcloud - 13 upvotes, $100
-176. [Talk / spreed: Disclosure of Room names and participants for password protected rooms](https://hackerone.com/reports/428010) to Nextcloud - 13 upvotes, $50
-177. [Design Issues on ( ███ ) Lead to show ( IPS of Users ) ](https://hackerone.com/reports/218733) to Nextcloud - 13 upvotes, $0
-178. [Content Spoofing/Text Injection in https://demo.nextcloud.com](https://hackerone.com/reports/222058) to Nextcloud - 13 upvotes, $0
-179. [Delete permission can be added on reshare](https://hackerone.com/reports/633245) to Nextcloud - 13 upvotes, $0
-180. [Only the file extensions are checked, not the MIME types as configured](https://hackerone.com/reports/697959) to Nextcloud - 13 upvotes, $0
-181. [No rate limiting on sinup page](https://hackerone.com/reports/922470) to Nextcloud - 13 upvotes, $0
-182. [Take over a mail account due missing validation of account id](https://hackerone.com/reports/1094063) to Nextcloud - 13 upvotes, $0
-183. [Exposed Log File Lead to Full Internal path disclosure at [https://nextcloud.com/wp-content/debug.log] ](https://hackerone.com/reports/1767439) to Nextcloud - 13 upvotes, $0
-184. [Reference caching can leak data to unauthorized users](https://hackerone.com/reports/1767503) to Nextcloud - 13 upvotes, $0
-185. [Twitter Account hijack @nextcloudfrance](https://hackerone.com/reports/1916565) to Nextcloud - 13 upvotes, $0
-186. [Reflected XSS vulnerability with full CSP bypass in Nextcloud installations using recommended bundle](https://hackerone.com/reports/1893186) to Nextcloud - 13 upvotes, $0
-187. [Blind SSRF as normal user from mailapp](https://hackerone.com/reports/1913095) to Nextcloud - 13 upvotes, $0
-188. [Missing permission check when removing a photo from an album](https://hackerone.com/reports/1946298) to Nextcloud - 13 upvotes, $0
-189. [WordPress \<= 4.6.1 Stored XSS Via Theme File](https://hackerone.com/reports/197878) to Nextcloud - 12 upvotes, $0
-190. [Disclosure of administrators via JSON on nextcloud.com Wordpress](https://hackerone.com/reports/198012) to Nextcloud - 12 upvotes, $0
-191. [Wordpress 4.7.1](https://hackerone.com/reports/201489) to Nextcloud - 12 upvotes, $0
-192. [https://portal.nextcloud.com/.htaccess file is readable](https://hackerone.com/reports/220946) to Nextcloud - 12 upvotes, $0
-193. [Remote attacker can impersonate Social users via ActivityPub API](https://hackerone.com/reports/461308) to Nextcloud - 12 upvotes, $0
-194. [ Predictable Random Number Generator](https://hackerone.com/reports/504731) to Nextcloud - 12 upvotes, $0
-195. [Able to bypass "Device credentials" Lock](https://hackerone.com/reports/507172) to Nextcloud - 12 upvotes, $0
-196. [Exposing debug.log file leads to server full path disclosure](https://hackerone.com/reports/696360) to Nextcloud - 12 upvotes, $0
-197. [xmlrpc.php is enabled - Nextcloud](https://hackerone.com/reports/458696) to Nextcloud - 12 upvotes, $0
-198. [Stored XSS in markdown file with Nextcloud Talk using Internet Explorer](https://hackerone.com/reports/1023787) to Nextcloud - 12 upvotes, $0
-199. [Lack of Brute force protection while joining video call in talk section which is password protected](https://hackerone.com/reports/1596673) to Nextcloud - 12 upvotes, $0
-200. [Information exposure in in guzzlehttp/guzzle (https://github.com/nextcloud/3rdparty/tree/master/guzzlehttp/guzzle)](https://hackerone.com/reports/1604606) to Nextcloud - 12 upvotes, $0
-201. [Missing character limitation allows to put generate a database error](https://hackerone.com/reports/1596059) to Nextcloud - 12 upvotes, $0
-202. [Desktop client can be tricked into opening/executing local files when clicking a nc://open/ link](https://hackerone.com/reports/1720043) to Nextcloud - 12 upvotes, $0
-203. [Mail app stores cleartext password in database until OAUTH2 setup is done](https://hackerone.com/reports/1806275) to Nextcloud - 12 upvotes, $0
-204. [Responsive Server-side Request Forgery (SSRF)](https://hackerone.com/reports/1895874) to Nextcloud - 12 upvotes, $0
+165. [xmlrpc.php is enabled - Nextcloud](https://hackerone.com/reports/458696) to Nextcloud - 14 upvotes, $0
+166. [Nextcloud 10.0 privilege escalation issue - Normal user can mask external storage shared by admin    ](https://hackerone.com/reports/165229) to Nextcloud - 14 upvotes, $0
+167. [Docker image with FPM is vulnerable to CVE-2019-11043](https://hackerone.com/reports/720306) to Nextcloud - 14 upvotes, $0
+168. [Access Control: Inject tasks into other users decks](https://hackerone.com/reports/867052) to Nextcloud - 14 upvotes, $0
+169. [Disabled download shares still allow download through preview images](https://hackerone.com/reports/1745766) to Nextcloud - 14 upvotes, $0
+170. [Chat room member disclosure via autocomplete API](https://hackerone.com/reports/1850407) to Nextcloud - 14 upvotes, $0
+171. [Twitter Account hijack @nextcloudfrance](https://hackerone.com/reports/1916565) to Nextcloud - 14 upvotes, $0
+172. [Blind SSRF as normal user from mailapp](https://hackerone.com/reports/1913095) to Nextcloud - 14 upvotes, $0
+173. [see card comments after remove shared board](https://hackerone.com/reports/2289333) to Nextcloud - 14 upvotes, $0
+174. [End to end encryption public key is not properly verified on Desktop and Android](https://hackerone.com/reports/1189162) to Nextcloud - 13 upvotes, $1500
+175. [Linux client is vulnerable to directory traversal when downloading files](https://hackerone.com/reports/590319) to Nextcloud - 13 upvotes, $250
+176. [Database resource exhaustion for logged-in users via sharee recommendations with circles](https://hackerone.com/reports/1688199) to Nextcloud - 13 upvotes, $250
+177. [Virtual Data Room / Hide download on collabora is easy to bypass](https://hackerone.com/reports/1194606) to Nextcloud - 13 upvotes, $150
+178. [Android app does not clear end to end encryption keys](https://hackerone.com/reports/1189168) to Nextcloud - 13 upvotes, $100
+179. [Talk / spreed: Disclosure of Room names and participants for password protected rooms](https://hackerone.com/reports/428010) to Nextcloud - 13 upvotes, $50
+180. [Design Issues on ( ███ ) Lead to show ( IPS of Users ) ](https://hackerone.com/reports/218733) to Nextcloud - 13 upvotes, $0
+181. [Content Spoofing/Text Injection in https://demo.nextcloud.com](https://hackerone.com/reports/222058) to Nextcloud - 13 upvotes, $0
+182. [Delete permission can be added on reshare](https://hackerone.com/reports/633245) to Nextcloud - 13 upvotes, $0
+183. [Exposing debug.log file leads to server full path disclosure](https://hackerone.com/reports/696360) to Nextcloud - 13 upvotes, $0
+184. [Only the file extensions are checked, not the MIME types as configured](https://hackerone.com/reports/697959) to Nextcloud - 13 upvotes, $0
+185. [No rate limiting on sinup page](https://hackerone.com/reports/922470) to Nextcloud - 13 upvotes, $0
+186. [Take over a mail account due missing validation of account id](https://hackerone.com/reports/1094063) to Nextcloud - 13 upvotes, $0
+187. [Exposed Log File Lead to Full Internal path disclosure at [https://nextcloud.com/wp-content/debug.log] ](https://hackerone.com/reports/1767439) to Nextcloud - 13 upvotes, $0
+188. [Reference caching can leak data to unauthorized users](https://hackerone.com/reports/1767503) to Nextcloud - 13 upvotes, $0
+189. [Reflected XSS vulnerability with full CSP bypass in Nextcloud installations using recommended bundle](https://hackerone.com/reports/1893186) to Nextcloud - 13 upvotes, $0
+190. [Responsive Server-side Request Forgery (SSRF)](https://hackerone.com/reports/1895874) to Nextcloud - 13 upvotes, $0
+191. [Missing permission check when removing a photo from an album](https://hackerone.com/reports/1946298) to Nextcloud - 13 upvotes, $0
+192. [WordPress \<= 4.6.1 Stored XSS Via Theme File](https://hackerone.com/reports/197878) to Nextcloud - 12 upvotes, $0
+193. [Disclosure of administrators via JSON on nextcloud.com Wordpress](https://hackerone.com/reports/198012) to Nextcloud - 12 upvotes, $0
+194. [Wordpress 4.7.1](https://hackerone.com/reports/201489) to Nextcloud - 12 upvotes, $0
+195. [https://portal.nextcloud.com/.htaccess file is readable](https://hackerone.com/reports/220946) to Nextcloud - 12 upvotes, $0
+196. [Remote attacker can impersonate Social users via ActivityPub API](https://hackerone.com/reports/461308) to Nextcloud - 12 upvotes, $0
+197. [ Predictable Random Number Generator](https://hackerone.com/reports/504731) to Nextcloud - 12 upvotes, $0
+198. [Able to bypass "Device credentials" Lock](https://hackerone.com/reports/507172) to Nextcloud - 12 upvotes, $0
+199. [Stored XSS in markdown file with Nextcloud Talk using Internet Explorer](https://hackerone.com/reports/1023787) to Nextcloud - 12 upvotes, $0
+200. [Lack of Brute force protection while joining video call in talk section which is password protected](https://hackerone.com/reports/1596673) to Nextcloud - 12 upvotes, $0
+201. [Information exposure in in guzzlehttp/guzzle (https://github.com/nextcloud/3rdparty/tree/master/guzzlehttp/guzzle)](https://hackerone.com/reports/1604606) to Nextcloud - 12 upvotes, $0
+202. [Missing character limitation allows to put generate a database error](https://hackerone.com/reports/1596059) to Nextcloud - 12 upvotes, $0
+203. [Desktop client can be tricked into opening/executing local files when clicking a nc://open/ link](https://hackerone.com/reports/1720043) to Nextcloud - 12 upvotes, $0
+204. [Mail app stores cleartext password in database until OAUTH2 setup is done](https://hackerone.com/reports/1806275) to Nextcloud - 12 upvotes, $0
 205. [Desktop client does not verify received singed certificate in end to end encryption](https://hackerone.com/reports/1679267) to Nextcloud - 11 upvotes, $1000
 206. [Trusted servers exchange can be triggered by attacker](https://hackerone.com/reports/1167853) to Nextcloud - 11 upvotes, $750
 207. [Default settings leak federated cloud id to lookup server of all users](https://hackerone.com/reports/1173436) to Nextcloud - 11 upvotes, $350
@@ -216,61 +216,61 @@ Top reports from Nextcloud program at HackerOne:
 214. [The session token in the URL](https://hackerone.com/reports/341372) to Nextcloud - 11 upvotes, $0
 215. [In Dockerized Environments, Failing to Read config.php Grants Any Anonymous User Full Admin Access](https://hackerone.com/reports/522876) to Nextcloud - 11 upvotes, $0
 216. [User Editable nextcloud Wiki pages of Public Repositories](https://hackerone.com/reports/498878) to Nextcloud - 11 upvotes, $0
-217. [WordPress vulnerable to multiple attacks at https://nextcloud.com](https://hackerone.com/reports/476526) to Nextcloud - 11 upvotes, $0
-218. [Self xss](https://hackerone.com/reports/388527) to Nextcloud - 11 upvotes, $0
-219. [Missing length validation of user displayname allows to generate an SQL error](https://hackerone.com/reports/1588562) to Nextcloud - 11 upvotes, $0
-220. [Text does not respect 'Allow download' permissions](https://hackerone.com/reports/1965156) to Nextcloud - 10 upvotes, $250
-221. [Secure view trivial to bypass](https://hackerone.com/reports/1724021) to Nextcloud - 10 upvotes, $150
-222. [index.php/apps/files_sharing/shareinfo endpoint is not properly protected](https://hackerone.com/reports/1173684) to Nextcloud - 10 upvotes, $100
-223. [bypass forced password protection via circles app](https://hackerone.com/reports/1406926) to Nextcloud - 10 upvotes, $100
-224. [Group admin can remove user from all his groups via API](https://hackerone.com/reports/199286) to Nextcloud - 10 upvotes, $0
-225. [Reflected XSS in U2F plugin by shipping the example endpoints](https://hackerone.com/reports/192786) to Nextcloud - 10 upvotes, $0
-226. [Invalid request may lead content spoofing for phishing](https://hackerone.com/reports/213056) to Nextcloud - 10 upvotes, $0
-227. [bug reporting template encourages users to paste config file with passwords](https://hackerone.com/reports/196878) to Nextcloud - 10 upvotes, $0
-228. [Stored XSS in OAuth redirect URI ](https://hackerone.com/reports/261138) to Nextcloud - 10 upvotes, $0
-229. [The password recovery let users know whether an email address exists or not in the website](https://hackerone.com/reports/681468) to Nextcloud - 10 upvotes, $0
-230. [Update App Store: Django account high jacking vulnerability](https://hackerone.com/reports/761329) to Nextcloud - 10 upvotes, $0
-231. [XSS in image metadata field](https://hackerone.com/reports/896511) to Nextcloud - 10 upvotes, $0
-232. [Clickjacking URLS](https://hackerone.com/reports/1039805) to Nextcloud - 10 upvotes, $0
-233. [Admin audit is not properly logging unsetting of expiration date](https://hackerone.com/reports/1200810) to Nextcloud - 10 upvotes, $0
-234. [RCE on 17 different Docker containers on your network](https://hackerone.com/reports/1332433) to Nextcloud - 10 upvotes, $0
-235. [High memory usage for generating preview of broken image](https://hackerone.com/reports/1261225) to Nextcloud - 10 upvotes, $0
-236. [Improper input-size validation on the user new session name can result in server-side DDoS.](https://hackerone.com/reports/1153138) to Nextcloud - 10 upvotes, $0
-237. [Last video frame is still sent after video is disabled in a call](https://hackerone.com/reports/1641088) to Nextcloud - 10 upvotes, $0
-238. [No password length restriction in reset password endpoint](https://hackerone.com/reports/1820864) to Nextcloud - 10 upvotes, $0
-239. [End to end encryption folder locking is not properly protected](https://hackerone.com/reports/1189174) to Nextcloud - 9 upvotes, $250
-240. [New AppPassword can be generated without password confirmation](https://hackerone.com/reports/2067572) to Nextcloud - 9 upvotes, $250
-241. [[FG-VD-17-063] NextCloud Insufficient Attack Protection Vulnerability Notification](https://hackerone.com/reports/232347) to Nextcloud - 9 upvotes, $100
-242. [Server-Side request forgery in New-Subscription feature of the calendar app](https://hackerone.com/reports/427835) to Nextcloud - 9 upvotes, $100
-243. [Generated passwords are not fully validated by HIBPValidator](https://hackerone.com/reports/1606961) to Nextcloud - 9 upvotes, $100
-244. [help.nextcloud Email Address/Username enumeration](https://hackerone.com/reports/145734) to Nextcloud - 9 upvotes, $0
-245. [Bruteforcing help.nextcloud.com](https://hackerone.com/reports/145727) to Nextcloud - 9 upvotes, $0
-246. [Uploading files to a folder where invited user don't have any EDIT privilege](https://hackerone.com/reports/145950) to Nextcloud - 9 upvotes, $0
-247. [\OCA\DAV\CardDAV\ImageExportPlugin allows serving arbitrary data with user-defined or empty mimetype](https://hackerone.com/reports/163338) to Nextcloud - 9 upvotes, $0
-248. [Files Drop: WebDAV endpoint is leaking existence of resources](https://hackerone.com/reports/187460) to Nextcloud - 9 upvotes, $0
-249. [Bypass permissions](https://hackerone.com/reports/169680) to Nextcloud - 9 upvotes, $0
-250. [Privilege escalation - Normal user can somehow make admin to delete shared folders](https://hackerone.com/reports/166581) to Nextcloud - 9 upvotes, $0
-251. [Wordpress Vulnerable to Potential Unauthorized Password Reset](https://hackerone.com/reports/226037) to Nextcloud - 9 upvotes, $0
-252. [Some HTML Tags are Getting Executed in com.nextcloud.client](https://hackerone.com/reports/631227) to Nextcloud - 9 upvotes, $0
-253. [Allows any user to share their "Root" level folder by sharing "."](https://hackerone.com/reports/889795) to Nextcloud - 9 upvotes, $0
-254. [PHPUnit is included in groupfolders release package potentially causing RCE](https://hackerone.com/reports/820146) to Nextcloud - 9 upvotes, $0
-255. [Reduced purmations on encryption](https://hackerone.com/reports/852841) to Nextcloud - 9 upvotes, $0
-256. [User files is disclosed when someone called while the screen is locked](https://hackerone.com/reports/1338781) to Nextcloud - 9 upvotes, $0
-257. [Nextcloud Deck : Possibility for anyone to add a stack with existing tasks on anyone's board](https://hackerone.com/reports/1450117) to Nextcloud - 9 upvotes, $0
-258. [Federated share accepting/declining is not logged in audit log](https://hackerone.com/reports/1200815) to Nextcloud - 9 upvotes, $0
-259. [nextcloudcmd incorrectly trusts bad TLS certificates](https://hackerone.com/reports/1699740) to Nextcloud - 9 upvotes, $0
-260. [Mail app - blind SSRF via imapHost parameter](https://hackerone.com/reports/1736390) to Nextcloud - 9 upvotes, $0
-261. [Vulnerable moment-timezone version shipped](https://hackerone.com/reports/1708873) to Nextcloud - 9 upvotes, $0
-262. [Hide download previews are accessible without a watermark](https://hackerone.com/reports/1745755) to Nextcloud - 9 upvotes, $0
-263. [No rate limit while adding Additional emails feature](https://hackerone.com/reports/1913951) to Nextcloud - 9 upvotes, $0
-264. [user can bypass password enforcement when federated sharing is enabled](https://hackerone.com/reports/838510) to Nextcloud - 8 upvotes, $250
-265. [com.nextcloud.client bypass the protection lock in andoid app v 3.18.1 latest version.](https://hackerone.com/reports/1450368) to Nextcloud - 8 upvotes, $200
-266. [Download of file with arbitrary extension via injection into attachment header](https://hackerone.com/reports/1215263) to Nextcloud - 8 upvotes, $125
-267. [Share recipient can modify a share's expiration date](https://hackerone.com/reports/447494) to Nextcloud - 8 upvotes, $100
-268. [Possibility to force an admin to install recommended applications](https://hackerone.com/reports/1403614) to Nextcloud - 8 upvotes, $100
-269. [Moderator can enable cam/mic remotely if  cam/mic-permission was disabled while user has activated cam/mic](https://hackerone.com/reports/1520685) to Nextcloud - 8 upvotes, $100
-270. [User Information Disclosure via REST API](https://hackerone.com/reports/197877) to Nextcloud - 8 upvotes, $0
-271. [GIT Detected](https://hackerone.com/reports/221298) to Nextcloud - 8 upvotes, $0
+217. [Update App Store: Django account high jacking vulnerability](https://hackerone.com/reports/761329) to Nextcloud - 11 upvotes, $0
+218. [WordPress vulnerable to multiple attacks at https://nextcloud.com](https://hackerone.com/reports/476526) to Nextcloud - 11 upvotes, $0
+219. [Self xss](https://hackerone.com/reports/388527) to Nextcloud - 11 upvotes, $0
+220. [XSS in image metadata field](https://hackerone.com/reports/896511) to Nextcloud - 11 upvotes, $0
+221. [Missing length validation of user displayname allows to generate an SQL error](https://hackerone.com/reports/1588562) to Nextcloud - 11 upvotes, $0
+222. [Text does not respect 'Allow download' permissions](https://hackerone.com/reports/1965156) to Nextcloud - 10 upvotes, $250
+223. [Secure view trivial to bypass](https://hackerone.com/reports/1724021) to Nextcloud - 10 upvotes, $150
+224. [Server-Side request forgery in New-Subscription feature of the calendar app](https://hackerone.com/reports/427835) to Nextcloud - 10 upvotes, $100
+225. [index.php/apps/files_sharing/shareinfo endpoint is not properly protected](https://hackerone.com/reports/1173684) to Nextcloud - 10 upvotes, $100
+226. [bypass forced password protection via circles app](https://hackerone.com/reports/1406926) to Nextcloud - 10 upvotes, $100
+227. [Group admin can remove user from all his groups via API](https://hackerone.com/reports/199286) to Nextcloud - 10 upvotes, $0
+228. [Reflected XSS in U2F plugin by shipping the example endpoints](https://hackerone.com/reports/192786) to Nextcloud - 10 upvotes, $0
+229. [Invalid request may lead content spoofing for phishing](https://hackerone.com/reports/213056) to Nextcloud - 10 upvotes, $0
+230. [bug reporting template encourages users to paste config file with passwords](https://hackerone.com/reports/196878) to Nextcloud - 10 upvotes, $0
+231. [Stored XSS in OAuth redirect URI ](https://hackerone.com/reports/261138) to Nextcloud - 10 upvotes, $0
+232. [The password recovery let users know whether an email address exists or not in the website](https://hackerone.com/reports/681468) to Nextcloud - 10 upvotes, $0
+233. [Clickjacking URLS](https://hackerone.com/reports/1039805) to Nextcloud - 10 upvotes, $0
+234. [Admin audit is not properly logging unsetting of expiration date](https://hackerone.com/reports/1200810) to Nextcloud - 10 upvotes, $0
+235. [RCE on 17 different Docker containers on your network](https://hackerone.com/reports/1332433) to Nextcloud - 10 upvotes, $0
+236. [High memory usage for generating preview of broken image](https://hackerone.com/reports/1261225) to Nextcloud - 10 upvotes, $0
+237. [Improper input-size validation on the user new session name can result in server-side DDoS.](https://hackerone.com/reports/1153138) to Nextcloud - 10 upvotes, $0
+238. [Last video frame is still sent after video is disabled in a call](https://hackerone.com/reports/1641088) to Nextcloud - 10 upvotes, $0
+239. [Mail app - blind SSRF via imapHost parameter](https://hackerone.com/reports/1736390) to Nextcloud - 10 upvotes, $0
+240. [No password length restriction in reset password endpoint](https://hackerone.com/reports/1820864) to Nextcloud - 10 upvotes, $0
+241. [End to end encryption folder locking is not properly protected](https://hackerone.com/reports/1189174) to Nextcloud - 9 upvotes, $250
+242. [New AppPassword can be generated without password confirmation](https://hackerone.com/reports/2067572) to Nextcloud - 9 upvotes, $250
+243. [[FG-VD-17-063] NextCloud Insufficient Attack Protection Vulnerability Notification](https://hackerone.com/reports/232347) to Nextcloud - 9 upvotes, $100
+244. [Generated passwords are not fully validated by HIBPValidator](https://hackerone.com/reports/1606961) to Nextcloud - 9 upvotes, $100
+245. [help.nextcloud Email Address/Username enumeration](https://hackerone.com/reports/145734) to Nextcloud - 9 upvotes, $0
+246. [Bruteforcing help.nextcloud.com](https://hackerone.com/reports/145727) to Nextcloud - 9 upvotes, $0
+247. [Uploading files to a folder where invited user don't have any EDIT privilege](https://hackerone.com/reports/145950) to Nextcloud - 9 upvotes, $0
+248. [\OCA\DAV\CardDAV\ImageExportPlugin allows serving arbitrary data with user-defined or empty mimetype](https://hackerone.com/reports/163338) to Nextcloud - 9 upvotes, $0
+249. [Files Drop: WebDAV endpoint is leaking existence of resources](https://hackerone.com/reports/187460) to Nextcloud - 9 upvotes, $0
+250. [Bypass permissions](https://hackerone.com/reports/169680) to Nextcloud - 9 upvotes, $0
+251. [GIT Detected](https://hackerone.com/reports/221298) to Nextcloud - 9 upvotes, $0
+252. [Privilege escalation - Normal user can somehow make admin to delete shared folders](https://hackerone.com/reports/166581) to Nextcloud - 9 upvotes, $0
+253. [Wordpress Vulnerable to Potential Unauthorized Password Reset](https://hackerone.com/reports/226037) to Nextcloud - 9 upvotes, $0
+254. [Some HTML Tags are Getting Executed in com.nextcloud.client](https://hackerone.com/reports/631227) to Nextcloud - 9 upvotes, $0
+255. [Allows any user to share their "Root" level folder by sharing "."](https://hackerone.com/reports/889795) to Nextcloud - 9 upvotes, $0
+256. [PHPUnit is included in groupfolders release package potentially causing RCE](https://hackerone.com/reports/820146) to Nextcloud - 9 upvotes, $0
+257. [Reduced purmations on encryption](https://hackerone.com/reports/852841) to Nextcloud - 9 upvotes, $0
+258. [User files is disclosed when someone called while the screen is locked](https://hackerone.com/reports/1338781) to Nextcloud - 9 upvotes, $0
+259. [Nextcloud Deck : Possibility for anyone to add a stack with existing tasks on anyone's board](https://hackerone.com/reports/1450117) to Nextcloud - 9 upvotes, $0
+260. [Federated share accepting/declining is not logged in audit log](https://hackerone.com/reports/1200815) to Nextcloud - 9 upvotes, $0
+261. [nextcloudcmd incorrectly trusts bad TLS certificates](https://hackerone.com/reports/1699740) to Nextcloud - 9 upvotes, $0
+262. [Vulnerable moment-timezone version shipped](https://hackerone.com/reports/1708873) to Nextcloud - 9 upvotes, $0
+263. [Hide download previews are accessible without a watermark](https://hackerone.com/reports/1745755) to Nextcloud - 9 upvotes, $0
+264. [No rate limit while adding Additional emails feature](https://hackerone.com/reports/1913951) to Nextcloud - 9 upvotes, $0
+265. [user can bypass password enforcement when federated sharing is enabled](https://hackerone.com/reports/838510) to Nextcloud - 8 upvotes, $250
+266. [com.nextcloud.client bypass the protection lock in andoid app v 3.18.1 latest version.](https://hackerone.com/reports/1450368) to Nextcloud - 8 upvotes, $200
+267. [Download of file with arbitrary extension via injection into attachment header](https://hackerone.com/reports/1215263) to Nextcloud - 8 upvotes, $125
+268. [Share recipient can modify a share's expiration date](https://hackerone.com/reports/447494) to Nextcloud - 8 upvotes, $100
+269. [Possibility to force an admin to install recommended applications](https://hackerone.com/reports/1403614) to Nextcloud - 8 upvotes, $100
+270. [Moderator can enable cam/mic remotely if  cam/mic-permission was disabled while user has activated cam/mic](https://hackerone.com/reports/1520685) to Nextcloud - 8 upvotes, $100
+271. [User Information Disclosure via REST API](https://hackerone.com/reports/197877) to Nextcloud - 8 upvotes, $0
 272. [twofactor_auth bypassable if provider fails to load](https://hackerone.com/reports/317711) to Nextcloud - 8 upvotes, $0
 273. [Github wikis are editable by anyone ](https://hackerone.com/reports/457032) to Nextcloud - 8 upvotes, $0
 274. [Uploading large avatar images cause excessive CPU usage](https://hackerone.com/reports/504759) to Nextcloud - 8 upvotes, $0
@@ -286,33 +286,33 @@ Top reports from Nextcloud program at HackerOne:
 284. [SQL injextion via vulnerable doctrine/dbal version](https://hackerone.com/reports/1390331) to Nextcloud - 8 upvotes, $0
 285. [Control character filtering misses leading and trailing whitespace in file and folder names](https://hackerone.com/reports/1402249) to Nextcloud - 8 upvotes, $0
 286. [[nextcloud/server] Moment.js vulnerable to Inefficient Regular Expression Complexity](https://hackerone.com/reports/1712329) to Nextcloud - 8 upvotes, $0
-287. [Document content of files can be obtained through Collabora for files of other users](https://hackerone.com/reports/1788222) to Nextcloud - 8 upvotes, $0
-288. [Calendar and addressbook names disclosed (NC-SA-2017-012)](https://hackerone.com/reports/203594) to Nextcloud - 7 upvotes, $183
-289. [Open redirect on "Unsupported browser" warning](https://hackerone.com/reports/1977222) to Nextcloud - 7 upvotes, $150
-290. [Android content provider exposes password-protected share password hashes](https://hackerone.com/reports/242727) to Nextcloud - 7 upvotes, $75
-291. [Content (Text) Injection at NextCloud Server 9.0.52 - via http://custom_nextcloud_url/remote.php/dav/files/ ](https://hackerone.com/reports/149798) to Nextcloud - 7 upvotes, $0
-292. [IDOR - Disable sharing](https://hackerone.com/reports/153905) to Nextcloud - 7 upvotes, $0
-293. [Reflected XSS in Gallery App](https://hackerone.com/reports/165686) to Nextcloud - 7 upvotes, $0
-294. [Bad content-type in response header when getting document can lead to html injection](https://hackerone.com/reports/173721) to Nextcloud - 7 upvotes, $0
-295. [XSS on IOS app via HTML rendering](https://hackerone.com/reports/157434) to Nextcloud - 7 upvotes, $0
-296. [Update php-saml library to 2.10.5](https://hackerone.com/reports/213789) to Nextcloud - 7 upvotes, $0
-297. [Missing Rate Limit for Current Password field in nextcloud.com](https://hackerone.com/reports/199714) to Nextcloud - 7 upvotes, $0
-298. [WordPress \< 4.8.2 vulnerable to multiple attacks](https://hackerone.com/reports/269705) to Nextcloud - 7 upvotes, $0
-299. [Email Notification should be get while changing password on apps.nextcloud.com](https://hackerone.com/reports/308156) to Nextcloud - 7 upvotes, $0
-300. [File access control rules not enforced on image files](https://hackerone.com/reports/358339) to Nextcloud - 7 upvotes, $0
-301. [Private/confidential setting of calendar events is ignored on activity stream](https://hackerone.com/reports/476615) to Nextcloud - 7 upvotes, $0
-302. [Click Jacking Nextcloud](https://hackerone.com/reports/347782) to Nextcloud - 7 upvotes, $0
-303. [(Authenticated) RCE by bypassing of the .htaccess blacklist](https://hackerone.com/reports/228825) to Nextcloud - 7 upvotes, $0
-304. [Improper protection of FileContentProvider](https://hackerone.com/reports/331302) to Nextcloud - 7 upvotes, $0
-305. [Disabled user can reset their password  ](https://hackerone.com/reports/261297) to Nextcloud - 7 upvotes, $0
-306. [Github wikis are editable by anyone https://github.com/nextcloud/bookmarks/wiki](https://hackerone.com/reports/906322) to Nextcloud - 7 upvotes, $0
-307. [The password of a mail share is not set if the password is given when the share is created (Nextcloud \< 18)](https://hackerone.com/reports/888261) to Nextcloud - 7 upvotes, $0
-308. [Password policy changes not enforced for existing passwords](https://hackerone.com/reports/1169335) to Nextcloud - 7 upvotes, $0
-309. [Unexpected federated shares added via public link](https://hackerone.com/reports/1167767) to Nextcloud - 7 upvotes, $0
-310. [Serverinfo endpoints are not bruteforce protected nor are tokens properly generated](https://hackerone.com/reports/1210458) to Nextcloud - 7 upvotes, $0
-311. [Mail app - Blind SSRF via Sierve server fonctionnality and sieveHost parameter](https://hackerone.com/reports/1741525) to Nextcloud - 7 upvotes, $0
-312. [Mail app - blind SSRF via smtpHost parameter](https://hackerone.com/reports/1746582) to Nextcloud - 7 upvotes, $0
-313. [Potential directory traversal in OC\Files\Node\Folder::getFullPath](https://hackerone.com/reports/1765631) to Nextcloud - 7 upvotes, $0
+287. [Mail app - Blind SSRF via Sierve server fonctionnality and sieveHost parameter](https://hackerone.com/reports/1741525) to Nextcloud - 8 upvotes, $0
+288. [Mail app - blind SSRF via smtpHost parameter](https://hackerone.com/reports/1746582) to Nextcloud - 8 upvotes, $0
+289. [Document content of files can be obtained through Collabora for files of other users](https://hackerone.com/reports/1788222) to Nextcloud - 8 upvotes, $0
+290. [Potential directory traversal in OC\Files\Node\Folder::getFullPath](https://hackerone.com/reports/1765631) to Nextcloud - 8 upvotes, $0
+291. [Calendar and addressbook names disclosed (NC-SA-2017-012)](https://hackerone.com/reports/203594) to Nextcloud - 7 upvotes, $183
+292. [Open redirect on "Unsupported browser" warning](https://hackerone.com/reports/1977222) to Nextcloud - 7 upvotes, $150
+293. [Android content provider exposes password-protected share password hashes](https://hackerone.com/reports/242727) to Nextcloud - 7 upvotes, $75
+294. [Content (Text) Injection at NextCloud Server 9.0.52 - via http://custom_nextcloud_url/remote.php/dav/files/ ](https://hackerone.com/reports/149798) to Nextcloud - 7 upvotes, $0
+295. [IDOR - Disable sharing](https://hackerone.com/reports/153905) to Nextcloud - 7 upvotes, $0
+296. [Reflected XSS in Gallery App](https://hackerone.com/reports/165686) to Nextcloud - 7 upvotes, $0
+297. [Bad content-type in response header when getting document can lead to html injection](https://hackerone.com/reports/173721) to Nextcloud - 7 upvotes, $0
+298. [XSS on IOS app via HTML rendering](https://hackerone.com/reports/157434) to Nextcloud - 7 upvotes, $0
+299. [Update php-saml library to 2.10.5](https://hackerone.com/reports/213789) to Nextcloud - 7 upvotes, $0
+300. [Missing Rate Limit for Current Password field in nextcloud.com](https://hackerone.com/reports/199714) to Nextcloud - 7 upvotes, $0
+301. [WordPress \< 4.8.2 vulnerable to multiple attacks](https://hackerone.com/reports/269705) to Nextcloud - 7 upvotes, $0
+302. [Email Notification should be get while changing password on apps.nextcloud.com](https://hackerone.com/reports/308156) to Nextcloud - 7 upvotes, $0
+303. [File access control rules not enforced on image files](https://hackerone.com/reports/358339) to Nextcloud - 7 upvotes, $0
+304. [Private/confidential setting of calendar events is ignored on activity stream](https://hackerone.com/reports/476615) to Nextcloud - 7 upvotes, $0
+305. [Click Jacking Nextcloud](https://hackerone.com/reports/347782) to Nextcloud - 7 upvotes, $0
+306. [(Authenticated) RCE by bypassing of the .htaccess blacklist](https://hackerone.com/reports/228825) to Nextcloud - 7 upvotes, $0
+307. [Improper protection of FileContentProvider](https://hackerone.com/reports/331302) to Nextcloud - 7 upvotes, $0
+308. [Disabled user can reset their password  ](https://hackerone.com/reports/261297) to Nextcloud - 7 upvotes, $0
+309. [Github wikis are editable by anyone https://github.com/nextcloud/bookmarks/wiki](https://hackerone.com/reports/906322) to Nextcloud - 7 upvotes, $0
+310. [The password of a mail share is not set if the password is given when the share is created (Nextcloud \< 18)](https://hackerone.com/reports/888261) to Nextcloud - 7 upvotes, $0
+311. [Password policy changes not enforced for existing passwords](https://hackerone.com/reports/1169335) to Nextcloud - 7 upvotes, $0
+312. [Unexpected federated shares added via public link](https://hackerone.com/reports/1167767) to Nextcloud - 7 upvotes, $0
+313. [Serverinfo endpoints are not bruteforce protected nor are tokens properly generated](https://hackerone.com/reports/1210458) to Nextcloud - 7 upvotes, $0
 314. [Read-only share recipient can restore old versions of file](https://hackerone.com/reports/146067) to Nextcloud - 6 upvotes, $300
 315. [Federated editing allows iframing possibly malicious remotes](https://hackerone.com/reports/1210424) to Nextcloud - 6 upvotes, $100
 316. [Expired SSL certificate ](https://hackerone.com/reports/163342) to Nextcloud - 6 upvotes, $0
@@ -471,52 +471,52 @@ Top reports from Nextcloud program at HackerOne:
 469. [Nextcloud.com is vulnerable to SWEET32 attack](https://hackerone.com/reports/199445) to Nextcloud - 2 upvotes, $0
 470. [Server version/OS type disclosure via HTTP Response Header](https://hackerone.com/reports/215372) to Nextcloud - 2 upvotes, $0
 471. [CSRF token validation is missing](https://hackerone.com/reports/221043) to Nextcloud - 2 upvotes, $0
-472. [The email API to reset password is unlimited and can be used as a email bomb](https://hackerone.com/reports/222080) to Nextcloud - 2 upvotes, $0
-473. [The email API to test email-server settings is unlimited and can be used as a email bomb](https://hackerone.com/reports/222660) to Nextcloud - 2 upvotes, $0
-474. [information disclose](https://hackerone.com/reports/223759) to Nextcloud - 2 upvotes, $0
-475. [Content (Text) Injection at https://nextcloud.com](https://hackerone.com/reports/222805) to Nextcloud - 2 upvotes, $0
-476. [Possible SSRF in email server settings(SMTP mode)](https://hackerone.com/reports/222667) to Nextcloud - 2 upvotes, $0
-477. [Share tokens for public calendars disclosed (NC-SA-2017-011)](https://hackerone.com/reports/218876) to Nextcloud - 2 upvotes, $0
-478. [Stored XSS in Gallery application (NC-SA-2017-010)](https://hackerone.com/reports/222838) to Nextcloud - 2 upvotes, $0
-479. [Disclosed Version of PORTS SSH|HTTP|SSL](https://hackerone.com/reports/358102) to Nextcloud - 2 upvotes, $0
-480. [Accessing to download.nextcloud.com from original ip adreess | insecure Download](https://hackerone.com/reports/374053) to Nextcloud - 2 upvotes, $0
-481. [XSS On Nextcloud Integrated with zimbra drive](https://hackerone.com/reports/498852) to Nextcloud - 2 upvotes, $0
-482. [WordPress Plugin Insert or Embed Articulate Content into WordPress Remote Code Execution (UNAUTHORIZED)](https://hackerone.com/reports/696198) to Nextcloud - 2 upvotes, $0
-483. [Bruteforce in admin panel](https://hackerone.com/reports/341074) to Nextcloud - 2 upvotes, $0
-484. [Nextcloud logs ldap passwords](https://hackerone.com/reports/264426) to Nextcloud - 2 upvotes, $0
-485. [Password authentication at newsletter.nextcloud.com discloses username list](https://hackerone.com/reports/476439) to Nextcloud - 2 upvotes, $0
-486. [Bypass configured 2FA provider with another provider that can be set up at login](https://hackerone.com/reports/722748) to Nextcloud - 2 upvotes, $0
-487. [Missing memory corruption protection on Windows release built](https://hackerone.com/reports/380102) to Nextcloud - 2 upvotes, $0
-488. [The password of a mail share is not hashed if the password is given when the share is created](https://hackerone.com/reports/885041) to Nextcloud - 2 upvotes, $0
-489. [Improper integrity protection of server-side encryption keys](https://hackerone.com/reports/732431) to Nextcloud - 2 upvotes, $0
-490. [Content spoofing on https://surveyserver.nextcloud.com](https://hackerone.com/reports/473144) to Nextcloud - 2 upvotes, $0
-491. [DoS attack against the client when entering a long password](https://hackerone.com/reports/949712) to Nextcloud - 2 upvotes, $0
-492. [External Storage - WebDAV - New user has access to storage from deleted user (same user-ID)](https://hackerone.com/reports/549831) to Nextcloud - 2 upvotes, $0
-493. [Federated shares are not password protected](https://hackerone.com/reports/1167817) to Nextcloud - 2 upvotes, $0
-494. [Trusted server shared secret stored unencrypted in the database](https://hackerone.com/reports/1173670) to Nextcloud - 2 upvotes, $0
-495. [Information Exposure Through Directory Listing vulnerability](https://hackerone.com/reports/1476709) to Nextcloud - 2 upvotes, $0
-496. [No permission set on Activities [Android App]](https://hackerone.com/reports/145402) to Nextcloud - 1 upvotes, $0
-497. [The application uses basic authentication.](https://hackerone.com/reports/151847) to Nextcloud - 1 upvotes, $0
-498. [Content Injection - demo.nextcloud.com](https://hackerone.com/reports/161323) to Nextcloud - 1 upvotes, $0
-499. [demo.nextcloud.com: Content spoofing due to default Apache Error Page](https://hackerone.com/reports/156425) to Nextcloud - 1 upvotes, $0
-500. [Slow Http attack on nextcloud(DOS)](https://hackerone.com/reports/163823) to Nextcloud - 1 upvotes, $0
-501. [xss on demo.nextcloud.com due to outdated version](https://hackerone.com/reports/177713) to Nextcloud - 1 upvotes, $0
-502. [BruteForce in to Admin Account](https://hackerone.com/reports/188205) to Nextcloud - 1 upvotes, $0
-503. [[Nextcloud 9.0.53] Content Spoofing in 'trustDomain' parameter](https://hackerone.com/reports/153251) to Nextcloud - 1 upvotes, $0
-504. [failure to invalidate session on password change](https://hackerone.com/reports/145488) to Nextcloud - 1 upvotes, $0
+472. [failure to invalidate session on password change](https://hackerone.com/reports/145488) to Nextcloud - 2 upvotes, $0
+473. [The email API to reset password is unlimited and can be used as a email bomb](https://hackerone.com/reports/222080) to Nextcloud - 2 upvotes, $0
+474. [The email API to test email-server settings is unlimited and can be used as a email bomb](https://hackerone.com/reports/222660) to Nextcloud - 2 upvotes, $0
+475. [information disclose](https://hackerone.com/reports/223759) to Nextcloud - 2 upvotes, $0
+476. [Content (Text) Injection at https://nextcloud.com](https://hackerone.com/reports/222805) to Nextcloud - 2 upvotes, $0
+477. [Possible SSRF in email server settings(SMTP mode)](https://hackerone.com/reports/222667) to Nextcloud - 2 upvotes, $0
+478. [Share tokens for public calendars disclosed (NC-SA-2017-011)](https://hackerone.com/reports/218876) to Nextcloud - 2 upvotes, $0
+479. [Stored XSS in Gallery application (NC-SA-2017-010)](https://hackerone.com/reports/222838) to Nextcloud - 2 upvotes, $0
+480. [Disclosed Version of PORTS SSH|HTTP|SSL](https://hackerone.com/reports/358102) to Nextcloud - 2 upvotes, $0
+481. [Accessing to download.nextcloud.com from original ip adreess | insecure Download](https://hackerone.com/reports/374053) to Nextcloud - 2 upvotes, $0
+482. [XSS On Nextcloud Integrated with zimbra drive](https://hackerone.com/reports/498852) to Nextcloud - 2 upvotes, $0
+483. [WordPress Plugin Insert or Embed Articulate Content into WordPress Remote Code Execution (UNAUTHORIZED)](https://hackerone.com/reports/696198) to Nextcloud - 2 upvotes, $0
+484. [Bruteforce in admin panel](https://hackerone.com/reports/341074) to Nextcloud - 2 upvotes, $0
+485. [Nextcloud logs ldap passwords](https://hackerone.com/reports/264426) to Nextcloud - 2 upvotes, $0
+486. [Password authentication at newsletter.nextcloud.com discloses username list](https://hackerone.com/reports/476439) to Nextcloud - 2 upvotes, $0
+487. [Bypass configured 2FA provider with another provider that can be set up at login](https://hackerone.com/reports/722748) to Nextcloud - 2 upvotes, $0
+488. [Missing memory corruption protection on Windows release built](https://hackerone.com/reports/380102) to Nextcloud - 2 upvotes, $0
+489. [The password of a mail share is not hashed if the password is given when the share is created](https://hackerone.com/reports/885041) to Nextcloud - 2 upvotes, $0
+490. [Improper integrity protection of server-side encryption keys](https://hackerone.com/reports/732431) to Nextcloud - 2 upvotes, $0
+491. [Content spoofing on https://surveyserver.nextcloud.com](https://hackerone.com/reports/473144) to Nextcloud - 2 upvotes, $0
+492. [DoS attack against the client when entering a long password](https://hackerone.com/reports/949712) to Nextcloud - 2 upvotes, $0
+493. [External Storage - WebDAV - New user has access to storage from deleted user (same user-ID)](https://hackerone.com/reports/549831) to Nextcloud - 2 upvotes, $0
+494. [Federated shares are not password protected](https://hackerone.com/reports/1167817) to Nextcloud - 2 upvotes, $0
+495. [Trusted server shared secret stored unencrypted in the database](https://hackerone.com/reports/1173670) to Nextcloud - 2 upvotes, $0
+496. [Information Exposure Through Directory Listing vulnerability](https://hackerone.com/reports/1476709) to Nextcloud - 2 upvotes, $0
+497. [No permission set on Activities [Android App]](https://hackerone.com/reports/145402) to Nextcloud - 1 upvotes, $0
+498. [The application uses basic authentication.](https://hackerone.com/reports/151847) to Nextcloud - 1 upvotes, $0
+499. [Content Injection - demo.nextcloud.com](https://hackerone.com/reports/161323) to Nextcloud - 1 upvotes, $0
+500. [demo.nextcloud.com: Content spoofing due to default Apache Error Page](https://hackerone.com/reports/156425) to Nextcloud - 1 upvotes, $0
+501. [Slow Http attack on nextcloud(DOS)](https://hackerone.com/reports/163823) to Nextcloud - 1 upvotes, $0
+502. [xss on demo.nextcloud.com due to outdated version](https://hackerone.com/reports/177713) to Nextcloud - 1 upvotes, $0
+503. [BruteForce in to Admin Account](https://hackerone.com/reports/188205) to Nextcloud - 1 upvotes, $0
+504. [[Nextcloud 9.0.53] Content Spoofing in 'trustDomain' parameter](https://hackerone.com/reports/153251) to Nextcloud - 1 upvotes, $0
 505. [Cross Site Scripting](https://hackerone.com/reports/224108) to Nextcloud - 1 upvotes, $0
 506. [Directory Listing In Subdomain Of nextcloud.com](https://hackerone.com/reports/218199) to Nextcloud - 1 upvotes, $0
 507. [Information Exposure Through Directory Listing - https://apps.nextcloud.com/static/](https://hackerone.com/reports/403909) to Nextcloud - 1 upvotes, $0
 508. [Clickjacking on https://download.nextcloud.com/](https://hackerone.com/reports/662155) to Nextcloud - 1 upvotes, $0
 509. [Clickjacking on https://download.nextcloud.com](https://hackerone.com/reports/658011) to Nextcloud - 1 upvotes, $0
 510. [Nextcloud Clickjacking Vulnerability](https://hackerone.com/reports/710996) to Nextcloud - 1 upvotes, $0
-511. [WebDAV Empty Property search leads to full CPU usage](https://hackerone.com/reports/255822) to Nextcloud - 1 upvotes, $0
-512. [Denial of Service when entring an Array in email at seetings](https://hackerone.com/reports/961997) to Nextcloud - 1 upvotes, $0
-513. [xss on setup config page ](https://hackerone.com/reports/812028) to Nextcloud - 1 upvotes, $0
-514. [New users can read all Nextcloud Deck data from previous user with same username](https://hackerone.com/reports/882258) to Nextcloud - 1 upvotes, $0
-515. [Leaking sensitive information through JSON  file path.](https://hackerone.com/reports/1211061) to Nextcloud - 1 upvotes, $0
-516. [Ubuntu 12.04 Privilege Escalation](https://hackerone.com/reports/380782) to Nextcloud - 0 upvotes, $0
-517. [Clickjacking on https://nextcloud.com/](https://hackerone.com/reports/661768) to Nextcloud - 0 upvotes, $0
-518. [Username Enumeration](https://hackerone.com/reports/667613) to Nextcloud - 0 upvotes, $0
-519. [Broken link for wrong domain entry may be leveraged for Phishing, Misinformation, Serving Malware](https://hackerone.com/reports/279717) to Nextcloud - 0 upvotes, $0
+511. [Broken link for wrong domain entry may be leveraged for Phishing, Misinformation, Serving Malware](https://hackerone.com/reports/279717) to Nextcloud - 1 upvotes, $0
+512. [WebDAV Empty Property search leads to full CPU usage](https://hackerone.com/reports/255822) to Nextcloud - 1 upvotes, $0
+513. [Denial of Service when entring an Array in email at seetings](https://hackerone.com/reports/961997) to Nextcloud - 1 upvotes, $0
+514. [xss on setup config page ](https://hackerone.com/reports/812028) to Nextcloud - 1 upvotes, $0
+515. [New users can read all Nextcloud Deck data from previous user with same username](https://hackerone.com/reports/882258) to Nextcloud - 1 upvotes, $0
+516. [Leaking sensitive information through JSON  file path.](https://hackerone.com/reports/1211061) to Nextcloud - 1 upvotes, $0
+517. [Ubuntu 12.04 Privilege Escalation](https://hackerone.com/reports/380782) to Nextcloud - 0 upvotes, $0
+518. [Clickjacking on https://nextcloud.com/](https://hackerone.com/reports/661768) to Nextcloud - 0 upvotes, $0
+519. [Username Enumeration](https://hackerone.com/reports/667613) to Nextcloud - 0 upvotes, $0
 520. [Bypass hide download Nextcloud Share](https://hackerone.com/reports/865777) to Nextcloud - 0 upvotes, $0
