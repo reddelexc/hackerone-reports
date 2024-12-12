@@ -11,6 +11,7 @@ scrolling through the whole hacktivity is almost impossible for now.
 
 import time
 import csv
+import argparse
 from datetime import datetime
 from selenium.webdriver import Chrome, ChromeOptions
 from selenium.webdriver.common.by import By
@@ -18,6 +19,26 @@ from selenium.webdriver.common.by import By
 hacktivity_url = 'https://hackerone.com/hacktivity/overview'
 page_loading_timeout = 10
 
+def create_argument_parser():
+    argparser = argparse.ArgumentParser()
+    argparser.add_argument(
+        '--browser-binary',
+        type=str,
+        help='Path to browser binary (Chrome or Chromium)',
+        default='/Applications/Google Chrome.app/Contents/MacOS/Google Chrome')
+    argparser.add_argument(
+        '--input-data-file',
+        type=str,
+        help='Path to input data file',
+        default='data.csv'
+    )
+    argparser.add_argument(
+        '--output-data-file',
+        type=str,
+        help='Path to output data file',
+        default='data.csv'
+    )
+    return argparser
 
 def extract_reports(raw_reports):
     reports = []
@@ -46,15 +67,15 @@ def extract_reports(raw_reports):
     return reports
 
 
-def fetch():
+def fetch(commandline_args):
     options = ChromeOptions()
-    options.binary_location = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
+    options.binary_location = commandline_args.browser_binary
     options.add_argument('no-sandbox')
     options.add_argument('headless')
     driver = Chrome(options=options)
 
     reports = []
-    with open('data.csv', 'r', newline='', encoding='utf-8') as file:
+    with open(commandline_args.input_data_file, 'r', newline='', encoding='utf-8') as file:
         reader = csv.DictReader(file)
         for row in reader:
             reports.append(dict(row))
@@ -93,7 +114,7 @@ def fetch():
     finally:
         driver.close()
 
-    with open('data.csv', 'w', newline='', encoding='utf-8') as file:
+    with open(commandline_args.output_data_file, 'w', newline='', encoding='utf-8') as file:
         keys = reports[0].keys()
         writer = csv.DictWriter(file, fieldnames=keys)
         writer.writeheader()
@@ -101,4 +122,6 @@ def fetch():
 
 
 if __name__ == '__main__':
-    fetch()
+    parser = create_argument_parser()
+    args = parser.parse_args()
+    fetch(args)
