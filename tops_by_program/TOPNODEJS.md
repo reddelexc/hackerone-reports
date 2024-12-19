@@ -7,7 +7,7 @@ Top reports from Node.js program at HackerOne:
 5. [registry.nodejs.org Subdomain Takeover](https://hackerone.com/reports/340580) to Node.js - 35 upvotes, $0
 6. [Path traversal by monkey-patching Buffer internals](https://hackerone.com/reports/2218653) to Node.js - 34 upvotes, $0
 7. [Potential HTTP Request Smuggling in nodejs](https://hackerone.com/reports/1002188) to Node.js - 31 upvotes, $250
-8. [Permission model improperly processes UNC paths](https://hackerone.com/reports/2079103) to Node.js - 29 upvotes, $0
+8. [Permission model improperly processes UNC paths](https://hackerone.com/reports/2079103) to Node.js - 30 upvotes, $0
 9. [Node.js: TLS session reuse can lead to hostname verification bypass](https://hackerone.com/reports/811502) to Node.js - 28 upvotes, $0
 10. [Node.js: use-after-free in TLSWrap](https://hackerone.com/reports/988103) to Node.js - 27 upvotes, $0
 11. [Denial of Service by resource exhaustion in fetch() brotli decoding](https://hackerone.com/reports/2284065) to Node.js - 27 upvotes, $0
@@ -15,11 +15,11 @@ Top reports from Node.js program at HackerOne:
 13. [Take over subdomain undici.nodejs.org.cdn.cloudflare.net](https://hackerone.com/reports/1763817) to Node.js - 22 upvotes, $0
 14. [Built-in TLS module unexpectedly treats "rejectUnauthorized: undefined" as "rejectUnauthorized: false", disabling all certificate validation](https://hackerone.com/reports/1278254) to Node.js - 20 upvotes, $150
 15. [Code injection and privilege escalation through Linux capabilities](https://hackerone.com/reports/2237545) to Node.js - 20 upvotes, $0
-16. [Bypass incomplete fix of CVE-2024-27980](https://hackerone.com/reports/2461831) to Node.js - 19 upvotes, $0
+16. [Bypass incomplete fix of CVE-2024-27980](https://hackerone.com/reports/2461831) to Node.js - 20 upvotes, $0
 17. [HTTP Request Smuggling due to accepting space before colon](https://hackerone.com/reports/1238709) to Node.js - 18 upvotes, $250
 18. [Improper handling of wildcards in --allow-fs-read and --allow-fs-write](https://hackerone.com/reports/2257156) to Node.js - 18 upvotes, $0
 19. [Permissions can be bypassed via arbitrary code execution through abusing libuv signal pipes](https://hackerone.com/reports/2260337) to Node.js - 18 upvotes, $0
-20. [Multiple permission model bypasses due to improper path traversal sequence sanitization](https://hackerone.com/reports/2259914) to Node.js - 16 upvotes, $0
+20. [Multiple permission model bypasses due to improper path traversal sequence sanitization](https://hackerone.com/reports/2259914) to Node.js - 17 upvotes, $0
 21. [Proxy-Authorization header is not cleared in cross-domain redirect in undici](https://hackerone.com/reports/2352957) to Node.js - 16 upvotes, $0
 22. [HTTP Request Smuggling via Content Length Obfuscation](https://hackerone.com/reports/2237099) to Node.js - 16 upvotes, $0
 23. [Remotely trigger an assertion on a TLS server with a malformed certificate string](https://hackerone.com/reports/746733) to Node.js - 15 upvotes, $0

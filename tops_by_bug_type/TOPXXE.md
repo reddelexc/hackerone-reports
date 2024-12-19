@@ -9,7 +9,7 @@ Top XXE reports from HackerOne:
 7. [Multiple endpoints are vulnerable to XML External Entity injection (XXE) ](https://hackerone.com/reports/72272) to Pornhub - 138 upvotes, $2500
 8. [XXE through injection of a payload in the XMP metadata of a JPEG file](https://hackerone.com/reports/836877) to Informatica - 133 upvotes, $0
 9. [XXE Injection through SVG image upload leads to SSRF](https://hackerone.com/reports/897244) to Zivver - 112 upvotes, $0
-10. [XXE in Site Audit function exposing file and directory contents](https://hackerone.com/reports/312543) to Semrush - 106 upvotes, $0
+10. [XXE in Site Audit function exposing file and directory contents](https://hackerone.com/reports/312543) to Semrush - 107 upvotes, $0
 11. [XXE in DoD website that may lead to RCE](https://hackerone.com/reports/227880) to U.S. Dept Of Defense - 93 upvotes, $0
 12. [[RCE] Unserialize to XXE - file disclosure on ams.upload.pornhub.com](https://hackerone.com/reports/142562) to Pornhub - 90 upvotes, $0
 13. [Blind XXE via Powerpoint files](https://hackerone.com/reports/334488) to Open-Xchange - 86 upvotes, $2000
@@ -27,8 +27,8 @@ Top XXE reports from HackerOne:
 25. [XXE on DoD web server](https://hackerone.com/reports/188743) to U.S. Dept Of Defense - 32 upvotes, $0
 26. [Singapore - XXE at https://www.starbucks.com.sg/RestApi/soap11](https://hackerone.com/reports/762251) to Starbucks - 30 upvotes, $0
 27. [[app.informaticaondemand.com] XXE](https://hackerone.com/reports/105753) to Informatica - 24 upvotes, $0
-28. [Blind XXE on my.mail.ru](https://hackerone.com/reports/276276) to Mail.ru - 23 upvotes, $800
-29. [Non-production Open Database In Combination With XXE Leads To SSRF](https://hackerone.com/reports/742808) to Evernote - 23 upvotes, $0
+28. [Non-production Open Database In Combination With XXE Leads To SSRF](https://hackerone.com/reports/742808) to Evernote - 24 upvotes, $0
+29. [Blind XXE on my.mail.ru](https://hackerone.com/reports/276276) to Mail.ru - 23 upvotes, $800
 30. [ XXE in upload file feature](https://hackerone.com/reports/105787) to Informatica - 21 upvotes, $0
 31. [[send.qiwi.ru] Soap-based XXE vulnerability /soapserver/ ](https://hackerone.com/reports/36450) to QIWI - 18 upvotes, $0
 32. [Blind XXE on pu.vk.com](https://hackerone.com/reports/296622) to VK.com - 17 upvotes, $500
@@ -38,7 +38,7 @@ Top XXE reports from HackerOne:
 36. [[marketplace.informatica.com] - XXE](https://hackerone.com/reports/106797) to Informatica - 13 upvotes, $0
 37. [blind XXE when uploading avatar in mymail phone app](https://hackerone.com/reports/277341) to Mail.ru - 12 upvotes, $1000
 38. [OOB XXE ](https://hackerone.com/reports/690387) to Mail.ru - 12 upvotes, $500
-39. [[rev-app.informatica.com] - XXE via SAML](https://hackerone.com/reports/106865) to Informatica - 11 upvotes, $0
+39. [[rev-app.informatica.com] - XXE via SAML](https://hackerone.com/reports/106865) to Informatica - 12 upvotes, $0
 40. [[marketplace.informatica.com] - XXE](https://hackerone.com/reports/106802) to Informatica - 11 upvotes, $0
 41. [XXE issue](https://hackerone.com/reports/130661) to Moneybird - 11 upvotes, $0
 42. [[usuppliers.uber.com] - Server Side Request Forgery via XXE OOB](https://hackerone.com/reports/448598) to Uber - 9 upvotes, $0

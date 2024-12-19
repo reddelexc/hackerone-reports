@@ -1,7 +1,7 @@
 Top reports from Brave Software program at HackerOne:
 
 1. [Brave Browser Tor Window leaks user's real IP to the external DNS server](https://hackerone.com/reports/1077022) to Brave Software - 276 upvotes, $0
-2. [Open redirect due to scanning QR code via brave browser](https://hackerone.com/reports/1946534) to Brave Software - 136 upvotes, $0
+2. [Open redirect due to scanning QR code via brave browser](https://hackerone.com/reports/1946534) to Brave Software - 135 upvotes, $0
 3. [Stored XSS in localhost:* via integrated torrent downloader](https://hackerone.com/reports/681617) to Brave Software - 122 upvotes, $0
 4. [Cookie steal through content Uri](https://hackerone.com/reports/876192) to Brave Software - 76 upvotes, $500
 5. [Local files reading from the web using `brave://`](https://hackerone.com/reports/390013) to Brave Software - 74 upvotes, $0
@@ -25,9 +25,9 @@ Top reports from Brave Software program at HackerOne:
 23. [Navigation to protocol handler URL from the opened page displayed as a request from this page.](https://hackerone.com/reports/374969) to Brave Software - 25 upvotes, $0
 24. [Local files reading from the "file://" origin through `brave://`](https://hackerone.com/reports/390362) to Brave Software - 24 upvotes, $0
 25. [XSS on Brave Today through custom RSS feed](https://hackerone.com/reports/1184379) to Brave Software - 23 upvotes, $500
-26. [chrome://brave navigation from web](https://hackerone.com/reports/415967) to Brave Software - 21 upvotes, $650
-27. [URL Spoof / Brave Shield Bypass](https://hackerone.com/reports/255991) to Brave Software - 21 upvotes, $200
-28. [S3 Bucket Takeover  "brave-browser-rpm-staging-release-test"](https://hackerone.com/reports/1835133) to Brave Software - 21 upvotes, $0
+26. [S3 Bucket Takeover  "brave-browser-rpm-staging-release-test"](https://hackerone.com/reports/1835133) to Brave Software - 22 upvotes, $0
+27. [chrome://brave navigation from web](https://hackerone.com/reports/415967) to Brave Software - 21 upvotes, $650
+28. [URL Spoof / Brave Shield Bypass](https://hackerone.com/reports/255991) to Brave Software - 21 upvotes, $200
 29. [DMARC RECORD MISSING](https://hackerone.com/reports/491753) to Brave Software - 20 upvotes, $0
 30. [Brave Browser permanently timestamps & logs connection times for all v2 domains ~/.config/BraveSoftware/Brave-Browser/tor/data/tor.log](https://hackerone.com/reports/1249056) to Brave Software - 19 upvotes, $400
 31. [Open redirect found on account.brave.com](https://hackerone.com/reports/1338437) to Brave Software - 19 upvotes, $0
@@ -62,8 +62,8 @@ Top reports from Brave Software program at HackerOne:
 60. [Brave Browser unexpectedly allows to send arbitrary IPC messages](https://hackerone.com/reports/187542) to Brave Software - 9 upvotes, $300
 61. [Phishing/Malware site blocking on Brave iOS can be bypassed with trailing dot in hostname](https://hackerone.com/reports/1068505) to Brave Software - 9 upvotes, $250
 62. [Torrent Viewer extension web service available on all interfaces](https://hackerone.com/reports/300181) to Brave Software - 9 upvotes, $200
-63. [[website] Script injection in newsletter signup https://brave.com/brave_youth_program_signup.html](https://hackerone.com/reports/175403) to Brave Software - 9 upvotes, $50
-64. [[DOS] Browser hangs on loading the code snippet](https://hackerone.com/reports/181686) to Brave Software - 9 upvotes, $25
+63. [[DOS] Browser hangs on loading the code snippet](https://hackerone.com/reports/181686) to Brave Software - 9 upvotes, $25
+64. [[website] Script injection in newsletter signup https://brave.com/brave_youth_program_signup.html](https://hackerone.com/reports/175403) to Brave Software - 9 upvotes, $0
 65. [URL spoofing using protocol handlers](https://hackerone.com/reports/373721) to Brave Software - 9 upvotes, $0
 66. [[Brave browser] WebTorrent has DNS rebinding vulnerability](https://hackerone.com/reports/663729) to Brave Software - 9 upvotes, $0
 67. [Field Day With Protocol Handlers](https://hackerone.com/reports/416040) to Brave Software - 8 upvotes, $150
@@ -73,13 +73,13 @@ Top reports from Brave Software program at HackerOne:
 71. [DoS in Brave browser for iOS](https://hackerone.com/reports/357665) to Brave Software - 8 upvotes, $0
 72. [There is vulnebility Click Here TO fix](https://hackerone.com/reports/319036) to Brave Software - 8 upvotes, $0
 73. [Brave Shield for iOS is weak against IDN homograph attacks](https://hackerone.com/reports/1819329) to Brave Software - 7 upvotes, $150
-74. [URI Obfuscation](https://hackerone.com/reports/175529) to Brave Software - 7 upvotes, $0
-75. [2 Directory Listing on ledger.brave.com & vault-staging.brave.com](https://hackerone.com/reports/175320) to Brave Software - 7 upvotes, $0
-76. [XSS on internal: privileged origin through reader mode](https://hackerone.com/reports/1438028) to Brave Software - 6 upvotes, $500
-77. [OS username disclosure](https://hackerone.com/reports/258585) to Brave Software - 6 upvotes, $100
-78. [Brave Browser potentially logs the last time a Tor window was used](https://hackerone.com/reports/1024668) to Brave Software - 6 upvotes, $100
-79. [[DOS] denial of service using code snippet on brave browser](https://hackerone.com/reports/181558) to Brave Software - 6 upvotes, $25
-80. [Subdomain Takeover of Brave.com](https://hackerone.com/reports/175397) to Brave Software - 6 upvotes, $0
+74. [Subdomain Takeover of Brave.com](https://hackerone.com/reports/175397) to Brave Software - 7 upvotes, $0
+75. [URI Obfuscation](https://hackerone.com/reports/175529) to Brave Software - 7 upvotes, $0
+76. [2 Directory Listing on ledger.brave.com & vault-staging.brave.com](https://hackerone.com/reports/175320) to Brave Software - 7 upvotes, $0
+77. [XSS on internal: privileged origin through reader mode](https://hackerone.com/reports/1438028) to Brave Software - 6 upvotes, $500
+78. [OS username disclosure](https://hackerone.com/reports/258585) to Brave Software - 6 upvotes, $100
+79. [Brave Browser potentially logs the last time a Tor window was used](https://hackerone.com/reports/1024668) to Brave Software - 6 upvotes, $100
+80. [[DOS] denial of service using code snippet on brave browser](https://hackerone.com/reports/181558) to Brave Software - 6 upvotes, $25
 81. [[iOS] URL can be replaceState by blob URL in iOS Brave](https://hackerone.com/reports/215044) to Brave Software - 6 upvotes, $0
 82. [Sending arbitrary IPC messages via overriding Array.prototype.push](https://hackerone.com/reports/188561) to Brave Software - 6 upvotes, $0
 83. [`alert()` dialogs on `chrome-extension://` origin (internal pages)](https://hackerone.com/reports/378809) to Brave Software - 6 upvotes, $0
@@ -98,11 +98,11 @@ Top reports from Brave Software program at HackerOne:
 96. [No user confirmation when an auto-updated extension gets more permissions](https://hackerone.com/reports/199243) to Brave Software - 3 upvotes, $0
 97. [UI spoofing by showing sms:/tel: dialog on another website](https://hackerone.com/reports/1819652) to Brave Software - 2 upvotes, $100
 98. [Denial of service attack(window object) on brave browser](https://hackerone.com/reports/176197) to Brave Software - 2 upvotes, $0
-99. [Brave payments remembers history even after clearing all browser data.](https://hackerone.com/reports/203088) to Brave Software - 2 upvotes, $0
-100. [Brave: Admin Panel Access](https://hackerone.com/reports/175366) to Brave Software - 2 upvotes, $0
-101. [Cross domain tracking even with 3rd party cookies disabled.](https://hackerone.com/reports/331428) to Brave Software - 2 upvotes, $0
-102. [Denial of service(POP UP Recursion) on Brave browser](https://hackerone.com/reports/179248) to Brave Software - 1 upvotes, $0
-103. [Clickjacking or URL Masking ](https://hackerone.com/reports/204198) to Brave Software - 1 upvotes, $0
+99. [Clickjacking or URL Masking ](https://hackerone.com/reports/204198) to Brave Software - 2 upvotes, $0
+100. [Brave payments remembers history even after clearing all browser data.](https://hackerone.com/reports/203088) to Brave Software - 2 upvotes, $0
+101. [Brave: Admin Panel Access](https://hackerone.com/reports/175366) to Brave Software - 2 upvotes, $0
+102. [Cross domain tracking even with 3rd party cookies disabled.](https://hackerone.com/reports/331428) to Brave Software - 2 upvotes, $0
+103. [Denial of service(POP UP Recursion) on Brave browser](https://hackerone.com/reports/179248) to Brave Software - 1 upvotes, $0
 104. [homograph-attack (unicode vuln)](https://hackerone.com/reports/221461) to Brave Software - 1 upvotes, $0
 105. [Remote Stack Overflow Vulnerability (DoS)](https://hackerone.com/reports/181061) to Brave Software - 1 upvotes, $0
 106. [Download of (later executed) .NET installer over insecure channel](https://hackerone.com/reports/272231) to Brave Software - 1 upvotes, $0

@@ -1,20 +1,20 @@
 Top Request Smuggling reports from HackerOne:
 
-1. [Mass account takeovers using HTTP Request Smuggling on https://slackb.com/ to steal session cookies](https://hackerone.com/reports/737140) to Slack - 841 upvotes, $0
+1. [Mass account takeovers using HTTP Request Smuggling on https://slackb.com/ to steal session cookies](https://hackerone.com/reports/737140) to Slack - 843 upvotes, $0
 2. [Request smuggling on admin-official.line.me could lead to account takeover](https://hackerone.com/reports/740037) to LY Corporation - 558 upvotes, $0
-3. [Stealing Zomato X-Access-Token: in Bulk using HTTP Request Smuggling on api.zomato.com](https://hackerone.com/reports/771666) to Zomato - 547 upvotes, $0
+3. [Stealing Zomato X-Access-Token: in Bulk using HTTP Request Smuggling on api.zomato.com](https://hackerone.com/reports/771666) to Zomato - 549 upvotes, $0
 4. [Password theft login.newrelic.com via Request Smuggling](https://hackerone.com/reports/498052) to New Relic - 490 upvotes, $3000
 5. [HTTP Request Smuggling via HTTP/2](https://hackerone.com/reports/1211724) to Basecamp - 292 upvotes, $7500
 6. [HTTP request Smuggling](https://hackerone.com/reports/867952) to Helium - 290 upvotes, $0
 7. [HTTP request smuggling (?) canpol.deti.mail.ru](https://hackerone.com/reports/957881) to Mail.ru - 241 upvotes, $5000
-8. [HTTP Request Smuggling on https://labs.data.gov](https://hackerone.com/reports/726773) to GSA Bounty - 151 upvotes, $750
+8. [HTTP Request Smuggling on https://labs.data.gov](https://hackerone.com/reports/726773) to GSA Bounty - 152 upvotes, $750
 9. [HTTP Request Smuggling at app.workbox.dk](https://hackerone.com/reports/919988) to Visma Public - 139 upvotes, $500
 10. [HTTP Request Smuggling due to CR-to-Hyphen conversion](https://hackerone.com/reports/922597) to Node.js - 132 upvotes, $0
 11. [HTTP Request Smuggling on vpn.lob.com](https://hackerone.com/reports/694604) to Lob - 123 upvotes, $500
 12. [HTTP Request Smuggling in Transform Rules using hexadecimal escape sequences in the concat() function](https://hackerone.com/reports/1478633) to Cloudflare Public Bug Bounty - 108 upvotes, $6000
 13. [HTTP request smuggling using malformed Transfer-Encoding header](https://hackerone.com/reports/735748) to Node.js - 103 upvotes, $0
 14. [Possibility of Request smuggling attack](https://hackerone.com/reports/2280391) to Internet Bug Bounty - 90 upvotes, $4660
-15. [CVE-2024-21733 Apache Tomcat HTTP Request Smuggling (Client- Side Desync) (CWE: 444)](https://hackerone.com/reports/2327341) to Internet Bug Bounty - 54 upvotes, $4660
+15. [CVE-2024-21733 Apache Tomcat HTTP Request Smuggling (Client- Side Desync) (CWE: 444)](https://hackerone.com/reports/2327341) to Internet Bug Bounty - 55 upvotes, $4660
 16. [Potential HTTP Request Smuggling in ruby webrick](https://hackerone.com/reports/965267) to Ruby - 52 upvotes, $500
 17. [Request Smuggling in Apache Tomcat (Important, CVE-2023-45648)](https://hackerone.com/reports/2299692) to Internet Bug Bounty - 48 upvotes, $4660
 18. [HTTP request smuggling with Origin Rules using newlines in the host_header action parameter](https://hackerone.com/reports/1575912) to Cloudflare Public Bug Bounty - 44 upvotes, $3100
@@ -31,9 +31,9 @@ Top Request Smuggling reports from HackerOne:
 29. [http request smuggling in  twitter.com](https://hackerone.com/reports/715996) to X (Formerly Twitter) - 16 upvotes, $0
 30. [HTTP Request Smuggling via Content Length Obfuscation](https://hackerone.com/reports/2237099) to Node.js - 16 upvotes, $0
 31. [HTTP Request Smuggling Due to Incorrect Parsing of Header Fields](https://hackerone.com/reports/1888760) to Internet Bug Bounty - 15 upvotes, $1800
-32. [HTTP Request Smuggling via Empty headers separated by CR](https://hackerone.com/reports/2032842) to Internet Bug Bounty - 14 upvotes, $1800
-33. [HTTP Request Smuggling on my.stripo.email](https://hackerone.com/reports/777651) to Stripo Inc - 13 upvotes, $0
-34. [[demo.stripo.email] HTTP request Smuggling](https://hackerone.com/reports/1631228) to Stripo Inc - 13 upvotes, $0
+32. [[demo.stripo.email] HTTP request Smuggling](https://hackerone.com/reports/1631228) to Stripo Inc - 15 upvotes, $0
+33. [HTTP Request Smuggling via Empty headers separated by CR](https://hackerone.com/reports/2032842) to Internet Bug Bounty - 14 upvotes, $1800
+34. [HTTP Request Smuggling on my.stripo.email](https://hackerone.com/reports/777651) to Stripo Inc - 13 upvotes, $0
 35. [HTTP Request Smuggling](https://hackerone.com/reports/866382) to Brave Software - 12 upvotes, $0
 36. [ CVE-2022-32213 - HTTP Request Smuggling Due to Flawed Parsing of Transfer-Encoding](https://hackerone.com/reports/1630668) to Internet Bug Bounty - 11 upvotes, $1800
 37. [HTTP Request Smuggling on https://promosandbox.acronis.com](https://hackerone.com/reports/1063493) to Acronis - 10 upvotes, $0
