@@ -92,21 +92,21 @@ Top reports from VK.com program at HackerOne:
 90. [HTML Injection possible due to bad filter](https://hackerone.com/reports/198907) to VK.com - 11 upvotes, $0
 91. [Opcode Cache](https://hackerone.com/reports/308355) to VK.com - 11 upvotes, $0
 92. [clickjacking в /lead_forms_app.php](https://hackerone.com/reports/294334) to VK.com - 11 upvotes, $0
-93. [Новый 2FA Bypass](https://hackerone.com/reports/179421) to VK.com - 10 upvotes, $1000
-94. [Хранимая XSS в функционале добавления аудио в WYSIWYG](https://hackerone.com/reports/274112) to VK.com - 10 upvotes, $500
-95. [Узнаем несколько цифр номера телефона юзера (можно флудить смс), всего раз узнав его remixsid и его ид юзера, и установка оффлайна юзерам.](https://hackerone.com/reports/390126) to VK.com - 10 upvotes, $300
-96. [Обходим 2FA и/или получаем access_token, если мы когда-либо были на аккаунте жертвы](https://hackerone.com/reports/316078) to VK.com - 10 upvotes, $300
-97. [Обход приватности у фотографий/документов](https://hackerone.com/reports/1056686) to VK.com - 10 upvotes, $300
-98. [Просмотр любых статей по их айди.](https://hackerone.com/reports/589400) to VK.com - 10 upvotes, $200
-99. [Узнать название частной группы и ее аватарку по видеоролику.](https://hackerone.com/reports/247072) to VK.com - 10 upvotes, $100
-100. [Просмотр аватара и название частной группы](https://hackerone.com/reports/246085) to VK.com - 10 upvotes, $100
-101. [Отправляем смс на любой номер от имени vk.com.  (Сообщение в смс всегда одно и то же, его менять нельзя.)](https://hackerone.com/reports/1115759) to VK.com - 10 upvotes, $100
-102. [Внедрение внешних сущностей в функционале импорта пользователей YouTrack](https://hackerone.com/reports/114476) to VK.com - 10 upvotes, $0
-103. [SSRF (open) - via GET request](https://hackerone.com/reports/180527) to VK.com - 10 upvotes, $0
-104. [XSS в названии сервера](https://hackerone.com/reports/262010) to VK.com - 10 upvotes, $0
-105. [Backup Source Code Detected](https://hackerone.com/reports/309537) to VK.com - 10 upvotes, $0
-106. [error](https://hackerone.com/reports/309594) to VK.com - 10 upvotes, $0
-107. [Отправка произвольных запросов к API с правами любого установленного у пользователя iframe/miniapp](https://hackerone.com/reports/987132) to VK.com - 10 upvotes, $0
+93. [Отправка произвольных запросов к API с правами любого установленного у пользователя iframe/miniapp](https://hackerone.com/reports/987132) to VK.com - 11 upvotes, $0
+94. [Новый 2FA Bypass](https://hackerone.com/reports/179421) to VK.com - 10 upvotes, $1000
+95. [Хранимая XSS в функционале добавления аудио в WYSIWYG](https://hackerone.com/reports/274112) to VK.com - 10 upvotes, $500
+96. [Узнаем несколько цифр номера телефона юзера (можно флудить смс), всего раз узнав его remixsid и его ид юзера, и установка оффлайна юзерам.](https://hackerone.com/reports/390126) to VK.com - 10 upvotes, $300
+97. [Обходим 2FA и/или получаем access_token, если мы когда-либо были на аккаунте жертвы](https://hackerone.com/reports/316078) to VK.com - 10 upvotes, $300
+98. [Обход приватности у фотографий/документов](https://hackerone.com/reports/1056686) to VK.com - 10 upvotes, $300
+99. [Просмотр любых статей по их айди.](https://hackerone.com/reports/589400) to VK.com - 10 upvotes, $200
+100. [Узнать название частной группы и ее аватарку по видеоролику.](https://hackerone.com/reports/247072) to VK.com - 10 upvotes, $100
+101. [Просмотр аватара и название частной группы](https://hackerone.com/reports/246085) to VK.com - 10 upvotes, $100
+102. [Отправляем смс на любой номер от имени vk.com.  (Сообщение в смс всегда одно и то же, его менять нельзя.)](https://hackerone.com/reports/1115759) to VK.com - 10 upvotes, $100
+103. [Внедрение внешних сущностей в функционале импорта пользователей YouTrack](https://hackerone.com/reports/114476) to VK.com - 10 upvotes, $0
+104. [SSRF (open) - via GET request](https://hackerone.com/reports/180527) to VK.com - 10 upvotes, $0
+105. [XSS в названии сервера](https://hackerone.com/reports/262010) to VK.com - 10 upvotes, $0
+106. [Backup Source Code Detected](https://hackerone.com/reports/309537) to VK.com - 10 upvotes, $0
+107. [error](https://hackerone.com/reports/309594) to VK.com - 10 upvotes, $0
 108. [Stored XSS в выборе метки на странице списка заказов.](https://hackerone.com/reports/1070259) to VK.com - 9 upvotes, $500
 109. [Просмотр любого видео из частной группы и кто загрузил](https://hackerone.com/reports/319674) to VK.com - 9 upvotes, $300
 110. [Узнаем новые email приглашенного нами пользователя после смены, и так же часть номера телефона](https://hackerone.com/reports/529367) to VK.com - 9 upvotes, $300
@@ -129,13 +129,13 @@ Top reports from VK.com program at HackerOne:
 127. [Монипулирование на страницах пользоватлей значением "Подсказывать стикеры в полях ввода"](https://hackerone.com/reports/300622) to VK.com - 7 upvotes, $100
 128. [Просмотр части номера телефона и отправка на него SMS, всего раз скомпроментировав аккаунт](https://hackerone.com/reports/301572) to VK.com - 7 upvotes, $100
 129. [CSRF на "ловлю гостей" и раскрытие аудиотрансляции в частной группе](https://hackerone.com/reports/301631) to VK.com - 7 upvotes, $100
-130. [Возможность смотреть видео рекомендации любого пользователя вконтакте](https://hackerone.com/reports/196937) to VK.com - 7 upvotes, $0
-131. [XSS работающая по всему сайту, где есть упоминания](https://hackerone.com/reports/292997) to VK.com - 7 upvotes, $0
-132. [API: Bug in method auth.signup , дающий возможность бесконечно звонить ](https://hackerone.com/reports/107877) to VK.com - 6 upvotes, $500
-133. [Узнаем название и аватарку частной группы, по ID приложения.](https://hackerone.com/reports/270119) to VK.com - 6 upvotes, $100
-134. [Обход фильтра на ссылки в загрузке историй..](https://hackerone.com/reports/522214) to VK.com - 6 upvotes, $100
-135. [Получаем название и аватарку (50x50) частной группы.](https://hackerone.com/reports/1343280) to VK.com - 6 upvotes, $100
-136. [Внедрение произвольного javascript-сценария в функционале просмотра изображений мобильной версии сайта](https://hackerone.com/reports/80298) to VK.com - 6 upvotes, $0
+130. [Внедрение произвольного javascript-сценария в функционале просмотра изображений мобильной версии сайта](https://hackerone.com/reports/80298) to VK.com - 7 upvotes, $0
+131. [Возможность смотреть видео рекомендации любого пользователя вконтакте](https://hackerone.com/reports/196937) to VK.com - 7 upvotes, $0
+132. [XSS работающая по всему сайту, где есть упоминания](https://hackerone.com/reports/292997) to VK.com - 7 upvotes, $0
+133. [API: Bug in method auth.signup , дающий возможность бесконечно звонить ](https://hackerone.com/reports/107877) to VK.com - 6 upvotes, $500
+134. [Узнаем название и аватарку частной группы, по ID приложения.](https://hackerone.com/reports/270119) to VK.com - 6 upvotes, $100
+135. [Обход фильтра на ссылки в загрузке историй..](https://hackerone.com/reports/522214) to VK.com - 6 upvotes, $100
+136. [Получаем название и аватарку (50x50) частной группы.](https://hackerone.com/reports/1343280) to VK.com - 6 upvotes, $100
 137. [api.vk.com отдаёт в ответ HTML авторизированную страницу vk.com](https://hackerone.com/reports/219657) to VK.com - 6 upvotes, $0
 138. [XSS в комментариях от имени сообщества ](https://hackerone.com/reports/264445) to VK.com - 6 upvotes, $0
 139. [Хранимая XSS на странице "Виджет для авторизации"](https://hackerone.com/reports/273960) to VK.com - 6 upvotes, $0
@@ -163,12 +163,12 @@ Top reports from VK.com program at HackerOne:
 161. [Stored XSS в m.vk.com/video](https://hackerone.com/reports/730963) to VK.com - 3 upvotes, $500
 162. [Уязвимость в Указание мест на фото + фича + хакинг](https://hackerone.com/reports/66235) to VK.com - 3 upvotes, $200
 163. [Делаем плейлист от любого(почти) пользователя/группы/артиста.](https://hackerone.com/reports/504162) to VK.com - 3 upvotes, $100
-164. [Способ узнать имя человека и ВУЗ удаленной страницы](https://hackerone.com/reports/93020) to VK.com - 3 upvotes, $0
-165. [Логирование ответов запросов VK API в приложении Клевер](https://hackerone.com/reports/475177) to VK.com - 3 upvotes, $0
-166. [Information Disclosure (phpinfo())](https://hackerone.com/reports/531146) to VK.com - 3 upvotes, $0
-167. [XSS at http://vk.com on IE using flash files](https://hackerone.com/reports/66121) to VK.com - 2 upvotes, $500
-168. [Загружаем видеозаписи в основной альбом любой открытой группе/паблику.](https://hackerone.com/reports/508506) to VK.com - 2 upvotes, $300
-169. [Паблики: Модератор паблика может удалять добавленные редакторами материалы с таймером на публикацию.](https://hackerone.com/reports/148467) to VK.com - 2 upvotes, $100
-170. [API: Bug in method auth.validatePhone](https://hackerone.com/reports/64963) to VK.com - 2 upvotes, $0
-171. [Не достаточная проверка логина скайп](https://hackerone.com/reports/65330) to VK.com - 1 upvotes, $100
-172. [XSS on added name album on videos.](https://hackerone.com/reports/65324) to VK.com - 1 upvotes, $0
+164. [API: Bug in method auth.validatePhone](https://hackerone.com/reports/64963) to VK.com - 3 upvotes, $0
+165. [Способ узнать имя человека и ВУЗ удаленной страницы](https://hackerone.com/reports/93020) to VK.com - 3 upvotes, $0
+166. [Логирование ответов запросов VK API в приложении Клевер](https://hackerone.com/reports/475177) to VK.com - 3 upvotes, $0
+167. [Information Disclosure (phpinfo())](https://hackerone.com/reports/531146) to VK.com - 3 upvotes, $0
+168. [XSS at http://vk.com on IE using flash files](https://hackerone.com/reports/66121) to VK.com - 2 upvotes, $500
+169. [Загружаем видеозаписи в основной альбом любой открытой группе/паблику.](https://hackerone.com/reports/508506) to VK.com - 2 upvotes, $300
+170. [Паблики: Модератор паблика может удалять добавленные редакторами материалы с таймером на публикацию.](https://hackerone.com/reports/148467) to VK.com - 2 upvotes, $100
+171. [XSS on added name album on videos.](https://hackerone.com/reports/65324) to VK.com - 2 upvotes, $0
+172. [Не достаточная проверка логина скайп](https://hackerone.com/reports/65330) to VK.com - 1 upvotes, $100
