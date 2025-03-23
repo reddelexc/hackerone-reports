@@ -2,7 +2,7 @@ Top reports from ownCloud program at HackerOne:
 
 1. [Possible to steal any protected files on Android](https://hackerone.com/reports/377107) to ownCloud - 112 upvotes, $750
 2. [Cross-Site Request Forgery ](https://hackerone.com/reports/2041007) to ownCloud - 107 upvotes, $0
-3. [Authentication Bypass with usage of PreSignedURL](https://hackerone.com/reports/2337427) to ownCloud - 33 upvotes, $2000
+3. [Authentication Bypass with usage of PreSignedURL](https://hackerone.com/reports/2337427) to ownCloud - 34 upvotes, $2000
 4. [Federated share permissions can be increased by recipient](https://hackerone.com/reports/1990443) to ownCloud - 28 upvotes, $500
 5. [Banner Grabbing - Apache Server Version Disclousure](https://hackerone.com/reports/269467) to ownCloud - 19 upvotes, $0
 6. [Arbitrary Code Injection in ownCloud’s Windows Client](https://hackerone.com/reports/155657) to ownCloud - 16 upvotes, $0
@@ -13,8 +13,8 @@ Top reports from ownCloud program at HackerOne:
 11. [RCE in ci.owncloud.com / ci.owncloud.org](https://hackerone.com/reports/98559) to ownCloud - 10 upvotes, $0
 12. [SMB User Authentication Bypass and Persistence](https://hackerone.com/reports/148151) to ownCloud - 10 upvotes, $0
 13. [Protocol Smuggling over LDAP password field](https://hackerone.com/reports/1054282) to ownCloud - 10 upvotes, $0
-14. [Password Complexity Not Enforced On Password Change](https://hackerone.com/reports/276123) to ownCloud - 9 upvotes, $0
-15. [User Information Disclosure via REST API](https://hackerone.com/reports/197786) to ownCloud - 8 upvotes, $0
+14. [User Information Disclosure via REST API](https://hackerone.com/reports/197786) to ownCloud - 9 upvotes, $0
+15. [Password Complexity Not Enforced On Password Change](https://hackerone.com/reports/276123) to ownCloud - 9 upvotes, $0
 16. [GitHub Security Lab (GHSL) Vulnerability Report: SQLInjection in FileContentProvider.kt (GHSL-2022-059)](https://hackerone.com/reports/1650264) to ownCloud - 7 upvotes, $300
 17. [apps.owncloud.com: Malicious file upload leads to remote code execution](https://hackerone.com/reports/84374) to ownCloud - 7 upvotes, $0
 18. [[api.owncloud.org] CRLF Injection](https://hackerone.com/reports/154306) to ownCloud - 7 upvotes, $0
@@ -87,10 +87,10 @@ Top reports from ownCloud program at HackerOne:
 85. [doc.owncloud.org: X-XSS-Protection not enabled](https://hackerone.com/reports/128493) to ownCloud - 1 upvotes, $0
 86. [doc.owncloud.com: PHP info page disclosure ](https://hackerone.com/reports/134216) to ownCloud - 1 upvotes, $0
 87. [This is not the security issue.](https://hackerone.com/reports/257106) to ownCloud - 1 upvotes, $0
-88. [directory listing in https://demo.owncloud.org/doc/](https://hackerone.com/reports/105149) to ownCloud - 0 upvotes, $0
-89. [[https://test1.owncloud.com/owncloud6/] Guessable password used for admin user](https://hackerone.com/reports/107849) to ownCloud - 0 upvotes, $0
-90. [owncloud.help: Text  Injection](https://hackerone.com/reports/112304) to ownCloud - 0 upvotes, $0
-91. [Mixed Active Scripting Issue on stats.owncloud.org](https://hackerone.com/reports/108692) to ownCloud - 0 upvotes, $0
-92. [otrs.owncloud.com: Reflected Cross-Site Scripting](https://hackerone.com/reports/108288) to ownCloud - 0 upvotes, $0
-93. [The csrf token remains same after user logs in](https://hackerone.com/reports/111262) to ownCloud - 0 upvotes, $0
-94. [File System Monitoring Queue Overflow](https://hackerone.com/reports/881891) to ownCloud - 0 upvotes, $0
+88. [File System Monitoring Queue Overflow](https://hackerone.com/reports/881891) to ownCloud - 1 upvotes, $0
+89. [directory listing in https://demo.owncloud.org/doc/](https://hackerone.com/reports/105149) to ownCloud - 0 upvotes, $0
+90. [[https://test1.owncloud.com/owncloud6/] Guessable password used for admin user](https://hackerone.com/reports/107849) to ownCloud - 0 upvotes, $0
+91. [owncloud.help: Text  Injection](https://hackerone.com/reports/112304) to ownCloud - 0 upvotes, $0
+92. [Mixed Active Scripting Issue on stats.owncloud.org](https://hackerone.com/reports/108692) to ownCloud - 0 upvotes, $0
+93. [otrs.owncloud.com: Reflected Cross-Site Scripting](https://hackerone.com/reports/108288) to ownCloud - 0 upvotes, $0
+94. [The csrf token remains same after user logs in](https://hackerone.com/reports/111262) to ownCloud - 0 upvotes, $0

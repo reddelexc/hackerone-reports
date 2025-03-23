@@ -2,8 +2,8 @@ Top reports from Brave Software program at HackerOne:
 
 1. [Brave Browser Tor Window leaks user's real IP to the external DNS server](https://hackerone.com/reports/1077022) to Brave Software - 277 upvotes, $0
 2. [Open redirect due to scanning QR code via brave browser](https://hackerone.com/reports/1946534) to Brave Software - 138 upvotes, $0
-3. [Stored XSS in localhost:* via integrated torrent downloader](https://hackerone.com/reports/681617) to Brave Software - 122 upvotes, $0
-4. [ Incorrect security UI of files' download source on brave MacOS](https://hackerone.com/reports/2888770) to Brave Software - 79 upvotes, $0
+3. [Stored XSS in localhost:* via integrated torrent downloader](https://hackerone.com/reports/681617) to Brave Software - 123 upvotes, $0
+4. [ Incorrect security UI of files' download source on brave MacOS](https://hackerone.com/reports/2888770) to Brave Software - 82 upvotes, $0
 5. [Cookie steal through content Uri](https://hackerone.com/reports/876192) to Brave Software - 77 upvotes, $500
 6. [Local files reading from the web using `brave://`](https://hackerone.com/reports/390013) to Brave Software - 74 upvotes, $0
 7. [New XSS vector in ReaderMode with %READER-TITLE-NONCE%](https://hackerone.com/reports/1436142) to Brave Software - 71 upvotes, $1000
@@ -16,9 +16,9 @@ Top reports from Brave Software program at HackerOne:
 14. [Information disclosure-Referer leak](https://hackerone.com/reports/1337624) to Brave Software - 42 upvotes, $500
 15. [[Android] HTML Injection in BatterySaveArticleRenderer WebView](https://hackerone.com/reports/176065) to Brave Software - 42 upvotes, $150
 16. [Browser is not following proper flow for redirection cause open redirect ](https://hackerone.com/reports/1579374) to Brave Software - 41 upvotes, $500
-17. [Onion-Location header allows to open arbitrary URLs including chrome:](https://hackerone.com/reports/1089995) to Brave Software - 38 upvotes, $400
-18. [UAF on JSEthereumProvider](https://hackerone.com/reports/1977252) to Brave Software - 37 upvotes, $3000
-19. [Brave Android: Incorrect URL Eliding in Brave Shields Pop Up](https://hackerone.com/reports/2501378) to Brave Software - 36 upvotes, $100
+17. [UAF on JSEthereumProvider](https://hackerone.com/reports/1977252) to Brave Software - 38 upvotes, $3000
+18. [Onion-Location header allows to open arbitrary URLs including chrome:](https://hackerone.com/reports/1089995) to Brave Software - 38 upvotes, $400
+19. [Brave Android: Incorrect URL Eliding in Brave Shields Pop Up](https://hackerone.com/reports/2501378) to Brave Software - 38 upvotes, $100
 20. [download file type warning on Windows does not appear if "ask where to save file before downloading" setting is enabled](https://hackerone.com/reports/1848062) to Brave Software - 31 upvotes, $500
 21. [HTML injection in title of reader view](https://hackerone.com/reports/991713) to Brave Software - 30 upvotes, $300
 22. [[iOS/Android] Address Bar Spoofing Vulnerability ](https://hackerone.com/reports/175958) to Brave Software - 30 upvotes, $200
@@ -42,10 +42,10 @@ Top reports from Brave Software program at HackerOne:
 40. [Arbitrary file download due to bad handling of Redirects in WebTorrent](https://hackerone.com/reports/975514) to Brave Software - 15 upvotes, $0
 41. [Universal XSS through FIDO U2F register from subframe](https://hackerone.com/reports/993670) to Brave Software - 14 upvotes, $1000
 42. [Persistent user tracking is possible using window.caches, by avoiding Brave Shields](https://hackerone.com/reports/1668815) to Brave Software - 14 upvotes, $400
-43. [Homograph attack](https://hackerone.com/reports/175286) to Brave Software - 14 upvotes, $0
-44. [URL spoofing in Brave for macOS](https://hackerone.com/reports/369086) to Brave Software - 14 upvotes, $0
-45. [Access to local file system using javascript](https://hackerone.com/reports/175979) to Brave Software - 13 upvotes, $100
-46. [unclaimed s3 bucket takeover in the 3 js file located on the github page of  brave software](https://hackerone.com/reports/1316650) to Brave Software - 13 upvotes, $50
+43. [unclaimed s3 bucket takeover in the 3 js file located on the github page of  brave software](https://hackerone.com/reports/1316650) to Brave Software - 14 upvotes, $50
+44. [Homograph attack](https://hackerone.com/reports/175286) to Brave Software - 14 upvotes, $0
+45. [URL spoofing in Brave for macOS](https://hackerone.com/reports/369086) to Brave Software - 14 upvotes, $0
+46. [Access to local file system using javascript](https://hackerone.com/reports/175979) to Brave Software - 13 upvotes, $100
 47. [[ios] Address bar spoofing in Brave for iOS](https://hackerone.com/reports/176929) to Brave Software - 13 upvotes, $0
 48. [Redirecting users to malicious torrent-files/websites using WebTorrent](https://hackerone.com/reports/968328) to Brave Software - 13 upvotes, $0
 49. [chrome://brave can still be navigated to, leading to RCE](https://hackerone.com/reports/415178) to Brave Software - 12 upvotes, $300

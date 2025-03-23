@@ -20,11 +20,11 @@ Top reports from shopify-scripts program at HackerOne:
 18. [Deleting Key-value pair from Frozen HASH or Clearing a Frozen HASH](https://hackerone.com/reports/194866) to shopify-scripts - 12 upvotes, $0
 19. [Clearing , Shifting and Pop Value from Frozen Array  ](https://hackerone.com/reports/196416) to shopify-scripts - 12 upvotes, $0
 20. [Certain inputs cause tight C-level recursion leading to process stack overflow](https://hackerone.com/reports/189633) to shopify-scripts - 11 upvotes, $10000
-21. [Broken handling of maximum number of method call arguments leads to segfault](https://hackerone.com/reports/182484) to shopify-scripts - 10 upvotes, $10000
-22. [Memory disclosure in mruby String#lines method](https://hackerone.com/reports/181319) to shopify-scripts - 10 upvotes, $0
-23. [NULL pointer dereference when parsing ternary operators](https://hackerone.com/reports/181677) to shopify-scripts - 10 upvotes, $0
-24. [Segmentation fault on program counter](https://hackerone.com/reports/196498) to shopify-scripts - 10 upvotes, $0
-25. [Struct type confusion RCE](https://hackerone.com/reports/181879) to shopify-scripts - 9 upvotes, $18000
+21. [Struct type confusion RCE](https://hackerone.com/reports/181879) to shopify-scripts - 10 upvotes, $18000
+22. [Broken handling of maximum number of method call arguments leads to segfault](https://hackerone.com/reports/182484) to shopify-scripts - 10 upvotes, $10000
+23. [Memory disclosure in mruby String#lines method](https://hackerone.com/reports/181319) to shopify-scripts - 10 upvotes, $0
+24. [NULL pointer dereference when parsing ternary operators](https://hackerone.com/reports/181677) to shopify-scripts - 10 upvotes, $0
+25. [Segmentation fault on program counter](https://hackerone.com/reports/196498) to shopify-scripts - 10 upvotes, $0
 26. [Crash: Initialize Decimal with itself triggers an assertion](https://hackerone.com/reports/185775) to shopify-scripts - 9 upvotes, $10000
 27. [Null pointer derefence due to bug in codegen with negation without using value](https://hackerone.com/reports/187536) to shopify-scripts - 9 upvotes, $10000
 28. [Denial of service due to invalid memory access in mrb_ary_concat](https://hackerone.com/reports/184712) to shopify-scripts - 9 upvotes, $8000
