@@ -13,8 +13,8 @@ Top reports from Zomato program at HackerOne:
 11. [Able to manipulate order amount by removing cancellation amount and cause financial impact](https://hackerone.com/reports/614523) to Zomato - 125 upvotes, $0
 12. [Add upto 10K rupees to a wallet by paying an arbitrary amount](https://hackerone.com/reports/1408782) to Zomato - 116 upvotes, $2000
 13. [[Zomato Order] Insecure deeplink leads to sensitive information disclosure](https://hackerone.com/reports/532225) to Zomato - 110 upvotes, $750
-14. [Availing Zomato gold by using a random third-party `wallet_id`](https://hackerone.com/reports/938021) to Zomato - 109 upvotes, $2000
-15. [[www.zomato.com] Leaking Email Addresses of merchants via reset password feature](https://hackerone.com/reports/293490) to Zomato - 109 upvotes, $0
+14. [[www.zomato.com] Leaking Email Addresses of merchants via reset password feature](https://hackerone.com/reports/293490) to Zomato - 110 upvotes, $0
+15. [Availing Zomato gold by using a random third-party `wallet_id`](https://hackerone.com/reports/938021) to Zomato - 109 upvotes, $2000
 16. [Login to any account with the emailaddress](https://hackerone.com/reports/245408) to Zomato - 101 upvotes, $1000
 17. [Claiming the listing of a non-delivery restaurant through OTP manipulation](https://hackerone.com/reports/1330529) to Zomato - 99 upvotes, $3250
 18. [[www.zomato.com] Blind XSS in one of the admin dashboard](https://hackerone.com/reports/461272) to Zomato - 99 upvotes, $500
@@ -22,22 +22,22 @@ Top reports from Zomato program at HackerOne:
 20. [Subdomain takeover of fr1.vpn.zomans.com](https://hackerone.com/reports/1182864) to Zomato - 94 upvotes, $350
 21. [ credentials leakage in public lead to view dev websites ](https://hackerone.com/reports/511440) to Zomato - 75 upvotes, $0
 22. [[www.zomato.com] Tampering with Order Quantity and paying less amount then actual amount, leads to business loss](https://hackerone.com/reports/403783) to Zomato - 73 upvotes, $0
-23. [[https://reviews.zomato.com] Time Based SQL Injection](https://hackerone.com/reports/300176) to Zomato - 69 upvotes, $1000
+23. [[https://reviews.zomato.com] Time Based SQL Injection](https://hackerone.com/reports/300176) to Zomato - 70 upvotes, $1000
 24. [Page has a link to google drive which has logos and a few customer phone recordings](https://hackerone.com/reports/864712) to Zomato - 66 upvotes, $200
 25. [[Zomato Android/iOS] Theft of user session](https://hackerone.com/reports/328486) to Zomato - 65 upvotes, $0
 26. [[www.zomato.com] Blind SQL Injection in /php/geto2banner](https://hackerone.com/reports/838855) to Zomato - 64 upvotes, $2000
 27. [[www.zomato.com] SQLi on `order_id` parameter](https://hackerone.com/reports/358669) to Zomato - 61 upvotes, $1000
 28. [[www.zomato.com] Blind XSS in one of the Admin Dashboard](https://hackerone.com/reports/419731) to Zomato - 61 upvotes, $0
 29. [[www.zomato.com] Union SQLi + Waf Bypass](https://hackerone.com/reports/258582) to Zomato - 60 upvotes, $1000
-30. [IDOR to delete images from other stores](https://hackerone.com/reports/404797) to Zomato - 58 upvotes, $600
-31. [subdomain takeover on fddkim.zomato.com](https://hackerone.com/reports/1130376) to Zomato - 58 upvotes, $0
+30. [subdomain takeover on fddkim.zomato.com](https://hackerone.com/reports/1130376) to Zomato - 60 upvotes, $0
+31. [IDOR to delete images from other stores](https://hackerone.com/reports/404797) to Zomato - 58 upvotes, $600
 32. [Open AWS S3 bucket leaks all Images uploaded to Zomato chat](https://hackerone.com/reports/507097) to Zomato - 53 upvotes, $0
 33. [[Zomato for Business Android] Vulnerability in exported activity WebView](https://hackerone.com/reports/537670) to Zomato - 51 upvotes, $0
 34. [[www.zomato.com] Blind SQL Injection in /php/widgets_handler.php](https://hackerone.com/reports/836079) to Zomato - 49 upvotes, $2000
-35. [[auth2.zomato.com] Reflected XSS at `oauth2/fallbacks/error` | ORY Hydra an OAuth 2.0 and OpenID Connect Provider](https://hackerone.com/reports/456333) to Zomato - 47 upvotes, $0
-36. [Race condition in User comments  Likes](https://hackerone.com/reports/1409913) to Zomato - 43 upvotes, $0
-37. [Blind XSS - Report review - Admin panel](https://hackerone.com/reports/314126) to Zomato - 41 upvotes, $350
-38. [[www.zomato.com] Boolean SQLi - /█████.php](https://hackerone.com/reports/297534) to Zomato - 40 upvotes, $1000
+35. [[auth2.zomato.com] Reflected XSS at `oauth2/fallbacks/error` | ORY Hydra an OAuth 2.0 and OpenID Connect Provider](https://hackerone.com/reports/456333) to Zomato - 47 upvotes, $250
+36. [Race condition in User comments  Likes](https://hackerone.com/reports/1409913) to Zomato - 44 upvotes, $0
+37. [[www.zomato.com] Boolean SQLi - /█████.php](https://hackerone.com/reports/297534) to Zomato - 41 upvotes, $1000
+38. [Blind XSS - Report review - Admin panel](https://hackerone.com/reports/314126) to Zomato - 41 upvotes, $350
 39. [[www.zomato.com] Boolean SQLi - /███████.php](https://hackerone.com/reports/301257) to Zomato - 35 upvotes, $1000
 40. [[www.zomato.com/dubai/gold] CRITICAL - Allowing arbitrary amount to become a GOLD Member](https://hackerone.com/reports/254211) to Zomato - 34 upvotes, $0
 41. [IDOR to cancel any table booking and leak sensitive information such as email,mobile number,uuid](https://hackerone.com/reports/265258) to Zomato - 33 upvotes, $250
@@ -49,9 +49,9 @@ Top reports from Zomato program at HackerOne:
 47. [Attacker shall recieve order updates on whatsapp for users who have activated whatsapp notification](https://hackerone.com/reports/1523584) to Zomato - 30 upvotes, $300
 48. [CORS Misconfiguration on www.zomato.com](https://hackerone.com/reports/168574) to Zomato - 29 upvotes, $0
 49. [[█████████] Hardcoded credentials in Android App](https://hackerone.com/reports/246995) to Zomato - 28 upvotes, $500
-50. [[www.zomato.com] Privilege Escalation - /php/restaurant_menus_handler.php](https://hackerone.com/reports/300454) to Zomato - 26 upvotes, $200
-51. [Possible to enumerate Addresses of users using AddressId and guessing the delivery_subzone](https://hackerone.com/reports/514897) to Zomato - 25 upvotes, $1500
-52. [HTML injection leads to reflected XSS](https://hackerone.com/reports/743345) to Zomato - 24 upvotes, $150
+50. [Possible to enumerate Addresses of users using AddressId and guessing the delivery_subzone](https://hackerone.com/reports/514897) to Zomato - 26 upvotes, $1500
+51. [[www.zomato.com] Privilege Escalation - /php/restaurant_menus_handler.php](https://hackerone.com/reports/300454) to Zomato - 26 upvotes, $200
+52. [HTML injection leads to reflected XSS](https://hackerone.com/reports/743345) to Zomato - 25 upvotes, $150
 53. [Reflected XSS on developers.zomato.com](https://hackerone.com/reports/418823) to Zomato - 23 upvotes, $100
 54. [Use any User to Follow you (Increase Followers) [IDOR]](https://hackerone.com/reports/245969) to Zomato - 23 upvotes, $50
 55. [[www.zomato.com] Abusing LocalParams to Inject Code through ███████ query](https://hackerone.com/reports/341600) to Zomato - 23 upvotes, $0
@@ -63,8 +63,8 @@ Top reports from Zomato program at HackerOne:
 61. [[www.zomato.com] IDOR - Gold Subscription Details, Able to view "Membership ID" and "Validity Details" of other Users](https://hackerone.com/reports/344145) to Zomato - 19 upvotes, $100
 62. [[www.zomato.com] IDOR - Delete/Deactivate any special menu of any Restaurants from Zomato](https://hackerone.com/reports/264919) to Zomato - 19 upvotes, $0
 63. [[www.zomato.com] Privilege Escalation - Control reviews - /████dashboard_handler.php](https://hackerone.com/reports/300099) to Zomato - 18 upvotes, $300
-64. [Amazon S3 bucket misconfiguration (share)](https://hackerone.com/reports/229690) to Zomato - 18 upvotes, $0
-65. [Instagram OAuth2 Implementation Leaks Access Token; Allows for Cross-Site Script Inclusion (XSSI)](https://hackerone.com/reports/138270) to Zomato - 17 upvotes, $0
+64. [Instagram OAuth2 Implementation Leaks Access Token; Allows for Cross-Site Script Inclusion (XSSI)](https://hackerone.com/reports/138270) to Zomato - 18 upvotes, $0
+65. [Amazon S3 bucket misconfiguration (share)](https://hackerone.com/reports/229690) to Zomato - 18 upvotes, $0
 66. [Free food bug done by burp suite](https://hackerone.com/reports/762883) to Zomato - 17 upvotes, $0
 67. [Phishing user to download malicious app could lead to leakage of User Access Token, Email, Name and Profile photo via exported RemoteService](https://hackerone.com/reports/384257) to Zomato - 15 upvotes, $300
 68. [HTML Injection @ /[restaurant]/order endpoint.](https://hackerone.com/reports/738810) to Zomato - 15 upvotes, $150
@@ -99,13 +99,13 @@ Top reports from Zomato program at HackerOne:
 97. [Reflected XSS in Zomato Mobile - category parameter](https://hackerone.com/reports/230119) to Zomato - 6 upvotes, $0
 98. [Outdated MediaElement.js Reflected Cross-Site Scripting (XSS)](https://hackerone.com/reports/155228) to Zomato - 6 upvotes, $0
 99. [[www.zomato.com] Getting a complimentary dessert [Zomato Treats] on ordering a Meal at no cost](https://hackerone.com/reports/321938) to Zomato - 6 upvotes, $0
-100. [Several XSS affecting Zomato.com and developers.zomato.com](https://hackerone.com/reports/114631) to Zomato - 5 upvotes, $0
-101. [CSRF AT INVITING PEOPLE THOUGH PHONE NUMBER](https://hackerone.com/reports/113865) to Zomato - 5 upvotes, $0
-102. [Reflected XSS on business-blog.zomato.com - Part 2](https://hackerone.com/reports/137906) to Zomato - 5 upvotes, $0
-103. [CSRF To Like/Unlike Photos](https://hackerone.com/reports/230837) to Zomato - 5 upvotes, $0
-104. [Subdomain Takeover ](https://hackerone.com/reports/113869) to Zomato - 4 upvotes, $0
-105. [Weak Password Policy](https://hackerone.com/reports/115036) to Zomato - 4 upvotes, $0
-106. [CSRF AT SELECTING ZAMATO HANDLE](https://hackerone.com/reports/113857) to Zomato - 4 upvotes, $0
+100. [CSRF AT SELECTING ZAMATO HANDLE](https://hackerone.com/reports/113857) to Zomato - 5 upvotes, $0
+101. [Several XSS affecting Zomato.com and developers.zomato.com](https://hackerone.com/reports/114631) to Zomato - 5 upvotes, $0
+102. [CSRF AT INVITING PEOPLE THOUGH PHONE NUMBER](https://hackerone.com/reports/113865) to Zomato - 5 upvotes, $0
+103. [Reflected XSS on business-blog.zomato.com - Part 2](https://hackerone.com/reports/137906) to Zomato - 5 upvotes, $0
+104. [CSRF To Like/Unlike Photos](https://hackerone.com/reports/230837) to Zomato - 5 upvotes, $0
+105. [Subdomain Takeover ](https://hackerone.com/reports/113869) to Zomato - 4 upvotes, $0
+106. [Weak Password Policy](https://hackerone.com/reports/115036) to Zomato - 4 upvotes, $0
 107. [Persistent input validation mail encoding vulnerability  in the "just followed you" email notification.](https://hackerone.com/reports/114879) to Zomato - 4 upvotes, $0
 108. [Authentication Bypassing and Sensitive Information Disclosure on Verify Email Address in Registration Flow](https://hackerone.com/reports/124151) to Zomato - 4 upvotes, $0
 109. [Reflected Cross-Site Scripting in www.zomato.com/php/instagram_tag_relay](https://hackerone.com/reports/138262) to Zomato - 4 upvotes, $0

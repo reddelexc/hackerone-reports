@@ -5,7 +5,7 @@ Top reports from Node.js program at HackerOne:
 3. ["Assertion failed" in node::http2::Http2Session::~Http2Session() leads to HTTP/2 server crash](https://hackerone.com/reports/2319584) to Node.js - 65 upvotes, $0
 4. [Path traversal by drive name in Windows environment](https://hackerone.com/reports/2307225) to Node.js - 58 upvotes, $0
 5. [Http request splitting](https://hackerone.com/reports/409943) to Node.js - 44 upvotes, $0
-6. [Worker permission bypass via InternalWorker leak in diagnostics](https://hackerone.com/reports/2575105) to Node.js - 37 upvotes, $0
+6. [Worker permission bypass via InternalWorker leak in diagnostics](https://hackerone.com/reports/2575105) to Node.js - 38 upvotes, $0
 7. [registry.nodejs.org Subdomain Takeover](https://hackerone.com/reports/340580) to Node.js - 35 upvotes, $0
 8. [Path traversal by monkey-patching Buffer internals](https://hackerone.com/reports/2218653) to Node.js - 34 upvotes, $0
 9. [Potential HTTP Request Smuggling in nodejs](https://hackerone.com/reports/1002188) to Node.js - 33 upvotes, $250
@@ -14,8 +14,8 @@ Top reports from Node.js program at HackerOne:
 12. [Node.js: use-after-free in TLSWrap](https://hackerone.com/reports/988103) to Node.js - 27 upvotes, $0
 13. [Denial of Service by resource exhaustion in fetch() brotli decoding](https://hackerone.com/reports/2284065) to Node.js - 27 upvotes, $0
 14. [setuid() does not drop all privileges due to io_uring](https://hackerone.com/reports/2170226) to Node.js - 23 upvotes, $0
-15. [Take over subdomain undici.nodejs.org.cdn.cloudflare.net](https://hackerone.com/reports/1763817) to Node.js - 22 upvotes, $0
-16. [Usage of unsafe random function in undici for choosing boundary](https://hackerone.com/reports/2913312) to Node.js - 22 upvotes, $0
+15. [Usage of unsafe random function in undici for choosing boundary](https://hackerone.com/reports/2913312) to Node.js - 23 upvotes, $0
+16. [Take over subdomain undici.nodejs.org.cdn.cloudflare.net](https://hackerone.com/reports/1763817) to Node.js - 22 upvotes, $0
 17. [Code injection and privilege escalation through Linux capabilities](https://hackerone.com/reports/2237545) to Node.js - 21 upvotes, $0
 18. [Built-in TLS module unexpectedly treats "rejectUnauthorized: undefined" as "rejectUnauthorized: false", disabling all certificate validation](https://hackerone.com/reports/1278254) to Node.js - 20 upvotes, $150
 19. [Bypass incomplete fix of CVE-2024-27980](https://hackerone.com/reports/2461831) to Node.js - 20 upvotes, $0
@@ -24,12 +24,12 @@ Top reports from Node.js program at HackerOne:
 22. [Improper handling of wildcards in --allow-fs-read and --allow-fs-write](https://hackerone.com/reports/2257156) to Node.js - 18 upvotes, $0
 23. [Permissions can be bypassed via arbitrary code execution through abusing libuv signal pipes](https://hackerone.com/reports/2260337) to Node.js - 18 upvotes, $0
 24. [Proxy-Authorization header is not cleared in cross-domain redirect in undici](https://hackerone.com/reports/2352957) to Node.js - 17 upvotes, $0
-25. [HTTP Request Smuggling via Content Length Obfuscation](https://hackerone.com/reports/2237099) to Node.js - 16 upvotes, $0
-26. [fs.fchown/fchmod bypasses permission model](https://hackerone.com/reports/2472071) to Node.js - 16 upvotes, $0
-27. [fs.lstat bypasses permission model](https://hackerone.com/reports/2145862) to Node.js - 16 upvotes, $0
-28. [Remotely trigger an assertion on a TLS server with a malformed certificate string](https://hackerone.com/reports/746733) to Node.js - 15 upvotes, $0
-29. [Node.js is vulnerable to the Marvin Attack (timing variant of the Bleichenbacher attack against PKCS#1 v1.5 padding)](https://hackerone.com/reports/2269177) to Node.js - 15 upvotes, $0
-30. [Bypass network import restriction via data URL](https://hackerone.com/reports/2092749) to Node.js - 15 upvotes, $0
+25. [fs.fchown/fchmod bypasses permission model](https://hackerone.com/reports/2472071) to Node.js - 17 upvotes, $0
+26. [HTTP Request Smuggling via Content Length Obfuscation](https://hackerone.com/reports/2237099) to Node.js - 16 upvotes, $0
+27. [Bypass network import restriction via data URL](https://hackerone.com/reports/2092749) to Node.js - 16 upvotes, $0
+28. [fs.lstat bypasses permission model](https://hackerone.com/reports/2145862) to Node.js - 16 upvotes, $0
+29. [Remotely trigger an assertion on a TLS server with a malformed certificate string](https://hackerone.com/reports/746733) to Node.js - 15 upvotes, $0
+30. [Node.js is vulnerable to the Marvin Attack (timing variant of the Bleichenbacher attack against PKCS#1 v1.5 padding)](https://hackerone.com/reports/2269177) to Node.js - 15 upvotes, $0
 31. [Prototype pollution via console.table properties](https://hackerone.com/reports/1431042) to Node.js - 14 upvotes, $0
 32. [Malformed HTTP/2 SETTINGS frame leads to reachable assert](https://hackerone.com/reports/800140) to Node.js - 13 upvotes, $250
 33. [http: Reading unprocessed HTTP request with unbounded chunk extension allows DoS attacks](https://hackerone.com/reports/2233486) to Node.js - 13 upvotes, $0

@@ -19,7 +19,7 @@ Top reports from Ubiquiti Inc. program at HackerOne:
 17. [Readonly to Root Privilege Escalation on EdgeSwitch](https://hackerone.com/reports/796414) to Ubiquiti Inc. - 26 upvotes, $0
 18. [Source code disclosure on https://107.23.69.180](https://hackerone.com/reports/136891) to Ubiquiti Inc. - 25 upvotes, $0
 19. [IDOR Causing Deletion of any account](https://hackerone.com/reports/156537) to Ubiquiti Inc. - 25 upvotes, $0
-20. [Directory traversal at https://nightly.ubnt.com](https://hackerone.com/reports/229622) to Ubiquiti Inc. - 24 upvotes, $0
+20. [Directory traversal at https://nightly.ubnt.com](https://hackerone.com/reports/229622) to Ubiquiti Inc. - 25 upvotes, $0
 21. [Privilege Escalation using API-\>Feature](https://hackerone.com/reports/239719) to Ubiquiti Inc. - 22 upvotes, $0
 22. [Read-Only user can execute arbitraty shell commands on AirOS](https://hackerone.com/reports/128750) to Ubiquiti Inc. - 21 upvotes, $0
 23. [Stored XSS in community.ubnt.com](https://hackerone.com/reports/179164) to Ubiquiti Inc. - 21 upvotes, $0

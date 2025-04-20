@@ -64,17 +64,17 @@ Top reports from h1-ctf program at HackerOne:
 62. [[H1-2006 2020] Writeup](https://hackerone.com/reports/894170) to h1-ctf - 5 upvotes, $0
 63. [h1-ctf writeup , finally paid the payments by chaining multiple bugs](https://hackerone.com/reports/894110) to h1-ctf - 5 upvotes, $0
 64. [[H1-2006 2020] CTF](https://hackerone.com/reports/887993) to h1-ctf - 5 upvotes, $0
-65. [[H1-2006 2020]  ^FLAG^736c635d8842751b8aafa556154eb9f3$FLAG$](https://hackerone.com/reports/888331) to h1-ctf - 4 upvotes, $0
-66. [[H1-2006 2020] Exploiting multiple vulnerabilities to get hacker's payment ensured](https://hackerone.com/reports/894949) to h1-ctf - 4 upvotes, $0
-67. [[H1-2006 2020] CTF write-up](https://hackerone.com/reports/890555) to h1-ctf - 4 upvotes, $0
-68. [[h1-2006 2020]  Chained vulnerabilities lead to account takeover](https://hackerone.com/reports/895650) to h1-ctf - 4 upvotes, $0
-69. [[H1-2006 2020] CTF writeup](https://hackerone.com/reports/892632) to h1-ctf - 4 upvotes, $0
-70. [[H1-2006 2020]  Multiple vulnerabilities lead to CEO account takeover and paid bounties](https://hackerone.com/reports/890196) to h1-ctf - 4 upvotes, $0
-71. [[H1-2006 2020] In-depth resolution of the h1-2006 CTF](https://hackerone.com/reports/894174) to h1-ctf - 4 upvotes, $0
-72. [[h1-2006 CTF] Payments for May have been processed!](https://hackerone.com/reports/894165) to h1-ctf - 4 upvotes, $0
-73. [[CTF] I've DDoSed Grinch Network](https://hackerone.com/reports/1065493) to h1-ctf - 4 upvotes, $0
-74. [ctf walkthrough](https://hackerone.com/reports/1065468) to h1-ctf - 4 upvotes, $0
-75. [CTF Writeup](https://hackerone.com/reports/1066233) to h1-ctf - 4 upvotes, $0
+65. [CTF Writeup](https://hackerone.com/reports/1066233) to h1-ctf - 5 upvotes, $0
+66. [[H1-2006 2020]  ^FLAG^736c635d8842751b8aafa556154eb9f3$FLAG$](https://hackerone.com/reports/888331) to h1-ctf - 4 upvotes, $0
+67. [[H1-2006 2020] Exploiting multiple vulnerabilities to get hacker's payment ensured](https://hackerone.com/reports/894949) to h1-ctf - 4 upvotes, $0
+68. [[H1-2006 2020] CTF write-up](https://hackerone.com/reports/890555) to h1-ctf - 4 upvotes, $0
+69. [[h1-2006 2020]  Chained vulnerabilities lead to account takeover](https://hackerone.com/reports/895650) to h1-ctf - 4 upvotes, $0
+70. [[H1-2006 2020] CTF writeup](https://hackerone.com/reports/892632) to h1-ctf - 4 upvotes, $0
+71. [[H1-2006 2020]  Multiple vulnerabilities lead to CEO account takeover and paid bounties](https://hackerone.com/reports/890196) to h1-ctf - 4 upvotes, $0
+72. [[H1-2006 2020] In-depth resolution of the h1-2006 CTF](https://hackerone.com/reports/894174) to h1-ctf - 4 upvotes, $0
+73. [[h1-2006 CTF] Payments for May have been processed!](https://hackerone.com/reports/894165) to h1-ctf - 4 upvotes, $0
+74. [[CTF] I've DDoSed Grinch Network](https://hackerone.com/reports/1065493) to h1-ctf - 4 upvotes, $0
+75. [ctf walkthrough](https://hackerone.com/reports/1065468) to h1-ctf - 4 upvotes, $0
 76. [Grinchs website takendown with various other exploits](https://hackerone.com/reports/1069034) to h1-ctf - 4 upvotes, $0
 77. [[H1-2006 2020] Solution for the h1-2006 CTF challenge](https://hackerone.com/reports/891093) to h1-ctf - 3 upvotes, $0
 78. [[H1-2006 2020]  H1-CTF writeup](https://hackerone.com/reports/887889) to h1-ctf - 3 upvotes, $0

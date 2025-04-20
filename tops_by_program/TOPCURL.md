@@ -1,22 +1,22 @@
 Top reports from curl program at HackerOne:
 
-1. [CVE-2021-22901: TLS session caching disaster](https://hackerone.com/reports/1180380) to curl - 72 upvotes, $2000
-2. [CVE-2020-8177: curl overwrite local file with -J](https://hackerone.com/reports/887462) to curl - 52 upvotes, $700
+1. [CVE-2021-22901: TLS session caching disaster](https://hackerone.com/reports/1180380) to curl - 73 upvotes, $2000
+2. [CVE-2020-8177: curl overwrite local file with -J](https://hackerone.com/reports/887462) to curl - 53 upvotes, $700
 3. [CVE-2023-38545: socks5 heap buffer overflow](https://hackerone.com/reports/2187833) to curl - 52 upvotes, $0
 4. [CVE-2024-7264: ASN.1 date parser overread](https://hackerone.com/reports/2629968) to curl - 52 upvotes, $0
 5. [Buffer overflow in strcpy](https://hackerone.com/reports/2823554) to curl - 52 upvotes, $0
 6. [CVE-2020-8286: Inferior OCSP verification](https://hackerone.com/reports/1048457) to curl - 51 upvotes, $0
-7. [CVE-2024-9681: HSTS subdomain overwrites parent cache entry](https://hackerone.com/reports/2764830) to curl - 47 upvotes, $0
+7. [CVE-2024-9681: HSTS subdomain overwrites parent cache entry](https://hackerone.com/reports/2764830) to curl - 48 upvotes, $0
 8. [Hackers Attack Curl Vulnerability Accessing Sensitive Information](https://hackerone.com/reports/2912277) to curl - 47 upvotes, $0
 9. [Buffer Overflow Vulnerability in strcpy() Leading to Remote Code Execution](https://hackerone.com/reports/2871792) to curl - 45 upvotes, $0
-10. [Buffer Overflow Risk in Curl_inet_ntop and inet_ntop4](https://hackerone.com/reports/2887487) to curl - 38 upvotes, $0
-11. [Buffer Overflow Vulnerability in WebSocket Handling](https://hackerone.com/reports/2298307) to curl - 36 upvotes, $0
+10. [Buffer Overflow Risk in Curl_inet_ntop and inet_ntop4](https://hackerone.com/reports/2887487) to curl - 39 upvotes, $0
+11. [Buffer Overflow Vulnerability in WebSocket Handling](https://hackerone.com/reports/2298307) to curl - 37 upvotes, $0
 12. [CVE-2024-8096: OCSP stapling bypass with GnuTLS](https://hackerone.com/reports/2669852) to curl - 36 upvotes, $0
-13. [CVE-2025-0167: netrc and default credential leak](https://hackerone.com/reports/2917232) to curl - 33 upvotes, $0
+13. [CVE-2025-0167: netrc and default credential leak](https://hackerone.com/reports/2917232) to curl - 34 upvotes, $0
 14. [CVE-2024-2004: Usage of disabled protocol](https://hackerone.com/reports/2384833) to curl - 32 upvotes, $0
-15. [CVE-2020-8284: trusting FTP PASV responses](https://hackerone.com/reports/1040166) to curl - 30 upvotes, $0
-16. [cookie is sent on redirect](https://hackerone.com/reports/2352676) to curl - 30 upvotes, $0
-17. [CVE-2024-6197: freeing stack buffer in utf8asn1str](https://hackerone.com/reports/2559516) to curl - 30 upvotes, $0
+15. [CVE-2024-6197: freeing stack buffer in utf8asn1str](https://hackerone.com/reports/2559516) to curl - 31 upvotes, $0
+16. [CVE-2020-8284: trusting FTP PASV responses](https://hackerone.com/reports/1040166) to curl - 30 upvotes, $0
+17. [cookie is sent on redirect](https://hackerone.com/reports/2352676) to curl - 30 upvotes, $0
 18. [CVE-2024-11053: netrc + redirect credential leak](https://hackerone.com/reports/2829063) to curl - 30 upvotes, $0
 19. [bypass of this Fixed #2437131 [ Inadequate Protocol Restriction Enforcement in curl ]](https://hackerone.com/reports/2905552) to curl - 29 upvotes, $0
 20. [("possible") UAF](https://hackerone.com/reports/2981245) to curl - 28 upvotes, $0
@@ -24,19 +24,19 @@ Top reports from curl program at HackerOne:
 22. [CVE-2023-32001: fopen race condition](https://hackerone.com/reports/2039870) to curl - 26 upvotes, $0
 23. [CVE-2023-46219: HSTS long file name clears contents](https://hackerone.com/reports/2236133) to curl - 26 upvotes, $0
 24. [NULL dereference when encoding DN of x509 certificate](https://hackerone.com/reports/2559558) to curl - 26 upvotes, $0
-25. [CVE-2019-5443: Windows Privilege Escalation: Malicious OpenSSL Engine](https://hackerone.com/reports/608577) to curl - 24 upvotes, $200
-26. [CVE-2024-6874: macidn punycode buffer overread](https://hackerone.com/reports/2604391) to curl - 24 upvotes, $0
-27. [CVE-2019-5435: An integer overflow found in /lib/urlapi.c](https://hackerone.com/reports/547630) to curl - 23 upvotes, $0
-28. [CVE-2024-0853: OCSP verification bypass with TLS session reuse](https://hackerone.com/reports/2298922) to curl - 23 upvotes, $0
-29. [Exploitable Format String Vulnerability in curl_mfprintf Function](https://hackerone.com/reports/2819666) to curl - 23 upvotes, $0
-30. [CVE-2025-0665: eventfd double close](https://hackerone.com/reports/2954286) to curl - 23 upvotes, $0
-31. [CVE-2020-8169: Partial password leak over DNS on HTTP redirect](https://hackerone.com/reports/874778) to curl - 21 upvotes, $0
-32. [Buffer overflow and affected url:-https://github.com/curl/curl/blob/master/docs/examples/hsts-preload.c](https://hackerone.com/reports/2252307) to curl - 21 upvotes, $0
-33. [CVE-2023-28319: UAF in SSH sha256 fingerprint check](https://hackerone.com/reports/1913733) to curl - 20 upvotes, $0
-34. [HTTP/2 PUSH_PROMISE DoS](https://hackerone.com/reports/2402853) to curl - 20 upvotes, $0
-35. [Incorrect Type Conversion in interpreting IPv4-mapped IPv6 addresses and below `curl` results in indeterminate SSRF vulnerabilities.](https://hackerone.com/reports/2493548) to curl - 20 upvotes, $0
-36. [CVE-2022-27776: Auth/cookie leak on redirect ](https://hackerone.com/reports/1547048) to curl - 19 upvotes, $0
-37. [Use after free (read) in curl_multi_perform with DoH and Proxy options, and resolve timeouts](https://hackerone.com/reports/3022041) to curl - 19 upvotes, $0
+25. [Use after free (read) in curl_multi_perform with DoH and Proxy options, and resolve timeouts](https://hackerone.com/reports/3022041) to curl - 26 upvotes, $0
+26. [CVE-2019-5443: Windows Privilege Escalation: Malicious OpenSSL Engine](https://hackerone.com/reports/608577) to curl - 24 upvotes, $200
+27. [CVE-2024-6874: macidn punycode buffer overread](https://hackerone.com/reports/2604391) to curl - 24 upvotes, $0
+28. [CVE-2019-5435: An integer overflow found in /lib/urlapi.c](https://hackerone.com/reports/547630) to curl - 23 upvotes, $0
+29. [CVE-2024-0853: OCSP verification bypass with TLS session reuse](https://hackerone.com/reports/2298922) to curl - 23 upvotes, $0
+30. [Exploitable Format String Vulnerability in curl_mfprintf Function](https://hackerone.com/reports/2819666) to curl - 23 upvotes, $0
+31. [CVE-2025-0665: eventfd double close](https://hackerone.com/reports/2954286) to curl - 23 upvotes, $0
+32. [CVE-2020-8169: Partial password leak over DNS on HTTP redirect](https://hackerone.com/reports/874778) to curl - 21 upvotes, $0
+33. [Buffer overflow and affected url:-https://github.com/curl/curl/blob/master/docs/examples/hsts-preload.c](https://hackerone.com/reports/2252307) to curl - 21 upvotes, $0
+34. [CVE-2023-28319: UAF in SSH sha256 fingerprint check](https://hackerone.com/reports/1913733) to curl - 20 upvotes, $0
+35. [HTTP/2 PUSH_PROMISE DoS](https://hackerone.com/reports/2402853) to curl - 20 upvotes, $0
+36. [Incorrect Type Conversion in interpreting IPv4-mapped IPv6 addresses and below `curl` results in indeterminate SSRF vulnerabilities.](https://hackerone.com/reports/2493548) to curl - 20 upvotes, $0
+37. [CVE-2022-27776: Auth/cookie leak on redirect ](https://hackerone.com/reports/1547048) to curl - 19 upvotes, $0
 38. [CVE-2024-2466: TLS certificate check bypass with mbedTLS](https://hackerone.com/reports/2416725) to curl - 17 upvotes, $0
 39. [When curl uses Schannel as TLS backend, it fails to enforce TLS 1.3 cipher suite selections correctly](https://hackerone.com/reports/2792484) to curl - 17 upvotes, $0
 40. [CVE-2023-23916: HTTP multi-header compression denial of service](https://hackerone.com/reports/1826048) to curl - 16 upvotes, $0
@@ -44,11 +44,11 @@ Top reports from curl program at HackerOne:
 42. [CVE-2019-5436: Heap Buffer Overflow at lib/tftp.c](https://hackerone.com/reports/550696) to curl - 14 upvotes, $200
 43. [CVE-2021-22945: UAF and double-free in MQTT sending](https://hackerone.com/reports/1269242) to curl - 14 upvotes, $0
 44. [CVE-2022-43552: HTTP Proxy deny use-after-free](https://hackerone.com/reports/1764858) to curl - 14 upvotes, $0
-45. [CVE-2022-35252: control code in cookie denial of service](https://hackerone.com/reports/1613943) to curl - 13 upvotes, $0
-46. [CVE-2023-27537: HSTS double-free](https://hackerone.com/reports/1897203) to curl - 12 upvotes, $0
-47. [CVE-2024-2398: HTTP/2 push headers memory-leak](https://hackerone.com/reports/2402845) to curl - 12 upvotes, $0
-48. [Format string vulnerability, curl_msnprintf() function ](https://hackerone.com/reports/2990139) to curl - 12 upvotes, $0
-49. [CVE-2021-22897: schannel cipher selection surprise](https://hackerone.com/reports/1172857) to curl - 11 upvotes, $800
+45. [Format string vulnerability, curl_msnprintf() function ](https://hackerone.com/reports/2990139) to curl - 14 upvotes, $0
+46. [CVE-2022-35252: control code in cookie denial of service](https://hackerone.com/reports/1613943) to curl - 13 upvotes, $0
+47. [CVE-2021-22897: schannel cipher selection surprise](https://hackerone.com/reports/1172857) to curl - 12 upvotes, $800
+48. [CVE-2023-27537: HSTS double-free](https://hackerone.com/reports/1897203) to curl - 12 upvotes, $0
+49. [CVE-2024-2398: HTTP/2 push headers memory-leak](https://hackerone.com/reports/2402845) to curl - 12 upvotes, $0
 50. [CVE-2020-8231: Connect-only connections can use the wrong connection](https://hackerone.com/reports/948876) to curl - 11 upvotes, $0
 51. [CVE-2019-5482: Heap buffer overflow in TFTP when using small blksize](https://hackerone.com/reports/684603) to curl - 11 upvotes, $0
 52. [CVE-2024-2379: QUIC certificate check bypass with wolfSSL](https://hackerone.com/reports/2410774) to curl - 11 upvotes, $0
@@ -59,12 +59,12 @@ Top reports from curl program at HackerOne:
 57. [CVE-2022-27778: curl removes wrong file on error](https://hackerone.com/reports/1553598) to curl - 9 upvotes, $0
 58. [CVE-2022-27780: percent-encoded path separator in URL host](https://hackerone.com/reports/1553841) to curl - 9 upvotes, $0
 59. [CVE-2022-32208: FTP-KRB bad message verification](https://hackerone.com/reports/1590071) to curl - 9 upvotes, $0
-60. [CVE-2021-22890: TLS 1.3 session ticket proxy host mixup](https://hackerone.com/reports/1129529) to curl - 7 upvotes, $0
-61. [CVE-2021-22947: STARTTLS protocol injection via MITM](https://hackerone.com/reports/1334763) to curl - 7 upvotes, $0
-62. [CVE-2022-27774: Credential leak on redirect](https://hackerone.com/reports/1543773) to curl - 7 upvotes, $0
-63. [CVE-2022-43551: Another HSTS bypass via IDN](https://hackerone.com/reports/1755083) to curl - 7 upvotes, $0
-64. [CVE-2023-23915: HSTS amnesia with --parallel](https://hackerone.com/reports/1814333) to curl - 7 upvotes, $0
-65. [Cache purge requests are not authenticated](https://hackerone.com/reports/1994585) to curl - 7 upvotes, $0
+60. [Cache purge requests are not authenticated](https://hackerone.com/reports/1994585) to curl - 8 upvotes, $0
+61. [CVE-2021-22890: TLS 1.3 session ticket proxy host mixup](https://hackerone.com/reports/1129529) to curl - 7 upvotes, $0
+62. [CVE-2021-22947: STARTTLS protocol injection via MITM](https://hackerone.com/reports/1334763) to curl - 7 upvotes, $0
+63. [CVE-2022-27774: Credential leak on redirect](https://hackerone.com/reports/1543773) to curl - 7 upvotes, $0
+64. [CVE-2022-43551: Another HSTS bypass via IDN](https://hackerone.com/reports/1755083) to curl - 7 upvotes, $0
+65. [CVE-2023-23915: HSTS amnesia with --parallel](https://hackerone.com/reports/1814333) to curl - 7 upvotes, $0
 66. [Incorrect Encoding Conversion in hostname  results in indeterminate SSRF vulnerabilities](https://hackerone.com/reports/2552179) to curl - 7 upvotes, $0
 67. [CVE-2021-22898: TELNET stack contents disclosure](https://hackerone.com/reports/1176461) to curl - 6 upvotes, $1000
 68. [Github wikis are editable by anyone #Githubwikistakeover](https://hackerone.com/reports/545052) to curl - 6 upvotes, $0

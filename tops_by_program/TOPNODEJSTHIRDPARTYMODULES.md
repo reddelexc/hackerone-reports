@@ -58,17 +58,17 @@ Top reports from Node.js third-party modules program at HackerOne:
 56. [[apex-publish-static-files] Command Injection on connectString](https://hackerone.com/reports/405694) to Node.js third-party modules - 10 upvotes, $0
 57. [Command Injection Vulnerability in kill-port Package](https://hackerone.com/reports/389561) to Node.js third-party modules - 10 upvotes, $0
 58. [[http-file-server] Stored XSS in the filename when directories listing](https://hackerone.com/reports/570563) to Node.js third-party modules - 10 upvotes, $0
-59. [Server Side JavaScript Code Injection](https://hackerone.com/reports/532667) to Node.js third-party modules - 10 upvotes, $0
-60. [Prototype pollution in dot-prop](https://hackerone.com/reports/719856) to Node.js third-party modules - 10 upvotes, $0
-61. [[i18next] Prototype pollution attack](https://hackerone.com/reports/968355) to Node.js third-party modules - 10 upvotes, $0
-62. [[localhost-now] Path Traversal allows to read content of arbitrary file](https://hackerone.com/reports/312889) to Node.js third-party modules - 9 upvotes, $0
-63. [[general-file-server] Path Traversal vulnerability allows to read content on arbitrary file on the server](https://hackerone.com/reports/310943) to Node.js third-party modules - 9 upvotes, $0
-64. [`whereis` concatenates unsanitized input into exec() command](https://hackerone.com/reports/319476) to Node.js third-party modules - 9 upvotes, $0
-65. [[bracket-template] Reflected XSS possible when variable passed via GET parameter is used in template](https://hackerone.com/reports/317125) to Node.js third-party modules - 9 upvotes, $0
-66. [[statics-server] XSS via injected iframe in file name when statics-server displays directory index in the browser](https://hackerone.com/reports/355458) to Node.js third-party modules - 9 upvotes, $0
-67. [Prototype pollution attack (merge.recursive)](https://hackerone.com/reports/381194) to Node.js third-party modules - 9 upvotes, $0
-68. [Command Injection Vulnerability in libnmap Package](https://hackerone.com/reports/390865) to Node.js third-party modules - 9 upvotes, $0
-69. [gitlabhook OS Command Injection](https://hackerone.com/reports/685447) to Node.js third-party modules - 9 upvotes, $0
+59. [gitlabhook OS Command Injection](https://hackerone.com/reports/685447) to Node.js third-party modules - 10 upvotes, $0
+60. [Server Side JavaScript Code Injection](https://hackerone.com/reports/532667) to Node.js third-party modules - 10 upvotes, $0
+61. [Prototype pollution in dot-prop](https://hackerone.com/reports/719856) to Node.js third-party modules - 10 upvotes, $0
+62. [[i18next] Prototype pollution attack](https://hackerone.com/reports/968355) to Node.js third-party modules - 10 upvotes, $0
+63. [[localhost-now] Path Traversal allows to read content of arbitrary file](https://hackerone.com/reports/312889) to Node.js third-party modules - 9 upvotes, $0
+64. [[general-file-server] Path Traversal vulnerability allows to read content on arbitrary file on the server](https://hackerone.com/reports/310943) to Node.js third-party modules - 9 upvotes, $0
+65. [`whereis` concatenates unsanitized input into exec() command](https://hackerone.com/reports/319476) to Node.js third-party modules - 9 upvotes, $0
+66. [[bracket-template] Reflected XSS possible when variable passed via GET parameter is used in template](https://hackerone.com/reports/317125) to Node.js third-party modules - 9 upvotes, $0
+67. [[statics-server] XSS via injected iframe in file name when statics-server displays directory index in the browser](https://hackerone.com/reports/355458) to Node.js third-party modules - 9 upvotes, $0
+68. [Prototype pollution attack (merge.recursive)](https://hackerone.com/reports/381194) to Node.js third-party modules - 9 upvotes, $0
+69. [Command Injection Vulnerability in libnmap Package](https://hackerone.com/reports/390865) to Node.js third-party modules - 9 upvotes, $0
 70. [[webpack-bundle-analyzer] Cross-site Scripting](https://hackerone.com/reports/463380) to Node.js third-party modules - 9 upvotes, $0
 71. [Stored XSS (Hexo-admin plugin)](https://hackerone.com/reports/716570) to Node.js third-party modules - 9 upvotes, $0
 72. [Prototype Pollution lodash 4.17.15](https://hackerone.com/reports/864701) to Node.js third-party modules - 9 upvotes, $0

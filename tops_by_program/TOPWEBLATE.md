@@ -7,8 +7,8 @@ Top reports from Weblate program at HackerOne:
 5. [HTML injection and information disclosure in support panel](https://hackerone.com/reports/634312) to Weblate - 20 upvotes, $0
 6. [Rate Limit Bypass on login Page](https://hackerone.com/reports/224460) to Weblate - 17 upvotes, $0
 7. [Uploaded XLF files result in External Entity Execution](https://hackerone.com/reports/232614) to Weblate - 16 upvotes, $0
-8. [Broken Authentication – Session Token bug](https://hackerone.com/reports/400826) to Weblate - 15 upvotes, $0
-9. [Race Condition allows to get more free trials and get more than 100 languages and strings for free](https://hackerone.com/reports/1087188) to Weblate - 15 upvotes, $0
+8. [Race Condition allows to get more free trials and get more than 100 languages and strings for free](https://hackerone.com/reports/1087188) to Weblate - 16 upvotes, $0
+9. [Broken Authentication – Session Token bug](https://hackerone.com/reports/400826) to Weblate - 15 upvotes, $0
 10. [Insecure Account Removal #2](https://hackerone.com/reports/229532) to Weblate - 14 upvotes, $0
 11. [Password Restriction](https://hackerone.com/reports/229920) to Weblate - 12 upvotes, $0
 12. [DKIM records not present, Email Hijacking is possible.....](https://hackerone.com/reports/253926) to Weblate - 12 upvotes, $0
@@ -44,38 +44,38 @@ Top reports from Weblate program at HackerOne:
 42. [Login using disconnected google account i.e login using old email id](https://hackerone.com/reports/223427) to Weblate - 6 upvotes, $0
 43. [Logout CSRF](https://hackerone.com/reports/223329) to Weblate - 6 upvotes, $0
 44. [CSV export filter bypass leads to formula injection.](https://hackerone.com/reports/223999) to Weblate - 6 upvotes, $0
-45. [CSRF : Reset API ](https://hackerone.com/reports/223333) to Weblate - 6 upvotes, $0
-46. [You can simply just use passwords that simply are as 123456](https://hackerone.com/reports/223374) to Weblate - 6 upvotes, $0
-47. [Open SMTP port can let anyone send email from mail.chihar.com](https://hackerone.com/reports/223435) to Weblate - 6 upvotes, $0
-48. [Design Flaw in session management of password reset ](https://hackerone.com/reports/229417) to Weblate - 6 upvotes, $0
-49. [Information Disclosure on demo.weblate.org](https://hackerone.com/reports/229620) to Weblate - 6 upvotes, $0
-50. [Old password can be new password](https://hackerone.com/reports/229577) to Weblate - 6 upvotes, $0
-51. [Takeover of an account via reset password options after removing the account](https://hackerone.com/reports/230076) to Weblate - 6 upvotes, $0
-52. [Improper validation of unicode characters #3](https://hackerone.com/reports/243635) to Weblate - 6 upvotes, $0
-53. [Persistence of Third Party Association.](https://hackerone.com/reports/241623) to Weblate - 6 upvotes, $0
-54. [Full Name Overwrite on Third party login](https://hackerone.com/reports/241598) to Weblate - 6 upvotes, $0
-55. [Reset password more than once with a reset link](https://hackerone.com/reports/243594) to Weblate - 6 upvotes, $0
-56. [ Application allowing old password to be set as new password | hosted.weblate.org](https://hackerone.com/reports/264934) to Weblate - 6 upvotes, $0
-57. [Running 2 accounts with a single email [Part 2]](https://hackerone.com/reports/241608) to Weblate - 6 upvotes, $0
-58. [Running 2 accounts with a single email #3](https://hackerone.com/reports/245304) to Weblate - 6 upvotes, $0
-59. [2nd issue\>\>\> flood of email  no rate limit on delete account confirmation email \>\> ](https://hackerone.com/reports/404713) to Weblate - 6 upvotes, $0
-60. [Secret_key in GitHub](https://hackerone.com/reports/926093) to Weblate - 6 upvotes, $0
-61. [Web server is vulnerable to Beast Attack](https://hackerone.com/reports/223350) to Weblate - 5 upvotes, $0
-62. [Improper access control when an added email address is deleted from authentication](https://hackerone.com/reports/223434) to Weblate - 5 upvotes, $0
-63. [No Password Length Restriction leads to Denial of Service](https://hackerone.com/reports/223854) to Weblate - 5 upvotes, $0
-64. [Spamming any user from Reset Password Function](https://hackerone.com/reports/223525) to Weblate - 5 upvotes, $0
-65. [session id missing secure flag - Hosted Website](https://hackerone.com/reports/224379) to Weblate - 5 upvotes, $0
-66. [Weak e-mail change functionality could lead to account takeover](https://hackerone.com/reports/223461) to Weblate - 5 upvotes, $0
-67. [CSV Injection with the CSV export feature](https://hackerone.com/reports/223344) to Weblate - 5 upvotes, $0
-68. [Running 2 accounts with a single email](https://hackerone.com/reports/224072) to Weblate - 5 upvotes, $0
-69. [Access to completion page without performing any action](https://hackerone.com/reports/223846) to Weblate - 5 upvotes, $0
-70. [Option method enabled](https://hackerone.com/reports/230194) to Weblate - 5 upvotes, $0
-71. [Self-XSS can be achieved in the editor link using filter bypass](https://hackerone.com/reports/229735) to Weblate - 5 upvotes, $0
-72. [Missing restriction on string size](https://hackerone.com/reports/229796) to Weblate - 5 upvotes, $0
-73. [Clickjacking docs.weblate.org](https://hackerone.com/reports/223391) to Weblate - 5 upvotes, $0
-74. [Open redirect while disconnecting authenticated account](https://hackerone.com/reports/224317) to Weblate - 5 upvotes, $0
-75. [Open redirect while disconnecting Email](https://hackerone.com/reports/238117) to Weblate - 5 upvotes, $0
-76. [Weblate |Security Misconfiguration| Method Enumeration Possible on domain ](https://hackerone.com/reports/230648) to Weblate - 5 upvotes, $0
+45. [CSV Injection with the CSV export feature](https://hackerone.com/reports/223344) to Weblate - 6 upvotes, $0
+46. [CSRF : Reset API ](https://hackerone.com/reports/223333) to Weblate - 6 upvotes, $0
+47. [You can simply just use passwords that simply are as 123456](https://hackerone.com/reports/223374) to Weblate - 6 upvotes, $0
+48. [Open SMTP port can let anyone send email from mail.chihar.com](https://hackerone.com/reports/223435) to Weblate - 6 upvotes, $0
+49. [Design Flaw in session management of password reset ](https://hackerone.com/reports/229417) to Weblate - 6 upvotes, $0
+50. [Information Disclosure on demo.weblate.org](https://hackerone.com/reports/229620) to Weblate - 6 upvotes, $0
+51. [Old password can be new password](https://hackerone.com/reports/229577) to Weblate - 6 upvotes, $0
+52. [Takeover of an account via reset password options after removing the account](https://hackerone.com/reports/230076) to Weblate - 6 upvotes, $0
+53. [Weblate |Security Misconfiguration| Method Enumeration Possible on domain ](https://hackerone.com/reports/230648) to Weblate - 6 upvotes, $0
+54. [Improper validation of unicode characters #3](https://hackerone.com/reports/243635) to Weblate - 6 upvotes, $0
+55. [Persistence of Third Party Association.](https://hackerone.com/reports/241623) to Weblate - 6 upvotes, $0
+56. [Full Name Overwrite on Third party login](https://hackerone.com/reports/241598) to Weblate - 6 upvotes, $0
+57. [Reset password more than once with a reset link](https://hackerone.com/reports/243594) to Weblate - 6 upvotes, $0
+58. [ Application allowing old password to be set as new password | hosted.weblate.org](https://hackerone.com/reports/264934) to Weblate - 6 upvotes, $0
+59. [Running 2 accounts with a single email [Part 2]](https://hackerone.com/reports/241608) to Weblate - 6 upvotes, $0
+60. [Running 2 accounts with a single email #3](https://hackerone.com/reports/245304) to Weblate - 6 upvotes, $0
+61. [2nd issue\>\>\> flood of email  no rate limit on delete account confirmation email \>\> ](https://hackerone.com/reports/404713) to Weblate - 6 upvotes, $0
+62. [Secret_key in GitHub](https://hackerone.com/reports/926093) to Weblate - 6 upvotes, $0
+63. [Web server is vulnerable to Beast Attack](https://hackerone.com/reports/223350) to Weblate - 5 upvotes, $0
+64. [Improper access control when an added email address is deleted from authentication](https://hackerone.com/reports/223434) to Weblate - 5 upvotes, $0
+65. [No Password Length Restriction leads to Denial of Service](https://hackerone.com/reports/223854) to Weblate - 5 upvotes, $0
+66. [Spamming any user from Reset Password Function](https://hackerone.com/reports/223525) to Weblate - 5 upvotes, $0
+67. [session id missing secure flag - Hosted Website](https://hackerone.com/reports/224379) to Weblate - 5 upvotes, $0
+68. [Weak e-mail change functionality could lead to account takeover](https://hackerone.com/reports/223461) to Weblate - 5 upvotes, $0
+69. [Running 2 accounts with a single email](https://hackerone.com/reports/224072) to Weblate - 5 upvotes, $0
+70. [Access to completion page without performing any action](https://hackerone.com/reports/223846) to Weblate - 5 upvotes, $0
+71. [Option method enabled](https://hackerone.com/reports/230194) to Weblate - 5 upvotes, $0
+72. [Self-XSS can be achieved in the editor link using filter bypass](https://hackerone.com/reports/229735) to Weblate - 5 upvotes, $0
+73. [Missing restriction on string size](https://hackerone.com/reports/229796) to Weblate - 5 upvotes, $0
+74. [Clickjacking docs.weblate.org](https://hackerone.com/reports/223391) to Weblate - 5 upvotes, $0
+75. [Open redirect while disconnecting authenticated account](https://hackerone.com/reports/224317) to Weblate - 5 upvotes, $0
+76. [Open redirect while disconnecting Email](https://hackerone.com/reports/238117) to Weblate - 5 upvotes, $0
 77. [The username of an account can be ..](https://hackerone.com/reports/243609) to Weblate - 5 upvotes, $0
 78. [Csrf in watch-unwatch projects](https://hackerone.com/reports/229405) to Weblate - 5 upvotes, $0
 79. [Improper validation of unicode characters](https://hackerone.com/reports/242171) to Weblate - 5 upvotes, $0

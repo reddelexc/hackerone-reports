@@ -1,7 +1,7 @@
 Top Request Smuggling reports from HackerOne:
 
-1. [Mass account takeovers using HTTP Request Smuggling on https://slackb.com/ to steal session cookies](https://hackerone.com/reports/737140) to Slack - 843 upvotes, $0
-2. [Request smuggling on admin-official.line.me could lead to account takeover](https://hackerone.com/reports/740037) to LY Corporation - 560 upvotes, $0
+1. [Mass account takeovers using HTTP Request Smuggling on https://slackb.com/ to steal session cookies](https://hackerone.com/reports/737140) to Slack - 846 upvotes, $0
+2. [Request smuggling on admin-official.line.me could lead to account takeover](https://hackerone.com/reports/740037) to LY Corporation - 561 upvotes, $0
 3. [Stealing Zomato X-Access-Token: in Bulk using HTTP Request Smuggling on api.zomato.com](https://hackerone.com/reports/771666) to Zomato - 550 upvotes, $0
 4. [Password theft login.newrelic.com via Request Smuggling](https://hackerone.com/reports/498052) to New Relic - 490 upvotes, $3000
 5. [HTTP Request Smuggling via HTTP/2](https://hackerone.com/reports/1211724) to Basecamp - 296 upvotes, $7500
