@@ -16,7 +16,7 @@ from datetime import datetime
 from selenium.webdriver import Chrome, ChromeOptions
 from selenium.webdriver.common.by import By
 
-hacktivity_url = 'https://hackerone.com/hacktivity/overview'
+hacktivity_url = 'https://hackerone.com/hacktivity/overview?queryString=disclosed%3Atrue&sortField=disclosed_at&sortDirection=DESC&pageIndex=0'
 page_loading_timeout = 10
 
 def create_argument_parser():
@@ -88,7 +88,7 @@ def fetch(commandline_args):
 
         page = 0
         driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-        next_page_button = driver.find_element(By.CSS_SELECTOR, 'button[data-testid=\'hacktivity-next-button\']')
+        next_page_button = driver.find_element(By.CSS_SELECTOR, 'button[data-testid=\'hacktivity-pagination--pagination-next-page\']')
         new_reports = []
         while True:
             raw_reports = driver.find_elements(By.CLASS_NAME, 'routerlink')
