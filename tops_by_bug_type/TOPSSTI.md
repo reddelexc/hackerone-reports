@@ -1,6 +1,6 @@
 Top SSTI reports from HackerOne:
 
-1. [H1514 Server Side Template Injection in Return Magic email templates?](https://hackerone.com/reports/423541) to Shopify - 404 upvotes, $0
+1. [H1514 Server Side Template Injection in Return Magic email templates?](https://hackerone.com/reports/423541) to Shopify - 405 upvotes, $0
 2. [Path traversal, SSTI and RCE on a MailRu acquisition ](https://hackerone.com/reports/536130) to Mail.ru - 152 upvotes, $2000
 3. [Urgent: Server side template injection via Smarty template allows for RCE](https://hackerone.com/reports/164224) to Unikrn - 121 upvotes, $0
 4. [Reflected XSS and Server Side Template Injection  in all HubSpot CMSes](https://hackerone.com/reports/399462) to HubSpot Inactive - 64 upvotes, $0

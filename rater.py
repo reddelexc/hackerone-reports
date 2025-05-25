@@ -70,7 +70,7 @@ def top_by_bug_type(reports, bug_type, bug_name, keywords):
 def top_by_program(reports, program):
     filtered_reports = [report for report in reports if report['program'] == program]
     bug_sorted_reports = list(reversed(sorted(filtered_reports, key=lambda k: (k['upvotes'], k['bounty']))))
-    with open('tops_by_program/TOP{0}.md'.format(program.upper().replace('.', '').replace('-', '').replace(' ', '')),
+    with open('tops_by_program/TOP{0}.md'.format(program.upper().replace('.', '').replace('-', '').replace(' ', '').replace('/', '')),
               'w', encoding='utf-8') as file:
         file.write('Top reports from {0} program at HackerOne:\n\n'.format(program))
         for i in range(0, len(bug_sorted_reports)):

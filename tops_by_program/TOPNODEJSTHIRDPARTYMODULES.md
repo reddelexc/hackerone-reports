@@ -3,15 +3,15 @@ Top reports from Node.js third-party modules program at HackerOne:
 1. [[http_server] Stored XSS in the filename when directories listing](https://hackerone.com/reports/578138) to Node.js third-party modules - 61 upvotes, $0
 2. [Server-Side Request Forgery (SSRF) in Ghost CMS ](https://hackerone.com/reports/793704) to Node.js third-party modules - 41 upvotes, $0
 3. [property-expr - Prototype pollution](https://hackerone.com/reports/910206) to Node.js third-party modules - 33 upvotes, $0
-4. [Fastify denial-of-service vulnerability with large JSON payloads](https://hackerone.com/reports/303632) to Node.js third-party modules - 25 upvotes, $0
-5. [Pixel flood attack cause the javascript heap out of memory](https://hackerone.com/reports/842462) to Node.js third-party modules - 25 upvotes, $0
-6. [[socket.io] Cross-Site Websocket Hijacking ](https://hackerone.com/reports/931197) to Node.js third-party modules - 24 upvotes, $0
+4. [[socket.io] Cross-Site Websocket Hijacking ](https://hackerone.com/reports/931197) to Node.js third-party modules - 26 upvotes, $0
+5. [Fastify denial-of-service vulnerability with large JSON payloads](https://hackerone.com/reports/303632) to Node.js third-party modules - 25 upvotes, $0
+6. [Pixel flood attack cause the javascript heap out of memory](https://hackerone.com/reports/842462) to Node.js third-party modules - 25 upvotes, $0
 7. [[Uppy] Internal Server side request forgery (bypass of #786956)](https://hackerone.com/reports/891270) to Node.js third-party modules - 23 upvotes, $0
 8. [Server Side Request Forgery in Uppy npm module](https://hackerone.com/reports/786956) to Node.js third-party modules - 22 upvotes, $0
 9. [[takeapeek] XSS via HTML tag injection in directory lisiting page](https://hackerone.com/reports/490728) to Node.js third-party modules - 21 upvotes, $0
 10. [[seeftl] Stored XSS when directory listing via filename.](https://hackerone.com/reports/665302) to Node.js third-party modules - 20 upvotes, $0
 11. [[glance] Access unlisted internal files/folders revealing sensitive information](https://hackerone.com/reports/490379) to Node.js third-party modules - 19 upvotes, $0
-12. [Prototype pollution attack (lodash)](https://hackerone.com/reports/712065) to Node.js third-party modules - 18 upvotes, $0
+12. [Prototype pollution attack (lodash)](https://hackerone.com/reports/712065) to Node.js third-party modules - 19 upvotes, $0
 13. [bunyan - RCE via insecure command formatting](https://hackerone.com/reports/902739) to Node.js third-party modules - 17 upvotes, $0
 14. [[buttle] Unsafe rendering of Markdown files](https://hackerone.com/reports/404126) to Node.js third-party modules - 16 upvotes, $0
 15. [Reflected XSS  in the npm module express-cart.](https://hackerone.com/reports/395944) to Node.js third-party modules - 16 upvotes, $0

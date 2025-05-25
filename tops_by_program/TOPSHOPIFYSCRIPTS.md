@@ -10,42 +10,42 @@ Top reports from shopify-scripts program at HackerOne:
 8. [TOCTTOU bug in mrb_str_setbyte leading the memory corruption](https://hackerone.com/reports/181893) to shopify-scripts - 23 upvotes, $0
 9. [Crash: Overwriting NoMethodError with a builtin class crashes/corrupts memory](https://hackerone.com/reports/186723) to shopify-scripts - 20 upvotes, $10000
 10. [Null pointer dereference due to TOCTTOU bug in mrb_time_initialize](https://hackerone.com/reports/182274) to shopify-scripts - 15 upvotes, $0
-11. [Segfault and/or potential unwanted (byte)code execution with "break" and "||=" inside a loop](https://hackerone.com/reports/183356) to shopify-scripts - 13 upvotes, $10000
-12. [Buffer overflow in mrb_time_asctime](https://hackerone.com/reports/188326) to shopify-scripts - 13 upvotes, $10000
-13. [Null target_class DoS](https://hackerone.com/reports/183405) to shopify-scripts - 13 upvotes, $8000
-14. [Segmentation fault when a Ruby method is invoked by a C method via Object#send](https://hackerone.com/reports/183425) to shopify-scripts - 13 upvotes, $8000
+11. [Segmentation fault when a Ruby method is invoked by a C method via Object#send](https://hackerone.com/reports/183425) to shopify-scripts - 14 upvotes, $8000
+12. [Segfault and/or potential unwanted (byte)code execution with "break" and "||=" inside a loop](https://hackerone.com/reports/183356) to shopify-scripts - 13 upvotes, $10000
+13. [Buffer overflow in mrb_time_asctime](https://hackerone.com/reports/188326) to shopify-scripts - 13 upvotes, $10000
+14. [Null target_class DoS](https://hackerone.com/reports/183405) to shopify-scripts - 13 upvotes, $8000
 15. [Exception cause SIGABRT](https://hackerone.com/reports/180977) to shopify-scripts - 13 upvotes, $0
 16. [SIGABRT - mrb_default_allocf ](https://hackerone.com/reports/193773) to shopify-scripts - 13 upvotes, $0
 17. [Heap buffer oveflow with many arguments](https://hackerone.com/reports/204421) to shopify-scripts - 12 upvotes, $800
 18. [Deleting Key-value pair from Frozen HASH or Clearing a Frozen HASH](https://hackerone.com/reports/194866) to shopify-scripts - 12 upvotes, $0
 19. [Clearing , Shifting and Pop Value from Frozen Array  ](https://hackerone.com/reports/196416) to shopify-scripts - 12 upvotes, $0
-20. [Certain inputs cause tight C-level recursion leading to process stack overflow](https://hackerone.com/reports/189633) to shopify-scripts - 11 upvotes, $10000
-21. [Struct type confusion RCE](https://hackerone.com/reports/181879) to shopify-scripts - 10 upvotes, $18000
+20. [Struct type confusion RCE](https://hackerone.com/reports/181879) to shopify-scripts - 11 upvotes, $18000
+21. [Certain inputs cause tight C-level recursion leading to process stack overflow](https://hackerone.com/reports/189633) to shopify-scripts - 11 upvotes, $10000
 22. [Broken handling of maximum number of method call arguments leads to segfault](https://hackerone.com/reports/182484) to shopify-scripts - 10 upvotes, $10000
 23. [Memory disclosure in mruby String#lines method](https://hackerone.com/reports/181319) to shopify-scripts - 10 upvotes, $0
 24. [NULL pointer dereference when parsing ternary operators](https://hackerone.com/reports/181677) to shopify-scripts - 10 upvotes, $0
 25. [Segmentation fault on program counter](https://hackerone.com/reports/196498) to shopify-scripts - 10 upvotes, $0
 26. [Crash: Initialize Decimal with itself triggers an assertion](https://hackerone.com/reports/185775) to shopify-scripts - 9 upvotes, $10000
-27. [Null pointer derefence due to bug in codegen with negation without using value](https://hackerone.com/reports/187536) to shopify-scripts - 9 upvotes, $10000
-28. [Denial of service due to invalid memory access in mrb_ary_concat](https://hackerone.com/reports/184712) to shopify-scripts - 9 upvotes, $8000
-29. [NULL pointer dereference in `mrb_check_frozen`](https://hackerone.com/reports/621308) to shopify-scripts - 9 upvotes, $1000
-30. [SIGSEGV when invalid argument on remove_method](https://hackerone.com/reports/181874) to shopify-scripts - 9 upvotes, $0
-31. [Range#initialize_copy null pointer dereference](https://hackerone.com/reports/181685) to shopify-scripts - 8 upvotes, $10000
+27. [Range#initialize_copy null pointer dereference](https://hackerone.com/reports/181685) to shopify-scripts - 9 upvotes, $10000
+28. [Null pointer derefence due to bug in codegen with negation without using value](https://hackerone.com/reports/187536) to shopify-scripts - 9 upvotes, $10000
+29. [Denial of service due to invalid memory access in mrb_ary_concat](https://hackerone.com/reports/184712) to shopify-scripts - 9 upvotes, $8000
+30. [NULL pointer dereference in `mrb_check_frozen`](https://hackerone.com/reports/621308) to shopify-scripts - 9 upvotes, $1000
+31. [SIGSEGV when invalid argument on remove_method](https://hackerone.com/reports/181874) to shopify-scripts - 9 upvotes, $0
 32. [Denial of Service in mruby due to null pointer dereference](https://hackerone.com/reports/181232) to shopify-scripts - 8 upvotes, $8000
 33. [Read after free in mrb_vm_exec with OP_ARYCAT reading R(B)](https://hackerone.com/reports/184715) to shopify-scripts - 8 upvotes, $1000
 34. [Incorrect code generation when result of NODE_NEGATE is not used](https://hackerone.com/reports/191689) to shopify-scripts - 8 upvotes, $1000
 35. [Heap Buffer Overflow in mrb_hash_keys](https://hackerone.com/reports/216992) to shopify-scripts - 8 upvotes, $800
 36. [kh_get_n2s() stack overrun](https://hackerone.com/reports/192578) to shopify-scripts - 8 upvotes, $0
 37. [SIGSEGV - mrb_obj_extend - line:413](https://hackerone.com/reports/197694) to shopify-scripts - 8 upvotes, $0
-38. [Memory disclosure in timegm](https://hackerone.com/reports/192896) to shopify-scripts - 7 upvotes, $1000
-39. [Invalid read in `str_replace_partial`](https://hackerone.com/reports/633607) to shopify-scripts - 7 upvotes, $1000
-40. [Use After Free in str_replace](https://hackerone.com/reports/193143) to shopify-scripts - 7 upvotes, $800
-41. [Use-after-free leading to an invalid pointer dereference](https://hackerone.com/reports/213261) to shopify-scripts - 7 upvotes, $800
-42. [Null pointer dereference in ary_concat ](https://hackerone.com/reports/214681) to shopify-scripts - 7 upvotes, $800
-43. [SIGABRT - mirb and mruby](https://hackerone.com/reports/214000) to shopify-scripts - 7 upvotes, $0
-44. [SIGSEGV - mark_context_stack](https://hackerone.com/reports/209937) to shopify-scripts - 7 upvotes, $0
-45. [Range constructor type confusion DoS](https://hackerone.com/reports/181910) to shopify-scripts - 6 upvotes, $10000
-46. [Undefined method_missing null pointer dereference](https://hackerone.com/reports/181695) to shopify-scripts - 6 upvotes, $8000
+38. [Range constructor type confusion DoS](https://hackerone.com/reports/181910) to shopify-scripts - 7 upvotes, $10000
+39. [Undefined method_missing null pointer dereference](https://hackerone.com/reports/181695) to shopify-scripts - 7 upvotes, $8000
+40. [Memory disclosure in timegm](https://hackerone.com/reports/192896) to shopify-scripts - 7 upvotes, $1000
+41. [Invalid read in `str_replace_partial`](https://hackerone.com/reports/633607) to shopify-scripts - 7 upvotes, $1000
+42. [Use After Free in str_replace](https://hackerone.com/reports/193143) to shopify-scripts - 7 upvotes, $800
+43. [Use-after-free leading to an invalid pointer dereference](https://hackerone.com/reports/213261) to shopify-scripts - 7 upvotes, $800
+44. [Null pointer dereference in ary_concat ](https://hackerone.com/reports/214681) to shopify-scripts - 7 upvotes, $800
+45. [SIGABRT - mirb and mruby](https://hackerone.com/reports/214000) to shopify-scripts - 7 upvotes, $0
+46. [SIGSEGV - mark_context_stack](https://hackerone.com/reports/209937) to shopify-scripts - 7 upvotes, $0
 47. [Invalid memory write caused by incorrect upper bound in array_copy](https://hackerone.com/reports/185899) to shopify-scripts - 6 upvotes, $1000
 48. [Double free of filename after codegen error](https://hackerone.com/reports/193719) to shopify-scripts - 6 upvotes, $200
 49. [Memory corrouption in mrb_gc_mark](https://hackerone.com/reports/208363) to shopify-scripts - 6 upvotes, $100

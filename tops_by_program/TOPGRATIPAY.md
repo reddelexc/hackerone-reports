@@ -2,7 +2,7 @@ Top reports from Gratipay program at HackerOne:
 
 1. [Saying goodbye to HackerOne and Gratipay.](https://hackerone.com/reports/286728) to Gratipay - 92 upvotes, $0
 2. [Reflected XSS - gratipay.com](https://hackerone.com/reports/262852) to Gratipay - 36 upvotes, $0
-3. [i am The bug](https://hackerone.com/reports/284807) to Gratipay - 18 upvotes, $0
+3. [i am The bug](https://hackerone.com/reports/284807) to Gratipay - 20 upvotes, $0
 4. [configure a redirect URI for Facebook OAuth](https://hackerone.com/reports/140432) to Gratipay - 16 upvotes, $10
 5. [Sub Domain Takeover](https://hackerone.com/reports/221133) to Gratipay - 16 upvotes, $0
 6. [fix bug in username restriction](https://hackerone.com/reports/128121) to Gratipay - 14 upvotes, $0
