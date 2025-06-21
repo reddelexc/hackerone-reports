@@ -2,36 +2,36 @@ Top reports from TikTok program at HackerOne:
 
 1. [Cross-Site-Scripting on www.tiktok.com and m.tiktok.com leading to Data Exfiltration](https://hackerone.com/reports/968082) to TikTok - 460 upvotes, $0
 2. [Multiple bugs leads to RCE on TikTok for Android](https://hackerone.com/reports/1065500) to TikTok - 365 upvotes, $0
-3. [[CSRF] TikTok Careers Portal Account Takeover](https://hackerone.com/reports/1010522) to TikTok - 359 upvotes, $0
+3. [[CSRF] TikTok Careers Portal Account Takeover](https://hackerone.com/reports/1010522) to TikTok - 360 upvotes, $0
 4. [Reflected XSS in TikTok endpoints](https://hackerone.com/reports/1350887) to TikTok - 351 upvotes, $0
 5. [RCE on TikTok Ads Portal](https://hackerone.com/reports/1024575) to TikTok - 307 upvotes, $0
 6. [Stored-XSS-ads.tiktok.com](https://hackerone.com/reports/2306491) to TikTok - 302 upvotes, $0
-7. [Incorrect authorization to the intelbot service leading to ticket information](https://hackerone.com/reports/1328546) to TikTok - 209 upvotes, $15000
+7. [Incorrect authorization to the intelbot service leading to ticket information](https://hackerone.com/reports/1328546) to TikTok - 210 upvotes, $15000
 8. [IDOR delete any Tickets on ads.tiktok.com](https://hackerone.com/reports/1475520) to TikTok - 207 upvotes, $0
 9. [Stored XSS on TikTok Ads](https://hackerone.com/reports/1504202) to TikTok - 196 upvotes, $2500
 10. [Blocked user can see live video](https://hackerone.com/reports/1067967) to TikTok - 196 upvotes, $418
 11. [TikTok 2FA Bypass](https://hackerone.com/reports/1247108) to TikTok - 186 upvotes, $0
-12. [Reflected XSS on Pangle Endpoint ](https://hackerone.com/reports/2352968) to TikTok - 182 upvotes, $5000
-13. [Unauthorized Access to TikTok Account [Private Videos] via API Endpoint](https://hackerone.com/reports/2868084) to TikTok - 150 upvotes, $0
+12. [Reflected XSS on Pangle Endpoint ](https://hackerone.com/reports/2352968) to TikTok - 183 upvotes, $5000
+13. [Unauthorized Access to TikTok Account [Private Videos] via API Endpoint](https://hackerone.com/reports/2868084) to TikTok - 152 upvotes, $0
 14. [External SSRF and Local File Read via video upload due to vulnerable FFmpeg HLS processing](https://hackerone.com/reports/1062888) to TikTok - 149 upvotes, $2727
-15. [HTML Injection on TikTok Ads](https://hackerone.com/reports/2299529) to TikTok - 145 upvotes, $250
-16. [Account Takeover via Authentication Bypass in TikTok Account Recovery](https://hackerone.com/reports/2443228) to TikTok - 144 upvotes, $12000
+15. [HTML Injection on TikTok Ads](https://hackerone.com/reports/2299529) to TikTok - 146 upvotes, $250
+16. [Account Takeover via Authentication Bypass in TikTok Account Recovery](https://hackerone.com/reports/2443228) to TikTok - 145 upvotes, $12000
 17. [DOM XSS in tiktok.com/login via the redirect_url parameter](https://hackerone.com/reports/2583874) to TikTok - 128 upvotes, $0
-18. [Reflected Cross-site Scripting (XSS) at https://www.tiktok.com/](https://hackerone.com/reports/1915808) to TikTok - 120 upvotes, $0
-19. [Exploitable live argument in onClick Function leads to Data Leakage of Inactive/Suspended Products](https://hackerone.com/reports/2295958) to TikTok - 113 upvotes, $1000
+18. [Reflected Cross-site Scripting (XSS) at https://www.tiktok.com/](https://hackerone.com/reports/1915808) to TikTok - 121 upvotes, $0
+19. [Exploitable live argument in onClick Function leads to Data Leakage of Inactive/Suspended Products](https://hackerone.com/reports/2295958) to TikTok - 115 upvotes, $0
 20. [IDOR for changing privacy settings on any memories](https://hackerone.com/reports/1733627) to TikTok - 111 upvotes, $0
 21. [Reflected xss on ads.tiktok.com using `from` parameter.](https://hackerone.com/reports/1452375) to TikTok - 110 upvotes, $0
-22. [Unrestricted File Upload on https://partner.tiktokshop.com/wsos_v2/oec_partner/upload](https://hackerone.com/reports/1890284) to TikTok - 108 upvotes, $0
-23. [IDOR on ads.tiktok.com Allows Unauthorized Product Addition](https://hackerone.com/reports/2848610) to TikTok - 103 upvotes, $500
+22. [Unrestricted File Upload on https://partner.tiktokshop.com/wsos_v2/oec_partner/upload](https://hackerone.com/reports/1890284) to TikTok - 109 upvotes, $0
+23. [IDOR on ads.tiktok.com Allows Unauthorized Product Addition](https://hackerone.com/reports/2848610) to TikTok - 108 upvotes, $500
 24. [Lack of rate limitation on careers site allows the attacker to brute force the verification code](https://hackerone.com/reports/1075827) to TikTok - 103 upvotes, $0
 25. [DOM XSS on ads.tiktok.com](https://hackerone.com/reports/1549451) to TikTok - 102 upvotes, $2500
 26. [IDOR on TikTok Ads Endpoint](https://hackerone.com/reports/1527906) to TikTok - 102 upvotes, $2500
 27. [Lynxview JS interfaces Takeover via deeplink traversal](https://hackerone.com/reports/2417516) to TikTok - 101 upvotes, $0
 28. [Multiple IDORs in family pairing api](https://hackerone.com/reports/1286332) to TikTok - 99 upvotes, $0
-29. [HTML Injection on tiktoktutorials via firstName parameter](https://hackerone.com/reports/1343492) to TikTok - 94 upvotes, $0
-30. [CRLF to XSS & Open Redirection](https://hackerone.com/reports/2012519) to TikTok - 94 upvotes, $0
-31. [CRLF injection leads to internal XSS on PangleGlobal](https://hackerone.com/reports/2189960) to TikTok - 94 upvotes, $0
-32. [Stored XSS on TikTok Live Form](https://hackerone.com/reports/1542703) to TikTok - 93 upvotes, $1500
+29. [CRLF injection leads to internal XSS on PangleGlobal](https://hackerone.com/reports/2189960) to TikTok - 95 upvotes, $0
+30. [Stored XSS on TikTok Live Form](https://hackerone.com/reports/1542703) to TikTok - 94 upvotes, $1500
+31. [HTML Injection on tiktoktutorials via firstName parameter](https://hackerone.com/reports/1343492) to TikTok - 94 upvotes, $0
+32. [CRLF to XSS & Open Redirection](https://hackerone.com/reports/2012519) to TikTok - 94 upvotes, $0
 33. [CSRF Account Takeover](https://hackerone.com/reports/1253462) to TikTok - 89 upvotes, $0
 34. [Reflected XSS on TikTok Website](https://hackerone.com/reports/1378413) to TikTok - 87 upvotes, $3000
 35. [Multiple vulnerability leading to account takeover in TikTok SMB subdomain.](https://hackerone.com/reports/1404612) to TikTok - 84 upvotes, $0
@@ -88,9 +88,9 @@ Top reports from TikTok program at HackerOne:
 86. [HTML Injection via TikTok Ads Email Share ](https://hackerone.com/reports/1376990) to TikTok - 28 upvotes, $0
 87. [Subdomain Takeover via Unclaimed Amazon S3 Bucket (Musical.ly)](https://hackerone.com/reports/1102537) to TikTok - 27 upvotes, $200
 88. [Internal Employee informations Disclosure via TikTok Athena api](https://hackerone.com/reports/1575560) to TikTok - 26 upvotes, $1000
-89. [Clickjacking Vulnerability Can Leads To Delete Developer APP](https://hackerone.com/reports/1416612) to TikTok - 25 upvotes, $500
-90. [Cross Site Scripting using Email parameter in Ads endpoint 2](https://hackerone.com/reports/946160) to TikTok - 25 upvotes, $0
-91. [Any user can vote on `Friend Only` video pull](https://hackerone.com/reports/1793940) to TikTok - 25 upvotes, $0
+89. [Any user can vote on `Friend Only` video pull](https://hackerone.com/reports/1793940) to TikTok - 26 upvotes, $0
+90. [Clickjacking Vulnerability Can Leads To Delete Developer APP](https://hackerone.com/reports/1416612) to TikTok - 25 upvotes, $500
+91. [Cross Site Scripting using Email parameter in Ads endpoint 2](https://hackerone.com/reports/946160) to TikTok - 25 upvotes, $0
 92. [Remotely Accessible Container Advisor exposed performance metrics and resource usage](https://hackerone.com/reports/1697599) to TikTok - 24 upvotes, $100
 93. [Rate limiting on report video](https://hackerone.com/reports/948146) to TikTok - 22 upvotes, $0
 94. [CSRF on TikTok Ads Portal](https://hackerone.com/reports/1087436) to TikTok - 21 upvotes, $1000

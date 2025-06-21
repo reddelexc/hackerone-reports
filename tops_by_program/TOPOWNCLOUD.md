@@ -2,13 +2,13 @@ Top reports from ownCloud program at HackerOne:
 
 1. [Possible to steal any protected files on Android](https://hackerone.com/reports/377107) to ownCloud - 112 upvotes, $750
 2. [Cross-Site Request Forgery ](https://hackerone.com/reports/2041007) to ownCloud - 108 upvotes, $0
-3. [Authentication Bypass with usage of PreSignedURL](https://hackerone.com/reports/2337427) to ownCloud - 37 upvotes, $2000
+3. [Authentication Bypass with usage of PreSignedURL](https://hackerone.com/reports/2337427) to ownCloud - 38 upvotes, $2000
 4. [Federated share permissions can be increased by recipient](https://hackerone.com/reports/1990443) to ownCloud - 28 upvotes, $500
 5. [Banner Grabbing - Apache Server Version Disclousure](https://hackerone.com/reports/269467) to ownCloud - 19 upvotes, $0
 6. [Arbitrary Code Injection in ownCloud’s Windows Client](https://hackerone.com/reports/155657) to ownCloud - 16 upvotes, $0
 7. [Remote Code Execution through Deserialization Attack in OwnBackup app.](https://hackerone.com/reports/562335) to ownCloud - 15 upvotes, $0
 8. [Remote Code Execution through "Files_antivirus" plugin](https://hackerone.com/reports/903872) to ownCloud - 14 upvotes, $0
-9. [GitHub Security Lab (GHSL) Vulnerability Report: Insufficient path validation in ReceiveExternalFilesActivity.java (GHSL-2022-060)](https://hackerone.com/reports/1650270) to ownCloud - 12 upvotes, $50
+9. [GitHub Security Lab (GHSL) Vulnerability Report: Insufficient path validation in ReceiveExternalFilesActivity.java (GHSL-2022-060)](https://hackerone.com/reports/1650270) to ownCloud - 13 upvotes, $50
 10. [Theft of protected files on Android](https://hackerone.com/reports/1454002) to ownCloud - 11 upvotes, $50
 11. [RCE in ci.owncloud.com / ci.owncloud.org](https://hackerone.com/reports/98559) to ownCloud - 10 upvotes, $0
 12. [SMB User Authentication Bypass and Persistence](https://hackerone.com/reports/148151) to ownCloud - 10 upvotes, $0

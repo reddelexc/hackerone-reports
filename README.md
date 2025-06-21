@@ -98,3 +98,4 @@ Tops by program.
 - [Top TikTok reports](tops_by_program/TOPTIKTOK.md)
 - [Top MTN Group reports](tops_by_program/TOPMTNGROUP.md)
 - [Top Node.js reports](tops_by_program/TOPNODEJS.md)
+- [Top Eternal reports](tops_by_program/TOPETERNAL.md)
