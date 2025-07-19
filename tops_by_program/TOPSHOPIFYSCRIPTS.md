@@ -16,10 +16,10 @@ Top reports from shopify-scripts program at HackerOne:
 14. [Null target_class DoS](https://hackerone.com/reports/183405) to shopify-scripts - 13 upvotes, $8000
 15. [Exception cause SIGABRT](https://hackerone.com/reports/180977) to shopify-scripts - 13 upvotes, $0
 16. [SIGABRT - mrb_default_allocf ](https://hackerone.com/reports/193773) to shopify-scripts - 13 upvotes, $0
-17. [Heap buffer oveflow with many arguments](https://hackerone.com/reports/204421) to shopify-scripts - 12 upvotes, $800
-18. [Deleting Key-value pair from Frozen HASH or Clearing a Frozen HASH](https://hackerone.com/reports/194866) to shopify-scripts - 12 upvotes, $0
-19. [Clearing , Shifting and Pop Value from Frozen Array  ](https://hackerone.com/reports/196416) to shopify-scripts - 12 upvotes, $0
-20. [Struct type confusion RCE](https://hackerone.com/reports/181879) to shopify-scripts - 11 upvotes, $18000
+17. [Struct type confusion RCE](https://hackerone.com/reports/181879) to shopify-scripts - 12 upvotes, $18000
+18. [Heap buffer oveflow with many arguments](https://hackerone.com/reports/204421) to shopify-scripts - 12 upvotes, $800
+19. [Deleting Key-value pair from Frozen HASH or Clearing a Frozen HASH](https://hackerone.com/reports/194866) to shopify-scripts - 12 upvotes, $0
+20. [Clearing , Shifting and Pop Value from Frozen Array  ](https://hackerone.com/reports/196416) to shopify-scripts - 12 upvotes, $0
 21. [Certain inputs cause tight C-level recursion leading to process stack overflow](https://hackerone.com/reports/189633) to shopify-scripts - 11 upvotes, $10000
 22. [Broken handling of maximum number of method call arguments leads to segfault](https://hackerone.com/reports/182484) to shopify-scripts - 10 upvotes, $10000
 23. [Memory disclosure in mruby String#lines method](https://hackerone.com/reports/181319) to shopify-scripts - 10 upvotes, $0
