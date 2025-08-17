@@ -49,31 +49,31 @@ Top reports from ownCloud program at HackerOne:
 47. [doc.owncloud.org: XSS via Referrer](https://hackerone.com/reports/130951) to ownCloud - 3 upvotes, $0
 48. [bug reporting template encourages users to paste config file with passwords](https://hackerone.com/reports/196969) to ownCloud - 3 upvotes, $0
 49. [doc.owncloud.com: CVE-2015-5477 BIND9 TKEY Vulnerability + Exploit (Denial of Service)](https://hackerone.com/reports/217381) to ownCloud - 3 upvotes, $0
-50. [Full Path Disclosure ](https://hackerone.com/reports/85201) to ownCloud - 2 upvotes, $25
-51. [apps.owncloud.com: Edit Question didn't check ACLs](https://hackerone.com/reports/85532) to ownCloud - 2 upvotes, $0
-52. [gallery_plus: Content Spoofing ](https://hackerone.com/reports/87752) to ownCloud - 2 upvotes, $0
-53. [demo.owncloud.org: Web Server HTTP Trace/Track Method Support Cross-Site Tracing Vulnerability](https://hackerone.com/reports/83837) to ownCloud - 2 upvotes, $0
-54. [apps.owncloud.com: Path Disclosure](https://hackerone.com/reports/83801) to ownCloud - 2 upvotes, $0
-55. [[s3.owncloud.com] Web Server HTTP Trace/Track Method Support ](https://hackerone.com/reports/90601) to ownCloud - 2 upvotes, $0
-56. [demo.owncloud.org: HTTP compression is enabled potentially leading to BREACH attack](https://hackerone.com/reports/84105) to ownCloud - 2 upvotes, $0
-57. [Config](https://hackerone.com/reports/84797) to ownCloud - 2 upvotes, $0
-58. [owncloud.com: Outdated plugins contains public exploits  ](https://hackerone.com/reports/84581) to ownCloud - 2 upvotes, $0
-59. [owncloud.com: DOM Based XSS](https://hackerone.com/reports/83178) to ownCloud - 2 upvotes, $0
-60. [owncloud.com: Cross Site Tracing](https://hackerone.com/reports/83373) to ownCloud - 2 upvotes, $0
-61. [owncloud.com: WP Super Cache plugin is outdated](https://hackerone.com/reports/90980) to ownCloud - 2 upvotes, $0
+50. [apps.owncloud.com: Edit Question didn't check ACLs](https://hackerone.com/reports/85532) to ownCloud - 2 upvotes, $0
+51. [gallery_plus: Content Spoofing ](https://hackerone.com/reports/87752) to ownCloud - 2 upvotes, $0
+52. [demo.owncloud.org: Web Server HTTP Trace/Track Method Support Cross-Site Tracing Vulnerability](https://hackerone.com/reports/83837) to ownCloud - 2 upvotes, $0
+53. [apps.owncloud.com: Path Disclosure](https://hackerone.com/reports/83801) to ownCloud - 2 upvotes, $0
+54. [[s3.owncloud.com] Web Server HTTP Trace/Track Method Support ](https://hackerone.com/reports/90601) to ownCloud - 2 upvotes, $0
+55. [demo.owncloud.org: HTTP compression is enabled potentially leading to BREACH attack](https://hackerone.com/reports/84105) to ownCloud - 2 upvotes, $0
+56. [Config](https://hackerone.com/reports/84797) to ownCloud - 2 upvotes, $0
+57. [owncloud.com: Outdated plugins contains public exploits  ](https://hackerone.com/reports/84581) to ownCloud - 2 upvotes, $0
+58. [owncloud.com: DOM Based XSS](https://hackerone.com/reports/83178) to ownCloud - 2 upvotes, $0
+59. [owncloud.com: Cross Site Tracing](https://hackerone.com/reports/83373) to ownCloud - 2 upvotes, $0
+60. [owncloud.com: WP Super Cache plugin is outdated](https://hackerone.com/reports/90980) to ownCloud - 2 upvotes, $0
+61. [Full Path Disclosure ](https://hackerone.com/reports/85201) to ownCloud - 2 upvotes, $0
 62. [XXE at host vpn.owncloud.com](https://hackerone.com/reports/105980) to ownCloud - 2 upvotes, $0
 63. [test1.owncloud.com: Web Server HTTP Trace/Track Method Support Cross-Site Tracing Vulnerability](https://hackerone.com/reports/83971) to ownCloud - 2 upvotes, $0
 64. [Self-XSS in mails sent by hello@owncloud.com](https://hackerone.com/reports/92111) to ownCloud - 2 upvotes, $0
 65. [owncloud.com: Account Compromise Through CSRF](https://hackerone.com/reports/84372) to ownCloud - 2 upvotes, $0
 66. [[forum.owncloud.org] IE, Edge XSS via Request-URI](https://hackerone.com/reports/154319) to ownCloud - 2 upvotes, $0
 67. [owncloud.com open redirect](https://hackerone.com/reports/258632) to ownCloud - 2 upvotes, $0
-68. [Full Path Disclosure ](https://hackerone.com/reports/87505) to ownCloud - 1 upvotes, $25
-69. [daily.owncloud.com: Information disclosure](https://hackerone.com/reports/84085) to ownCloud - 1 upvotes, $0
-70. [owncloud.com: Allowed an attacker to force a user to change profile details. (XCSRF)](https://hackerone.com/reports/83239) to ownCloud - 1 upvotes, $0
-71. [owncloud.com: CVE-2015-5477 BIND9 TKEY Vulnerability + Exploit (Denial of Service)](https://hackerone.com/reports/89097) to ownCloud - 1 upvotes, $0
-72. [apps.owncloud.com: Mixed Active Scripting Issue ](https://hackerone.com/reports/85541) to ownCloud - 1 upvotes, $0
-73. [owncloud.com: PermError SPF Permanent Error: Too many DNS lookups](https://hackerone.com/reports/83578) to ownCloud - 1 upvotes, $0
-74. [Apache documentation](https://hackerone.com/reports/90321) to ownCloud - 1 upvotes, $0
+68. [daily.owncloud.com: Information disclosure](https://hackerone.com/reports/84085) to ownCloud - 1 upvotes, $0
+69. [owncloud.com: Allowed an attacker to force a user to change profile details. (XCSRF)](https://hackerone.com/reports/83239) to ownCloud - 1 upvotes, $0
+70. [owncloud.com: CVE-2015-5477 BIND9 TKEY Vulnerability + Exploit (Denial of Service)](https://hackerone.com/reports/89097) to ownCloud - 1 upvotes, $0
+71. [apps.owncloud.com: Mixed Active Scripting Issue ](https://hackerone.com/reports/85541) to ownCloud - 1 upvotes, $0
+72. [owncloud.com: PermError SPF Permanent Error: Too many DNS lookups](https://hackerone.com/reports/83578) to ownCloud - 1 upvotes, $0
+73. [Apache documentation](https://hackerone.com/reports/90321) to ownCloud - 1 upvotes, $0
+74. [Full Path Disclosure ](https://hackerone.com/reports/87505) to ownCloud - 1 upvotes, $0
 75. [Information Exposure Through Directory Listing](https://hackerone.com/reports/110655) to ownCloud - 1 upvotes, $0
 76. [s2.owncloud.com: SSL Session cookie without secure flag set](https://hackerone.com/reports/83856) to ownCloud - 1 upvotes, $0
 77. [*.owncloud.com / *.owncloud.org: Using not strong enough SSL ciphers](https://hackerone.com/reports/84078) to ownCloud - 1 upvotes, $0

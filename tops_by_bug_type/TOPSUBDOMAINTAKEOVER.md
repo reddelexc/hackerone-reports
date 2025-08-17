@@ -1,12 +1,12 @@
 Top Subdomain Takeover reports from HackerOne:
 
-1. [Subdomain Takeover to Authentication bypass ](https://hackerone.com/reports/335330) to Roblox - 766 upvotes, $0
-2. [Subdomain takeover of datacafe-cert.starbucks.com](https://hackerone.com/reports/665398) to Starbucks - 307 upvotes, $0
+1. [Subdomain Takeover to Authentication bypass ](https://hackerone.com/reports/335330) to Roblox - 767 upvotes, $0
+2. [Subdomain takeover of datacafe-cert.starbucks.com](https://hackerone.com/reports/665398) to Starbucks - 308 upvotes, $0
 3. [Authentication bypass on auth.uber.com via subdomain takeover of saostatic.uber.com](https://hackerone.com/reports/219205) to Uber - 178 upvotes, $0
 4. [Subdomain takeover of storybook.lystit.com](https://hackerone.com/reports/779442) to Lyst - 161 upvotes, $1000
 5. [Hacker.One Subdomain Takeover](https://hackerone.com/reports/159156) to HackerOne - 153 upvotes, $0
 6. [ Subdomain Takeover Via Insecure CloudFront Distribution cdn.grab.com](https://hackerone.com/reports/352869) to Grab - 138 upvotes, $1000
-7. [Subdomain takeover at info.hacker.one](https://hackerone.com/reports/202767) to HackerOne - 131 upvotes, $0
+7. [Subdomain takeover at info.hacker.one](https://hackerone.com/reports/202767) to HackerOne - 132 upvotes, $0
 8. [Multiple Subdomain Takeovers: fly.staging.shipt.com, fly.us-west-2.staging.shipt.com, fly.us-east-1.staging.shipt.com](https://hackerone.com/reports/576857) to Shipt - 128 upvotes, $0
 9. [Subdomain takeover of mydailydev.starbucks.com](https://hackerone.com/reports/570651) to Starbucks - 121 upvotes, $0
 10. [Subdomain takeover of d02-1-ag.productioncontroller.starbucks.com](https://hackerone.com/reports/661751) to Starbucks - 121 upvotes, $0
@@ -32,18 +32,18 @@ Top Subdomain Takeover reports from HackerOne:
 30. [Subdomain takeover in Gitlab pages](https://hackerone.com/reports/2523654) to GitLab - 74 upvotes, $0
 31. [Subdomain Takeover at test.shipt.com](https://hackerone.com/reports/387760) to Shipt - 73 upvotes, $750
 32. [Subdomain takeover of main domain of https://www.cyberlynx.lu/](https://hackerone.com/reports/1256389) to Acronis - 70 upvotes, $100
-33. [Subdomain takeover on rider.uber.com due to non-existent distribution on Cloudfront](https://hackerone.com/reports/175070) to Uber - 69 upvotes, $0
-34. [myshopify.com domain takeover](https://hackerone.com/reports/320355) to Shopify - 69 upvotes, $0
-35. [Subdomain takeover of images.crossinstall.com](https://hackerone.com/reports/1406335) to X / xAI - 68 upvotes, $0
-36. [Subdomain Takeover Via unclaimed Heroku Instance tim-exclusive.shopify.com](https://hackerone.com/reports/424669) to Shopify - 67 upvotes, $500
-37. [[ addons-preview-cdn.mozilla.net ] A subdomain takeover is available via unregistered domain in Fastly](https://hackerone.com/reports/2706358) to Mozilla - 66 upvotes, $500
-38. [Subdomain takeover on a subdomain under firefox.com](https://hackerone.com/reports/2899858) to Mozilla - 62 upvotes, $500
+33. [myshopify.com domain takeover](https://hackerone.com/reports/320355) to Shopify - 70 upvotes, $0
+34. [Subdomain takeover on rider.uber.com due to non-existent distribution on Cloudfront](https://hackerone.com/reports/175070) to Uber - 69 upvotes, $0
+35. [Subdomain takeover on a subdomain under firefox.com](https://hackerone.com/reports/2899858) to Mozilla - 68 upvotes, $500
+36. [Subdomain takeover of images.crossinstall.com](https://hackerone.com/reports/1406335) to X / xAI - 68 upvotes, $0
+37. [Subdomain Takeover Via unclaimed Heroku Instance tim-exclusive.shopify.com](https://hackerone.com/reports/424669) to Shopify - 67 upvotes, $500
+38. [[ addons-preview-cdn.mozilla.net ] A subdomain takeover is available via unregistered domain in Fastly](https://hackerone.com/reports/2706358) to Mozilla - 66 upvotes, $500
 39. [Subdomain Takeover Via via Dangling NS records on Amazon Route 53 http://api.e2e-kops-aws-canary.test-cncf-aws.canary.k8s.io](https://hackerone.com/reports/746000) to Kubernetes - 61 upvotes, $250
 40. [subdomain takeover on fddkim.zomato.com](https://hackerone.com/reports/1130376) to Eternal - 61 upvotes, $0
 41. [Subdomain takeover ████████.mil](https://hackerone.com/reports/2499178) to U.S. Dept Of Defense - 60 upvotes, $0
-42. [Subdomain takeover #3 at info.hacker.one](https://hackerone.com/reports/217358) to HackerOne - 58 upvotes, $0
-43. [Subdomain takeover in GitLab Pages [george.ratelimited.me]](https://hackerone.com/reports/2523677) to RATELIMITED - 58 upvotes, $0
-44. [Subdomain Takeover of brand.zen.ly](https://hackerone.com/reports/1474784) to Zenly - 57 upvotes, $750
+42. [Subdomain Takeover of brand.zen.ly](https://hackerone.com/reports/1474784) to Zenly - 59 upvotes, $750
+43. [Subdomain takeover in GitLab Pages [george.ratelimited.me]](https://hackerone.com/reports/2523677) to RATELIMITED - 59 upvotes, $0
+44. [Subdomain takeover #3 at info.hacker.one](https://hackerone.com/reports/217358) to HackerOne - 58 upvotes, $0
 45. [Subdomain takeover on partners.ubnt.com due to non-used CloudFront DNS entry](https://hackerone.com/reports/145224) to Ubiquiti Inc. - 57 upvotes, $0
 46. [Subdomain takeover on dev-admin.periscope.tv](https://hackerone.com/reports/531890) to X / xAI - 55 upvotes, $0
 47. [Subdomain takeover of www█████████.affirm.com](https://hackerone.com/reports/1297689) to Affirm - 54 upvotes, $500
@@ -60,39 +60,39 @@ Top Subdomain Takeover reports from HackerOne:
 58. [Subdomain Takeover - https://competition.shopify.com/](https://hackerone.com/reports/365853) to Shopify - 45 upvotes, $0
 59. [Subdomain takeover on one of the subdomain under mozaws.net](https://hackerone.com/reports/2286867) to Mozilla - 43 upvotes, $0
 60. [Subdomain takeover on one of the subdomain under mozaws.net](https://hackerone.com/reports/2209571) to Mozilla - 40 upvotes, $0
-61. [subdomain takeover at news-static.semrush.com](https://hackerone.com/reports/294201) to Semrush - 39 upvotes, $0
-62. [svcardproxydevus.starbucks.com Subdomain take over](https://hackerone.com/reports/380158) to Starbucks - 39 upvotes, $0
-63. [Subdomain takeover of ███.wavecell.com](https://hackerone.com/reports/1181762) to 8x8 Bounty - 39 upvotes, $0
-64. [Subdomain takeover on one of the subdomain under mozgcp.net](https://hackerone.com/reports/2140976) to Mozilla - 39 upvotes, $0
-65. [subdomain takeover at █████████](https://hackerone.com/reports/2106886) to Mars - 39 upvotes, $0
-66. [Subdomain takeover on one of the subdomain under mozaws.net](https://hackerone.com/reports/2287098) to Mozilla - 39 upvotes, $0
-67. [cloudup Subdomain Takeover That resolves to Desk.com ( CNAME cloudup.desk.com ) ](https://hackerone.com/reports/201796) to Automattic - 38 upvotes, $0
-68. [Subdomain Takeover via Unclaimed WordPress site](https://hackerone.com/reports/274336) to Snapchat - 38 upvotes, $0
-69. [Sub-Domain Takeover at   http://www.codefi.consensys.net/](https://hackerone.com/reports/1717626) to Consensys - 36 upvotes, $500
+61. [Sub-Domain Takeover at   http://www.codefi.consensys.net/](https://hackerone.com/reports/1717626) to Consensys - 39 upvotes, $500
+62. [subdomain takeover at news-static.semrush.com](https://hackerone.com/reports/294201) to Semrush - 39 upvotes, $0
+63. [svcardproxydevus.starbucks.com Subdomain take over](https://hackerone.com/reports/380158) to Starbucks - 39 upvotes, $0
+64. [Subdomain takeover of ███.wavecell.com](https://hackerone.com/reports/1181762) to 8x8 Bounty - 39 upvotes, $0
+65. [Subdomain takeover on one of the subdomain under mozgcp.net](https://hackerone.com/reports/2140976) to Mozilla - 39 upvotes, $0
+66. [subdomain takeover at █████████](https://hackerone.com/reports/2106886) to Mars - 39 upvotes, $0
+67. [Subdomain takeover on one of the subdomain under mozaws.net](https://hackerone.com/reports/2287098) to Mozilla - 39 upvotes, $0
+68. [cloudup Subdomain Takeover That resolves to Desk.com ( CNAME cloudup.desk.com ) ](https://hackerone.com/reports/201796) to Automattic - 38 upvotes, $0
+69. [Subdomain Takeover via Unclaimed WordPress site](https://hackerone.com/reports/274336) to Snapchat - 38 upvotes, $0
 70. [subdomain takeover at status0.stripo.email](https://hackerone.com/reports/737695) to Stripo Inc - 36 upvotes, $0
 71. [Subdomain Takeover At the Main Domain Of Your Site ](https://hackerone.com/reports/1183296) to Sifchain - 36 upvotes, $0
 72. [Subdomain takeover on one of the subdomain under mozaws.net](https://hackerone.com/reports/2285286) to Mozilla - 36 upvotes, $0
 73. [registry.nodejs.org Subdomain Takeover](https://hackerone.com/reports/340580) to Node.js - 35 upvotes, $0
 74. [Subdomain takeover on svcgatewaydevus.starbucks.com and svcgatewayloadus.starbucks.com](https://hackerone.com/reports/383564) to Starbucks - 35 upvotes, $0
-75. [Subdomain takeover at api.legalrobot.com due to non-used domain in Modulus.io.](https://hackerone.com/reports/148770) to Legal Robot - 33 upvotes, $0
-76. [[engineering.udemy.com] - Subdomain Takeover (ghost.io)](https://hackerone.com/reports/368119) to Udemy - 33 upvotes, $0
-77. [EC2 subdomain takeover at http://████████/](https://hackerone.com/reports/1296366) to U.S. Dept Of Defense - 33 upvotes, $0
-78. [Subdomain takeover of █████████](https://hackerone.com/reports/1457928) to U.S. Dept Of Defense - 33 upvotes, $0
-79. [Subdomain Takeover via Host Header Injection on www.█████](https://hackerone.com/reports/2188240) to U.S. Dept Of Defense - 33 upvotes, $0
-80. [Subdomain takeover on one of the subdomains under mozaws.net](https://hackerone.com/reports/2398630) to Mozilla - 32 upvotes, $0
-81. [Subdomain Takeover using blog.greenhouse.io pointing to Hubspot](https://hackerone.com/reports/38007) to Greenhouse.io - 31 upvotes, $0
-82. [Domain Takeover in [obviousengine.com] a snapchat acquisitions](https://hackerone.com/reports/392785) to Snapchat - 31 upvotes, $0
-83. [[iot-hackathon.geekbrains.ru] Tilda Subdomain Takeover](https://hackerone.com/reports/720992) to Mail.ru - 31 upvotes, $0
-84. [[ii.worki.ru ] emarsys  subdomain takeover](https://hackerone.com/reports/1287686) to Mail.ru - 31 upvotes, $0
-85. [Subdomain takeover at http://test.www.midigator.com](https://hackerone.com/reports/1718371) to Equifax-vdp - 31 upvotes, $0
+75. [Subdomain Takeover via Host Header Injection on www.█████](https://hackerone.com/reports/2188240) to U.S. Dept Of Defense - 34 upvotes, $0
+76. [Subdomain takeover at api.legalrobot.com due to non-used domain in Modulus.io.](https://hackerone.com/reports/148770) to Legal Robot - 33 upvotes, $0
+77. [[engineering.udemy.com] - Subdomain Takeover (ghost.io)](https://hackerone.com/reports/368119) to Udemy - 33 upvotes, $0
+78. [EC2 subdomain takeover at http://████████/](https://hackerone.com/reports/1296366) to U.S. Dept Of Defense - 33 upvotes, $0
+79. [Subdomain takeover of █████████](https://hackerone.com/reports/1457928) to U.S. Dept Of Defense - 33 upvotes, $0
+80. [Subdomain Takeover using blog.greenhouse.io pointing to Hubspot](https://hackerone.com/reports/38007) to Greenhouse.io - 32 upvotes, $0
+81. [Subdomain takeover at http://test.www.midigator.com](https://hackerone.com/reports/1718371) to Equifax-vdp - 32 upvotes, $0
+82. [Subdomain takeover on one of the subdomains under mozaws.net](https://hackerone.com/reports/2398630) to Mozilla - 32 upvotes, $0
+83. [Domain Takeover in [obviousengine.com] a snapchat acquisitions](https://hackerone.com/reports/392785) to Snapchat - 31 upvotes, $0
+84. [[iot-hackathon.geekbrains.ru] Tilda Subdomain Takeover](https://hackerone.com/reports/720992) to Mail.ru - 31 upvotes, $0
+85. [[ii.worki.ru ] emarsys  subdomain takeover](https://hackerone.com/reports/1287686) to Mail.ru - 31 upvotes, $0
 86. [GNIP subdomain take over](https://hackerone.com/reports/189548) to X / xAI - 30 upvotes, $0
 87. [Domain takeover on http://doesfranshaveashell.com/ due to expiration](https://hackerone.com/reports/692068) to Ed - 30 upvotes, $0
 88. [Subdomain takeover on mta1a1.spmail.uber.com](https://hackerone.com/reports/707748) to Uber - 30 upvotes, $0
-89. [Subdomain Takeover via Unclaimed Amazon S3 Bucket (Musical.ly)](https://hackerone.com/reports/1102537) to TikTok - 28 upvotes, $200
+89. [Subdomain Takeover via Unclaimed Amazon S3 Bucket (Musical.ly)](https://hackerone.com/reports/1102537) to TikTok - 29 upvotes, $200
 90. [Subdomain takeover on healthyhackathon.khanacademy.org and hackweek.khanacademy.org](https://hackerone.com/reports/474798) to Khan Academy - 28 upvotes, $0
-91. [Subdomain takeover on podcasts.slack-core.com](https://hackerone.com/reports/195350) to Slack - 27 upvotes, $100
-92. [subdomain Takeover at blog.exchangemarketplace.com ](https://hackerone.com/reports/416474) to Shopify - 27 upvotes, $0
-93. [Subdomain takeover on 'de-headless.staging.gymshark.com'](https://hackerone.com/reports/1711890) to Gymshark - 27 upvotes, $0
+91. [Subdomain takeover on 'de-headless.staging.gymshark.com'](https://hackerone.com/reports/1711890) to Gymshark - 28 upvotes, $0
+92. [Subdomain takeover on podcasts.slack-core.com](https://hackerone.com/reports/195350) to Slack - 27 upvotes, $100
+93. [subdomain Takeover at blog.exchangemarketplace.com ](https://hackerone.com/reports/416474) to Shopify - 27 upvotes, $0
 94. [Subdomain takeover on one of the subdomain under mozgcp.net](https://hackerone.com/reports/2143408) to Mozilla - 27 upvotes, $0
 95. [[ux.shopify.com] Subdomain takeover](https://hackerone.com/reports/221631) to Shopify - 26 upvotes, $0
 96. [Bulgaria - Subdomain takeover of mail.starbucks.bg](https://hackerone.com/reports/736863) to Starbucks - 26 upvotes, $0
@@ -108,10 +108,10 @@ Top Subdomain Takeover reports from HackerOne:
 106. [[Screenhero] Subdomain takeover](https://hackerone.com/reports/142096) to Slack - 23 upvotes, $0
 107. [Subdomain takeover on "info-edcrunch.skillfactory.ru" ](https://hackerone.com/reports/1166996) to Mail.ru - 23 upvotes, $0
 108. [Subdomain takeover due to an unclaimed Amazon S3 bucket on ███](https://hackerone.com/reports/918946) to U.S. Dept Of Defense - 22 upvotes, $0
-109. [Subdomain takeover of translate.uber.com, de.uber.com and fr.uber.com](https://hackerone.com/reports/149679) to Uber - 21 upvotes, $0
-110. [subdomain takeover disney.samokat.ru](https://hackerone.com/reports/1052819) to Mail.ru - 21 upvotes, $0
-111. [Broken subdomain takeover of runpanther which was pointing towards herokuapp](https://hackerone.com/reports/1379910) to Panther Labs - 21 upvotes, $0
-112. [Main Domain Takeover at  https://www.marketo.net/](https://hackerone.com/reports/1661914) to Adobe - 21 upvotes, $0
+109. [Main Domain Takeover at  https://www.marketo.net/](https://hackerone.com/reports/1661914) to Adobe - 22 upvotes, $0
+110. [Subdomain takeover of translate.uber.com, de.uber.com and fr.uber.com](https://hackerone.com/reports/149679) to Uber - 21 upvotes, $0
+111. [subdomain takeover disney.samokat.ru](https://hackerone.com/reports/1052819) to Mail.ru - 21 upvotes, $0
+112. [Broken subdomain takeover of runpanther which was pointing towards herokuapp](https://hackerone.com/reports/1379910) to Panther Labs - 21 upvotes, $0
 113. [Subdomain takeover on one of the subdomain under mozgcp.net](https://hackerone.com/reports/2190380) to Mozilla - 21 upvotes, $0
 114. [Subdomain Takeover in http://assets.goubiquiti.com/](https://hackerone.com/reports/109699) to Ubiquiti Inc. - 20 upvotes, $0
 115. [Subdomain take-over of {REDACTED}.18f.gov](https://hackerone.com/reports/263542) to GSA Bounty - 20 upvotes, $0
@@ -146,9 +146,9 @@ Top Subdomain Takeover reports from HackerOne:
 144. [Subdomain takeover of blog.snapchat.com](https://hackerone.com/reports/171942) to Snapchat - 14 upvotes, $0
 145. [URGENT - Subdomain Takeover on status.vimeo.com due to unclaimed domain pointing to statuspage.io](https://hackerone.com/reports/49663) to Vimeo - 14 upvotes, $0
 146. [Subdomain Takeover](https://hackerone.com/reports/1004604) to Mail.ru - 14 upvotes, $0
-147. [Subdomain takeover on s3.shopify.com](https://hackerone.com/reports/207576) to Shopify - 13 upvotes, $500
-148. [[supportlocal.delivery-club.ru] Subdomain Takeover](https://hackerone.com/reports/1054765) to Mail.ru - 13 upvotes, $500
-149. [Subdomain Takeover at course.oberlo.com](https://hackerone.com/reports/1690951) to Shopify - 13 upvotes, $0
+147. [Subdomain Takeover at course.oberlo.com](https://hackerone.com/reports/1690951) to Shopify - 14 upvotes, $0
+148. [Subdomain takeover on s3.shopify.com](https://hackerone.com/reports/207576) to Shopify - 13 upvotes, $500
+149. [[supportlocal.delivery-club.ru] Subdomain Takeover](https://hackerone.com/reports/1054765) to Mail.ru - 13 upvotes, $500
 150. [Subdomain takeover on slack.augur.net pointing to GitHub Pages](https://hackerone.com/reports/382995) to Augur - 12 upvotes, $250
 151. [Helpdesk takeover (subdomain takeover) in razerzone.com domain via unclaimed Zendesk instance](https://hackerone.com/reports/810807) to Razer - 12 upvotes, $250
 152. [[Critical] Subdomain Takeover](https://hackerone.com/reports/163790) to Instacart - 12 upvotes, $0

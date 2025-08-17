@@ -1,9 +1,9 @@
 Top reports from Brave Software program at HackerOne:
 
-1. [Brave Browser Tor Window leaks user's real IP to the external DNS server](https://hackerone.com/reports/1077022) to Brave Software - 279 upvotes, $0
+1. [Brave Browser Tor Window leaks user's real IP to the external DNS server](https://hackerone.com/reports/1077022) to Brave Software - 280 upvotes, $0
 2. [Open redirect due to scanning QR code via brave browser](https://hackerone.com/reports/1946534) to Brave Software - 141 upvotes, $0
 3. [Stored XSS in localhost:* via integrated torrent downloader](https://hackerone.com/reports/681617) to Brave Software - 123 upvotes, $0
-4. [Null Pointer Dereference by Crafted Response from AI Model](https://hackerone.com/reports/2958097) to Brave Software - 115 upvotes, $100
+4. [Null Pointer Dereference by Crafted Response from AI Model](https://hackerone.com/reports/2958097) to Brave Software - 114 upvotes, $100
 5. [ Incorrect security UI of files' download source on brave MacOS](https://hackerone.com/reports/2888770) to Brave Software - 84 upvotes, $0
 6. [Cookie steal through content Uri](https://hackerone.com/reports/876192) to Brave Software - 78 upvotes, $500
 7. [Local files reading from the web using `brave://`](https://hackerone.com/reports/390013) to Brave Software - 74 upvotes, $0

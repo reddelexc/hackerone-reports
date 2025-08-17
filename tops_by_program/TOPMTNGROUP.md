@@ -1,23 +1,23 @@
 Top reports from MTN Group program at HackerOne:
 
-1. [ SQL Injection on cookie parameter](https://hackerone.com/reports/761304) to MTN Group - 316 upvotes, $0
-2. [SQLi | in URL paths](https://hackerone.com/reports/2958619) to MTN Group - 134 upvotes, $0
-3. [Yet Another OTP code Leaked in the API Response](https://hackerone.com/reports/2635315) to MTN Group - 122 upvotes, $0
-4. [FULL ACCOUNT TAKEOVER](https://hackerone.com/reports/2542372) to MTN Group - 118 upvotes, $0
+1. [ SQL Injection on cookie parameter](https://hackerone.com/reports/761304) to MTN Group - 317 upvotes, $0
+2. [SQLi | in URL paths](https://hackerone.com/reports/2958619) to MTN Group - 136 upvotes, $0
+3. [Yet Another OTP code Leaked in the API Response](https://hackerone.com/reports/2635315) to MTN Group - 123 upvotes, $0
+4. [FULL ACCOUNT TAKEOVER](https://hackerone.com/reports/2542372) to MTN Group - 120 upvotes, $0
 5. [IDOR at mtnmobad.mtnbusiness.com.ng leads to PII leakage. ](https://hackerone.com/reports/1773609) to MTN Group - 114 upvotes, $0
-6. [SQL injection in URL path leads to Database Access](https://hackerone.com/reports/2633959) to MTN Group - 102 upvotes, $0
-7. [Reflected cross site scripting (XSS) attacks Reflected XSS attacks, ](https://hackerone.com/reports/1799197) to MTN Group - 99 upvotes, $0
-8. [DOM Based Reflected Cross Site Scripting](https://hackerone.com/reports/2321874) to MTN Group - 97 upvotes, $0
-9. [Authentication Bypass Leads To  Complete Account TakeveOver on ██████████](https://hackerone.com/reports/1709881) to MTN Group - 90 upvotes, $0
+6. [SQL injection in URL path leads to Database Access](https://hackerone.com/reports/2633959) to MTN Group - 103 upvotes, $0
+7. [Reflected cross site scripting (XSS) attacks Reflected XSS attacks, ](https://hackerone.com/reports/1799197) to MTN Group - 100 upvotes, $0
+8. [DOM Based Reflected Cross Site Scripting](https://hackerone.com/reports/2321874) to MTN Group - 98 upvotes, $0
+9. [Authentication Bypass Leads To  Complete Account TakeveOver on ██████████](https://hackerone.com/reports/1709881) to MTN Group - 91 upvotes, $0
 10. [Remote code execution [CVE-2023-36845]](https://hackerone.com/reports/2182202) to MTN Group - 85 upvotes, $0
-11. [IDOR Leads To  User Profile Modification https://mtnmobad.mtnbusiness.com.ng/app/updateUser](https://hackerone.com/reports/1714638) to MTN Group - 82 upvotes, $0
-12. [Ability to Add and Verify Uncontrolled Mobile Numbers Leading to Account Takeover (ATO)](https://hackerone.com/reports/2762462) to MTN Group - 80 upvotes, $0
-13. [cross site scripting reflected ](https://hackerone.com/reports/1496897) to MTN Group - 79 upvotes, $0
-14. [Improper Access Controls(Admin Path)](https://hackerone.com/reports/2342461) to MTN Group - 79 upvotes, $0
-15. [Unauthorized access to PII leads to Administrator account Takeover](https://hackerone.com/reports/2450685) to MTN Group - 74 upvotes, $0
+11. [IDOR Leads To  User Profile Modification https://mtnmobad.mtnbusiness.com.ng/app/updateUser](https://hackerone.com/reports/1714638) to MTN Group - 83 upvotes, $0
+12. [Improper Access Controls(Admin Path)](https://hackerone.com/reports/2342461) to MTN Group - 80 upvotes, $0
+13. [Ability to Add and Verify Uncontrolled Mobile Numbers Leading to Account Takeover (ATO)](https://hackerone.com/reports/2762462) to MTN Group - 80 upvotes, $0
+14. [cross site scripting reflected ](https://hackerone.com/reports/1496897) to MTN Group - 79 upvotes, $0
+15. [Unauthorized access to PII leads to Administrator account Takeover](https://hackerone.com/reports/2450685) to MTN Group - 75 upvotes, $0
 16. [OTP code Leaked in API Response ](https://hackerone.com/reports/2633888) to MTN Group - 73 upvotes, $0
-17. [Admin Dashboard Access Leads to Updating Merchant Info](https://hackerone.com/reports/2801787) to MTN Group - 70 upvotes, $0
-18. [Broken Access Control leads to disclosure of transaction history via /v2/rechargeTransactionHistory endpoint](https://hackerone.com/reports/2746709) to MTN Group - 70 upvotes, $0
+17. [Admin Dashboard Access Leads to Updating Merchant Info](https://hackerone.com/reports/2801787) to MTN Group - 72 upvotes, $0
+18. [Broken Access Control leads to disclosure of transaction history via /v2/rechargeTransactionHistory endpoint](https://hackerone.com/reports/2746709) to MTN Group - 72 upvotes, $0
 19. [Reflected XSS in https://nin.mtn.ng/nin/success?message=lol&nin=\<VULNERABLE\>](https://hackerone.com/reports/2039384) to MTN Group - 67 upvotes, $0
 20. [PHP info page disclosure in ██████████](https://hackerone.com/reports/1848780) to MTN Group - 62 upvotes, $0
 21. [Reflected - XSS](https://hackerone.com/reports/1779447) to MTN Group - 61 upvotes, $0
@@ -29,7 +29,7 @@ Top reports from MTN Group program at HackerOne:
 27. [Information disclosure via enabled Django Debug Mode ](https://hackerone.com/reports/2201370) to MTN Group - 53 upvotes, $0
 28. [Weak/Auto Fill Password](https://hackerone.com/reports/817331) to MTN Group - 52 upvotes, $0
 29. [SSRF Keycloak before 13.0.0 - CVE-2020-10770 on https://sponsoredata.mtn.ci](https://hackerone.com/reports/1379080) to MTN Group - 52 upvotes, $0
-30. [Insecure direct Object Reference(Horizontal Escalation)](https://hackerone.com/reports/2322663) to MTN Group - 52 upvotes, $0
+30. [Insecure direct Object Reference(Horizontal Escalation)](https://hackerone.com/reports/2322663) to MTN Group - 51 upvotes, $0
 31. [No rate limit in OTP code sending](https://hackerone.com/reports/1780399) to MTN Group - 47 upvotes, $0
 32. [Exposure Of Admin Username & Password](https://hackerone.com/reports/1703733) to MTN Group - 46 upvotes, $0
 33. [Cisco IOS XE instance at ████ vulnerable to CVE-██████](https://hackerone.com/reports/2778350) to MTN Group - 46 upvotes, $0
@@ -57,24 +57,24 @@ Top reports from MTN Group program at HackerOne:
 55. [Remote OS Command Execution on Oracle Weblogic server via [CVE-2017-10271]](https://hackerone.com/reports/810755) to MTN Group - 28 upvotes, $0
 56. [Cross-site Scripting (XSS) - Reflected on https://api.mtn.sd/carbon/admin/login.jsp via `msgId` parameter -  CVE-2020-17453](https://hackerone.com/reports/1158823) to MTN Group - 28 upvotes, $0
 57. [IDOR  [mtnmobad.mtnbusiness.com.ng]](https://hackerone.com/reports/1698006) to MTN Group - 27 upvotes, $0
-58. [Reflected Cross Site Scripting Cisco ASA on  myvpn.mtncameroon.net CVE-2020-3580](https://hackerone.com/reports/1247833) to MTN Group - 26 upvotes, $0
-59. [Remote OS Command Execution on Oracle Weblogic server via [CVE-2017-3506]](https://hackerone.com/reports/810778) to MTN Group - 25 upvotes, $0
-60. [IDOR Leads To Account Takeover Without User Interaction](https://hackerone.com/reports/1272478) to MTN Group - 25 upvotes, $0
+58. [IDOR Leads To Account Takeover Without User Interaction](https://hackerone.com/reports/1272478) to MTN Group - 26 upvotes, $0
+59. [Reflected Cross Site Scripting Cisco ASA on  myvpn.mtncameroon.net CVE-2020-3580](https://hackerone.com/reports/1247833) to MTN Group - 26 upvotes, $0
+60. [Remote OS Command Execution on Oracle Weblogic server via [CVE-2017-3506]](https://hackerone.com/reports/810778) to MTN Group - 25 upvotes, $0
 61. [Remove Every User, Admin, And Owner Out Of Their Teams on developers.mtn.com via IDOR + Information Disclosure](https://hackerone.com/reports/1448550) to MTN Group - 24 upvotes, $0
 62. [XMLRPC, Enabling XPSA and Bruteforce and DOS + A file disclosing installer-logs.](https://hackerone.com/reports/865875) to MTN Group - 23 upvotes, $0
 63. [RXSS - http://macademy.mtnonline.com](https://hackerone.com/reports/1091165) to MTN Group - 23 upvotes, $0
 64. [Reflected XSS on mtnhottseat.mtn.com.gh](https://hackerone.com/reports/1069527) to MTN Group - 22 upvotes, $0
 65. [path traversal vulnerability in Grafana 8.x allows " local file read "](https://hackerone.com/reports/1427086) to MTN Group - 22 upvotes, $0
-66. [Information Disclosure Leads To User Data Leak](https://hackerone.com/reports/1541660) to MTN Group - 22 upvotes, $0
-67. [Email verification bypassed during sing up (████████)](https://hackerone.com/reports/1182016) to MTN Group - 20 upvotes, $0
-68. [Download full backup  [Mtn.co.rw]](https://hackerone.com/reports/1516520) to MTN Group - 20 upvotes, $0
-69. [Otp  bypass in verifying nin](https://hackerone.com/reports/1314172) to MTN Group - 20 upvotes, $0
-70. [Cross-Site Request Forgery (CSRF) to xss](https://hackerone.com/reports/1183241) to MTN Group - 20 upvotes, $0
+66. [Otp  bypass in verifying nin](https://hackerone.com/reports/1314172) to MTN Group - 22 upvotes, $0
+67. [Cross-Site Request Forgery (CSRF) to xss](https://hackerone.com/reports/1183241) to MTN Group - 22 upvotes, $0
+68. [Information Disclosure Leads To User Data Leak](https://hackerone.com/reports/1541660) to MTN Group - 22 upvotes, $0
+69. [Email verification bypassed during sing up (████████)](https://hackerone.com/reports/1182016) to MTN Group - 20 upvotes, $0
+70. [Download full backup  [Mtn.co.rw]](https://hackerone.com/reports/1516520) to MTN Group - 20 upvotes, $0
 71. [OTP bypass - Unintended disclosure of OTP to client allows attacker to manage users' subscriptions](https://hackerone.com/reports/777957) to MTN Group - 19 upvotes, $0
 72. [Reflected XSS on dailydeals.mtn.co.za](https://hackerone.com/reports/1212235) to MTN Group - 19 upvotes, $0
 73. [Firebase credentials leak](https://hackerone.com/reports/1691888) to MTN Group - 19 upvotes, $0
-74. [Reflected XSS on play.mtn.co.za](https://hackerone.com/reports/1061199) to MTN Group - 17 upvotes, $0
-75. [PHP Info Exposing Secrets at https://radio.mtn.bj/info](https://hackerone.com/reports/1049402) to MTN Group - 17 upvotes, $0
+74. [PHP Info Exposing Secrets at https://radio.mtn.bj/info](https://hackerone.com/reports/1049402) to MTN Group - 18 upvotes, $0
+75. [Reflected XSS on play.mtn.co.za](https://hackerone.com/reports/1061199) to MTN Group - 17 upvotes, $0
 76. [Unsafe cors sharing of admin users ](https://hackerone.com/reports/772744) to MTN Group - 16 upvotes, $0
 77. [2x Remote file inclusion within your VMware Instances](https://hackerone.com/reports/1069105) to MTN Group - 16 upvotes, $0
 78. [[mtn.com.af] Multiple vulnerabilities allow to Application level DoS](https://hackerone.com/reports/946578) to MTN Group - 16 upvotes, $0
