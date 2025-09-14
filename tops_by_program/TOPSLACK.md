@@ -1,6 +1,6 @@
 Top reports from Slack program at HackerOne:
 
-1. [Mass account takeovers using HTTP Request Smuggling on https://slackb.com/ to steal session cookies](https://hackerone.com/reports/737140) to Slack - 854 upvotes, $0
+1. [Mass account takeovers using HTTP Request Smuggling on https://slackb.com/ to steal session cookies](https://hackerone.com/reports/737140) to Slack - 856 upvotes, $0
 2. [Remote Code Execution in Slack desktop apps + bonus](https://hackerone.com/reports/783877) to Slack - 504 upvotes, $0
 3. [XSS vulnerable parameter in a location hash](https://hackerone.com/reports/146336) to Slack - 451 upvotes, $0
 4. [URL link spoofing](https://hackerone.com/reports/481472) to Slack - 357 upvotes, $250
@@ -9,14 +9,14 @@ Top reports from Slack program at HackerOne:
 7. [Slack DTLS uses a private key that is in the public domain, which may lead to SRTP stream hijack](https://hackerone.com/reports/531032) to Slack - 167 upvotes, $2000
 8. [XSS in gist integration](https://hackerone.com/reports/11073) to Slack - 155 upvotes, $500
 9. [Unauthenticated LFI revealing log information](https://hackerone.com/reports/272578) to Slack - 119 upvotes, $0
-10. [Stealing xoxs-tokens using weak postMessage / call-popup redirect to current team domain](https://hackerone.com/reports/207170) to Slack - 117 upvotes, $0
+10. [Stealing xoxs-tokens using weak postMessage / call-popup redirect to current team domain](https://hackerone.com/reports/207170) to Slack - 118 upvotes, $0
 11. [Denial of Service via Hyperlinks in Posts](https://hackerone.com/reports/1077136) to Slack - 106 upvotes, $1500
 12. [Team members can trigger arbitrary code execution in Slack Desktop Apps via HTML Notifications](https://hackerone.com/reports/816156) to Slack - 104 upvotes, $0
 13. [Stored XSS on team.slack.com using new Markdown editor of posts inside the Editing mode and using javascript-URIs](https://hackerone.com/reports/132104) to Slack - 102 upvotes, $0
 14. [Ability to join an arbitrary workspace by utilizing a proxy to manipulate invite links](https://hackerone.com/reports/1716016) to Slack - 101 upvotes, $0
 15. [SSRF via Office file thumbnails](https://hackerone.com/reports/671935) to Slack - 99 upvotes, $4000
 16. [Lack of URL normalization renders Blocked-Previews feature ineffectual](https://hackerone.com/reports/1102764) to Slack - 99 upvotes, $1000
-17. [Tricking the "Create snippet" feature into displaying the wrong filetype can lead to RCE on Slack users](https://hackerone.com/reports/833080) to Slack - 97 upvotes, $1500
+17. [Tricking the "Create snippet" feature into displaying the wrong filetype can lead to RCE on Slack users](https://hackerone.com/reports/833080) to Slack - 98 upvotes, $1500
 18. [Real Time Error Logs Through Debug Information](https://hackerone.com/reports/503283) to Slack - 97 upvotes, $0
 19. [User-assisted RCE in Slack for macOS (from official site) due to improper quarantine meta-attribute handling for downloaded files](https://hackerone.com/reports/470637) to Slack - 95 upvotes, $0
 20. [Header modification results in disclosure of Slack infra metadata to unauthorized parties](https://hackerone.com/reports/727330) to Slack - 92 upvotes, $0
@@ -24,8 +24,8 @@ Top reports from Slack program at HackerOne:
 22. [SSRF in api.slack.com, using slash commands and bypassing the protections.](https://hackerone.com/reports/381129) to Slack - 80 upvotes, $0
 23. [Unauthorized access to GovSlack](https://hackerone.com/reports/1758174) to Slack - 78 upvotes, $1500
 24. [Bypass invite accept for victim](https://hackerone.com/reports/1663361) to Slack - 77 upvotes, $1500
-25. [OSX slack:// protocol handler javascript injection](https://hackerone.com/reports/79348) to Slack - 72 upvotes, $0
-26. [Stored XSS through PDF viewer](https://hackerone.com/reports/881557) to Slack - 71 upvotes, $4875
+25. [Stored XSS through PDF viewer](https://hackerone.com/reports/881557) to Slack - 72 upvotes, $4875
+26. [OSX slack:// protocol handler javascript injection](https://hackerone.com/reports/79348) to Slack - 72 upvotes, $0
 27. [Eavesdropping on private Slack calls](https://hackerone.com/reports/184698) to Slack - 67 upvotes, $1000
 28. [Access to some Slack workspace metadata and settings available to unauthorized parties](https://hackerone.com/reports/130133) to Slack - 57 upvotes, $7000
 29. [The Custom Emoji Page has a Reflected XSS](https://hackerone.com/reports/258198) to Slack - 55 upvotes, $0
@@ -49,9 +49,9 @@ Top reports from Slack program at HackerOne:
 47. [Access of Android protected components via embedded intent](https://hackerone.com/reports/200427) to Slack - 28 upvotes, $0
 48. [Subdomain takeover on podcasts.slack-core.com](https://hackerone.com/reports/195350) to Slack - 27 upvotes, $100
 49. [Race Condition in account survey](https://hackerone.com/reports/165570) to Slack - 27 upvotes, $0
-50. [Email html Injection](https://hackerone.com/reports/1461194) to Slack - 26 upvotes, $250
-51. [Source code leakage through GIT web access at host '52.91.137.42'](https://hackerone.com/reports/148068) to Slack - 26 upvotes, $0
-52. [Rate-limit bypass](https://hackerone.com/reports/165727) to Slack - 25 upvotes, $500
+50. [Rate-limit bypass](https://hackerone.com/reports/165727) to Slack - 26 upvotes, $500
+51. [Email html Injection](https://hackerone.com/reports/1461194) to Slack - 26 upvotes, $250
+52. [Source code leakage through GIT web access at host '52.91.137.42'](https://hackerone.com/reports/148068) to Slack - 26 upvotes, $0
 53. [[Screenhero] Subdomain takeover](https://hackerone.com/reports/142096) to Slack - 23 upvotes, $0
 54. [HTTP parameter pollution from outdated Greenhouse.io JS dependency](https://hackerone.com/reports/335339) to Slack - 23 upvotes, $0
 55. [CSRF in github integration](https://hackerone.com/reports/174328) to Slack - 22 upvotes, $500
@@ -71,14 +71,14 @@ Top reports from Slack program at HackerOne:
 69. [Open Redirect on slack.com](https://hackerone.com/reports/140447) to Slack - 11 upvotes, $500
 70. [Open redirect vulnerability ](https://hackerone.com/reports/2731) to Slack - 11 upvotes, $0
 71. [User can start call in a channel of an unpaid account](https://hackerone.com/reports/147369) to Slack - 10 upvotes, $100
-72. [Authentication bypass leads to sensitive data exposure (token+secret)](https://hackerone.com/reports/129918) to Slack - 9 upvotes, $2000
-73. [Relative Path Vulnerability Results in Arbitrary Command Execution/Privilege Escalation](https://hackerone.com/reports/784714) to Slack - 9 upvotes, $750
-74. [a stored xss issue in https://files.slack.com](https://hackerone.com/reports/149011) to Slack - 9 upvotes, $500
-75. [CSV export/import functionality allows administrators to modify member and message content of a workspace](https://hackerone.com/reports/1661310) to Slack - 9 upvotes, $250
-76. [Slack OAuth2 "redirect_uri" Bypass ](https://hackerone.com/reports/2575) to Slack - 9 upvotes, $0
-77. [Stored XSS Found](https://hackerone.com/reports/9774) to Slack - 9 upvotes, $0
-78. [Data exports stored on S3 can be scraped easily](https://hackerone.com/reports/2746) to Slack - 9 upvotes, $0
-79. [Creating Post on a restricted channel](https://hackerone.com/reports/151459) to Slack - 9 upvotes, $0
+72. [Slack OAuth2 "redirect_uri" Bypass ](https://hackerone.com/reports/2575) to Slack - 10 upvotes, $0
+73. [Creating Post on a restricted channel](https://hackerone.com/reports/151459) to Slack - 10 upvotes, $0
+74. [Authentication bypass leads to sensitive data exposure (token+secret)](https://hackerone.com/reports/129918) to Slack - 9 upvotes, $2000
+75. [Relative Path Vulnerability Results in Arbitrary Command Execution/Privilege Escalation](https://hackerone.com/reports/784714) to Slack - 9 upvotes, $750
+76. [a stored xss issue in https://files.slack.com](https://hackerone.com/reports/149011) to Slack - 9 upvotes, $500
+77. [CSV export/import functionality allows administrators to modify member and message content of a workspace](https://hackerone.com/reports/1661310) to Slack - 9 upvotes, $250
+78. [Stored XSS Found](https://hackerone.com/reports/9774) to Slack - 9 upvotes, $0
+79. [Data exports stored on S3 can be scraped easily](https://hackerone.com/reports/2746) to Slack - 9 upvotes, $0
 80. ["a stored xss issue in share post menu"](https://hackerone.com/reports/148848) to Slack - 8 upvotes, $500
 81. [Email enumeration](https://hackerone.com/reports/2766) to Slack - 8 upvotes, $0
 82. [Stored XSS in Slackbot Direct Messages](https://hackerone.com/reports/4561) to Slack - 8 upvotes, $0

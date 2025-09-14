@@ -1,45 +1,45 @@
 Top Authentication reports from HackerOne:
 
-1. [Potential pre-auth RCE on Twitter VPN](https://hackerone.com/reports/591295) to X / xAI - 1219 upvotes, $20160
-2. [Improper Authentication - any user can login as other user with otp/logout & otp/login](https://hackerone.com/reports/921780) to Snapchat - 943 upvotes, $0
+1. [Potential pre-auth RCE on Twitter VPN](https://hackerone.com/reports/591295) to X / xAI - 1220 upvotes, $20160
+2. [Improper Authentication - any user can login as other user with otp/logout & otp/login](https://hackerone.com/reports/921780) to Snapchat - 944 upvotes, $0
 3. [Subdomain Takeover to Authentication bypass ](https://hackerone.com/reports/335330) to Roblox - 767 upvotes, $0
 4. [[ RCE ] Through stopping the redirect in /admin/* the attacker able to bypass Authentication And Upload Malicious File](https://hackerone.com/reports/683957) to Mail.ru - 340 upvotes, $0
-5. [Shopify admin authentication bypass using partners.shopify.com](https://hackerone.com/reports/270981) to Shopify - 303 upvotes, $0
+5. [Shopify admin authentication bypass using partners.shopify.com](https://hackerone.com/reports/270981) to Shopify - 304 upvotes, $0
 6. [Bypass Password Authentication for updating email and phone number - Security Vulnerability](https://hackerone.com/reports/770504) to X / xAI - 281 upvotes, $0
-7. [Misuse of an authentication cookie combined with a path traversal on app.starbucks.com permitted access to restricted data](https://hackerone.com/reports/876295) to Starbucks - 231 upvotes, $0
-8. [Spring Actuator endpoints publicly available and broken authentication](https://hackerone.com/reports/838635) to LY Corporation - 229 upvotes, $12500
+7. [Misuse of an authentication cookie combined with a path traversal on app.starbucks.com permitted access to restricted data](https://hackerone.com/reports/876295) to Starbucks - 232 upvotes, $0
+8. [Spring Actuator endpoints publicly available and broken authentication](https://hackerone.com/reports/838635) to LY Corporation - 230 upvotes, $12500
 9. [Through blocking the redirect in /* the attacker able to bypass Authentication To see Sensitive Data sush as Game Keys , Emails ,..](https://hackerone.com/reports/736273) to Razer - 196 upvotes, $1000
-10. [1 Click Account Takeover via Auth Token Theft on marketing.hostinger.com](https://hackerone.com/reports/3081691) to hostinger  - 180 upvotes, $0
-11. [Authentication bypass on auth.uber.com via subdomain takeover of saostatic.uber.com](https://hackerone.com/reports/219205) to Uber - 178 upvotes, $0
+10. [1 Click Account Takeover via Auth Token Theft on marketing.hostinger.com](https://hackerone.com/reports/3081691) to hostinger  - 188 upvotes, $0
+11. [Authentication bypass on auth.uber.com via subdomain takeover of saostatic.uber.com](https://hackerone.com/reports/219205) to Uber - 179 upvotes, $0
 12. [Authentication bypass on gist.github.com through SSH Certificates](https://hackerone.com/reports/1901040) to GitHub - 174 upvotes, $10000
-13. [Web Authentication Endpoint Credentials Brute-Force Vulnerability](https://hackerone.com/reports/127844) to HackerOne - 158 upvotes, $0
+13. [Web Authentication Endpoint Credentials Brute-Force Vulnerability](https://hackerone.com/reports/127844) to HackerOne - 159 upvotes, $0
 14. [2-factor authentication can be disabled when logged in without confirming account password](https://hackerone.com/reports/783258) to Localize - 155 upvotes, $0
-15. [Account Takeover via Authentication Bypass in TikTok Account Recovery](https://hackerone.com/reports/2443228) to TikTok - 150 upvotes, $12000
+15. [Account Takeover via Authentication Bypass in TikTok Account Recovery](https://hackerone.com/reports/2443228) to TikTok - 153 upvotes, $12000
 16. [[c-api.city-mobil.ru] Client authentication bypass leads to information disclosure](https://hackerone.com/reports/772118) to Mail.ru - 143 upvotes, $0
 17. [Incorrect param parsing in Digits web authentication](https://hackerone.com/reports/126522) to X / xAI - 125 upvotes, $0
 18. [RCE/LFI on test Jenkins instance due to improper authentication flow](https://hackerone.com/reports/258117) to Snapchat - 113 upvotes, $0
-19. [Netlify Authentication Token Exposed in Public Mozilla CI Logs](https://hackerone.com/reports/2915647) to Mozilla - 110 upvotes, $1500
+19. [Netlify Authentication Token Exposed in Public Mozilla CI Logs](https://hackerone.com/reports/2915647) to Mozilla - 111 upvotes, $1500
 20. [Thailand - a small number of SMB CCTV footage backup servers were accessible without authentication.](https://hackerone.com/reports/417360) to Starbucks - 96 upvotes, $0
-21. [User account compromised authentication bypass via oauth token impersonation](https://hackerone.com/reports/739321) to Picsart - 95 upvotes, $0
+21. [User account compromised authentication bypass via oauth token impersonation](https://hackerone.com/reports/739321) to Picsart - 96 upvotes, $0
 22. [Admin Authentication Bypass Lead to Admin Account Takeover ](https://hackerone.com/reports/1490470) to UPS VDP - 95 upvotes, $0
-23. [Account Takeover via SMS Authentication Flow ](https://hackerone.com/reports/1245762) to Zenly - 91 upvotes, $0
-24. [Authentication Bypass Leads To  Complete Account TakeveOver on ██████████](https://hackerone.com/reports/1709881) to MTN Group - 91 upvotes, $0
+23. [Authentication Bypass Leads To  Complete Account TakeveOver on ██████████](https://hackerone.com/reports/1709881) to MTN Group - 92 upvotes, $0
+24. [Account Takeover via SMS Authentication Flow ](https://hackerone.com/reports/1245762) to Zenly - 91 upvotes, $0
 25. [SAML Authentication Bypass on uchat.uberinternal.com](https://hackerone.com/reports/223014) to Uber - 87 upvotes, $8500
 26. [Account takeover w/o interaction for a user that doesn't have 2fa enabled via 2fa linking and improper auth at /api/2fa/verify](https://hackerone.com/reports/810880) to Helium - 87 upvotes, $100
 27. [Improper Authentication Throttling Allows Attacker-Controlled Account Lockouts ](https://hackerone.com/reports/3160210) to Lichess - 87 upvotes, $0
 28. [Authentication Bypass on TikTok Seller Signup Process Allows Account Creation Without Phone Verification](https://hackerone.com/reports/2286745) to TikTok - 82 upvotes, $0
-29. [OneLogin authentication bypass on WordPress sites via XMLRPC](https://hackerone.com/reports/138869) to Uber - 80 upvotes, $7000
+29. [OneLogin authentication bypass on WordPress sites via XMLRPC](https://hackerone.com/reports/138869) to Uber - 81 upvotes, $7000
 30. [Docker Registry HTTP API v2 exposed in HTTP without authentication leads to docker images dumping and poisoning](https://hackerone.com/reports/347296) to Semmle - 80 upvotes, $0
 31. [Pre-auth Remote Code Execution on multiple Uber SSL VPN servers](https://hackerone.com/reports/540242) to Uber - 79 upvotes, $2000
-32. [Middleware Authentication Bypass on IBM Portal](https://hackerone.com/reports/3088290) to IBM - 78 upvotes, $0
+32. [Middleware Authentication Bypass on IBM Portal](https://hackerone.com/reports/3088290) to IBM - 79 upvotes, $0
 33. [Improper Authentication Allows Making Appeals as Other Users](https://hackerone.com/reports/2666323) to U.S. Dept Of Defense - 75 upvotes, $0
 34. [RCE, SQLi, IDOR, Auth Bypass and XSS at [staff.███.edu.eg ]](https://hackerone.com/reports/404874) to ██████ - 72 upvotes, $0
-35. [Authentication Bypass to (CVE-2023-2982)](https://hackerone.com/reports/2269989) to CS Money - 68 upvotes, $100
-36. [access to profile & reset password page without authentication](https://hackerone.com/reports/2213337) to Tennessee Valley Authority - 66 upvotes, $0
-37. [明確な認証不備および潜在的な中間者攻撃の可能性（Clear Authentication Deficiencies & Potential for Man-in-the-Middle Attacks）](https://hackerone.com/reports/2642615) to Sony - 66 upvotes, $0
+35. [Authentication Bypass to (CVE-2023-2982)](https://hackerone.com/reports/2269989) to CS Money - 69 upvotes, $100
+36. [明確な認証不備および潜在的な中間者攻撃の可能性（Clear Authentication Deficiencies & Potential for Man-in-the-Middle Attacks）](https://hackerone.com/reports/2642615) to Sony - 68 upvotes, $0
+37. [access to profile & reset password page without authentication](https://hackerone.com/reports/2213337) to Tennessee Valley Authority - 66 upvotes, $0
 38. [Broken Authentication - Security token gets captured via man in the middle attack](https://hackerone.com/reports/206650) to Automattic - 64 upvotes, $0
-39. [Improper Authentication (Login without Registration with any user) at ████](https://hackerone.com/reports/2334420) to U.S. Dept Of Defense - 63 upvotes, $0
-40. [Improper Authentication in Vimeo's API 'versions' endpoint.](https://hackerone.com/reports/328724) to Vimeo - 62 upvotes, $0
+39. [Improper Authentication (Login without Registration with any user) at ████](https://hackerone.com/reports/2334420) to U.S. Dept Of Defense - 64 upvotes, $0
+40. [Improper Authentication in Vimeo's API 'versions' endpoint.](https://hackerone.com/reports/328724) to Vimeo - 63 upvotes, $0
 41. [Two-factor authentication enforcement bypass](https://hackerone.com/reports/1050244) to Nextcloud - 61 upvotes, $750
 42. [Ability to access all user authentication tokens, leads to RCE](https://hackerone.com/reports/158330) to GitLab - 60 upvotes, $0
 43. [OneLogin authentication bypass on WordPress sites](https://hackerone.com/reports/136169) to Uber - 56 upvotes, $10000
@@ -73,11 +73,11 @@ Top Authentication reports from HackerOne:
 71. [Bypass Password Authentication to Update the Password](https://hackerone.com/reports/982293) to X / xAI - 37 upvotes, $0
 72. [[data-07.uberinternal.com] SSRF in Portainer app lead to access to Internal Docker API without Auth](https://hackerone.com/reports/366638) to Uber - 36 upvotes, $500
 73. [bypass two-factor authentication.](https://hackerone.com/reports/1842183) to LinkedIn - 36 upvotes, $0
-74. [Bypass  two-factor authentication](https://hackerone.com/reports/121696) to Slack - 35 upvotes, $0
-75. [Authentication Bypass - Chaining two vulnerabilities leads to account takeover at en.instagram-brand.com](https://hackerone.com/reports/209008) to Automattic - 35 upvotes, $0
-76. [Session Timeout Does Not Enforce Re-Authentication on AWS Access Portal](https://hackerone.com/reports/2800511) to AWS VDP - 35 upvotes, $0
+74. [Session Timeout Does Not Enforce Re-Authentication on AWS Access Portal](https://hackerone.com/reports/2800511) to AWS VDP - 36 upvotes, $0
+75. [Bypass  two-factor authentication](https://hackerone.com/reports/121696) to Slack - 35 upvotes, $0
+76. [Authentication Bypass - Chaining two vulnerabilities leads to account takeover at en.instagram-brand.com](https://hackerone.com/reports/209008) to Automattic - 35 upvotes, $0
 77. [Broken Authentication and session management OWASP A2](https://hackerone.com/reports/284) to HackerOne - 34 upvotes, $0
-78. [[jitsi-meet] Authentication Bypass when using JWT w/ public keys](https://hackerone.com/reports/1210502) to 8x8 Bounty - 34 upvotes, $0
+78. [[jitsi-meet] Authentication Bypass when using JWT w/ public keys](https://hackerone.com/reports/1210502) to 8x8 - 34 upvotes, $0
 79. [IBM Maximo Asset Management could allow a remote attacker to bypass authentication due to improper access controls](https://hackerone.com/reports/1933304) to IBM - 34 upvotes, $0
 80. [Improper Authentication on Alertmanager instance](https://hackerone.com/reports/2292236) to IBM - 33 upvotes, $0
 81. [Bypass two-factor authentication](https://hackerone.com/reports/1664974) to Cloudflare Public Bug Bounty - 32 upvotes, $250
@@ -92,15 +92,15 @@ Top Authentication reports from HackerOne:
 90. [CSRF in all API endpoints when authenticated using HTTP Authentication](https://hackerone.com/reports/195156) to Shopify - 28 upvotes, $0
 91. [Authentication bypass and RCE on the https://████ due to exposed Cisco TelePresence SX80 with default credentials](https://hackerone.com/reports/684070) to U.S. Dept Of Defense - 28 upvotes, $0
 92. [Developer uploaded files missing authentication on LINE GAME Developers site(gdc.game.line.me)](https://hackerone.com/reports/969605) to LY Corporation - 27 upvotes, $0
-93. [Username restriction bypass with SSL client authentication](https://hackerone.com/reports/480928) to Open-Xchange - 26 upvotes, $1000
-94. [Shop App - Attacker is able to intercept authorization code during authentication (OAuth) and is able to get access to Microsoft Outlook email account](https://hackerone.com/reports/1700734) to Shopify - 26 upvotes, $900
-95. [Uninstalling Rockstar Games Launcher for Windows (64-bit), then reinstalling keeps you logged in without authentication](https://hackerone.com/reports/1278261) to Rockstar Games - 26 upvotes, $250
-96. [Authentication Issue](https://hackerone.com/reports/176979) to Coinbase - 26 upvotes, $200
-97. [Docker Registry without authentication leads to docker images download](https://hackerone.com/reports/1989884) to U.S. Dept Of Defense - 26 upvotes, $0
-98. [TLS client authentication can be bypassed due to ticket resumption](https://hackerone.com/reports/2978267) to Internet Bug Bounty - 25 upvotes, $2162
-99. [Improper Authentication - 2FA OTP Reusable](https://hackerone.com/reports/2529780) to HackerOne - 25 upvotes, $0
-100. [Broken Authentication and Session Management](https://hackerone.com/reports/17474) to Phabricator - 24 upvotes, $0
-101. [Bypassing password authentication of users that have 2FA enabled](https://hackerone.com/reports/128085) to GitLab - 24 upvotes, $0
+93. [TLS client authentication can be bypassed due to ticket resumption](https://hackerone.com/reports/2978267) to Internet Bug Bounty - 26 upvotes, $2162
+94. [Username restriction bypass with SSL client authentication](https://hackerone.com/reports/480928) to Open-Xchange - 26 upvotes, $1000
+95. [Shop App - Attacker is able to intercept authorization code during authentication (OAuth) and is able to get access to Microsoft Outlook email account](https://hackerone.com/reports/1700734) to Shopify - 26 upvotes, $900
+96. [Uninstalling Rockstar Games Launcher for Windows (64-bit), then reinstalling keeps you logged in without authentication](https://hackerone.com/reports/1278261) to Rockstar Games - 26 upvotes, $250
+97. [Authentication Issue](https://hackerone.com/reports/176979) to Coinbase - 26 upvotes, $200
+98. [Docker Registry without authentication leads to docker images download](https://hackerone.com/reports/1989884) to U.S. Dept Of Defense - 26 upvotes, $0
+99. [Bypassing password authentication of users that have 2FA enabled](https://hackerone.com/reports/128085) to GitLab - 25 upvotes, $0
+100. [Improper Authentication - 2FA OTP Reusable](https://hackerone.com/reports/2529780) to HackerOne - 25 upvotes, $0
+101. [Broken Authentication and Session Management](https://hackerone.com/reports/17474) to Phabricator - 24 upvotes, $0
 102. [Two-factor authentication can be disabled when logged in without 2fa or password confirmation ](https://hackerone.com/reports/992450) to Zivver - 24 upvotes, $0
 103. [Bypassing Two-Factor Authentication via Account Deactivation and Password Reset](https://hackerone.com/reports/2543342) to HackerOne - 24 upvotes, $0
 104. [Authentication Bypass in login-token Authentication Method](https://hackerone.com/reports/1447619) to Rocket.Chat - 24 upvotes, $0
@@ -124,17 +124,17 @@ Top Authentication reports from HackerOne:
 122. [Two Factor Authentication Bypass](https://hackerone.com/reports/350288) to Ubiquiti Inc. - 17 upvotes, $0
 123. [Broken Authentication – Session Token bug](https://hackerone.com/reports/400826) to Weblate - 17 upvotes, $0
 124. [WEBrick::HTTPAuth::DigestAuth authentication is vulnerable to regular expression denial of service (ReDoS)](https://hackerone.com/reports/661722) to Ruby - 17 upvotes, $0
-125. [Authentication Bypass & ApacheTomcat Misconfiguration in [██]](https://hackerone.com/reports/1364022) to 8x8 Bounty - 17 upvotes, $0
+125. [Authentication Bypass & ApacheTomcat Misconfiguration in [██]](https://hackerone.com/reports/1364022) to 8x8 - 17 upvotes, $0
 126. [Dovecot authentication is vulnerable to timing attacks.](https://hackerone.com/reports/219607) to Open-Xchange - 16 upvotes, $600
 127. [Broken Authentication & Session Management (Login Bypass) at support.owox.com](https://hackerone.com/reports/222082) to OWOX, Inc. - 16 upvotes, $0
 128. [anti_ransomware_service.exe REST API does not require authentication](https://hackerone.com/reports/858608) to Acronis - 16 upvotes, $0
 129. [broken authentication (password reset link not expire after use   in  https://network.tochka.com/sign-up)](https://hackerone.com/reports/1401891) to QIWI - 16 upvotes, $0
-130. [Akismet API keys are exposed by authentication method](https://hackerone.com/reports/1736846) to Automattic - 16 upvotes, $0
-131. [Mobile Authentication Endpoint Credentials Brute-Force Vulnerability](https://hackerone.com/reports/127202) to New Relic - 15 upvotes, $0
-132. [Administration Authentication Bypass on https://█████](https://hackerone.com/reports/1146600) to U.S. Dept Of Defense - 15 upvotes, $0
-133. [Broken Authentication](https://hackerone.com/reports/409237) to U.S. Dept Of Defense - 15 upvotes, $0
-134. [Attacker can bypass authentication build on ingress external auth (`nginx.ingress.kubernetes.io/auth-url`)](https://hackerone.com/reports/1357948) to Kubernetes - 15 upvotes, $0
-135. [Authentication bypass in ████████](https://hackerone.com/reports/1747146) to MTN Group - 15 upvotes, $0
+130. [Authentication bypass in ████████](https://hackerone.com/reports/1747146) to MTN Group - 16 upvotes, $0
+131. [Akismet API keys are exposed by authentication method](https://hackerone.com/reports/1736846) to Automattic - 16 upvotes, $0
+132. [Mobile Authentication Endpoint Credentials Brute-Force Vulnerability](https://hackerone.com/reports/127202) to New Relic - 15 upvotes, $0
+133. [Administration Authentication Bypass on https://█████](https://hackerone.com/reports/1146600) to U.S. Dept Of Defense - 15 upvotes, $0
+134. [Broken Authentication](https://hackerone.com/reports/409237) to U.S. Dept Of Defense - 15 upvotes, $0
+135. [Attacker can bypass authentication build on ingress external auth (`nginx.ingress.kubernetes.io/auth-url`)](https://hackerone.com/reports/1357948) to Kubernetes - 15 upvotes, $0
 136. [Store Admin Page Accessible Without Authentication at http://www.grouplogic.com/ADMIN/store/index.cfm](https://hackerone.com/reports/1164854) to Acronis - 14 upvotes, $250
 137. [Leak of Platform Authentication credentials via Repeater](https://hackerone.com/reports/302651) to PortSwigger Web Security - 14 upvotes, $200
 138. [Broken authentication and session management flaw ](https://hackerone.com/reports/152080) to Coursera - 14 upvotes, $0
@@ -143,10 +143,10 @@ Top Authentication reports from HackerOne:
 141. [Elasticsearch is currently open without authentication on  https://██████l](https://hackerone.com/reports/2231261) to U.S. Dept Of Defense - 14 upvotes, $0
 142. [WordPress admin is accessible without HTTP authentication](https://hackerone.com/reports/1022267) to Showmax - 13 upvotes, $0
 143. [Improper Restriction of Excessive Authentication Attempts at http://terrafoot.ru/login.php (Rate Limit bypass via IP Rotation)](https://hackerone.com/reports/937592) to Mail.ru - 13 upvotes, $0
-144. [SSO Authentication Bypass](https://hackerone.com/reports/168108) to New Relic - 12 upvotes, $0
-145. [pre-auth Stored XSS in comments via javascript: url when administrator edits user supplied comment](https://hackerone.com/reports/633231) to WordPress - 12 upvotes, $0
-146. [Hi! Security Team Rocket.Chat, It's possible to get information about the users emails without authentication](https://hackerone.com/reports/1089116) to Rocket.Chat - 12 upvotes, $0
-147. [Post-Auth Blind NoSQL Injection in the users.list API leads to Remote Code Execution](https://hackerone.com/reports/1130874) to Rocket.Chat - 12 upvotes, $0
+144. [Post-Auth Blind NoSQL Injection in the users.list API leads to Remote Code Execution](https://hackerone.com/reports/1130874) to Rocket.Chat - 13 upvotes, $0
+145. [SSO Authentication Bypass](https://hackerone.com/reports/168108) to New Relic - 12 upvotes, $0
+146. [pre-auth Stored XSS in comments via javascript: url when administrator edits user supplied comment](https://hackerone.com/reports/633231) to WordPress - 12 upvotes, $0
+147. [Hi! Security Team Rocket.Chat, It's possible to get information about the users emails without authentication](https://hackerone.com/reports/1089116) to Rocket.Chat - 12 upvotes, $0
 148. [Disclosure of internal information using hidden NTLM authentication leading to an exploit server](https://hackerone.com/reports/853284) to MTN Group - 12 upvotes, $0
 149. [Unauthorized Access to Internal Server Panel without Authentication](https://hackerone.com/reports/1548067) to U.S. Dept Of Defense - 12 upvotes, $0
 150. [Authentication bypass and potential RCE on the https://████ due to exposed Cisco TelePresence SX80 with default credentials](https://hackerone.com/reports/684758) to U.S. Dept Of Defense - 12 upvotes, $0
@@ -202,19 +202,19 @@ Top Authentication reports from HackerOne:
 200. [Add me email address Authentication bypass](https://hackerone.com/reports/1607645) to LinkedIn - 7 upvotes, $0
 201. [Improper Restriction of Authentication Attempts in cURL](https://hackerone.com/reports/3030158) to curl - 7 upvotes, $0
 202. [Twitter Ads Campaign information disclosure through admin without any authentication.](https://hackerone.com/reports/49806) to X / xAI - 6 upvotes, $560
-203. [No rate-limit in Two factor Authentication leads to bypass using bruteforce attack](https://hackerone.com/reports/128777) to Algolia - 6 upvotes, $100
-204. [Bypassed password authentication before enabling OTP verification](https://hackerone.com/reports/124845) to Shopify - 6 upvotes, $0
-205. [Urgent : Disclosure of all the apps with hash ID in mopub through API request (Authentication bypass) ](https://hackerone.com/reports/98432) to X / xAI - 6 upvotes, $0
-206. [[gitmm.corp.mail.ru] Auth Bypass, Information Disclosure](https://hackerone.com/reports/99273) to Mail.ru - 6 upvotes, $0
-207. [Improper access control when an added email address is deleted from authentication](https://hackerone.com/reports/223434) to Weblate - 6 upvotes, $0
-208. [Configuration and/or source code files on uchat-staging.uberinternal.com can be viewed without OneLogin SSO Authentication ](https://hackerone.com/reports/298990) to Uber - 6 upvotes, $0
-209. [No authentication on email address for password reset functionality/ https://platform.thecoalition.com/forgot-password](https://hackerone.com/reports/315512) to Coalition, Inc. - 6 upvotes, $0
-210. [https://█████████ Vulnerable to CVE-2018-0296 Cisco ASA Path Traversal Authentication Bypass](https://hackerone.com/reports/622864) to U.S. Dept Of Defense - 6 upvotes, $0
-211. [Two-factor authentication (2FA) Bypass](https://hackerone.com/reports/708303) to BlockDev Sp. Z o.o - 6 upvotes, $0
-212. [Improper authentication on phpmyadmin portal which is hosted in https://eventapp.engelvoelkers.com](https://hackerone.com/reports/915813) to Engel & Völkers Technology GmbH - 6 upvotes, $0
-213. [Authentication Bypass - Email Verification code bypass in account registration process.](https://hackerone.com/reports/1406471) to UPchieve - 6 upvotes, $0
-214. [Pre-auth buffer over-read in Dovecot NTLM implementation](https://hackerone.com/reports/866597) to Open-Xchange - 5 upvotes, $550
-215. [Authentication Failed Mobile version](https://hackerone.com/reports/55530) to Shopify - 5 upvotes, $500
+203. [Authentication Failed Mobile version](https://hackerone.com/reports/55530) to Shopify - 6 upvotes, $500
+204. [No rate-limit in Two factor Authentication leads to bypass using bruteforce attack](https://hackerone.com/reports/128777) to Algolia - 6 upvotes, $100
+205. [Bypassed password authentication before enabling OTP verification](https://hackerone.com/reports/124845) to Shopify - 6 upvotes, $0
+206. [Urgent : Disclosure of all the apps with hash ID in mopub through API request (Authentication bypass) ](https://hackerone.com/reports/98432) to X / xAI - 6 upvotes, $0
+207. [[gitmm.corp.mail.ru] Auth Bypass, Information Disclosure](https://hackerone.com/reports/99273) to Mail.ru - 6 upvotes, $0
+208. [Improper access control when an added email address is deleted from authentication](https://hackerone.com/reports/223434) to Weblate - 6 upvotes, $0
+209. [Configuration and/or source code files on uchat-staging.uberinternal.com can be viewed without OneLogin SSO Authentication ](https://hackerone.com/reports/298990) to Uber - 6 upvotes, $0
+210. [No authentication on email address for password reset functionality/ https://platform.thecoalition.com/forgot-password](https://hackerone.com/reports/315512) to Coalition, Inc. - 6 upvotes, $0
+211. [https://█████████ Vulnerable to CVE-2018-0296 Cisco ASA Path Traversal Authentication Bypass](https://hackerone.com/reports/622864) to U.S. Dept Of Defense - 6 upvotes, $0
+212. [Two-factor authentication (2FA) Bypass](https://hackerone.com/reports/708303) to BlockDev Sp. Z o.o - 6 upvotes, $0
+213. [Improper authentication on phpmyadmin portal which is hosted in https://eventapp.engelvoelkers.com](https://hackerone.com/reports/915813) to Engel & Völkers Technology GmbH - 6 upvotes, $0
+214. [Authentication Bypass - Email Verification code bypass in account registration process.](https://hackerone.com/reports/1406471) to UPchieve - 6 upvotes, $0
+215. [Pre-auth buffer over-read in Dovecot NTLM implementation](https://hackerone.com/reports/866597) to Open-Xchange - 5 upvotes, $550
 216. [Broken Authentication on Badoo](https://hackerone.com/reports/121469) to Bumble - 5 upvotes, $427
 217. [Two-factor authentication (via SMS)](https://hackerone.com/reports/66223) to Coinbase - 5 upvotes, $0
 218. [Verification code issues for Two-Step Authentication](https://hackerone.com/reports/67660) to Automattic - 5 upvotes, $0
@@ -235,28 +235,28 @@ Top Authentication reports from HackerOne:
 233. [Top 10 2013-A2-Broken Authentication and Session Management - wordpress.com](https://hackerone.com/reports/18503) to Automattic - 4 upvotes, $0
 234. [broken authentication](https://hackerone.com/reports/23921) to Concrete CMS - 4 upvotes, $0
 235. [MD5 used for Key-Auth signatures](https://hackerone.com/reports/32944) to WP API - 4 upvotes, $0
-236. [apps.owncloud.com: SSL Server Allows Anonymous Authentication Vulnerability (SMTP)](https://hackerone.com/reports/83803) to ownCloud - 4 upvotes, $0
-237. [Authentication Data are not Clearing ](https://hackerone.com/reports/119262) to Udemy - 4 upvotes, $0
-238. [Authentication Bypassing and Sensitive Information Disclosure on Verify Email Address in Registration Flow](https://hackerone.com/reports/124151) to Eternal - 4 upvotes, $0
-239. [Critical IDOR - Get Authentication Details of any Terminal/Gatekeeper](https://hackerone.com/reports/120293) to Veris - 4 upvotes, $0
-240. [Missing authentication on Notification setting .](https://hackerone.com/reports/135891) to Uber - 4 upvotes, $0
-241. [Open Redirect via "next" parameter in third-party authentication](https://hackerone.com/reports/223326) to Weblate - 4 upvotes, $0
-242. [Can upload files without authentication on AirFibre 3.2](https://hackerone.com/reports/201529) to Ubiquiti Inc. - 4 upvotes, $0
-243. [Existing sessions valid after removing third party auth](https://hackerone.com/reports/223475) to Weblate - 4 upvotes, $0
-244. [█████████ - Insecure download cookie generation allows bypass of CAC authentication, access to deleted and locked files](https://hackerone.com/reports/496326) to U.S. Dept Of Defense - 4 upvotes, $0
-245. [[h1-2006 CTF] Multiple vulnerabilities leading to account takeover and two-factor authentication bypass allows to send pending bounty payments](https://hackerone.com/reports/895722) to h1-ctf - 4 upvotes, $0
-246. [[authmagic-timerange-stateless-core] Improper Authentication](https://hackerone.com/reports/736522) to Node.js third-party modules - 4 upvotes, $0
-247. [Grafana default username password authentication into the Grafana platform of the grafana.ev-cloud-platform.engelvoelkers.com](https://hackerone.com/reports/1102297) to Engel & Völkers Technology GmbH - 4 upvotes, $0
-248. [Potential Authentication Bypass through "autologin" feature](https://hackerone.com/reports/1081986) to ImpressCMS - 4 upvotes, $0
-249. [[Python] CWE-287: LDAP Improper Authentication](https://hackerone.com/reports/1287575) to GitHub Security Lab - 3 upvotes, $1800
-250. [[Python] CWE-522: Insecure LDAP Authentication](https://hackerone.com/reports/1350076) to GitHub Security Lab - 3 upvotes, $1800
-251. [Weak Random Number Generator for Auth Tokens](https://hackerone.com/reports/31166) to joola.io - 3 upvotes, $0
-252. [unvalid open authentication with facebook](https://hackerone.com/reports/44425) to Vimeo - 3 upvotes, $0
-253. [open authentication bug](https://hackerone.com/reports/48065) to Coinbase - 3 upvotes, $0
-254. [Authentication errors in server side validaton of E-MAIL](https://hackerone.com/reports/80883) to Gratipay - 3 upvotes, $0
-255. [Email Authentication Bypass](https://hackerone.com/reports/135283) to Paragon Initiative Enterprises - 3 upvotes, $0
-256. [No authentication required to add an email address.](https://hackerone.com/reports/139965) to Phabricator - 3 upvotes, $0
-257. [Authentication Issue for easter egg on bonjour.uber.com](https://hackerone.com/reports/146838) to Uber - 3 upvotes, $0
+236. [unvalid open authentication with facebook](https://hackerone.com/reports/44425) to Vimeo - 4 upvotes, $0
+237. [apps.owncloud.com: SSL Server Allows Anonymous Authentication Vulnerability (SMTP)](https://hackerone.com/reports/83803) to ownCloud - 4 upvotes, $0
+238. [Authentication Data are not Clearing ](https://hackerone.com/reports/119262) to Udemy - 4 upvotes, $0
+239. [Authentication Bypassing and Sensitive Information Disclosure on Verify Email Address in Registration Flow](https://hackerone.com/reports/124151) to Eternal - 4 upvotes, $0
+240. [Critical IDOR - Get Authentication Details of any Terminal/Gatekeeper](https://hackerone.com/reports/120293) to Veris - 4 upvotes, $0
+241. [Authentication Issue for easter egg on bonjour.uber.com](https://hackerone.com/reports/146838) to Uber - 4 upvotes, $0
+242. [Missing authentication on Notification setting .](https://hackerone.com/reports/135891) to Uber - 4 upvotes, $0
+243. [Open Redirect via "next" parameter in third-party authentication](https://hackerone.com/reports/223326) to Weblate - 4 upvotes, $0
+244. [Can upload files without authentication on AirFibre 3.2](https://hackerone.com/reports/201529) to Ubiquiti Inc. - 4 upvotes, $0
+245. [Existing sessions valid after removing third party auth](https://hackerone.com/reports/223475) to Weblate - 4 upvotes, $0
+246. [█████████ - Insecure download cookie generation allows bypass of CAC authentication, access to deleted and locked files](https://hackerone.com/reports/496326) to U.S. Dept Of Defense - 4 upvotes, $0
+247. [[h1-2006 CTF] Multiple vulnerabilities leading to account takeover and two-factor authentication bypass allows to send pending bounty payments](https://hackerone.com/reports/895722) to h1-ctf - 4 upvotes, $0
+248. [[authmagic-timerange-stateless-core] Improper Authentication](https://hackerone.com/reports/736522) to Node.js third-party modules - 4 upvotes, $0
+249. [Grafana default username password authentication into the Grafana platform of the grafana.ev-cloud-platform.engelvoelkers.com](https://hackerone.com/reports/1102297) to Engel & Völkers Technology GmbH - 4 upvotes, $0
+250. [Potential Authentication Bypass through "autologin" feature](https://hackerone.com/reports/1081986) to ImpressCMS - 4 upvotes, $0
+251. [[Python] CWE-287: LDAP Improper Authentication](https://hackerone.com/reports/1287575) to GitHub Security Lab - 3 upvotes, $1800
+252. [[Python] CWE-522: Insecure LDAP Authentication](https://hackerone.com/reports/1350076) to GitHub Security Lab - 3 upvotes, $1800
+253. [Weak Random Number Generator for Auth Tokens](https://hackerone.com/reports/31166) to joola.io - 3 upvotes, $0
+254. [open authentication bug](https://hackerone.com/reports/48065) to Coinbase - 3 upvotes, $0
+255. [Authentication errors in server side validaton of E-MAIL](https://hackerone.com/reports/80883) to Gratipay - 3 upvotes, $0
+256. [Email Authentication Bypass](https://hackerone.com/reports/135283) to Paragon Initiative Enterprises - 3 upvotes, $0
+257. [No authentication required to add an email address.](https://hackerone.com/reports/139965) to Phabricator - 3 upvotes, $0
 258. [The application uses basic authentication.](https://hackerone.com/reports/151847) to Nextcloud - 3 upvotes, $0
 259. [Not clearing hex-decoded variable after usage in Authentication](https://hackerone.com/reports/168293) to Paragon Initiative Enterprises - 3 upvotes, $0
 260. [Password authentication at newsletter.nextcloud.com discloses username list](https://hackerone.com/reports/476439) to Nextcloud - 3 upvotes, $0

@@ -1,13 +1,13 @@
 Top reports from Eternal program at HackerOne:
 
-1. [Stealing Zomato X-Access-Token: in Bulk using HTTP Request Smuggling on api.zomato.com](https://hackerone.com/reports/771666) to Eternal - 555 upvotes, $0
+1. [Stealing Zomato X-Access-Token: in Bulk using HTTP Request Smuggling on api.zomato.com](https://hackerone.com/reports/771666) to Eternal - 557 upvotes, $0
 2. [[www.zomato.com] SQLi - /php/██████████ - item_id](https://hackerone.com/reports/403616) to Eternal - 319 upvotes, $4500
-3. [Improper Validation at Partners Login](https://hackerone.com/reports/990048) to Eternal - 247 upvotes, $2000
-4. [[www.zomato.com] CORS Misconfiguration, could lead to disclosure of sensitive information](https://hackerone.com/reports/426165) to Eternal - 235 upvotes, $550
-5. [[www.zomato.com] Availing Zomato Gold membership for free by tampering plan id(s) ](https://hackerone.com/reports/511044) to Eternal - 227 upvotes, $0
-6. [SQL Injection in www.hyperpure.com](https://hackerone.com/reports/1044716) to Eternal - 223 upvotes, $2000
-7. [[www.zomato.com] Blind XSS on one of the Admin Dashboard](https://hackerone.com/reports/724889) to Eternal - 217 upvotes, $750
-8. [Information Disclosure through Sentry Instance ███████](https://hackerone.com/reports/697512) to Eternal - 174 upvotes, $750
+3. [Improper Validation at Partners Login](https://hackerone.com/reports/990048) to Eternal - 248 upvotes, $2000
+4. [[www.zomato.com] CORS Misconfiguration, could lead to disclosure of sensitive information](https://hackerone.com/reports/426165) to Eternal - 236 upvotes, $550
+5. [[www.zomato.com] Availing Zomato Gold membership for free by tampering plan id(s) ](https://hackerone.com/reports/511044) to Eternal - 228 upvotes, $0
+6. [SQL Injection in www.hyperpure.com](https://hackerone.com/reports/1044716) to Eternal - 224 upvotes, $2000
+7. [[www.zomato.com] Blind XSS on one of the Admin Dashboard](https://hackerone.com/reports/724889) to Eternal - 218 upvotes, $750
+8. [Information Disclosure through Sentry Instance ███████](https://hackerone.com/reports/697512) to Eternal - 175 upvotes, $750
 9. [Solr Injection in `user_id` parameter at :/v2/leaderboard_v2.json](https://hackerone.com/reports/952501) to Eternal - 136 upvotes, $2000
 10. [[api.zomato.com] Able to manipulate order amount](https://hackerone.com/reports/512968) to Eternal - 133 upvotes, $0
 11. [Able to manipulate order amount by removing cancellation amount and cause financial impact](https://hackerone.com/reports/614523) to Eternal - 127 upvotes, $0

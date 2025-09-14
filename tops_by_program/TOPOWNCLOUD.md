@@ -6,7 +6,7 @@ Top reports from ownCloud program at HackerOne:
 4. [Federated share permissions can be increased by recipient](https://hackerone.com/reports/1990443) to ownCloud - 28 upvotes, $500
 5. [Banner Grabbing - Apache Server Version Disclousure](https://hackerone.com/reports/269467) to ownCloud - 19 upvotes, $0
 6. [Arbitrary Code Injection in ownCloud’s Windows Client](https://hackerone.com/reports/155657) to ownCloud - 16 upvotes, $0
-7. [Remote Code Execution through Deserialization Attack in OwnBackup app.](https://hackerone.com/reports/562335) to ownCloud - 15 upvotes, $0
+7. [Remote Code Execution through Deserialization Attack in OwnBackup app.](https://hackerone.com/reports/562335) to ownCloud - 16 upvotes, $0
 8. [Remote Code Execution through "Files_antivirus" plugin](https://hackerone.com/reports/903872) to ownCloud - 14 upvotes, $0
 9. [GitHub Security Lab (GHSL) Vulnerability Report: Insufficient path validation in ReceiveExternalFilesActivity.java (GHSL-2022-060)](https://hackerone.com/reports/1650270) to ownCloud - 13 upvotes, $50
 10. [Theft of protected files on Android](https://hackerone.com/reports/1454002) to ownCloud - 11 upvotes, $50
