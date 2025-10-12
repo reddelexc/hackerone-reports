@@ -1,11 +1,11 @@
 Top OpenID reports from HackerOne:
 
-1. [Email Confirmation Bypass in myshop.myshopify.com that Leads to Full Privilege Escalation to Any Shop Owner by Taking Advantage of the Shopify SSO](https://hackerone.com/reports/791775) to Shopify - 1896 upvotes, $0
+1. [Email Confirmation Bypass in myshop.myshopify.com that Leads to Full Privilege Escalation to Any Shop Owner by Taking Advantage of the Shopify SSO](https://hackerone.com/reports/791775) to Shopify - 1900 upvotes, $0
 2. [Able to Takeover Merchants Accounts Even They Have Already Setup SSO, After Bypassing the Email Confirmation](https://hackerone.com/reports/796956) to Shopify - 307 upvotes, $0
-3. [Ability to DOS any organization's SSO and open up the door to account takeovers](https://hackerone.com/reports/976603) to Grammarly - 242 upvotes, $10500
-4. [Stealing SSO Login Tokens (snappublisher.snapchat.com)](https://hackerone.com/reports/265943) to Snapchat - 237 upvotes, $7500
-5. [HackerOne SAML signup domain enforcement bypass results in unauthorized access to HackerOne PullRequest organization](https://hackerone.com/reports/2101076) to HackerOne - 220 upvotes, $0
-6. [SAML Signature verification bypass allows logging into any user (with specific conditions)](https://hackerone.com/reports/2579939) to GitHub - 190 upvotes, $0
+3. [Ability to DOS any organization's SSO and open up the door to account takeovers](https://hackerone.com/reports/976603) to Grammarly - 245 upvotes, $10500
+4. [Stealing SSO Login Tokens (snappublisher.snapchat.com)](https://hackerone.com/reports/265943) to Snapchat - 239 upvotes, $7500
+5. [HackerOne SAML signup domain enforcement bypass results in unauthorized access to HackerOne PullRequest organization](https://hackerone.com/reports/2101076) to HackerOne - 221 upvotes, $0
+6. [SAML Signature verification bypass allows logging into any user (with specific conditions)](https://hackerone.com/reports/2579939) to GitHub - 191 upvotes, $0
 7. [Insecure Zendesk SSO implementation by generating JWT client-side](https://hackerone.com/reports/638635) to Trint Ltd - 98 upvotes, $0
 8. [SAML Authentication Bypass on uchat.uberinternal.com](https://hackerone.com/reports/223014) to Uber - 87 upvotes, $8500
 9. [Twitter SSO allows unverified e-mail registration, leads to Slack and social media hijacks](https://hackerone.com/reports/235139) to Zendesk - 70 upvotes, $0

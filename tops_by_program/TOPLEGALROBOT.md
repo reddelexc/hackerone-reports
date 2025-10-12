@@ -2,7 +2,7 @@ Top reports from Legal Robot program at HackerOne:
 
 1. [Remote Code Execution (upload)](https://hackerone.com/reports/116575) to Legal Robot - 60 upvotes, $0
 2. [Subdomain takeover at api.legalrobot.com due to non-used domain in Modulus.io.](https://hackerone.com/reports/148770) to Legal Robot - 33 upvotes, $0
-3. [Big XSS vulnerability!](https://hackerone.com/reports/216330) to Legal Robot - 28 upvotes, $0
+3. [Big XSS vulnerability!](https://hackerone.com/reports/216330) to Legal Robot - 29 upvotes, $0
 4. [Privilege Escalation to Admin-level Account](https://hackerone.com/reports/261285) to Legal Robot - 25 upvotes, $0
 5. [Bypass 8 chars password complexity with 6 chars only due to insecure password reset functionaliy](https://hackerone.com/reports/173195) to Legal Robot - 21 upvotes, $0
 6. [Intercom chat session information persists after logout](https://hackerone.com/reports/249798) to Legal Robot - 20 upvotes, $0

@@ -26,8 +26,8 @@ Top reports from VK.com program at HackerOne:
 24. [Отправка подарков/стикерпаков не теряя голоса.](https://hackerone.com/reports/729064) to VK.com - 30 upvotes, $200
 25. [XSS-уязвимость, связанная с загрузкой файлов](https://hackerone.com/reports/375886) to VK.com - 30 upvotes, $0
 26. [XSS в колбек апи в сообществах ](https://hackerone.com/reports/261966) to VK.com - 29 upvotes, $500
-27. [Open Redirect и подмена ссылки в сниппете приложения VKMA](https://hackerone.com/reports/1112342) to VK.com - 28 upvotes, $300
-28. [CSRF на загрузку аудиозаписей](https://hackerone.com/reports/329345) to VK.com - 28 upvotes, $100
+27. [CSRF на загрузку аудиозаписей](https://hackerone.com/reports/329345) to VK.com - 29 upvotes, $100
+28. [Open Redirect и подмена ссылки в сниппете приложения VKMA](https://hackerone.com/reports/1112342) to VK.com - 28 upvotes, $300
 29. [Доступ к администраторским faq ](https://hackerone.com/reports/370629) to VK.com - 27 upvotes, $500
 30. [XSS in vk.link](https://hackerone.com/reports/1025125) to VK.com - 27 upvotes, $300
 31. [Уязвимость в методе auth.restore](https://hackerone.com/reports/366153) to VK.com - 27 upvotes, $0
@@ -35,7 +35,7 @@ Top reports from VK.com program at HackerOne:
 33. [Просмотр закрытых фотографий](https://hackerone.com/reports/584582) to VK.com - 24 upvotes, $500
 34. [Уязвимый класс WebView](https://hackerone.com/reports/452835) to VK.com - 23 upvotes, $200
 35. [XSS в личных сообщениях](https://hackerone.com/reports/281851) to VK.com - 23 upvotes, $0
-36. [CSRF на установку своей почты к аккаунту.](https://hackerone.com/reports/301586) to VK.com - 22 upvotes, $0
+36. [CSRF на установку своей почты к аккаунту.](https://hackerone.com/reports/301586) to VK.com - 23 upvotes, $0
 37. [Обход 2ух-шаговой авторизации / 2FA Bypass](https://hackerone.com/reports/163834) to VK.com - 21 upvotes, $1000
 38. [Смотрим фотографии из частных/закрытых групп.](https://hackerone.com/reports/321594) to VK.com - 21 upvotes, $500
 39. [Reflected XSS в m.vk.com](https://hackerone.com/reports/311913) to VK.com - 21 upvotes, $500
@@ -71,23 +71,23 @@ Top reports from VK.com program at HackerOne:
 69. [Missing Server Side Rate Limiting can Lead to VK Account Take over ](https://hackerone.com/reports/202740) to VK.com - 14 upvotes, $400
 70. [Просмотр аватарки замороженной страницы/частной группы.](https://hackerone.com/reports/1268115) to VK.com - 14 upvotes, $300
 71. [Злом (virus).. Смотрим кто голосовал в анонимном опросе!!](https://hackerone.com/reports/388143) to VK.com - 14 upvotes, $200
-72. [Issue in the implementation of captcha and race condition](https://hackerone.com/reports/67562) to VK.com - 14 upvotes, $0
-73. [XSS в приглашении в группу](https://hackerone.com/reports/269940) to VK.com - 14 upvotes, $0
-74. [Просмотр записей пользователя, который тебя заблокировал](https://hackerone.com/reports/369063) to VK.com - 14 upvotes, $0
-75. [[m.vk.com] XSS на страницах /artist/ ](https://hackerone.com/reports/874198) to VK.com - 13 upvotes, $500
-76. [Отсутствие flood контроля в ИСТОРИЯХ вк](https://hackerone.com/reports/249786) to VK.com - 13 upvotes, $100
-77. [Раскрытие информации о частной группе или приложении](https://hackerone.com/reports/216289) to VK.com - 13 upvotes, $100
-78. [Отправляем смс на любой номер от имени vk.com.  (Сообщение в смс всегда одно и то же, его менять нельзя.)](https://hackerone.com/reports/1115759) to VK.com - 13 upvotes, $100
-79. [CSRF в виджетах ](https://hackerone.com/reports/1091296) to VK.com - 13 upvotes, $100
-80. [[Привязка email к странице] by admin@notify.vk.com | email-flood](https://hackerone.com/reports/344223) to VK.com - 13 upvotes, $0
-81. [Page replacement and redirect loop](https://hackerone.com/reports/64529) to VK.com - 13 upvotes, $0
-82. [Просмотр лайков и репостов фотографии, которая находятся в приватном альбоме](https://hackerone.com/reports/64754) to VK.com - 13 upvotes, $0
-83. [Новый 2FA Bypass](https://hackerone.com/reports/179421) to VK.com - 12 upvotes, $1000
-84. [XSS в обработчике ссылок](https://hackerone.com/reports/1073571) to VK.com - 12 upvotes, $700
-85. [CSRF в получении резервных токенов+framing , приводящие к компроментации 2fa](https://hackerone.com/reports/90165) to VK.com - 12 upvotes, $500
-86. [Open redirect на мобильной версии в контакте (m.vk.com](https://hackerone.com/reports/456963) to VK.com - 12 upvotes, $300
-87. [CSRF на сброс ключа трансляции.](https://hackerone.com/reports/230688) to VK.com - 12 upvotes, $100
-88. [CSRF в m.vk.com](https://hackerone.com/reports/300999) to VK.com - 12 upvotes, $100
+72. [CSRF в виджетах ](https://hackerone.com/reports/1091296) to VK.com - 14 upvotes, $100
+73. [Issue in the implementation of captcha and race condition](https://hackerone.com/reports/67562) to VK.com - 14 upvotes, $0
+74. [XSS в приглашении в группу](https://hackerone.com/reports/269940) to VK.com - 14 upvotes, $0
+75. [Просмотр записей пользователя, который тебя заблокировал](https://hackerone.com/reports/369063) to VK.com - 14 upvotes, $0
+76. [[m.vk.com] XSS на страницах /artist/ ](https://hackerone.com/reports/874198) to VK.com - 13 upvotes, $500
+77. [Отсутствие flood контроля в ИСТОРИЯХ вк](https://hackerone.com/reports/249786) to VK.com - 13 upvotes, $100
+78. [Раскрытие информации о частной группе или приложении](https://hackerone.com/reports/216289) to VK.com - 13 upvotes, $100
+79. [Отправляем смс на любой номер от имени vk.com.  (Сообщение в смс всегда одно и то же, его менять нельзя.)](https://hackerone.com/reports/1115759) to VK.com - 13 upvotes, $100
+80. [CSRF в m.vk.com](https://hackerone.com/reports/300999) to VK.com - 13 upvotes, $100
+81. [[Привязка email к странице] by admin@notify.vk.com | email-flood](https://hackerone.com/reports/344223) to VK.com - 13 upvotes, $0
+82. [Page replacement and redirect loop](https://hackerone.com/reports/64529) to VK.com - 13 upvotes, $0
+83. [Просмотр лайков и репостов фотографии, которая находятся в приватном альбоме](https://hackerone.com/reports/64754) to VK.com - 13 upvotes, $0
+84. [Новый 2FA Bypass](https://hackerone.com/reports/179421) to VK.com - 12 upvotes, $1000
+85. [XSS в обработчике ссылок](https://hackerone.com/reports/1073571) to VK.com - 12 upvotes, $700
+86. [CSRF в получении резервных токенов+framing , приводящие к компроментации 2fa](https://hackerone.com/reports/90165) to VK.com - 12 upvotes, $500
+87. [Open redirect на мобильной версии в контакте (m.vk.com](https://hackerone.com/reports/456963) to VK.com - 12 upvotes, $300
+88. [CSRF на сброс ключа трансляции.](https://hackerone.com/reports/230688) to VK.com - 12 upvotes, $100
 89. [Хранимая XSS в функционале добавления аудио в WYSIWYG](https://hackerone.com/reports/274112) to VK.com - 11 upvotes, $500
 90. [XSS в названии звонка](https://hackerone.com/reports/1056953) to VK.com - 11 upvotes, $500
 91. [Обходим 2FA и/или получаем access_token, если мы когда-либо были на аккаунте жертвы](https://hackerone.com/reports/316078) to VK.com - 11 upvotes, $300

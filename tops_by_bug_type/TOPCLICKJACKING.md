@@ -7,13 +7,13 @@ Top Clickjacking reports from HackerOne:
 5. [Clickjacking in main domain https://topechelon.com/](https://hackerone.com/reports/2964441) to Top Echelon Software - 79 upvotes, $0
 6. [Viral Direct Message Clickjacking via link truncation leading to capture of both Google credentials & installation of malicious 3rd party Twitter App](https://hackerone.com/reports/643274) to X / xAI - 64 upvotes, $0
 7. [Sensitive Clickjacking on admin login page.](https://hackerone.com/reports/389145) to Shipt - 55 upvotes, $0
-8. [Double Clickjacking Attack on WakaTime OAuth Authorization Flow at https://wakatime.com/oauth/authorize](https://hackerone.com/reports/3287060) to WakaTime - 52 upvotes, $0
+8. [Double Clickjacking Attack on WakaTime OAuth Authorization Flow at https://wakatime.com/oauth/authorize](https://hackerone.com/reports/3287060) to WakaTime - 54 upvotes, $0
 9. [Stealing User emails by clickjacking cards.twitter.com/xxx/xxx](https://hackerone.com/reports/154963) to X / xAI - 49 upvotes, $0
 10. [Clickjacking vkpay](https://hackerone.com/reports/374817) to VK.com - 44 upvotes, $0
 11. [[api.tumblr.com] Exploiting clickjacking vulnerability to trigger self DOM-based XSS](https://hackerone.com/reports/953579) to Automattic - 30 upvotes, $0
 12. [URL is vulnerable to clickjacking  https://app.passit.io/](https://hackerone.com/reports/530008) to Passit - 28 upvotes, $0
 13. [Clickjacking Vulnerability Can Leads To Delete Developer APP](https://hackerone.com/reports/1416612) to TikTok - 25 upvotes, $500
-14. [Clickjacking at ylands.com](https://hackerone.com/reports/405342) to BOHEMIA INTERACTIVE a.s. - 21 upvotes, $80
+14. [Clickjacking at ylands.com](https://hackerone.com/reports/405342) to BOHEMIA INTERACTIVE a.s. - 22 upvotes, $80
 15. [Clickjacking in the admin page](https://hackerone.com/reports/728004) to Rocket.Chat - 20 upvotes, $0
 16. [CRITICAL-CLICKJACKING at Yelp Reservations Resulting in exposure of victim Private Data (Email info) + Victim Credit Card MissUse. ](https://hackerone.com/reports/355859) to Yelp - 18 upvotes, $0
 17. [Clickjacking on cas.acronis.com login page](https://hackerone.com/reports/971234) to Acronis - 18 upvotes, $0

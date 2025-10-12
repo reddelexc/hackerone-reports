@@ -3,7 +3,7 @@ Top reports from Weblate program at HackerOne:
 1. [exposure of personal IP address via email.](https://hackerone.com/reports/3179850) to Weblate - 59 upvotes, $0
 2. [Reset password cookie leads to account takeover](https://hackerone.com/reports/1004536) to Weblate - 37 upvotes, $0
 3. [no captcha for register user and weak question attacker can spam email](https://hackerone.com/reports/236398) to Weblate - 28 upvotes, $0
-4. [CSRF with logout action](https://hackerone.com/reports/1971589) to Weblate - 27 upvotes, $0
+4. [CSRF with logout action](https://hackerone.com/reports/1971589) to Weblate - 28 upvotes, $0
 5. [Open Github Repo Leaking WEBLATE SECRET KEY](https://hackerone.com/reports/942146) to Weblate - 22 upvotes, $0
 6. [HTML injection and information disclosure in support panel](https://hackerone.com/reports/634312) to Weblate - 20 upvotes, $0
 7. [Race Condition allows to get more free trials and get more than 100 languages and strings for free](https://hackerone.com/reports/1087188) to Weblate - 18 upvotes, $0
@@ -13,10 +13,10 @@ Top reports from Weblate program at HackerOne:
 11. [Insecure Account Removal #2](https://hackerone.com/reports/229532) to Weblate - 15 upvotes, $0
 12. [Password Restriction](https://hackerone.com/reports/229920) to Weblate - 12 upvotes, $0
 13. [DKIM records not present, Email Hijacking is possible.....](https://hackerone.com/reports/253926) to Weblate - 12 upvotes, $0
-14. [no notification send to victim if attacker hacks/accesses his victims WebLate account.](https://hackerone.com/reports/282772) to Weblate - 11 upvotes, $0
-15. [flood of comment no rate  limit on commnets \>\>  by using different user agent ](https://hackerone.com/reports/404035) to Weblate - 11 upvotes, $0
-16. [Stored XSS via Create Project (Add new translation project)](https://hackerone.com/reports/610219) to Weblate - 11 upvotes, $0
-17. [No rate limiting for Remove Account lead to huge Mass mailings](https://hackerone.com/reports/1723445) to Weblate - 11 upvotes, $0
+14. [No rate limiting for Remove Account lead to huge Mass mailings](https://hackerone.com/reports/1723445) to Weblate - 12 upvotes, $0
+15. [no notification send to victim if attacker hacks/accesses his victims WebLate account.](https://hackerone.com/reports/282772) to Weblate - 11 upvotes, $0
+16. [flood of comment no rate  limit on commnets \>\>  by using different user agent ](https://hackerone.com/reports/404035) to Weblate - 11 upvotes, $0
+17. [Stored XSS via Create Project (Add new translation project)](https://hackerone.com/reports/610219) to Weblate - 11 upvotes, $0
 18. [Login CSRF : Login Authentication Flaw](https://hackerone.com/reports/229528) to Weblate - 10 upvotes, $0
 19. [Rate Limit Issue on hosted.weblate.org](https://hackerone.com/reports/229825) to Weblate - 10 upvotes, $0
 20. [Weak password policy](https://hackerone.com/reports/224572) to Weblate - 10 upvotes, $0

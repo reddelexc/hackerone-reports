@@ -5,14 +5,14 @@ Top reports from Node.js program at HackerOne:
 3. [HTTP request smuggling using malformed Transfer-Encoding header](https://hackerone.com/reports/735748) to Node.js - 103 upvotes, $0
 4. ["Assertion failed" in node::http2::Http2Session::~Http2Session() leads to HTTP/2 server crash](https://hackerone.com/reports/2319584) to Node.js - 65 upvotes, $0
 5. [Path traversal by drive name in Windows environment](https://hackerone.com/reports/2307225) to Node.js - 59 upvotes, $0
-6. [Corrupted pointer in node::fs::ReadFileUtf8(const FunctionCallbackInfo\<Value\>& args) when args[0] is a string.](https://hackerone.com/reports/3083428) to Node.js - 57 upvotes, $0
-7. [HashDoS in V8](https://hackerone.com/reports/3131758) to Node.js - 51 upvotes, $0
-8. [CWE-195 in ExternalMemoryAccounter::Increase()](https://hackerone.com/reports/3302484) to Node.js - 51 upvotes, $0
+6. [Corrupted pointer in node::fs::ReadFileUtf8(const FunctionCallbackInfo\<Value\>& args) when args[0] is a string.](https://hackerone.com/reports/3083428) to Node.js - 59 upvotes, $0
+7. [CWE-195 in ExternalMemoryAccounter::Increase()](https://hackerone.com/reports/3302484) to Node.js - 54 upvotes, $0
+8. [HashDoS in V8](https://hackerone.com/reports/3131758) to Node.js - 52 upvotes, $0
 9. [Http request splitting](https://hackerone.com/reports/409943) to Node.js - 44 upvotes, $0
 10. [WASI sandbox escape via symlink](https://hackerone.com/reports/2084280) to Node.js - 44 upvotes, $0
-11. [Worker permission bypass via InternalWorker leak in diagnostics](https://hackerone.com/reports/2575105) to Node.js - 40 upvotes, $0
-12. [Windows Device Names Still Allow Path Traversal in UNC Paths After CVE-2025-27210 Fix](https://hackerone.com/reports/3255707) to Node.js - 37 upvotes, $0
-13. [Improper error handling in async cryptographic operations crashes process](https://hackerone.com/reports/2817648) to Node.js - 36 upvotes, $0
+11. [Worker permission bypass via InternalWorker leak in diagnostics](https://hackerone.com/reports/2575105) to Node.js - 41 upvotes, $0
+12. [Improper error handling in async cryptographic operations crashes process](https://hackerone.com/reports/2817648) to Node.js - 37 upvotes, $0
+13. [Windows Device Names Still Allow Path Traversal in UNC Paths After CVE-2025-27210 Fix](https://hackerone.com/reports/3255707) to Node.js - 37 upvotes, $0
 14. [registry.nodejs.org Subdomain Takeover](https://hackerone.com/reports/340580) to Node.js - 35 upvotes, $0
 15. [Path traversal by monkey-patching Buffer internals](https://hackerone.com/reports/2218653) to Node.js - 35 upvotes, $0
 16. [Permission model improperly processes UNC paths](https://hackerone.com/reports/2079103) to Node.js - 35 upvotes, $0
@@ -40,7 +40,7 @@ Top reports from Node.js program at HackerOne:
 38. [Prototype pollution via console.table properties](https://hackerone.com/reports/1431042) to Node.js - 15 upvotes, $0
 39. [DNS rebinding in --inspect (insufficient fix of CVE-2022-32212 affecting macOS devices)](https://hackerone.com/reports/1632921) to Node.js - 15 upvotes, $0
 40. [Node.js is vulnerable to the Marvin Attack (timing variant of the Bleichenbacher attack against PKCS#1 v1.5 padding)](https://hackerone.com/reports/2269177) to Node.js - 15 upvotes, $0
-41. [Malformed HTTP/2 SETTINGS frame leads to reachable assert](https://hackerone.com/reports/800140) to Node.js - 13 upvotes, $250
+41. [Malformed HTTP/2 SETTINGS frame leads to reachable assert](https://hackerone.com/reports/800140) to Node.js - 14 upvotes, $250
 42. [http: Reading unprocessed HTTP request with unbounded chunk extension allows DoS attacks](https://hackerone.com/reports/2233486) to Node.js - 13 upvotes, $0
 43. [GOAWAY HTTP/2 frames cause memory leak outside heap](https://hackerone.com/reports/2841362) to Node.js - 13 upvotes, $0
 44. [Off-by-slash vulnerability in nodejs.org and iojs.org](https://hackerone.com/reports/1631350) to Node.js - 12 upvotes, $0

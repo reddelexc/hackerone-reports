@@ -1,6 +1,6 @@
 Top Web Cache reports from HackerOne:
 
-1. [DoS on PayPal via web cache poisoning](https://hackerone.com/reports/622122) to PayPal - 841 upvotes, $9700
+1. [DoS on PayPal via web cache poisoning](https://hackerone.com/reports/622122) to PayPal - 843 upvotes, $9700
 2. [Web cache poisoning attack leads to user information and more](https://hackerone.com/reports/492841) to Postmates - 343 upvotes, $500
 3. [Web Cache Poisoning leads to Stored XSS ](https://hackerone.com/reports/1424094) to Glassdoor - 129 upvotes, $0
 4. [Defacement of catalog.data.gov via web cache poisoning to stored DOMXSS](https://hackerone.com/reports/303730) to GSA Bounty - 90 upvotes, $750
@@ -24,9 +24,9 @@ Top Web Cache reports from HackerOne:
 22. [https://help.nextcloud.com::: Web cache poisoning attack](https://hackerone.com/reports/429747) to Nextcloud - 23 upvotes, $0
 23. [Web cache information leakage at sbermarket.ru](https://hackerone.com/reports/893353) to Mail.ru - 22 upvotes, $400
 24. [[*.rocketbank.ru] Web Cache Deception & XSS](https://hackerone.com/reports/415168) to QIWI - 21 upvotes, $0
-25. [Web Cache Poisoning leading to DoS](https://hackerone.com/reports/1346618) to U.S. General Services Administration - 18 upvotes, $0
-26. [Web Cache Poisoning](https://hackerone.com/reports/534297) to Mail.ru - 17 upvotes, $0
-27. [Several domains on kaspersky.com are vulnerable to Web Cache Deception attack](https://hackerone.com/reports/1185028) to Kaspersky - 17 upvotes, $0
+25. [Several domains on kaspersky.com are vulnerable to Web Cache Deception attack](https://hackerone.com/reports/1185028) to Kaspersky - 18 upvotes, $0
+26. [Web Cache Poisoning leading to DoS](https://hackerone.com/reports/1346618) to U.S. General Services Administration - 18 upvotes, $0
+27. [Web Cache Poisoning](https://hackerone.com/reports/534297) to Mail.ru - 17 upvotes, $0
 28. [Information Leakage via TikTok Ads Web Cache Deception](https://hackerone.com/reports/1484468) to TikTok - 14 upvotes, $200
 29. [[okmedia.insideok.ru] Web Cache Poisoing & XSS](https://hackerone.com/reports/550266) to ok.ru - 13 upvotes, $0
 30. [Web cache deception attack - expose earning state information](https://hackerone.com/reports/439021) to Semrush - 9 upvotes, $0

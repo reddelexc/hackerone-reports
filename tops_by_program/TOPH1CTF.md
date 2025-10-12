@@ -1,6 +1,6 @@
 Top reports from h1-ctf program at HackerOne:
 
-1. [How The Hackers Saved Christmas](https://hackerone.com/reports/1069335) to h1-ctf - 178 upvotes, $0
+1. [How The Hackers Saved Christmas](https://hackerone.com/reports/1069335) to h1-ctf - 179 upvotes, $0
 2. [[H1-415 2020] CTF Writeup](https://hackerone.com/reports/776634) to h1-ctf - 106 upvotes, $0
 3. [[h1-415 2020] Spent a week and failed at solving the last step.](https://hackerone.com/reports/781265) to h1-ctf - 97 upvotes, $0
 4. [[H1-2006 2020] I successfully solved it!](https://hackerone.com/reports/887818) to h1-ctf - 64 upvotes, $0
@@ -8,9 +8,9 @@ Top reports from h1-ctf program at HackerOne:
 6. [12 Days of Hacky Holidays write-up, but as a text-based RPG?](https://hackerone.com/reports/1066851) to h1-ctf - 44 upvotes, $0
 7. [[H1-2006 2020]  Connecting the dots to send hackers their Bug Bounty](https://hackerone.com/reports/889886) to h1-ctf - 30 upvotes, $0
 8. [[H1-2006 2020] I made the CEO's bounty payment!](https://hackerone.com/reports/887816) to h1-ctf - 28 upvotes, $0
-9. [H1-CTF 100k Solution - Congratz on the 100k Rep todayisnew](https://hackerone.com/reports/1216408) to h1-ctf - 24 upvotes, $0
+9. [H1-CTF 100k Solution - Congratz on the 100k Rep todayisnew](https://hackerone.com/reports/1216408) to h1-ctf - 25 upvotes, $0
 10. [[H1-2006 2020] Bypassing access control checks by modifying the URL, internal application state, or the HTML page, or using a custom API attack tool](https://hackerone.com/reports/895172) to h1-ctf - 23 upvotes, $0
-11. [[H1-2006 2020] H1-2006 CTF Writeup](https://hackerone.com/reports/887611) to h1-ctf - 21 upvotes, $0
+11. [[H1-2006 2020] H1-2006 CTF Writeup](https://hackerone.com/reports/887611) to h1-ctf - 22 upvotes, $0
 12. [[h1-415 2020] I got the flag](https://hackerone.com/reports/777099) to h1-ctf - 20 upvotes, $0
 13. [Saving Christmas from Grinchy Gods](https://hackerone.com/reports/1434017) to h1-ctf - 19 upvotes, $0
 14. [[h1-415 2020] I found Joberts missing file!](https://hackerone.com/reports/780676) to h1-ctf - 18 upvotes, $0
@@ -23,15 +23,15 @@ Top reports from h1-ctf program at HackerOne:
 21. [100K CTF's Writeup](https://hackerone.com/reports/1216591) to h1-ctf - 15 upvotes, $0
 22. [HackerOne’s 100K CTF Writeup](https://hackerone.com/reports/1218708) to h1-ctf - 15 upvotes, $0
 23. [Solution for hackyholiday](https://hackerone.com/reports/1065495) to h1-ctf - 14 upvotes, $500
-24. [[h1-415 2020] Solution for h1415's CTF challenge](https://hackerone.com/reports/776699) to h1-ctf - 13 upvotes, $0
-25. [[h1-415 2020] My writeup on how to retrieve the special secret document](https://hackerone.com/reports/776684) to h1-ctf - 13 upvotes, $0
+24. [[h1-415 2020] My writeup on how to retrieve the special secret document](https://hackerone.com/reports/776684) to h1-ctf - 14 upvotes, $0
+25. [[h1-415 2020] Solution for h1415's CTF challenge](https://hackerone.com/reports/776699) to h1-ctf - 13 upvotes, $0
 26. [[H1-2006 2020] CTF Writeup!](https://hackerone.com/reports/889293) to h1-ctf - 13 upvotes, $0
 27. [[H1-2006 2020]  36 hours of brain cycles utilized on solving a neat puzzle](https://hackerone.com/reports/889793) to h1-ctf - 13 upvotes, $0
 28. [[H1-2006 2020] CTF Writeup](https://hackerone.com/reports/888939) to h1-ctf - 13 upvotes, $0
-29. [Adam and the  Deadly  Injections](https://hackerone.com/reports/1217702) to h1-ctf - 13 upvotes, $0
-30. [ccc ctf ](https://hackerone.com/reports/1216085) to h1-ctf - 13 upvotes, $0
-31. [[h1-2006 2020] Bounty payments are done !](https://hackerone.com/reports/895824) to h1-ctf - 12 upvotes, $0
-32. [[100K-ctf] Multiple vulnerabilities leading to compromise of Pinger instance.](https://hackerone.com/reports/1215867) to h1-ctf - 12 upvotes, $0
+29. [[100K-ctf] Multiple vulnerabilities leading to compromise of Pinger instance.](https://hackerone.com/reports/1215867) to h1-ctf - 13 upvotes, $0
+30. [Adam and the  Deadly  Injections](https://hackerone.com/reports/1217702) to h1-ctf - 13 upvotes, $0
+31. [ccc ctf ](https://hackerone.com/reports/1216085) to h1-ctf - 13 upvotes, $0
+32. [[h1-2006 2020] Bounty payments are done !](https://hackerone.com/reports/895824) to h1-ctf - 12 upvotes, $0
 33. [[H1-2006 2020] Bounty Pay CTF challenge](https://hackerone.com/reports/895798) to h1-ctf - 11 upvotes, $0
 34. [[H1-2006 2020] CTF Writeup](https://hackerone.com/reports/893305) to h1-ctf - 11 upvotes, $0
 35. [[h1-415 2020] finally](https://hackerone.com/reports/779910) to h1-ctf - 10 upvotes, $0
@@ -49,10 +49,10 @@ Top reports from h1-ctf program at HackerOne:
 47. [A Visit from The Grinch ~ 'Twas the night before Hackmas...](https://hackerone.com/reports/1067912) to h1-ctf - 9 upvotes, $0
 48. [Flags for hackyholidays CTF](https://hackerone.com/reports/1065516) to h1-ctf - 9 upvotes, $0
 49. [[H1-2006 2020]  Multiple vulnerabilities leading account takeover](https://hackerone.com/reports/887700) to h1-ctf - 8 upvotes, $0
-50. [[h1-415 2020] @_bayotop h1-415-ctf writeup](https://hackerone.com/reports/779113) to h1-ctf - 7 upvotes, $0
-51. [[h1-2006 2020] Write up for H1-2006 CTF](https://hackerone.com/reports/895772) to h1-ctf - 7 upvotes, $0
-52. [[h1-2006 2020] CTF Walkthrough](https://hackerone.com/reports/895780) to h1-ctf - 7 upvotes, $0
-53. [[H1-2006 2020] CTF write-up](https://hackerone.com/reports/894604) to h1-ctf - 7 upvotes, $0
+50. [[H1-2006 2020] CTF write-up](https://hackerone.com/reports/894604) to h1-ctf - 8 upvotes, $0
+51. [[h1-415 2020] @_bayotop h1-415-ctf writeup](https://hackerone.com/reports/779113) to h1-ctf - 7 upvotes, $0
+52. [[h1-2006 2020] Write up for H1-2006 CTF](https://hackerone.com/reports/895772) to h1-ctf - 7 upvotes, $0
+53. [[h1-2006 2020] CTF Walkthrough](https://hackerone.com/reports/895780) to h1-ctf - 7 upvotes, $0
 54. [Hackyholidays [ h1-ctf] writeup [mission:- stop the grinch ]](https://hackerone.com/reports/1069396) to h1-ctf - 7 upvotes, $0
 55. [Taking Grinch Down To Save Holidays](https://hackerone.com/reports/1067037) to h1-ctf - 7 upvotes, $0
 56. [The Return of the Grinch](https://hackerone.com/reports/1433581) to h1-ctf - 7 upvotes, $0

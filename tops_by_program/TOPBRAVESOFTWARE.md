@@ -7,8 +7,8 @@ Top reports from Brave Software program at HackerOne:
 5. [ Incorrect security UI of files' download source on brave MacOS](https://hackerone.com/reports/2888770) to Brave Software - 84 upvotes, $0
 6. [Cookie steal through content Uri](https://hackerone.com/reports/876192) to Brave Software - 78 upvotes, $500
 7. [Local files reading from the web using `brave://`](https://hackerone.com/reports/390013) to Brave Software - 74 upvotes, $0
-8. [New XSS vector in ReaderMode with %READER-TITLE-NONCE%](https://hackerone.com/reports/1436142) to Brave Software - 71 upvotes, $1000
-9. [Prompt Injection via GitHub Patch in Brave AI Chat (Leo)](https://hackerone.com/reports/3086301) to Brave Software - 69 upvotes, $0
+8. [Prompt Injection via GitHub Patch in Brave AI Chat (Leo)](https://hackerone.com/reports/3086301) to Brave Software - 72 upvotes, $0
+9. [New XSS vector in ReaderMode with %READER-TITLE-NONCE%](https://hackerone.com/reports/1436142) to Brave Software - 71 upvotes, $1000
 10. [UXss on brave browser via scan QR Code](https://hackerone.com/reports/1884042) to Brave Software - 67 upvotes, $500
 11. [Sending arbitrary IPC messages via overriding Function.prototype.apply](https://hackerone.com/reports/188086) to Brave Software - 52 upvotes, $5300
 12. [Lack of quarantine meta-attribute for downloaded files leads to GateKeeper bypass](https://hackerone.com/reports/374106) to Brave Software - 52 upvotes, $0
