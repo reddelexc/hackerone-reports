@@ -10,7 +10,7 @@ Top reports from Node.js program at HackerOne:
 8. [HashDoS in V8](https://hackerone.com/reports/3131758) to Node.js - 52 upvotes, $0
 9. [Http request splitting](https://hackerone.com/reports/409943) to Node.js - 44 upvotes, $0
 10. [WASI sandbox escape via symlink](https://hackerone.com/reports/2084280) to Node.js - 44 upvotes, $0
-11. [Worker permission bypass via InternalWorker leak in diagnostics](https://hackerone.com/reports/2575105) to Node.js - 41 upvotes, $0
+11. [Worker permission bypass via InternalWorker leak in diagnostics](https://hackerone.com/reports/2575105) to Node.js - 42 upvotes, $0
 12. [Improper error handling in async cryptographic operations crashes process](https://hackerone.com/reports/2817648) to Node.js - 37 upvotes, $0
 13. [Windows Device Names Still Allow Path Traversal in UNC Paths After CVE-2025-27210 Fix](https://hackerone.com/reports/3255707) to Node.js - 37 upvotes, $0
 14. [registry.nodejs.org Subdomain Takeover](https://hackerone.com/reports/340580) to Node.js - 35 upvotes, $0

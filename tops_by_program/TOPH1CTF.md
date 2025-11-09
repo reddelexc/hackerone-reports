@@ -1,8 +1,8 @@
 Top reports from h1-ctf program at HackerOne:
 
 1. [How The Hackers Saved Christmas](https://hackerone.com/reports/1069335) to h1-ctf - 179 upvotes, $0
-2. [[H1-415 2020] CTF Writeup](https://hackerone.com/reports/776634) to h1-ctf - 106 upvotes, $0
-3. [[h1-415 2020] Spent a week and failed at solving the last step.](https://hackerone.com/reports/781265) to h1-ctf - 97 upvotes, $0
+2. [[H1-415 2020] CTF Writeup](https://hackerone.com/reports/776634) to h1-ctf - 107 upvotes, $0
+3. [[h1-415 2020] Spent a week and failed at solving the last step.](https://hackerone.com/reports/781265) to h1-ctf - 98 upvotes, $0
 4. [[H1-2006 2020] I successfully solved it!](https://hackerone.com/reports/887818) to h1-ctf - 64 upvotes, $0
 5. [[h1-415 2020] Multiple vulnerabilities leading to leaking of secret user files](https://hackerone.com/reports/780036) to h1-ctf - 56 upvotes, $0
 6. [12 Days of Hacky Holidays write-up, but as a text-based RPG?](https://hackerone.com/reports/1066851) to h1-ctf - 44 upvotes, $0

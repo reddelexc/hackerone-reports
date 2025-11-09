@@ -2,7 +2,7 @@ Top reports from Legal Robot program at HackerOne:
 
 1. [Remote Code Execution (upload)](https://hackerone.com/reports/116575) to Legal Robot - 60 upvotes, $0
 2. [Subdomain takeover at api.legalrobot.com due to non-used domain in Modulus.io.](https://hackerone.com/reports/148770) to Legal Robot - 33 upvotes, $0
-3. [Big XSS vulnerability!](https://hackerone.com/reports/216330) to Legal Robot - 29 upvotes, $0
+3. [Big XSS vulnerability!](https://hackerone.com/reports/216330) to Legal Robot - 30 upvotes, $0
 4. [Privilege Escalation to Admin-level Account](https://hackerone.com/reports/261285) to Legal Robot - 25 upvotes, $0
 5. [Bypass 8 chars password complexity with 6 chars only due to insecure password reset functionaliy](https://hackerone.com/reports/173195) to Legal Robot - 21 upvotes, $0
 6. [Intercom chat session information persists after logout](https://hackerone.com/reports/249798) to Legal Robot - 20 upvotes, $0
@@ -24,12 +24,12 @@ Top reports from Legal Robot program at HackerOne:
 22. [Password reset access control](https://hackerone.com/reports/180895) to Legal Robot - 12 upvotes, $0
 23. [Change password session fixed](https://hackerone.com/reports/260751) to Legal Robot - 12 upvotes, $0
 24. [Password complexity not evenly enforced](https://hackerone.com/reports/249398) to Legal Robot - 12 upvotes, $0
-25. [I cant login to my account](https://hackerone.com/reports/263743) to Legal Robot - 12 upvotes, $0
-26. [Legal Robot](https://hackerone.com/reports/276427) to Legal Robot - 12 upvotes, $0
-27. [AWS S3 website can't serve security headers, may allow clickjacking](https://hackerone.com/reports/149572) to Legal Robot - 11 upvotes, $0
-28. [Missing link to 2FA recovery code](https://hackerone.com/reports/249346) to Legal Robot - 11 upvotes, $0
-29. [Missing link to TOTP manual enroll option](https://hackerone.com/reports/249339) to Legal Robot - 11 upvotes, $0
-30. [News Feed Detected ](https://hackerone.com/reports/163730) to Legal Robot - 11 upvotes, $0
+25. [News Feed Detected ](https://hackerone.com/reports/163730) to Legal Robot - 12 upvotes, $0
+26. [I cant login to my account](https://hackerone.com/reports/263743) to Legal Robot - 12 upvotes, $0
+27. [Legal Robot](https://hackerone.com/reports/276427) to Legal Robot - 12 upvotes, $0
+28. [AWS S3 website can't serve security headers, may allow clickjacking](https://hackerone.com/reports/149572) to Legal Robot - 11 upvotes, $0
+29. [Missing link to 2FA recovery code](https://hackerone.com/reports/249346) to Legal Robot - 11 upvotes, $0
+30. [Missing link to TOTP manual enroll option](https://hackerone.com/reports/249339) to Legal Robot - 11 upvotes, $0
 31. [Information Disclosure in AWS S3 Bucket](https://hackerone.com/reports/163476) to Legal Robot - 10 upvotes, $0
 32. [[Cross-domain Referer leakage] Password reset token leakage via referer](https://hackerone.com/reports/253448) to Legal Robot - 10 upvotes, $0
 33. [Improper validation of parameters while creating issues](https://hackerone.com/reports/260632) to Legal Robot - 10 upvotes, $0

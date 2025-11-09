@@ -67,27 +67,27 @@ Top reports from ownCloud program at HackerOne:
 65. [owncloud.com: Account Compromise Through CSRF](https://hackerone.com/reports/84372) to ownCloud - 2 upvotes, $0
 66. [[forum.owncloud.org] IE, Edge XSS via Request-URI](https://hackerone.com/reports/154319) to ownCloud - 2 upvotes, $0
 67. [owncloud.com open redirect](https://hackerone.com/reports/258632) to ownCloud - 2 upvotes, $0
-68. [daily.owncloud.com: Information disclosure](https://hackerone.com/reports/84085) to ownCloud - 1 upvotes, $0
-69. [owncloud.com: Allowed an attacker to force a user to change profile details. (XCSRF)](https://hackerone.com/reports/83239) to ownCloud - 1 upvotes, $0
-70. [owncloud.com: CVE-2015-5477 BIND9 TKEY Vulnerability + Exploit (Denial of Service)](https://hackerone.com/reports/89097) to ownCloud - 1 upvotes, $0
-71. [apps.owncloud.com: Mixed Active Scripting Issue ](https://hackerone.com/reports/85541) to ownCloud - 1 upvotes, $0
-72. [owncloud.com: PermError SPF Permanent Error: Too many DNS lookups](https://hackerone.com/reports/83578) to ownCloud - 1 upvotes, $0
-73. [Apache documentation](https://hackerone.com/reports/90321) to ownCloud - 1 upvotes, $0
-74. [Full Path Disclosure ](https://hackerone.com/reports/87505) to ownCloud - 1 upvotes, $0
-75. [Information Exposure Through Directory Listing](https://hackerone.com/reports/110655) to ownCloud - 1 upvotes, $0
-76. [s2.owncloud.com: SSL Session cookie without secure flag set](https://hackerone.com/reports/83856) to ownCloud - 1 upvotes, $0
-77. [*.owncloud.com / *.owncloud.org: Using not strong enough SSL ciphers](https://hackerone.com/reports/84078) to ownCloud - 1 upvotes, $0
-78. [s2.owncloud.com: Web Server HTTP Trace/Track Method Support Cross-Site Tracing Vulnerability](https://hackerone.com/reports/83855) to ownCloud - 1 upvotes, $0
-79. [owncloud.com: Persistent XSS In Account Profile](https://hackerone.com/reports/116254) to ownCloud - 1 upvotes, $0
-80. [No Any Kind of Protection on Delete account](https://hackerone.com/reports/113211) to ownCloud - 1 upvotes, $0
-81. [DROWN Attack](https://hackerone.com/reports/119808) to ownCloud - 1 upvotes, $0
-82. [apps.owncloud.com: Multiple reflected XSS by insecure URL generation (IE only)](https://hackerone.com/reports/83381) to ownCloud - 1 upvotes, $0
-83. [apps.owncloud.com: CSRF change privacy settings](https://hackerone.com/reports/85565) to ownCloud - 1 upvotes, $0
-84. [doc.owncloud.org has missing PHP handler](https://hackerone.com/reports/121382) to ownCloud - 1 upvotes, $0
-85. [doc.owncloud.org: X-XSS-Protection not enabled](https://hackerone.com/reports/128493) to ownCloud - 1 upvotes, $0
-86. [doc.owncloud.com: PHP info page disclosure ](https://hackerone.com/reports/134216) to ownCloud - 1 upvotes, $0
-87. [This is not the security issue.](https://hackerone.com/reports/257106) to ownCloud - 1 upvotes, $0
-88. [File System Monitoring Queue Overflow](https://hackerone.com/reports/881891) to ownCloud - 1 upvotes, $0
+68. [File System Monitoring Queue Overflow](https://hackerone.com/reports/881891) to ownCloud - 2 upvotes, $0
+69. [daily.owncloud.com: Information disclosure](https://hackerone.com/reports/84085) to ownCloud - 1 upvotes, $0
+70. [owncloud.com: Allowed an attacker to force a user to change profile details. (XCSRF)](https://hackerone.com/reports/83239) to ownCloud - 1 upvotes, $0
+71. [owncloud.com: CVE-2015-5477 BIND9 TKEY Vulnerability + Exploit (Denial of Service)](https://hackerone.com/reports/89097) to ownCloud - 1 upvotes, $0
+72. [apps.owncloud.com: Mixed Active Scripting Issue ](https://hackerone.com/reports/85541) to ownCloud - 1 upvotes, $0
+73. [owncloud.com: PermError SPF Permanent Error: Too many DNS lookups](https://hackerone.com/reports/83578) to ownCloud - 1 upvotes, $0
+74. [Apache documentation](https://hackerone.com/reports/90321) to ownCloud - 1 upvotes, $0
+75. [Full Path Disclosure ](https://hackerone.com/reports/87505) to ownCloud - 1 upvotes, $0
+76. [Information Exposure Through Directory Listing](https://hackerone.com/reports/110655) to ownCloud - 1 upvotes, $0
+77. [s2.owncloud.com: SSL Session cookie without secure flag set](https://hackerone.com/reports/83856) to ownCloud - 1 upvotes, $0
+78. [*.owncloud.com / *.owncloud.org: Using not strong enough SSL ciphers](https://hackerone.com/reports/84078) to ownCloud - 1 upvotes, $0
+79. [s2.owncloud.com: Web Server HTTP Trace/Track Method Support Cross-Site Tracing Vulnerability](https://hackerone.com/reports/83855) to ownCloud - 1 upvotes, $0
+80. [owncloud.com: Persistent XSS In Account Profile](https://hackerone.com/reports/116254) to ownCloud - 1 upvotes, $0
+81. [No Any Kind of Protection on Delete account](https://hackerone.com/reports/113211) to ownCloud - 1 upvotes, $0
+82. [DROWN Attack](https://hackerone.com/reports/119808) to ownCloud - 1 upvotes, $0
+83. [apps.owncloud.com: Multiple reflected XSS by insecure URL generation (IE only)](https://hackerone.com/reports/83381) to ownCloud - 1 upvotes, $0
+84. [apps.owncloud.com: CSRF change privacy settings](https://hackerone.com/reports/85565) to ownCloud - 1 upvotes, $0
+85. [doc.owncloud.org has missing PHP handler](https://hackerone.com/reports/121382) to ownCloud - 1 upvotes, $0
+86. [doc.owncloud.org: X-XSS-Protection not enabled](https://hackerone.com/reports/128493) to ownCloud - 1 upvotes, $0
+87. [doc.owncloud.com: PHP info page disclosure ](https://hackerone.com/reports/134216) to ownCloud - 1 upvotes, $0
+88. [This is not the security issue.](https://hackerone.com/reports/257106) to ownCloud - 1 upvotes, $0
 89. [directory listing in https://demo.owncloud.org/doc/](https://hackerone.com/reports/105149) to ownCloud - 0 upvotes, $0
 90. [[https://test1.owncloud.com/owncloud6/] Guessable password used for admin user](https://hackerone.com/reports/107849) to ownCloud - 0 upvotes, $0
 91. [owncloud.help: Text  Injection](https://hackerone.com/reports/112304) to ownCloud - 0 upvotes, $0

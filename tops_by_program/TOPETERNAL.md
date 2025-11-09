@@ -11,19 +11,19 @@ Top reports from Eternal program at HackerOne:
 9. [Solr Injection in `user_id` parameter at :/v2/leaderboard_v2.json](https://hackerone.com/reports/952501) to Eternal - 136 upvotes, $2000
 10. [[api.zomato.com] Able to manipulate order amount](https://hackerone.com/reports/512968) to Eternal - 133 upvotes, $0
 11. [Able to manipulate order amount by removing cancellation amount and cause financial impact](https://hackerone.com/reports/614523) to Eternal - 127 upvotes, $0
-12. [Add upto 10K rupees to a wallet by paying an arbitrary amount](https://hackerone.com/reports/1408782) to Eternal - 122 upvotes, $2000
+12. [Add upto 10K rupees to a wallet by paying an arbitrary amount](https://hackerone.com/reports/1408782) to Eternal - 124 upvotes, $2000
 13. [Availing Zomato gold by using a random third-party `wallet_id`](https://hackerone.com/reports/938021) to Eternal - 113 upvotes, $2000
 14. [[Zomato Order] Insecure deeplink leads to sensitive information disclosure](https://hackerone.com/reports/532225) to Eternal - 112 upvotes, $750
-15. [[www.zomato.com] Leaking Email Addresses of merchants via reset password feature](https://hackerone.com/reports/293490) to Eternal - 110 upvotes, $0
+15. [[www.zomato.com] Leaking Email Addresses of merchants via reset password feature](https://hackerone.com/reports/293490) to Eternal - 111 upvotes, $0
 16. [Claiming the listing of a non-delivery restaurant through OTP manipulation](https://hackerone.com/reports/1330529) to Eternal - 104 upvotes, $3250
 17. [Login to any account with the emailaddress](https://hackerone.com/reports/245408) to Eternal - 101 upvotes, $1000
 18. [[www.zomato.com] Blind XSS in one of the admin dashboard](https://hackerone.com/reports/461272) to Eternal - 101 upvotes, $500
 19. [Base alpha version code exposure](https://hackerone.com/reports/167859) to Eternal - 98 upvotes, $0
-20. [Subdomain takeover of fr1.vpn.zomans.com](https://hackerone.com/reports/1182864) to Eternal - 95 upvotes, $350
+20. [Subdomain takeover of fr1.vpn.zomans.com](https://hackerone.com/reports/1182864) to Eternal - 96 upvotes, $350
 21. [[www.zomato.com] Tampering with Order Quantity and paying less amount then actual amount, leads to business loss](https://hackerone.com/reports/403783) to Eternal - 76 upvotes, $0
 22. [ credentials leakage in public lead to view dev websites ](https://hackerone.com/reports/511440) to Eternal - 76 upvotes, $0
 23. [[https://reviews.zomato.com] Time Based SQL Injection](https://hackerone.com/reports/300176) to Eternal - 70 upvotes, $1000
-24. [Page has a link to google drive which has logos and a few customer phone recordings](https://hackerone.com/reports/864712) to Eternal - 68 upvotes, $200
+24. [Page has a link to google drive which has logos and a few customer phone recordings](https://hackerone.com/reports/864712) to Eternal - 69 upvotes, $200
 25. [[www.zomato.com] Blind SQL Injection in /php/geto2banner](https://hackerone.com/reports/838855) to Eternal - 66 upvotes, $2000
 26. [[Zomato Android/iOS] Theft of user session](https://hackerone.com/reports/328486) to Eternal - 65 upvotes, $0
 27. [[www.zomato.com] SQLi on `order_id` parameter](https://hackerone.com/reports/358669) to Eternal - 62 upvotes, $1000
@@ -38,8 +38,8 @@ Top reports from Eternal program at HackerOne:
 36. [Race condition in User comments  Likes](https://hackerone.com/reports/1409913) to Eternal - 44 upvotes, $0
 37. [[www.zomato.com] Boolean SQLi - /█████.php](https://hackerone.com/reports/297534) to Eternal - 41 upvotes, $1000
 38. [Blind XSS - Report review - Admin panel](https://hackerone.com/reports/314126) to Eternal - 41 upvotes, $350
-39. [[www.zomato.com] Boolean SQLi - /███████.php](https://hackerone.com/reports/301257) to Eternal - 35 upvotes, $1000
-40. [Attacker shall recieve order updates on whatsapp for users who have activated whatsapp notification](https://hackerone.com/reports/1523584) to Eternal - 35 upvotes, $300
+39. [Attacker shall recieve order updates on whatsapp for users who have activated whatsapp notification](https://hackerone.com/reports/1523584) to Eternal - 36 upvotes, $300
+40. [[www.zomato.com] Boolean SQLi - /███████.php](https://hackerone.com/reports/301257) to Eternal - 35 upvotes, $1000
 41. [IDOR to cancel any table booking and leak sensitive information such as email,mobile number,uuid](https://hackerone.com/reports/265258) to Eternal - 35 upvotes, $250
 42. [[www.zomato.com/dubai/gold] CRITICAL - Allowing arbitrary amount to become a GOLD Member](https://hackerone.com/reports/254211) to Eternal - 34 upvotes, $0
 43. [Unauthorised Access to Anyone's User Account](https://hackerone.com/reports/202921) to Eternal - 32 upvotes, $0

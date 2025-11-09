@@ -3,11 +3,11 @@ Top Open Redirect reports from HackerOne:
 1. [[cs.money] Open Redirect Leads to Account Takeover](https://hackerone.com/reports/905607) to CS Money - 349 upvotes, $0
 2. [XSS and Open Redirect on MoPub Login](https://hackerone.com/reports/683298) to X / xAI - 244 upvotes, $1540
 3. [Open Redirect in secure.showmax.com](https://hackerone.com/reports/749338) to Showmax - 225 upvotes, $550
-4. [Open redirect at https://inventory.upserve.com/http://google.com/](https://hackerone.com/reports/469803) to Upserve  - 174 upvotes, $1200
-5. [Open Redirect in Logout & Login](https://hackerone.com/reports/1788006) to Expedia Group Bug Bounty - 164 upvotes, $1000
-6. [Open redirect due to scanning QR code via brave browser](https://hackerone.com/reports/1946534) to Brave Software - 142 upvotes, $0
-7. [Open Redirect on central.uber.com allows for account takeover](https://hackerone.com/reports/206591) to Uber - 139 upvotes, $0
-8. [Open redirect](https://hackerone.com/reports/2957962) to XVIDEOS - 125 upvotes, $0
+4. [Open redirect at https://inventory.upserve.com/http://google.com/](https://hackerone.com/reports/469803) to Upserve  - 175 upvotes, $1200
+5. [Open Redirect in Logout & Login](https://hackerone.com/reports/1788006) to Expedia Group Bug Bounty - 165 upvotes, $1000
+6. [Open redirect due to scanning QR code via brave browser](https://hackerone.com/reports/1946534) to Brave Software - 143 upvotes, $0
+7. [Open Redirect on central.uber.com allows for account takeover](https://hackerone.com/reports/206591) to Uber - 140 upvotes, $0
+8. [Open redirect](https://hackerone.com/reports/2957962) to XVIDEOS - 127 upvotes, $0
 9. [CRLF to XSS & Open Redirection](https://hackerone.com/reports/2012519) to TikTok - 94 upvotes, $0
 10. [Twitter lite(Android): Vulnerable to local file steal, Javascript injection, Open redirect ](https://hackerone.com/reports/499348) to X / xAI - 93 upvotes, $0
 11. [Open redirect vulnerability](https://hackerone.com/reports/380760) to Rockstar Games - 83 upvotes, $250
@@ -105,14 +105,14 @@ Top Open Redirect reports from HackerOne:
 103. [XSS on www.mapbox.com/authorize/ because of open redirect at /core/oauth/auth](https://hackerone.com/reports/143240) to Mapbox - 18 upvotes, $0
 104. [Open redirection ](https://hackerone.com/reports/207285) to New Relic - 18 upvotes, $0
 105. [Open redirect using checkout_url](https://hackerone.com/reports/159522) to Shopify - 17 upvotes, $0
-106. [Open Redirect](https://hackerone.com/reports/243001) to Inflection - 17 upvotes, $0
-107. [Open redirect on marketing site](https://hackerone.com/reports/219447) to Shipt - 17 upvotes, $0
-108. [Open Redirect - www.shopify.com](https://hackerone.com/reports/905737) to Shopify - 17 upvotes, $0
-109. [[intensedebate.com] Open Redirect](https://hackerone.com/reports/1050193) to Automattic - 17 upvotes, $0
-110. [Open Redirect on Login Page of Stocky App](https://hackerone.com/reports/1087189) to Shopify - 17 upvotes, $0
-111. [[https://█████████/]&&[https://█████████/] Open Redirection](https://hackerone.com/reports/537047) to Lyst - 17 upvotes, $0
-112. [Open Redirection Vulnerability in m.vk.com](https://hackerone.com/reports/347645) to VK.com - 16 upvotes, $300
-113. [Open redirect / Reflected XSS payload in root that affects all your sites (store.starbucks.* / shop.starbucks.* / teavana.com)](https://hackerone.com/reports/196846) to Starbucks - 16 upvotes, $0
+106. [Open redirect / Reflected XSS payload in root that affects all your sites (store.starbucks.* / shop.starbucks.* / teavana.com)](https://hackerone.com/reports/196846) to Starbucks - 17 upvotes, $0
+107. [Open Redirect](https://hackerone.com/reports/243001) to Inflection - 17 upvotes, $0
+108. [Open redirect on marketing site](https://hackerone.com/reports/219447) to Shipt - 17 upvotes, $0
+109. [Open Redirect - www.shopify.com](https://hackerone.com/reports/905737) to Shopify - 17 upvotes, $0
+110. [[intensedebate.com] Open Redirect](https://hackerone.com/reports/1050193) to Automattic - 17 upvotes, $0
+111. [Open Redirect on Login Page of Stocky App](https://hackerone.com/reports/1087189) to Shopify - 17 upvotes, $0
+112. [[https://█████████/]&&[https://█████████/] Open Redirection](https://hackerone.com/reports/537047) to Lyst - 17 upvotes, $0
+113. [Open Redirection Vulnerability in m.vk.com](https://hackerone.com/reports/347645) to VK.com - 16 upvotes, $300
 114. [Open redirect on https://blog.fuzzing-project.org](https://hackerone.com/reports/373916) to Hanno's projects - 16 upvotes, $0
 115. [Open Redirect](https://hackerone.com/reports/726375) to Mail.ru - 16 upvotes, $0
 116. [Open redirect by the parameter redirectUri in the URL](https://hackerone.com/reports/1250758) to BlackRock - 16 upvotes, $0
