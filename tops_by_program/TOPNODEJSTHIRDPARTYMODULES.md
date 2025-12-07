@@ -29,13 +29,13 @@ Top reports from Node.js third-party modules program at HackerOne:
 27. [[untitled-model] sql injection](https://hackerone.com/reports/507222) to Node.js third-party modules - 14 upvotes, $0
 28. [Prototype pollution attack (lodash / constructor.prototype)](https://hackerone.com/reports/380873) to Node.js third-party modules - 14 upvotes, $0
 29. [[nested-property] Prototype Pollution](https://hackerone.com/reports/788883) to Node.js third-party modules - 14 upvotes, $0
-30. [Code Injection Vulnerability in morgan Package](https://hackerone.com/reports/390881) to Node.js third-party modules - 13 upvotes, $0
-31. [flatmap-stream malicious package (distributed via the popular events-stream)](https://hackerone.com/reports/450006) to Node.js third-party modules - 13 upvotes, $0
-32. [[serve] Access unlisted internal files/folders revealing sensitive information](https://hackerone.com/reports/486933) to Node.js third-party modules - 13 upvotes, $0
-33. [OS Command Injection on Jison [all-parser-ports]](https://hackerone.com/reports/690010) to Node.js third-party modules - 13 upvotes, $0
-34. [[hekto] Path Traversal vulnerability allows to read content of arbitrary files](https://hackerone.com/reports/311218) to Node.js third-party modules - 12 upvotes, $0
-35. [[html-pages] Path Traversal in html-pages module allows to read any file from the server with curl](https://hackerone.com/reports/306607) to Node.js third-party modules - 12 upvotes, $0
-36. [Unrestricted file upload (RCE)](https://hackerone.com/reports/343726) to Node.js third-party modules - 12 upvotes, $0
+30. [Unrestricted file upload (RCE)](https://hackerone.com/reports/343726) to Node.js third-party modules - 13 upvotes, $0
+31. [Code Injection Vulnerability in morgan Package](https://hackerone.com/reports/390881) to Node.js third-party modules - 13 upvotes, $0
+32. [flatmap-stream malicious package (distributed via the popular events-stream)](https://hackerone.com/reports/450006) to Node.js third-party modules - 13 upvotes, $0
+33. [[serve] Access unlisted internal files/folders revealing sensitive information](https://hackerone.com/reports/486933) to Node.js third-party modules - 13 upvotes, $0
+34. [OS Command Injection on Jison [all-parser-ports]](https://hackerone.com/reports/690010) to Node.js third-party modules - 13 upvotes, $0
+35. [[hekto] Path Traversal vulnerability allows to read content of arbitrary files](https://hackerone.com/reports/311218) to Node.js third-party modules - 12 upvotes, $0
+36. [[html-pages] Path Traversal in html-pages module allows to read any file from the server with curl](https://hackerone.com/reports/306607) to Node.js third-party modules - 12 upvotes, $0
 37. [[buttle] Path traversal in mid-buttle module allows to read any file in the server.](https://hackerone.com/reports/358112) to Node.js third-party modules - 12 upvotes, $0
 38. [[htmr] DOM-based XSS](https://hackerone.com/reports/753971) to Node.js third-party modules - 12 upvotes, $0
 39. [[m-server] XSS reflected because path does not escapeHtml](https://hackerone.com/reports/951468) to Node.js third-party modules - 12 upvotes, $0

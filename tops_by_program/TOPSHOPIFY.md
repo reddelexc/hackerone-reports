@@ -1,11 +1,11 @@
 Top reports from Shopify program at HackerOne:
 
-1. [Takeover an account that doesn't have a Shopify ID and more](https://hackerone.com/reports/867513) to Shopify - 2965 upvotes, $0
-2. [Email Confirmation Bypass in myshop.myshopify.com that Leads to Full Privilege Escalation to Any Shop Owner by Taking Advantage of the Shopify SSO](https://hackerone.com/reports/791775) to Shopify - 1900 upvotes, $0
-3. [Github access token exposure](https://hackerone.com/reports/1087489) to Shopify - 1433 upvotes, $50000
+1. [Takeover an account that doesn't have a Shopify ID and more](https://hackerone.com/reports/867513) to Shopify - 2967 upvotes, $0
+2. [Email Confirmation Bypass in myshop.myshopify.com that Leads to Full Privilege Escalation to Any Shop Owner by Taking Advantage of the Shopify SSO](https://hackerone.com/reports/791775) to Shopify - 1901 upvotes, $0
+3. [Github access token exposure](https://hackerone.com/reports/1087489) to Shopify - 1441 upvotes, $50000
 4. [[Part II] Email Confirmation Bypass in myshop.myshopify.com that Leads to Full Privilege Escalation](https://hackerone.com/reports/796808) to Shopify - 892 upvotes, $0
 5. [H1514 Remote Code Execution on kitcrm using bulk customer update of Priority Products](https://hackerone.com/reports/422944) to Shopify - 828 upvotes, $0
-6. [SSRF in Exchange leads to ROOT access in all instances](https://hackerone.com/reports/341876) to Shopify - 567 upvotes, $0
+6. [SSRF in Exchange leads to ROOT access in all instances](https://hackerone.com/reports/341876) to Shopify - 568 upvotes, $0
 7. [Email Confirmation Bypass in your-store.myshopify.com which leads to privilege escalation](https://hackerone.com/reports/910300) to Shopify - 552 upvotes, $0
 8. [Shopify Stocky App OAuth Misconfiguration](https://hackerone.com/reports/740989) to Shopify - 522 upvotes, $0
 9. [H1514 Server Side Template Injection in Return Magic email templates?](https://hackerone.com/reports/423541) to Shopify - 407 upvotes, $0
@@ -13,19 +13,19 @@ Top reports from Shopify program at HackerOne:
 11. [XSS while logging using Google](https://hackerone.com/reports/691611) to Shopify - 338 upvotes, $1750
 12. [Stored XSS in my staff name fired in another your internal panel](https://hackerone.com/reports/946053) to Shopify - 321 upvotes, $0
 13. [Able to Takeover Merchants Accounts Even They Have Already Setup SSO, After Bypassing the Email Confirmation](https://hackerone.com/reports/796956) to Shopify - 307 upvotes, $0
-14. [Shopify admin authentication bypass using partners.shopify.com](https://hackerone.com/reports/270981) to Shopify - 304 upvotes, $0
+14. [Shopify admin authentication bypass using partners.shopify.com](https://hackerone.com/reports/270981) to Shopify - 305 upvotes, $0
 15. [CSRF on connecting Paypal as Payment Provider](https://hackerone.com/reports/807924) to Shopify - 301 upvotes, $0
 16. [Ability to bypass partner email confirmation to take over any store given an employee email](https://hackerone.com/reports/300305) to Shopify - 259 upvotes, $15250
-17. [DoS Vulnerability via Cache Poisoning on cdn.shopify.com and shopify-assets.shopifycdn.com](https://hackerone.com/reports/1695604) to Shopify - 242 upvotes, $3800
-18. [XSS at jamfpro.shopifycloud.com](https://hackerone.com/reports/1444682) to Shopify - 230 upvotes, $9400
-19. [Shopify Partners Invitation Process Allows Privilege Escalation Without Email Verification](https://hackerone.com/reports/2885269) to Shopify - 221 upvotes, $3500
+17. [DoS Vulnerability via Cache Poisoning on cdn.shopify.com and shopify-assets.shopifycdn.com](https://hackerone.com/reports/1695604) to Shopify - 244 upvotes, $3800
+18. [XSS at jamfpro.shopifycloud.com](https://hackerone.com/reports/1444682) to Shopify - 232 upvotes, $9400
+19. [Shopify Partners Invitation Process Allows Privilege Escalation Without Email Verification](https://hackerone.com/reports/2885269) to Shopify - 222 upvotes, $3500
 20. [H1514 DOMXSS on Embedded SDK via Shopify.API.setWindowLocation abusing cookie Stuffing](https://hackerone.com/reports/422043) to Shopify - 192 upvotes, $0
 21. [H1514 [*.(my)shopify.com] - Viewing Password Protected Content](https://hackerone.com/reports/421859) to Shopify - 190 upvotes, $3000
 22. [GraphQL AdminGenerateSessionPayload is leaked to staff with no permission](https://hackerone.com/reports/898528) to Shopify - 173 upvotes, $0
 23. [XSS  at https://exchangemarketplace.com/blogsearch](https://hackerone.com/reports/1145162) to Shopify - 171 upvotes, $0
 24. [Limited Privilege User Can Create Unauthorized Referrals on partners.shopify.com](https://hackerone.com/reports/1457471) to Shopify - 171 upvotes, $0
-25. [[h1-2102] FQDN takeover on all Shopify wholesale customer domains by trailing dot (RFC 1034)](https://hackerone.com/reports/1086108) to Shopify - 163 upvotes, $3100
-26. [IDOR on GraphQL queries BillingDocumentDownload and BillDetails](https://hackerone.com/reports/2207248) to Shopify - 162 upvotes, $5000
+25. [IDOR on GraphQL queries BillingDocumentDownload and BillDetails](https://hackerone.com/reports/2207248) to Shopify - 164 upvotes, $5000
+26. [[h1-2102] FQDN takeover on all Shopify wholesale customer domains by trailing dot (RFC 1034)](https://hackerone.com/reports/1086108) to Shopify - 163 upvotes, $3100
 27. [Session works after logout from Shopify account and password of online store is displayed](https://hackerone.com/reports/837729) to Shopify - 156 upvotes, $0
 28. [XSS in www.shopify.com/markets?utm_source=](https://hackerone.com/reports/1699762) to Shopify - 155 upvotes, $700
 29. [Undocumented `fileCopy` GraphQL API](https://hackerone.com/reports/981472) to Shopify - 151 upvotes, $2000
@@ -33,30 +33,30 @@ Top reports from Shopify program at HackerOne:
 31. [H1514 Session Fixation on multiple shopify-built apps on *.shopifycloud.com and *.shopifyapps.com](https://hackerone.com/reports/423136) to Shopify - 144 upvotes, $0
 32. [User with removed manage shops permissions is still able to make changes to a shop ](https://hackerone.com/reports/273099) to Shopify - 143 upvotes, $0
 33. [Stored XSS in SVG file as data: url](https://hackerone.com/reports/1276742) to Shopify - 141 upvotes, $5300
-34. [HTTP Response Header Injection in shopify/pitchfork + Rack 3](https://hackerone.com/reports/2279572) to Shopify - 132 upvotes, $800
-35. [Create free Shopify application credits.](https://hackerone.com/reports/1257428) to Shopify - 132 upvotes, $0
-36. [[Information Disclosure] Amazon S3 Bucket of Shopify Ping (iOS) have public access of other users image](https://hackerone.com/reports/1021906) to Shopify - 131 upvotes, $2900
-37. [Stored XSS in private message](https://hackerone.com/reports/729424) to Shopify - 123 upvotes, $1000
-38. [Reflected XSS In Marketing Reports Page On *.myshopify.com/admin](https://hackerone.com/reports/1754843) to Shopify - 122 upvotes, $0
+34. [Create free Shopify application credits.](https://hackerone.com/reports/1257428) to Shopify - 133 upvotes, $0
+35. [[Information Disclosure] Amazon S3 Bucket of Shopify Ping (iOS) have public access of other users image](https://hackerone.com/reports/1021906) to Shopify - 132 upvotes, $2900
+36. [HTTP Response Header Injection in shopify/pitchfork + Rack 3](https://hackerone.com/reports/2279572) to Shopify - 132 upvotes, $800
+37. [Stored XSS in private message](https://hackerone.com/reports/729424) to Shopify - 124 upvotes, $1000
+38. [Reflected XSS In Marketing Reports Page On *.myshopify.com/admin](https://hackerone.com/reports/1754843) to Shopify - 123 upvotes, $0
 39. [XSS on any Shopify shop via abuse of the HTML5 structured clone algorithm in postMessage listener on "/:id/digital_wallets/dialog"](https://hackerone.com/reports/231053) to Shopify - 119 upvotes, $3000
 40. [Disclose Any Store products, Files, Purchase Orders Via Email through Shopify Stocky APP ](https://hackerone.com/reports/763994) to Shopify - 115 upvotes, $0
 41. [Access to Employee calendar disclosing internal presentation and meetings](https://hackerone.com/reports/489284) to Shopify - 107 upvotes, $1000
-42. [Account Takeover Vulnerability in Shopify Collabs Platform Due to Missing Email Verification](https://hackerone.com/reports/1679734) to Shopify - 104 upvotes, $800
+42. [Account Takeover Vulnerability in Shopify Collabs Platform Due to Missing Email Verification](https://hackerone.com/reports/1679734) to Shopify - 106 upvotes, $800
 43. [Stored XSS in Shopify Chat ](https://hackerone.com/reports/756729) to Shopify - 104 upvotes, $500
 44. [Reflected XSS in *.myshopify.com/account/register](https://hackerone.com/reports/470206) to Shopify - 103 upvotes, $0
-45. [Reflected XSS on help.shopify.com](https://hackerone.com/reports/1940245) to Shopify - 102 upvotes, $500
-46. [Bypass a fix for report #708013](https://hackerone.com/reports/1363672) to Shopify - 101 upvotes, $3500
-47. [Admin panel Exposure without credential at https://plus-website.shopifycloud.com/admin.php](https://hackerone.com/reports/1417288) to Shopify - 101 upvotes, $2900
+45. [Admin panel Exposure without credential at https://plus-website.shopifycloud.com/admin.php](https://hackerone.com/reports/1417288) to Shopify - 102 upvotes, $2900
+46. [Reflected XSS on help.shopify.com](https://hackerone.com/reports/1940245) to Shopify - 102 upvotes, $500
+47. [Bypass a fix for report #708013](https://hackerone.com/reports/1363672) to Shopify - 101 upvotes, $3500
 48. [Reflected XSS online-store-git.shopifycloud.com](https://hackerone.com/reports/1410459) to Shopify - 97 upvotes, $3500
-49. [Exposed Cortex API at https://cortex-ingest.shopifycloud.com/](https://hackerone.com/reports/1258871) to Shopify - 92 upvotes, $6300
+49. [Exposed Cortex API at https://cortex-ingest.shopifycloud.com/](https://hackerone.com/reports/1258871) to Shopify - 93 upvotes, $6300
 50. [Ability to publish a paid theme without purchasing it.](https://hackerone.com/reports/953083) to Shopify - 89 upvotes, $2000
 51. [Add new development stores without permission](https://hackerone.com/reports/1167453) to Shopify - 88 upvotes, $0
 52. [Reverse Proxy misroute leading to steal X-Shopify-Access-Token header](https://hackerone.com/reports/429617) to Shopify - 86 upvotes, $1000
 53. [Bypass of biometrics security functionality is possible in Android application (com.shopify.mobile)](https://hackerone.com/reports/637194) to Shopify - 86 upvotes, $500
 54. [XSS on $shop$.myshopify.com/admin/ and partners.shopify.com via whitelist bypass in SVG icon for sales channel applications](https://hackerone.com/reports/232174) to Shopify - 85 upvotes, $5000
 55. [Ability to link a Google account to another staff account/store owner that isn't linked yet](https://hackerone.com/reports/892904) to Shopify - 84 upvotes, $0
-56. [No Session Expiry after log-out, attacker can reuse the old cookies](https://hackerone.com/reports/1162443) to Shopify - 82 upvotes, $500
-57. [https://themes.shopify.com::: Host header web cache poisoning lead to DoS](https://hackerone.com/reports/1096609) to Shopify - 78 upvotes, $2900
+56. [No Session Expiry after log-out, attacker can reuse the old cookies](https://hackerone.com/reports/1162443) to Shopify - 83 upvotes, $500
+57. [https://themes.shopify.com::: Host header web cache poisoning lead to DoS](https://hackerone.com/reports/1096609) to Shopify - 79 upvotes, $2900
 58. [SVG Server Side Request Forgery (SSRF)](https://hackerone.com/reports/223203) to Shopify - 77 upvotes, $500
 59. [██████ DOM XSS via Shopify.API.remoteRedirect](https://hackerone.com/reports/646505) to Shopify - 76 upvotes, $0
 60. [Blog posts atom feed of a  store with password protection  can be accessed by anyone ](https://hackerone.com/reports/1256375) to Shopify - 75 upvotes, $5000
@@ -65,10 +65,10 @@ Top reports from Shopify program at HackerOne:
 63. [xss stored](https://hackerone.com/reports/798599) to Shopify - 75 upvotes, $0
 64. [Ability to verify any email address you don't own - accounts.shopify.com](https://hackerone.com/reports/229619) to Shopify - 74 upvotes, $0
 65. [Exposure of shopify employee summit page allows anonymous user to place orders for free books](https://hackerone.com/reports/2552027) to Shopify - 74 upvotes, $0
-66. [Stored XSS in /admin/product and /admin/collections](https://hackerone.com/reports/1147433) to Shopify - 72 upvotes, $5300
-67. [CircleCI token in github repo allows for access to sensitive build information](https://hackerone.com/reports/858915) to Shopify - 72 upvotes, $0
-68. [Blind Stored XSS in shopify internal Parquet Viewer](https://hackerone.com/reports/1103298) to Shopify - 72 upvotes, $0
-69. [URL Path Manipulation Enables Cache Poisoning of Amazon Affiliate Products in Shopify Linkpop](https://hackerone.com/reports/1848940) to Shopify - 71 upvotes, $500
+66. [URL Path Manipulation Enables Cache Poisoning of Amazon Affiliate Products in Shopify Linkpop](https://hackerone.com/reports/1848940) to Shopify - 73 upvotes, $500
+67. [Stored XSS in /admin/product and /admin/collections](https://hackerone.com/reports/1147433) to Shopify - 72 upvotes, $5300
+68. [CircleCI token in github repo allows for access to sensitive build information](https://hackerone.com/reports/858915) to Shopify - 72 upvotes, $0
+69. [Blind Stored XSS in shopify internal Parquet Viewer](https://hackerone.com/reports/1103298) to Shopify - 72 upvotes, $0
 70. [myshopify.com domain takeover](https://hackerone.com/reports/320355) to Shopify - 70 upvotes, $0
 71. [help.shopify.com Cross Site Scripting](https://hackerone.com/reports/564196) to Shopify - 70 upvotes, $0
 72. [Stealing livechat token and using it to chat as the user - user information disclosure ](https://hackerone.com/reports/151058) to Shopify - 69 upvotes, $0
@@ -89,10 +89,10 @@ Top reports from Shopify program at HackerOne:
 87. [Session Persistence Designed to Keep Users Logged In Across Multiple Devices (Intended Behaviour)](https://hackerone.com/reports/3161827) to Shopify - 62 upvotes, $0
 88. [Using GraphQL, STAFF with NO explicit permissions on Store can retrieve Shopify Payments Balance.](https://hackerone.com/reports/417170) to Shopify - 61 upvotes, $500
 89. [Staff without Manage Themes permissions can update themes](https://hackerone.com/reports/1550400) to Shopify - 60 upvotes, $1900
-90. [Unauthenticated access to Zendesk tickets through athena-flex-production.shopifycloud.com Okta bypass](https://hackerone.com/reports/397130) to Shopify - 59 upvotes, $0
-91. [Reflected XSS on $Any$.myshopify.com/admin](https://hackerone.com/reports/422707) to Shopify - 58 upvotes, $1500
-92. [Open redirect using theme install](https://hackerone.com/reports/101962) to Shopify - 58 upvotes, $0
-93. [URL Scheme Validation Bypass in Shopify Mobile App Allows Javascript Execution](https://hackerone.com/reports/1737358) to Shopify - 58 upvotes, $0
+90. [Open redirect using theme install](https://hackerone.com/reports/101962) to Shopify - 59 upvotes, $0
+91. [Unauthenticated access to Zendesk tickets through athena-flex-production.shopifycloud.com Okta bypass](https://hackerone.com/reports/397130) to Shopify - 59 upvotes, $0
+92. [URL Scheme Validation Bypass in Shopify Mobile App Allows Javascript Execution](https://hackerone.com/reports/1737358) to Shopify - 59 upvotes, $0
+93. [Reflected XSS on $Any$.myshopify.com/admin](https://hackerone.com/reports/422707) to Shopify - 58 upvotes, $1500
 94. [Removing parts of URL from jQuery request exposes links for download of Paid Digital Assets of the most recent Order placed by anyone on the store!](https://hackerone.com/reports/1044285) to Shopify - 57 upvotes, $2900
 95. [H1514 [beerify.shopifycloud.com] GraphQL discloses internal beer consumption](https://hackerone.com/reports/419883) to Shopify - 57 upvotes, $802
 96. [staff can able to extend shopify trial period without admin permission](https://hackerone.com/reports/947728) to Shopify - 56 upvotes, $0
@@ -132,9 +132,9 @@ Top reports from Shopify program at HackerOne:
 130. [Exposed Slinky Instance Admin Panel](https://hackerone.com/reports/808762) to Shopify - 40 upvotes, $0
 131. [Misconfiguration in Two Factor Authorisation](https://hackerone.com/reports/178293) to Shopify - 39 upvotes, $1500
 132. [User sensitive information disclosure](https://hackerone.com/reports/975047) to Shopify - 39 upvotes, $1000
-133. [Stored XSS on buy button](https://hackerone.com/reports/397088) to Shopify - 39 upvotes, $500
-134. [Inject page in admin panel via Shopify.API.pushState with protocol invalid](https://hackerone.com/reports/868615) to Shopify - 39 upvotes, $500
-135. [App messaging can be hijacked by third-party websites](https://hackerone.com/reports/387279) to Shopify - 39 upvotes, $0
+133. [Inject page in admin panel via Shopify.API.pushState with protocol invalid](https://hackerone.com/reports/868615) to Shopify - 39 upvotes, $500
+134. [App messaging can be hijacked by third-party websites](https://hackerone.com/reports/387279) to Shopify - 39 upvotes, $0
+135. [Stored XSS on buy button](https://hackerone.com/reports/397088) to Shopify - 38 upvotes, $500
 136. [Removed staff members who had "Manage shops" permission can still create development stores](https://hackerone.com/reports/254588) to Shopify - 38 upvotes, $0
 137. [(BYPASS) Open redirect and XSS in supporthiring.shopify.com](https://hackerone.com/reports/158434) to Shopify - 37 upvotes, $0
 138. [Potential to abuse pricing errors in saved carts](https://hackerone.com/reports/336131) to Shopify - 37 upvotes, $0
@@ -186,14 +186,14 @@ Top reports from Shopify program at HackerOne:
 184. [Path Traversal in App Proxy](https://hackerone.com/reports/869888) to Shopify - 28 upvotes, $0
 185. [Attention! Remote Code Execution at http://wpt.ec2.shopify.com/](https://hackerone.com/reports/73567) to Shopify - 27 upvotes, $0
 186. [subdomain Takeover at blog.exchangemarketplace.com ](https://hackerone.com/reports/416474) to Shopify - 27 upvotes, $0
-187. [Shop App - Attacker is able to intercept authorization code during authentication (OAuth) and is able to get access to Microsoft Outlook email account](https://hackerone.com/reports/1700734) to Shopify - 26 upvotes, $900
-188. [None permission staff member can identify installed application and products attached to it](https://hackerone.com/reports/848625) to Shopify - 26 upvotes, $500
-189. [user with no draft order permission can still perform action on draft order's in stocky app (idor)](https://hackerone.com/reports/802286) to Shopify - 26 upvotes, $500
-190. [Stealing users' facebook access tokens - kitcrm.com](https://hackerone.com/reports/211477) to Shopify - 26 upvotes, $0
-191. [Preview bar: Incomplete message origin validation results in XSS](https://hackerone.com/reports/381192) to Shopify - 26 upvotes, $0
-192. [[ux.shopify.com] Subdomain takeover](https://hackerone.com/reports/221631) to Shopify - 26 upvotes, $0
-193. [Stored - XSS](https://hackerone.com/reports/532643) to Shopify - 26 upvotes, $0
-194. [Account takeover intercepting magic link for Arrive app](https://hackerone.com/reports/855618) to Shopify - 26 upvotes, $0
+187. [Account takeover intercepting magic link for Arrive app](https://hackerone.com/reports/855618) to Shopify - 27 upvotes, $0
+188. [Shop App - Attacker is able to intercept authorization code during authentication (OAuth) and is able to get access to Microsoft Outlook email account](https://hackerone.com/reports/1700734) to Shopify - 26 upvotes, $900
+189. [None permission staff member can identify installed application and products attached to it](https://hackerone.com/reports/848625) to Shopify - 26 upvotes, $500
+190. [user with no draft order permission can still perform action on draft order's in stocky app (idor)](https://hackerone.com/reports/802286) to Shopify - 26 upvotes, $500
+191. [Stealing users' facebook access tokens - kitcrm.com](https://hackerone.com/reports/211477) to Shopify - 26 upvotes, $0
+192. [Preview bar: Incomplete message origin validation results in XSS](https://hackerone.com/reports/381192) to Shopify - 26 upvotes, $0
+193. [[ux.shopify.com] Subdomain takeover](https://hackerone.com/reports/221631) to Shopify - 26 upvotes, $0
+194. [Stored - XSS](https://hackerone.com/reports/532643) to Shopify - 26 upvotes, $0
 195. [Stored XSS on apps.shopify.com](https://hackerone.com/reports/1107726) to Shopify - 26 upvotes, $0
 196. [Sidekiq dashboard exposed at notary.shopifycloud.com](https://hackerone.com/reports/1405673) to Shopify - 26 upvotes, $0
 197. [Staff  can use BULK_OPERATIONS_FINISH webhook topic using Graphql without permissions all](https://hackerone.com/reports/1350095) to Shopify - 26 upvotes, $0
@@ -281,16 +281,16 @@ Top reports from Shopify program at HackerOne:
 279. [Stored XSS in partners dashboard](https://hackerone.com/reports/271765) to Shopify - 14 upvotes, $0
 280. [Screenshot Service leaks X-ABS-App-Token](https://hackerone.com/reports/1067443) to Shopify - 14 upvotes, $0
 281. [User with no Develop apps permission can Uninstall Custom App](https://hackerone.com/reports/1466855) to Shopify - 14 upvotes, $0
-282. [Subdomain Takeover at course.oberlo.com](https://hackerone.com/reports/1690951) to Shopify - 14 upvotes, $0
-283. [Read/Write arbitrary (non-HttpOnly) cookies on checkout pages via GoogleAnalyticsAdditionalScripts postMessage handler](https://hackerone.com/reports/1081167) to Shopify - 13 upvotes, $1600
-284. [Open redirection in OAuth](https://hackerone.com/reports/55525) to Shopify - 13 upvotes, $500
-285. [[apps.shopify.com] Open Redirect](https://hackerone.com/reports/160047) to Shopify - 13 upvotes, $500
-286. [Stored XSS at 'Buy Button' page](https://hackerone.com/reports/186462) to Shopify - 13 upvotes, $500
-287. [Subdomain takeover on s3.shopify.com](https://hackerone.com/reports/207576) to Shopify - 13 upvotes, $500
-288. [From full-access account to Account Owner](https://hackerone.com/reports/99863) to Shopify - 13 upvotes, $500
-289. [Stored XSS in *.myshopify.com](https://hackerone.com/reports/241008) to Shopify - 13 upvotes, $0
-290. [Add store to new partner account without confirming email address.](https://hackerone.com/reports/633371) to Shopify - 13 upvotes, $0
-291. [After changing the storefront password, the preview link is still valid](https://hackerone.com/reports/1370749) to Shopify - 13 upvotes, $0
+282. [After changing the storefront password, the preview link is still valid](https://hackerone.com/reports/1370749) to Shopify - 14 upvotes, $0
+283. [Subdomain Takeover at course.oberlo.com](https://hackerone.com/reports/1690951) to Shopify - 14 upvotes, $0
+284. [Read/Write arbitrary (non-HttpOnly) cookies on checkout pages via GoogleAnalyticsAdditionalScripts postMessage handler](https://hackerone.com/reports/1081167) to Shopify - 13 upvotes, $1600
+285. [Open redirection in OAuth](https://hackerone.com/reports/55525) to Shopify - 13 upvotes, $500
+286. [[apps.shopify.com] Open Redirect](https://hackerone.com/reports/160047) to Shopify - 13 upvotes, $500
+287. [Stored XSS at 'Buy Button' page](https://hackerone.com/reports/186462) to Shopify - 13 upvotes, $500
+288. [Subdomain takeover on s3.shopify.com](https://hackerone.com/reports/207576) to Shopify - 13 upvotes, $500
+289. [From full-access account to Account Owner](https://hackerone.com/reports/99863) to Shopify - 13 upvotes, $500
+290. [Stored XSS in *.myshopify.com](https://hackerone.com/reports/241008) to Shopify - 13 upvotes, $0
+291. [Add store to new partner account without confirming email address.](https://hackerone.com/reports/633371) to Shopify - 13 upvotes, $0
 292. [Improper deep link validation ](https://hackerone.com/reports/1087744) to Shopify - 13 upvotes, $0
 293. [shopifyapps.com XSS on sales channels via currency formatting](https://hackerone.com/reports/104359) to Shopify - 12 upvotes, $1000
 294. [Orders full read for a staff with only `Customers` permissions.](https://hackerone.com/reports/1392032) to Shopify - 12 upvotes, $800
@@ -319,16 +319,16 @@ Top reports from Shopify program at HackerOne:
 317. [Privilege Escalation in Point Of Sale Application from POS Manage Staff Role to potentially Store Owner](https://hackerone.com/reports/985150) to Shopify - 10 upvotes, $0
 318. [XSS stored in the Shopify Email app](https://hackerone.com/reports/1033882) to Shopify - 10 upvotes, $0
 319. [Missing of csrf protection ](https://hackerone.com/reports/96470) to Shopify - 9 upvotes, $500
-320. [SSL cookie without secure flag set](https://hackerone.com/reports/58679) to Shopify - 9 upvotes, $0
-321. [Delete/modify  your own comment after limited access(IDOR)](https://hackerone.com/reports/154410) to Shopify - 9 upvotes, $0
-322. [[ecommerce.shopify.com] Invalidated redirection](https://hackerone.com/reports/175168) to Shopify - 9 upvotes, $0
-323. [ShopifyAPI is vulnerable to timing attacks.](https://hackerone.com/reports/224096) to Shopify - 9 upvotes, $0
-324. [API Webhooks Fire And Are Unlisted After Permissions Removed](https://hackerone.com/reports/227230) to Shopify - 9 upvotes, $0
-325. [Potential SSRF and disclosure of sensitive site on *shopifycloud.com](https://hackerone.com/reports/382612) to Shopify - 9 upvotes, $0
-326. [Subdomain Takeover of multiple *.ttcdn.co domains](https://hackerone.com/reports/915649) to Shopify - 9 upvotes, $0
-327. [A staff without export customers permissions can still export customers CSV file](https://hackerone.com/reports/860197) to Shopify - 9 upvotes, $0
-328. [Password reset token leak via "Host header"  on third party website](https://hackerone.com/reports/1092831) to Shopify - 9 upvotes, $0
-329. [An administrator without any permission is able to get order notifications using his APNS Token.](https://hackerone.com/reports/100938) to Shopify - 8 upvotes, $500
+320. [An administrator without any permission is able to get order notifications using his APNS Token.](https://hackerone.com/reports/100938) to Shopify - 9 upvotes, $500
+321. [SSL cookie without secure flag set](https://hackerone.com/reports/58679) to Shopify - 9 upvotes, $0
+322. [Delete/modify  your own comment after limited access(IDOR)](https://hackerone.com/reports/154410) to Shopify - 9 upvotes, $0
+323. [[ecommerce.shopify.com] Invalidated redirection](https://hackerone.com/reports/175168) to Shopify - 9 upvotes, $0
+324. [ShopifyAPI is vulnerable to timing attacks.](https://hackerone.com/reports/224096) to Shopify - 9 upvotes, $0
+325. [API Webhooks Fire And Are Unlisted After Permissions Removed](https://hackerone.com/reports/227230) to Shopify - 9 upvotes, $0
+326. [Potential SSRF and disclosure of sensitive site on *shopifycloud.com](https://hackerone.com/reports/382612) to Shopify - 9 upvotes, $0
+327. [Subdomain Takeover of multiple *.ttcdn.co domains](https://hackerone.com/reports/915649) to Shopify - 9 upvotes, $0
+328. [A staff without export customers permissions can still export customers CSV file](https://hackerone.com/reports/860197) to Shopify - 9 upvotes, $0
+329. [Password reset token leak via "Host header"  on third party website](https://hackerone.com/reports/1092831) to Shopify - 9 upvotes, $0
 330. [H1514 Ability to Edit Packaging Slip Templates and View Product & Shipping Information by a low privileged staff in a Sandbox Store](https://hackerone.com/reports/423198) to Shopify - 8 upvotes, $500
 331. [[h1-2102] Break permissions waterfall](https://hackerone.com/reports/1088159) to Shopify - 8 upvotes, $500
 332. [Same the Url](https://hackerone.com/reports/1459338) to Shopify - 8 upvotes, $500
@@ -349,26 +349,26 @@ Top reports from Shopify program at HackerOne:
 347. [Bypass For #997350 your-store.myshopify.com preview link is leak on third party website Via Online Store](https://hackerone.com/reports/1015283) to Shopify - 7 upvotes, $500
 348. [store internal email disclosed through shopify-data-exporter ](https://hackerone.com/reports/1605962) to Shopify - 7 upvotes, $500
 349. [Missing spf flags for myshopify.com](https://hackerone.com/reports/54779) to Shopify - 7 upvotes, $0
-350. [XSS in Draft Orders in Timeline i SHOPIFY Admin Site!](https://hackerone.com/reports/117449) to Shopify - 7 upvotes, $0
-351. [Staff member can delete Private Apps](https://hackerone.com/reports/155704) to Shopify - 7 upvotes, $0
-352. [View all deleted comments and rating of any app .](https://hackerone.com/reports/135756) to Shopify - 7 upvotes, $0
-353. [Payment gateway status transferred to Shopify without authentication](https://hackerone.com/reports/56628) to Shopify - 7 upvotes, $0
-354. [Deleted Post and Administrative Function Access in eCommerce Forum](https://hackerone.com/reports/167846) to Shopify - 7 upvotes, $0
-355. [Stored passive XSS at scheduled posts (kitcrm.com)](https://hackerone.com/reports/214581) to Shopify - 7 upvotes, $0
-356. [Redirect in adding advance cash on delivery app](https://hackerone.com/reports/188266) to Shopify - 7 upvotes, $0
-357. [Open Redirect in shopify app URL](https://hackerone.com/reports/226408) to Shopify - 7 upvotes, $0
-358. [access permission is not revoked even if the email has been deleted or changed on the partner account -partners.shopify-](https://hackerone.com/reports/870001) to Shopify - 7 upvotes, $0
-359. [Admin web sessions remain active after logout of Shopify ID](https://hackerone.com/reports/952035) to Shopify - 7 upvotes, $0
-360. [Unauthorized access to all collections, products, pages from other stores](https://hackerone.com/reports/93921) to Shopify - 6 upvotes, $2500
-361. [STAFF "No-Permissions" on the Store can retrieve the details Order via exchangeReceiptSend](https://hackerone.com/reports/917875) to Shopify - 6 upvotes, $1000
-362. [Authentication Failed Mobile version](https://hackerone.com/reports/55530) to Shopify - 6 upvotes, $500
-363. [Open Redirect after login at http://ecommerce.shopify.com](https://hackerone.com/reports/55546) to Shopify - 6 upvotes, $500
-364. [File name and folder enumeration.](https://hackerone.com/reports/118688) to Shopify - 6 upvotes, $500
-365. [XSS in experts.shopify.com](https://hackerone.com/reports/57459) to Shopify - 6 upvotes, $0
-366. [Force 500 Internal Server Error on any shop (for one user)](https://hackerone.com/reports/55716) to Shopify - 6 upvotes, $0
-367. [TCP Source Port Pass Firewall](https://hackerone.com/reports/77802) to Shopify - 6 upvotes, $0
-368. [Privilege escalation and circumvention of permission to limited access user](https://hackerone.com/reports/95589) to Shopify - 6 upvotes, $0
-369. [Bypassed password authentication before enabling OTP verification](https://hackerone.com/reports/124845) to Shopify - 6 upvotes, $0
+350. [Force 500 Internal Server Error on any shop (for one user)](https://hackerone.com/reports/55716) to Shopify - 7 upvotes, $0
+351. [XSS in Draft Orders in Timeline i SHOPIFY Admin Site!](https://hackerone.com/reports/117449) to Shopify - 7 upvotes, $0
+352. [Staff member can delete Private Apps](https://hackerone.com/reports/155704) to Shopify - 7 upvotes, $0
+353. [View all deleted comments and rating of any app .](https://hackerone.com/reports/135756) to Shopify - 7 upvotes, $0
+354. [Payment gateway status transferred to Shopify without authentication](https://hackerone.com/reports/56628) to Shopify - 7 upvotes, $0
+355. [Deleted Post and Administrative Function Access in eCommerce Forum](https://hackerone.com/reports/167846) to Shopify - 7 upvotes, $0
+356. [Stored passive XSS at scheduled posts (kitcrm.com)](https://hackerone.com/reports/214581) to Shopify - 7 upvotes, $0
+357. [Redirect in adding advance cash on delivery app](https://hackerone.com/reports/188266) to Shopify - 7 upvotes, $0
+358. [Open Redirect in shopify app URL](https://hackerone.com/reports/226408) to Shopify - 7 upvotes, $0
+359. [access permission is not revoked even if the email has been deleted or changed on the partner account -partners.shopify-](https://hackerone.com/reports/870001) to Shopify - 7 upvotes, $0
+360. [Admin web sessions remain active after logout of Shopify ID](https://hackerone.com/reports/952035) to Shopify - 7 upvotes, $0
+361. [Unauthorized access to all collections, products, pages from other stores](https://hackerone.com/reports/93921) to Shopify - 6 upvotes, $2500
+362. [STAFF "No-Permissions" on the Store can retrieve the details Order via exchangeReceiptSend](https://hackerone.com/reports/917875) to Shopify - 6 upvotes, $1000
+363. [Authentication Failed Mobile version](https://hackerone.com/reports/55530) to Shopify - 6 upvotes, $500
+364. [Open Redirect after login at http://ecommerce.shopify.com](https://hackerone.com/reports/55546) to Shopify - 6 upvotes, $500
+365. [File name and folder enumeration.](https://hackerone.com/reports/118688) to Shopify - 6 upvotes, $500
+366. [Bypassed password authentication before enabling OTP verification](https://hackerone.com/reports/124845) to Shopify - 6 upvotes, $500
+367. [XSS in experts.shopify.com](https://hackerone.com/reports/57459) to Shopify - 6 upvotes, $0
+368. [TCP Source Port Pass Firewall](https://hackerone.com/reports/77802) to Shopify - 6 upvotes, $0
+369. [Privilege escalation and circumvention of permission to limited access user](https://hackerone.com/reports/95589) to Shopify - 6 upvotes, $0
 370. [Open Redirect possible in https://www.shopify.com/admin/](https://hackerone.com/reports/161991) to Shopify - 6 upvotes, $0
 371. [Arbitrary write on s3://shopify-delivery-app-storage/files](https://hackerone.com/reports/93691) to Shopify - 5 upvotes, $2000
 372. ['Limited' RCE in certain places where Liquid is accepted](https://hackerone.com/reports/98259) to Shopify - 5 upvotes, $1500
@@ -407,34 +407,34 @@ Top reports from Shopify program at HackerOne:
 405. [Domain takoever - https://sellocdn.com](https://hackerone.com/reports/96007) to Shopify - 4 upvotes, $0
 406. [Unauthorized access to any Store Admin's First & Last name](https://hackerone.com/reports/95441) to Shopify - 4 upvotes, $0
 407. [deleted staff member can add his amazon marketplace web services account to the store.](https://hackerone.com/reports/99374) to Shopify - 4 upvotes, $0
-408. [ [CSRF] Activate PayPal Express Checkout](https://hackerone.com/reports/99321) to Shopify - 4 upvotes, $0
-409. [Non-owner user can remove online store channel and re-add it.](https://hackerone.com/reports/98151) to Shopify - 4 upvotes, $0
-410. [Full access to Amazon S3 bucket containing AWS CloudTrail logs](https://hackerone.com/reports/111643) to Shopify - 4 upvotes, $0
-411. [Some store settings/data are accessible to "No Access" permission users on GraphQL LiveView operation](https://hackerone.com/reports/409973) to Shopify - 4 upvotes, $0
-412. [Arbitrary read on s3://shopify-delivery-app-storage/files](https://hackerone.com/reports/94087) to Shopify - 3 upvotes, $1500
-413. [Bypass access restrictions from API](https://hackerone.com/reports/67557) to Shopify - 3 upvotes, $1000
-414. [XSS at importing Product List](https://hackerone.com/reports/67125) to Shopify - 3 upvotes, $500
-415. [XSS at Bulk editing products](https://hackerone.com/reports/67132) to Shopify - 3 upvotes, $500
-416. [CSRF token fixation in facebook store app that can lead to adding attacker to victim acc ](https://hackerone.com/reports/55911) to Shopify - 3 upvotes, $500
-417. [Accessing Payments page and adding payment methods with limited access accounts](https://hackerone.com/reports/92481) to Shopify - 3 upvotes, $500
-418. [List of devices is accessible regardless of the account limitations](https://hackerone.com/reports/97535) to Shopify - 3 upvotes, $500
-419. [A 'Full access' administrator is able to see the shop owners user details](https://hackerone.com/reports/96890) to Shopify - 3 upvotes, $500
-420. [Apps can access 'channels' beta api](https://hackerone.com/reports/98499) to Shopify - 3 upvotes, $500
-421. ["Remember me" token generated when "Remember me" box unchecked](https://hackerone.com/reports/105991) to Shopify - 3 upvotes, $500
-422. [CSRF on https://shopify.com/plus](https://hackerone.com/reports/114430) to Shopify - 3 upvotes, $500
-423. [Lack of SSL Pinning on POS Application ( iOS )](https://hackerone.com/reports/55644) to Shopify - 3 upvotes, $0
-424. [Multiple issues on Checkout Process](https://hackerone.com/reports/56800) to Shopify - 3 upvotes, $0
-425. [XSS on support.shopify.com](https://hackerone.com/reports/56760) to Shopify - 3 upvotes, $0
-426. [Expire User Sessions in Admin Site does not expire user session in Shopify Application in IOS](https://hackerone.com/reports/67220) to Shopify - 3 upvotes, $0
-427. [Reflected XSS in chat.](https://hackerone.com/reports/81757) to Shopify - 3 upvotes, $0
-428. [Invitation issue](https://hackerone.com/reports/56726) to Shopify - 3 upvotes, $0
-429. [Passwords Returned in Later Responses.](https://hackerone.com/reports/90862) to Shopify - 3 upvotes, $0
-430. [The POS Firmware is leaking the root Password which can be used for unauthorized access to the device.](https://hackerone.com/reports/92633) to Shopify - 3 upvotes, $0
-431. [Privilege escalation vulnerability](https://hackerone.com/reports/90671) to Shopify - 3 upvotes, $0
-432. [Unauthenticated access to details of hidden products in any shop via title emuneration](https://hackerone.com/reports/93394) to Shopify - 3 upvotes, $0
-433. [Bypassing password requirement during deletion of accout](https://hackerone.com/reports/93901) to Shopify - 3 upvotes, $0
-434. [First & Last Name Disclosure of any Shopify Store Admin](https://hackerone.com/reports/93294) to Shopify - 3 upvotes, $0
-435. [CSV Excel Macro Injection Vulnerability in export list of current users - app.shopify.com](https://hackerone.com/reports/100667) to Shopify - 3 upvotes, $0
+408. [CSV Excel Macro Injection Vulnerability in export list of current users - app.shopify.com](https://hackerone.com/reports/100667) to Shopify - 4 upvotes, $0
+409. [ [CSRF] Activate PayPal Express Checkout](https://hackerone.com/reports/99321) to Shopify - 4 upvotes, $0
+410. [Non-owner user can remove online store channel and re-add it.](https://hackerone.com/reports/98151) to Shopify - 4 upvotes, $0
+411. [Full access to Amazon S3 bucket containing AWS CloudTrail logs](https://hackerone.com/reports/111643) to Shopify - 4 upvotes, $0
+412. [Some store settings/data are accessible to "No Access" permission users on GraphQL LiveView operation](https://hackerone.com/reports/409973) to Shopify - 4 upvotes, $0
+413. [Arbitrary read on s3://shopify-delivery-app-storage/files](https://hackerone.com/reports/94087) to Shopify - 3 upvotes, $1500
+414. [Bypass access restrictions from API](https://hackerone.com/reports/67557) to Shopify - 3 upvotes, $1000
+415. [XSS at importing Product List](https://hackerone.com/reports/67125) to Shopify - 3 upvotes, $500
+416. [XSS at Bulk editing products](https://hackerone.com/reports/67132) to Shopify - 3 upvotes, $500
+417. [CSRF token fixation in facebook store app that can lead to adding attacker to victim acc ](https://hackerone.com/reports/55911) to Shopify - 3 upvotes, $500
+418. [Accessing Payments page and adding payment methods with limited access accounts](https://hackerone.com/reports/92481) to Shopify - 3 upvotes, $500
+419. [List of devices is accessible regardless of the account limitations](https://hackerone.com/reports/97535) to Shopify - 3 upvotes, $500
+420. [A 'Full access' administrator is able to see the shop owners user details](https://hackerone.com/reports/96890) to Shopify - 3 upvotes, $500
+421. [Apps can access 'channels' beta api](https://hackerone.com/reports/98499) to Shopify - 3 upvotes, $500
+422. ["Remember me" token generated when "Remember me" box unchecked](https://hackerone.com/reports/105991) to Shopify - 3 upvotes, $500
+423. [CSRF on https://shopify.com/plus](https://hackerone.com/reports/114430) to Shopify - 3 upvotes, $500
+424. [Lack of SSL Pinning on POS Application ( iOS )](https://hackerone.com/reports/55644) to Shopify - 3 upvotes, $0
+425. [Multiple issues on Checkout Process](https://hackerone.com/reports/56800) to Shopify - 3 upvotes, $0
+426. [XSS on support.shopify.com](https://hackerone.com/reports/56760) to Shopify - 3 upvotes, $0
+427. [Expire User Sessions in Admin Site does not expire user session in Shopify Application in IOS](https://hackerone.com/reports/67220) to Shopify - 3 upvotes, $0
+428. [Reflected XSS in chat.](https://hackerone.com/reports/81757) to Shopify - 3 upvotes, $0
+429. [Invitation issue](https://hackerone.com/reports/56726) to Shopify - 3 upvotes, $0
+430. [Passwords Returned in Later Responses.](https://hackerone.com/reports/90862) to Shopify - 3 upvotes, $0
+431. [The POS Firmware is leaking the root Password which can be used for unauthorized access to the device.](https://hackerone.com/reports/92633) to Shopify - 3 upvotes, $0
+432. [Privilege escalation vulnerability](https://hackerone.com/reports/90671) to Shopify - 3 upvotes, $0
+433. [Unauthenticated access to details of hidden products in any shop via title emuneration](https://hackerone.com/reports/93394) to Shopify - 3 upvotes, $0
+434. [Bypassing password requirement during deletion of accout](https://hackerone.com/reports/93901) to Shopify - 3 upvotes, $0
+435. [First & Last Name Disclosure of any Shopify Store Admin](https://hackerone.com/reports/93294) to Shopify - 3 upvotes, $0
 436. [XSS in creating tweets](https://hackerone.com/reports/101450) to Shopify - 3 upvotes, $0
 437. [Get analytics token using only apps permission](https://hackerone.com/reports/901775) to Shopify - 3 upvotes, $0
 438. [unauthorized access to all collections name](https://hackerone.com/reports/93004) to Shopify - 2 upvotes, $2000

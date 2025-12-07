@@ -15,23 +15,23 @@ Top Mobile reports from HackerOne:
 13. [Bypass of biometrics security functionality is possible in Android application (com.shopify.mobile)](https://hackerone.com/reports/637194) to Shopify - 86 upvotes, $500
 14. [MetaMask Browser URL and Transaction Origin Spoofing - Metamask wallet Android & Metamask wallet iOS](https://hackerone.com/reports/1751333) to MetaMask - 85 upvotes, $0
 15. [[Razer Pay Android App] Multiple vulnerabilities chained to allow "RedPacket" money to be stolen by a 3rd party](https://hackerone.com/reports/753280) to Razer - 84 upvotes, $1000
-16. [Grammarly Keyboard for Android \<4.1  leaks user input through logs (except for sensitive input fields)](https://hackerone.com/reports/462416) to Grammarly - 84 upvotes, $0
+16. [Grammarly Keyboard for Android \<4.1  leaks user input through logs (except for sensitive input fields)](https://hackerone.com/reports/462416) to Superhuman (formerly Grammarly) - 84 upvotes, $0
 17. [Ability to Add and Verify Uncontrolled Mobile Numbers Leading to Account Takeover (ATO)](https://hackerone.com/reports/2762462) to MTN Group - 83 upvotes, $0
 18. [Reflect XSS on Mobile Search page ](https://hackerone.com/reports/380246) to Pornhub - 79 upvotes, $250
 19. [Sensitive Info Leak - An Attacker Can Retrieve All the Users Mobile Numbers at https://website-api.production.curve.app/api/waitlist/us](https://hackerone.com/reports/902733) to Curve - 78 upvotes, $0
-20. [Domain highlighting on External link warning is not working on Chrome & Microsoft Edge browsers on Mobile](https://hackerone.com/reports/2553026) to HackerOne - 77 upvotes, $0
-21. [Grammarly Keyboard for Android "Authorization Code with PKCE" flow implementation vulnerability that allows account takeover](https://hackerone.com/reports/824931) to Grammarly - 74 upvotes, $0
+20. [Domain highlighting on External link warning is not working on Chrome & Microsoft Edge browsers on Mobile](https://hackerone.com/reports/2553026) to HackerOne - 78 upvotes, $0
+21. [Grammarly Keyboard for Android "Authorization Code with PKCE" flow implementation vulnerability that allows account takeover](https://hackerone.com/reports/824931) to Superhuman (formerly Grammarly) - 74 upvotes, $0
 22. [Authorization bypass using login by phone option+horizontal escalation possible on Grab Android App](https://hackerone.com/reports/205000) to Grab - 67 upvotes, $0
 23. [Persistant Arbitrary code execution in mattermost android](https://hackerone.com/reports/1115864) to Mattermost - 66 upvotes, $0
 24. [Insufficient session expiration in the **com.shopify.ping** android app](https://hackerone.com/reports/1172205) to Shopify - 63 upvotes, $0
 25. [Java: CWE-749 Unsafe resource loading in Android WebView leaking to injection attacks](https://hackerone.com/reports/1011956) to GitHub Security Lab - 60 upvotes, $2300
-26. [URL Scheme Validation Bypass in Shopify Mobile App Allows Javascript Execution](https://hackerone.com/reports/1737358) to Shopify - 58 upvotes, $0
+26. [URL Scheme Validation Bypass in Shopify Mobile App Allows Javascript Execution](https://hackerone.com/reports/1737358) to Shopify - 59 upvotes, $0
 27. [Periscope iOS app CSRF in follow action due to deeplink](https://hackerone.com/reports/805073) to X / xAI - 57 upvotes, $2940
 28. [Default Nextcloud Server and Android Client leak sharee searches to Nextcloud](https://hackerone.com/reports/1167916) to Nextcloud - 57 upvotes, $750
 29. [Android: Explanation of Access to app protected components vulnerability](https://hackerone.com/reports/951691) to ██████ - 56 upvotes, $0
-30. [Path Traversal в iOS приложении](https://hackerone.com/reports/1050231) to VK.com - 55 upvotes, $700
-31. [Possibility to attach any mobile number to any email](https://hackerone.com/reports/18992) to Mail.ru - 54 upvotes, $0
-32. [Firebase Database Takeover in Zego Sense Android app](https://hackerone.com/reports/1065134) to Zego - 54 upvotes, $0
+30. [Firebase Database Takeover in Zego Sense Android app](https://hackerone.com/reports/1065134) to Zego - 56 upvotes, $0
+31. [Path Traversal в iOS приложении](https://hackerone.com/reports/1050231) to VK.com - 55 upvotes, $700
+32. [Possibility to attach any mobile number to any email](https://hackerone.com/reports/18992) to Mail.ru - 54 upvotes, $0
 33. [Уязвимость в приложении для Android](https://hackerone.com/reports/1343528) to VK.com - 51 upvotes, $3000
 34. [bypass two-factor authentication in Android apps and web](https://hackerone.com/reports/1747978) to TikTok - 51 upvotes, $0
 35. [Stealing Private Information in VK Android App through PlayerProxy Port Remotely](https://hackerone.com/reports/292761) to VK.com - 50 upvotes, $700
@@ -96,7 +96,7 @@ Top Mobile reports from HackerOne:
 94. [Login with Google Not Authenticated on iOS App](https://hackerone.com/reports/202177) to Instacart - 15 upvotes, $0
 95. [Find whether a video has been favourited or not, for any user [via YouPorn Mobile API]](https://hackerone.com/reports/203042) to Pornhub - 15 upvotes, $0
 96. [User Profiles Leak PII in HTML Document for Mobile Browser User Agents](https://hackerone.com/reports/288596) to Eternal - 15 upvotes, $0
-97. [Can register any mobile number in MFA without current code.](https://hackerone.com/reports/667740) to Grammarly - 15 upvotes, $0
+97. [Can register any mobile number in MFA without current code.](https://hackerone.com/reports/667740) to Superhuman (formerly Grammarly) - 15 upvotes, $0
 98. [Local SQL Injection in Content Provider (ru.mail.data.contact.ContactsProvider) of Mail.ru for Android, version 12.2.0.29734](https://hackerone.com/reports/887968) to Mail.ru - 14 upvotes, $0
 99. [End to end encryption public key is not properly verified on Desktop and Android](https://hackerone.com/reports/1189162) to Nextcloud - 13 upvotes, $1500
 100. [Android app does not clear end to end encryption keys](https://hackerone.com/reports/1189168) to Nextcloud - 13 upvotes, $100
@@ -146,15 +146,15 @@ Top Mobile reports from HackerOne:
 144. [Malicious apps can crash Nextcloud Android client by sending malformed intents ](https://hackerone.com/reports/859136) to Nextcloud - 6 upvotes, $0
 145. [Mail.ru for Android Content Provider Vulnerability](https://hackerone.com/reports/143280) to Mail.ru - 5 upvotes, $250
 146. [Insecure Data Storage in Vine Android App](https://hackerone.com/reports/44727) to X / xAI - 5 upvotes, $140
-147. [API OAuth Public Key disclosure in mobile app](https://hackerone.com/reports/160120) to Instacart - 5 upvotes, $0
-148. [No Security check at changing password and at adding mobile number which leads to account takeover and spam](https://hackerone.com/reports/207552) to Khan Academy - 5 upvotes, $0
-149. [Android SDK - CREATE_REQUEST broascast is unprotected](https://hackerone.com/reports/180349) to Zendesk - 5 upvotes, $0
-150. [/accounts/USERID.json file is left open for Restricted User of organization disclosing Owners's Mobile Number and "billing_info, cc_email"](https://hackerone.com/reports/221250) to New Relic - 5 upvotes, $0
-151. [Widespread failure of certificate validation in Android apps](https://hackerone.com/reports/2293) to Internet Bug Bounty - 5 upvotes, $0
-152. [[Java] CWE-200: Query to detect exposure of sensitive information from android file intent](https://hackerone.com/reports/1365761) to GitHub Security Lab - 4 upvotes, $1800
-153. [Bypass of #447975 - view mobile application token though "Application Information" sidebar on Installation page ](https://hackerone.com/reports/479139) to New Relic - 4 upvotes, $500
-154. [In Fantasy Sports iOS app, signup page is requested over HTTP](https://hackerone.com/reports/2101) to Yahoo! - 4 upvotes, $0
-155. [iOS application does not destroy session upon logout.](https://hackerone.com/reports/7041) to IRCCloud - 4 upvotes, $0
+147. [iOS application does not destroy session upon logout.](https://hackerone.com/reports/7041) to IRCCloud - 5 upvotes, $0
+148. [API OAuth Public Key disclosure in mobile app](https://hackerone.com/reports/160120) to Instacart - 5 upvotes, $0
+149. [No Security check at changing password and at adding mobile number which leads to account takeover and spam](https://hackerone.com/reports/207552) to Khan Academy - 5 upvotes, $0
+150. [Android SDK - CREATE_REQUEST broascast is unprotected](https://hackerone.com/reports/180349) to Zendesk - 5 upvotes, $0
+151. [/accounts/USERID.json file is left open for Restricted User of organization disclosing Owners's Mobile Number and "billing_info, cc_email"](https://hackerone.com/reports/221250) to New Relic - 5 upvotes, $0
+152. [Widespread failure of certificate validation in Android apps](https://hackerone.com/reports/2293) to Internet Bug Bounty - 5 upvotes, $0
+153. [[Java] CWE-200: Query to detect exposure of sensitive information from android file intent](https://hackerone.com/reports/1365761) to GitHub Security Lab - 4 upvotes, $1800
+154. [Bypass of #447975 - view mobile application token though "Application Information" sidebar on Installation page ](https://hackerone.com/reports/479139) to New Relic - 4 upvotes, $500
+155. [In Fantasy Sports iOS app, signup page is requested over HTTP](https://hackerone.com/reports/2101) to Yahoo! - 4 upvotes, $0
 156. [HTML/XSS rendered in Android App of Crashlytics through fabric.io](https://hackerone.com/reports/41856) to X / xAI - 4 upvotes, $0
 157. [Uber is Flooding my Mobile with SMS Daily  like a cron JOB](https://hackerone.com/reports/141339) to Uber - 4 upvotes, $0
 158. [Bypass pin(4 digit passcode on your android app)](https://hackerone.com/reports/50884) to Whisper - 3 upvotes, $100

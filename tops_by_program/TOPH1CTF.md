@@ -20,10 +20,10 @@ Top reports from h1-ctf program at HackerOne:
 18. [[h1-415 2020] H1-415 CTF Writeup by W--](https://hackerone.com/reports/780285) to h1-ctf - 17 upvotes, $0
 19. [[H1-2006 2020] [Multiple Vulnerability] CTF Writeup - @abdilahrf_](https://hackerone.com/reports/888484) to h1-ctf - 16 upvotes, $0
 20. [CCC H1 June 2021 CTF Writeup](https://hackerone.com/reports/1217114) to h1-ctf - 16 upvotes, $0
-21. [100K CTF's Writeup](https://hackerone.com/reports/1216591) to h1-ctf - 15 upvotes, $0
-22. [HackerOne’s 100K CTF Writeup](https://hackerone.com/reports/1218708) to h1-ctf - 15 upvotes, $0
-23. [Solution for hackyholiday](https://hackerone.com/reports/1065495) to h1-ctf - 14 upvotes, $500
-24. [[h1-415 2020] My writeup on how to retrieve the special secret document](https://hackerone.com/reports/776684) to h1-ctf - 14 upvotes, $0
+21. [Solution for hackyholiday](https://hackerone.com/reports/1065495) to h1-ctf - 15 upvotes, $500
+22. [[h1-415 2020] My writeup on how to retrieve the special secret document](https://hackerone.com/reports/776684) to h1-ctf - 15 upvotes, $0
+23. [100K CTF's Writeup](https://hackerone.com/reports/1216591) to h1-ctf - 15 upvotes, $0
+24. [HackerOne’s 100K CTF Writeup](https://hackerone.com/reports/1218708) to h1-ctf - 15 upvotes, $0
 25. [[h1-415 2020] Solution for h1415's CTF challenge](https://hackerone.com/reports/776699) to h1-ctf - 13 upvotes, $0
 26. [[H1-2006 2020] CTF Writeup!](https://hackerone.com/reports/889293) to h1-ctf - 13 upvotes, $0
 27. [[H1-2006 2020]  36 hours of brain cycles utilized on solving a neat puzzle](https://hackerone.com/reports/889793) to h1-ctf - 13 upvotes, $0

@@ -5,11 +5,11 @@ Top Request Smuggling reports from HackerOne:
 3. [Stealing Zomato X-Access-Token: in Bulk using HTTP Request Smuggling on api.zomato.com](https://hackerone.com/reports/771666) to Eternal - 557 upvotes, $0
 4. [Password theft login.newrelic.com via Request Smuggling](https://hackerone.com/reports/498052) to New Relic - 490 upvotes, $3000
 5. [HTTP Request Smuggling via HTTP/2](https://hackerone.com/reports/1211724) to Basecamp - 299 upvotes, $7500
-6. [HTTP request Smuggling](https://hackerone.com/reports/867952) to Helium - 296 upvotes, $0
+6. [HTTP request Smuggling](https://hackerone.com/reports/867952) to Helium - 297 upvotes, $0
 7. [HTTP request smuggling (?) canpol.deti.mail.ru](https://hackerone.com/reports/957881) to Mail.ru - 241 upvotes, $5000
 8. [HTTP Request Smuggling on https://labs.data.gov](https://hackerone.com/reports/726773) to GSA Bounty - 158 upvotes, $750
 9. [HTTP Request Smuggling at app.workbox.dk](https://hackerone.com/reports/919988) to Visma Public - 139 upvotes, $500
-10. [HTTP Request Smuggling due to CR-to-Hyphen conversion](https://hackerone.com/reports/922597) to Node.js - 133 upvotes, $0
+10. [HTTP Request Smuggling due to CR-to-Hyphen conversion](https://hackerone.com/reports/922597) to Node.js - 134 upvotes, $0
 11. [HTTP Request Smuggling on vpn.lob.com](https://hackerone.com/reports/694604) to Lob - 123 upvotes, $500
 12. [HTTP Request Smuggling in Transform Rules using hexadecimal escape sequences in the concat() function](https://hackerone.com/reports/1478633) to Cloudflare Public Bug Bounty - 113 upvotes, $6000
 13. [HTTP request smuggling using malformed Transfer-Encoding header](https://hackerone.com/reports/735748) to Node.js - 103 upvotes, $0

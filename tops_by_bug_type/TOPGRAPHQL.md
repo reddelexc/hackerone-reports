@@ -1,20 +1,20 @@
 Top GraphQL reports from HackerOne:
 
 1. [Confidential data of users and limited metadata of programs and reports accessible via GraphQL](https://hackerone.com/reports/489146) to HackerOne - 1024 upvotes, $0
-2. [Email address of any user can be queried on Report Invitation GraphQL type when username is known](https://hackerone.com/reports/792927) to HackerOne - 660 upvotes, $0
-3. [IDOR - Delete all Licenses and certifications from users account using CreateOrUpdateHackerCertification GraphQL query](https://hackerone.com/reports/2122671) to HackerOne - 364 upvotes, $12500
+2. [Email address of any user can be queried on Report Invitation GraphQL type when username is known](https://hackerone.com/reports/792927) to HackerOne - 661 upvotes, $0
+3. [IDOR - Delete all Licenses and certifications from users account using CreateOrUpdateHackerCertification GraphQL query](https://hackerone.com/reports/2122671) to HackerOne - 367 upvotes, $12500
 4. [Private list members disclosure via GraphQL](https://hackerone.com/reports/885539) to X / xAI - 341 upvotes, $0
 5. [SSRF in graphQL query (pwapi.ex2b.com)](https://hackerone.com/reports/1864188) to EXNESS - 246 upvotes, $3000
 6. [Github Apps can use Scoped-User-To-Server Tokens to Obtain Full Access to User's Projects in Project V2 GraphQL api](https://hackerone.com/reports/1711938) to GitHub - 195 upvotes, $0
 7. [Disclosure of `payment_transactions` for programs via GraphQL query](https://hackerone.com/reports/707433) to HackerOne - 176 upvotes, $0
 8. [GraphQL AdminGenerateSessionPayload is leaked to staff with no permission](https://hackerone.com/reports/898528) to Shopify - 173 upvotes, $0
-9. [SQL injection in GraphQL endpoint through embedded_submission_form_uuid parameter](https://hackerone.com/reports/435066) to HackerOne - 168 upvotes, $0
-10. [IDOR on GraphQL queries BillingDocumentDownload and BillDetails](https://hackerone.com/reports/2207248) to Shopify - 162 upvotes, $5000
+9. [SQL injection in GraphQL endpoint through embedded_submission_form_uuid parameter](https://hackerone.com/reports/435066) to HackerOne - 169 upvotes, $0
+10. [IDOR on GraphQL queries BillingDocumentDownload and BillDetails](https://hackerone.com/reports/2207248) to Shopify - 164 upvotes, $5000
 11. [Undocumented `fileCopy` GraphQL API](https://hackerone.com/reports/981472) to Shopify - 151 upvotes, $2000
 12. [Team object in GraphQL disclosed private_comment](https://hackerone.com/reports/978143) to HackerOne - 144 upvotes, $2500
 13. [Bug in GraphQL and API integration leads to limited user address disclosure](https://hackerone.com/reports/473742) to Starbucks - 142 upvotes, $0
 14. [Unauthorized user can obtain `report_sources` attribute through Team GraphQL object](https://hackerone.com/reports/770209) to HackerOne - 141 upvotes, $2500
-15. [Private program disclosure via `vpn_suspended` GraphQL query](https://hackerone.com/reports/715192) to HackerOne - 135 upvotes, $2500
+15. [Private program disclosure via `vpn_suspended` GraphQL query](https://hackerone.com/reports/715192) to HackerOne - 136 upvotes, $2500
 16. [GraphQL field on Team node can be used to determine if External Program runs invite-only program](https://hackerone.com/reports/877642) to HackerOne - 105 upvotes, $2500
 17. [Team object in GraphQL disclosed total number of whitelisted hackers](https://hackerone.com/reports/342978) to HackerOne - 91 upvotes, $2500
 18. [Private information exposed through GraphQL filters](https://hackerone.com/reports/645299) to HackerOne - 80 upvotes, $0
@@ -69,3 +69,4 @@ Top GraphQL reports from HackerOne:
 67. [Some store settings/data are accessible to "No Access" permission users on GraphQL LiveView operation](https://hackerone.com/reports/409973) to Shopify - 4 upvotes, $0
 68. [Getting API access key Through  Introspection query Graphql](https://hackerone.com/reports/969456) to New Relic - 4 upvotes, $0
 69. [Cross-account reading of Insights dashboards through GraphQL](https://hackerone.com/reports/765565) to New Relic - 3 upvotes, $0
+70. [Unauthenticated GraphQL access by prepending __schema to private operations](https://hackerone.com/reports/3452015) to Enjin - 2 upvotes, $0

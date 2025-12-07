@@ -1,6 +1,6 @@
 Top reports from Node.js program at HackerOne:
 
-1. [HTTP Request Smuggling due to CR-to-Hyphen conversion](https://hackerone.com/reports/922597) to Node.js - 133 upvotes, $0
+1. [HTTP Request Smuggling due to CR-to-Hyphen conversion](https://hackerone.com/reports/922597) to Node.js - 134 upvotes, $0
 2. [Improper HTTP header block termination in llhttp](https://hackerone.com/reports/2054283) to Node.js - 121 upvotes, $0
 3. [HTTP request smuggling using malformed Transfer-Encoding header](https://hackerone.com/reports/735748) to Node.js - 103 upvotes, $0
 4. ["Assertion failed" in node::http2::Http2Session::~Http2Session() leads to HTTP/2 server crash](https://hackerone.com/reports/2319584) to Node.js - 65 upvotes, $0
@@ -36,9 +36,9 @@ Top reports from Node.js program at HackerOne:
 34. [fs.lstat bypasses permission model](https://hackerone.com/reports/2145862) to Node.js - 18 upvotes, $0
 35. [HTTP Request Smuggling via Content Length Obfuscation](https://hackerone.com/reports/2237099) to Node.js - 17 upvotes, $0
 36. [Bypass network import restriction via data URL](https://hackerone.com/reports/2092749) to Node.js - 17 upvotes, $0
-37. [Remotely trigger an assertion on a TLS server with a malformed certificate string](https://hackerone.com/reports/746733) to Node.js - 15 upvotes, $0
-38. [Prototype pollution via console.table properties](https://hackerone.com/reports/1431042) to Node.js - 15 upvotes, $0
-39. [DNS rebinding in --inspect (insufficient fix of CVE-2022-32212 affecting macOS devices)](https://hackerone.com/reports/1632921) to Node.js - 15 upvotes, $0
+37. [DNS rebinding in --inspect (insufficient fix of CVE-2022-32212 affecting macOS devices)](https://hackerone.com/reports/1632921) to Node.js - 16 upvotes, $0
+38. [Remotely trigger an assertion on a TLS server with a malformed certificate string](https://hackerone.com/reports/746733) to Node.js - 15 upvotes, $0
+39. [Prototype pollution via console.table properties](https://hackerone.com/reports/1431042) to Node.js - 15 upvotes, $0
 40. [Node.js is vulnerable to the Marvin Attack (timing variant of the Bleichenbacher attack against PKCS#1 v1.5 padding)](https://hackerone.com/reports/2269177) to Node.js - 15 upvotes, $0
 41. [Malformed HTTP/2 SETTINGS frame leads to reachable assert](https://hackerone.com/reports/800140) to Node.js - 14 upvotes, $250
 42. [http: Reading unprocessed HTTP request with unbounded chunk extension allows DoS attacks](https://hackerone.com/reports/2233486) to Node.js - 13 upvotes, $0

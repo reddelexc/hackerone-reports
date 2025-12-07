@@ -3,9 +3,9 @@ Top XXE reports from HackerOne:
 1. [XXE at ecjobs.starbucks.com.cn/retail/hxpublic_v6/hxdynamicpage6.aspx](https://hackerone.com/reports/500515) to Starbucks - 317 upvotes, $0
 2. [XXE on pulse.mail.ru](https://hackerone.com/reports/505947) to Mail.ru - 264 upvotes, $6000
 3. [XXE on sms-be-vip.twitter.com in SXMP Processor](https://hackerone.com/reports/248668) to X / xAI - 256 upvotes, $0
-4. [XXE on https://duckduckgo.com](https://hackerone.com/reports/483774) to DuckDuckGo - 214 upvotes, $0
+4. [XXE on https://duckduckgo.com](https://hackerone.com/reports/483774) to DuckDuckGo - 215 upvotes, $0
 5. [Phone Call to XXE via Interactive Voice Response](https://hackerone.com/reports/395296) to ██████ - 172 upvotes, $0
-6. [Partial bypass of #483774 with Blind XXE on https://duckduckgo.com](https://hackerone.com/reports/486732) to DuckDuckGo - 156 upvotes, $0
+6. [Partial bypass of #483774 with Blind XXE on https://duckduckgo.com](https://hackerone.com/reports/486732) to DuckDuckGo - 157 upvotes, $0
 7. [Multiple endpoints are vulnerable to XML External Entity injection (XXE) ](https://hackerone.com/reports/72272) to Pornhub - 138 upvotes, $2500
 8. [XXE through injection of a payload in the XMP metadata of a JPEG file](https://hackerone.com/reports/836877) to Informatica - 136 upvotes, $0
 9. [XXE Injection through SVG image upload leads to SSRF](https://hackerone.com/reports/897244) to Zivver - 112 upvotes, $0
