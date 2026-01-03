@@ -1,6 +1,6 @@
 Top reports from Ubiquiti Inc. program at HackerOne:
 
-1. [Privilege Escalation From user to SYSTEM via unauthenticated command execution ](https://hackerone.com/reports/544928) to Ubiquiti Inc. - 549 upvotes, $0
+1. [Privilege Escalation From user to SYSTEM via unauthenticated command execution ](https://hackerone.com/reports/544928) to Ubiquiti Inc. - 550 upvotes, $0
 2. [Privilege-0 to Root Privilege Escalation on EdgeSwitch](https://hackerone.com/reports/511025) to Ubiquiti Inc. - 82 upvotes, $0
 3. [Public Jenkins instance with /script enabled](https://hackerone.com/reports/403402) to Ubiquiti Inc. - 74 upvotes, $0
 4. [Remote Code Execution at http://tw.corp.ubnt.com](https://hackerone.com/reports/269066) to Ubiquiti Inc. - 61 upvotes, $0
@@ -15,8 +15,8 @@ Top reports from Ubiquiti Inc. program at HackerOne:
 13. [Firmware download/install vulnerable to CSRF](https://hackerone.com/reports/323852) to Ubiquiti Inc. - 35 upvotes, $0
 14. [sqli](https://hackerone.com/reports/207695) to Ubiquiti Inc. - 33 upvotes, $0
 15. [[dev-nightly.ubnt.com] Local File Reading](https://hackerone.com/reports/260420) to Ubiquiti Inc. - 31 upvotes, $0
-16. [Readonly to Root Privilege Escalation on EdgeSwitch](https://hackerone.com/reports/796414) to Ubiquiti Inc. - 27 upvotes, $0
-17. [IDOR Causing Deletion of any account](https://hackerone.com/reports/156537) to Ubiquiti Inc. - 26 upvotes, $0
+16. [IDOR Causing Deletion of any account](https://hackerone.com/reports/156537) to Ubiquiti Inc. - 27 upvotes, $0
+17. [Readonly to Root Privilege Escalation on EdgeSwitch](https://hackerone.com/reports/796414) to Ubiquiti Inc. - 27 upvotes, $0
 18. [[EdgeSwitch] Web GUI command injection as root with Privilege-1 and Privilege-15 users](https://hackerone.com/reports/197958) to Ubiquiti Inc. - 26 upvotes, $0
 19. [Source code disclosure on https://107.23.69.180](https://hackerone.com/reports/136891) to Ubiquiti Inc. - 25 upvotes, $0
 20. [Directory traversal at https://nightly.ubnt.com](https://hackerone.com/reports/229622) to Ubiquiti Inc. - 25 upvotes, $0

@@ -1,26 +1,26 @@
 Top reports from Acronis program at HackerOne:
 
-1. [SQL Injection in agent-manager](https://hackerone.com/reports/962889) to Acronis - 233 upvotes, $0
-2. [bypass sql injection #1109311](https://hackerone.com/reports/1224660) to Acronis - 161 upvotes, $0
+1. [SQL Injection in agent-manager](https://hackerone.com/reports/962889) to Acronis - 235 upvotes, $0
+2. [bypass sql injection #1109311](https://hackerone.com/reports/1224660) to Acronis - 162 upvotes, $0
 3. [Ticket Trick at https://account.acronis.com](https://hackerone.com/reports/999765) to Acronis - 141 upvotes, $0
 4. [IDOR vulnerability (Price manipulation)](https://hackerone.com/reports/1403176) to Acronis - 141 upvotes, $0
 5. [[oem.acronis.com] Reflected Cross Site Scripting ](https://hackerone.com/reports/2038943) to Acronis - 130 upvotes, $100
 6. [IP restriction bypass via X-Forwarded-For header](https://hackerone.com/reports/1224089) to Acronis - 120 upvotes, $250
 7. [Stored XSS in backup scanning plan name](https://hackerone.com/reports/961046) to Acronis - 119 upvotes, $500
-8. [SQL injection on admin.acronis.host development web service](https://hackerone.com/reports/923020) to Acronis - 114 upvotes, $250
+8. [SQL injection on admin.acronis.host development web service](https://hackerone.com/reports/923020) to Acronis - 116 upvotes, $250
 9. [Attacker Can Access to any Ticket Support on https://www.devicelock.com/support/](https://hackerone.com/reports/1124974) to Acronis - 107 upvotes, $0
 10. [Rate limit bypass on passport.acronis.work using X-Forwarded-For request header](https://hackerone.com/reports/2627062) to Acronis - 101 upvotes, $250
-11. [SQL injection in  https://www.acronis.cz/ via the log parameter](https://hackerone.com/reports/1109311) to Acronis - 97 upvotes, $0
+11. [SQL injection in  https://www.acronis.cz/ via the log parameter](https://hackerone.com/reports/1109311) to Acronis - 100 upvotes, $0
 12. [Flash Based Reflected XSS on www.grouplogic.com/jwplayer/player.swf](https://hackerone.com/reports/859806) to Acronis - 86 upvotes, $0
-13. [Reflected XSS on http://www.grouplogic.com/files/glidownload/verify.asp](https://hackerone.com/reports/859395) to Acronis - 82 upvotes, $0
+13. [Reflected XSS on http://www.grouplogic.com/files/glidownload/verify.asp](https://hackerone.com/reports/859395) to Acronis - 83 upvotes, $0
 14. [Delete any user's added Email,Telephone,Fax,Address,Skype via csrf in (https://academy.acronis.com/)](https://hackerone.com/reports/709537) to Acronis - 80 upvotes, $0
 15. [ Potential XSS Vulnerability in Acronis Login Callback URL](https://hackerone.com/reports/2611305) to Acronis - 77 upvotes, $0
 16. [PUT Based CSRF via Client Side Path Traversal + Cookie Bomb on Acronis Cloud](https://hackerone.com/reports/1860380) to Acronis - 76 upvotes, $600
 17. [[CVE-2021-44228] nps.acronis.com is vulnerable to the recent log4shell 0-day](https://hackerone.com/reports/1425474) to Acronis - 75 upvotes, $1000
 18. [XSS on https://partners.acronis.com/](https://hackerone.com/reports/979204) to Acronis - 72 upvotes, $0
 19. [ mail.acronis.com is vulnerable to zero day vulnerability CVE-2022-41040](https://hackerone.com/reports/1719719) to Acronis - 71 upvotes, $1000
-20. [Subdomain takeover of main domain of https://www.cyberlynx.lu/](https://hackerone.com/reports/1256389) to Acronis - 70 upvotes, $100
-21. [[forum.acronis.com] JNDI Code Injection due an outdated log4j component](https://hackerone.com/reports/1430622) to Acronis - 70 upvotes, $0
+20. [[forum.acronis.com] JNDI Code Injection due an outdated log4j component](https://hackerone.com/reports/1430622) to Acronis - 71 upvotes, $0
+21. [Subdomain takeover of main domain of https://www.cyberlynx.lu/](https://hackerone.com/reports/1256389) to Acronis - 70 upvotes, $100
 22. [Reflected XSS in https://www.acronis.com/products/cyber-protect/trial/](https://hackerone.com/reports/1891926) to Acronis - 69 upvotes, $100
 23. [Reflected XSS on www.grouplogic.com/video.asp](https://hackerone.com/reports/859802) to Acronis - 66 upvotes, $0
 24. [Stored Cross-site Scripting on devicelock.com/forum/](https://hackerone.com/reports/1122513) to Acronis - 65 upvotes, $0
@@ -32,8 +32,8 @@ Top reports from Acronis program at HackerOne:
 30. [DOM Based Cookie Bomb in *.acronis.com via x-clickref GET Parameter](https://hackerone.com/reports/1898305) to Acronis - 52 upvotes, $200
 31. [HTML Injection in E-mail](https://hackerone.com/reports/1536899) to Acronis - 52 upvotes, $0
 32. [Blind SSRF vulnerability on cz.acronis.com](https://hackerone.com/reports/1086206) to Acronis - 47 upvotes, $0
-33. [Render content from untrusted sources via web_preview endpoint on Acronis Cloud](https://hackerone.com/reports/1848118) to Acronis - 46 upvotes, $200
-34. [SQL injection in https://demor.adr.acronis.com/ via the username parameter](https://hackerone.com/reports/1436751) to Acronis - 46 upvotes, $0
+33. [SQL injection in https://demor.adr.acronis.com/ via the username parameter](https://hackerone.com/reports/1436751) to Acronis - 47 upvotes, $0
+34. [Render content from untrusted sources via web_preview endpoint on Acronis Cloud](https://hackerone.com/reports/1848118) to Acronis - 46 upvotes, $200
 35. [Stored XSS in profile page](https://hackerone.com/reports/1084183) to Acronis - 45 upvotes, $50
 36. [admin password disclosure via log file ](https://hackerone.com/reports/1121972) to Acronis - 44 upvotes, $100
 37. [IDOR on www.acronis.com API lead to steal private business user information](https://hackerone.com/reports/1182465) to Acronis - 41 upvotes, $100
@@ -115,11 +115,11 @@ Top reports from Acronis program at HackerOne:
 113. [Self-DoS due to template injection via email field in password reset form on access.acronis.com](https://hackerone.com/reports/1265344) to Acronis - 7 upvotes, $0
 114. [Local Privilege Escalation via DLL Search-Order Hijacking with Cyber Protection Agent - tibxread.exe utility](https://hackerone.com/reports/963103) to Acronis - 7 upvotes, $0
 115. [Local Privilege Escalation via EXE hijacking with Acronis True Image 2021 - Acronis Scheduler2 Service](https://hackerone.com/reports/971610) to Acronis - 7 upvotes, $0
-116. [True Image 2021 - LPE via XPC service communication](https://hackerone.com/reports/966494) to Acronis - 5 upvotes, $250
-117. [Unrestricted file upload vulnerability in IMCE](https://hackerone.com/reports/1121317) to Acronis - 5 upvotes, $0
-118. [Local Privilege Escalation in anti_ransomware_service.exe via quarantine](https://hackerone.com/reports/858598) to Acronis - 5 upvotes, $0
-119. [Information Disclosure via ZIP file on AWS Bucket [http://acronis.1.s3.amazonaws.com]](https://hackerone.com/reports/1121771) to Acronis - 5 upvotes, $0
-120. [Session Fixation on Acronis](https://hackerone.com/reports/1486341) to Acronis - 5 upvotes, $0
+116. [Session Fixation on Acronis](https://hackerone.com/reports/1486341) to Acronis - 6 upvotes, $0
+117. [True Image 2021 - LPE via XPC service communication](https://hackerone.com/reports/966494) to Acronis - 5 upvotes, $250
+118. [Unrestricted file upload vulnerability in IMCE](https://hackerone.com/reports/1121317) to Acronis - 5 upvotes, $0
+119. [Local Privilege Escalation in anti_ransomware_service.exe via quarantine](https://hackerone.com/reports/858598) to Acronis - 5 upvotes, $0
+120. [Information Disclosure via ZIP file on AWS Bucket [http://acronis.1.s3.amazonaws.com]](https://hackerone.com/reports/1121771) to Acronis - 5 upvotes, $0
 121. [Reflected Cross Site Scripting at http://www.grouplogic.com/files/glidownload/verify3.asp [Uppercase Filter Bypass]](https://hackerone.com/reports/1167034) to Acronis - 5 upvotes, $0
 122. [Local Privilege Escalation via EXE hijacking with Acronis True Image 2021 installer](https://hackerone.com/reports/970739) to Acronis - 5 upvotes, $0
 123. [Account Confirmation bypass leads to acess some fucntionality ](https://hackerone.com/reports/1121132) to Acronis - 4 upvotes, $0

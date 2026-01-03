@@ -8,14 +8,14 @@ Top reports from Brave Software program at HackerOne:
 6. [Cookie steal through content Uri](https://hackerone.com/reports/876192) to Brave Software - 78 upvotes, $500
 7. [Local files reading from the web using `brave://`](https://hackerone.com/reports/390013) to Brave Software - 74 upvotes, $0
 8. [Prompt Injection via GitHub Patch in Brave AI Chat (Leo)](https://hackerone.com/reports/3086301) to Brave Software - 74 upvotes, $0
-9. [New XSS vector in ReaderMode with %READER-TITLE-NONCE%](https://hackerone.com/reports/1436142) to Brave Software - 71 upvotes, $1000
+9. [New XSS vector in ReaderMode with %READER-TITLE-NONCE%](https://hackerone.com/reports/1436142) to Brave Software - 72 upvotes, $1000
 10. [UXss on brave browser via scan QR Code](https://hackerone.com/reports/1884042) to Brave Software - 68 upvotes, $500
-11. [SameSite restrictions are lifted, and SameSite:Strict cookie are being sent.](https://hackerone.com/reports/3253725) to Brave Software - 65 upvotes, $500
+11. [SameSite restrictions are lifted, and SameSite:Strict cookie are being sent.](https://hackerone.com/reports/3253725) to Brave Software - 66 upvotes, $500
 12. [Sending arbitrary IPC messages via overriding Function.prototype.apply](https://hackerone.com/reports/188086) to Brave Software - 53 upvotes, $5300
 13. [Lack of quarantine meta-attribute for downloaded files leads to GateKeeper bypass](https://hackerone.com/reports/374106) to Brave Software - 52 upvotes, $0
 14. [DNS Leaks when using any VPN Browser extension with Brave Shield enabled](https://hackerone.com/reports/1203842) to Brave Software - 51 upvotes, $0
 15. [`chrome://brave` available for navigation in Release build [-\> RCE] + navigation to `chrome://*` using tab_helper ["Open in new tab"]](https://hackerone.com/reports/395737) to Brave Software - 46 upvotes, $0
-16. [Brave Android: Incorrect URL Eliding in Brave Shields Pop Up](https://hackerone.com/reports/2501378) to Brave Software - 43 upvotes, $100
+16. [Brave Android: Incorrect URL Eliding in Brave Shields Pop Up](https://hackerone.com/reports/2501378) to Brave Software - 44 upvotes, $100
 17. [Local files reading using `link[rel="import"]`](https://hackerone.com/reports/375329) to Brave Software - 43 upvotes, $0
 18. [Information disclosure-Referer leak](https://hackerone.com/reports/1337624) to Brave Software - 42 upvotes, $500
 19. [[Android] HTML Injection in BatterySaveArticleRenderer WebView](https://hackerone.com/reports/176065) to Brave Software - 42 upvotes, $150

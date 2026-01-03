@@ -37,10 +37,10 @@ Top reports from VK.com program at HackerOne:
 35. [XSS в личных сообщениях](https://hackerone.com/reports/281851) to VK.com - 23 upvotes, $0
 36. [CSRF на установку своей почты к аккаунту.](https://hackerone.com/reports/301586) to VK.com - 23 upvotes, $0
 37. [Обход 2ух-шаговой авторизации / 2FA Bypass](https://hackerone.com/reports/163834) to VK.com - 21 upvotes, $1000
-38. [Смотрим фотографии из частных/закрытых групп.](https://hackerone.com/reports/321594) to VK.com - 21 upvotes, $500
-39. [Reflected XSS в m.vk.com](https://hackerone.com/reports/311913) to VK.com - 21 upvotes, $500
-40. [ПРОСМОТР ЛЮБЫХ ПРИВАТНЫХ ФОТО + ПРЕВЬЮ ЛЮБОГО ПРИВАТНОГО ВИДЕО.](https://hackerone.com/reports/330378) to VK.com - 20 upvotes, $700
-41. [Просмотр любых записей на стене](https://hackerone.com/reports/341675) to VK.com - 20 upvotes, $700
+38. [Просмотр любых записей на стене](https://hackerone.com/reports/341675) to VK.com - 21 upvotes, $700
+39. [Смотрим фотографии из частных/закрытых групп.](https://hackerone.com/reports/321594) to VK.com - 21 upvotes, $500
+40. [Reflected XSS в m.vk.com](https://hackerone.com/reports/311913) to VK.com - 21 upvotes, $500
+41. [ПРОСМОТР ЛЮБЫХ ПРИВАТНЫХ ФОТО + ПРЕВЬЮ ЛЮБОГО ПРИВАТНОГО ВИДЕО.](https://hackerone.com/reports/330378) to VK.com - 20 upvotes, $700
 42. [Reflected xss в m.vk.com/chatjoin](https://hackerone.com/reports/1370240) to VK.com - 20 upvotes, $500
 43. [Общий CSRF токен для сообщений сообществ, или как подставить соседа-редактора](https://hackerone.com/reports/315524) to VK.com - 20 upvotes, $300
 44. [Member still able close another user poll on communities topic](https://hackerone.com/reports/1129816) to VK.com - 20 upvotes, $0

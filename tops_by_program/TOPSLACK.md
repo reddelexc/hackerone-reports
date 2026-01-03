@@ -3,7 +3,7 @@ Top reports from Slack program at HackerOne:
 1. [Mass account takeovers using HTTP Request Smuggling on https://slackb.com/ to steal session cookies](https://hackerone.com/reports/737140) to Slack - 859 upvotes, $0
 2. [Remote Code Execution in Slack desktop apps + bonus](https://hackerone.com/reports/783877) to Slack - 504 upvotes, $0
 3. [XSS vulnerable parameter in a location hash](https://hackerone.com/reports/146336) to Slack - 451 upvotes, $0
-4. [URL link spoofing](https://hackerone.com/reports/481472) to Slack - 357 upvotes, $250
+4. [URL link spoofing](https://hackerone.com/reports/481472) to Slack - 358 upvotes, $250
 5. [AWS bucket leading to iOS test build code and configuration exposure](https://hackerone.com/reports/404822) to Slack - 319 upvotes, $1500
 6. [TURN server allows TCP and UDP proxying to internal network, localhost and meta-data services](https://hackerone.com/reports/333419) to Slack - 318 upvotes, $3500
 7. [Slack DTLS uses a private key that is in the public domain, which may lead to SRTP stream hijack](https://hackerone.com/reports/531032) to Slack - 167 upvotes, $2000
@@ -52,8 +52,8 @@ Top reports from Slack program at HackerOne:
 50. [Rate-limit bypass](https://hackerone.com/reports/165727) to Slack - 26 upvotes, $500
 51. [Email html Injection](https://hackerone.com/reports/1461194) to Slack - 26 upvotes, $250
 52. [Source code leakage through GIT web access at host '52.91.137.42'](https://hackerone.com/reports/148068) to Slack - 26 upvotes, $0
-53. [[Screenhero] Subdomain takeover](https://hackerone.com/reports/142096) to Slack - 23 upvotes, $0
-54. [HTTP parameter pollution from outdated Greenhouse.io JS dependency](https://hackerone.com/reports/335339) to Slack - 23 upvotes, $0
+53. [HTTP parameter pollution from outdated Greenhouse.io JS dependency](https://hackerone.com/reports/335339) to Slack - 24 upvotes, $0
+54. [[Screenhero] Subdomain takeover](https://hackerone.com/reports/142096) to Slack - 23 upvotes, $0
 55. [CSRF in github integration](https://hackerone.com/reports/174328) to Slack - 22 upvotes, $500
 56. [Misuse of groups feature allows workspace members to join private channels without being invited](https://hackerone.com/reports/1248852) to Slack - 21 upvotes, $0
 57. [Uninstalling Slack for Windows (64-bit), then reinstalling keeps you logged in without authentication](https://hackerone.com/reports/238260) to Slack - 17 upvotes, $500

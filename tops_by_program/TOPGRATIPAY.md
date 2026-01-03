@@ -5,9 +5,9 @@ Top reports from Gratipay program at HackerOne:
 3. [i am The bug](https://hackerone.com/reports/284807) to Gratipay - 21 upvotes, $0
 4. [configure a redirect URI for Facebook OAuth](https://hackerone.com/reports/140432) to Gratipay - 16 upvotes, $10
 5. [Sub Domain Takeover](https://hackerone.com/reports/221133) to Gratipay - 16 upvotes, $0
-6. [fix bug in username restriction](https://hackerone.com/reports/128121) to Gratipay - 14 upvotes, $0
-7. [SQL TEST](https://hackerone.com/reports/248037) to Gratipay - 14 upvotes, $0
-8. [Application-level DoS on image's "size" parameter.](https://hackerone.com/reports/247700) to Gratipay - 14 upvotes, $0
+6. [Application-level DoS on image's "size" parameter.](https://hackerone.com/reports/247700) to Gratipay - 15 upvotes, $0
+7. [fix bug in username restriction](https://hackerone.com/reports/128121) to Gratipay - 14 upvotes, $0
+8. [SQL TEST](https://hackerone.com/reports/248037) to Gratipay - 14 upvotes, $0
 9. [change bank account numbers](https://hackerone.com/reports/90805) to Gratipay - 13 upvotes, $0
 10. [don't leak Server version for assets.gratipay.com](https://hackerone.com/reports/149710) to Gratipay - 12 upvotes, $0
 11. [User Supplied links on profile page is not validated and redirected via gratipay.](https://hackerone.com/reports/151831) to Gratipay - 12 upvotes, $0

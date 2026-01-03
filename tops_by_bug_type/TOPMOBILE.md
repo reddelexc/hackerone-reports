@@ -5,14 +5,14 @@ Top Mobile reports from HackerOne:
 3. [AWS bucket leading to iOS test build code and configuration exposure](https://hackerone.com/reports/404822) to Slack - 319 upvotes, $1500
 4. [[Razer Pay  Mobile App] Broken access control allowing other user's bank account to be deleted](https://hackerone.com/reports/757095) to Razer - 311 upvotes, $1000
 5. [Golden techniques to bypass host validations in Android apps](https://hackerone.com/reports/431002) to ██████ - 278 upvotes, $0
-6. [Periscope android app deeplink leads to CSRF in follow action](https://hackerone.com/reports/583987) to X / xAI - 219 upvotes, $1540
+6. [Periscope android app deeplink leads to CSRF in follow action](https://hackerone.com/reports/583987) to X / xAI - 220 upvotes, $1540
 7. [read new emails from any inbox IOS APP in notification center](https://hackerone.com/reports/977212) to Mail.ru - 186 upvotes, $10000
 8. [url that twitter mobile site can not load](https://hackerone.com/reports/500686) to X / xAI - 140 upvotes, $1120
 9. [XSS via message subject - mobile application](https://hackerone.com/reports/368912) to Mail.ru - 139 upvotes, $1000
 10. [Changing email address on Twitter for Android unsets "Protect your Tweets"](https://hackerone.com/reports/472013) to X / xAI - 116 upvotes, $2940
 11. [Possible to steal any protected files on Android](https://hackerone.com/reports/377107) to ownCloud - 113 upvotes, $750
 12. [Disclosure of all uploads to Cloudinary via hardcoded api secret in Android app](https://hackerone.com/reports/351555) to Reverb.com - 90 upvotes, $0
-13. [Bypass of biometrics security functionality is possible in Android application (com.shopify.mobile)](https://hackerone.com/reports/637194) to Shopify - 86 upvotes, $500
+13. [Bypass of biometrics security functionality is possible in Android application (com.shopify.mobile)](https://hackerone.com/reports/637194) to Shopify - 87 upvotes, $500
 14. [MetaMask Browser URL and Transaction Origin Spoofing - Metamask wallet Android & Metamask wallet iOS](https://hackerone.com/reports/1751333) to MetaMask - 85 upvotes, $0
 15. [[Razer Pay Android App] Multiple vulnerabilities chained to allow "RedPacket" money to be stolen by a 3rd party](https://hackerone.com/reports/753280) to Razer - 84 upvotes, $1000
 16. [Grammarly Keyboard for Android \<4.1  leaks user input through logs (except for sensitive input fields)](https://hackerone.com/reports/462416) to Superhuman (formerly Grammarly) - 84 upvotes, $0
@@ -25,7 +25,7 @@ Top Mobile reports from HackerOne:
 23. [Persistant Arbitrary code execution in mattermost android](https://hackerone.com/reports/1115864) to Mattermost - 66 upvotes, $0
 24. [Insufficient session expiration in the **com.shopify.ping** android app](https://hackerone.com/reports/1172205) to Shopify - 63 upvotes, $0
 25. [Java: CWE-749 Unsafe resource loading in Android WebView leaking to injection attacks](https://hackerone.com/reports/1011956) to GitHub Security Lab - 60 upvotes, $2300
-26. [URL Scheme Validation Bypass in Shopify Mobile App Allows Javascript Execution](https://hackerone.com/reports/1737358) to Shopify - 59 upvotes, $0
+26. [URL Scheme Validation Bypass in Shopify Mobile App Allows Javascript Execution](https://hackerone.com/reports/1737358) to Shopify - 60 upvotes, $0
 27. [Periscope iOS app CSRF in follow action due to deeplink](https://hackerone.com/reports/805073) to X / xAI - 57 upvotes, $2940
 28. [Default Nextcloud Server and Android Client leak sharee searches to Nextcloud](https://hackerone.com/reports/1167916) to Nextcloud - 57 upvotes, $750
 29. [Android: Explanation of Access to app protected components vulnerability](https://hackerone.com/reports/951691) to ██████ - 56 upvotes, $0
@@ -38,14 +38,14 @@ Top Mobile reports from HackerOne:
 36. [Insecure Storage and Overly Permissive  API Keys in Android App](https://hackerone.com/reports/753868) to Zenly - 50 upvotes, $0
 37. [Able to Login deactivated staff account in shopify app mobile](https://hackerone.com/reports/175490) to Shopify - 48 upvotes, $0
 38. [Cisco IOS XE instance at ████ vulnerable to CVE-██████](https://hackerone.com/reports/2778350) to MTN Group - 47 upvotes, $0
-39. [Two-factor authentication bypass on Grab Android App](https://hackerone.com/reports/202425) to Grab - 44 upvotes, $0
-40. [Brave Android: Incorrect URL Eliding in Brave Shields Pop Up](https://hackerone.com/reports/2501378) to Brave Software - 43 upvotes, $100
+39. [Brave Android: Incorrect URL Eliding in Brave Shields Pop Up](https://hackerone.com/reports/2501378) to Brave Software - 44 upvotes, $100
+40. [Two-factor authentication bypass on Grab Android App](https://hackerone.com/reports/202425) to Grab - 44 upvotes, $0
 41. [iOS group chat denial of service](https://hackerone.com/reports/1701642) to LY Corporation - 42 upvotes, $300
 42. [Arbitrary file write triggered by deeplink abuse - MetaMask Android](https://hackerone.com/reports/1768166) to MetaMask - 40 upvotes, $0
 43. [Path traversal allows tricking the Talk Android app into writing files into it's root directory ](https://hackerone.com/reports/1997029) to Nextcloud - 39 upvotes, $0
 44. [Twitter iOS fails to validate server certificate and sends oauth token](https://hackerone.com/reports/168538) to X / xAI - 38 upvotes, $2100
 45. [Webview in LINE client for iOS will render application/octet-stream files as HTML](https://hackerone.com/reports/988332) to LY Corporation - 36 upvotes, $500
-46. [SQL Injection found in NextCloud Android App Content Provider](https://hackerone.com/reports/291764) to Nextcloud - 35 upvotes, $150
+46. [SQL Injection found in NextCloud Android App Content Provider](https://hackerone.com/reports/291764) to Nextcloud - 36 upvotes, $150
 47. [Webview address bar spoofing in LINE client for iOS](https://hackerone.com/reports/1082991) to LY Corporation - 35 upvotes, $0
 48. [Android - Access of some not exported content providers ](https://hackerone.com/reports/272044) to Dropbox - 34 upvotes, $1000
 49. [Private Grab Messages on Android App can be accessed and cached by Search Engines](https://hackerone.com/reports/221558) to Grab - 34 upvotes, $0
@@ -128,15 +128,15 @@ Top Mobile reports from HackerOne:
 126. [DoS in Brave browser for iOS](https://hackerone.com/reports/357665) to Brave Software - 8 upvotes, $0
 127. [Stored XSS at Mobile (Versions tab)](https://hackerone.com/reports/706533) to New Relic - 8 upvotes, $0
 128. [Java: Detect remote source from Android intent extra](https://hackerone.com/reports/1030295) to GitHub Security Lab - 7 upvotes, $1800
-129. [CSRF - Add optional two factor mobile number](https://hackerone.com/reports/155774) to Slack - 7 upvotes, $500
-130. [ByPassing the email Validation Email on Sign up process in mobile apps](https://hackerone.com/reports/57764) to Coinbase - 7 upvotes, $100
-131. [Android content provider exposes password-protected share password hashes](https://hackerone.com/reports/242727) to Nextcloud - 7 upvotes, $75
-132. [HTML Injection on flickr screename using IOS App](https://hackerone.com/reports/1483) to Yahoo! - 7 upvotes, $0
-133. [XSS on IOS app via HTML rendering](https://hackerone.com/reports/157434) to Nextcloud - 7 upvotes, $0
-134. [XSS on mobile version of vimeo.com where the button "Follow" appears](https://hackerone.com/reports/88088) to Vimeo - 7 upvotes, $0
-135. [SSRF on local storage of iOS mobile](https://hackerone.com/reports/746541) to Nextcloud - 7 upvotes, $0
-136. [Default Nextcloud server config and iOS Nextcloud client leak sharee searches to Nextcloud](https://hackerone.com/reports/1167919) to Nextcloud - 7 upvotes, $0
-137. [Authentication Failed Mobile version](https://hackerone.com/reports/55530) to Shopify - 6 upvotes, $500
+129. [Authentication Failed Mobile version](https://hackerone.com/reports/55530) to Shopify - 7 upvotes, $500
+130. [CSRF - Add optional two factor mobile number](https://hackerone.com/reports/155774) to Slack - 7 upvotes, $500
+131. [ByPassing the email Validation Email on Sign up process in mobile apps](https://hackerone.com/reports/57764) to Coinbase - 7 upvotes, $100
+132. [Android content provider exposes password-protected share password hashes](https://hackerone.com/reports/242727) to Nextcloud - 7 upvotes, $75
+133. [HTML Injection on flickr screename using IOS App](https://hackerone.com/reports/1483) to Yahoo! - 7 upvotes, $0
+134. [XSS on IOS app via HTML rendering](https://hackerone.com/reports/157434) to Nextcloud - 7 upvotes, $0
+135. [XSS on mobile version of vimeo.com where the button "Follow" appears](https://hackerone.com/reports/88088) to Vimeo - 7 upvotes, $0
+136. [SSRF on local storage of iOS mobile](https://hackerone.com/reports/746541) to Nextcloud - 7 upvotes, $0
+137. [Default Nextcloud server config and iOS Nextcloud client leak sharee searches to Nextcloud](https://hackerone.com/reports/1167919) to Nextcloud - 7 upvotes, $0
 138. [Bug in iOS application which could lead to unauthorised access.](https://hackerone.com/reports/7036) to IRCCloud - 6 upvotes, $0
 139. [No authorization required in iOS device web-application](https://hackerone.com/reports/148538) to Coinbase - 6 upvotes, $0
 140. [Reflected XSS in Zomato Mobile - category parameter](https://hackerone.com/reports/230119) to Eternal - 6 upvotes, $0

@@ -1,17 +1,17 @@
 Top REST API reports from HackerOne:
 
-1. [Exposed Kubernetes API - RCE/Exposed Creds](https://hackerone.com/reports/455645) to Snapchat - 1177 upvotes, $25000
-2. [JumpCloud API Key leaked via Open Github Repository.](https://hackerone.com/reports/716292) to Starbucks - 729 upvotes, $0
-3. [Flickr Account Takeover using AWS Cognito API](https://hackerone.com/reports/1342088) to Flickr - 431 upvotes, $0
-4. [[Pre-Submission][H1-4420-2019] API access to Phabricator on code.uberinternal.com from leaked certificate in git repo](https://hackerone.com/reports/591813) to Uber - 416 upvotes, $39999
-5. [Denial of service to WP-JSON API by cache poisoning the CORS allow origin header](https://hackerone.com/reports/591302) to Automattic - 399 upvotes, $0
+1. [Exposed Kubernetes API - RCE/Exposed Creds](https://hackerone.com/reports/455645) to Snapchat - 1179 upvotes, $25000
+2. [JumpCloud API Key leaked via Open Github Repository.](https://hackerone.com/reports/716292) to Starbucks - 730 upvotes, $0
+3. [Flickr Account Takeover using AWS Cognito API](https://hackerone.com/reports/1342088) to Flickr - 434 upvotes, $0
+4. [[Pre-Submission][H1-4420-2019] API access to Phabricator on code.uberinternal.com from leaked certificate in git repo](https://hackerone.com/reports/591813) to Uber - 419 upvotes, $39999
+5. [Denial of service to WP-JSON API by cache poisoning the CORS allow origin header](https://hackerone.com/reports/591302) to Automattic - 400 upvotes, $0
 6. [Blind SSRF to internal services in matrix preview_link API](https://hackerone.com/reports/1960765) to Reddit - 326 upvotes, $6000
-7. [Blind SQLi leading to RCE, from Unauthenticated access to a test API Webservice](https://hackerone.com/reports/592400) to Starbucks - 231 upvotes, $0
+7. [Blind SQLi leading to RCE, from Unauthenticated access to a test API Webservice](https://hackerone.com/reports/592400) to Starbucks - 233 upvotes, $0
 8. [Google API key leaked to Public](https://hackerone.com/reports/1065041) to FetLife - 223 upvotes, $0
 9. [Github Apps can use Scoped-User-To-Server Tokens to Obtain Full Access to User's Projects in Project V2 GraphQL api](https://hackerone.com/reports/1711938) to GitHub - 195 upvotes, $0
 10. [[IDOR] API endpoint leaking sensitive user information](https://hackerone.com/reports/723118) to Razer - 172 upvotes, $375
 11. [Unauthorized Access to TikTok Account [Private Videos] via API Endpoint](https://hackerone.com/reports/2868084) to TikTok - 156 upvotes, $0
-12. [Undocumented `fileCopy` GraphQL API](https://hackerone.com/reports/981472) to Shopify - 151 upvotes, $2000
+12. [Undocumented `fileCopy` GraphQL API](https://hackerone.com/reports/981472) to Shopify - 152 upvotes, $2000
 13. [Public and secret api key leaked  in JavaScript source](https://hackerone.com/reports/983331) to Stripo Inc - 146 upvotes, $0
 14. [Bug in GraphQL and API integration leads to limited user address disclosure](https://hackerone.com/reports/473742) to Starbucks - 142 upvotes, $0
 15. [Banned user still has access to their deleted account via HackerOne's API using their API key](https://hackerone.com/reports/1577940) to HackerOne - 138 upvotes, $0
@@ -20,15 +20,15 @@ Top REST API reports from HackerOne:
 18. [Yet Another OTP code Leaked in the API Response](https://hackerone.com/reports/2635315) to MTN Group - 127 upvotes, $0
 19. [Apache Flink RCE via GET jar/plan API Endpoint](https://hackerone.com/reports/1418891) to Aiven Ltd - 125 upvotes, $6000
 20. [Client secret, server tokens for developer applications returned by internal API](https://hackerone.com/reports/419655) to Uber - 120 upvotes, $0
-21. [Full access to InDrive jira panel via exposed API token ](https://hackerone.com/reports/1785145) to inDrive - 118 upvotes, $1500
+21. [Full access to InDrive jira panel via exposed API token ](https://hackerone.com/reports/1785145) to inDrive - 119 upvotes, $1500
 22. ["😂" + Unauthenticated Stored XSS in API at https://api.my.games/comments/v1/comments/update/](https://hackerone.com/reports/853637) to Mail.ru - 118 upvotes, $0
 23. [China – Limited Partner PII Regarding Work Scheduling via Unauthenticated API Endpoint](https://hackerone.com/reports/659248) to Starbucks - 113 upvotes, $0
 24. [Cross-Site Request Forgery (CSRF) vulnerability on API endpoint allows account takeovers](https://hackerone.com/reports/419891) to Khan Academy - 106 upvotes, $0
-25. [Server-Side Request Forgery (SSRF) via Game Export API](https://hackerone.com/reports/3165242) to Lichess - 104 upvotes, $0
+25. [Server-Side Request Forgery (SSRF) via Game Export API](https://hackerone.com/reports/3165242) to Lichess - 105 upvotes, $0
 26. [Multiple IDORs in family pairing api](https://hackerone.com/reports/1286332) to TikTok - 103 upvotes, $0
 27. [Leak ██████████ information in real time through API request](https://hackerone.com/reports/307050) to Grab - 100 upvotes, $3000
 28. [Creation of bounties through Customer API leads to private email disclosure](https://hackerone.com/reports/2382120) to HackerOne - 96 upvotes, $0
-29. [Stored XSS on TikTok's backend leads to the leakage of highly sensitive administrator data (Cookies, API Keys, Internal Paths, Emails, phone numbers).](https://hackerone.com/reports/3037447) to TikTok - 94 upvotes, $0
+29. [Stored XSS on TikTok's backend leads to the leakage of highly sensitive administrator data (Cookies, API Keys, Internal Paths, Emails, phone numbers).](https://hackerone.com/reports/3037447) to TikTok - 95 upvotes, $0
 30. [Exposed Cortex API at https://cortex-ingest.shopifycloud.com/](https://hackerone.com/reports/1258871) to Shopify - 93 upvotes, $6300
 31. [Support Portal Takeover via Leaked API KEY](https://hackerone.com/reports/1766228) to AMBER AI - 90 upvotes, $1500
 32. [Disclosure of all uploads to Cloudinary via hardcoded api secret in Android app](https://hackerone.com/reports/351555) to Reverb.com - 90 upvotes, $0
@@ -42,36 +42,36 @@ Top REST API reports from HackerOne:
 40. [Near to Infinite loop when changing Group's name that has API token as Team Member](https://hackerone.com/reports/880187) to HackerOne - 75 upvotes, $2500
 41. [Non-Production API Endpoints for the Forecast Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration](https://hackerone.com/reports/3022516) to AWS VDP - 74 upvotes, $0
 42. [Bumble API exposes read status of chat messages](https://hackerone.com/reports/1080437) to Bumble - 73 upvotes, $600
-43. [Making program preference -\> program visibilty feature usless and disclosing API Identifier in the progress and data that may cause potential IDORS.](https://hackerone.com/reports/929361) to HackerOne - 70 upvotes, $0
-44. [Unauthorized Access to Private Video Description via Translation API for Private Accounts](https://hackerone.com/reports/2921830) to TikTok - 70 upvotes, $0
+43. [Unauthorized Access to Private Video Description via Translation API for Private Accounts](https://hackerone.com/reports/2921830) to TikTok - 72 upvotes, $0
+44. [Making program preference -\> program visibilty feature usless and disclosing API Identifier in the progress and data that may cause potential IDORS.](https://hackerone.com/reports/929361) to HackerOne - 70 upvotes, $0
 45. [View private repository NWO of deploy key via internal LFS API](https://hackerone.com/reports/2469713) to GitHub - 66 upvotes, $0
 46. [Google API key leaks and security misconfiguration leads Open Redirect Vulnerability](https://hackerone.com/reports/1066410) to Clario - 64 upvotes, $300
-47. [Internal API endpoint discloses full account name of email address associated with unconfirmed user](https://hackerone.com/reports/332381) to New Relic - 63 upvotes, $1500
-48. [Improper Authentication in Vimeo's API 'versions' endpoint.](https://hackerone.com/reports/328724) to Vimeo - 63 upvotes, $0
-49. [user api key leaked](https://hackerone.com/reports/3098717) to WakaTime - 63 upvotes, $0
+47. [user api key leaked](https://hackerone.com/reports/3098717) to WakaTime - 64 upvotes, $0
+48. [Internal API endpoint discloses full account name of email address associated with unconfirmed user](https://hackerone.com/reports/332381) to New Relic - 63 upvotes, $1500
+49. [Improper Authentication in Vimeo's API 'versions' endpoint.](https://hackerone.com/reports/328724) to Vimeo - 63 upvotes, $0
 50. [Email addresses exposed in getPersonBySlug API](https://hackerone.com/reports/502753) to Semmle - 59 upvotes, $500
-51. [Insecure API Response Leads to Disclosure of Hashed Passwords](https://hackerone.com/reports/2788557) to Mars - 57 upvotes, $0
+51. [Insecure API Response Leads to Disclosure of Hashed Passwords](https://hackerone.com/reports/2788557) to Mars - 58 upvotes, $0
 52. [TAMS registration details API for admins open at https://tamsapi.gsa.gov/user/tams/api/usermgmnt/pendingUserDetails/](https://hackerone.com/reports/1061292) to U.S. General Services Administration - 56 upvotes, $0
 53. [API Key Exposed in JavaScript File on 1Password Developer Site](https://hackerone.com/reports/2923061) to 1Password - Enterprise Password Manager - 56 upvotes, $0
 54. [Api data leak](https://hackerone.com/reports/1639011) to Planet Labs - 55 upvotes, $0
 55. [(Part 2) Non-Production API Endpoints for the Datazone Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration](https://hackerone.com/reports/3014785) to AWS VDP - 55 upvotes, $0
-56. [DoS via markdown API from unauthenticated user](https://hackerone.com/reports/1619604) to GitHub - 53 upvotes, $4000
-57. [Revocation API Token by Bypassing The XSRF Token](https://hackerone.com/reports/2312217) to Enjin - 53 upvotes, $1500
-58. [https://srcds.valve.net/find/ is leaking server config / API keys](https://hackerone.com/reports/1168557) to Valve - 53 upvotes, $0
-59. [API key (api.semrush.com) leak in JS-file](https://hackerone.com/reports/1218754) to Semrush - 52 upvotes, $0
+56. [Revocation API Token by Bypassing The XSRF Token](https://hackerone.com/reports/2312217) to Enjin - 54 upvotes, $1500
+57. [DoS via markdown API from unauthenticated user](https://hackerone.com/reports/1619604) to GitHub - 53 upvotes, $4000
+58. [API key (api.semrush.com) leak in JS-file](https://hackerone.com/reports/1218754) to Semrush - 53 upvotes, $0
+59. [https://srcds.valve.net/find/ is leaking server config / API keys](https://hackerone.com/reports/1168557) to Valve - 53 upvotes, $0
 60. [IDOR in Stats API Endpoint Allows Viewing Equity or Net Profit of Any MT Account ](https://hackerone.com/reports/1644436) to EXNESS - 52 upvotes, $0
-61. [IDOR in API applications (able to see any API token, leads to account takeover)](https://hackerone.com/reports/1695454) to Automattic - 51 upvotes, $0
-62. [Insecure Storage and Overly Permissive  API Keys in Android App](https://hackerone.com/reports/753868) to Zenly - 50 upvotes, $0
-63. [Outsider can affect Upvote Percentage of private subreddit post by calling /api/vote API](https://hackerone.com/reports/1298902) to Reddit - 50 upvotes, $0
+61. [Outsider can affect Upvote Percentage of private subreddit post by calling /api/vote API](https://hackerone.com/reports/1298902) to Reddit - 51 upvotes, $0
+62. [IDOR in API applications (able to see any API token, leads to account takeover)](https://hackerone.com/reports/1695454) to Automattic - 51 upvotes, $0
+63. [Insecure Storage and Overly Permissive  API Keys in Android App](https://hackerone.com/reports/753868) to Zenly - 50 upvotes, $0
 64. [Broken Access Control Exposes Email Verification Status and Privacy Settings via API Endpoint](https://hackerone.com/reports/3114132) to WakaTime - 50 upvotes, $0
 65. [Account deletion using the /v1/account/destroy API endpoint using account password without 2FA verification](https://hackerone.com/reports/2197244) to Mozilla - 49 upvotes, $1000
 66. [Non-Production API Endpoints for the Datazone Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration](https://hackerone.com/reports/2981210) to AWS VDP - 49 upvotes, $0
 67. [Unrestricted access to quiesce functionality in dss.api.playstation.com REST API leads to unavailability of application](https://hackerone.com/reports/993722) to PlayStation - 48 upvotes, $1000
 68. [SSRF vulnerability can be exploited when a hijacked aggregated api server such as metrics-server returns 30X](https://hackerone.com/reports/1544133) to Kubernetes - 48 upvotes, $1000
-69. [Race Conditions in OAuth 2 API implementations](https://hackerone.com/reports/55140) to Internet Bug Bounty - 48 upvotes, $0
-70. [Mozilla FuzzManager API Token Exposed in Git Commit](https://hackerone.com/reports/2030076) to Mozilla - 48 upvotes, $0
-71. [RC Between GitHub's Repo Update REST API and updateTeamsRepository GraphQL Mutation Results in Covert and Persistent Admin Access Retention](https://hackerone.com/reports/2357443) to GitHub - 48 upvotes, $0
-72. [Google  Maps API key stored as plain text leading to DOS and financial damage](https://hackerone.com/reports/1093667) to Zenly - 47 upvotes, $750
+69. [Google  Maps API key stored as plain text leading to DOS and financial damage](https://hackerone.com/reports/1093667) to Zenly - 48 upvotes, $750
+70. [Race Conditions in OAuth 2 API implementations](https://hackerone.com/reports/55140) to Internet Bug Bounty - 48 upvotes, $0
+71. [Mozilla FuzzManager API Token Exposed in Git Commit](https://hackerone.com/reports/2030076) to Mozilla - 48 upvotes, $0
+72. [RC Between GitHub's Repo Update REST API and updateTeamsRepository GraphQL Mutation Results in Covert and Persistent Admin Access Retention](https://hackerone.com/reports/2357443) to GitHub - 48 upvotes, $0
 73. [Missing authentication in buddy group API of LINE TIMELINE](https://hackerone.com/reports/1283938) to LY Corporation - 46 upvotes, $3000
 74. [Stored XSS in blog comments through Shopify API](https://hackerone.com/reports/192210) to Shopify - 46 upvotes, $0
 75. [RC Between GitHub's Repo Transfer REST API and updateTeamsRepository GraphQL Mutation Results in Covert and Persistent Admin Access Retention](https://hackerone.com/reports/2216036) to GitHub - 46 upvotes, $0
@@ -79,22 +79,22 @@ Top REST API reports from HackerOne:
 77. [`/names.nsf` and all `/names*` files route to public API on rubygems.org](https://hackerone.com/reports/3097900) to RubyGems - 46 upvotes, $0
 78. [Improper access control for users with expired password, giving the user full access through API and Git](https://hackerone.com/reports/1285226) to GitLab - 45 upvotes, $950
 79. [Datadog api keys exposed can be used to do all the read and write access to the instance](https://hackerone.com/reports/2307933) to Mars - 45 upvotes, $0
-80. [Unauthenticated API Access Exposing Premium Content and Financial Data](https://hackerone.com/reports/2979176) to XVIDEOS - 45 upvotes, $0
-81. [API Last Request Date/Time Not Updating](https://hackerone.com/reports/220774) to HackerOne - 44 upvotes, $0
-82. [Unauthenticated Private Messages DIsclosure via wordpress Rest API](https://hackerone.com/reports/1590237) to Automattic - 44 upvotes, $0
-83. [PATCH method manipulation allowing the users to escalate their functionalities and edit (upgrade/downgrade) API Keys settings which is not allowed](https://hackerone.com/reports/2149124) to Frontegg - 44 upvotes, $0
+80. [PATCH method manipulation allowing the users to escalate their functionalities and edit (upgrade/downgrade) API Keys settings which is not allowed](https://hackerone.com/reports/2149124) to Frontegg - 45 upvotes, $0
+81. [Unauthenticated API Access Exposing Premium Content and Financial Data](https://hackerone.com/reports/2979176) to XVIDEOS - 45 upvotes, $0
+82. [API Last Request Date/Time Not Updating](https://hackerone.com/reports/220774) to HackerOne - 44 upvotes, $0
+83. [Unauthenticated Private Messages DIsclosure via wordpress Rest API](https://hackerone.com/reports/1590237) to Automattic - 44 upvotes, $0
 84. [Non-Production API Endpoints for the DocumentDB Elastic Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration](https://hackerone.com/reports/3009411) to AWS VDP - 44 upvotes, $0
 85. [Выполнение API-методов при открытии сообщества/приложения](https://hackerone.com/reports/1354452) to VK.com - 43 upvotes, $2000
 86. [XSPA on API service endpoint](https://hackerone.com/reports/751625) to Polymail, Inc. - 43 upvotes, $0
 87. [Milestones leaked via search API](https://hackerone.com/reports/460815) to GitLab - 42 upvotes, $0
 88. [IDOR on www.acronis.com API lead to steal private business user information](https://hackerone.com/reports/1182465) to Acronis - 41 upvotes, $100
 89. [Delete any LinkedIn comment on learning API of other users](https://hackerone.com/reports/1801527) to LinkedIn - 40 upvotes, $0
-90. [paypal client_id And stripe api key indexed on web archive](https://hackerone.com/reports/2380084) to Mozilla - 40 upvotes, $0
-91. [Sensitive API Key Leakage](https://hackerone.com/reports/3017105) to AWS VDP - 40 upvotes, $0
-92. [API method at api.my.games allows to enumerate user emails](https://hackerone.com/reports/758401) to Mail.ru - 39 upvotes, $400
-93. [CSRF on cards API](https://hackerone.com/reports/95555) to X / xAI - 39 upvotes, $0
-94. [IDOR in family pairing API](https://hackerone.com/reports/1586950) to TikTok - 39 upvotes, $0
-95. [Race Condition on Create API Function](https://hackerone.com/reports/2682392) to Enjin - 39 upvotes, $0
+90. [Race Condition on Create API Function](https://hackerone.com/reports/2682392) to Enjin - 40 upvotes, $0
+91. [paypal client_id And stripe api key indexed on web archive](https://hackerone.com/reports/2380084) to Mozilla - 40 upvotes, $0
+92. [Sensitive API Key Leakage](https://hackerone.com/reports/3017105) to AWS VDP - 40 upvotes, $0
+93. [API method at api.my.games allows to enumerate user emails](https://hackerone.com/reports/758401) to Mail.ru - 39 upvotes, $400
+94. [CSRF on cards API](https://hackerone.com/reports/95555) to X / xAI - 39 upvotes, $0
+95. [IDOR in family pairing API](https://hackerone.com/reports/1586950) to TikTok - 39 upvotes, $0
 96. [Non-Production API Endpoint for the ElastiCache Service Fails to Log to CloudTrail Resulting in Silent Permission Enumeration](https://hackerone.com/reports/3021451) to AWS VDP - 39 upvotes, $0
 97. [Internal API endpoint is accesible for everyone](https://hackerone.com/reports/1066790) to WHO COVID-19 Mobile App - 38 upvotes, $0
 98. [StoreFront API allows for a brute force attack on customer login by not timing out ALL attempts](https://hackerone.com/reports/708013) to Shopify - 37 upvotes, $0
@@ -102,9 +102,9 @@ Top REST API reports from HackerOne:
 100. [Timeline API returns private post when target of a push notification](https://hackerone.com/reports/2258950) to Automattic - 37 upvotes, $0
 101. [Non-Production API Endpoints for the bedrock-agent Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration](https://hackerone.com/reports/2800091) to AWS VDP - 37 upvotes, $0
 102. [[data-07.uberinternal.com] SSRF in Portainer app lead to access to Internal Docker API without Auth](https://hackerone.com/reports/366638) to Uber - 36 upvotes, $500
-103. [IDOR in TalentMAP API can be abused to enumerate personal information of all the users](https://hackerone.com/reports/1848176) to U.S. Department of State - 36 upvotes, $0
-104. [Web API key registration allows registering multiple keys by reusing `request_id` ](https://hackerone.com/reports/2270633) to Valve - 36 upvotes, $0
-105. [Organization Takeover via invitation API](https://hackerone.com/reports/835005) to Helium - 35 upvotes, $100
+103. [Organization Takeover via invitation API](https://hackerone.com/reports/835005) to Helium - 36 upvotes, $100
+104. [IDOR in TalentMAP API can be abused to enumerate personal information of all the users](https://hackerone.com/reports/1848176) to U.S. Department of State - 36 upvotes, $0
+105. [Web API key registration allows registering multiple keys by reusing `request_id` ](https://hackerone.com/reports/2270633) to Valve - 36 upvotes, $0
 106. [API - Amazon S3 bucket misconfiguration](https://hackerone.com/reports/764243) to BCM Messenger - 35 upvotes, $0
 107. [Zero click account Takeover due to Api misconfiguration 🏂🎩](https://hackerone.com/reports/1166500) to UPchieve - 35 upvotes, $0
 108. [Non-Production API Endpoints for the ssm Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration](https://hackerone.com/reports/2926361) to AWS VDP - 35 upvotes, $0
@@ -209,17 +209,17 @@ Top REST API reports from HackerOne:
 207. [H1514 Shopify API ruby SDK session setup lacks input validation, resulting in SSRF and leakage of client secret](https://hackerone.com/reports/423437) to Shopify - 11 upvotes, $0
 208. [Hard-coded API keys at NordVpn Android App](https://hackerone.com/reports/792850) to Nord Security - 11 upvotes, $0
 209. [Отправка произвольных запросов к API с правами любого установленного у пользователя iframe/miniapp](https://hackerone.com/reports/987132) to VK.com - 11 upvotes, $0
-210. [Authenticated but unauthorized users may enumerate Application names via the API](https://hackerone.com/reports/1916583) to Internet Bug Bounty - 10 upvotes, $2400
-211. [Group admin can remove user from all his groups via API](https://hackerone.com/reports/199286) to Nextcloud - 10 upvotes, $0
-212. [Insecure Cache-Control Leading to API key Retrieval](https://hackerone.com/reports/231805) to ThisData - 10 upvotes, $0
-213. [Reflected XSS in openapi.starbucks.com /searchasyoutype/v1/search?x-api-key=](https://hackerone.com/reports/213190) to Starbucks - 10 upvotes, $0
-214. [Leaking sensitive information lead to compromise employer API keys](https://hackerone.com/reports/273630) to Yelp - 10 upvotes, $0
-215. [Хранимая XSS ( API )](https://hackerone.com/reports/311063) to Mail.ru - 10 upvotes, $0
-216. [Insecure Storage and Overly Permissive Google Maps API Key in Android App](https://hackerone.com/reports/488371) to Mail.ru - 10 upvotes, $0
-217. [Git repo on https://██████.mil/ discloses API password](https://hackerone.com/reports/765825) to U.S. Dept Of Defense - 10 upvotes, $0
-218. [Sending trusted ████ and ██████████ emails through public API endpoint in ███████ site](https://hackerone.com/reports/1067276) to U.S. Dept Of Defense - 10 upvotes, $0
-219. [HTML injection in API response including request url](https://hackerone.com/reports/1719588) to Reddit - 10 upvotes, $0
-220. [Non-revoked API Key Disclosure in a Disclosed API Key Disclosure Report on Stripo](https://hackerone.com/reports/1709815) to Stripo Inc - 10 upvotes, $0
+210. [Non-revoked API Key Disclosure in a Disclosed API Key Disclosure Report on Stripo](https://hackerone.com/reports/1709815) to Stripo Inc - 11 upvotes, $0
+211. [Authenticated but unauthorized users may enumerate Application names via the API](https://hackerone.com/reports/1916583) to Internet Bug Bounty - 10 upvotes, $2400
+212. [Group admin can remove user from all his groups via API](https://hackerone.com/reports/199286) to Nextcloud - 10 upvotes, $0
+213. [Insecure Cache-Control Leading to API key Retrieval](https://hackerone.com/reports/231805) to ThisData - 10 upvotes, $0
+214. [Reflected XSS in openapi.starbucks.com /searchasyoutype/v1/search?x-api-key=](https://hackerone.com/reports/213190) to Starbucks - 10 upvotes, $0
+215. [Leaking sensitive information lead to compromise employer API keys](https://hackerone.com/reports/273630) to Yelp - 10 upvotes, $0
+216. [Хранимая XSS ( API )](https://hackerone.com/reports/311063) to Mail.ru - 10 upvotes, $0
+217. [Insecure Storage and Overly Permissive Google Maps API Key in Android App](https://hackerone.com/reports/488371) to Mail.ru - 10 upvotes, $0
+218. [Git repo on https://██████.mil/ discloses API password](https://hackerone.com/reports/765825) to U.S. Dept Of Defense - 10 upvotes, $0
+219. [Sending trusted ████ and ██████████ emails through public API endpoint in ███████ site](https://hackerone.com/reports/1067276) to U.S. Dept Of Defense - 10 upvotes, $0
+220. [HTML injection in API response including request url](https://hackerone.com/reports/1719588) to Reddit - 10 upvotes, $0
 221. [Revoked User can still view  the Merge Request  created by him via API](https://hackerone.com/reports/962604) to GitLab - 9 upvotes, $1500
 222. [Conduit feed.publish API allows you to spoof other users or make it look like you have access to a restricted object](https://hackerone.com/reports/1566325) to Phabricator - 9 upvotes, $300
 223. [User Information Disclosure via REST API](https://hackerone.com/reports/197786) to ownCloud - 9 upvotes, $0

@@ -15,7 +15,7 @@ Top reports from U.S. Dept Of Defense program at HackerOne:
 13. [Remote Code Execution in ██████](https://hackerone.com/reports/710864) to U.S. Dept Of Defense - 93 upvotes, $0
 14. [LOGJ4 VUlnerability [HtUS]](https://hackerone.com/reports/1624137) to U.S. Dept Of Defense - 92 upvotes, $1000
 15. [███ leaking PII of tour visitors (names, email addresses, phone numbers) via misconfigured record permissions](https://hackerone.com/reports/2294930) to U.S. Dept Of Defense - 89 upvotes, $0
-16. [SQL Injection](https://hackerone.com/reports/2737595) to U.S. Dept Of Defense - 87 upvotes, $0
+16. [SQL Injection](https://hackerone.com/reports/2737595) to U.S. Dept Of Defense - 88 upvotes, $0
 17. [[SQLI ]Time  Bassed Injection at ██████████ via referer header](https://hackerone.com/reports/995122) to U.S. Dept Of Defense - 86 upvotes, $0
 18. [User automatically logged in as Sys Admin user on https://███/Administration/Administration.aspx](https://hackerone.com/reports/2190808) to U.S. Dept Of Defense - 86 upvotes, $0
 19. [Remote Code Execution (RCE) in a DoD website](https://hackerone.com/reports/248116) to U.S. Dept Of Defense - 83 upvotes, $0
@@ -26,16 +26,16 @@ Top reports from U.S. Dept Of Defense program at HackerOne:
 24. [Improper Authentication Allows Making Appeals as Other Users](https://hackerone.com/reports/2666323) to U.S. Dept Of Defense - 76 upvotes, $0
 25. [SQL Injection in ████](https://hackerone.com/reports/419017) to U.S. Dept Of Defense - 72 upvotes, $0
 26. [CVE-2020-3187 - Unauthenticated Arbitrary File Deletion](https://hackerone.com/reports/960330) to U.S. Dept Of Defense - 70 upvotes, $0
-27. [IDOR leading unauthenticated attacker to download documents discloses PII of users and soldiers via https://www.█████████/Download.aspx?id= [HtUS]](https://hackerone.com/reports/1626508) to U.S. Dept Of Defense - 68 upvotes, $500
+27. [IDOR leading unauthenticated attacker to download documents discloses PII of users and soldiers via https://www.█████████/Download.aspx?id= [HtUS]](https://hackerone.com/reports/1626508) to U.S. Dept Of Defense - 69 upvotes, $500
 28. [RCE on █████ via CVE-2017-10271](https://hackerone.com/reports/576887) to U.S. Dept Of Defense - 68 upvotes, $0
 29. [Full account takeover of any user through reset password](https://hackerone.com/reports/2194928) to U.S. Dept Of Defense - 68 upvotes, $0
 30. [Unauthenticated LFI (Local File Inclusion) using the symbol `!` At the target `https://████/`](https://hackerone.com/reports/2778380) to U.S. Dept Of Defense - 68 upvotes, $0
 31. [Exposure of Private Personal Information to an Unauthorized Actor - PII  and soldier data (mos, schools, and speciality training)](https://hackerone.com/reports/1556950) to U.S. Dept Of Defense - 68 upvotes, $0
 32. [[█████████] Administrative access to Oracle WebLogic Server using default credentials](https://hackerone.com/reports/804548) to U.S. Dept Of Defense - 65 upvotes, $0
 33. [Improper Authentication (Login without Registration with any user) at ████](https://hackerone.com/reports/2334420) to U.S. Dept Of Defense - 65 upvotes, $0
-34. [Boolen Based Blind Sql Injection Via User Agent in ███.mil](https://hackerone.com/reports/2599826) to U.S. Dept Of Defense - 64 upvotes, $0
+34. [Boolen Based Blind Sql Injection Via User Agent in ███.mil](https://hackerone.com/reports/2599826) to U.S. Dept Of Defense - 65 upvotes, $0
 35. [CSRF leads to Account takeover](https://hackerone.com/reports/2712857) to U.S. Dept Of Defense - 62 upvotes, $0
-36. [Subdomain takeover ████████.mil](https://hackerone.com/reports/2499178) to U.S. Dept Of Defense - 60 upvotes, $0
+36. [Subdomain takeover ████████.mil](https://hackerone.com/reports/2499178) to U.S. Dept Of Defense - 61 upvotes, $0
 37. [CVE-2020-7961 RCE Liferay Portal Unauthenticated via https://████████/](https://hackerone.com/reports/2742457) to U.S. Dept Of Defense - 60 upvotes, $0
 38. [Unauthenticated SQL Injection at █████████  [HtUS]](https://hackerone.com/reports/1626226) to U.S. Dept Of Defense - 59 upvotes, $0
 39. [LFI with potential to RCE on ██████ using CVE-2019-3396](https://hackerone.com/reports/538771) to U.S. Dept Of Defense - 58 upvotes, $0
@@ -53,10 +53,10 @@ Top reports from U.S. Dept Of Defense program at HackerOne:
 51. [XSS found for https://█████████](https://hackerone.com/reports/2670521) to U.S. Dept Of Defense - 51 upvotes, $0
 52. [Time-based blind SQL injection](https://hackerone.com/reports/2759243) to U.S. Dept Of Defense - 50 upvotes, $0
 53. [Local File Inclusion vulnerability on an Army system allows downloading local files](https://hackerone.com/reports/183978) to U.S. Dept Of Defense - 48 upvotes, $0
-54. [Information disclousure by clicking on the link shown in http://████████/](https://hackerone.com/reports/708019) to U.S. Dept Of Defense - 48 upvotes, $0
-55. [Log4Shell: RCE 0-day exploit on █████████](https://hackerone.com/reports/1429014) to U.S. Dept Of Defense - 48 upvotes, $0
-56. [XSS on ███████](https://hackerone.com/reports/2615670) to U.S. Dept Of Defense - 48 upvotes, $0
-57. [SQL Injection in ████](https://hackerone.com/reports/519631) to U.S. Dept Of Defense - 47 upvotes, $0
+54. [SQL Injection in ████](https://hackerone.com/reports/519631) to U.S. Dept Of Defense - 48 upvotes, $0
+55. [Information disclousure by clicking on the link shown in http://████████/](https://hackerone.com/reports/708019) to U.S. Dept Of Defense - 48 upvotes, $0
+56. [Log4Shell: RCE 0-day exploit on █████████](https://hackerone.com/reports/1429014) to U.S. Dept Of Defense - 48 upvotes, $0
+57. [XSS on ███████](https://hackerone.com/reports/2615670) to U.S. Dept Of Defense - 48 upvotes, $0
 58. [Unauthenticated Access to Admin Panel Functions at https://██████████/████████](https://hackerone.com/reports/1394910) to U.S. Dept Of Defense - 47 upvotes, $0
 59. [Pull Any Automated Record Brief](https://hackerone.com/reports/1541740) to U.S. Dept Of Defense - 47 upvotes, $0
 60. [IDOR to delete profile images in https:███████](https://hackerone.com/reports/2213900) to U.S. Dept Of Defense - 46 upvotes, $0
@@ -81,8 +81,8 @@ Top reports from U.S. Dept Of Defense program at HackerOne:
 79. [DoD workstation exposed to internet via TinyPilot KVM with no authentication](https://hackerone.com/reports/2633988) to U.S. Dept Of Defense - 40 upvotes, $0
 80. [Cross Site Scripting](https://hackerone.com/reports/2587844) to U.S. Dept Of Defense - 40 upvotes, $0
 81. [Arbitrary File Reading leads to RCE in the Pulse Secure SSL VPN on the https://████](https://hackerone.com/reports/695005) to U.S. Dept Of Defense - 39 upvotes, $0
-82. [XSS found in https://www.████████.mil](https://hackerone.com/reports/2853410) to U.S. Dept Of Defense - 39 upvotes, $0
-83. [Blind Sql Injection https:/████████](https://hackerone.com/reports/2020429) to U.S. Dept Of Defense - 38 upvotes, $0
+82. [Blind Sql Injection https:/████████](https://hackerone.com/reports/2020429) to U.S. Dept Of Defense - 39 upvotes, $0
+83. [XSS found in https://www.████████.mil](https://hackerone.com/reports/2853410) to U.S. Dept Of Defense - 39 upvotes, $0
 84. [[HTA2] Authorization Bypass on https://██████ leaks confidential aircraft/missile information](https://hackerone.com/reports/736391) to U.S. Dept Of Defense - 37 upvotes, $0
 85. [RCE in ███ [CVE-2021-26084]](https://hackerone.com/reports/1327769) to U.S. Dept Of Defense - 37 upvotes, $0
 86. [Unauthenticated Jenkins instance exposed information related to █████](https://hackerone.com/reports/2178941) to U.S. Dept Of Defense - 37 upvotes, $0
@@ -94,9 +94,9 @@ Top reports from U.S. Dept Of Defense program at HackerOne:
 92. [Course Registration Form Allowing an attacker to dump all the candidate name who had enrolled for the course](https://hackerone.com/reports/1100383) to U.S. Dept Of Defense - 36 upvotes, $0
 93. [Web Cache Poisoning on  █████ ](https://hackerone.com/reports/1183263) to U.S. Dept Of Defense - 35 upvotes, $0
 94. [[HTA2] XXE on https://███ via SpellCheck Endpoint.](https://hackerone.com/reports/715949) to U.S. Dept Of Defense - 35 upvotes, $0
-95. [XSS in Cisco Endpoint](https://hackerone.com/reports/2233421) to U.S. Dept Of Defense - 34 upvotes, $0
-96. [SQL injection on ██████████ via 'where' parameter](https://hackerone.com/reports/2433970) to U.S. Dept Of Defense - 34 upvotes, $0
-97. [Subdomain Takeover via Host Header Injection on www.█████](https://hackerone.com/reports/2188240) to U.S. Dept Of Defense - 34 upvotes, $0
+95. [Subdomain Takeover via Host Header Injection on www.█████](https://hackerone.com/reports/2188240) to U.S. Dept Of Defense - 35 upvotes, $0
+96. [XSS in Cisco Endpoint](https://hackerone.com/reports/2233421) to U.S. Dept Of Defense - 34 upvotes, $0
+97. [SQL injection on ██████████ via 'where' parameter](https://hackerone.com/reports/2433970) to U.S. Dept Of Defense - 34 upvotes, $0
 98. [XXE on DoD web server](https://hackerone.com/reports/188743) to U.S. Dept Of Defense - 33 upvotes, $0
 99. [[██████] Cross-origin resource sharing misconfiguration (CORS)](https://hackerone.com/reports/470298) to U.S. Dept Of Defense - 33 upvotes, $0
 100. [Blind Stored XSS Payload fired at the backend on https://█████████/](https://hackerone.com/reports/1051369) to U.S. Dept Of Defense - 33 upvotes, $0
@@ -157,17 +157,17 @@ Top reports from U.S. Dept Of Defense program at HackerOne:
 155. [IDOR while uploading ████ attachments at [█████████]](https://hackerone.com/reports/1196976) to U.S. Dept Of Defense - 24 upvotes, $0
 156. [Leaks of username and password leads to CVE-2018-18862 exploitation](https://hackerone.com/reports/1990338) to U.S. Dept Of Defense - 24 upvotes, $0
 157. [Reflected XSS via Moodle on ███ [CVE-2022-35653]](https://hackerone.com/reports/2444032) to U.S. Dept Of Defense - 24 upvotes, $0
-158. [Reflected XSS in https://www.█████/](https://hackerone.com/reports/950700) to U.S. Dept Of Defense - 23 upvotes, $0
-159. [Full account takeover on https://████████.mil](https://hackerone.com/reports/1058015) to U.S. Dept Of Defense - 23 upvotes, $0
-160. [Access to all █████████ files, including CAC authentication bypass](https://hackerone.com/reports/429000) to U.S. Dept Of Defense - 22 upvotes, $0
-161. [SQL injection on the https://████/](https://hackerone.com/reports/488795) to U.S. Dept Of Defense - 22 upvotes, $0
-162. [[Partial] SSN & [PII] exposed through iPERMs Presentation Slide.](https://hackerone.com/reports/719631) to U.S. Dept Of Defense - 22 upvotes, $0
-163. [Subdomain takeover due to an unclaimed Amazon S3 bucket on ███](https://hackerone.com/reports/918946) to U.S. Dept Of Defense - 22 upvotes, $0
-164. [Sensitive information disclosure [HtUS]](https://hackerone.com/reports/1632104) to U.S. Dept Of Defense - 22 upvotes, $0
-165. [Client side authentication leads to Auth Bypass](https://hackerone.com/reports/1877989) to U.S. Dept Of Defense - 22 upvotes, $0
-166. [Information Disclosure FrontPage Configuration Information](https://hackerone.com/reports/2180018) to U.S. Dept Of Defense - 22 upvotes, $0
-167. [Resource Injection - [████████]](https://hackerone.com/reports/2297561) to U.S. Dept Of Defense - 22 upvotes, $0
-168. [CVE-2021-39226 Discovered on endpoint https://██████/api/snapshots](https://hackerone.com/reports/2408480) to U.S. Dept Of Defense - 22 upvotes, $0
+158. [SQL injection on the https://████/](https://hackerone.com/reports/488795) to U.S. Dept Of Defense - 23 upvotes, $0
+159. [Reflected XSS in https://www.█████/](https://hackerone.com/reports/950700) to U.S. Dept Of Defense - 23 upvotes, $0
+160. [Full account takeover on https://████████.mil](https://hackerone.com/reports/1058015) to U.S. Dept Of Defense - 23 upvotes, $0
+161. [Client side authentication leads to Auth Bypass](https://hackerone.com/reports/1877989) to U.S. Dept Of Defense - 23 upvotes, $0
+162. [CVE-2021-39226 Discovered on endpoint https://██████/api/snapshots](https://hackerone.com/reports/2408480) to U.S. Dept Of Defense - 23 upvotes, $0
+163. [Access to all █████████ files, including CAC authentication bypass](https://hackerone.com/reports/429000) to U.S. Dept Of Defense - 22 upvotes, $0
+164. [[Partial] SSN & [PII] exposed through iPERMs Presentation Slide.](https://hackerone.com/reports/719631) to U.S. Dept Of Defense - 22 upvotes, $0
+165. [Subdomain takeover due to an unclaimed Amazon S3 bucket on ███](https://hackerone.com/reports/918946) to U.S. Dept Of Defense - 22 upvotes, $0
+166. [Sensitive information disclosure [HtUS]](https://hackerone.com/reports/1632104) to U.S. Dept Of Defense - 22 upvotes, $0
+167. [Information Disclosure FrontPage Configuration Information](https://hackerone.com/reports/2180018) to U.S. Dept Of Defense - 22 upvotes, $0
+168. [Resource Injection - [████████]](https://hackerone.com/reports/2297561) to U.S. Dept Of Defense - 22 upvotes, $0
 169. [SSRF on █████████ Allowing internal server data access](https://hackerone.com/reports/326040) to U.S. Dept Of Defense - 21 upvotes, $0
 170. [Arbitrary File Reading leads to RCE in the Pulse Secure SSL VPN on the https://███](https://hackerone.com/reports/678496) to U.S. Dept Of Defense - 21 upvotes, $0
 171. [CSRF - Close Account](https://hackerone.com/reports/856518) to U.S. Dept Of Defense - 21 upvotes, $0
@@ -196,16 +196,16 @@ Top reports from U.S. Dept Of Defense program at HackerOne:
 194. [[CVE-2018-7600] Remote Code Execution due to outdated Drupal server on www.█████████](https://hackerone.com/reports/1063256) to U.S. Dept Of Defense - 19 upvotes, $0
 195. [Reflected XSS on ███](https://hackerone.com/reports/1057419) to U.S. Dept Of Defense - 19 upvotes, $0
 196. [Blind SQL iNJECTION ](https://hackerone.com/reports/1102591) to U.S. Dept Of Defense - 19 upvotes, $0
-197. [[hta3] Chain of ESI Injection & Reflected XSS leading to Account Takeover on [███]](https://hackerone.com/reports/1073780) to U.S. Dept Of Defense - 19 upvotes, $0
-198. [Reflected XSS on ██████.mil](https://hackerone.com/reports/1799562) to U.S. Dept Of Defense - 19 upvotes, $0
-199. [[CVE-2018-0296] Cisco VPN path traversal on the https://███████/ (████.███.mil)](https://hackerone.com/reports/695429) to U.S. Dept Of Defense - 19 upvotes, $0
-200. [Unauthenticated arbitrary file upload on the https://█████/ (█████████)](https://hackerone.com/reports/698789) to U.S. Dept Of Defense - 19 upvotes, $0
-201. [Partial SSN exposed through Presentation slides on ██████████](https://hackerone.com/reports/665144) to U.S. Dept Of Defense - 18 upvotes, $0
-202. [Subdomain takeover of ████](https://hackerone.com/reports/900062) to U.S. Dept Of Defense - 18 upvotes, $0
-203. [███ is vulnerable to CVE-2020-3452 Read-Only Path Traversal Vulnerability](https://hackerone.com/reports/959187) to U.S. Dept Of Defense - 18 upvotes, $0
-204. [XSS Reflect to POST █████](https://hackerone.com/reports/1003433) to U.S. Dept Of Defense - 18 upvotes, $0
-205. [IDOR leaking PII data via VendorId parameter](https://hackerone.com/reports/1690044) to U.S. Dept Of Defense - 18 upvotes, $0
-206. [Host Header Injection on https://███/████████/Account/ForgotPassword](https://hackerone.com/reports/1679969) to U.S. Dept Of Defense - 18 upvotes, $0
+197. [IDOR leaking PII data via VendorId parameter](https://hackerone.com/reports/1690044) to U.S. Dept Of Defense - 19 upvotes, $0
+198. [[hta3] Chain of ESI Injection & Reflected XSS leading to Account Takeover on [███]](https://hackerone.com/reports/1073780) to U.S. Dept Of Defense - 19 upvotes, $0
+199. [Host Header Injection on https://███/████████/Account/ForgotPassword](https://hackerone.com/reports/1679969) to U.S. Dept Of Defense - 19 upvotes, $0
+200. [Reflected XSS on ██████.mil](https://hackerone.com/reports/1799562) to U.S. Dept Of Defense - 19 upvotes, $0
+201. [[CVE-2018-0296] Cisco VPN path traversal on the https://███████/ (████.███.mil)](https://hackerone.com/reports/695429) to U.S. Dept Of Defense - 19 upvotes, $0
+202. [Unauthenticated arbitrary file upload on the https://█████/ (█████████)](https://hackerone.com/reports/698789) to U.S. Dept Of Defense - 19 upvotes, $0
+203. [Partial SSN exposed through Presentation slides on ██████████](https://hackerone.com/reports/665144) to U.S. Dept Of Defense - 18 upvotes, $0
+204. [Subdomain takeover of ████](https://hackerone.com/reports/900062) to U.S. Dept Of Defense - 18 upvotes, $0
+205. [███ is vulnerable to CVE-2020-3452 Read-Only Path Traversal Vulnerability](https://hackerone.com/reports/959187) to U.S. Dept Of Defense - 18 upvotes, $0
+206. [XSS Reflect to POST █████](https://hackerone.com/reports/1003433) to U.S. Dept Of Defense - 18 upvotes, $0
 207. [RCE on ███████ [CVE-2021-26084]](https://hackerone.com/reports/1327701) to U.S. Dept Of Defense - 18 upvotes, $0
 208. [Reflective Cross Site Scripting (XSS) on ███████/Pages](https://hackerone.com/reports/1794757) to U.S. Dept Of Defense - 18 upvotes, $0
 209. [XML External Entity (XXE) Injection](https://hackerone.com/reports/2573567) to U.S. Dept Of Defense - 18 upvotes, $0
@@ -219,42 +219,42 @@ Top reports from U.S. Dept Of Defense program at HackerOne:
 217. [CSRF to account takeover in https://███████.mil/](https://hackerone.com/reports/987751) to U.S. Dept Of Defense - 17 upvotes, $0
 218. [RXSS - https://████████/](https://hackerone.com/reports/872304) to U.S. Dept Of Defense - 17 upvotes, $0
 219. [IDOR](https://hackerone.com/reports/389250) to U.S. Dept Of Defense - 17 upvotes, $0
-220. [[CVE-2018-0296] Cisco VPN path traversal on the https://███ (████████████████)](https://hackerone.com/reports/695427) to U.S. Dept Of Defense - 17 upvotes, $0
-221. [Restrict any user from Login to their account](https://hackerone.com/reports/2586616) to U.S. Dept Of Defense - 17 upvotes, $0
-222. [Blind stored XSS due to insecure contact form at https://█████.mil leads to leakage of session token and ](https://hackerone.com/reports/1036877) to U.S. Dept Of Defense - 16 upvotes, $0
-223. [Old Session Does Not Expires After Password Change](https://hackerone.com/reports/1069392) to U.S. Dept Of Defense - 16 upvotes, $0
-224. [Reflected XSS on https://█████████/](https://hackerone.com/reports/1065167) to U.S. Dept Of Defense - 16 upvotes, $0
-225. [███ on https://████ enable ███ scraping, injection, stored XSS](https://hackerone.com/reports/1048571) to U.S. Dept Of Defense - 16 upvotes, $0
-226. [Expired SSL Certificate allows credentials steal](https://hackerone.com/reports/1344951) to U.S. Dept Of Defense - 16 upvotes, $0
-227. [Arbitrary File Read at ███ via filename parameter](https://hackerone.com/reports/1436223) to U.S. Dept Of Defense - 16 upvotes, $0
-228. [SQL injection at [█████████] [HtUS]](https://hackerone.com/reports/1626198) to U.S. Dept Of Defense - 16 upvotes, $0
+220. [SQL injection at [█████████] [HtUS]](https://hackerone.com/reports/1626198) to U.S. Dept Of Defense - 17 upvotes, $0
+221. [[CVE-2018-0296] Cisco VPN path traversal on the https://███ (████████████████)](https://hackerone.com/reports/695427) to U.S. Dept Of Defense - 17 upvotes, $0
+222. [Restrict any user from Login to their account](https://hackerone.com/reports/2586616) to U.S. Dept Of Defense - 17 upvotes, $0
+223. [Blind stored XSS due to insecure contact form at https://█████.mil leads to leakage of session token and ](https://hackerone.com/reports/1036877) to U.S. Dept Of Defense - 16 upvotes, $0
+224. [Old Session Does Not Expires After Password Change](https://hackerone.com/reports/1069392) to U.S. Dept Of Defense - 16 upvotes, $0
+225. [Reflected XSS on https://█████████/](https://hackerone.com/reports/1065167) to U.S. Dept Of Defense - 16 upvotes, $0
+226. [███ on https://████ enable ███ scraping, injection, stored XSS](https://hackerone.com/reports/1048571) to U.S. Dept Of Defense - 16 upvotes, $0
+227. [Expired SSL Certificate allows credentials steal](https://hackerone.com/reports/1344951) to U.S. Dept Of Defense - 16 upvotes, $0
+228. [Arbitrary File Read at ███ via filename parameter](https://hackerone.com/reports/1436223) to U.S. Dept Of Defense - 16 upvotes, $0
 229. [IDOR when editing email leads to Mass Full ATOs (Account Takeovers) without user interaction on https://██████/](https://hackerone.com/reports/1687415) to U.S. Dept Of Defense - 16 upvotes, $0
 230. [reflected xss in www.████████.gov](https://hackerone.com/reports/1814335) to U.S. Dept Of Defense - 16 upvotes, $0
 231. [[CVE-2018-0296] Cisco VPN path traversal on the https://██████████](https://hackerone.com/reports/694865) to U.S. Dept Of Defense - 16 upvotes, $0
 232. [HTML Injection into https://www.██████.mil](https://hackerone.com/reports/2554003) to U.S. Dept Of Defense - 16 upvotes, $0
 233. [Unauth IDOR to mass account takeover without user interaction on the ███████ (https://███████.edu/)](https://hackerone.com/reports/685338) to U.S. Dept Of Defense - 16 upvotes, $0
 234. [CSRF to ATO at https://█████/user/account [HtUS]](https://hackerone.com/reports/1624421) to U.S. Dept Of Defense - 15 upvotes, $500
-235. [XSS on www.██████ alerts and a number of other pages](https://hackerone.com/reports/450315) to U.S. Dept Of Defense - 15 upvotes, $0
-236. [[█████] — DOM-based XSS on endpoint `/?s=`](https://hackerone.com/reports/708592) to U.S. Dept Of Defense - 15 upvotes, $0
-237. [Reflected cross-site scripting vulnerability on a DoD website](https://hackerone.com/reports/774792) to U.S. Dept Of Defense - 15 upvotes, $0
-238. [No Rate Limiting on https://██████/██████████/accounts/password/reset/ endpoint leads to Denial of Service](https://hackerone.com/reports/862681) to U.S. Dept Of Defense - 15 upvotes, $0
-239. [Exposed Docker Registry at https://████](https://hackerone.com/reports/924487) to U.S. Dept Of Defense - 15 upvotes, $0
-240. [Sensitive information about a ██████](https://hackerone.com/reports/893970) to U.S. Dept Of Defense - 15 upvotes, $0
-241. [Local File Disclosure on the ████████ (https://████/) leads to the source code disclosure & DB credentials leak](https://hackerone.com/reports/685344) to U.S. Dept Of Defense - 15 upvotes, $0
-242. [Unauth RCE on Jenkins Instance at https://█████████/](https://hackerone.com/reports/1125329) to U.S. Dept Of Defense - 15 upvotes, $0
-243. [Administration Authentication Bypass on https://█████](https://hackerone.com/reports/1146600) to U.S. Dept Of Defense - 15 upvotes, $0
-244. [CSRF in  https://███](https://hackerone.com/reports/1090838) to U.S. Dept Of Defense - 15 upvotes, $0
-245. [XSS via X-Forwarded-Host header](https://hackerone.com/reports/882220) to U.S. Dept Of Defense - 15 upvotes, $0
-246. [Subdomain takeover [​████████]](https://hackerone.com/reports/1341133) to U.S. Dept Of Defense - 15 upvotes, $0
-247. [phpinfo() disclosure info](https://hackerone.com/reports/804809) to U.S. Dept Of Defense - 15 upvotes, $0
-248. [Broken Authentication](https://hackerone.com/reports/409237) to U.S. Dept Of Defense - 15 upvotes, $0
-249. [[█████] Bug Reports allow for Unrestricted File Upload](https://hackerone.com/reports/1850065) to U.S. Dept Of Defense - 15 upvotes, $0
-250. [DBMS information getting exposed publicly on -- [ ██████████ ]](https://hackerone.com/reports/2370578) to U.S. Dept Of Defense - 15 upvotes, $0
-251. [Blind SQLi vulnerability in a DoD Website](https://hackerone.com/reports/213239) to U.S. Dept Of Defense - 14 upvotes, $0
-252. [[Critical] Full local fylesystem access (LFI/LFD) as admin via Path Traversal in the misconfigured Java servlet on the https://███/](https://hackerone.com/reports/497771) to U.S. Dept Of Defense - 14 upvotes, $0
-253. [Open FTP server on a DoD system](https://hackerone.com/reports/192321) to U.S. Dept Of Defense - 14 upvotes, $0
-254. [PII leakage due to caching of Order/Contract ID's on █████████](https://hackerone.com/reports/374007) to U.S. Dept Of Defense - 14 upvotes, $0
-255. [Blind SQL injection on ████████](https://hackerone.com/reports/313037) to U.S. Dept Of Defense - 14 upvotes, $0
+235. [Blind SQL injection on ████████](https://hackerone.com/reports/313037) to U.S. Dept Of Defense - 15 upvotes, $0
+236. [XSS on www.██████ alerts and a number of other pages](https://hackerone.com/reports/450315) to U.S. Dept Of Defense - 15 upvotes, $0
+237. [[█████] — DOM-based XSS on endpoint `/?s=`](https://hackerone.com/reports/708592) to U.S. Dept Of Defense - 15 upvotes, $0
+238. [Reflected cross-site scripting vulnerability on a DoD website](https://hackerone.com/reports/774792) to U.S. Dept Of Defense - 15 upvotes, $0
+239. [No Rate Limiting on https://██████/██████████/accounts/password/reset/ endpoint leads to Denial of Service](https://hackerone.com/reports/862681) to U.S. Dept Of Defense - 15 upvotes, $0
+240. [Exposed Docker Registry at https://████](https://hackerone.com/reports/924487) to U.S. Dept Of Defense - 15 upvotes, $0
+241. [Sensitive information about a ██████](https://hackerone.com/reports/893970) to U.S. Dept Of Defense - 15 upvotes, $0
+242. [Local File Disclosure on the ████████ (https://████/) leads to the source code disclosure & DB credentials leak](https://hackerone.com/reports/685344) to U.S. Dept Of Defense - 15 upvotes, $0
+243. [Unauth RCE on Jenkins Instance at https://█████████/](https://hackerone.com/reports/1125329) to U.S. Dept Of Defense - 15 upvotes, $0
+244. [Administration Authentication Bypass on https://█████](https://hackerone.com/reports/1146600) to U.S. Dept Of Defense - 15 upvotes, $0
+245. [CSRF in  https://███](https://hackerone.com/reports/1090838) to U.S. Dept Of Defense - 15 upvotes, $0
+246. [XSS via X-Forwarded-Host header](https://hackerone.com/reports/882220) to U.S. Dept Of Defense - 15 upvotes, $0
+247. [Subdomain takeover [​████████]](https://hackerone.com/reports/1341133) to U.S. Dept Of Defense - 15 upvotes, $0
+248. [phpinfo() disclosure info](https://hackerone.com/reports/804809) to U.S. Dept Of Defense - 15 upvotes, $0
+249. [Broken Authentication](https://hackerone.com/reports/409237) to U.S. Dept Of Defense - 15 upvotes, $0
+250. [[█████] Bug Reports allow for Unrestricted File Upload](https://hackerone.com/reports/1850065) to U.S. Dept Of Defense - 15 upvotes, $0
+251. [DBMS information getting exposed publicly on -- [ ██████████ ]](https://hackerone.com/reports/2370578) to U.S. Dept Of Defense - 15 upvotes, $0
+252. [Blind SQLi vulnerability in a DoD Website](https://hackerone.com/reports/213239) to U.S. Dept Of Defense - 14 upvotes, $0
+253. [[Critical] Full local fylesystem access (LFI/LFD) as admin via Path Traversal in the misconfigured Java servlet on the https://███/](https://hackerone.com/reports/497771) to U.S. Dept Of Defense - 14 upvotes, $0
+254. [Open FTP server on a DoD system](https://hackerone.com/reports/192321) to U.S. Dept Of Defense - 14 upvotes, $0
+255. [PII leakage due to caching of Order/Contract ID's on █████████](https://hackerone.com/reports/374007) to U.S. Dept Of Defense - 14 upvotes, $0
 256. [PII leakage-Full SSN on ███](https://hackerone.com/reports/644358) to U.S. Dept Of Defense - 14 upvotes, $0
 257. [SSN leak due to editable slides](https://hackerone.com/reports/693943) to U.S. Dept Of Defense - 14 upvotes, $0
 258. [Unrestricted File Upload Leads to XSS & Potential RCE](https://hackerone.com/reports/900179) to U.S. Dept Of Defense - 14 upvotes, $0
@@ -267,63 +267,63 @@ Top reports from U.S. Dept Of Defense program at HackerOne:
 265. [xss on reset password page](https://hackerone.com/reports/1763404) to U.S. Dept Of Defense - 14 upvotes, $0
 266. [[U.S. Air Force] Information disclosure due unauthenticated access to APIs and system browser functions](https://hackerone.com/reports/1822160) to U.S. Dept Of Defense - 14 upvotes, $0
 267. [AWS Credentials Disclosure at ███ ](https://hackerone.com/reports/1704035) to U.S. Dept Of Defense - 14 upvotes, $0
-268. [Elasticsearch is currently open without authentication on  https://██████l](https://hackerone.com/reports/2231261) to U.S. Dept Of Defense - 14 upvotes, $0
-269. [CVE-2023-26347 in https://████.mil/hax/..CFIDE/adminapi/administrator.cfc?method=getBuildNumber&_cfclient=true](https://hackerone.com/reports/2518407) to U.S. Dept Of Defense - 14 upvotes, $0
-270. [SQL injection vulnerability on a DoD website](https://hackerone.com/reports/189332) to U.S. Dept Of Defense - 13 upvotes, $0
-271. [Remote Code Execution (RCE) in a DoD website](https://hackerone.com/reports/329397) to U.S. Dept Of Defense - 13 upvotes, $0
-272. [http://████/data.json  showing users sensitive information via  json file](https://hackerone.com/reports/184472) to U.S. Dept Of Defense - 13 upvotes, $0
-273. [Remote Code Execution - Unauthenticated Remote Command Injection (via Microsoft SharePoint CVE-2019-0604)](https://hackerone.com/reports/534630) to U.S. Dept Of Defense - 13 upvotes, $0
-274. [Previously Compromised PulseSSL VPN Hosts](https://hackerone.com/reports/852713) to U.S. Dept Of Defense - 13 upvotes, $0
-275. [(CORS) Cross-origin resource sharing misconfiguration](https://hackerone.com/reports/896093) to U.S. Dept Of Defense - 13 upvotes, $0
-276. [CORS misconfiguration which leads to the disclosure ](https://hackerone.com/reports/1005374) to U.S. Dept Of Defense - 13 upvotes, $0
-277. [CSRF to Cross-site Scripting (XSS)](https://hackerone.com/reports/1118521) to U.S. Dept Of Defense - 13 upvotes, $0
-278. [DOM Based XSS on https://████ via backURL param](https://hackerone.com/reports/1159255) to U.S. Dept Of Defense - 13 upvotes, $0
-279. [Insufficient Session Expiration on Adobe Connect | https://█████████](https://hackerone.com/reports/996122) to U.S. Dept Of Defense - 13 upvotes, $0
-280. [XML Injection / External Service Interaction (HTTP/DNS) On https://█████████.mil](https://hackerone.com/reports/1150799) to U.S. Dept Of Defense - 13 upvotes, $0
-281. [Reflected XSS at [████████]](https://hackerone.com/reports/1196945) to U.S. Dept Of Defense - 13 upvotes, $0
-282. [XSS DUE TO CVE-2020-3580](https://hackerone.com/reports/1245055) to U.S. Dept Of Defense - 13 upvotes, $0
-283. [Unauthenticated Access to Admin Panel Functions at https://███████/███](https://hackerone.com/reports/1397564) to U.S. Dept Of Defense - 13 upvotes, $0
-284. [Full account takeover in ███████ due lack of rate limiting in forgot password](https://hackerone.com/reports/1059758) to U.S. Dept Of Defense - 13 upvotes, $0
-285. [Stored XSS at https://█████](https://hackerone.com/reports/1620247) to U.S. Dept Of Defense - 13 upvotes, $0
-286. [Reflected cross site scripting in https://███████](https://hackerone.com/reports/1636345) to U.S. Dept Of Defense - 13 upvotes, $0
-287. [Blind SSRF via image upload URL downloader on https://██████/ ](https://hackerone.com/reports/1691501) to U.S. Dept Of Defense - 13 upvotes, $0
-288. [Sql Injection At █████████](https://hackerone.com/reports/1723896) to U.S. Dept Of Defense - 13 upvotes, $0
-289. [XSS on ( █████████.gov ) Via URL path](https://hackerone.com/reports/1825942) to U.S. Dept Of Defense - 13 upvotes, $0
-290. [CSRF to delete accounts [HtUS]](https://hackerone.com/reports/1629828) to U.S. Dept Of Defense - 13 upvotes, $0
-291. [External service interaction ( DNS and HTTP ) in www.████████](https://hackerone.com/reports/1704024) to U.S. Dept Of Defense - 13 upvotes, $0
-292. [Unrestricted File Download / Path Traversal](https://hackerone.com/reports/183925) to U.S. Dept Of Defense - 12 upvotes, $0
-293. [DOM Based XSS on an Army website](https://hackerone.com/reports/191407) to U.S. Dept Of Defense - 12 upvotes, $0
-294. [Arbitary file download vulnerability on a DoD website](https://hackerone.com/reports/230870) to U.S. Dept Of Defense - 12 upvotes, $0
-295. [ SQL injections](https://hackerone.com/reports/272506) to U.S. Dept Of Defense - 12 upvotes, $0
-296. [RCE on https://█████/ Using CVE-2017-9248](https://hackerone.com/reports/491668) to U.S. Dept Of Defense - 12 upvotes, $0
-297. [SQL Injection in Login Page: https://█████/█████████/login.php](https://hackerone.com/reports/447742) to U.S. Dept Of Defense - 12 upvotes, $0
-298. [Local File Inclusion In Registration Page](https://hackerone.com/reports/1007799) to U.S. Dept Of Defense - 12 upvotes, $0
-299. [PII Leak of USCG Designated Examiner List at https://www.███](https://hackerone.com/reports/1007702) to U.S. Dept Of Defense - 12 upvotes, $0
-300. [Blind Stored XSS on ███████  leads to takeover admin account](https://hackerone.com/reports/1110243) to U.S. Dept Of Defense - 12 upvotes, $0
-301. [External Service Interaction (HTTP/DNS) on https://www.███  (██████████ parameter)](https://hackerone.com/reports/997376) to U.S. Dept Of Defense - 12 upvotes, $0
-302. [IDOR on https://██████ via POST UID enables database scraping](https://hackerone.com/reports/1048540) to U.S. Dept Of Defense - 12 upvotes, $0
-303. [Unauthorized access to admin panel of the Questionmark Perception system at https://██████████](https://hackerone.com/reports/1026146) to U.S. Dept Of Defense - 12 upvotes, $0
-304. [All private support requests to ███████ are being disclosed at https://███████](https://hackerone.com/reports/1004964) to U.S. Dept Of Defense - 12 upvotes, $0
-305. [Rxss on █████████ via logout?service=javascript:alert(1)](https://hackerone.com/reports/1406598) to U.S. Dept Of Defense - 12 upvotes, $0
-306. [CSRF - Delete Account (Urgent)](https://hackerone.com/reports/799855) to U.S. Dept Of Defense - 12 upvotes, $0
-307. [Unauthorized Access to Internal Server Panel without Authentication](https://hackerone.com/reports/1548067) to U.S. Dept Of Defense - 12 upvotes, $0
-308. [Local file read at https://████/ [HtUS]](https://hackerone.com/reports/1626210) to U.S. Dept Of Defense - 12 upvotes, $0
-309. [Sensitive Data Exposure at https://█████████](https://hackerone.com/reports/1720278) to U.S. Dept Of Defense - 12 upvotes, $0
-310. [CORS Misconfiguration in https://████████/accounts/login/](https://hackerone.com/reports/1771149) to U.S. Dept Of Defense - 12 upvotes, $0
-311. [[XSS] Reflected XSS via POST request](https://hackerone.com/reports/1850235) to U.S. Dept Of Defense - 12 upvotes, $0
-312. [AEM misconfiguration leads to Information disclosure](https://hackerone.com/reports/1939272) to U.S. Dept Of Defense - 12 upvotes, $0
-313. [Unauthorized access to Argo dashboard on █████](https://hackerone.com/reports/2247231) to U.S. Dept Of Defense - 12 upvotes, $0
-314. [Self XSS](https://hackerone.com/reports/2521186) to U.S. Dept Of Defense - 12 upvotes, $0
-315. [Authentication bypass and potential RCE on the https://████ due to exposed Cisco TelePresence SX80 with default credentials](https://hackerone.com/reports/684758) to U.S. Dept Of Defense - 12 upvotes, $0
-316. [Unauthenticated access to internal API at██████████.███.edu  [HtUS]](https://hackerone.com/reports/1627980) to U.S. Dept Of Defense - 12 upvotes, $0
-317. [Missing Access Control Allows for User Creation and Privilege Escalation ](https://hackerone.com/reports/2442229) to U.S. Dept Of Defense - 12 upvotes, $0
-318. [Local File Read vulnerability on ██████████ [HtUS]](https://hackerone.com/reports/1624670) to U.S. Dept Of Defense - 11 upvotes, $500
-319. [Authentication bypass vulnerability on a DoD website](https://hackerone.com/reports/187705) to U.S. Dept Of Defense - 11 upvotes, $0
-320. [Reflected cross-site scripting vulnerability on a DoD website](https://hackerone.com/reports/184042) to U.S. Dept Of Defense - 11 upvotes, $0
-321. [Local file inclusion vulnerability on a DoD website](https://hackerone.com/reports/196448) to U.S. Dept Of Defense - 11 upvotes, $0
-322. [SQL Injection vulnerability in a DoD website](https://hackerone.com/reports/216699) to U.S. Dept Of Defense - 11 upvotes, $0
-323. [Path traversal on ████████](https://hackerone.com/reports/217344) to U.S. Dept Of Defense - 11 upvotes, $0
-324. [SQL injection on █████ due to tech.cfm ](https://hackerone.com/reports/310031) to U.S. Dept Of Defense - 11 upvotes, $0
+268. [CSRF to delete accounts [HtUS]](https://hackerone.com/reports/1629828) to U.S. Dept Of Defense - 14 upvotes, $0
+269. [Elasticsearch is currently open without authentication on  https://██████l](https://hackerone.com/reports/2231261) to U.S. Dept Of Defense - 14 upvotes, $0
+270. [CVE-2023-26347 in https://████.mil/hax/..CFIDE/adminapi/administrator.cfc?method=getBuildNumber&_cfclient=true](https://hackerone.com/reports/2518407) to U.S. Dept Of Defense - 14 upvotes, $0
+271. [SQL injection vulnerability on a DoD website](https://hackerone.com/reports/189332) to U.S. Dept Of Defense - 13 upvotes, $0
+272. [Remote Code Execution (RCE) in a DoD website](https://hackerone.com/reports/329397) to U.S. Dept Of Defense - 13 upvotes, $0
+273. [ SQL injections](https://hackerone.com/reports/272506) to U.S. Dept Of Defense - 13 upvotes, $0
+274. [http://████/data.json  showing users sensitive information via  json file](https://hackerone.com/reports/184472) to U.S. Dept Of Defense - 13 upvotes, $0
+275. [Remote Code Execution - Unauthenticated Remote Command Injection (via Microsoft SharePoint CVE-2019-0604)](https://hackerone.com/reports/534630) to U.S. Dept Of Defense - 13 upvotes, $0
+276. [Previously Compromised PulseSSL VPN Hosts](https://hackerone.com/reports/852713) to U.S. Dept Of Defense - 13 upvotes, $0
+277. [(CORS) Cross-origin resource sharing misconfiguration](https://hackerone.com/reports/896093) to U.S. Dept Of Defense - 13 upvotes, $0
+278. [CORS misconfiguration which leads to the disclosure ](https://hackerone.com/reports/1005374) to U.S. Dept Of Defense - 13 upvotes, $0
+279. [CSRF to Cross-site Scripting (XSS)](https://hackerone.com/reports/1118521) to U.S. Dept Of Defense - 13 upvotes, $0
+280. [DOM Based XSS on https://████ via backURL param](https://hackerone.com/reports/1159255) to U.S. Dept Of Defense - 13 upvotes, $0
+281. [Insufficient Session Expiration on Adobe Connect | https://█████████](https://hackerone.com/reports/996122) to U.S. Dept Of Defense - 13 upvotes, $0
+282. [XML Injection / External Service Interaction (HTTP/DNS) On https://█████████.mil](https://hackerone.com/reports/1150799) to U.S. Dept Of Defense - 13 upvotes, $0
+283. [Reflected XSS at [████████]](https://hackerone.com/reports/1196945) to U.S. Dept Of Defense - 13 upvotes, $0
+284. [XSS DUE TO CVE-2020-3580](https://hackerone.com/reports/1245055) to U.S. Dept Of Defense - 13 upvotes, $0
+285. [Unauthenticated Access to Admin Panel Functions at https://███████/███](https://hackerone.com/reports/1397564) to U.S. Dept Of Defense - 13 upvotes, $0
+286. [Full account takeover in ███████ due lack of rate limiting in forgot password](https://hackerone.com/reports/1059758) to U.S. Dept Of Defense - 13 upvotes, $0
+287. [Stored XSS at https://█████](https://hackerone.com/reports/1620247) to U.S. Dept Of Defense - 13 upvotes, $0
+288. [Reflected cross site scripting in https://███████](https://hackerone.com/reports/1636345) to U.S. Dept Of Defense - 13 upvotes, $0
+289. [Blind SSRF via image upload URL downloader on https://██████/ ](https://hackerone.com/reports/1691501) to U.S. Dept Of Defense - 13 upvotes, $0
+290. [Sql Injection At █████████](https://hackerone.com/reports/1723896) to U.S. Dept Of Defense - 13 upvotes, $0
+291. [XSS on ( █████████.gov ) Via URL path](https://hackerone.com/reports/1825942) to U.S. Dept Of Defense - 13 upvotes, $0
+292. [External service interaction ( DNS and HTTP ) in www.████████](https://hackerone.com/reports/1704024) to U.S. Dept Of Defense - 13 upvotes, $0
+293. [Unrestricted File Download / Path Traversal](https://hackerone.com/reports/183925) to U.S. Dept Of Defense - 12 upvotes, $0
+294. [DOM Based XSS on an Army website](https://hackerone.com/reports/191407) to U.S. Dept Of Defense - 12 upvotes, $0
+295. [Arbitary file download vulnerability on a DoD website](https://hackerone.com/reports/230870) to U.S. Dept Of Defense - 12 upvotes, $0
+296. [SQL injection on █████ due to tech.cfm ](https://hackerone.com/reports/310031) to U.S. Dept Of Defense - 12 upvotes, $0
+297. [RCE on https://█████/ Using CVE-2017-9248](https://hackerone.com/reports/491668) to U.S. Dept Of Defense - 12 upvotes, $0
+298. [SQL Injection in Login Page: https://█████/█████████/login.php](https://hackerone.com/reports/447742) to U.S. Dept Of Defense - 12 upvotes, $0
+299. [Local File Inclusion In Registration Page](https://hackerone.com/reports/1007799) to U.S. Dept Of Defense - 12 upvotes, $0
+300. [PII Leak of USCG Designated Examiner List at https://www.███](https://hackerone.com/reports/1007702) to U.S. Dept Of Defense - 12 upvotes, $0
+301. [Blind Stored XSS on ███████  leads to takeover admin account](https://hackerone.com/reports/1110243) to U.S. Dept Of Defense - 12 upvotes, $0
+302. [External Service Interaction (HTTP/DNS) on https://www.███  (██████████ parameter)](https://hackerone.com/reports/997376) to U.S. Dept Of Defense - 12 upvotes, $0
+303. [IDOR on https://██████ via POST UID enables database scraping](https://hackerone.com/reports/1048540) to U.S. Dept Of Defense - 12 upvotes, $0
+304. [Unauthorized access to admin panel of the Questionmark Perception system at https://██████████](https://hackerone.com/reports/1026146) to U.S. Dept Of Defense - 12 upvotes, $0
+305. [All private support requests to ███████ are being disclosed at https://███████](https://hackerone.com/reports/1004964) to U.S. Dept Of Defense - 12 upvotes, $0
+306. [Rxss on █████████ via logout?service=javascript:alert(1)](https://hackerone.com/reports/1406598) to U.S. Dept Of Defense - 12 upvotes, $0
+307. [CSRF - Delete Account (Urgent)](https://hackerone.com/reports/799855) to U.S. Dept Of Defense - 12 upvotes, $0
+308. [Unauthorized Access to Internal Server Panel without Authentication](https://hackerone.com/reports/1548067) to U.S. Dept Of Defense - 12 upvotes, $0
+309. [Local file read at https://████/ [HtUS]](https://hackerone.com/reports/1626210) to U.S. Dept Of Defense - 12 upvotes, $0
+310. [Sensitive Data Exposure at https://█████████](https://hackerone.com/reports/1720278) to U.S. Dept Of Defense - 12 upvotes, $0
+311. [CORS Misconfiguration in https://████████/accounts/login/](https://hackerone.com/reports/1771149) to U.S. Dept Of Defense - 12 upvotes, $0
+312. [[XSS] Reflected XSS via POST request](https://hackerone.com/reports/1850235) to U.S. Dept Of Defense - 12 upvotes, $0
+313. [AEM misconfiguration leads to Information disclosure](https://hackerone.com/reports/1939272) to U.S. Dept Of Defense - 12 upvotes, $0
+314. [Unauthorized access to Argo dashboard on █████](https://hackerone.com/reports/2247231) to U.S. Dept Of Defense - 12 upvotes, $0
+315. [Self XSS](https://hackerone.com/reports/2521186) to U.S. Dept Of Defense - 12 upvotes, $0
+316. [Authentication bypass and potential RCE on the https://████ due to exposed Cisco TelePresence SX80 with default credentials](https://hackerone.com/reports/684758) to U.S. Dept Of Defense - 12 upvotes, $0
+317. [Unauthenticated access to internal API at██████████.███.edu  [HtUS]](https://hackerone.com/reports/1627980) to U.S. Dept Of Defense - 12 upvotes, $0
+318. [Missing Access Control Allows for User Creation and Privilege Escalation ](https://hackerone.com/reports/2442229) to U.S. Dept Of Defense - 12 upvotes, $0
+319. [Local File Read vulnerability on ██████████ [HtUS]](https://hackerone.com/reports/1624670) to U.S. Dept Of Defense - 11 upvotes, $500
+320. [Authentication bypass vulnerability on a DoD website](https://hackerone.com/reports/187705) to U.S. Dept Of Defense - 11 upvotes, $0
+321. [Reflected cross-site scripting vulnerability on a DoD website](https://hackerone.com/reports/184042) to U.S. Dept Of Defense - 11 upvotes, $0
+322. [Local file inclusion vulnerability on a DoD website](https://hackerone.com/reports/196448) to U.S. Dept Of Defense - 11 upvotes, $0
+323. [SQL Injection vulnerability in a DoD website](https://hackerone.com/reports/216699) to U.S. Dept Of Defense - 11 upvotes, $0
+324. [Path traversal on ████████](https://hackerone.com/reports/217344) to U.S. Dept Of Defense - 11 upvotes, $0
 325. [MSSQL injection via param Customwho in https://█████/News/Transcripts/Search/Sort/ and WAF bypass](https://hackerone.com/reports/577612) to U.S. Dept Of Defense - 11 upvotes, $0
 326. [PII/PHI data available on web https://████████Portals/22/Documents/Meetings](https://hackerone.com/reports/877598) to U.S. Dept Of Defense - 11 upvotes, $0
 327. [Sensitive Information Leaking Through DoD Owned Website https://www.█████.mil](https://hackerone.com/reports/1063371) to U.S. Dept Of Defense - 11 upvotes, $0
@@ -336,64 +336,64 @@ Top reports from U.S. Dept Of Defense program at HackerOne:
 334. [Reflected Xss  https://██████/](https://hackerone.com/reports/759418) to U.S. Dept Of Defense - 11 upvotes, $0
 335. [XSS Reflected - ██████████](https://hackerone.com/reports/1223577) to U.S. Dept Of Defense - 11 upvotes, $0
 336. [SQL Injection on https://████████/](https://hackerone.com/reports/232378) to U.S. Dept Of Defense - 11 upvotes, $0
-337. [.git folder exposed [HtUS]](https://hackerone.com/reports/1624157) to U.S. Dept Of Defense - 11 upvotes, $0
-338. [Authentication Bypass Using Default Credentials on █████](https://hackerone.com/reports/1839012) to U.S. Dept Of Defense - 11 upvotes, $0
-339. [xmlrpc.php file enabled at ██████.org](https://hackerone.com/reports/1619536) to U.S. Dept Of Defense - 11 upvotes, $0
-340. [Adobe ColdFusion Access Control Bypass - CVE-2023-38205](https://hackerone.com/reports/2090435) to U.S. Dept Of Defense - 11 upvotes, $0
-341. [Unauthenticated arbitrary file upload on the https://█████/ (█████.mil)](https://hackerone.com/reports/698793) to U.S. Dept Of Defense - 11 upvotes, $0
-342. [File upload vulnerability on a DoD website](https://hackerone.com/reports/191243) to U.S. Dept Of Defense - 10 upvotes, $0
-343. [Remote Code Execution (RCE) in a DoD website](https://hackerone.com/reports/231926) to U.S. Dept Of Defense - 10 upvotes, $0
-344. [SSRF in ███████](https://hackerone.com/reports/207477) to U.S. Dept Of Defense - 10 upvotes, $0
-345. [CSRF - Modify Company Info](https://hackerone.com/reports/856981) to U.S. Dept Of Defense - 10 upvotes, $0
-346. [xmlrpc.php FILE IS enable which enables attacker to XSPA Brute-force and even Denial of Service(DOS), in https://████/xmlrpc.php](https://hackerone.com/reports/884756) to U.S. Dept Of Defense - 10 upvotes, $0
-347. [ SharePoint Web Services Exposed to Anonymous Access Users](https://hackerone.com/reports/807915) to U.S. Dept Of Defense - 10 upvotes, $0
-348. [Elmah.axd is publicly accessible and leaking  Error Log for ROOT on █████_PRD_WEB1 █████████elmah.axd](https://hackerone.com/reports/962753) to U.S. Dept Of Defense - 10 upvotes, $0
-349. [SQLi in login form of █████](https://hackerone.com/reports/982202) to U.S. Dept Of Defense - 10 upvotes, $0
-350. [Unauthenticated Arbitrary File Deletion ("CVE-2020-3187") in ████████](https://hackerone.com/reports/978335) to U.S. Dept Of Defense - 10 upvotes, $0
-351. [Unauthenticated Arbitrary File Deletion "CVE-2020-3187" in █████](https://hackerone.com/reports/1026265) to U.S. Dept Of Defense - 10 upvotes, $0
-352. [Reflected XSS on https://████/ (Bypass of #1002977)](https://hackerone.com/reports/1010316) to U.S. Dept Of Defense - 10 upvotes, $0
-353. [View another user information with IDOR vulnerability ](https://hackerone.com/reports/1004745) to U.S. Dept Of Defense - 10 upvotes, $0
-354. [Reflected XSS  www.█████ search form](https://hackerone.com/reports/1012249) to U.S. Dept Of Defense - 10 upvotes, $0
-355. [Reflected XSS In https://███████](https://hackerone.com/reports/1094276) to U.S. Dept Of Defense - 10 upvotes, $0
-356. [critical information disclosure](https://hackerone.com/reports/1106505) to U.S. Dept Of Defense - 10 upvotes, $0
-357. [Git repo on https://██████.mil/ discloses API password](https://hackerone.com/reports/765825) to U.S. Dept Of Defense - 10 upvotes, $0
-358. [Reflected XSS at https://████████/███/...](https://hackerone.com/reports/976137) to U.S. Dept Of Defense - 10 upvotes, $0
-359. [Sending trusted ████ and ██████████ emails through public API endpoint in ███████ site](https://hackerone.com/reports/1067276) to U.S. Dept Of Defense - 10 upvotes, $0
-360. [Reflected XSS on https://██████](https://hackerone.com/reports/1154378) to U.S. Dept Of Defense - 10 upvotes, $0
-361. [Reflected XSS through clickjacking at https://████](https://hackerone.com/reports/1149144) to U.S. Dept Of Defense - 10 upvotes, $0
-362. [Reflected XSS](https://hackerone.com/reports/1147060) to U.S. Dept Of Defense - 10 upvotes, $0
-363. [Cross site scripting ](https://hackerone.com/reports/1250199) to U.S. Dept Of Defense - 10 upvotes, $0
-364. [AWS subdomain takeover of www.███████](https://hackerone.com/reports/1329792) to U.S. Dept Of Defense - 10 upvotes, $0
-365. [Reflected XSS on [█████████]](https://hackerone.com/reports/1267380) to U.S. Dept Of Defense - 10 upvotes, $0
-366. [Blind SQL Injection](https://hackerone.com/reports/771215) to U.S. Dept Of Defense - 10 upvotes, $0
-367. [The dashboard is exposed in https://███](https://hackerone.com/reports/1566758) to U.S. Dept Of Defense - 10 upvotes, $0
-368. [Full read SSRF at █████████ [HtUS]](https://hackerone.com/reports/1628102) to U.S. Dept Of Defense - 10 upvotes, $0
-369. [insecure gitlab repositories at ████████ [HtUS]](https://hackerone.com/reports/1624152) to U.S. Dept Of Defense - 10 upvotes, $0
-370. [Authentication bypass leads to Information Disclosure at  U.S Air Force "https://███"](https://hackerone.com/reports/1690548) to U.S. Dept Of Defense - 10 upvotes, $0
-371. [Upload and delete files in debug page without access control.](https://hackerone.com/reports/1714767) to U.S. Dept Of Defense - 10 upvotes, $0
-372. [Reflected XSS in ██████](https://hackerone.com/reports/1873655) to U.S. Dept Of Defense - 10 upvotes, $0
-373. [Path traversal leads to reading of local files on ███████ and ████](https://hackerone.com/reports/1888808) to U.S. Dept Of Defense - 10 upvotes, $0
-374. [DoS at █████(CVE-2018-6389)](https://hackerone.com/reports/1887996) to U.S. Dept Of Defense - 10 upvotes, $0
-375. [Email exploitation with web hosting services.](https://hackerone.com/reports/1878756) to U.S. Dept Of Defense - 10 upvotes, $0
-376. [Sensitive Data Exposure via wp-config.php file](https://hackerone.com/reports/1912671) to U.S. Dept Of Defense - 10 upvotes, $0
-377. [Exposed GIT repo on ██████████[HtUS]](https://hackerone.com/reports/1629822) to U.S. Dept Of Defense - 10 upvotes, $0
-378. [[CVE-2018-0296] Cisco VPN path traversal on the https://████████/ (█████████.mil)](https://hackerone.com/reports/696400) to U.S. Dept Of Defense - 10 upvotes, $0
-379. [[CVE-2018-0296] Cisco VPN path traversal on the https://███████/ (██████)](https://hackerone.com/reports/695776) to U.S. Dept Of Defense - 10 upvotes, $0
-380. [[CVE-2018-0296] Cisco VPN path traversal on the https://████████/ (no hostname)](https://hackerone.com/reports/695780) to U.S. Dept Of Defense - 10 upvotes, $0
-381. [Exposed Access Control Data Backup Files on DoD Website](https://hackerone.com/reports/195544) to U.S. Dept Of Defense - 9 upvotes, $0
-382. [Privilege Escalation on a DoD Website](https://hackerone.com/reports/199644) to U.S. Dept Of Defense - 9 upvotes, $0
-383. [Reflected XSS on a DoD website](https://hackerone.com/reports/183871) to U.S. Dept Of Defense - 9 upvotes, $0
-384. [Personal information disclosure on a DoD website](https://hackerone.com/reports/188149) to U.S. Dept Of Defense - 9 upvotes, $0
-385. [Blind SQLi in a DoD Website](https://hackerone.com/reports/196300) to U.S. Dept Of Defense - 9 upvotes, $0
-386. [Default credentials on a DoD website](https://hackerone.com/reports/192074) to U.S. Dept Of Defense - 9 upvotes, $0
-387. [Server-side include injection vulnerability in a DoD website](https://hackerone.com/reports/192931) to U.S. Dept Of Defense - 9 upvotes, $0
-388. [Time Based SQL Injection vulnerability on a DoD website](https://hackerone.com/reports/189851) to U.S. Dept Of Defense - 9 upvotes, $0
-389. [Arbitary file download vulnerability on a DoD website](https://hackerone.com/reports/230714) to U.S. Dept Of Defense - 9 upvotes, $0
-390. [Remote Code Execution (RCE) in a DoD website](https://hackerone.com/reports/329376) to U.S. Dept Of Defense - 9 upvotes, $0
-391. [Server-Side Request Forgery (SSRF)](https://hackerone.com/reports/382048) to U.S. Dept Of Defense - 9 upvotes, $0
-392. [[CVE-2019-11510 ] Path Traversal on ████████ leads to leaked passwords, RCE, etc](https://hackerone.com/reports/671857) to U.S. Dept Of Defense - 9 upvotes, $0
-393. [PII Leak via https://████████](https://hackerone.com/reports/808338) to U.S. Dept Of Defense - 9 upvotes, $0
-394. [File Upload Restriction Bypass](https://hackerone.com/reports/259913) to U.S. Dept Of Defense - 9 upvotes, $0
+337. [Full read SSRF at █████████ [HtUS]](https://hackerone.com/reports/1628102) to U.S. Dept Of Defense - 11 upvotes, $0
+338. [.git folder exposed [HtUS]](https://hackerone.com/reports/1624157) to U.S. Dept Of Defense - 11 upvotes, $0
+339. [Authentication Bypass Using Default Credentials on █████](https://hackerone.com/reports/1839012) to U.S. Dept Of Defense - 11 upvotes, $0
+340. [xmlrpc.php file enabled at ██████.org](https://hackerone.com/reports/1619536) to U.S. Dept Of Defense - 11 upvotes, $0
+341. [Adobe ColdFusion Access Control Bypass - CVE-2023-38205](https://hackerone.com/reports/2090435) to U.S. Dept Of Defense - 11 upvotes, $0
+342. [Unauthenticated arbitrary file upload on the https://█████/ (█████.mil)](https://hackerone.com/reports/698793) to U.S. Dept Of Defense - 11 upvotes, $0
+343. [File upload vulnerability on a DoD website](https://hackerone.com/reports/191243) to U.S. Dept Of Defense - 10 upvotes, $0
+344. [Remote Code Execution (RCE) in a DoD website](https://hackerone.com/reports/231926) to U.S. Dept Of Defense - 10 upvotes, $0
+345. [SSRF in ███████](https://hackerone.com/reports/207477) to U.S. Dept Of Defense - 10 upvotes, $0
+346. [File Upload Restriction Bypass](https://hackerone.com/reports/259913) to U.S. Dept Of Defense - 10 upvotes, $0
+347. [CSRF - Modify Company Info](https://hackerone.com/reports/856981) to U.S. Dept Of Defense - 10 upvotes, $0
+348. [xmlrpc.php FILE IS enable which enables attacker to XSPA Brute-force and even Denial of Service(DOS), in https://████/xmlrpc.php](https://hackerone.com/reports/884756) to U.S. Dept Of Defense - 10 upvotes, $0
+349. [ SharePoint Web Services Exposed to Anonymous Access Users](https://hackerone.com/reports/807915) to U.S. Dept Of Defense - 10 upvotes, $0
+350. [Elmah.axd is publicly accessible and leaking  Error Log for ROOT on █████_PRD_WEB1 █████████elmah.axd](https://hackerone.com/reports/962753) to U.S. Dept Of Defense - 10 upvotes, $0
+351. [SQLi in login form of █████](https://hackerone.com/reports/982202) to U.S. Dept Of Defense - 10 upvotes, $0
+352. [Unauthenticated Arbitrary File Deletion ("CVE-2020-3187") in ████████](https://hackerone.com/reports/978335) to U.S. Dept Of Defense - 10 upvotes, $0
+353. [Unauthenticated Arbitrary File Deletion "CVE-2020-3187" in █████](https://hackerone.com/reports/1026265) to U.S. Dept Of Defense - 10 upvotes, $0
+354. [Reflected XSS on https://████/ (Bypass of #1002977)](https://hackerone.com/reports/1010316) to U.S. Dept Of Defense - 10 upvotes, $0
+355. [View another user information with IDOR vulnerability ](https://hackerone.com/reports/1004745) to U.S. Dept Of Defense - 10 upvotes, $0
+356. [Reflected XSS  www.█████ search form](https://hackerone.com/reports/1012249) to U.S. Dept Of Defense - 10 upvotes, $0
+357. [Reflected XSS In https://███████](https://hackerone.com/reports/1094276) to U.S. Dept Of Defense - 10 upvotes, $0
+358. [critical information disclosure](https://hackerone.com/reports/1106505) to U.S. Dept Of Defense - 10 upvotes, $0
+359. [Git repo on https://██████.mil/ discloses API password](https://hackerone.com/reports/765825) to U.S. Dept Of Defense - 10 upvotes, $0
+360. [Reflected XSS at https://████████/███/...](https://hackerone.com/reports/976137) to U.S. Dept Of Defense - 10 upvotes, $0
+361. [Sending trusted ████ and ██████████ emails through public API endpoint in ███████ site](https://hackerone.com/reports/1067276) to U.S. Dept Of Defense - 10 upvotes, $0
+362. [Reflected XSS on https://██████](https://hackerone.com/reports/1154378) to U.S. Dept Of Defense - 10 upvotes, $0
+363. [Reflected XSS through clickjacking at https://████](https://hackerone.com/reports/1149144) to U.S. Dept Of Defense - 10 upvotes, $0
+364. [Reflected XSS](https://hackerone.com/reports/1147060) to U.S. Dept Of Defense - 10 upvotes, $0
+365. [Cross site scripting ](https://hackerone.com/reports/1250199) to U.S. Dept Of Defense - 10 upvotes, $0
+366. [AWS subdomain takeover of www.███████](https://hackerone.com/reports/1329792) to U.S. Dept Of Defense - 10 upvotes, $0
+367. [Reflected XSS on [█████████]](https://hackerone.com/reports/1267380) to U.S. Dept Of Defense - 10 upvotes, $0
+368. [Blind SQL Injection](https://hackerone.com/reports/771215) to U.S. Dept Of Defense - 10 upvotes, $0
+369. [The dashboard is exposed in https://███](https://hackerone.com/reports/1566758) to U.S. Dept Of Defense - 10 upvotes, $0
+370. [insecure gitlab repositories at ████████ [HtUS]](https://hackerone.com/reports/1624152) to U.S. Dept Of Defense - 10 upvotes, $0
+371. [Authentication bypass leads to Information Disclosure at  U.S Air Force "https://███"](https://hackerone.com/reports/1690548) to U.S. Dept Of Defense - 10 upvotes, $0
+372. [Upload and delete files in debug page without access control.](https://hackerone.com/reports/1714767) to U.S. Dept Of Defense - 10 upvotes, $0
+373. [Reflected XSS in ██████](https://hackerone.com/reports/1873655) to U.S. Dept Of Defense - 10 upvotes, $0
+374. [Path traversal leads to reading of local files on ███████ and ████](https://hackerone.com/reports/1888808) to U.S. Dept Of Defense - 10 upvotes, $0
+375. [DoS at █████(CVE-2018-6389)](https://hackerone.com/reports/1887996) to U.S. Dept Of Defense - 10 upvotes, $0
+376. [Email exploitation with web hosting services.](https://hackerone.com/reports/1878756) to U.S. Dept Of Defense - 10 upvotes, $0
+377. [Sensitive Data Exposure via wp-config.php file](https://hackerone.com/reports/1912671) to U.S. Dept Of Defense - 10 upvotes, $0
+378. [Exposed GIT repo on ██████████[HtUS]](https://hackerone.com/reports/1629822) to U.S. Dept Of Defense - 10 upvotes, $0
+379. [[CVE-2018-0296] Cisco VPN path traversal on the https://████████/ (█████████.mil)](https://hackerone.com/reports/696400) to U.S. Dept Of Defense - 10 upvotes, $0
+380. [[CVE-2018-0296] Cisco VPN path traversal on the https://███████/ (██████)](https://hackerone.com/reports/695776) to U.S. Dept Of Defense - 10 upvotes, $0
+381. [[CVE-2018-0296] Cisco VPN path traversal on the https://████████/ (no hostname)](https://hackerone.com/reports/695780) to U.S. Dept Of Defense - 10 upvotes, $0
+382. [Exposed Access Control Data Backup Files on DoD Website](https://hackerone.com/reports/195544) to U.S. Dept Of Defense - 9 upvotes, $0
+383. [Privilege Escalation on a DoD Website](https://hackerone.com/reports/199644) to U.S. Dept Of Defense - 9 upvotes, $0
+384. [Reflected XSS on a DoD website](https://hackerone.com/reports/183871) to U.S. Dept Of Defense - 9 upvotes, $0
+385. [Personal information disclosure on a DoD website](https://hackerone.com/reports/188149) to U.S. Dept Of Defense - 9 upvotes, $0
+386. [Blind SQLi in a DoD Website](https://hackerone.com/reports/196300) to U.S. Dept Of Defense - 9 upvotes, $0
+387. [Default credentials on a DoD website](https://hackerone.com/reports/192074) to U.S. Dept Of Defense - 9 upvotes, $0
+388. [Server-side include injection vulnerability in a DoD website](https://hackerone.com/reports/192931) to U.S. Dept Of Defense - 9 upvotes, $0
+389. [Time Based SQL Injection vulnerability on a DoD website](https://hackerone.com/reports/189851) to U.S. Dept Of Defense - 9 upvotes, $0
+390. [Arbitary file download vulnerability on a DoD website](https://hackerone.com/reports/230714) to U.S. Dept Of Defense - 9 upvotes, $0
+391. [Remote Code Execution (RCE) in a DoD website](https://hackerone.com/reports/329376) to U.S. Dept Of Defense - 9 upvotes, $0
+392. [Server-Side Request Forgery (SSRF)](https://hackerone.com/reports/382048) to U.S. Dept Of Defense - 9 upvotes, $0
+393. [[CVE-2019-11510 ] Path Traversal on ████████ leads to leaked passwords, RCE, etc](https://hackerone.com/reports/671857) to U.S. Dept Of Defense - 9 upvotes, $0
+394. [PII Leak via https://████████](https://hackerone.com/reports/808338) to U.S. Dept Of Defense - 9 upvotes, $0
 395. [Unrestricted File Upload to ███████SubmitRequest/Index.cfm?fwa=wizardform](https://hackerone.com/reports/813395) to U.S. Dept Of Defense - 9 upvotes, $0
 396. [SSN is exposed on slides, previous critical report was not fixed in an appropriate way](https://hackerone.com/reports/874017) to U.S. Dept Of Defense - 9 upvotes, $0
 397. [RCE (Remote code execution) in one of DoD's websites ](https://hackerone.com/reports/874924) to U.S. Dept Of Defense - 9 upvotes, $0
@@ -419,56 +419,56 @@ Top reports from U.S. Dept Of Defense program at HackerOne:
 417. [Unauthenticated File Read Adobe ColdFusion](https://hackerone.com/reports/2248781) to U.S. Dept Of Defense - 9 upvotes, $0
 418. [[CVE-2018-0296] Cisco VPN path traversal on the https://1████████ (https://████████.███.████████/)](https://hackerone.com/reports/694861) to U.S. Dept Of Defense - 9 upvotes, $0
 419. [Reflected XSS in a Navy website](https://hackerone.com/reports/188691) to U.S. Dept Of Defense - 8 upvotes, $0
-420. [Reflected XSS on an Army website](https://hackerone.com/reports/184199) to U.S. Dept Of Defense - 8 upvotes, $0
-421. [Reflected XSS on a Department of Defense website](https://hackerone.com/reports/183855) to U.S. Dept Of Defense - 8 upvotes, $0
-422. [Reflected XSS on a Department of Defense website](https://hackerone.com/reports/184286) to U.S. Dept Of Defense - 8 upvotes, $0
-423. [Password reset vulnerability on a DoD website](https://hackerone.com/reports/194308) to U.S. Dept Of Defense - 8 upvotes, $0
-424. [Bypass file access control vulnerability on a DoD website](https://hackerone.com/reports/203311) to U.S. Dept Of Defense - 8 upvotes, $0
-425. [XSS on a DoD website](https://hackerone.com/reports/184759) to U.S. Dept Of Defense - 8 upvotes, $0
-426. [Reflected XSS on a DoD website](https://hackerone.com/reports/184750) to U.S. Dept Of Defense - 8 upvotes, $0
-427. [Remote code execution (RCE) in multiple DoD websites](https://hackerone.com/reports/226245) to U.S. Dept Of Defense - 8 upvotes, $0
-428. [Remote Code Execution (RCE) vulnerability in a DoD website](https://hackerone.com/reports/232330) to U.S. Dept Of Defense - 8 upvotes, $0
-429. [Cross-site scripting (XSS) vulnerability on a DoD website](https://hackerone.com/reports/225936) to U.S. Dept Of Defense - 8 upvotes, $0
-430. [Insecure Direct Object Reference (IDOR) vulnerability in a DoD website](https://hackerone.com/reports/207099) to U.S. Dept Of Defense - 8 upvotes, $0
-431. [[Critical] Possibility to takeover any user account #2 without interaction on the https://██████████](https://hackerone.com/reports/544334) to U.S. Dept Of Defense - 8 upvotes, $0
-432. [Admin panel take over | User info leakage | Mass Comprimise](https://hackerone.com/reports/428757) to U.S. Dept Of Defense - 8 upvotes, $0
-433. [SSRF on ████████](https://hackerone.com/reports/406387) to U.S. Dept Of Defense - 8 upvotes, $0
-434. [[███]  SQL injection & Reflected XSS](https://hackerone.com/reports/484801) to U.S. Dept Of Defense - 8 upvotes, $0
-435. [[█████] Get all tickets (IDOR)](https://hackerone.com/reports/498351) to U.S. Dept Of Defense - 8 upvotes, $0
-436. [Unrestricted File Upload](https://hackerone.com/reports/683024) to U.S. Dept Of Defense - 8 upvotes, $0
-437. [idor on upload profile functionality ](https://hackerone.com/reports/741683) to U.S. Dept Of Defense - 8 upvotes, $0
-438. [Full Account Take-Over of ████████ Members via IDOR](https://hackerone.com/reports/847452) to U.S. Dept Of Defense - 8 upvotes, $0
-439. [Tomcat examples available for public, Disclosure Apache Tomcat version, Critical/High/Medium CVE](https://hackerone.com/reports/874427) to U.S. Dept Of Defense - 8 upvotes, $0
-440. [Сode injection host  █████████](https://hackerone.com/reports/954398) to U.S. Dept Of Defense - 8 upvotes, $0
-441. [Stored XSS via Comment Form at ████████](https://hackerone.com/reports/915073) to U.S. Dept Of Defense - 8 upvotes, $0
-442. [Cross Site Scripting (XSS) – Reflected](https://hackerone.com/reports/409230) to U.S. Dept Of Defense - 8 upvotes, $0
-443. [DOM XSS on https://www.███████](https://hackerone.com/reports/922496) to U.S. Dept Of Defense - 8 upvotes, $0
-444. [{███} It is posible download all information and files via S3 Bucket  Misconfiguration](https://hackerone.com/reports/998981) to U.S. Dept Of Defense - 8 upvotes, $0
-445. [PII Information Leak at https://████████.mil/](https://hackerone.com/reports/1057269) to U.S. Dept Of Defense - 8 upvotes, $0
-446. [SQL Injection in www.██████████](https://hackerone.com/reports/1015406) to U.S. Dept Of Defense - 8 upvotes, $0
-447. [CVE 2020 14179 on jira instance ](https://hackerone.com/reports/1061204) to U.S. Dept Of Defense - 8 upvotes, $0
-448. [PII Leak via /████████](https://hackerone.com/reports/905679) to U.S. Dept Of Defense - 8 upvotes, $0
-449. [SSRF due to CVE-2021-26855 on ████████](https://hackerone.com/reports/1119224) to U.S. Dept Of Defense - 8 upvotes, $0
-450. [Reflected XSS at www.███████ at /██████████ via the ████████ parameter](https://hackerone.com/reports/1173593) to U.S. Dept Of Defense - 8 upvotes, $0
-451. [Pre-auth RCE in ForgeRock OpenAM (CVE-2021-35464)](https://hackerone.com/reports/1249456) to U.S. Dept Of Defense - 8 upvotes, $0
-452. [Sensitive data exposure via https://███████/jira//secure/QueryComponent!Default.jspa - CVE-2020-14179](https://hackerone.com/reports/1153817) to U.S. Dept Of Defense - 8 upvotes, $0
-453. [███████ - XSS - CVE-2020-3580](https://hackerone.com/reports/1243650) to U.S. Dept Of Defense - 8 upvotes, $0
-454. [Unauthorized access to PII leads to MASS account Takeover](https://hackerone.com/reports/1061736) to U.S. Dept Of Defense - 8 upvotes, $0
-455. [Open Akamai ARL XSS at ████████](https://hackerone.com/reports/1317031) to U.S. Dept Of Defense - 8 upvotes, $0
-456. [Cross-site Scripting (XSS) - Reflected at https://██████████/](https://hackerone.com/reports/1370746) to U.S. Dept Of Defense - 8 upvotes, $0
-457. [Broken access control, can lead to legitimate user data loss](https://hackerone.com/reports/1493007) to U.S. Dept Of Defense - 8 upvotes, $0
-458. [SSRF ACCESS AWS METADATA - █████](https://hackerone.com/reports/1623685) to U.S. Dept Of Defense - 8 upvotes, $0
-459. [Broken access discloses users and PII at https://███████ [HtUS]](https://hackerone.com/reports/1624374) to U.S. Dept Of Defense - 8 upvotes, $0
-460. [stored cross site scripting in https://██████████](https://hackerone.com/reports/1665966) to U.S. Dept Of Defense - 8 upvotes, $0
-461. [DoS at ████████ (CVE-2018-6389)](https://hackerone.com/reports/1861569) to U.S. Dept Of Defense - 8 upvotes, $0
-462. [HAProxy stats panel exposed externally](https://hackerone.com/reports/1884372) to U.S. Dept Of Defense - 8 upvotes, $0
-463. [Improper Access Control on Media Wiki allows an attackers to restart installation on DoD asset](https://hackerone.com/reports/1804174) to U.S. Dept Of Defense - 8 upvotes, $0
-464. [Default Credentials on Kinetic Core System Console - https://█████/kinetic/app/](https://hackerone.com/reports/1938693) to U.S. Dept Of Defense - 8 upvotes, $0
-465. [DOM-XSS](https://hackerone.com/reports/1982099) to U.S. Dept Of Defense - 8 upvotes, $0
-466. [[HTAF4-213] [Pre-submission] XSS via arbitrary cookie name at the https://www2.██████/nssi/core/dot_stu_reg/Registration.aspx](https://hackerone.com/reports/728001) to U.S. Dept Of Defense - 8 upvotes, $0
-467. [XXE with RCE potential on the https://█████████ (CVE-2017-3548)](https://hackerone.com/reports/710654) to U.S. Dept Of Defense - 8 upvotes, $0
-468. [Reflected XSS on a Navy website](https://hackerone.com/reports/183878) to U.S. Dept Of Defense - 7 upvotes, $0
-469. [SQL Injection vulnerability on a DoD website](https://hackerone.com/reports/186156) to U.S. Dept Of Defense - 7 upvotes, $0
+420. [SQL Injection vulnerability on a DoD website](https://hackerone.com/reports/186156) to U.S. Dept Of Defense - 8 upvotes, $0
+421. [Reflected XSS on an Army website](https://hackerone.com/reports/184199) to U.S. Dept Of Defense - 8 upvotes, $0
+422. [Reflected XSS on a Department of Defense website](https://hackerone.com/reports/183855) to U.S. Dept Of Defense - 8 upvotes, $0
+423. [Reflected XSS on a Department of Defense website](https://hackerone.com/reports/184286) to U.S. Dept Of Defense - 8 upvotes, $0
+424. [Password reset vulnerability on a DoD website](https://hackerone.com/reports/194308) to U.S. Dept Of Defense - 8 upvotes, $0
+425. [Bypass file access control vulnerability on a DoD website](https://hackerone.com/reports/203311) to U.S. Dept Of Defense - 8 upvotes, $0
+426. [XSS on a DoD website](https://hackerone.com/reports/184759) to U.S. Dept Of Defense - 8 upvotes, $0
+427. [Reflected XSS on a DoD website](https://hackerone.com/reports/184750) to U.S. Dept Of Defense - 8 upvotes, $0
+428. [Remote code execution (RCE) in multiple DoD websites](https://hackerone.com/reports/226245) to U.S. Dept Of Defense - 8 upvotes, $0
+429. [Remote Code Execution (RCE) vulnerability in a DoD website](https://hackerone.com/reports/232330) to U.S. Dept Of Defense - 8 upvotes, $0
+430. [Cross-site scripting (XSS) vulnerability on a DoD website](https://hackerone.com/reports/225936) to U.S. Dept Of Defense - 8 upvotes, $0
+431. [Insecure Direct Object Reference (IDOR) vulnerability in a DoD website](https://hackerone.com/reports/207099) to U.S. Dept Of Defense - 8 upvotes, $0
+432. [[Critical] Possibility to takeover any user account #2 without interaction on the https://██████████](https://hackerone.com/reports/544334) to U.S. Dept Of Defense - 8 upvotes, $0
+433. [Admin panel take over | User info leakage | Mass Comprimise](https://hackerone.com/reports/428757) to U.S. Dept Of Defense - 8 upvotes, $0
+434. [SSRF on ████████](https://hackerone.com/reports/406387) to U.S. Dept Of Defense - 8 upvotes, $0
+435. [[███]  SQL injection & Reflected XSS](https://hackerone.com/reports/484801) to U.S. Dept Of Defense - 8 upvotes, $0
+436. [[█████] Get all tickets (IDOR)](https://hackerone.com/reports/498351) to U.S. Dept Of Defense - 8 upvotes, $0
+437. [Unrestricted File Upload](https://hackerone.com/reports/683024) to U.S. Dept Of Defense - 8 upvotes, $0
+438. [idor on upload profile functionality ](https://hackerone.com/reports/741683) to U.S. Dept Of Defense - 8 upvotes, $0
+439. [Full Account Take-Over of ████████ Members via IDOR](https://hackerone.com/reports/847452) to U.S. Dept Of Defense - 8 upvotes, $0
+440. [Tomcat examples available for public, Disclosure Apache Tomcat version, Critical/High/Medium CVE](https://hackerone.com/reports/874427) to U.S. Dept Of Defense - 8 upvotes, $0
+441. [Сode injection host  █████████](https://hackerone.com/reports/954398) to U.S. Dept Of Defense - 8 upvotes, $0
+442. [Stored XSS via Comment Form at ████████](https://hackerone.com/reports/915073) to U.S. Dept Of Defense - 8 upvotes, $0
+443. [Cross Site Scripting (XSS) – Reflected](https://hackerone.com/reports/409230) to U.S. Dept Of Defense - 8 upvotes, $0
+444. [DOM XSS on https://www.███████](https://hackerone.com/reports/922496) to U.S. Dept Of Defense - 8 upvotes, $0
+445. [{███} It is posible download all information and files via S3 Bucket  Misconfiguration](https://hackerone.com/reports/998981) to U.S. Dept Of Defense - 8 upvotes, $0
+446. [PII Information Leak at https://████████.mil/](https://hackerone.com/reports/1057269) to U.S. Dept Of Defense - 8 upvotes, $0
+447. [SQL Injection in www.██████████](https://hackerone.com/reports/1015406) to U.S. Dept Of Defense - 8 upvotes, $0
+448. [CVE 2020 14179 on jira instance ](https://hackerone.com/reports/1061204) to U.S. Dept Of Defense - 8 upvotes, $0
+449. [PII Leak via /████████](https://hackerone.com/reports/905679) to U.S. Dept Of Defense - 8 upvotes, $0
+450. [SSRF due to CVE-2021-26855 on ████████](https://hackerone.com/reports/1119224) to U.S. Dept Of Defense - 8 upvotes, $0
+451. [Reflected XSS at www.███████ at /██████████ via the ████████ parameter](https://hackerone.com/reports/1173593) to U.S. Dept Of Defense - 8 upvotes, $0
+452. [Pre-auth RCE in ForgeRock OpenAM (CVE-2021-35464)](https://hackerone.com/reports/1249456) to U.S. Dept Of Defense - 8 upvotes, $0
+453. [Sensitive data exposure via https://███████/jira//secure/QueryComponent!Default.jspa - CVE-2020-14179](https://hackerone.com/reports/1153817) to U.S. Dept Of Defense - 8 upvotes, $0
+454. [███████ - XSS - CVE-2020-3580](https://hackerone.com/reports/1243650) to U.S. Dept Of Defense - 8 upvotes, $0
+455. [Unauthorized access to PII leads to MASS account Takeover](https://hackerone.com/reports/1061736) to U.S. Dept Of Defense - 8 upvotes, $0
+456. [Open Akamai ARL XSS at ████████](https://hackerone.com/reports/1317031) to U.S. Dept Of Defense - 8 upvotes, $0
+457. [Cross-site Scripting (XSS) - Reflected at https://██████████/](https://hackerone.com/reports/1370746) to U.S. Dept Of Defense - 8 upvotes, $0
+458. [Broken access control, can lead to legitimate user data loss](https://hackerone.com/reports/1493007) to U.S. Dept Of Defense - 8 upvotes, $0
+459. [SSRF ACCESS AWS METADATA - █████](https://hackerone.com/reports/1623685) to U.S. Dept Of Defense - 8 upvotes, $0
+460. [Broken access discloses users and PII at https://███████ [HtUS]](https://hackerone.com/reports/1624374) to U.S. Dept Of Defense - 8 upvotes, $0
+461. [stored cross site scripting in https://██████████](https://hackerone.com/reports/1665966) to U.S. Dept Of Defense - 8 upvotes, $0
+462. [DoS at ████████ (CVE-2018-6389)](https://hackerone.com/reports/1861569) to U.S. Dept Of Defense - 8 upvotes, $0
+463. [HAProxy stats panel exposed externally](https://hackerone.com/reports/1884372) to U.S. Dept Of Defense - 8 upvotes, $0
+464. [Improper Access Control on Media Wiki allows an attackers to restart installation on DoD asset](https://hackerone.com/reports/1804174) to U.S. Dept Of Defense - 8 upvotes, $0
+465. [Default Credentials on Kinetic Core System Console - https://█████/kinetic/app/](https://hackerone.com/reports/1938693) to U.S. Dept Of Defense - 8 upvotes, $0
+466. [DOM-XSS](https://hackerone.com/reports/1982099) to U.S. Dept Of Defense - 8 upvotes, $0
+467. [[HTAF4-213] [Pre-submission] XSS via arbitrary cookie name at the https://www2.██████/nssi/core/dot_stu_reg/Registration.aspx](https://hackerone.com/reports/728001) to U.S. Dept Of Defense - 8 upvotes, $0
+468. [XXE with RCE potential on the https://█████████ (CVE-2017-3548)](https://hackerone.com/reports/710654) to U.S. Dept Of Defense - 8 upvotes, $0
+469. [Reflected XSS on a Navy website](https://hackerone.com/reports/183878) to U.S. Dept Of Defense - 7 upvotes, $0
 470. [Information leakage on a Department of Defense website](https://hackerone.com/reports/186189) to U.S. Dept Of Defense - 7 upvotes, $0
 471. [QuickTime Promotion on a DoD website](https://hackerone.com/reports/189149) to U.S. Dept Of Defense - 7 upvotes, $0
 472. [Reflected XSS vulnerability on a DoD website](https://hackerone.com/reports/183835) to U.S. Dept Of Defense - 7 upvotes, $0
@@ -562,59 +562,59 @@ Top reports from U.S. Dept Of Defense program at HackerOne:
 560. [CVE-2019-3403 on https://████/rest/api/2/user/picker?query=](https://hackerone.com/reports/1147951) to U.S. Dept Of Defense - 6 upvotes, $0
 561. [[█████████] Reflected Cross-Site Scripting Vulnerability](https://hackerone.com/reports/1196989) to U.S. Dept Of Defense - 6 upvotes, $0
 562. [Cache Posioning leading do Denial of Service on `www.█████████`](https://hackerone.com/reports/1198434) to U.S. Dept Of Defense - 6 upvotes, $0
-563. [Reflected XSS at https://█████ via "██████████" parameter](https://hackerone.com/reports/1457546) to U.S. Dept Of Defense - 6 upvotes, $0
-564. [XSS on https://████/ via ███████ parameter](https://hackerone.com/reports/1251868) to U.S. Dept Of Defense - 6 upvotes, $0
-565. [username and password leaked via pptx for █████████ website](https://hackerone.com/reports/1512199) to U.S. Dept Of Defense - 6 upvotes, $0
-566. [[CVE-2020-3452] on ███████](https://hackerone.com/reports/1234925) to U.S. Dept Of Defense - 6 upvotes, $0
-567. [██████████ vulnerable to CVE-2022-22954](https://hackerone.com/reports/1537543) to U.S. Dept Of Defense - 6 upvotes, $0
-568. [CVE-2020-3187 - Unauthenticated Arbitrary File Deletion](https://hackerone.com/reports/1555027) to U.S. Dept Of Defense - 6 upvotes, $0
-569. [RXSS on █████████](https://hackerone.com/reports/1555582) to U.S. Dept Of Defense - 6 upvotes, $0
-570. [XSS DUE TO CVE-2022-38463 in https://████████](https://hackerone.com/reports/1681208) to U.S. Dept Of Defense - 6 upvotes, $0
-571. [Open Redirect at █████](https://hackerone.com/reports/1634105) to U.S. Dept Of Defense - 6 upvotes, $0
-572. [XSS via Client Side Template Injection on www.███/News/Speeches](https://hackerone.com/reports/1736317) to U.S. Dept Of Defense - 6 upvotes, $0
-573. [stored cross site scripting in https://███████](https://hackerone.com/reports/1666002) to U.S. Dept Of Defense - 6 upvotes, $0
-574. [stored cross site scripting in https://██████████](https://hackerone.com/reports/1657030) to U.S. Dept Of Defense - 6 upvotes, $0
-575. [stored cross site scripting in https://█████████](https://hackerone.com/reports/1660500) to U.S. Dept Of Defense - 6 upvotes, $0
-576. [stored cross site scripting in https://███](https://hackerone.com/reports/1657033) to U.S. Dept Of Defense - 6 upvotes, $0
-577. [Install.php File Exposure on Drupal](https://hackerone.com/reports/1844674) to U.S. Dept Of Defense - 6 upvotes, $0
-578. [Out-Of-Bounds Memory Read on ███](https://hackerone.com/reports/2509402) to U.S. Dept Of Defense - 6 upvotes, $0
-579. [XSS vulnerability on an Army website](https://hackerone.com/reports/187881) to U.S. Dept Of Defense - 5 upvotes, $0
-580. [Open Redirect in a DoD website](https://hackerone.com/reports/187006) to U.S. Dept Of Defense - 5 upvotes, $0
-581. [Remote command execution (RCE) vulnerability on a DoD website](https://hackerone.com/reports/202652) to U.S. Dept Of Defense - 5 upvotes, $0
-582. [Information disclosure vulnerability on a DoD website](https://hackerone.com/reports/196482) to U.S. Dept Of Defense - 5 upvotes, $0
-583. [Reflected XSS vulnerability on a DoD website](https://hackerone.com/reports/187822) to U.S. Dept Of Defense - 5 upvotes, $0
-584. [Information disclosure vulnerability on a DoD website](https://hackerone.com/reports/195638) to U.S. Dept Of Defense - 5 upvotes, $0
-585. [Information disclosure vulnerability on a DoD website](https://hackerone.com/reports/195636) to U.S. Dept Of Defense - 5 upvotes, $0
-586. [Reflected cross-site scripting (XSS) vulnerability on a DoD website](https://hackerone.com/reports/191381) to U.S. Dept Of Defense - 5 upvotes, $0
-587. [SQL injection vulnerability on a DoD website](https://hackerone.com/reports/202619) to U.S. Dept Of Defense - 5 upvotes, $0
-588. [SQL Injection vulnerability in a DoD website](https://hackerone.com/reports/201512) to U.S. Dept Of Defense - 5 upvotes, $0
-589. [Information disclosure vulnerability on a DoD website](https://hackerone.com/reports/186530) to U.S. Dept Of Defense - 5 upvotes, $0
-590. [sql injection on  /messagecenter/messagingcenter at https://www.███████/](https://hackerone.com/reports/381758) to U.S. Dept Of Defense - 5 upvotes, $0
-591. [Remote File Inclusion, Malicious File Hosting, and Cross-site Scripting (XSS) in ████████](https://hackerone.com/reports/192940) to U.S. Dept Of Defense - 5 upvotes, $0
-592. [HTML Injection on ████](https://hackerone.com/reports/198218) to U.S. Dept Of Defense - 5 upvotes, $0
-593. [Able to view Backend Database dur to improper authentication](https://hackerone.com/reports/258573) to U.S. Dept Of Defense - 5 upvotes, $0
-594. [Internal IP Address Disclosed](https://hackerone.com/reports/707228) to U.S. Dept Of Defense - 5 upvotes, $0
-595. [Reflected XSS and HTML Injectionon a DoD website](https://hackerone.com/reports/859342) to U.S. Dept Of Defense - 5 upvotes, $0
-596. [Able to authenticate as administrator by navigating to https://█████/admin/](https://hackerone.com/reports/1035742) to U.S. Dept Of Defense - 5 upvotes, $0
-597. [Directory Indexing on the ████ (https://████/) leads to the backups disclosure and credentials leak](https://hackerone.com/reports/684838) to U.S. Dept Of Defense - 5 upvotes, $0
-598. [PII Leak of ████████ Personal at  https://www.█████████](https://hackerone.com/reports/1050196) to U.S. Dept Of Defense - 5 upvotes, $0
-599. [Improper Access Controls Allow PII Leak via ████](https://hackerone.com/reports/819591) to U.S. Dept Of Defense - 5 upvotes, $0
-600. [Arbitrary file upload and stored XSS via ███ support request](https://hackerone.com/reports/865354) to U.S. Dept Of Defense - 5 upvotes, $0
-601. [Access to requests and approvals via /█████ allows sensitive information gathering](https://hackerone.com/reports/904671) to U.S. Dept Of Defense - 5 upvotes, $0
-602. [HTML Injection + XSS Vulnerability - https://████████/ | Proof of Concept [PoC]](https://hackerone.com/reports/453307) to U.S. Dept Of Defense - 5 upvotes, $0
-603. [RXSS - https://███/](https://hackerone.com/reports/864091) to U.S. Dept Of Defense - 5 upvotes, $0
-604. [Blind Stored XSS on https://█████████ after filling a request at https://█████](https://hackerone.com/reports/1017189) to U.S. Dept Of Defense - 5 upvotes, $0
-605. [reflected xss @ www.█████████](https://hackerone.com/reports/225020) to U.S. Dept Of Defense - 5 upvotes, $0
-606. [CVE-2021-26855 on ████████ resulting in SSRF](https://hackerone.com/reports/1119228) to U.S. Dept Of Defense - 5 upvotes, $0
-607. [Reflected XSS in https://██████████ via "████████" parameter](https://hackerone.com/reports/1095765) to U.S. Dept Of Defense - 5 upvotes, $0
-608. [XSS DUE TO CVE-2020-3580](https://hackerone.com/reports/1245048) to U.S. Dept Of Defense - 5 upvotes, $0
-609. [Subdomain takeover of ███](https://hackerone.com/reports/892667) to U.S. Dept Of Defense - 5 upvotes, $0
-610. [XSS due to CVE-2020-3580 [██████]](https://hackerone.com/reports/1277392) to U.S. Dept Of Defense - 5 upvotes, $0
-611. [Path traversal on [███]](https://hackerone.com/reports/1212746) to U.S. Dept Of Defense - 5 upvotes, $0
-612. [Reflected XSS at ████ via ██████████= parameter ](https://hackerone.com/reports/1305472) to U.S. Dept Of Defense - 5 upvotes, $0
-613. [(CORS) Cross-origin resource sharing misconfiguration on https://█████████](https://hackerone.com/reports/995144) to U.S. Dept Of Defense - 5 upvotes, $0
-614. [CSRF - Modify User Settings with one click - Account TakeOver](https://hackerone.com/reports/799895) to U.S. Dept Of Defense - 5 upvotes, $0
-615. [SQL INJECTION  in https://████/██████████ ](https://hackerone.com/reports/723044) to U.S. Dept Of Defense - 5 upvotes, $0
+563. [(CORS) Cross-origin resource sharing misconfiguration on https://█████████](https://hackerone.com/reports/995144) to U.S. Dept Of Defense - 6 upvotes, $0
+564. [Reflected XSS at https://█████ via "██████████" parameter](https://hackerone.com/reports/1457546) to U.S. Dept Of Defense - 6 upvotes, $0
+565. [XSS on https://████/ via ███████ parameter](https://hackerone.com/reports/1251868) to U.S. Dept Of Defense - 6 upvotes, $0
+566. [username and password leaked via pptx for █████████ website](https://hackerone.com/reports/1512199) to U.S. Dept Of Defense - 6 upvotes, $0
+567. [[CVE-2020-3452] on ███████](https://hackerone.com/reports/1234925) to U.S. Dept Of Defense - 6 upvotes, $0
+568. [SQL INJECTION  in https://████/██████████ ](https://hackerone.com/reports/723044) to U.S. Dept Of Defense - 6 upvotes, $0
+569. [██████████ vulnerable to CVE-2022-22954](https://hackerone.com/reports/1537543) to U.S. Dept Of Defense - 6 upvotes, $0
+570. [CVE-2020-3187 - Unauthenticated Arbitrary File Deletion](https://hackerone.com/reports/1555027) to U.S. Dept Of Defense - 6 upvotes, $0
+571. [RXSS on █████████](https://hackerone.com/reports/1555582) to U.S. Dept Of Defense - 6 upvotes, $0
+572. [XSS DUE TO CVE-2022-38463 in https://████████](https://hackerone.com/reports/1681208) to U.S. Dept Of Defense - 6 upvotes, $0
+573. [Open Redirect at █████](https://hackerone.com/reports/1634105) to U.S. Dept Of Defense - 6 upvotes, $0
+574. [XSS via Client Side Template Injection on www.███/News/Speeches](https://hackerone.com/reports/1736317) to U.S. Dept Of Defense - 6 upvotes, $0
+575. [stored cross site scripting in https://███████](https://hackerone.com/reports/1666002) to U.S. Dept Of Defense - 6 upvotes, $0
+576. [stored cross site scripting in https://██████████](https://hackerone.com/reports/1657030) to U.S. Dept Of Defense - 6 upvotes, $0
+577. [stored cross site scripting in https://█████████](https://hackerone.com/reports/1660500) to U.S. Dept Of Defense - 6 upvotes, $0
+578. [stored cross site scripting in https://███](https://hackerone.com/reports/1657033) to U.S. Dept Of Defense - 6 upvotes, $0
+579. [Install.php File Exposure on Drupal](https://hackerone.com/reports/1844674) to U.S. Dept Of Defense - 6 upvotes, $0
+580. [Out-Of-Bounds Memory Read on ███](https://hackerone.com/reports/2509402) to U.S. Dept Of Defense - 6 upvotes, $0
+581. [XSS vulnerability on an Army website](https://hackerone.com/reports/187881) to U.S. Dept Of Defense - 5 upvotes, $0
+582. [Open Redirect in a DoD website](https://hackerone.com/reports/187006) to U.S. Dept Of Defense - 5 upvotes, $0
+583. [Remote command execution (RCE) vulnerability on a DoD website](https://hackerone.com/reports/202652) to U.S. Dept Of Defense - 5 upvotes, $0
+584. [Information disclosure vulnerability on a DoD website](https://hackerone.com/reports/196482) to U.S. Dept Of Defense - 5 upvotes, $0
+585. [Reflected XSS vulnerability on a DoD website](https://hackerone.com/reports/187822) to U.S. Dept Of Defense - 5 upvotes, $0
+586. [Information disclosure vulnerability on a DoD website](https://hackerone.com/reports/195638) to U.S. Dept Of Defense - 5 upvotes, $0
+587. [Information disclosure vulnerability on a DoD website](https://hackerone.com/reports/195636) to U.S. Dept Of Defense - 5 upvotes, $0
+588. [Reflected cross-site scripting (XSS) vulnerability on a DoD website](https://hackerone.com/reports/191381) to U.S. Dept Of Defense - 5 upvotes, $0
+589. [SQL injection vulnerability on a DoD website](https://hackerone.com/reports/202619) to U.S. Dept Of Defense - 5 upvotes, $0
+590. [SQL Injection vulnerability in a DoD website](https://hackerone.com/reports/201512) to U.S. Dept Of Defense - 5 upvotes, $0
+591. [Information disclosure vulnerability on a DoD website](https://hackerone.com/reports/186530) to U.S. Dept Of Defense - 5 upvotes, $0
+592. [sql injection on  /messagecenter/messagingcenter at https://www.███████/](https://hackerone.com/reports/381758) to U.S. Dept Of Defense - 5 upvotes, $0
+593. [Remote File Inclusion, Malicious File Hosting, and Cross-site Scripting (XSS) in ████████](https://hackerone.com/reports/192940) to U.S. Dept Of Defense - 5 upvotes, $0
+594. [HTML Injection on ████](https://hackerone.com/reports/198218) to U.S. Dept Of Defense - 5 upvotes, $0
+595. [Able to view Backend Database dur to improper authentication](https://hackerone.com/reports/258573) to U.S. Dept Of Defense - 5 upvotes, $0
+596. [Internal IP Address Disclosed](https://hackerone.com/reports/707228) to U.S. Dept Of Defense - 5 upvotes, $0
+597. [Reflected XSS and HTML Injectionon a DoD website](https://hackerone.com/reports/859342) to U.S. Dept Of Defense - 5 upvotes, $0
+598. [Able to authenticate as administrator by navigating to https://█████/admin/](https://hackerone.com/reports/1035742) to U.S. Dept Of Defense - 5 upvotes, $0
+599. [Directory Indexing on the ████ (https://████/) leads to the backups disclosure and credentials leak](https://hackerone.com/reports/684838) to U.S. Dept Of Defense - 5 upvotes, $0
+600. [PII Leak of ████████ Personal at  https://www.█████████](https://hackerone.com/reports/1050196) to U.S. Dept Of Defense - 5 upvotes, $0
+601. [Improper Access Controls Allow PII Leak via ████](https://hackerone.com/reports/819591) to U.S. Dept Of Defense - 5 upvotes, $0
+602. [Arbitrary file upload and stored XSS via ███ support request](https://hackerone.com/reports/865354) to U.S. Dept Of Defense - 5 upvotes, $0
+603. [Access to requests and approvals via /█████ allows sensitive information gathering](https://hackerone.com/reports/904671) to U.S. Dept Of Defense - 5 upvotes, $0
+604. [HTML Injection + XSS Vulnerability - https://████████/ | Proof of Concept [PoC]](https://hackerone.com/reports/453307) to U.S. Dept Of Defense - 5 upvotes, $0
+605. [RXSS - https://███/](https://hackerone.com/reports/864091) to U.S. Dept Of Defense - 5 upvotes, $0
+606. [Blind Stored XSS on https://█████████ after filling a request at https://█████](https://hackerone.com/reports/1017189) to U.S. Dept Of Defense - 5 upvotes, $0
+607. [reflected xss @ www.█████████](https://hackerone.com/reports/225020) to U.S. Dept Of Defense - 5 upvotes, $0
+608. [CVE-2021-26855 on ████████ resulting in SSRF](https://hackerone.com/reports/1119228) to U.S. Dept Of Defense - 5 upvotes, $0
+609. [Reflected XSS in https://██████████ via "████████" parameter](https://hackerone.com/reports/1095765) to U.S. Dept Of Defense - 5 upvotes, $0
+610. [XSS DUE TO CVE-2020-3580](https://hackerone.com/reports/1245048) to U.S. Dept Of Defense - 5 upvotes, $0
+611. [Subdomain takeover of ███](https://hackerone.com/reports/892667) to U.S. Dept Of Defense - 5 upvotes, $0
+612. [XSS due to CVE-2020-3580 [██████]](https://hackerone.com/reports/1277392) to U.S. Dept Of Defense - 5 upvotes, $0
+613. [Path traversal on [███]](https://hackerone.com/reports/1212746) to U.S. Dept Of Defense - 5 upvotes, $0
+614. [Reflected XSS at ████ via ██████████= parameter ](https://hackerone.com/reports/1305472) to U.S. Dept Of Defense - 5 upvotes, $0
+615. [CSRF - Modify User Settings with one click - Account TakeOver](https://hackerone.com/reports/799895) to U.S. Dept Of Defense - 5 upvotes, $0
 616. [Reflected XSS [██████]](https://hackerone.com/reports/1309385) to U.S. Dept Of Defense - 5 upvotes, $0
 617. [RXSS on ███████](https://hackerone.com/reports/1626962) to U.S. Dept Of Defense - 5 upvotes, $0
 618. [Reflected XSS | https://████████](https://hackerone.com/reports/1736433) to U.S. Dept Of Defense - 5 upvotes, $0
@@ -659,76 +659,76 @@ Top reports from U.S. Dept Of Defense program at HackerOne:
 657. [Code reversion allowing SQLI again in ███████](https://hackerone.com/reports/348047) to U.S. Dept Of Defense - 4 upvotes, $0
 658. [Remote Code Execution (RCE) in a DoD website](https://hackerone.com/reports/329400) to U.S. Dept Of Defense - 4 upvotes, $0
 659. [Attackers can control which security questions they are presented (████████)](https://hackerone.com/reports/192082) to U.S. Dept Of Defense - 4 upvotes, $0
-660. [CRLF Injection on ███████](https://hackerone.com/reports/245485) to U.S. Dept Of Defense - 4 upvotes, $0
-661. [█████ - DOM-based XSS](https://hackerone.com/reports/377264) to U.S. Dept Of Defense - 4 upvotes, $0
-662. [[███████] Reflected GET XSS (/mission.php?...&missionDate=*)](https://hackerone.com/reports/648298) to U.S. Dept Of Defense - 4 upvotes, $0
-663. [█████████ - Insecure download cookie generation allows bypass of CAC authentication, access to deleted and locked files](https://hackerone.com/reports/496326) to U.S. Dept Of Defense - 4 upvotes, $0
-664. [Firewall rules for ████████ can be bypassed to leak site authors](https://hackerone.com/reports/743643) to U.S. Dept Of Defense - 4 upvotes, $0
-665. [CORS Misconfiguration Leads to Exposing User Data](https://hackerone.com/reports/733017) to U.S. Dept Of Defense - 4 upvotes, $0
-666. [Application level DoS via xmlrpc.php ](https://hackerone.com/reports/787179) to U.S. Dept Of Defense - 4 upvotes, $0
-667. [No ACL on S3 Bucket in [https://www.██████████/]](https://hackerone.com/reports/809212) to U.S. Dept Of Defense - 4 upvotes, $0
-668. [[████████] — XSS on `/███████_flight/images` via `advanced_val` parameter](https://hackerone.com/reports/689257) to U.S. Dept Of Defense - 4 upvotes, $0
-669. [Unrestricted file upload leads to stored xss on https://████████/](https://hackerone.com/reports/854445) to U.S. Dept Of Defense - 4 upvotes, $0
-670. [HTML Injection leads to XSS on███](https://hackerone.com/reports/874228) to U.S. Dept Of Defense - 4 upvotes, $0
-671. [[██████████.mil] Cisco VPN Service Path Traversal](https://hackerone.com/reports/943717) to U.S. Dept Of Defense - 4 upvotes, $0
-672. [[CVE-2020-3452] Unauthenticated file read in Cisco ASA](https://hackerone.com/reports/951530) to U.S. Dept Of Defense - 4 upvotes, $0
-673. [Apparent ██████████ website is publicly exposed, suggests default account details on page and has expired SSL/TLS cert](https://hackerone.com/reports/1025217) to U.S. Dept Of Defense - 4 upvotes, $0
-674. [ SharePoint Web Services Exposed to Anonymous Access](https://hackerone.com/reports/920403) to U.S. Dept Of Defense - 4 upvotes, $0
-675. [Able to log in with default ██████g creds at  https█████████████████████.mil ](https://hackerone.com/reports/710813) to U.S. Dept Of Defense - 4 upvotes, $0
-676. [SSRF in login page using fetch API exposes victims IP address to attacker controled server](https://hackerone.com/reports/996273) to U.S. Dept Of Defense - 4 upvotes, $0
-677. [System Error Reveals Sensitive SQL Call Data](https://hackerone.com/reports/1020472) to U.S. Dept Of Defense - 4 upvotes, $0
-678. [Dashboard sharing enables code injection into ████ emails](https://hackerone.com/reports/904064) to U.S. Dept Of Defense - 4 upvotes, $0
-679. [PII Leak via /███████](https://hackerone.com/reports/904659) to U.S. Dept Of Defense - 4 upvotes, $0
-680. [PII Leak via /██████](https://hackerone.com/reports/905688) to U.S. Dept Of Defense - 4 upvotes, $0
-681. [Stored XSS through name / last name on https://██████████/](https://hackerone.com/reports/1072616) to U.S. Dept Of Defense - 4 upvotes, $0
-682. [Self XSS + CSRF Leads to Reflected XSS in https://████/ ](https://hackerone.com/reports/1109544) to U.S. Dept Of Defense - 4 upvotes, $0
-683. [Read-only path traversal (CVE-2020-3452)  at https://█████](https://hackerone.com/reports/960082) to U.S. Dept Of Defense - 4 upvotes, $0
-684. [Read-only path traversal (CVE-2020-3452)  at https://████████](https://hackerone.com/reports/959679) to U.S. Dept Of Defense - 4 upvotes, $0
-685. [xss on https://███████(█████████ parameter)](https://hackerone.com/reports/1143780) to U.S. Dept Of Defense - 4 upvotes, $0
-686. [SQL injection located in `███` in POST param `████████` ](https://hackerone.com/reports/1262757) to U.S. Dept Of Defense - 4 upvotes, $0
-687. [Wrong settings in ADF Faces leads to information disclosure](https://hackerone.com/reports/1422641) to U.S. Dept Of Defense - 4 upvotes, $0
-688. [██████████ running a vulnerable log4j](https://hackerone.com/reports/1423496) to U.S. Dept Of Defense - 4 upvotes, $0
-689. [default ████ creds on https://████████](https://hackerone.com/reports/711662) to U.S. Dept Of Defense - 4 upvotes, $0
-690. [Reflected XSS at https://█████████ via "███" parameter](https://hackerone.com/reports/1457277) to U.S. Dept Of Defense - 4 upvotes, $0
-691. [XSS trigger via HTML Iframe injection in ( https://██████████ ) due to unfiltered HTML tags](https://hackerone.com/reports/1200770) to U.S. Dept Of Defense - 4 upvotes, $0
-692. [███ vulnerable to CVE-2022-22954](https://hackerone.com/reports/1537694) to U.S. Dept Of Defense - 4 upvotes, $0
-693. [[CVE-2020-3452] Unauthenticated file read in Cisco ASA](https://hackerone.com/reports/1555015) to U.S. Dept Of Defense - 4 upvotes, $0
-694. [XSS DUE TO CVE-2020-3580](https://hackerone.com/reports/1606068) to U.S. Dept Of Defense - 4 upvotes, $0
-695. [Reflected XSS [██████]](https://hackerone.com/reports/1309386) to U.S. Dept Of Defense - 4 upvotes, $0
-696. [springboot actuator is leaking internals at ██████████](https://hackerone.com/reports/1662474) to U.S. Dept Of Defense - 4 upvotes, $0
-697. [Server side information disclosure](https://hackerone.com/reports/192577) to U.S. Dept Of Defense - 3 upvotes, $0
-698. [XSS vulnerability on a DoD website](https://hackerone.com/reports/192751) to U.S. Dept Of Defense - 3 upvotes, $0
-699. [Potentially sensitive information disclosure on a DoD website](https://hackerone.com/reports/207236) to U.S. Dept Of Defense - 3 upvotes, $0
-700. [Information disclosure vulnerability on a DoD website](https://hackerone.com/reports/186307) to U.S. Dept Of Defense - 3 upvotes, $0
-701. [Remote Code Execution (RCE) in a DoD website](https://hackerone.com/reports/213069) to U.S. Dept Of Defense - 3 upvotes, $0
-702. [Reflected XSS on a DoD website](https://hackerone.com/reports/184200) to U.S. Dept Of Defense - 3 upvotes, $0
-703. [Reflected XSS on a DoD website](https://hackerone.com/reports/190205) to U.S. Dept Of Defense - 3 upvotes, $0
-704. [DOM Based XSS on a DoD website](https://hackerone.com/reports/191416) to U.S. Dept Of Defense - 3 upvotes, $0
-705. [Time Based SQL Injection vulnerability on a DoD website](https://hackerone.com/reports/188929) to U.S. Dept Of Defense - 3 upvotes, $0
-706. [Reflected XSS vulnerability on a DoD website](https://hackerone.com/reports/218136) to U.S. Dept Of Defense - 3 upvotes, $0
-707. [Cross-site request forgery (CSRF) vulnerability on a DoD website](https://hackerone.com/reports/191831) to U.S. Dept Of Defense - 3 upvotes, $0
-708. [Remote code execution vulnerability on a DoD website](https://hackerone.com/reports/203600) to U.S. Dept Of Defense - 3 upvotes, $0
-709. [Reflected XSS vulnerability on a DoD website](https://hackerone.com/reports/198259) to U.S. Dept Of Defense - 3 upvotes, $0
-710. [Information disclosure vulnerability on a DoD website](https://hackerone.com/reports/184558) to U.S. Dept Of Defense - 3 upvotes, $0
-711. [Reflected XSS on a DoD website](https://hackerone.com/reports/219729) to U.S. Dept Of Defense - 3 upvotes, $0
-712. [SQL Injection vulnerability in a DoD website](https://hackerone.com/reports/226211) to U.S. Dept Of Defense - 3 upvotes, $0
-713. [Online training material disclosing username and password](https://hackerone.com/reports/672629) to U.S. Dept Of Defense - 3 upvotes, $0
-714. [████████ SQL](https://hackerone.com/reports/381771) to U.S. Dept Of Defense - 3 upvotes, $0
-715. [Illegal account registration in ████████](https://hackerone.com/reports/204048) to U.S. Dept Of Defense - 3 upvotes, $0
-716. [SQL injection on https://███████](https://hackerone.com/reports/214798) to U.S. Dept Of Defense - 3 upvotes, $0
-717. [Sensitive Email disclosure Due to Insecure  Reactivate Account field](https://hackerone.com/reports/235041) to U.S. Dept Of Defense - 3 upvotes, $0
-718. [Exposed FTP Credentials on ███████](https://hackerone.com/reports/235216) to U.S. Dept Of Defense - 3 upvotes, $0
-719. [Blind SQL Injection on DoD Site](https://hackerone.com/reports/242882) to U.S. Dept Of Defense - 3 upvotes, $0
-720. [█████ - DOM-based XSS](https://hackerone.com/reports/376027) to U.S. Dept Of Defense - 3 upvotes, $0
-721. [[██████] Reflected GET XSS (/personnel.php?..&folder=*) with mouse action](https://hackerone.com/reports/648305) to U.S. Dept Of Defense - 3 upvotes, $0
-722. [Sensitive Information Leaking Through DoD Owned Website. [██████████]](https://hackerone.com/reports/806213) to U.S. Dept Of Defense - 3 upvotes, $0
-723. [Followup - SQL Injection - https://██████████/██████/MSI.portal](https://hackerone.com/reports/692326) to U.S. Dept Of Defense - 3 upvotes, $0
-724. [Improper Neutralization of Input During Web Page Generation](https://hackerone.com/reports/686595) to U.S. Dept Of Defense - 3 upvotes, $0
-725. [Admin Login Credential Leak for DoD Gitlab EE instance](https://hackerone.com/reports/799898) to U.S. Dept Of Defense - 3 upvotes, $0
-726. [Sensitive Information Leaking Through DARPA Website. [█████████]](https://hackerone.com/reports/805027) to U.S. Dept Of Defense - 3 upvotes, $0
-727. [Domian Takeover in [███████]](https://hackerone.com/reports/804080) to U.S. Dept Of Defense - 3 upvotes, $0
-728. [XSS Reflected ](https://hackerone.com/reports/484905) to U.S. Dept Of Defense - 3 upvotes, $0
-729. [Reflected XSS on https://███████/](https://hackerone.com/reports/804364) to U.S. Dept Of Defense - 3 upvotes, $0
+660. [SQL injection on https://███████](https://hackerone.com/reports/214798) to U.S. Dept Of Defense - 4 upvotes, $0
+661. [Blind SQL Injection on DoD Site](https://hackerone.com/reports/242882) to U.S. Dept Of Defense - 4 upvotes, $0
+662. [CRLF Injection on ███████](https://hackerone.com/reports/245485) to U.S. Dept Of Defense - 4 upvotes, $0
+663. [█████ - DOM-based XSS](https://hackerone.com/reports/377264) to U.S. Dept Of Defense - 4 upvotes, $0
+664. [[███████] Reflected GET XSS (/mission.php?...&missionDate=*)](https://hackerone.com/reports/648298) to U.S. Dept Of Defense - 4 upvotes, $0
+665. [█████████ - Insecure download cookie generation allows bypass of CAC authentication, access to deleted and locked files](https://hackerone.com/reports/496326) to U.S. Dept Of Defense - 4 upvotes, $0
+666. [Firewall rules for ████████ can be bypassed to leak site authors](https://hackerone.com/reports/743643) to U.S. Dept Of Defense - 4 upvotes, $0
+667. [CORS Misconfiguration Leads to Exposing User Data](https://hackerone.com/reports/733017) to U.S. Dept Of Defense - 4 upvotes, $0
+668. [Application level DoS via xmlrpc.php ](https://hackerone.com/reports/787179) to U.S. Dept Of Defense - 4 upvotes, $0
+669. [No ACL on S3 Bucket in [https://www.██████████/]](https://hackerone.com/reports/809212) to U.S. Dept Of Defense - 4 upvotes, $0
+670. [[████████] — XSS on `/███████_flight/images` via `advanced_val` parameter](https://hackerone.com/reports/689257) to U.S. Dept Of Defense - 4 upvotes, $0
+671. [Unrestricted file upload leads to stored xss on https://████████/](https://hackerone.com/reports/854445) to U.S. Dept Of Defense - 4 upvotes, $0
+672. [HTML Injection leads to XSS on███](https://hackerone.com/reports/874228) to U.S. Dept Of Defense - 4 upvotes, $0
+673. [Reflected XSS on https://███████/](https://hackerone.com/reports/804364) to U.S. Dept Of Defense - 4 upvotes, $0
+674. [[██████████.mil] Cisco VPN Service Path Traversal](https://hackerone.com/reports/943717) to U.S. Dept Of Defense - 4 upvotes, $0
+675. [[CVE-2020-3452] Unauthenticated file read in Cisco ASA](https://hackerone.com/reports/951530) to U.S. Dept Of Defense - 4 upvotes, $0
+676. [Apparent ██████████ website is publicly exposed, suggests default account details on page and has expired SSL/TLS cert](https://hackerone.com/reports/1025217) to U.S. Dept Of Defense - 4 upvotes, $0
+677. [ SharePoint Web Services Exposed to Anonymous Access](https://hackerone.com/reports/920403) to U.S. Dept Of Defense - 4 upvotes, $0
+678. [Able to log in with default ██████g creds at  https█████████████████████.mil ](https://hackerone.com/reports/710813) to U.S. Dept Of Defense - 4 upvotes, $0
+679. [SSRF in login page using fetch API exposes victims IP address to attacker controled server](https://hackerone.com/reports/996273) to U.S. Dept Of Defense - 4 upvotes, $0
+680. [System Error Reveals Sensitive SQL Call Data](https://hackerone.com/reports/1020472) to U.S. Dept Of Defense - 4 upvotes, $0
+681. [Dashboard sharing enables code injection into ████ emails](https://hackerone.com/reports/904064) to U.S. Dept Of Defense - 4 upvotes, $0
+682. [PII Leak via /███████](https://hackerone.com/reports/904659) to U.S. Dept Of Defense - 4 upvotes, $0
+683. [PII Leak via /██████](https://hackerone.com/reports/905688) to U.S. Dept Of Defense - 4 upvotes, $0
+684. [Stored XSS through name / last name on https://██████████/](https://hackerone.com/reports/1072616) to U.S. Dept Of Defense - 4 upvotes, $0
+685. [Self XSS + CSRF Leads to Reflected XSS in https://████/ ](https://hackerone.com/reports/1109544) to U.S. Dept Of Defense - 4 upvotes, $0
+686. [Read-only path traversal (CVE-2020-3452)  at https://█████](https://hackerone.com/reports/960082) to U.S. Dept Of Defense - 4 upvotes, $0
+687. [Read-only path traversal (CVE-2020-3452)  at https://████████](https://hackerone.com/reports/959679) to U.S. Dept Of Defense - 4 upvotes, $0
+688. [xss on https://███████(█████████ parameter)](https://hackerone.com/reports/1143780) to U.S. Dept Of Defense - 4 upvotes, $0
+689. [SQL injection located in `███` in POST param `████████` ](https://hackerone.com/reports/1262757) to U.S. Dept Of Defense - 4 upvotes, $0
+690. [Wrong settings in ADF Faces leads to information disclosure](https://hackerone.com/reports/1422641) to U.S. Dept Of Defense - 4 upvotes, $0
+691. [██████████ running a vulnerable log4j](https://hackerone.com/reports/1423496) to U.S. Dept Of Defense - 4 upvotes, $0
+692. [default ████ creds on https://████████](https://hackerone.com/reports/711662) to U.S. Dept Of Defense - 4 upvotes, $0
+693. [Reflected XSS at https://█████████ via "███" parameter](https://hackerone.com/reports/1457277) to U.S. Dept Of Defense - 4 upvotes, $0
+694. [XSS trigger via HTML Iframe injection in ( https://██████████ ) due to unfiltered HTML tags](https://hackerone.com/reports/1200770) to U.S. Dept Of Defense - 4 upvotes, $0
+695. [███ vulnerable to CVE-2022-22954](https://hackerone.com/reports/1537694) to U.S. Dept Of Defense - 4 upvotes, $0
+696. [[CVE-2020-3452] Unauthenticated file read in Cisco ASA](https://hackerone.com/reports/1555015) to U.S. Dept Of Defense - 4 upvotes, $0
+697. [XSS DUE TO CVE-2020-3580](https://hackerone.com/reports/1606068) to U.S. Dept Of Defense - 4 upvotes, $0
+698. [Reflected XSS [██████]](https://hackerone.com/reports/1309386) to U.S. Dept Of Defense - 4 upvotes, $0
+699. [springboot actuator is leaking internals at ██████████](https://hackerone.com/reports/1662474) to U.S. Dept Of Defense - 4 upvotes, $0
+700. [Server side information disclosure](https://hackerone.com/reports/192577) to U.S. Dept Of Defense - 3 upvotes, $0
+701. [XSS vulnerability on a DoD website](https://hackerone.com/reports/192751) to U.S. Dept Of Defense - 3 upvotes, $0
+702. [Potentially sensitive information disclosure on a DoD website](https://hackerone.com/reports/207236) to U.S. Dept Of Defense - 3 upvotes, $0
+703. [Information disclosure vulnerability on a DoD website](https://hackerone.com/reports/186307) to U.S. Dept Of Defense - 3 upvotes, $0
+704. [Remote Code Execution (RCE) in a DoD website](https://hackerone.com/reports/213069) to U.S. Dept Of Defense - 3 upvotes, $0
+705. [Reflected XSS on a DoD website](https://hackerone.com/reports/184200) to U.S. Dept Of Defense - 3 upvotes, $0
+706. [Reflected XSS on a DoD website](https://hackerone.com/reports/190205) to U.S. Dept Of Defense - 3 upvotes, $0
+707. [DOM Based XSS on a DoD website](https://hackerone.com/reports/191416) to U.S. Dept Of Defense - 3 upvotes, $0
+708. [Time Based SQL Injection vulnerability on a DoD website](https://hackerone.com/reports/188929) to U.S. Dept Of Defense - 3 upvotes, $0
+709. [Reflected XSS vulnerability on a DoD website](https://hackerone.com/reports/218136) to U.S. Dept Of Defense - 3 upvotes, $0
+710. [Cross-site request forgery (CSRF) vulnerability on a DoD website](https://hackerone.com/reports/191831) to U.S. Dept Of Defense - 3 upvotes, $0
+711. [Remote code execution vulnerability on a DoD website](https://hackerone.com/reports/203600) to U.S. Dept Of Defense - 3 upvotes, $0
+712. [Reflected XSS vulnerability on a DoD website](https://hackerone.com/reports/198259) to U.S. Dept Of Defense - 3 upvotes, $0
+713. [Information disclosure vulnerability on a DoD website](https://hackerone.com/reports/184558) to U.S. Dept Of Defense - 3 upvotes, $0
+714. [Reflected XSS on a DoD website](https://hackerone.com/reports/219729) to U.S. Dept Of Defense - 3 upvotes, $0
+715. [SQL Injection vulnerability in a DoD website](https://hackerone.com/reports/226211) to U.S. Dept Of Defense - 3 upvotes, $0
+716. [Online training material disclosing username and password](https://hackerone.com/reports/672629) to U.S. Dept Of Defense - 3 upvotes, $0
+717. [████████ SQL](https://hackerone.com/reports/381771) to U.S. Dept Of Defense - 3 upvotes, $0
+718. [Illegal account registration in ████████](https://hackerone.com/reports/204048) to U.S. Dept Of Defense - 3 upvotes, $0
+719. [Sensitive Email disclosure Due to Insecure  Reactivate Account field](https://hackerone.com/reports/235041) to U.S. Dept Of Defense - 3 upvotes, $0
+720. [Exposed FTP Credentials on ███████](https://hackerone.com/reports/235216) to U.S. Dept Of Defense - 3 upvotes, $0
+721. [█████ - DOM-based XSS](https://hackerone.com/reports/376027) to U.S. Dept Of Defense - 3 upvotes, $0
+722. [[██████] Reflected GET XSS (/personnel.php?..&folder=*) with mouse action](https://hackerone.com/reports/648305) to U.S. Dept Of Defense - 3 upvotes, $0
+723. [Sensitive Information Leaking Through DoD Owned Website. [██████████]](https://hackerone.com/reports/806213) to U.S. Dept Of Defense - 3 upvotes, $0
+724. [Followup - SQL Injection - https://██████████/██████/MSI.portal](https://hackerone.com/reports/692326) to U.S. Dept Of Defense - 3 upvotes, $0
+725. [Improper Neutralization of Input During Web Page Generation](https://hackerone.com/reports/686595) to U.S. Dept Of Defense - 3 upvotes, $0
+726. [Admin Login Credential Leak for DoD Gitlab EE instance](https://hackerone.com/reports/799898) to U.S. Dept Of Defense - 3 upvotes, $0
+727. [Sensitive Information Leaking Through DARPA Website. [█████████]](https://hackerone.com/reports/805027) to U.S. Dept Of Defense - 3 upvotes, $0
+728. [Domian Takeover in [███████]](https://hackerone.com/reports/804080) to U.S. Dept Of Defense - 3 upvotes, $0
+729. [XSS Reflected ](https://hackerone.com/reports/484905) to U.S. Dept Of Defense - 3 upvotes, $0
 730. [Reflected XSS on ███████ page](https://hackerone.com/reports/915573) to U.S. Dept Of Defense - 3 upvotes, $0
 731. [Reflected XSS in https://███████ via search parameter](https://hackerone.com/reports/975024) to U.S. Dept Of Defense - 3 upvotes, $0
 732. [PII Leak (such as CAC User ID) at https://████████/pages/login.aspx](https://hackerone.com/reports/900137) to U.S. Dept Of Defense - 3 upvotes, $0
