@@ -9,9 +9,9 @@ Top reports from Legal Robot program at HackerOne:
 7. [AWS hosting bucket for Legal Robots set as public browse and list contents: s3://legalrobot](https://hackerone.com/reports/166861) to Legal Robot - 20 upvotes, $0
 8. [Password complexity requirements not enforced](https://hackerone.com/reports/191643) to Legal Robot - 17 upvotes, $0
 9. [Homograph IDNs displayed in Description](https://hackerone.com/reports/260938) to Legal Robot - 17 upvotes, $0
-10. [Domain takeover (legalrobot.co.za)](https://hackerone.com/reports/230525) to Legal Robot - 15 upvotes, $0
-11. [2FA manual entry uses wrong encoding](https://hackerone.com/reports/260390) to Legal Robot - 15 upvotes, $0
-12. [Near-duplicate accounts allowed with ignored email mutations](https://hackerone.com/reports/171337) to Legal Robot - 14 upvotes, $0
+10. [Near-duplicate accounts allowed with ignored email mutations](https://hackerone.com/reports/171337) to Legal Robot - 15 upvotes, $0
+11. [Domain takeover (legalrobot.co.za)](https://hackerone.com/reports/230525) to Legal Robot - 15 upvotes, $0
+12. [2FA manual entry uses wrong encoding](https://hackerone.com/reports/260390) to Legal Robot - 15 upvotes, $0
 13. [Email Length Verification ](https://hackerone.com/reports/263589) to Legal Robot - 14 upvotes, $0
 14. [Legal Robot AWS S3 Bucket Directory Listing](https://hackerone.com/reports/194142) to Legal Robot - 14 upvotes, $0
 15. [content spoofing](https://hackerone.com/reports/167380) to Legal Robot - 13 upvotes, $0

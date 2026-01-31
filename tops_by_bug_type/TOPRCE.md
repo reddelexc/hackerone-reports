@@ -2,21 +2,21 @@ Top RCE reports from HackerOne:
 
 1. [RCE on Steam Client via buffer overflow in Server Info](https://hackerone.com/reports/470520) to Valve - 1285 upvotes, $0
 2. [Potential pre-auth RCE on Twitter VPN](https://hackerone.com/reports/591295) to X / xAI - 1231 upvotes, $20160
-3. [RCE via npm misconfig -- installing internal libraries from the public registry](https://hackerone.com/reports/925585) to PayPal - 920 upvotes, $30000
+3. [RCE via npm misconfig -- installing internal libraries from the public registry](https://hackerone.com/reports/925585) to PayPal - 924 upvotes, $30000
 4. [H1514 Remote Code Execution on kitcrm using bulk customer update of Priority Products](https://hackerone.com/reports/422944) to Shopify - 828 upvotes, $0
 5. [Remote Code Execution on www.semrush.com/my_reports on Logo upload](https://hackerone.com/reports/403417) to Semrush - 821 upvotes, $0
 6. [Git flag injection - local file overwrite to remote code execution](https://hackerone.com/reports/658013) to GitLab - 773 upvotes, $12000
-7. [RCE and Complete Server Takeover of http://www.█████.starbucks.com.sg/](https://hackerone.com/reports/502758) to Starbucks - 566 upvotes, $0
+7. [RCE and Complete Server Takeover of http://www.█████.starbucks.com.sg/](https://hackerone.com/reports/502758) to Starbucks - 567 upvotes, $0
 8. [Remote Code Execution in Slack desktop apps + bonus](https://hackerone.com/reports/783877) to Slack - 504 upvotes, $0
-9. [RCE when removing metadata with ExifTool](https://hackerone.com/reports/1154542) to GitLab - 499 upvotes, $20000
+9. [RCE when removing metadata with ExifTool](https://hackerone.com/reports/1154542) to GitLab - 501 upvotes, $20000
 10. [SQL injection on contactws.contact-sys.com in TScenObject action ScenObjects leads to remote code execution](https://hackerone.com/reports/816254) to QIWI - 475 upvotes, $0
 11. [RCE via unsafe inline Kramdown options when rendering certain Wiki pages](https://hackerone.com/reports/1125425) to GitLab - 423 upvotes, $20000
 12. [Panorama UI XSS leads to Remote Code Execution via Kick/Disconnect Message](https://hackerone.com/reports/631956) to Valve - 415 upvotes, $0
 13. [Remote code execution on Basecamp.com](https://hackerone.com/reports/365271) to Basecamp - 414 upvotes, $5000
 14. [Multiple bugs leads to RCE on TikTok for Android](https://hackerone.com/reports/1065500) to TikTok - 366 upvotes, $0
 15. [RCE on build server via misconfigured pip install](https://hackerone.com/reports/946409) to Yelp - 363 upvotes, $0
-16. [RCE on shared.mail.ru due to "widget" plugin](https://hackerone.com/reports/518637) to Mail.ru - 359 upvotes, $10000
-17. [RCE via the DecompressedArchiveSizeValidator and Project BulkImports (behind feature flag)](https://hackerone.com/reports/1609965) to GitLab - 357 upvotes, $33510
+16. [RCE via the DecompressedArchiveSizeValidator and Project BulkImports (behind feature flag)](https://hackerone.com/reports/1609965) to GitLab - 361 upvotes, $33510
+17. [RCE on shared.mail.ru due to "widget" plugin](https://hackerone.com/reports/518637) to Mail.ru - 359 upvotes, $10000
 18. [[ RCE ] Through stopping the redirect in /admin/* the attacker able to bypass Authentication And Upload Malicious File](https://hackerone.com/reports/683957) to Mail.ru - 340 upvotes, $0
 19. [RCE via npm misconfig -- installing internal libraries from the public registry](https://hackerone.com/reports/1007014) to Uber - 324 upvotes, $9000
 20. [RCE on TikTok Ads Portal](https://hackerone.com/reports/1024575) to TikTok - 309 upvotes, $0
@@ -35,29 +35,29 @@ Top RCE reports from HackerOne:
 33. [[Portal 2] Remote Code Execution via voice packets](https://hackerone.com/reports/733267) to Valve - 172 upvotes, $5000
 34. [Git flag injection leading to file overwrite and potential remote code execution](https://hackerone.com/reports/653125) to GitLab - 169 upvotes, $3500
 35. [RCE of Burp  Scanner / Crawler via Clickjacking ](https://hackerone.com/reports/1274695) to PortSwigger Web Security - 168 upvotes, $3000
-36. [RCE as Admin defeats WordPress hardening and file permissions](https://hackerone.com/reports/436928) to WordPress - 163 upvotes, $0
-37. [Mozilla VPN Clients: RCE via file write and path traversal](https://hackerone.com/reports/2995025) to Mozilla - 161 upvotes, $6000
+36. [Mozilla VPN Clients: RCE via file write and path traversal](https://hackerone.com/reports/2995025) to Mozilla - 163 upvotes, $6000
+37. [RCE as Admin defeats WordPress hardening and file permissions](https://hackerone.com/reports/436928) to WordPress - 163 upvotes, $0
 38. [Path traversal, SSTI and RCE on a MailRu acquisition ](https://hackerone.com/reports/536130) to Mail.ru - 152 upvotes, $2000
 39. [Malformed .BSP Access Violation in CS:GO can lead to Remote Code Execution](https://hackerone.com/reports/351014) to Valve - 151 upvotes, $0
 40. [MobileIron Unauthenticated RCE on mdm.qiwi.com with WAF bypass](https://hackerone.com/reports/983548) to QIWI - 148 upvotes, $0
-41. [Path traversal, to RCE](https://hackerone.com/reports/733072) to GitLab - 139 upvotes, $12000
-42. [uber.com may RCE by Flask Jinja2 Template Injection](https://hackerone.com/reports/125980) to Uber - 128 upvotes, $10000
+41. [Path traversal, to RCE](https://hackerone.com/reports/733072) to GitLab - 140 upvotes, $12000
+42. [uber.com may RCE by Flask Jinja2 Template Injection](https://hackerone.com/reports/125980) to Uber - 131 upvotes, $10000
 43. [Apache Flink RCE via GET jar/plan API Endpoint](https://hackerone.com/reports/1418891) to Aiven Ltd - 125 upvotes, $6000
 44. [Remote Code Execution via Extract App Plugin](https://hackerone.com/reports/546753) to Nextcloud - 124 upvotes, $0
-45. [Urgent: Server side template injection via Smarty template allows for RCE](https://hackerone.com/reports/164224) to Unikrn - 121 upvotes, $0
-46. [Remote Code Execution on Git.imgur-dev.com ](https://hackerone.com/reports/206227) to Imgur - 119 upvotes, $0
-47. [Possible RCE through Windows Custom Protocol on Windows client](https://hackerone.com/reports/1001255) to Nord Security - 119 upvotes, $0
+45. [Urgent: Server side template injection via Smarty template allows for RCE](https://hackerone.com/reports/164224) to Unikrn - 122 upvotes, $0
+46. [Possible RCE through Windows Custom Protocol on Windows client](https://hackerone.com/reports/1001255) to Nord Security - 120 upvotes, $0
+47. [Remote Code Execution on Git.imgur-dev.com ](https://hackerone.com/reports/206227) to Imgur - 119 upvotes, $0
 48. [SQL injection on contactws.contact-sys.com in TRateObject.AddForOffice in USER_ID parameter leads to remote code execution](https://hackerone.com/reports/816560) to QIWI - 118 upvotes, $0
-49. [SQL Injection + Insecure Deserialization leads to Remote Code Execution on https://krisp.ai](https://hackerone.com/reports/1842674) to Krisp - 115 upvotes, $0
+49. [SQL Injection + Insecure Deserialization leads to Remote Code Execution on https://krisp.ai](https://hackerone.com/reports/1842674) to Krisp - 117 upvotes, $0
 50. [Read files on application server, leads to RCE](https://hackerone.com/reports/178152) to GitLab - 114 upvotes, $0
 51. [ Remote Code Execution and AWS IAM Credentials Exfiltration in https://████████/](https://hackerone.com/reports/2083771) to U.S. Dept Of Defense - 114 upvotes, $0
-52. [Remote Code Execution (Reverse Shell) - File Manager](https://hackerone.com/reports/768322) to Concrete CMS - 112 upvotes, $0
+52. [Remote Code Execution (Reverse Shell) - File Manager](https://hackerone.com/reports/768322) to Concrete CMS - 113 upvotes, $0
 53. [Specially Crafted Closed Captions File can lead to Remote Code Execution in CS:GO and other Source Games](https://hackerone.com/reports/463286) to Valve - 109 upvotes, $7500
 54. [[hta3] Remote Code Execution on ████](https://hackerone.com/reports/1072832) to U.S. Dept Of Defense - 102 upvotes, $0
 55. [Tricking the "Create snippet" feature into displaying the wrong filetype can lead to RCE on Slack users](https://hackerone.com/reports/833080) to Slack - 98 upvotes, $1500
 56. [Remote Unrestricted file Creation/Deletion and Possible RCE.](https://hackerone.com/reports/191884) to X / xAI - 98 upvotes, $0
-57. [User-assisted RCE in Slack for macOS (from official site) due to improper quarantine meta-attribute handling for downloaded files](https://hackerone.com/reports/470637) to Slack - 95 upvotes, $0
-58. [XXE in DoD website that may lead to RCE](https://hackerone.com/reports/227880) to U.S. Dept Of Defense - 95 upvotes, $0
+57. [XXE in DoD website that may lead to RCE](https://hackerone.com/reports/227880) to U.S. Dept Of Defense - 96 upvotes, $0
+58. [User-assisted RCE in Slack for macOS (from official site) due to improper quarantine meta-attribute handling for downloaded files](https://hackerone.com/reports/470637) to Slack - 95 upvotes, $0
 59. [Remote Code Execution in ██████](https://hackerone.com/reports/710864) to U.S. Dept Of Defense - 93 upvotes, $0
 60. [Privilege Escalation via REST API to Administrator leads to RCE](https://hackerone.com/reports/1107282) to WordPress - 90 upvotes, $0
 61. [CVE-2024-27281: RCE vulnerability with .rdoc_options in RDoc](https://hackerone.com/reports/2438265) to Internet Bug Bounty - 87 upvotes, $4860
@@ -68,8 +68,8 @@ Top RCE reports from HackerOne:
 66. [[app-01.youdrive.club] RCE in CI/CD via dependency confusion](https://hackerone.com/reports/1104693) to Mail.ru - 84 upvotes, $0
 67. [Remote Code Execution (RCE) in a DoD website](https://hackerone.com/reports/248116) to U.S. Dept Of Defense - 83 upvotes, $0
 68. [Pre-auth Remote Code Execution on multiple Uber SSL VPN servers](https://hackerone.com/reports/540242) to Uber - 80 upvotes, $2000
-69. [Remote Code Execution on Proxy Service (as root)](https://hackerone.com/reports/401136) to ██████ - 80 upvotes, $0
-70. [File writing by Directory traversal at actionpack-page_caching and RCE by it](https://hackerone.com/reports/519220) to Ruby on Rails - 79 upvotes, $1000
+69. [File writing by Directory traversal at actionpack-page_caching and RCE by it](https://hackerone.com/reports/519220) to Ruby on Rails - 80 upvotes, $1000
+70. [Remote Code Execution on Proxy Service (as root)](https://hackerone.com/reports/401136) to ██████ - 80 upvotes, $0
 71. [RCE on Wordpress website](https://hackerone.com/reports/2248328) to Nextcloud - 79 upvotes, $0
 72. [RCE on facebooksearch.algolia.com](https://hackerone.com/reports/134321) to Algolia - 74 upvotes, $500
 73. [Nextcloud Desktop Client RCE via malicious URI schemes](https://hackerone.com/reports/1078002) to Nextcloud - 73 upvotes, $1000
@@ -78,92 +78,92 @@ Top RCE reports from HackerOne:
 76. [Old WebKit HTML agent in Template Preview function has multiple known vulnerabilities leading to RCE](https://hackerone.com/reports/520717) to Lob - 68 upvotes, $1500
 77. [RCE on █████ via CVE-2017-10271](https://hackerone.com/reports/576887) to U.S. Dept Of Defense - 68 upvotes, $0
 78. [GMP Deserialization Type Confusion Vulnerability [MyBB \<= 1.8.3 RCE Vulnerability]](https://hackerone.com/reports/198734) to Internet Bug Bounty - 68 upvotes, $0
-79. [Remote Code Execution via unsafe usage of `reply.view({ raw })` in @fastify/view (EJS template engine)](https://hackerone.com/reports/3122019) to Fastify - 66 upvotes, $0
-80. [CS:GO Server -\> Client RCE through OOB access in CSVCMsg_SplitScreen + Info leak in HTTP download](https://hackerone.com/reports/1070835) to Valve - 65 upvotes, $7500
+79. [CS:GO Server -\> Client RCE through OOB access in CSVCMsg_SplitScreen + Info leak in HTTP download](https://hackerone.com/reports/1070835) to Valve - 66 upvotes, $7500
+80. [Remote Code Execution via unsafe usage of `reply.view({ raw })` in @fastify/view (EJS template engine)](https://hackerone.com/reports/3122019) to Fastify - 66 upvotes, $0
 81. [Remote Code Execution at http://tw.corp.ubnt.com](https://hackerone.com/reports/269066) to Ubiquiti Inc. - 61 upvotes, $0
-82. [CVE-2022-40127: RCE in Apache Airflow \<2.4.0 bash example](https://hackerone.com/reports/1776476) to Internet Bug Bounty - 60 upvotes, $4000
-83. [[Source Engine] Material path truncation leads to Remote Code Execution](https://hackerone.com/reports/544096) to Valve - 60 upvotes, $2500
-84. [Remote Code Execution (upload)](https://hackerone.com/reports/116575) to Legal Robot - 60 upvotes, $0
-85. [Ability to access all user authentication tokens, leads to RCE](https://hackerone.com/reports/158330) to GitLab - 60 upvotes, $0
-86. [Management Console Editor Privilege Escalation to Root SSH Access in GitHub Enterprise Server via RCE in syslog-ng](https://hackerone.com/reports/2329466) to GitHub - 60 upvotes, $0
-87. [CVE-2020-7961 RCE Liferay Portal Unauthenticated via https://████████/](https://hackerone.com/reports/2742457) to U.S. Dept Of Defense - 60 upvotes, $0
-88. [LFI with potential to RCE on ██████ using CVE-2019-3396](https://hackerone.com/reports/538771) to U.S. Dept Of Defense - 58 upvotes, $0
-89. [Remote code execution via crafted pentaho report uploaded using default credentials for pentaho business server](https://hackerone.com/reports/1677047) to MTN Group - 58 upvotes, $0
-90. [Remote code execution and exfiltration of secret tokens by poisoning the mozilla/fxa CI build cache](https://hackerone.com/reports/2255750) to Mozilla - 57 upvotes, $8000
-91. [Store Development Resource Center was vulnerable to a Remote Code Execution - Unauthenticated Remote Command Injection (CVE-2019-0604)](https://hackerone.com/reports/536134) to Starbucks - 57 upvotes, $0
-92. [Remote Code Execution through DNN Cookie Deserialization ](https://hackerone.com/reports/876708) to U.S. Dept Of Defense - 56 upvotes, $0
-93. [insecure deserilize object leads to RCE On Sitecore (CVE-██████████-27218)](https://hackerone.com/reports/3090123) to Mars - 56 upvotes, $0
-94. [[Kafka Connect] [JdbcSinkConnector][HttpSinkConnector] RCE by leveraging file upload via SQLite JDBC driver and SSRF to internal Jolokia](https://hackerone.com/reports/1547877) to Aiven Ltd - 55 upvotes, $5000
-95. [Unsafe yaml load can lead to remote code execution](https://hackerone.com/reports/2467232) to Liberapay - 55 upvotes, $0
-96. [CVE-2025-24813: Remote Code Execution and/or Information disclosure and/or malicious content added to uploaded files via write enabled Default Servlet](https://hackerone.com/reports/3031518) to Internet Bug Bounty - 54 upvotes, $4323
-97. [RCE on worker host due to unsanitized "env" variable name in task definition on community-tc.services.mozilla.com](https://hackerone.com/reports/2221404) to Mozilla - 54 upvotes, $500
-98. [[RCE] Remote Code Execution via  React Server Components Vulnerability CVE-2025-55182](https://hackerone.com/reports/3458235) to IBM - 53 upvotes, $0
-99. [Remote Code Execution on contactws.contact-sys.com via SQL injection in TPrabhuObject.BeginOrder in parameter DOC_ID](https://hackerone.com/reports/1104111) to QIWI - 52 upvotes, $0
-100. [Jitsi Desktop Client RCE By Interacting with Malicious URL Schemes on Windows](https://hackerone.com/reports/1692603) to 8x8 - 51 upvotes, $777
-101. [Remote code execution on rubygems.org](https://hackerone.com/reports/274990) to RubyGems - 50 upvotes, $1500
-102. [WordPress SOME bug in plupload.flash.swf leading to RCE](https://hackerone.com/reports/134738) to Automattic - 50 upvotes, $0
-103. [RCE in 'Copy as Node Request' BApp via code injection](https://hackerone.com/reports/1167530) to PortSwigger Web Security - 50 upvotes, $0
-104. [RCE via WikiCloth markdown rendering if the `rubyluabridge` gem is installed](https://hackerone.com/reports/1401444) to GitLab - 49 upvotes, $3000
-105. [SMB SSRF in emblem editor exposes taketwo domain credentials, may lead to RCE](https://hackerone.com/reports/288353) to Rockstar Games - 49 upvotes, $1500
-106. [Remote Code Execution (RCE) at "juid" parameter in /get_zip.php (printshop.engelvoelkers.com)](https://hackerone.com/reports/914392) to Engel & Völkers Technology GmbH - 49 upvotes, $0
-107. [Java Deserialization RCE via JBoss on card.starbucks.in](https://hackerone.com/reports/221294) to Starbucks - 48 upvotes, $0
-108. [Remote Code Execution at https://169.38.86.185/ (edst.ibm.com)](https://hackerone.com/reports/1379130) to IBM - 48 upvotes, $0
-109. [Log4Shell: RCE 0-day exploit on █████████](https://hackerone.com/reports/1429014) to U.S. Dept Of Defense - 48 upvotes, $0
-110. [[CS:GO] Unchecked texture file name with TEXTUREFLAGS_DEPTHRENDERTARGET can lead to Remote Code Execution](https://hackerone.com/reports/550625) to Valve - 47 upvotes, $2500
-111. [Remote Code Execution in Basecamp Windows Electron App](https://hackerone.com/reports/1016966) to Basecamp - 47 upvotes, $0
-112. [RCE  on ingress-nginx-controller via Ingress spec.rules.http.paths.path field](https://hackerone.com/reports/1620702) to Kubernetes - 46 upvotes, $2500
-113. [RCE via Local File Read -\> php unserialization-\> XXE -\> unpickling](https://hackerone.com/reports/415501) to h1-5411-CTF - 46 upvotes, $0
-114. [F5 BIG-IP TMUI RCE - CVE-2020-5902 (██.packet8.net)](https://hackerone.com/reports/1519841) to 8x8 - 46 upvotes, $0
-115. [Management Console Editor Privilege Escalation to Root SSH Access in GitHub Enterprise Server via RCE in actions-console](https://hackerone.com/reports/2323292) to GitHub - 46 upvotes, $0
-116. [Management Console Editor Privilege Escalation to Root SSH Access in GitHub Enterprise Server via RCE in collectd](https://hackerone.com/reports/2329547) to GitHub - 46 upvotes, $0
-117. [Remote Code Execution via Insecure Deserialization in Telerik UI ](https://hackerone.com/reports/838196) to U.S. Dept Of Defense - 45 upvotes, $0
-118. [CVE-2017-9822 DotNetNuke Cookie Deserialization Remote Code Execution (RCE) on lonidoor.mtn.ci](https://hackerone.com/reports/2762119) to MTN Group - 45 upvotes, $0
-119. [Buffer Overflow Vulnerability in strcpy() Leading to Remote Code Execution](https://hackerone.com/reports/2871792) to curl - 45 upvotes, $0
-120. [Kafka Connect RCE via connector SASL  JAAS JndiLoginModule configuration](https://hackerone.com/reports/1529790) to Aiven Ltd - 43 upvotes, $5000
-121. [RCE due to ImageTragick v2](https://hackerone.com/reports/402362) to pixiv - 43 upvotes, $2000
-122. [[3DS][SSL][SDK] Unchecked number of audio channels in Mobiclip SDK leads to RCE in eShop movie player](https://hackerone.com/reports/897606) to Nintendo - 43 upvotes, $0
-123. [CVE-2019-11043: a buffer underflow in fpm_main.c can lead to RCE in php-fpm](https://hackerone.com/reports/722327) to Internet Bug Bounty - 42 upvotes, $1500
-124. [Java Deserialization RCE via JBoss JMXInvokerServlet/EJBInvokerServlet on card.starbucks.in](https://hackerone.com/reports/153026) to Starbucks - 42 upvotes, $0
-125. [RCE which may occur due to `ActiveSupport::MessageVerifier` or `ActiveSupport::MessageEncryptor` (especially Active storage)](https://hackerone.com/reports/473888) to Ruby on Rails - 41 upvotes, $1500
-126. [Log4j RCE on https://judge.me/reviews](https://hackerone.com/reports/1427589) to Judge.me  - 40 upvotes, $50
-127. [Remote Code Execution (RCE) in a Sony WebSystem](https://hackerone.com/reports/329572) to Sony - 40 upvotes, $0
-128. [Remote Code Execution in Rocket.Chat-Desktop](https://hackerone.com/reports/943725) to Rocket.Chat - 40 upvotes, $0
-129. [RCE by parsing `.rdoc_options` in RDoc](https://hackerone.com/reports/1187477) to Ruby - 40 upvotes, $0
-130. [Vanilla Forums ImportController index file_exists Unserialize Remote Code Execution Vulnerability](https://hackerone.com/reports/410237) to Vanilla - 39 upvotes, $600
-131. [RCE via ssh:// URIs in multiple VCS ](https://hackerone.com/reports/260005) to Internet Bug Bounty - 39 upvotes, $0
-132. [Arbitrary File Reading leads to RCE in the Pulse Secure SSL VPN on the https://████](https://hackerone.com/reports/695005) to U.S. Dept Of Defense - 39 upvotes, $0
-133. [RCE Possible Via Video Manager Export using @ character in Video Title](https://hackerone.com/reports/146593) to Pornhub - 38 upvotes, $500
-134. [Remote code execution via path traversal in Zip extraction in the Extract app](https://hackerone.com/reports/765291) to Nextcloud - 38 upvotes, $0
-135. [[3DS][SSL] Use of uninitialized class member leads to RCE in eShop movie player](https://hackerone.com/reports/895769) to Nintendo - 38 upvotes, $0
-136. [RCE in ███ [CVE-2021-26084]](https://hackerone.com/reports/1327769) to U.S. Dept Of Defense - 37 upvotes, $0
-137. [Path traversal in AcitveStorage, and lead RCE](https://hackerone.com/reports/2334455) to Ruby on Rails - 37 upvotes, $0
-138. [[Switch, PIA/MK8DX] Stack buffer overflow and potential RCE in PIA (LAN/LDN, possibly NEX) room info deserialization](https://hackerone.com/reports/2611669) to Nintendo - 36 upvotes, $0
-139. [Signedness issue in ClassInfo message handler leads to RCE on CS:GO client](https://hackerone.com/reports/876719) to Valve - 35 upvotes, $7500
-140. [Remote code execution as root on [REDACTED]](https://hackerone.com/reports/58914) to Zendesk - 35 upvotes, $0
-141. [Remote code execution by hijacking an unclaimed S3 bucket in Rocket.Chat's installation script.](https://hackerone.com/reports/399166) to Rocket.Chat - 35 upvotes, $0
-142. [Remote Code Execution on ██.8x8.com via .NET VSTATE Deserialization](https://hackerone.com/reports/1391576) to 8x8 - 35 upvotes, $0
-143. [XML Parser Bug: XXE over which leads to RCE](https://hackerone.com/reports/55431) to drchrono - 34 upvotes, $0
-144. [Log4j Java RCE in [beta.dev.adobeconnect.com]](https://hackerone.com/reports/1442644) to Adobe - 34 upvotes, $0
-145. [Vanilla Forums domGetImages getimagesize Unserialize Remote Code Execution Vulnerability (critical)](https://hackerone.com/reports/410882) to Vanilla - 32 upvotes, $600
-146. [RCE in profile picture upload](https://hackerone.com/reports/135072) to HackerOne - 32 upvotes, $0
-147. [Remote code execution on an Army website](https://hackerone.com/reports/188284) to U.S. Dept Of Defense - 31 upvotes, $0
-148. [Unauthenticated RCE in Vaultpress](https://hackerone.com/reports/236552) to Automattic - 31 upvotes, $0
-149. [Pulse Secure File disclosure, clear text and potential RCE](https://hackerone.com/reports/671749) to U.S. Dept Of Defense - 31 upvotes, $0
-150. [XSS leads to RCE on the RocketChat desktop client.](https://hackerone.com/reports/899964) to Rocket.Chat - 31 upvotes, $0
-151. [RCE via File Upload  with a Null Byte Truncated File Extension at https://██████/](https://hackerone.com/reports/2054184) to U.S. Dept Of Defense - 31 upvotes, $0
-152. [Arbitrary File Reading leads to RCE in the Pulse Secure SSL VPN on the https://██████ (███)](https://hackerone.com/reports/696276) to U.S. Dept Of Defense - 31 upvotes, $0
-153. [Malformed map detailed texture files in GoldSrc games lead to Remote Code Execution](https://hackerone.com/reports/505173) to Valve - 30 upvotes, $350
-154. [RCE via exposed JMX server on jabber.37signals.com/jabber.basecamp.com](https://hackerone.com/reports/1456063) to Basecamp - 30 upvotes, $100
-155. [[3DS][StreetPass] Heap Overflow in Swapnote parser leads to userland StreetPass RCE](https://hackerone.com/reports/923240) to Nintendo - 30 upvotes, $0
-156. [RCE vulnerability in apache-airflow-providers-apache-sqoop 3.1.0](https://hackerone.com/reports/1891795) to Internet Bug Bounty - 29 upvotes, $2400
-157. [Path Traversal and Remote Code Execution in Apache HTTP Server 2.4.49 and 2.4.50 (incomplete fix of CVE-2021-41773) (CVE-2021-42013)](https://hackerone.com/reports/1400238) to Internet Bug Bounty - 29 upvotes, $1000
-158. [Lack of quarantine macOS attribute(com.apple.quarantine) leads multiple issues including RCE](https://hackerone.com/reports/1019389) to Basecamp - 29 upvotes, $250
-159. [Use after free vulnerability in mruby Array#to_h causing DOS possible RCE](https://hackerone.com/reports/181321) to shopify-scripts - 29 upvotes, $0
-160. [Remote Code Execution (RCE) in a DoD website](https://hackerone.com/reports/211381) to U.S. Dept Of Defense - 29 upvotes, $0
-161. [ZeroMQ libzmq remote code execution](https://hackerone.com/reports/477073) to Internet Bug Bounty - 29 upvotes, $0
-162. [RCE Apache Struts2 remote command execution (S2-045) on [wifi-partner.mtn.com.gh]](https://hackerone.com/reports/1070532) to MTN Group - 29 upvotes, $0
-163. [Pre-auth RCE in ForgeRock OpenAM (CVE-2021-35464)](https://hackerone.com/reports/1248052) to U.S. Dept Of Defense - 29 upvotes, $0
-164. [Remote Code Execution identified on IBM endpoint.](https://hackerone.com/reports/3463045) to IBM - 29 upvotes, $0
+82. [[RCE] Remote Code Execution via  React Server Components Vulnerability CVE-2025-55182](https://hackerone.com/reports/3458235) to IBM - 61 upvotes, $0
+83. [CVE-2022-40127: RCE in Apache Airflow \<2.4.0 bash example](https://hackerone.com/reports/1776476) to Internet Bug Bounty - 60 upvotes, $4000
+84. [[Source Engine] Material path truncation leads to Remote Code Execution](https://hackerone.com/reports/544096) to Valve - 60 upvotes, $2500
+85. [Remote Code Execution (upload)](https://hackerone.com/reports/116575) to Legal Robot - 60 upvotes, $0
+86. [Ability to access all user authentication tokens, leads to RCE](https://hackerone.com/reports/158330) to GitLab - 60 upvotes, $0
+87. [Management Console Editor Privilege Escalation to Root SSH Access in GitHub Enterprise Server via RCE in syslog-ng](https://hackerone.com/reports/2329466) to GitHub - 60 upvotes, $0
+88. [CVE-2020-7961 RCE Liferay Portal Unauthenticated via https://████████/](https://hackerone.com/reports/2742457) to U.S. Dept Of Defense - 60 upvotes, $0
+89. [LFI with potential to RCE on ██████ using CVE-2019-3396](https://hackerone.com/reports/538771) to U.S. Dept Of Defense - 58 upvotes, $0
+90. [Remote code execution via crafted pentaho report uploaded using default credentials for pentaho business server](https://hackerone.com/reports/1677047) to MTN Group - 58 upvotes, $0
+91. [Remote code execution and exfiltration of secret tokens by poisoning the mozilla/fxa CI build cache](https://hackerone.com/reports/2255750) to Mozilla - 57 upvotes, $8000
+92. [Store Development Resource Center was vulnerable to a Remote Code Execution - Unauthenticated Remote Command Injection (CVE-2019-0604)](https://hackerone.com/reports/536134) to Starbucks - 57 upvotes, $0
+93. [insecure deserilize object leads to RCE On Sitecore (CVE-██████████-27218)](https://hackerone.com/reports/3090123) to Mars - 57 upvotes, $0
+94. [Remote Code Execution through DNN Cookie Deserialization ](https://hackerone.com/reports/876708) to U.S. Dept Of Defense - 56 upvotes, $0
+95. [Remote Code Execution identified on IBM endpoint.](https://hackerone.com/reports/3463045) to IBM - 56 upvotes, $0
+96. [[Kafka Connect] [JdbcSinkConnector][HttpSinkConnector] RCE by leveraging file upload via SQLite JDBC driver and SSRF to internal Jolokia](https://hackerone.com/reports/1547877) to Aiven Ltd - 55 upvotes, $5000
+97. [CVE-2025-24813: Remote Code Execution and/or Information disclosure and/or malicious content added to uploaded files via write enabled Default Servlet](https://hackerone.com/reports/3031518) to Internet Bug Bounty - 55 upvotes, $4323
+98. [Unsafe yaml load can lead to remote code execution](https://hackerone.com/reports/2467232) to Liberapay - 55 upvotes, $0
+99. [RCE on worker host due to unsanitized "env" variable name in task definition on community-tc.services.mozilla.com](https://hackerone.com/reports/2221404) to Mozilla - 54 upvotes, $500
+100. [Remote Code Execution on contactws.contact-sys.com via SQL injection in TPrabhuObject.BeginOrder in parameter DOC_ID](https://hackerone.com/reports/1104111) to QIWI - 52 upvotes, $0
+101. [Jitsi Desktop Client RCE By Interacting with Malicious URL Schemes on Windows](https://hackerone.com/reports/1692603) to 8x8 - 51 upvotes, $777
+102. [RCE via WikiCloth markdown rendering if the `rubyluabridge` gem is installed](https://hackerone.com/reports/1401444) to GitLab - 50 upvotes, $3000
+103. [Remote code execution on rubygems.org](https://hackerone.com/reports/274990) to RubyGems - 50 upvotes, $1500
+104. [SMB SSRF in emblem editor exposes taketwo domain credentials, may lead to RCE](https://hackerone.com/reports/288353) to Rockstar Games - 50 upvotes, $1500
+105. [WordPress SOME bug in plupload.flash.swf leading to RCE](https://hackerone.com/reports/134738) to Automattic - 50 upvotes, $0
+106. [RCE in 'Copy as Node Request' BApp via code injection](https://hackerone.com/reports/1167530) to PortSwigger Web Security - 50 upvotes, $0
+107. [Remote Code Execution (RCE) at "juid" parameter in /get_zip.php (printshop.engelvoelkers.com)](https://hackerone.com/reports/914392) to Engel & Völkers Technology GmbH - 49 upvotes, $0
+108. [Java Deserialization RCE via JBoss on card.starbucks.in](https://hackerone.com/reports/221294) to Starbucks - 48 upvotes, $0
+109. [Remote Code Execution at https://169.38.86.185/ (edst.ibm.com)](https://hackerone.com/reports/1379130) to IBM - 48 upvotes, $0
+110. [Log4Shell: RCE 0-day exploit on █████████](https://hackerone.com/reports/1429014) to U.S. Dept Of Defense - 48 upvotes, $0
+111. [[CS:GO] Unchecked texture file name with TEXTUREFLAGS_DEPTHRENDERTARGET can lead to Remote Code Execution](https://hackerone.com/reports/550625) to Valve - 47 upvotes, $2500
+112. [Remote Code Execution in Basecamp Windows Electron App](https://hackerone.com/reports/1016966) to Basecamp - 47 upvotes, $0
+113. [RCE  on ingress-nginx-controller via Ingress spec.rules.http.paths.path field](https://hackerone.com/reports/1620702) to Kubernetes - 46 upvotes, $2500
+114. [RCE via Local File Read -\> php unserialization-\> XXE -\> unpickling](https://hackerone.com/reports/415501) to h1-5411-CTF - 46 upvotes, $0
+115. [F5 BIG-IP TMUI RCE - CVE-2020-5902 (██.packet8.net)](https://hackerone.com/reports/1519841) to 8x8 - 46 upvotes, $0
+116. [Management Console Editor Privilege Escalation to Root SSH Access in GitHub Enterprise Server via RCE in actions-console](https://hackerone.com/reports/2323292) to GitHub - 46 upvotes, $0
+117. [Management Console Editor Privilege Escalation to Root SSH Access in GitHub Enterprise Server via RCE in collectd](https://hackerone.com/reports/2329547) to GitHub - 46 upvotes, $0
+118. [Remote Code Execution via Insecure Deserialization in Telerik UI ](https://hackerone.com/reports/838196) to U.S. Dept Of Defense - 45 upvotes, $0
+119. [CVE-2017-9822 DotNetNuke Cookie Deserialization Remote Code Execution (RCE) on lonidoor.mtn.ci](https://hackerone.com/reports/2762119) to MTN Group - 45 upvotes, $0
+120. [Buffer Overflow Vulnerability in strcpy() Leading to Remote Code Execution](https://hackerone.com/reports/2871792) to curl - 45 upvotes, $0
+121. [Kafka Connect RCE via connector SASL  JAAS JndiLoginModule configuration](https://hackerone.com/reports/1529790) to Aiven Ltd - 43 upvotes, $5000
+122. [RCE due to ImageTragick v2](https://hackerone.com/reports/402362) to pixiv - 43 upvotes, $2000
+123. [[3DS][SSL][SDK] Unchecked number of audio channels in Mobiclip SDK leads to RCE in eShop movie player](https://hackerone.com/reports/897606) to Nintendo - 43 upvotes, $0
+124. [CVE-2019-11043: a buffer underflow in fpm_main.c can lead to RCE in php-fpm](https://hackerone.com/reports/722327) to Internet Bug Bounty - 42 upvotes, $1500
+125. [Java Deserialization RCE via JBoss JMXInvokerServlet/EJBInvokerServlet on card.starbucks.in](https://hackerone.com/reports/153026) to Starbucks - 42 upvotes, $0
+126. [RCE which may occur due to `ActiveSupport::MessageVerifier` or `ActiveSupport::MessageEncryptor` (especially Active storage)](https://hackerone.com/reports/473888) to Ruby on Rails - 41 upvotes, $1500
+127. [Log4j RCE on https://judge.me/reviews](https://hackerone.com/reports/1427589) to Judge.me  - 40 upvotes, $50
+128. [Remote Code Execution (RCE) in a Sony WebSystem](https://hackerone.com/reports/329572) to Sony - 40 upvotes, $0
+129. [Remote code execution via path traversal in Zip extraction in the Extract app](https://hackerone.com/reports/765291) to Nextcloud - 40 upvotes, $0
+130. [Remote Code Execution in Rocket.Chat-Desktop](https://hackerone.com/reports/943725) to Rocket.Chat - 40 upvotes, $0
+131. [RCE by parsing `.rdoc_options` in RDoc](https://hackerone.com/reports/1187477) to Ruby - 40 upvotes, $0
+132. [Vanilla Forums ImportController index file_exists Unserialize Remote Code Execution Vulnerability](https://hackerone.com/reports/410237) to Vanilla - 39 upvotes, $600
+133. [RCE via ssh:// URIs in multiple VCS ](https://hackerone.com/reports/260005) to Internet Bug Bounty - 39 upvotes, $0
+134. [Arbitrary File Reading leads to RCE in the Pulse Secure SSL VPN on the https://████](https://hackerone.com/reports/695005) to U.S. Dept Of Defense - 39 upvotes, $0
+135. [RCE Possible Via Video Manager Export using @ character in Video Title](https://hackerone.com/reports/146593) to Pornhub - 38 upvotes, $500
+136. [[3DS][SSL] Use of uninitialized class member leads to RCE in eShop movie player](https://hackerone.com/reports/895769) to Nintendo - 38 upvotes, $0
+137. [RCE in ███ [CVE-2021-26084]](https://hackerone.com/reports/1327769) to U.S. Dept Of Defense - 37 upvotes, $0
+138. [Path traversal in AcitveStorage, and lead RCE](https://hackerone.com/reports/2334455) to Ruby on Rails - 37 upvotes, $0
+139. [[Switch, PIA/MK8DX] Stack buffer overflow and potential RCE in PIA (LAN/LDN, possibly NEX) room info deserialization](https://hackerone.com/reports/2611669) to Nintendo - 36 upvotes, $0
+140. [Signedness issue in ClassInfo message handler leads to RCE on CS:GO client](https://hackerone.com/reports/876719) to Valve - 35 upvotes, $7500
+141. [XML Parser Bug: XXE over which leads to RCE](https://hackerone.com/reports/55431) to drchrono - 35 upvotes, $0
+142. [Remote code execution as root on [REDACTED]](https://hackerone.com/reports/58914) to Zendesk - 35 upvotes, $0
+143. [Remote code execution by hijacking an unclaimed S3 bucket in Rocket.Chat's installation script.](https://hackerone.com/reports/399166) to Rocket.Chat - 35 upvotes, $0
+144. [Remote Code Execution on ██.8x8.com via .NET VSTATE Deserialization](https://hackerone.com/reports/1391576) to 8x8 - 35 upvotes, $0
+145. [Log4j Java RCE in [beta.dev.adobeconnect.com]](https://hackerone.com/reports/1442644) to Adobe - 34 upvotes, $0
+146. [Vanilla Forums domGetImages getimagesize Unserialize Remote Code Execution Vulnerability (critical)](https://hackerone.com/reports/410882) to Vanilla - 32 upvotes, $600
+147. [RCE in profile picture upload](https://hackerone.com/reports/135072) to HackerOne - 32 upvotes, $0
+148. [RCE via File Upload  with a Null Byte Truncated File Extension at https://██████/](https://hackerone.com/reports/2054184) to U.S. Dept Of Defense - 32 upvotes, $0
+149. [Remote code execution on an Army website](https://hackerone.com/reports/188284) to U.S. Dept Of Defense - 31 upvotes, $0
+150. [Unauthenticated RCE in Vaultpress](https://hackerone.com/reports/236552) to Automattic - 31 upvotes, $0
+151. [Pulse Secure File disclosure, clear text and potential RCE](https://hackerone.com/reports/671749) to U.S. Dept Of Defense - 31 upvotes, $0
+152. [XSS leads to RCE on the RocketChat desktop client.](https://hackerone.com/reports/899964) to Rocket.Chat - 31 upvotes, $0
+153. [Arbitrary File Reading leads to RCE in the Pulse Secure SSL VPN on the https://██████ (███)](https://hackerone.com/reports/696276) to U.S. Dept Of Defense - 31 upvotes, $0
+154. [RCE vulnerability in apache-airflow-providers-apache-sqoop 3.1.0](https://hackerone.com/reports/1891795) to Internet Bug Bounty - 30 upvotes, $2400
+155. [Malformed map detailed texture files in GoldSrc games lead to Remote Code Execution](https://hackerone.com/reports/505173) to Valve - 30 upvotes, $350
+156. [RCE via exposed JMX server on jabber.37signals.com/jabber.basecamp.com](https://hackerone.com/reports/1456063) to Basecamp - 30 upvotes, $100
+157. [[3DS][StreetPass] Heap Overflow in Swapnote parser leads to userland StreetPass RCE](https://hackerone.com/reports/923240) to Nintendo - 30 upvotes, $0
+158. [Path Traversal and Remote Code Execution in Apache HTTP Server 2.4.49 and 2.4.50 (incomplete fix of CVE-2021-41773) (CVE-2021-42013)](https://hackerone.com/reports/1400238) to Internet Bug Bounty - 29 upvotes, $1000
+159. [Lack of quarantine macOS attribute(com.apple.quarantine) leads multiple issues including RCE](https://hackerone.com/reports/1019389) to Basecamp - 29 upvotes, $250
+160. [Use after free vulnerability in mruby Array#to_h causing DOS possible RCE](https://hackerone.com/reports/181321) to shopify-scripts - 29 upvotes, $0
+161. [Remote Code Execution (RCE) in a DoD website](https://hackerone.com/reports/211381) to U.S. Dept Of Defense - 29 upvotes, $0
+162. [ZeroMQ libzmq remote code execution](https://hackerone.com/reports/477073) to Internet Bug Bounty - 29 upvotes, $0
+163. [RCE Apache Struts2 remote command execution (S2-045) on [wifi-partner.mtn.com.gh]](https://hackerone.com/reports/1070532) to MTN Group - 29 upvotes, $0
+164. [Pre-auth RCE in ForgeRock OpenAM (CVE-2021-35464)](https://hackerone.com/reports/1248052) to U.S. Dept Of Defense - 29 upvotes, $0
 165. [[███████] Remote Code Execution at ██████ [CVE-2021-44529] [HtUS]](https://hackerone.com/reports/1624172) to U.S. Dept Of Defense - 28 upvotes, $1000
 166. [RCE via Print function [Simplenote 1.1.3 - Desktop app] ](https://hackerone.com/reports/358049) to Automattic - 28 upvotes, $0
 167. [Authentication bypass and RCE on the https://████ due to exposed Cisco TelePresence SX80 with default credentials](https://hackerone.com/reports/684070) to U.S. Dept Of Defense - 28 upvotes, $0
@@ -173,10 +173,10 @@ Top RCE reports from HackerOne:
 171. [Attention! Remote Code Execution at http://wpt.ec2.shopify.com/](https://hackerone.com/reports/73567) to Shopify - 27 upvotes, $0
 172. [Remote Code Execution via Insecure Deserialization in Telerik UI (CVE-2019-18935)](https://hackerone.com/reports/1174185) to U.S. Dept Of Defense - 27 upvotes, $0
 173. [GoldSrc: Buffer Overflow in DELTA_ParseDelta function leads to RCE](https://hackerone.com/reports/484745) to Valve - 26 upvotes, $3000
-174. [Vanilla Forums Gdn_Format unserialize() Remote Code Execution Vulnerability](https://hackerone.com/reports/407552) to Vanilla - 25 upvotes, $600
-175. [RCE on a Department of Defense website](https://hackerone.com/reports/184279) to U.S. Dept Of Defense - 25 upvotes, $0
-176. [RCE hazard in reporting (via Chromium)](https://hackerone.com/reports/1168765) to Elastic - 24 upvotes, $10000
-177. [Path Traversal and Remote Code Execution in Apache HTTP Server 2.4.50](https://hackerone.com/reports/1404731) to Internet Bug Bounty - 24 upvotes, $1000
+174. [RCE hazard in reporting (via Chromium)](https://hackerone.com/reports/1168765) to Elastic - 25 upvotes, $10000
+175. [Path Traversal and Remote Code Execution in Apache HTTP Server 2.4.50](https://hackerone.com/reports/1404731) to Internet Bug Bounty - 25 upvotes, $1000
+176. [Vanilla Forums Gdn_Format unserialize() Remote Code Execution Vulnerability](https://hackerone.com/reports/407552) to Vanilla - 25 upvotes, $600
+177. [RCE on a Department of Defense website](https://hackerone.com/reports/184279) to U.S. Dept Of Defense - 25 upvotes, $0
 178. [[GoldSrc] RCE via malformed BSP file](https://hackerone.com/reports/763403) to Valve - 24 upvotes, $450
 179. [Vanilla Forums Xenforo password splitHash Unserialize Remote Code Execution Vulnerability](https://hackerone.com/reports/410212) to Vanilla - 24 upvotes, $300
 180. [Apache solr RCE via velocity template](https://hackerone.com/reports/822002) to U.S. Dept Of Defense - 24 upvotes, $0
@@ -200,16 +200,16 @@ Top RCE reports from HackerOne:
 198. [Pre-Auth Blind NoSQL Injection leading to Remote Code Execution](https://hackerone.com/reports/1130721) to Rocket.Chat - 19 upvotes, $0
 199. [Steam Deck Single Click Root Remote Code Execution ](https://hackerone.com/reports/1974296) to Valve - 18 upvotes, $750
 200. [[Simplenote for Windows] Client RCE via External JavaScript Inclusion leveraging Electron](https://hackerone.com/reports/291539) to Automattic - 18 upvotes, $0
-201. [RCE on ███████ [CVE-2021-26084]](https://hackerone.com/reports/1327701) to U.S. Dept Of Defense - 18 upvotes, $0
-202. [RCE on partner.steampowered.com](https://hackerone.com/reports/518348) to Valve - 18 upvotes, $0
-203. [Stack Buffer Overflow in cURL Cookie Parsing Leads to RCE](https://hackerone.com/reports/3340109) to curl - 18 upvotes, $0
-204. [Remote code execution vulnerability on a DoD website](https://hackerone.com/reports/212985) to U.S. Dept Of Defense - 17 upvotes, $0
-205. [Remote Code Execution (RCE) in DoD Websites](https://hackerone.com/reports/235605) to U.S. Dept Of Defense - 17 upvotes, $0
-206. [Arbitrary file deletion in wp-core - guides towards RCE and information disclosure](https://hackerone.com/reports/291878) to WordPress - 17 upvotes, $0
-207. [bunyan - RCE via insecure command formatting](https://hackerone.com/reports/902739) to Node.js third-party modules - 17 upvotes, $0
-208. [Remote Code Execution via CVE-2019-18935](https://hackerone.com/reports/913695) to U.S. Dept Of Defense - 17 upvotes, $0
-209. [Squid as reverse proxy RCE and data leak](https://hackerone.com/reports/778610) to Internet Bug Bounty - 17 upvotes, $0
-210. [Authenticated path traversal to RCE](https://hackerone.com/reports/1102067) to Concrete CMS - 17 upvotes, $0
+201. [Authenticated path traversal to RCE](https://hackerone.com/reports/1102067) to Concrete CMS - 18 upvotes, $0
+202. [RCE on ███████ [CVE-2021-26084]](https://hackerone.com/reports/1327701) to U.S. Dept Of Defense - 18 upvotes, $0
+203. [RCE on partner.steampowered.com](https://hackerone.com/reports/518348) to Valve - 18 upvotes, $0
+204. [Stack Buffer Overflow in cURL Cookie Parsing Leads to RCE](https://hackerone.com/reports/3340109) to curl - 18 upvotes, $0
+205. [Remote code execution vulnerability on a DoD website](https://hackerone.com/reports/212985) to U.S. Dept Of Defense - 17 upvotes, $0
+206. [Remote Code Execution (RCE) in DoD Websites](https://hackerone.com/reports/235605) to U.S. Dept Of Defense - 17 upvotes, $0
+207. [Arbitrary file deletion in wp-core - guides towards RCE and information disclosure](https://hackerone.com/reports/291878) to WordPress - 17 upvotes, $0
+208. [bunyan - RCE via insecure command formatting](https://hackerone.com/reports/902739) to Node.js third-party modules - 17 upvotes, $0
+209. [Remote Code Execution via CVE-2019-18935](https://hackerone.com/reports/913695) to U.S. Dept Of Defense - 17 upvotes, $0
+210. [Squid as reverse proxy RCE and data leak](https://hackerone.com/reports/778610) to Internet Bug Bounty - 17 upvotes, $0
 211. [RCE: DnDing shortcut files to chrome://brave allows loading HTML files in Muon's context](https://hackerone.com/reports/415258) to Brave Software - 16 upvotes, $0
 212. [Remote Code Execution through Deserialization Attack in OwnBackup app.](https://hackerone.com/reports/562335) to ownCloud - 16 upvotes, $0
 213. [Desktop app RCE (#276031 bypass)](https://hackerone.com/reports/843171) to Rocket.Chat - 16 upvotes, $0
@@ -220,12 +220,12 @@ Top RCE reports from HackerOne:
 218. [[logkitty] RCE via insecure command formatting](https://hackerone.com/reports/825729) to Node.js third-party modules - 15 upvotes, $0
 219. [Remote Code Execution through Extension Bypass on Log Functionality](https://hackerone.com/reports/841947) to Concrete CMS - 15 upvotes, $0
 220. [Unauth RCE on Jenkins Instance at https://█████████/](https://hackerone.com/reports/1125329) to U.S. Dept Of Defense - 15 upvotes, $0
-221. [Buddypress 2.9.1 - Exceeding the maximum upload size  - XSS leading to potential RCE. ](https://hackerone.com/reports/263109) to WordPress - 14 upvotes, $0
-222. [Unrestricted File Upload Leads to XSS & Potential RCE](https://hackerone.com/reports/900179) to U.S. Dept Of Defense - 14 upvotes, $0
-223. [Remote Code Execution through "Files_antivirus" plugin](https://hackerone.com/reports/903872) to ownCloud - 14 upvotes, $0
-224. [[Urgent] Critical Vulnerability [RCE] on ███ vulnerable to Remote Code Execution by exploiting MS15-034, CVE-2015-1635](https://hackerone.com/reports/469730) to U.S. Dept Of Defense - 14 upvotes, $0
-225. [Authenticated RCE via page title](https://hackerone.com/reports/1267488) to ExpressionEngine - 14 upvotes, $0
-226. [Remote Code Execution in coming Kibana 7.7.0](https://hackerone.com/reports/861744) to Elastic - 13 upvotes, $5000
+221. [Remote Code Execution in coming Kibana 7.7.0](https://hackerone.com/reports/861744) to Elastic - 14 upvotes, $5000
+222. [Buddypress 2.9.1 - Exceeding the maximum upload size  - XSS leading to potential RCE. ](https://hackerone.com/reports/263109) to WordPress - 14 upvotes, $0
+223. [Unrestricted File Upload Leads to XSS & Potential RCE](https://hackerone.com/reports/900179) to U.S. Dept Of Defense - 14 upvotes, $0
+224. [Remote Code Execution through "Files_antivirus" plugin](https://hackerone.com/reports/903872) to ownCloud - 14 upvotes, $0
+225. [[Urgent] Critical Vulnerability [RCE] on ███ vulnerable to Remote Code Execution by exploiting MS15-034, CVE-2015-1635](https://hackerone.com/reports/469730) to U.S. Dept Of Defense - 14 upvotes, $0
+226. [Authenticated RCE via page title](https://hackerone.com/reports/1267488) to ExpressionEngine - 14 upvotes, $0
 227. [Remote Code Execution (RCE) in a DoD website](https://hackerone.com/reports/329397) to U.S. Dept Of Defense - 13 upvotes, $0
 228. [RCE Jira(CVE-2019–11581) [my-com.atlassian.net]](https://hackerone.com/reports/706841) to Mail.ru - 13 upvotes, $0
 229. [(Critical) Remote Code Execution Through Old TinyMCE upload bypass](https://hackerone.com/reports/778629) to 8x8 - 13 upvotes, $0
@@ -268,14 +268,14 @@ Top RCE reports from HackerOne:
 266. [RCE (Remote code execution) in one of DoD's websites ](https://hackerone.com/reports/874924) to U.S. Dept Of Defense - 9 upvotes, $0
 267. [RCE in ██████ subdomain via CVE-2017-1000486](https://hackerone.com/reports/1067291) to U.S. Dept Of Defense - 9 upvotes, $0
 268. [redirect_to(["string"]) remote code execution](https://hackerone.com/reports/1106652) to Ruby on Rails - 9 upvotes, $0
-269. [apps.owncloud.com: Malicious file upload leads to remote code execution](https://hackerone.com/reports/84374) to ownCloud - 8 upvotes, $0
-270. [Remote code execution (RCE) in multiple DoD websites](https://hackerone.com/reports/226245) to U.S. Dept Of Defense - 8 upvotes, $0
-271. [Remote Code Execution (RCE) vulnerability in a DoD website](https://hackerone.com/reports/232330) to U.S. Dept Of Defense - 8 upvotes, $0
-272. [Cisco RCE](https://hackerone.com/reports/411270) to Informatica - 8 upvotes, $0
-273. [[jsreport] Remote Code Execution](https://hackerone.com/reports/660565) to Node.js third-party modules - 8 upvotes, $0
-274. [[CRITICAL] Remote code execution on http://axa.dxi.eu](https://hackerone.com/reports/418308) to 8x8 - 8 upvotes, $0
-275. [Pre-auth RCE in ForgeRock OpenAM (CVE-2021-35464)](https://hackerone.com/reports/1249456) to U.S. Dept Of Defense - 8 upvotes, $0
-276. [XXE with RCE potential on the https://█████████ (CVE-2017-3548)](https://hackerone.com/reports/710654) to U.S. Dept Of Defense - 8 upvotes, $0
+269. [XXE with RCE potential on the https://█████████ (CVE-2017-3548)](https://hackerone.com/reports/710654) to U.S. Dept Of Defense - 9 upvotes, $0
+270. [apps.owncloud.com: Malicious file upload leads to remote code execution](https://hackerone.com/reports/84374) to ownCloud - 8 upvotes, $0
+271. [Remote code execution (RCE) in multiple DoD websites](https://hackerone.com/reports/226245) to U.S. Dept Of Defense - 8 upvotes, $0
+272. [Remote Code Execution (RCE) vulnerability in a DoD website](https://hackerone.com/reports/232330) to U.S. Dept Of Defense - 8 upvotes, $0
+273. [Cisco RCE](https://hackerone.com/reports/411270) to Informatica - 8 upvotes, $0
+274. [[jsreport] Remote Code Execution](https://hackerone.com/reports/660565) to Node.js third-party modules - 8 upvotes, $0
+275. [[CRITICAL] Remote code execution on http://axa.dxi.eu](https://hackerone.com/reports/418308) to 8x8 - 8 upvotes, $0
+276. [Pre-auth RCE in ForgeRock OpenAM (CVE-2021-35464)](https://hackerone.com/reports/1249456) to U.S. Dept Of Defense - 8 upvotes, $0
 277. [Remote code execution using render :inline](https://hackerone.com/reports/113928) to Ruby on Rails - 7 upvotes, $1500
 278. [Remote Code Execution in the Import Channel function](https://hackerone.com/reports/236607) to ExpressionEngine - 7 upvotes, $0
 279. [accounts.informatica.com - RCE due to exposed Groovy console](https://hackerone.com/reports/672243) to Informatica - 7 upvotes, $0

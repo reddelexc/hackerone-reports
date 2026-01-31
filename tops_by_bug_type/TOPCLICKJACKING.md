@@ -7,7 +7,7 @@ Top Clickjacking reports from HackerOne:
 5. [Clickjacking in main domain https://topechelon.com/](https://hackerone.com/reports/2964441) to Top Echelon Software - 79 upvotes, $0
 6. [Viral Direct Message Clickjacking via link truncation leading to capture of both Google credentials & installation of malicious 3rd party Twitter App](https://hackerone.com/reports/643274) to X / xAI - 64 upvotes, $0
 7. [Sensitive Clickjacking on admin login page.](https://hackerone.com/reports/389145) to Shipt - 55 upvotes, $0
-8. [Double Clickjacking Attack on WakaTime OAuth Authorization Flow at https://wakatime.com/oauth/authorize](https://hackerone.com/reports/3287060) to WakaTime - 54 upvotes, $0
+8. [Double Clickjacking Attack on WakaTime OAuth Authorization Flow at https://wakatime.com/oauth/authorize](https://hackerone.com/reports/3287060) to WakaTime - 55 upvotes, $0
 9. [Stealing User emails by clickjacking cards.twitter.com/xxx/xxx](https://hackerone.com/reports/154963) to X / xAI - 49 upvotes, $0
 10. [Clickjacking vkpay](https://hackerone.com/reports/374817) to VK.com - 44 upvotes, $0
 11. [[api.tumblr.com] Exploiting clickjacking vulnerability to trigger self DOM-based XSS](https://hackerone.com/reports/953579) to Automattic - 30 upvotes, $0
@@ -81,13 +81,13 @@ Top Clickjacking reports from HackerOne:
 79. [Clickjacking](https://hackerone.com/reports/832593) to Kubernetes - 4 upvotes, $0
 80. [Clickjacking Vulnerability via https://webagent.mail.ru leading to protection bypass for https://web.icq.com/ end point](https://hackerone.com/reports/918923) to Mail.ru - 4 upvotes, $0
 81. [Clickjacking on profile page leading to unauthorized changes](https://hackerone.com/reports/1198907) to UPchieve - 4 upvotes, $0
-82. [clickjacking on deleting user's clips [https://crossclip.com/clips]](https://hackerone.com/reports/1294767) to Logitech - 4 upvotes, $0
-83. [Clickjacking](https://hackerone.com/reports/8724) to Mail.ru - 3 upvotes, $0
-84. [Clickjacking & CSRF attack can be done at https://app.mavenlink.com/login](https://hackerone.com/reports/14494) to Mavenlink - 3 upvotes, $0
-85. [Clickjacking at surveylink.yahoo.com](https://hackerone.com/reports/3578) to Yahoo! - 3 upvotes, $0
-86. [Clickjacking: Delete Account, Change privacy settings, Rate business, follow/unfollow (IE)](https://hackerone.com/reports/338569) to Eternal - 3 upvotes, $0
-87. [Settings page in https://support.my.com is vulnerable to clickjacking](https://hackerone.com/reports/667400) to Mail.ru - 3 upvotes, $0
-88. [CLICKJACKING LEADS TO DEACTIVATE ACCOUNT](https://hackerone.com/reports/1301113) to UPchieve - 3 upvotes, $0
+82. [CLICKJACKING LEADS TO DEACTIVATE ACCOUNT](https://hackerone.com/reports/1301113) to UPchieve - 4 upvotes, $0
+83. [clickjacking on deleting user's clips [https://crossclip.com/clips]](https://hackerone.com/reports/1294767) to Logitech - 4 upvotes, $0
+84. [Clickjacking](https://hackerone.com/reports/8724) to Mail.ru - 3 upvotes, $0
+85. [Clickjacking & CSRF attack can be done at https://app.mavenlink.com/login](https://hackerone.com/reports/14494) to Mavenlink - 3 upvotes, $0
+86. [Clickjacking at surveylink.yahoo.com](https://hackerone.com/reports/3578) to Yahoo! - 3 upvotes, $0
+87. [Clickjacking: Delete Account, Change privacy settings, Rate business, follow/unfollow (IE)](https://hackerone.com/reports/338569) to Eternal - 3 upvotes, $0
+88. [Settings page in https://support.my.com is vulnerable to clickjacking](https://hackerone.com/reports/667400) to Mail.ru - 3 upvotes, $0
 89. [Clickjacking login page of https://hackers.upchieve.org/login](https://hackerone.com/reports/1331485) to UPchieve - 3 upvotes, $0
 90. [Possible clickjacking at shop.khanacademy.org](https://hackerone.com/reports/6370) to Khan Academy - 2 upvotes, $0
 91. [ClickJacking](https://hackerone.com/reports/7862) to Localize - 2 upvotes, $0

@@ -1,21 +1,21 @@
 Top reports from X / xAI program at HackerOne:
 
 1. [Potential pre-auth RCE on Twitter VPN](https://hackerone.com/reports/591295) to X / xAI - 1231 upvotes, $20160
-2. [Bypassing Digits origin validation which leads to account takeover](https://hackerone.com/reports/129873) to X / xAI - 611 upvotes, $0
+2. [Bypassing Digits origin validation which leads to account takeover](https://hackerone.com/reports/129873) to X / xAI - 612 upvotes, $0
 3. [CRLF injection](https://hackerone.com/reports/446271) to X / xAI - 436 upvotes, $0
 4. [Read-only application can publish/delete fleets](https://hackerone.com/reports/1032468) to X / xAI - 398 upvotes, $0
 5. [Blind XSS on Twitter's internal Big Data panel at █████████████](https://hackerone.com/reports/1207040) to X / xAI - 353 upvotes, $0
-6. [Private list members disclosure via GraphQL](https://hackerone.com/reports/885539) to X / xAI - 341 upvotes, $0
+6. [Private list members disclosure via GraphQL](https://hackerone.com/reports/885539) to X / xAI - 342 upvotes, $0
 7. [[Urgent] Invalidating OAuth2 Bearer token makes TweetDeck unavailable](https://hackerone.com/reports/210779) to X / xAI - 322 upvotes, $0
 8. [Bypass Password Authentication for updating email and phone number - Security Vulnerability](https://hackerone.com/reports/770504) to X / xAI - 282 upvotes, $0
-9. [Insufficient OAuth callback validation which leads to Periscope account takeover](https://hackerone.com/reports/110293) to X / xAI - 271 upvotes, $0
+9. [Insufficient OAuth callback validation which leads to Periscope account takeover](https://hackerone.com/reports/110293) to X / xAI - 272 upvotes, $0
 10. [Insufficient validation on Digits bridge](https://hackerone.com/reports/168116) to X / xAI - 258 upvotes, $0
-11. [XXE on sms-be-vip.twitter.com in SXMP Processor](https://hackerone.com/reports/248668) to X / xAI - 256 upvotes, $0
-12. [XSS and Open Redirect on MoPub Login](https://hackerone.com/reports/683298) to X / xAI - 244 upvotes, $1540
+11. [XXE on sms-be-vip.twitter.com in SXMP Processor](https://hackerone.com/reports/248668) to X / xAI - 257 upvotes, $0
+12. [XSS and Open Redirect on MoPub Login](https://hackerone.com/reports/683298) to X / xAI - 245 upvotes, $1540
 13. [XSS via Direct Message deeplinks](https://hackerone.com/reports/341908) to X / xAI - 233 upvotes, $0
 14. [Stored XSS on reports.](https://hackerone.com/reports/485748) to X / xAI - 227 upvotes, $700
-15. [Periscope android app deeplink leads to CSRF in follow action](https://hackerone.com/reports/583987) to X / xAI - 220 upvotes, $1540
-16. [ Github Account hijack through broken link in developer.twitter.com](https://hackerone.com/reports/1031321) to X / xAI - 216 upvotes, $0
+15. [Periscope android app deeplink leads to CSRF in follow action](https://hackerone.com/reports/583987) to X / xAI - 222 upvotes, $1540
+16. [ Github Account hijack through broken link in developer.twitter.com](https://hackerone.com/reports/1031321) to X / xAI - 218 upvotes, $0
 17. [Account Takeover in Periscope TV](https://hackerone.com/reports/317476) to X / xAI - 209 upvotes, $0
 18. [Discoverability by phone number/email restriction bypass](https://hackerone.com/reports/1439026) to X / xAI - 208 upvotes, $5040
 19. [XSS and cache poisoning via upload.twitter.com on ton.twitter.com](https://hackerone.com/reports/84601) to X / xAI - 197 upvotes, $0
@@ -23,20 +23,20 @@ Top reports from X / xAI program at HackerOne:
 21. [protected Tweet settings overwritten by other settings](https://hackerone.com/reports/664038) to X / xAI - 175 upvotes, $0
 22. [Takeover of Twitter-owned domain at mobileapplinking.com](https://hackerone.com/reports/321699) to X / xAI - 159 upvotes, $0
 23. [Twitter ID exposure via error-based side-channel attack](https://hackerone.com/reports/505424) to X / xAI - 152 upvotes, $1470
-24. [url that twitter mobile site can not load](https://hackerone.com/reports/500686) to X / xAI - 140 upvotes, $1120
+24. [url that twitter mobile site can not load](https://hackerone.com/reports/500686) to X / xAI - 141 upvotes, $1120
 25. [character limitation bypass can lead to DoS on Twitter App and 500 Internal Server Error](https://hackerone.com/reports/819088) to X / xAI - 140 upvotes, $0
 26. [Reflected XSS in twitterflightschool.com](https://hackerone.com/reports/770349) to X / xAI - 139 upvotes, $0
 27. [Twitter Periscope Clickjacking Vulnerability](https://hackerone.com/reports/591432) to X / xAI - 138 upvotes, $1120
-28. [IDOR and statistics leakage in Orders ](https://hackerone.com/reports/544329) to X / xAI - 134 upvotes, $289
+28. [IDOR and statistics leakage in Orders ](https://hackerone.com/reports/544329) to X / xAI - 136 upvotes, $289
 29. [Highly wormable clickjacking in player card](https://hackerone.com/reports/85624) to X / xAI - 134 upvotes, $0
 30. [Incorrect param parsing in Digits web authentication](https://hackerone.com/reports/126522) to X / xAI - 126 upvotes, $0
-31. [XSS via referrer parameter](https://hackerone.com/reports/867616) to X / xAI - 123 upvotes, $0
-32. [Vine all registered user Private/sensitive information disclosure .[ Ip address/phone no/email and many other informations ]](https://hackerone.com/reports/202823) to X / xAI - 119 upvotes, $0
-33. [[URGENT] Opportunity to publish tweets on any twitters account](https://hackerone.com/reports/208978) to X / xAI - 117 upvotes, $0
-34. [Changing email address on Twitter for Android unsets "Protect your Tweets"](https://hackerone.com/reports/472013) to X / xAI - 116 upvotes, $2940
+31. [XSS via referrer parameter](https://hackerone.com/reports/867616) to X / xAI - 124 upvotes, $0
+32. [Vine all registered user Private/sensitive information disclosure .[ Ip address/phone no/email and many other informations ]](https://hackerone.com/reports/202823) to X / xAI - 120 upvotes, $0
+33. [Changing email address on Twitter for Android unsets "Protect your Tweets"](https://hackerone.com/reports/472013) to X / xAI - 118 upvotes, $2940
+34. [[URGENT] Opportunity to publish tweets on any twitters account](https://hackerone.com/reports/208978) to X / xAI - 118 upvotes, $0
 35. [Bypassing Digits web authentication's host validation with HPP](https://hackerone.com/reports/114169) to X / xAI - 107 upvotes, $0
-36. [Ability to perform actions (Tweet, Retweet, DM) and other actions, unauthenticated, on any account with SMS enabled.](https://hackerone.com/reports/470749) to X / xAI - 105 upvotes, $0
-37. [Cross-Domain Leakage of X Username / UserID due to  Dynamically Generated JS File](https://hackerone.com/reports/2244229) to X / xAI - 103 upvotes, $1500
+36. [Cross-Domain Leakage of X Username / UserID due to  Dynamically Generated JS File](https://hackerone.com/reports/2244229) to X / xAI - 105 upvotes, $1500
+37. [Ability to perform actions (Tweet, Retweet, DM) and other actions, unauthenticated, on any account with SMS enabled.](https://hackerone.com/reports/470749) to X / xAI - 105 upvotes, $0
 38. [Remote Unrestricted file Creation/Deletion and Possible RCE.](https://hackerone.com/reports/191884) to X / xAI - 98 upvotes, $0
 39. [Safe Redirect Bypass ](https://hackerone.com/reports/945990) to X / xAI - 97 upvotes, $560
 40. [Blind XSS on Twitter's internal Jira panel at ████ allows exfiltration of hackers reports and other sensitive data](https://hackerone.com/reports/1369674) to X / xAI - 97 upvotes, $0
@@ -46,17 +46,17 @@ Top reports from X / xAI program at HackerOne:
 44. [Bypassing Digits bridge origin validation](https://hackerone.com/reports/110467) to X / xAI - 91 upvotes, $0
 45. [Github Token Leaked publicly for https://github.com/mopub](https://hackerone.com/reports/612231) to X / xAI - 90 upvotes, $0
 46. [Denial of Service | twitter.com & mobile.twitter.com](https://hackerone.com/reports/903740) to X / xAI - 88 upvotes, $1120
-47. [[Studio.twitter.com] See someone else pics ](https://hackerone.com/reports/164649) to X / xAI - 84 upvotes, $0
-48. [[CRITICAL] Full account takeover using CSRF](https://hackerone.com/reports/235642) to X / xAI - 84 upvotes, $0
-49. [Persistent DOM-based XSS in https://help.twitter.com via localStorage](https://hackerone.com/reports/297968) to X / xAI - 84 upvotes, $0
-50. [Able to see Twitter Circle tweets due to improper access control on the "FavoriteTweet" endpoint](https://hackerone.com/reports/1694304) to X / xAI - 84 upvotes, $0
+47. [Able to see Twitter Circle tweets due to improper access control on the "FavoriteTweet" endpoint](https://hackerone.com/reports/1694304) to X / xAI - 87 upvotes, $0
+48. [[Studio.twitter.com] See someone else pics ](https://hackerone.com/reports/164649) to X / xAI - 84 upvotes, $0
+49. [[CRITICAL] Full account takeover using CSRF](https://hackerone.com/reports/235642) to X / xAI - 84 upvotes, $0
+50. [Persistent DOM-based XSS in https://help.twitter.com via localStorage](https://hackerone.com/reports/297968) to X / xAI - 84 upvotes, $0
 51. [Html Injection and Possible XSS in sms-be-vip.twitter.com](https://hackerone.com/reports/150179) to X / xAI - 83 upvotes, $0
-52. [Incorrect details on OAuth permissions screen allows DMs to be read without permission](https://hackerone.com/reports/434763) to X / xAI - 78 upvotes, $2940
-53. [Ability to see hidden likes](https://hackerone.com/reports/2140960) to X / xAI - 78 upvotes, $0
-54. [Ability to getting Twitter Blue verified badge without purchase it](https://hackerone.com/reports/1841064) to X / xAI - 77 upvotes, $0
+52. [Ability to see hidden likes](https://hackerone.com/reports/2140960) to X / xAI - 79 upvotes, $0
+53. [Incorrect details on OAuth permissions screen allows DMs to be read without permission](https://hackerone.com/reports/434763) to X / xAI - 78 upvotes, $2940
+54. [Ability to getting Twitter Blue verified badge without purchase it](https://hackerone.com/reports/1841064) to X / xAI - 78 upvotes, $0
 55. [Multiple XSS on account settings that can hijack any users in the company. ](https://hackerone.com/reports/503298) to X / xAI - 73 upvotes, $700
-56. [[dev.twitter.com] XSS and Open Redirect](https://hackerone.com/reports/260744) to X / xAI - 71 upvotes, $1120
-57. [CSRF on Periscope Web OAuth authorization endpoint ](https://hackerone.com/reports/215381) to X / xAI - 71 upvotes, $0
+56. [CSRF on Periscope Web OAuth authorization endpoint ](https://hackerone.com/reports/215381) to X / xAI - 72 upvotes, $0
+57. [[dev.twitter.com] XSS and Open Redirect](https://hackerone.com/reports/260744) to X / xAI - 71 upvotes, $1120
 58. [Subdomain takeover of images.crossinstall.com](https://hackerone.com/reports/1406335) to X / xAI - 69 upvotes, $0
 59. [Chained open redirects and use of Ideographic Full Stop defeat Twitter's  approach to blocking links](https://hackerone.com/reports/1032610) to X / xAI - 68 upvotes, $560
 60. [Denial of Service  [Chrome]](https://hackerone.com/reports/921286) to X / xAI - 66 upvotes, $560
@@ -68,16 +68,16 @@ Top reports from X / xAI program at HackerOne:
 66. [HTTP Response Splitting (CRLF injection) in report_story](https://hackerone.com/reports/52042) to X / xAI - 58 upvotes, $0
 67. [NO username used in authenthication to www.mopub.com leading to direct password submission which  has unlimited submission rate.](https://hackerone.com/reports/790854) to X / xAI - 58 upvotes, $0
 68. [Periscope iOS app CSRF in follow action due to deeplink](https://hackerone.com/reports/805073) to X / xAI - 57 upvotes, $2940
-69. [Bypassing x profile verification to receive instant blue checkmark and unlimited profile changes](https://hackerone.com/reports/2257374) to X / xAI - 56 upvotes, $250
+69. [Bypassing x profile verification to receive instant blue checkmark and unlimited profile changes](https://hackerone.com/reports/2257374) to X / xAI - 57 upvotes, $250
 70. [Ability to bruteforce mopub account’s password due to lack of rate limitation protection using {ip rotation techniques}](https://hackerone.com/reports/819930) to X / xAI - 55 upvotes, $420
 71. [Subdomain takeover on dev-admin.periscope.tv](https://hackerone.com/reports/531890) to X / xAI - 55 upvotes, $0
 72. [Bypass Password Authentication to Update the Password](https://hackerone.com/reports/970157) to X / xAI - 55 upvotes, $0
 73. [DOM based cookie bomb](https://hackerone.com/reports/57356) to X / xAI - 53 upvotes, $0
 74. [Open Redirect on https://www.twitterflightschool.com/widgets/experience?destination_url=https://evil.com](https://hackerone.com/reports/1073565) to X / xAI - 52 upvotes, $0
-75. [URGENT - Subdomain Takeover on media.vine.co due to unclaimed domain pointing to AWS](https://hackerone.com/reports/32825) to X / xAI - 50 upvotes, $0
-76. [reverb.twitter.com redirects to vulnerable reverb.guru](https://hackerone.com/reports/158148) to X / xAI - 50 upvotes, $0
-77. [DOMXSS in Tweetdeck](https://hackerone.com/reports/119471) to X / xAI - 50 upvotes, $0
-78. [csp bypass + xss](https://hackerone.com/reports/153666) to X / xAI - 50 upvotes, $0
+75. [csp bypass + xss](https://hackerone.com/reports/153666) to X / xAI - 51 upvotes, $0
+76. [URGENT - Subdomain Takeover on media.vine.co due to unclaimed domain pointing to AWS](https://hackerone.com/reports/32825) to X / xAI - 50 upvotes, $0
+77. [reverb.twitter.com redirects to vulnerable reverb.guru](https://hackerone.com/reports/158148) to X / xAI - 50 upvotes, $0
+78. [DOMXSS in Tweetdeck](https://hackerone.com/reports/119471) to X / xAI - 50 upvotes, $0
 79. [Stealing User emails by clickjacking cards.twitter.com/xxx/xxx](https://hackerone.com/reports/154963) to X / xAI - 49 upvotes, $0
 80. [Tracking of users on third-party websites using the Twitter cookie, due to a flaw in authenticating image requests](https://hackerone.com/reports/329957) to X / xAI - 49 upvotes, $0
 81. [Opportunity to obtain private tweets through search widget preview caches](https://hackerone.com/reports/263760) to X / xAI - 48 upvotes, $1120
@@ -112,13 +112,13 @@ Top reports from X / xAI program at HackerOne:
 110. [HTTP Response Splitting (CRLF injection) due to headers overflow](https://hackerone.com/reports/53843) to X / xAI - 29 upvotes, $0
 111. [[sms-be-vip.twitter.com] vulnerable to Jetleak](https://hackerone.com/reports/143935) to X / xAI - 28 upvotes, $1260
 112. [POODLE SSLv3 bug on multiple twitter smtp servers (mx3.twitter.com,199.59.148.204,199.16.156.108 and 199.59.148.204)](https://hackerone.com/reports/288966) to X / xAI - 28 upvotes, $0
-113. [Identify the mobile number of a twitter user](https://hackerone.com/reports/1225164) to X / xAI - 27 upvotes, $560
-114. [Remote 0click exfiltration of Safari user's IP address](https://hackerone.com/reports/1392211) to X / xAI - 27 upvotes, $560
-115. [Vine - overwrite account associated with email via android application](https://hackerone.com/reports/187714) to X / xAI - 27 upvotes, $280
-116. [CORS misconfig | Account Takeover](https://hackerone.com/reports/426147) to X / xAI - 27 upvotes, $0
-117. [Information Exposure Through Directory Listing vulnerability on 8 vcache**.usw2.snappytv.com websites](https://hackerone.com/reports/438299) to X / xAI - 27 upvotes, $0
-118. [Twitter Media Studio Source Information Disclosure With Analyst Role](https://hackerone.com/reports/961757) to X / xAI - 27 upvotes, $0
-119. [Information Disclosure through .DS_Store in ██████████](https://hackerone.com/reports/142549) to X / xAI - 26 upvotes, $560
+113. [Information Disclosure through .DS_Store in ██████████](https://hackerone.com/reports/142549) to X / xAI - 27 upvotes, $560
+114. [Identify the mobile number of a twitter user](https://hackerone.com/reports/1225164) to X / xAI - 27 upvotes, $560
+115. [Remote 0click exfiltration of Safari user's IP address](https://hackerone.com/reports/1392211) to X / xAI - 27 upvotes, $560
+116. [Vine - overwrite account associated with email via android application](https://hackerone.com/reports/187714) to X / xAI - 27 upvotes, $280
+117. [CORS misconfig | Account Takeover](https://hackerone.com/reports/426147) to X / xAI - 27 upvotes, $0
+118. [Information Exposure Through Directory Listing vulnerability on 8 vcache**.usw2.snappytv.com websites](https://hackerone.com/reports/438299) to X / xAI - 27 upvotes, $0
+119. [Twitter Media Studio Source Information Disclosure With Analyst Role](https://hackerone.com/reports/961757) to X / xAI - 27 upvotes, $0
 120. [The Deleted Polls is Still Accessable after 30 Days](https://hackerone.com/reports/1015373) to X / xAI - 26 upvotes, $560
 121. [[Bypass fixed #664038 and #519059] Application settings change settings that have been set by the user](https://hackerone.com/reports/712344) to X / xAI - 26 upvotes, $0
 122. [cookie injection allow dos attack to periscope.tv](https://hackerone.com/reports/583819) to X / xAI - 25 upvotes, $560
@@ -196,26 +196,26 @@ Top reports from X / xAI program at HackerOne:
 194. [HTML/XSS rendered in Android App of Crashlytics through fabric.io](https://hackerone.com/reports/41856) to X / xAI - 4 upvotes, $0
 195. [XSS in original referrer after follow](https://hackerone.com/reports/50134) to X / xAI - 4 upvotes, $0
 196. [getting emails of users/removing them from victims account [using typical attack]](https://hackerone.com/reports/35287) to X / xAI - 4 upvotes, $0
-197. [Sub-Domain Takeover](https://hackerone.com/reports/119220) to X / xAI - 4 upvotes, $0
-198. [xss in DM group name in twitter](https://hackerone.com/reports/129436) to X / xAI - 4 upvotes, $0
-199. [List of a ton of internal twitter servers available on GitHub](https://hackerone.com/reports/137404) to X / xAI - 4 upvotes, $0
-200. [DOM Cross-Site Scripting ( XSS )](https://hackerone.com/reports/33091) to X / xAI - 3 upvotes, $1400
-201. [Fabric.io - an app admin can delete team members from other user apps](https://hackerone.com/reports/43065) to X / xAI - 3 upvotes, $1120
-202. [Twitter Card - Parent Window Redirection](https://hackerone.com/reports/46818) to X / xAI - 3 upvotes, $560
-203. [Open redirection in fabric.io](https://hackerone.com/reports/39631) to X / xAI - 3 upvotes, $280
-204. [Full Path Disclosure at 27.prd.vine.co](https://hackerone.com/reports/175451) to X / xAI - 3 upvotes, $140
-205. [uclfinal.twitter.com and euro2012.twitter.com are vulnerable to CRIME attack](https://hackerone.com/reports/14199) to X / xAI - 3 upvotes, $0
-206. [Headers Missing](https://hackerone.com/reports/36053) to X / xAI - 3 upvotes, $0
-207. [Token remains alive ever after logging out!](https://hackerone.com/reports/14177) to X / xAI - 3 upvotes, $0
-208. [XSS platform.twitter.com](https://hackerone.com/reports/29328) to X / xAI - 3 upvotes, $0
-209. [Flaw in valid password policy.](https://hackerone.com/reports/33331) to X / xAI - 3 upvotes, $0
-210. [XSS in fabric.io](https://hackerone.com/reports/32519) to X / xAI - 3 upvotes, $0
-211. [Abuse of "Remember Me" functionality.](https://hackerone.com/reports/37822) to X / xAI - 3 upvotes, $0
-212. [User's DM won't deleted after logout from Twitter for iOS (com.atebits.xxx.application-state)](https://hackerone.com/reports/23913) to X / xAI - 3 upvotes, $0
-213. [Redirect URL in /intent/ functionality is not properly escaped](https://hackerone.com/reports/48516) to X / xAI - 3 upvotes, $0
-214. [iOS App can establish Facetime calls without user's permission](https://hackerone.com/reports/28500) to X / xAI - 3 upvotes, $0
-215. [Privecy Issue : view "Protected users" followers and following](https://hackerone.com/reports/56119) to X / xAI - 3 upvotes, $0
-216. [Cross site Port Scanning bug in twitter developers console ](https://hackerone.com/reports/49474) to X / xAI - 3 upvotes, $0
+197. [Cross site Port Scanning bug in twitter developers console ](https://hackerone.com/reports/49474) to X / xAI - 4 upvotes, $0
+198. [Sub-Domain Takeover](https://hackerone.com/reports/119220) to X / xAI - 4 upvotes, $0
+199. [xss in DM group name in twitter](https://hackerone.com/reports/129436) to X / xAI - 4 upvotes, $0
+200. [List of a ton of internal twitter servers available on GitHub](https://hackerone.com/reports/137404) to X / xAI - 4 upvotes, $0
+201. [DOM Cross-Site Scripting ( XSS )](https://hackerone.com/reports/33091) to X / xAI - 3 upvotes, $1400
+202. [Fabric.io - an app admin can delete team members from other user apps](https://hackerone.com/reports/43065) to X / xAI - 3 upvotes, $1120
+203. [Twitter Card - Parent Window Redirection](https://hackerone.com/reports/46818) to X / xAI - 3 upvotes, $560
+204. [Open redirection in fabric.io](https://hackerone.com/reports/39631) to X / xAI - 3 upvotes, $280
+205. [Full Path Disclosure at 27.prd.vine.co](https://hackerone.com/reports/175451) to X / xAI - 3 upvotes, $140
+206. [uclfinal.twitter.com and euro2012.twitter.com are vulnerable to CRIME attack](https://hackerone.com/reports/14199) to X / xAI - 3 upvotes, $0
+207. [Headers Missing](https://hackerone.com/reports/36053) to X / xAI - 3 upvotes, $0
+208. [Token remains alive ever after logging out!](https://hackerone.com/reports/14177) to X / xAI - 3 upvotes, $0
+209. [XSS platform.twitter.com](https://hackerone.com/reports/29328) to X / xAI - 3 upvotes, $0
+210. [Flaw in valid password policy.](https://hackerone.com/reports/33331) to X / xAI - 3 upvotes, $0
+211. [XSS in fabric.io](https://hackerone.com/reports/32519) to X / xAI - 3 upvotes, $0
+212. [Abuse of "Remember Me" functionality.](https://hackerone.com/reports/37822) to X / xAI - 3 upvotes, $0
+213. [User's DM won't deleted after logout from Twitter for iOS (com.atebits.xxx.application-state)](https://hackerone.com/reports/23913) to X / xAI - 3 upvotes, $0
+214. [Redirect URL in /intent/ functionality is not properly escaped](https://hackerone.com/reports/48516) to X / xAI - 3 upvotes, $0
+215. [iOS App can establish Facetime calls without user's permission](https://hackerone.com/reports/28500) to X / xAI - 3 upvotes, $0
+216. [Privecy Issue : view "Protected users" followers and following](https://hackerone.com/reports/56119) to X / xAI - 3 upvotes, $0
 217. [Subdomain Expired](https://hackerone.com/reports/101104) to X / xAI - 3 upvotes, $0
 218. [Can see private tweets via keyword searches on tweetdeck](https://hackerone.com/reports/97161) to X / xAI - 3 upvotes, $0
 219. [Global defaming of any twitter user](https://hackerone.com/reports/434689) to X / xAI - 3 upvotes, $0

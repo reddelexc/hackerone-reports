@@ -2,15 +2,15 @@ Top reports from Brave Software program at HackerOne:
 
 1. [Brave Browser Tor Window leaks user's real IP to the external DNS server](https://hackerone.com/reports/1077022) to Brave Software - 280 upvotes, $0
 2. [Open redirect due to scanning QR code via brave browser](https://hackerone.com/reports/1946534) to Brave Software - 144 upvotes, $0
-3. [Stored XSS in localhost:* via integrated torrent downloader](https://hackerone.com/reports/681617) to Brave Software - 123 upvotes, $0
+3. [Stored XSS in localhost:* via integrated torrent downloader](https://hackerone.com/reports/681617) to Brave Software - 124 upvotes, $0
 4. [Null Pointer Dereference by Crafted Response from AI Model](https://hackerone.com/reports/2958097) to Brave Software - 114 upvotes, $100
 5. [ Incorrect security UI of files' download source on brave MacOS](https://hackerone.com/reports/2888770) to Brave Software - 86 upvotes, $0
 6. [Cookie steal through content Uri](https://hackerone.com/reports/876192) to Brave Software - 78 upvotes, $500
-7. [Local files reading from the web using `brave://`](https://hackerone.com/reports/390013) to Brave Software - 74 upvotes, $0
-8. [Prompt Injection via GitHub Patch in Brave AI Chat (Leo)](https://hackerone.com/reports/3086301) to Brave Software - 74 upvotes, $0
+7. [Prompt Injection via GitHub Patch in Brave AI Chat (Leo)](https://hackerone.com/reports/3086301) to Brave Software - 75 upvotes, $0
+8. [Local files reading from the web using `brave://`](https://hackerone.com/reports/390013) to Brave Software - 74 upvotes, $0
 9. [New XSS vector in ReaderMode with %READER-TITLE-NONCE%](https://hackerone.com/reports/1436142) to Brave Software - 72 upvotes, $1000
-10. [UXss on brave browser via scan QR Code](https://hackerone.com/reports/1884042) to Brave Software - 68 upvotes, $500
-11. [SameSite restrictions are lifted, and SameSite:Strict cookie are being sent.](https://hackerone.com/reports/3253725) to Brave Software - 66 upvotes, $500
+10. [SameSite restrictions are lifted, and SameSite:Strict cookie are being sent.](https://hackerone.com/reports/3253725) to Brave Software - 69 upvotes, $500
+11. [UXss on brave browser via scan QR Code](https://hackerone.com/reports/1884042) to Brave Software - 68 upvotes, $500
 12. [Sending arbitrary IPC messages via overriding Function.prototype.apply](https://hackerone.com/reports/188086) to Brave Software - 53 upvotes, $5300
 13. [Lack of quarantine meta-attribute for downloaded files leads to GateKeeper bypass](https://hackerone.com/reports/374106) to Brave Software - 52 upvotes, $0
 14. [DNS Leaks when using any VPN Browser extension with Brave Shield enabled](https://hackerone.com/reports/1203842) to Brave Software - 51 upvotes, $0

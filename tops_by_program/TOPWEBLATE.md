@@ -1,14 +1,14 @@
 Top reports from Weblate program at HackerOne:
 
-1. [exposure of personal IP address via email.](https://hackerone.com/reports/3179850) to Weblate - 59 upvotes, $0
+1. [exposure of personal IP address via email.](https://hackerone.com/reports/3179850) to Weblate - 60 upvotes, $0
 2. [Reset password cookie leads to account takeover](https://hackerone.com/reports/1004536) to Weblate - 37 upvotes, $0
-3. [no captcha for register user and weak question attacker can spam email](https://hackerone.com/reports/236398) to Weblate - 28 upvotes, $0
-4. [CSRF with logout action](https://hackerone.com/reports/1971589) to Weblate - 28 upvotes, $0
+3. [CSRF with logout action](https://hackerone.com/reports/1971589) to Weblate - 29 upvotes, $0
+4. [no captcha for register user and weak question attacker can spam email](https://hackerone.com/reports/236398) to Weblate - 28 upvotes, $0
 5. [Open Github Repo Leaking WEBLATE SECRET KEY](https://hackerone.com/reports/942146) to Weblate - 22 upvotes, $0
 6. [HTML injection and information disclosure in support panel](https://hackerone.com/reports/634312) to Weblate - 20 upvotes, $0
-7. [Race Condition allows to get more free trials and get more than 100 languages and strings for free](https://hackerone.com/reports/1087188) to Weblate - 18 upvotes, $0
-8. [Rate Limit Bypass on login Page](https://hackerone.com/reports/224460) to Weblate - 17 upvotes, $0
-9. [Uploaded XLF files result in External Entity Execution](https://hackerone.com/reports/232614) to Weblate - 17 upvotes, $0
+7. [Uploaded XLF files result in External Entity Execution](https://hackerone.com/reports/232614) to Weblate - 18 upvotes, $0
+8. [Race Condition allows to get more free trials and get more than 100 languages and strings for free](https://hackerone.com/reports/1087188) to Weblate - 18 upvotes, $0
+9. [Rate Limit Bypass on login Page](https://hackerone.com/reports/224460) to Weblate - 17 upvotes, $0
 10. [Broken Authentication – Session Token bug](https://hackerone.com/reports/400826) to Weblate - 17 upvotes, $0
 11. [Insecure Account Removal #2](https://hackerone.com/reports/229532) to Weblate - 15 upvotes, $0
 12. [Password Restriction](https://hackerone.com/reports/229920) to Weblate - 12 upvotes, $0
@@ -31,21 +31,21 @@ Top reports from Weblate program at HackerOne:
 29. [Invalidate session after password reset - hosted website](https://hackerone.com/reports/224362) to Weblate - 8 upvotes, $0
 30. [Missing Restriction On String Size](https://hackerone.com/reports/257376) to Weblate - 8 upvotes, $0
 31. [Reset password more than once with a reset link #2](https://hackerone.com/reports/245450) to Weblate - 8 upvotes, $0
-32. [No rate Limit on Add new Translation Project ](https://hackerone.com/reports/1238749) to Weblate - 8 upvotes, $0
-33. [CSRF to Connect third party Account](https://hackerone.com/reports/225100) to Weblate - 7 upvotes, $0
-34. [No Password Length Restriction leads to Denial of Service](https://hackerone.com/reports/223854) to Weblate - 7 upvotes, $0
-35. [Weak e-mail change functionality could lead to account takeover](https://hackerone.com/reports/223461) to Weblate - 7 upvotes, $0
-36. [CSV Injection with the CSV export feature](https://hackerone.com/reports/223344) to Weblate - 7 upvotes, $0
-37. [CSRF : Reset API ](https://hackerone.com/reports/223333) to Weblate - 7 upvotes, $0
-38. [No BruteForce Protection](https://hackerone.com/reports/223337) to Weblate - 7 upvotes, $0
-39. [Missing restriction on string size of Full Name at https://demo.weblate.org/accounts/register/](https://hackerone.com/reports/223454) to Weblate - 7 upvotes, $0
-40. [Running 2 accounts with a single email](https://hackerone.com/reports/224072) to Weblate - 7 upvotes, $0
-41. [Captcha Bypass at Email Reset can lead to Spamming users.](https://hackerone.com/reports/229541) to Weblate - 7 upvotes, $0
-42. [Weblate |Security Misconfiguration| Method Enumeration Possible on domain ](https://hackerone.com/reports/230648) to Weblate - 7 upvotes, $0
-43. [Password token validation in Weblate Bypass #2](https://hackerone.com/reports/244287) to Weblate - 7 upvotes, $0
-44. [Reset password more than once with a reset link](https://hackerone.com/reports/243594) to Weblate - 7 upvotes, $0
-45. [Running 2 accounts with a single email [Part 2]](https://hackerone.com/reports/241608) to Weblate - 7 upvotes, $0
-46. [Running 2 accounts with a single email #3](https://hackerone.com/reports/245304) to Weblate - 7 upvotes, $0
+32. [Running 2 accounts with a single email #3](https://hackerone.com/reports/245304) to Weblate - 8 upvotes, $0
+33. [No rate Limit on Add new Translation Project ](https://hackerone.com/reports/1238749) to Weblate - 8 upvotes, $0
+34. [CSRF to Connect third party Account](https://hackerone.com/reports/225100) to Weblate - 7 upvotes, $0
+35. [No Password Length Restriction leads to Denial of Service](https://hackerone.com/reports/223854) to Weblate - 7 upvotes, $0
+36. [Weak e-mail change functionality could lead to account takeover](https://hackerone.com/reports/223461) to Weblate - 7 upvotes, $0
+37. [CSV Injection with the CSV export feature](https://hackerone.com/reports/223344) to Weblate - 7 upvotes, $0
+38. [CSRF : Reset API ](https://hackerone.com/reports/223333) to Weblate - 7 upvotes, $0
+39. [No BruteForce Protection](https://hackerone.com/reports/223337) to Weblate - 7 upvotes, $0
+40. [Missing restriction on string size of Full Name at https://demo.weblate.org/accounts/register/](https://hackerone.com/reports/223454) to Weblate - 7 upvotes, $0
+41. [Running 2 accounts with a single email](https://hackerone.com/reports/224072) to Weblate - 7 upvotes, $0
+42. [Captcha Bypass at Email Reset can lead to Spamming users.](https://hackerone.com/reports/229541) to Weblate - 7 upvotes, $0
+43. [Weblate |Security Misconfiguration| Method Enumeration Possible on domain ](https://hackerone.com/reports/230648) to Weblate - 7 upvotes, $0
+44. [Password token validation in Weblate Bypass #2](https://hackerone.com/reports/244287) to Weblate - 7 upvotes, $0
+45. [Reset password more than once with a reset link](https://hackerone.com/reports/243594) to Weblate - 7 upvotes, $0
+46. [Running 2 accounts with a single email [Part 2]](https://hackerone.com/reports/241608) to Weblate - 7 upvotes, $0
 47. [Browser Self XSS Protection not implemented](https://hackerone.com/reports/400781) to Weblate - 7 upvotes, $0
 48. [Stored XSS @ /engage/\<project_slug\>](https://hackerone.com/reports/472391) to Weblate - 7 upvotes, $0
 49. [Testing flow includes a DeepSource secret](https://hackerone.com/reports/1927499) to Weblate - 7 upvotes, $0
@@ -88,35 +88,35 @@ Top reports from Weblate program at HackerOne:
 86. [Improper Cookie expiration | Cookies Expiration Set to Future ](https://hackerone.com/reports/232306) to Weblate - 5 upvotes, $0
 87. [Add another email address without verification](https://hackerone.com/reports/265987) to Weblate - 5 upvotes, $0
 88. [Tab nabbing via window.opener](https://hackerone.com/reports/403891) to Weblate - 5 upvotes, $0
-89. [No Rate Limit  On Add new word](https://hackerone.com/reports/479021) to Weblate - 5 upvotes, $0
-90. [Email verification over an unencrypted channel](https://hackerone.com/reports/224287) to Weblate - 4 upvotes, $0
-91. [Open Redirect via "next" parameter in third-party authentication](https://hackerone.com/reports/223326) to Weblate - 4 upvotes, $0
-92. [CSV Injection with the CVS export feature - Glossary](https://hackerone.com/reports/224291) to Weblate - 4 upvotes, $0
-93. [[demo.weblate.org] Stored Self-XSS via Editor Link in Profile](https://hackerone.com/reports/223331) to Weblate - 4 upvotes, $0
-94. [Abuse of Api that causes spamming users and possible DOS due to missing rate limit on contact form](https://hackerone.com/reports/223542) to Weblate - 4 upvotes, $0
-95. [Missing DMARC on weblate.org](https://hackerone.com/reports/223545) to Weblate - 4 upvotes, $0
-96. [No expiration of session ID after Password change](https://hackerone.com/reports/223327) to Weblate - 4 upvotes, $0
-97. [Content Spoofing in error message](https://hackerone.com/reports/223456) to Weblate - 4 upvotes, $0
-98. [No notificatoin sent on email after account deletion.](https://hackerone.com/reports/229909) to Weblate - 4 upvotes, $0
-99. [API Does Not Apply Access Controls to Translations](https://hackerone.com/reports/232994) to Weblate - 4 upvotes, $0
-100. [CSRF bypass ( Delate Source Translation From dictionaries ) in demo.weblate.org](https://hackerone.com/reports/230863) to Weblate - 4 upvotes, $0
-101. [Weblate- Banner Grabbing-Ngnix Server version](https://hackerone.com/reports/230633) to Weblate - 4 upvotes, $0
-102. [Existing sessions valid after removing third party auth](https://hackerone.com/reports/223475) to Weblate - 4 upvotes, $0
-103. [Improper validation of unicode characters](https://hackerone.com/reports/229483) to Weblate - 4 upvotes, $0
-104. [Bypassing captcha in registration on Hosted site](https://hackerone.com/reports/224342) to Weblate - 4 upvotes, $0
-105. [No filteration of null characters in name field](https://hackerone.com/reports/242945) to Weblate - 4 upvotes, $0
-106. [Error Message When Changing Username](https://hackerone.com/reports/243664) to Weblate - 4 upvotes, $0
-107. [Previous password could set as new password](https://hackerone.com/reports/243616) to Weblate - 4 upvotes, $0
-108. [[debian.weblate.org]-Missing SPF Record](https://hackerone.com/reports/245518) to Weblate - 4 upvotes, $0
-109. [Improper validation of unicode characters ](https://hackerone.com/reports/278718) to Weblate - 4 upvotes, $0
-110. [ Account Restore / Reactivating an old email via old reset link](https://hackerone.com/reports/275303) to Weblate - 4 upvotes, $0
-111. [Audit log validation](https://hackerone.com/reports/296632) to Weblate - 4 upvotes, $0
-112. [Open port leads to information disclosure](https://hackerone.com/reports/223421) to Weblate - 4 upvotes, $0
-113. [Send Empty CSRF leads to log out user on [https://hosted.weblate.org/accounts/profile]](https://hackerone.com/reports/1003468) to Weblate - 4 upvotes, $0
-114. [Open redirect in Signing in via Social Sites](https://hackerone.com/reports/223718) to Weblate - 3 upvotes, $0
-115. [Content Spoofing](https://hackerone.com/reports/223630) to Weblate - 3 upvotes, $0
-116. [Already Registered Email Disclosure](https://hackerone.com/reports/223343) to Weblate - 3 upvotes, $0
-117. [User Enumeration when adding email to account](https://hackerone.com/reports/223531) to Weblate - 3 upvotes, $0
+89. [Open port leads to information disclosure](https://hackerone.com/reports/223421) to Weblate - 5 upvotes, $0
+90. [No Rate Limit  On Add new word](https://hackerone.com/reports/479021) to Weblate - 5 upvotes, $0
+91. [Send Empty CSRF leads to log out user on [https://hosted.weblate.org/accounts/profile]](https://hackerone.com/reports/1003468) to Weblate - 5 upvotes, $0
+92. [Email verification over an unencrypted channel](https://hackerone.com/reports/224287) to Weblate - 4 upvotes, $0
+93. [Open Redirect via "next" parameter in third-party authentication](https://hackerone.com/reports/223326) to Weblate - 4 upvotes, $0
+94. [CSV Injection with the CVS export feature - Glossary](https://hackerone.com/reports/224291) to Weblate - 4 upvotes, $0
+95. [[demo.weblate.org] Stored Self-XSS via Editor Link in Profile](https://hackerone.com/reports/223331) to Weblate - 4 upvotes, $0
+96. [Abuse of Api that causes spamming users and possible DOS due to missing rate limit on contact form](https://hackerone.com/reports/223542) to Weblate - 4 upvotes, $0
+97. [Missing DMARC on weblate.org](https://hackerone.com/reports/223545) to Weblate - 4 upvotes, $0
+98. [No expiration of session ID after Password change](https://hackerone.com/reports/223327) to Weblate - 4 upvotes, $0
+99. [Content Spoofing in error message](https://hackerone.com/reports/223456) to Weblate - 4 upvotes, $0
+100. [User Enumeration when adding email to account](https://hackerone.com/reports/223531) to Weblate - 4 upvotes, $0
+101. [No notificatoin sent on email after account deletion.](https://hackerone.com/reports/229909) to Weblate - 4 upvotes, $0
+102. [API Does Not Apply Access Controls to Translations](https://hackerone.com/reports/232994) to Weblate - 4 upvotes, $0
+103. [CSRF bypass ( Delate Source Translation From dictionaries ) in demo.weblate.org](https://hackerone.com/reports/230863) to Weblate - 4 upvotes, $0
+104. [Weblate- Banner Grabbing-Ngnix Server version](https://hackerone.com/reports/230633) to Weblate - 4 upvotes, $0
+105. [Existing sessions valid after removing third party auth](https://hackerone.com/reports/223475) to Weblate - 4 upvotes, $0
+106. [Improper validation of unicode characters](https://hackerone.com/reports/229483) to Weblate - 4 upvotes, $0
+107. [Bypassing captcha in registration on Hosted site](https://hackerone.com/reports/224342) to Weblate - 4 upvotes, $0
+108. [No filteration of null characters in name field](https://hackerone.com/reports/242945) to Weblate - 4 upvotes, $0
+109. [Error Message When Changing Username](https://hackerone.com/reports/243664) to Weblate - 4 upvotes, $0
+110. [Previous password could set as new password](https://hackerone.com/reports/243616) to Weblate - 4 upvotes, $0
+111. [[debian.weblate.org]-Missing SPF Record](https://hackerone.com/reports/245518) to Weblate - 4 upvotes, $0
+112. [Improper validation of unicode characters ](https://hackerone.com/reports/278718) to Weblate - 4 upvotes, $0
+113. [ Account Restore / Reactivating an old email via old reset link](https://hackerone.com/reports/275303) to Weblate - 4 upvotes, $0
+114. [Audit log validation](https://hackerone.com/reports/296632) to Weblate - 4 upvotes, $0
+115. [Open redirect in Signing in via Social Sites](https://hackerone.com/reports/223718) to Weblate - 3 upvotes, $0
+116. [Content Spoofing](https://hackerone.com/reports/223630) to Weblate - 3 upvotes, $0
+117. [Already Registered Email Disclosure](https://hackerone.com/reports/223343) to Weblate - 3 upvotes, $0
 118. [Self XSS at translation page through Editor Link at demo.weblate.org](https://hackerone.com/reports/223692) to Weblate - 3 upvotes, $0
 119. [Notify user about password change](https://hackerone.com/reports/223609) to Weblate - 3 upvotes, $0
 120. [HttpOnly Flag not set ](https://hackerone.com/reports/224006) to Weblate - 3 upvotes, $0
