@@ -43,6 +43,7 @@ Tops by bug type.
 - [Top Authorization Bypass reports](tops_by_bug_type/TOPAUTHORIZATION.md)
 - [Top Authentication Bypass reports](tops_by_bug_type/TOPAUTH.md)
 - [Top MFA reports](tops_by_bug_type/TOPMFA.md)
+- [Top SAML reports](tops_by_bug_type/TOPSAML.md)
 
 Tops by program.
 
