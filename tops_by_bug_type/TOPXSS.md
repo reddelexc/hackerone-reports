@@ -1,48 +1,48 @@
 Top XSS reports from HackerOne:
 
-1. [Bypass for #488147 enables stored XSS on https://paypal.com/signin again](https://hackerone.com/reports/510152) to PayPal - 2671 upvotes, $20000
+1. [Bypass for #488147 enables stored XSS on https://paypal.com/signin again](https://hackerone.com/reports/510152) to PayPal - 2675 upvotes, $20000
 2. [Reflected XSS on https://www.glassdoor.com/employers/sem-dual-lp/](https://hackerone.com/reports/846338) to Glassdoor - 684 upvotes, $0
 3. [Stored XSS on https://paypal.com/signin via cache poisoning](https://hackerone.com/reports/488147) to PayPal - 682 upvotes, $18900
-4. [Stored XSS in Wiki pages](https://hackerone.com/reports/526325) to GitLab - 619 upvotes, $0
-5. [Stored XSS on imgur profile](https://hackerone.com/reports/484434) to Imgur - 608 upvotes, $0
+4. [Stored XSS in Wiki pages](https://hackerone.com/reports/526325) to GitLab - 621 upvotes, $0
+5. [Stored XSS on imgur profile](https://hackerone.com/reports/484434) to Imgur - 610 upvotes, $0
 6. [One-click account hijack for anyone using Apple sign-in with Reddit, due to response-type switch + leaking href to XSS on www.redditmedia.com](https://hackerone.com/reports/1567186) to Reddit - 503 upvotes, $0
-7. [XSS in steam react chat client](https://hackerone.com/reports/409850) to Valve - 487 upvotes, $7500
-8. [Reflected XSS in OAUTH2 login flow ](https://hackerone.com/reports/697099) to LY Corporation - 485 upvotes, $1989
-9. [Cross-Site-Scripting on www.tiktok.com and m.tiktok.com leading to Data Exfiltration](https://hackerone.com/reports/968082) to TikTok - 467 upvotes, $0
-10. [XSS vulnerable parameter in a location hash](https://hackerone.com/reports/146336) to Slack - 452 upvotes, $0
+7. [XSS in steam react chat client](https://hackerone.com/reports/409850) to Valve - 491 upvotes, $7500
+8. [Reflected XSS in OAUTH2 login flow ](https://hackerone.com/reports/697099) to LY Corporation - 486 upvotes, $1989
+9. [Cross-Site-Scripting on www.tiktok.com and m.tiktok.com leading to Data Exfiltration](https://hackerone.com/reports/968082) to TikTok - 468 upvotes, $0
+10. [XSS vulnerable parameter in a location hash](https://hackerone.com/reports/146336) to Slack - 453 upvotes, $0
 11. [Blind XSS on image upload](https://hackerone.com/reports/1010466) to CS Money - 444 upvotes, $1000
 12. [Panorama UI XSS leads to Remote Code Execution via Kick/Disconnect Message](https://hackerone.com/reports/631956) to Valve - 417 upvotes, $0
 13. [Stored XSS Vulnerability](https://hackerone.com/reports/643908) to WordPress - 402 upvotes, $0
-14. [[accounts.reddit.com] Redirect parameter allows for XSS](https://hackerone.com/reports/1962645) to Reddit - 391 upvotes, $5000
-15. [Reflected XSS on www.hackerone.com and resources.hackerone.com](https://hackerone.com/reports/840759) to HackerOne - 385 upvotes, $500
+14. [[accounts.reddit.com] Redirect parameter allows for XSS](https://hackerone.com/reports/1962645) to Reddit - 393 upvotes, $5000
+15. [Reflected XSS on www.hackerone.com and resources.hackerone.com](https://hackerone.com/reports/840759) to HackerOne - 386 upvotes, $500
 16. [Reflected XSS and sensitive data exposure, including payment details, on lioncityrentals.com.sg](https://hackerone.com/reports/340431) to Uber - 376 upvotes, $4000
-17. [HEY.com email stored XSS](https://hackerone.com/reports/982291) to Basecamp - 357 upvotes, $5000
-18. [Stored XSS in wordpress.com](https://hackerone.com/reports/733248) to Automattic - 355 upvotes, $0
-19. [Blind XSS on Twitter's internal Big Data panel at █████████████](https://hackerone.com/reports/1207040) to X / xAI - 355 upvotes, $0
-20. [Reflected XSS in TikTok endpoints](https://hackerone.com/reports/1350887) to TikTok - 355 upvotes, $0
-21. [XSS while logging using Google](https://hackerone.com/reports/691611) to Shopify - 340 upvotes, $1750
-22. [Stored XSS in Private Message component (BuddyPress)](https://hackerone.com/reports/487081) to WordPress - 336 upvotes, $0
+17. [HEY.com email stored XSS](https://hackerone.com/reports/982291) to Basecamp - 358 upvotes, $5000
+18. [Blind XSS on Twitter's internal Big Data panel at █████████████](https://hackerone.com/reports/1207040) to X / xAI - 357 upvotes, $0
+19. [Stored XSS in wordpress.com](https://hackerone.com/reports/733248) to Automattic - 356 upvotes, $0
+20. [Reflected XSS in TikTok endpoints](https://hackerone.com/reports/1350887) to TikTok - 356 upvotes, $0
+21. [XSS while logging using Google](https://hackerone.com/reports/691611) to Shopify - 341 upvotes, $1750
+22. [Stored XSS in Private Message component (BuddyPress)](https://hackerone.com/reports/487081) to WordPress - 337 upvotes, $0
 23. [DOM XSS on duckduckgo.com search](https://hackerone.com/reports/868934) to DuckDuckGo - 326 upvotes, $0
-24. [Stored XSS in my staff name fired in another your internal panel](https://hackerone.com/reports/946053) to Shopify - 324 upvotes, $0
+24. [Stored XSS in my staff name fired in another your internal panel](https://hackerone.com/reports/946053) to Shopify - 325 upvotes, $0
 25. [yelp.com XSS ATO (via login keylogger, link Google account)](https://hackerone.com/reports/2010530) to Yelp - 321 upvotes, $0
 26. [Reflected XSS](https://hackerone.com/reports/739601) to Bumble - 317 upvotes, $1000
-27. [Stored XSS in markdown via the DesignReferenceFilter ](https://hackerone.com/reports/1212067) to GitLab - 314 upvotes, $16000
-28. [Stored-XSS-ads.tiktok.com](https://hackerone.com/reports/2306491) to TikTok - 309 upvotes, $0
+27. [Stored XSS in markdown via the DesignReferenceFilter ](https://hackerone.com/reports/1212067) to GitLab - 315 upvotes, $16000
+28. [Stored-XSS-ads.tiktok.com](https://hackerone.com/reports/2306491) to TikTok - 310 upvotes, $0
 29. [Stored XSS via Kroki diagram](https://hackerone.com/reports/1731349) to GitLab - 293 upvotes, $13950
-30. [Account takeover through the combination of cookie manipulation and XSS](https://hackerone.com/reports/534450) to Superhuman (formerly Grammarly) - 288 upvotes, $0
+30. [Account takeover through the combination of cookie manipulation and XSS](https://hackerone.com/reports/534450) to Superhuman (formerly Grammarly) - 289 upvotes, $0
 31. [Reflected XSS at https://pay.gold.razer.com escalated to account takeover](https://hackerone.com/reports/723060) to Razer - 287 upvotes, $750
 32. [Cross-site Scripting (XSS) - Stored in RDoc wiki pages](https://hackerone.com/reports/662287) to GitLab - 282 upvotes, $3500
-33. [RichText parser vulnerability in scheduled posts allows XSS](https://hackerone.com/reports/1930763) to Reddit - 276 upvotes, $5000
+33. [RichText parser vulnerability in scheduled posts allows XSS](https://hackerone.com/reports/1930763) to Reddit - 277 upvotes, $5000
 34. [Unrestricted file upload leads to Stored XSS](https://hackerone.com/reports/808862) to Visma Public - 268 upvotes, $250
 35. [Persistent XSS on keybase.io via "payload" field in `/user/sigchain_signature.toffee` template](https://hackerone.com/reports/245296) to Keybase - 266 upvotes, $0
-36. [XSS At "pages.et.uber.com"](https://hackerone.com/reports/156098) to Uber - 259 upvotes, $0
+36. [XSS At "pages.et.uber.com"](https://hackerone.com/reports/156098) to Uber - 260 upvotes, $0
 37. [XSS and Open Redirect on MoPub Login](https://hackerone.com/reports/683298) to X / xAI - 247 upvotes, $1540
 38. [Arbitrary File Upload to Stored XSS](https://hackerone.com/reports/808821) to Visma Public - 245 upvotes, $250
 39. [Stored xss in address field in billing activity at https://shop.aaf.com/Order/step1/index.cfm](https://hackerone.com/reports/411690) to Alliance of American Football  - 244 upvotes, $0
-40. [XSS at jamfpro.shopifycloud.com](https://hackerone.com/reports/1444682) to Shopify - 236 upvotes, $9400
+40. [XSS at jamfpro.shopifycloud.com](https://hackerone.com/reports/1444682) to Shopify - 237 upvotes, $9400
 41. [Cross-site Scripting (XSS) on HackerOne careers page](https://hackerone.com/reports/474656) to HackerOne - 236 upvotes, $500
-42. [Reflected XSS on www.hackerone.com via Wistia embed code](https://hackerone.com/reports/986386) to HackerOne - 235 upvotes, $500
-43. [XSS via Direct Message deeplinks](https://hackerone.com/reports/341908) to X / xAI - 234 upvotes, $0
+42. [Reflected XSS on www.hackerone.com via Wistia embed code](https://hackerone.com/reports/986386) to HackerOne - 236 upvotes, $500
+43. [XSS via Direct Message deeplinks](https://hackerone.com/reports/341908) to X / xAI - 235 upvotes, $0
 44. [Stored XSS on reports.](https://hackerone.com/reports/485748) to X / xAI - 230 upvotes, $700
 45. [Unsafe charts embedding implementation leads to cross-account stored XSS and SSRF](https://hackerone.com/reports/708589) to New Relic - 225 upvotes, $0
 46. [Stored XSS in developer.uber.com](https://hackerone.com/reports/131450) to Uber - 223 upvotes, $7500
@@ -50,32 +50,32 @@ Top XSS reports from HackerOne:
 48. [[www.zomato.com] Blind XSS on one of the Admin Dashboard](https://hackerone.com/reports/724889) to Eternal - 220 upvotes, $750
 49. [[panel.city-mobil.ru/admin/] Blind XSS into username](https://hackerone.com/reports/746505) to Mail.ru - 219 upvotes, $0
 50. [XSS via Mod Log Removed Posts](https://hackerone.com/reports/1504410) to Reddit - 216 upvotes, $0
-51. [DOM Based XSS in www.hackerone.com via PostMessage](https://hackerone.com/reports/398054) to HackerOne - 205 upvotes, $500
-52. [Ability to create own account UUID leads to stored XSS](https://hackerone.com/reports/249131) to Upserve  - 204 upvotes, $1500
-53. [Stored XSS on TikTok Ads](https://hackerone.com/reports/1504202) to TikTok - 200 upvotes, $2500
+51. [DOM Based XSS in www.hackerone.com via PostMessage](https://hackerone.com/reports/398054) to HackerOne - 206 upvotes, $500
+52. [Ability to create own account UUID leads to stored XSS](https://hackerone.com/reports/249131) to Upserve  - 205 upvotes, $1500
+53. [Stored XSS on TikTok Ads](https://hackerone.com/reports/1504202) to TikTok - 200 upvotes, $0
 54. [XSS and cache poisoning via upload.twitter.com on ton.twitter.com](https://hackerone.com/reports/84601) to X / xAI - 198 upvotes, $0
-55. [H1514 DOMXSS on Embedded SDK via Shopify.API.setWindowLocation abusing cookie Stuffing](https://hackerone.com/reports/422043) to Shopify - 194 upvotes, $0
-56. [XSS STORED AT socialclub.rockstargames.com (add friend request from profile attacker)](https://hackerone.com/reports/220852) to Rockstar Games - 193 upvotes, $0
-57. [Reflected XSS on Pangle Endpoint ](https://hackerone.com/reports/2352968) to TikTok - 192 upvotes, $5000
-58. [Stored Xss Vulnerability on ████████](https://hackerone.com/reports/380103) to U.S. Dept Of Defense - 191 upvotes, $0
+55. [H1514 DOMXSS on Embedded SDK via Shopify.API.setWindowLocation abusing cookie Stuffing](https://hackerone.com/reports/422043) to Shopify - 195 upvotes, $0
+56. [XSS STORED AT socialclub.rockstargames.com (add friend request from profile attacker)](https://hackerone.com/reports/220852) to Rockstar Games - 194 upvotes, $0
+57. [Reflected XSS on Pangle Endpoint ](https://hackerone.com/reports/2352968) to TikTok - 193 upvotes, $5000
+58. [Stored Xss Vulnerability on ████████](https://hackerone.com/reports/380103) to U.S. Dept Of Defense - 192 upvotes, $0
 59. [Chaining Bugs: Leakage of CSRF token which leads to Stored XSS and Account Takeover (xs1.tribalwars.cash)](https://hackerone.com/reports/604120) to InnoGames - 186 upvotes, $1100
-60. [Reflected Cross site Scripting (XSS) on www.starbucks.com](https://hackerone.com/reports/438240) to Starbucks - 180 upvotes, $0
+60. [Reflected Cross site Scripting (XSS) on www.starbucks.com](https://hackerone.com/reports/438240) to Starbucks - 181 upvotes, $0
 61. [Stored XSS & SSRF in Lark Docs](https://hackerone.com/reports/892049) to Lark Technologies - 177 upvotes, $3000
 62. [XSS on Desktop Client](https://hackerone.com/reports/473950) to Keybase - 175 upvotes, $0
 63. [XSS  at https://exchangemarketplace.com/blogsearch](https://hackerone.com/reports/1145162) to Shopify - 173 upvotes, $0
 64. [DOM Based XSS via postMessage at https://inventory.upserve.com/login/](https://hackerone.com/reports/603764) to Upserve  - 170 upvotes, $2500
 65. [Stored-XSS with CSP-bypass via labels' color](https://hackerone.com/reports/1665658) to GitLab - 169 upvotes, $0
-66. [Reflected xss in https://sh.reddit.com](https://hackerone.com/reports/1549206) to Reddit - 162 upvotes, $5000
+66. [Reflected xss in https://sh.reddit.com](https://hackerone.com/reports/1549206) to Reddit - 163 upvotes, $5000
 67. [Stored XSS in Notes (with CSP bypass for gitlab.com)](https://hackerone.com/reports/1481207) to GitLab - 160 upvotes, $13950
-68. [Cross-account stored XSS at embedded charts](https://hackerone.com/reports/709883) to New Relic - 158 upvotes, $0
-69. [XSS in www.shopify.com/markets?utm_source=](https://hackerone.com/reports/1699762) to Shopify - 158 upvotes, $0
-70. [XSS in gist integration](https://hackerone.com/reports/11073) to Slack - 157 upvotes, $500
-71. [xss on https://www.rockstargames.com/GTAOnline/jp/screens/ ](https://hackerone.com/reports/507494) to Rockstar Games - 157 upvotes, $0
+68. [xss on https://www.rockstargames.com/GTAOnline/jp/screens/ ](https://hackerone.com/reports/507494) to Rockstar Games - 158 upvotes, $0
+69. [Cross-account stored XSS at embedded charts](https://hackerone.com/reports/709883) to New Relic - 158 upvotes, $0
+70. [XSS in www.shopify.com/markets?utm_source=](https://hackerone.com/reports/1699762) to Shopify - 158 upvotes, $0
+71. [XSS in gist integration](https://hackerone.com/reports/11073) to Slack - 157 upvotes, $500
 72. [IE only: stored Cross-Site Scripting (XSS) vulnerability through Program Asset identifier](https://hackerone.com/reports/449351) to HackerOne - 155 upvotes, $2500
 73. [Prototype Pollution leads to XSS on https://blog.swiftype.com/#__proto__[asd]=alert(document.domain)](https://hackerone.com/reports/998398) to Elastic - 155 upvotes, $0
 74. [XSS Reflected on reddit.com via url path](https://hackerone.com/reports/1051373) to Reddit - 155 upvotes, $0
 75. [Stealing contact form data on www.hackerone.com using Marketo Forms XSS with postMessage frame-jumping and jQuery-JSONP](https://hackerone.com/reports/207042) to HackerOne - 152 upvotes, $0
-76. [Stored XSS in SVG file as data: url](https://hackerone.com/reports/1276742) to Shopify - 147 upvotes, $5300
+76. [Stored XSS in SVG file as data: url](https://hackerone.com/reports/1276742) to Shopify - 148 upvotes, $5300
 77. [Stored XSS in notes (charts) because of insecure chart data JSON generation](https://hackerone.com/reports/507132) to New Relic - 147 upvotes, $0
 78. [Stored XSS in IE11 on hackerone.com via custom fields ](https://hackerone.com/reports/1173040) to HackerOne - 146 upvotes, $0
 79. [#1 XSS on watchdocs.indriverapp.com](https://hackerone.com/reports/2014955) to inDrive - 144 upvotes, $0
@@ -119,61 +119,61 @@ Top XSS reports from HackerOne:
 117. [Cache Poisoning Allows Stored XSS Via hav Cookie Parameter (To Account Takeover)](https://hackerone.com/reports/1760213) to Expedia Group Bug Bounty - 116 upvotes, $0
 118. [Stored XSS in File Upload Leads to Privilege Escalation and Full Workspace Takeover](https://hackerone.com/reports/3115705) to Dust - 115 upvotes, $0
 119. [Reflected XSS on https://www.uber.com ](https://hackerone.com/reports/390386) to Uber - 114 upvotes, $0
-120. [Stored XSS in messages](https://hackerone.com/reports/1669764) to SideFX - 110 upvotes, $500
-121. [Reflected xss on ads.tiktok.com using `from` parameter.](https://hackerone.com/reports/1452375) to TikTok - 110 upvotes, $0
-122. [XSS via JavaScript evaluation of an attacker controlled resource at www.pornhub.com](https://hackerone.com/reports/944518) to Pornhub - 109 upvotes, $250
-123. [XSS at https://www.glassdoor.com/Salary/* via filter.jobTitleExact](https://hackerone.com/reports/789689) to Glassdoor - 108 upvotes, $0
-124. [Stored XSS on any page in most Uber domains](https://hackerone.com/reports/217739) to Uber - 107 upvotes, $6000
-125. [Stored Cross-Site Scripting in mercadopago.com.ar](https://hackerone.com/reports/1955485) to MercadoLibre - 107 upvotes, $0
-126. [Reflected XSS on help.shopify.com](https://hackerone.com/reports/1940245) to Shopify - 106 upvotes, $500
-127. [Stored xss at https://█.8x8.com/api/█/ID](https://hackerone.com/reports/2078490) to 8x8 - 105 upvotes, $1337
-128. [Stored XSS in Shopify Chat ](https://hackerone.com/reports/756729) to Shopify - 105 upvotes, $500
-129. [XSS: Group search terms](https://hackerone.com/reports/396370) to Vanilla - 105 upvotes, $0
-130. [DOM Based XSS in www.hackerone.com via PostMessage (bypass of #398054)](https://hackerone.com/reports/499030) to HackerOne - 105 upvotes, $0
-131. [XSS in Email Input [intensedebate.com]](https://hackerone.com/reports/1037714) to Automattic - 104 upvotes, $0
-132. [Reflected XSS in VPN Appliance](https://hackerone.com/reports/1386438) to New Relic - 104 upvotes, $0
-133. [XSS in SocialIcon Link](https://hackerone.com/reports/1698652) to Linktree - 104 upvotes, $0
-134. [DOM XSS on ads.tiktok.com](https://hackerone.com/reports/1549451) to TikTok - 103 upvotes, $2500
-135. [Reflected XSS in *.myshopify.com/account/register](https://hackerone.com/reports/470206) to Shopify - 103 upvotes, $0
-136. [Stored XSS via LINK Name.](https://hackerone.com/reports/1392262) to Insightly - 103 upvotes, $0
-137. [DOM XSS at https://www.thx.com in IE/Edge browser](https://hackerone.com/reports/702981) to Razer - 102 upvotes, $250
-138. [Stored XSS on team.slack.com using new Markdown editor of posts inside the Editing mode and using javascript-URIs](https://hackerone.com/reports/132104) to Slack - 102 upvotes, $0
-139. [[Meetup][World ID][OIDC] Insufficient Filtering of "state" Parameter in Response Mode form_post leads to XSS and ATO](https://hackerone.com/reports/2515808) to Tools for Humanity - 102 upvotes, $0
-140. [[www.zomato.com] Blind XSS in one of the admin dashboard](https://hackerone.com/reports/461272) to Eternal - 101 upvotes, $500
-141. [Blind XSS in app.pullrequest.com/████████ via /reviews/ratings/{uuid}](https://hackerone.com/reports/1558010) to HackerOne - 101 upvotes, $0
-142. [Reflected XSS in pubg.com](https://hackerone.com/reports/751870) to PUBG - 100 upvotes, $0
-143. [#2 XSS on watchdocs.indriverapp.com](https://hackerone.com/reports/2015074) to inDrive - 100 upvotes, $0
-144. [Reflected cross site scripting (XSS) attacks Reflected XSS attacks, ](https://hackerone.com/reports/1799197) to MTN Group - 100 upvotes, $0
-145. [DOM Based Reflected Cross Site Scripting](https://hackerone.com/reports/2321874) to MTN Group - 100 upvotes, $0
-146. [XSS [flow] - on www.paypal.com/paypalme/my/landing (requires user interaction)](https://hackerone.com/reports/425200) to PayPal - 99 upvotes, $0
-147. [RXSS to Stored XSS - forums.pubg.com | URL parameter](https://hackerone.com/reports/756697) to PUBG - 99 upvotes, $0
-148. [Reflected XSS online-store-git.shopifycloud.com](https://hackerone.com/reports/1410459) to Shopify - 98 upvotes, $3500
-149. [CSP-bypass XSS in project settings page](https://hackerone.com/reports/1588732) to GitLab - 98 upvotes, $0
-150. [Stored XSS on TikTok's backend leads to the leakage of highly sensitive administrator data (Cookies, API Keys, Internal Paths, Emails, phone numbers).](https://hackerone.com/reports/3037447) to TikTok - 98 upvotes, $0
-151. [DOM XSS at www.forescout.com in Microsoft Edge and IE Browser](https://hackerone.com/reports/704266) to ForeScout Technologies - 97 upvotes, $0
-152. [Stored XSS via `Create a Fetish` section.](https://hackerone.com/reports/1085914) to FetLife - 97 upvotes, $0
-153. [Blind XSS on Twitter's internal Jira panel at ████ allows exfiltration of hackers reports and other sensitive data](https://hackerone.com/reports/1369674) to X / xAI - 97 upvotes, $0
-154. [Reflected XSS on https://make.wordpress.org via 'channel' parameter](https://hackerone.com/reports/659419) to WordPress - 96 upvotes, $0
-155. [Stored XSS in Email Notifcation ](https://hackerone.com/reports/1597271) to Insightly - 96 upvotes, $0
-156. [XSS in request approvals](https://hackerone.com/reports/402658) to GitLab - 95 upvotes, $3000
-157. [Stored XSS on app.crowdsignal.com + your-subdomain.survey.fm via Embed Media](https://hackerone.com/reports/920005) to Automattic - 95 upvotes, $0
-158. [Bypass: Stored-XSS with CSP-bypass via scoped labels' color](https://hackerone.com/reports/1693150) to GitLab - 95 upvotes, $0
-159. [CRLF to XSS & Open Redirection](https://hackerone.com/reports/2012519) to TikTok - 95 upvotes, $0
-160. [CRLF injection leads to internal XSS on PangleGlobal](https://hackerone.com/reports/2189960) to TikTok - 95 upvotes, $0
-161. [Stored XSS in reclamos](https://hackerone.com/reports/1675516) to MercadoLibre - 95 upvotes, $0
-162. [Reflected XSS on transact.playstation.com using postMessage from the opening window](https://hackerone.com/reports/900619) to PlayStation - 94 upvotes, $1000
-163. [Stored XSS on TikTok Live Form](https://hackerone.com/reports/1542703) to TikTok - 94 upvotes, $0
-164. [Stored XSS on LinkedIn App via iframe tag in Article](https://hackerone.com/reports/2212950) to LinkedIn - 93 upvotes, $0
-165. [Reflected XSS Vulnerability in SVG File at area-resources-stg.autodesk.com](https://hackerone.com/reports/3045455) to Autodesk - 93 upvotes, $0
-166. [DOM-based XSS on mobile.line.me](https://hackerone.com/reports/736272) to LY Corporation - 92 upvotes, $0
-167. [CSTI at Plugin page leading to active stored XSS (Publisher name)](https://hackerone.com/reports/587829) to New Relic - 92 upvotes, $0
-168. [New /add_contacts /remove_contacts quick commands susseptible to XSS from Customer Contact firstname/lastname fields](https://hackerone.com/reports/1578400) to GitLab - 91 upvotes, $13950
-169. [Defacement of catalog.data.gov via web cache poisoning to stored DOMXSS](https://hackerone.com/reports/303730) to GSA Bounty - 91 upvotes, $750
-170. [DOM-Based XSS in tumblr.com](https://hackerone.com/reports/882546) to Automattic - 90 upvotes, $0
-171. [Stored XSS in vanilla](https://hackerone.com/reports/481360) to Vanilla - 89 upvotes, $300
-172. [Reflected XSS in "Cost Tracker" Notes Field](https://hackerone.com/reports/3185205) to MainWP - 89 upvotes, $50
-173. [Stored XSS](https://hackerone.com/reports/408978) to Mail.ru - 89 upvotes, $0
-174. [DOM XSS on multiple Automattic domains through postMessages](https://hackerone.com/reports/2371019) to Automattic - 89 upvotes, $0
+120. [Reflected xss on ads.tiktok.com using `from` parameter.](https://hackerone.com/reports/1452375) to TikTok - 111 upvotes, $0
+121. [Stored XSS in messages](https://hackerone.com/reports/1669764) to SideFX - 110 upvotes, $500
+122. [Reflected XSS on help.shopify.com](https://hackerone.com/reports/1940245) to Shopify - 109 upvotes, $500
+123. [XSS via JavaScript evaluation of an attacker controlled resource at www.pornhub.com](https://hackerone.com/reports/944518) to Pornhub - 109 upvotes, $250
+124. [XSS at https://www.glassdoor.com/Salary/* via filter.jobTitleExact](https://hackerone.com/reports/789689) to Glassdoor - 108 upvotes, $0
+125. [Stored XSS on any page in most Uber domains](https://hackerone.com/reports/217739) to Uber - 107 upvotes, $6000
+126. [Stored Cross-Site Scripting in mercadopago.com.ar](https://hackerone.com/reports/1955485) to MercadoLibre - 107 upvotes, $0
+127. [Stored xss at https://█.8x8.com/api/█/ID](https://hackerone.com/reports/2078490) to 8x8 - 106 upvotes, $1337
+128. [Stored XSS in Shopify Chat ](https://hackerone.com/reports/756729) to Shopify - 106 upvotes, $500
+129. [DOM Based XSS in www.hackerone.com via PostMessage (bypass of #398054)](https://hackerone.com/reports/499030) to HackerOne - 106 upvotes, $0
+130. [XSS: Group search terms](https://hackerone.com/reports/396370) to Vanilla - 105 upvotes, $0
+131. [XSS in Email Input [intensedebate.com]](https://hackerone.com/reports/1037714) to Automattic - 105 upvotes, $0
+132. [XSS in SocialIcon Link](https://hackerone.com/reports/1698652) to Linktree - 105 upvotes, $0
+133. [DOM XSS on ads.tiktok.com](https://hackerone.com/reports/1549451) to TikTok - 104 upvotes, $2500
+134. [Reflected XSS in *.myshopify.com/account/register](https://hackerone.com/reports/470206) to Shopify - 104 upvotes, $0
+135. [Reflected XSS in VPN Appliance](https://hackerone.com/reports/1386438) to New Relic - 104 upvotes, $0
+136. [Stored XSS on team.slack.com using new Markdown editor of posts inside the Editing mode and using javascript-URIs](https://hackerone.com/reports/132104) to Slack - 103 upvotes, $0
+137. [[Meetup][World ID][OIDC] Insufficient Filtering of "state" Parameter in Response Mode form_post leads to XSS and ATO](https://hackerone.com/reports/2515808) to Tools for Humanity - 103 upvotes, $0
+138. [Stored XSS via LINK Name.](https://hackerone.com/reports/1392262) to Insightly - 103 upvotes, $0
+139. [DOM XSS at https://www.thx.com in IE/Edge browser](https://hackerone.com/reports/702981) to Razer - 102 upvotes, $250
+140. [Reflected XSS in pubg.com](https://hackerone.com/reports/751870) to PUBG - 102 upvotes, $0
+141. [Blind XSS in app.pullrequest.com/████████ via /reviews/ratings/{uuid}](https://hackerone.com/reports/1558010) to HackerOne - 102 upvotes, $0
+142. [[www.zomato.com] Blind XSS in one of the admin dashboard](https://hackerone.com/reports/461272) to Eternal - 101 upvotes, $500
+143. [DOM Based Reflected Cross Site Scripting](https://hackerone.com/reports/2321874) to MTN Group - 101 upvotes, $0
+144. [XSS [flow] - on www.paypal.com/paypalme/my/landing (requires user interaction)](https://hackerone.com/reports/425200) to PayPal - 100 upvotes, $0
+145. [RXSS to Stored XSS - forums.pubg.com | URL parameter](https://hackerone.com/reports/756697) to PUBG - 100 upvotes, $0
+146. [#2 XSS on watchdocs.indriverapp.com](https://hackerone.com/reports/2015074) to inDrive - 100 upvotes, $0
+147. [Reflected cross site scripting (XSS) attacks Reflected XSS attacks, ](https://hackerone.com/reports/1799197) to MTN Group - 100 upvotes, $0
+148. [Blind XSS on Twitter's internal Jira panel at ████ allows exfiltration of hackers reports and other sensitive data](https://hackerone.com/reports/1369674) to X / xAI - 99 upvotes, $0
+149. [Reflected XSS online-store-git.shopifycloud.com](https://hackerone.com/reports/1410459) to Shopify - 98 upvotes, $3500
+150. [DOM XSS at www.forescout.com in Microsoft Edge and IE Browser](https://hackerone.com/reports/704266) to ForeScout Technologies - 98 upvotes, $0
+151. [Stored XSS via `Create a Fetish` section.](https://hackerone.com/reports/1085914) to FetLife - 98 upvotes, $0
+152. [CSP-bypass XSS in project settings page](https://hackerone.com/reports/1588732) to GitLab - 98 upvotes, $0
+153. [Stored XSS on TikTok's backend leads to the leakage of highly sensitive administrator data (Cookies, API Keys, Internal Paths, Emails, phone numbers).](https://hackerone.com/reports/3037447) to TikTok - 98 upvotes, $0
+154. [Reflected XSS on https://make.wordpress.org via 'channel' parameter](https://hackerone.com/reports/659419) to WordPress - 97 upvotes, $0
+155. [Stored XSS in Email Notifcation ](https://hackerone.com/reports/1597271) to Insightly - 97 upvotes, $0
+156. [XSS in request approvals](https://hackerone.com/reports/402658) to GitLab - 96 upvotes, $3000
+157. [Reflected XSS on transact.playstation.com using postMessage from the opening window](https://hackerone.com/reports/900619) to PlayStation - 96 upvotes, $1000
+158. [Stored XSS on app.crowdsignal.com + your-subdomain.survey.fm via Embed Media](https://hackerone.com/reports/920005) to Automattic - 96 upvotes, $0
+159. [Bypass: Stored-XSS with CSP-bypass via scoped labels' color](https://hackerone.com/reports/1693150) to GitLab - 96 upvotes, $0
+160. [CRLF to XSS & Open Redirection](https://hackerone.com/reports/2012519) to TikTok - 96 upvotes, $0
+161. [CRLF injection leads to internal XSS on PangleGlobal](https://hackerone.com/reports/2189960) to TikTok - 96 upvotes, $0
+162. [Stored XSS in reclamos](https://hackerone.com/reports/1675516) to MercadoLibre - 96 upvotes, $0
+163. [Stored XSS on TikTok Live Form](https://hackerone.com/reports/1542703) to TikTok - 95 upvotes, $0
+164. [DOM-based XSS on mobile.line.me](https://hackerone.com/reports/736272) to LY Corporation - 93 upvotes, $0
+165. [Stored XSS on LinkedIn App via iframe tag in Article](https://hackerone.com/reports/2212950) to LinkedIn - 93 upvotes, $0
+166. [Reflected XSS Vulnerability in SVG File at area-resources-stg.autodesk.com](https://hackerone.com/reports/3045455) to Autodesk - 93 upvotes, $0
+167. [New /add_contacts /remove_contacts quick commands susseptible to XSS from Customer Contact firstname/lastname fields](https://hackerone.com/reports/1578400) to GitLab - 92 upvotes, $13950
+168. [Defacement of catalog.data.gov via web cache poisoning to stored DOMXSS](https://hackerone.com/reports/303730) to GSA Bounty - 92 upvotes, $750
+169. [CSTI at Plugin page leading to active stored XSS (Publisher name)](https://hackerone.com/reports/587829) to New Relic - 92 upvotes, $0
+170. [DOM-Based XSS in tumblr.com](https://hackerone.com/reports/882546) to Automattic - 91 upvotes, $0
+171. [DOM XSS on multiple Automattic domains through postMessages](https://hackerone.com/reports/2371019) to Automattic - 90 upvotes, $0
+172. [Stored XSS in vanilla](https://hackerone.com/reports/481360) to Vanilla - 89 upvotes, $300
+173. [Reflected XSS in "Cost Tracker" Notes Field](https://hackerone.com/reports/3185205) to MainWP - 89 upvotes, $50
+174. [Stored XSS](https://hackerone.com/reports/408978) to Mail.ru - 89 upvotes, $0
 175. [Reflected XSS on TikTok Website](https://hackerone.com/reports/1378413) to TikTok - 88 upvotes, $3000
 176. [Stored XSS in "Create Groups"](https://hackerone.com/reports/647130) to GitLab - 88 upvotes, $2500
 177. [Stored XSS in vanilla](https://hackerone.com/reports/496405) to Vanilla - 88 upvotes, $300
@@ -187,24 +187,24 @@ Top XSS reports from HackerOne:
 185. [Persistent DOM-based XSS in https://help.twitter.com via localStorage](https://hackerone.com/reports/297968) to X / xAI - 84 upvotes, $0
 186. [xss](https://hackerone.com/reports/306554) to Pornhub - 84 upvotes, $0
 187. [Reflected XSS on http://www.grouplogic.com/files/glidownload/verify.asp](https://hackerone.com/reports/859395) to Acronis - 84 upvotes, $0
-188. [Html Injection and Possible XSS in sms-be-vip.twitter.com](https://hackerone.com/reports/150179) to X / xAI - 83 upvotes, $0
-189. [Reflected XSS in https://light.mail.ru/login via page](https://hackerone.com/reports/502016) to Mail.ru - 83 upvotes, $0
-190. [Blind XSS in operator's interface for 33slona.ru](https://hackerone.com/reports/659760) to Mail.ru - 83 upvotes, $0
-191. [Blind Stored XSS in HackerOne's Sal 4.1.4.2149 (sal.████.com)](https://hackerone.com/reports/995995) to HackerOne - 83 upvotes, $0
-192. [CSRF to Reflected XSS at echo.urbandictionary.biz via spoofing content type](https://hackerone.com/reports/1237321) to Urban Dictionary - 83 upvotes, $0
-193. [Stored XSS via Angular Expression injection via Subject while starting conversation with other users.](https://hackerone.com/reports/1095934) to FetLife - 82 upvotes, $0
-194. [XSS on using the legacy "Graphie To Png" API](https://hackerone.com/reports/2846011) to Khan Academy - 82 upvotes, $0
-195. [Mutation Based Stored XSS on Trix Editor version latest (2.1.8)](https://hackerone.com/reports/2819573) to Basecamp - 82 upvotes, $0
+188. [Mutation Based Stored XSS on Trix Editor version latest (2.1.8)](https://hackerone.com/reports/2819573) to Basecamp - 84 upvotes, $0
+189. [Html Injection and Possible XSS in sms-be-vip.twitter.com](https://hackerone.com/reports/150179) to X / xAI - 83 upvotes, $0
+190. [Reflected XSS in https://light.mail.ru/login via page](https://hackerone.com/reports/502016) to Mail.ru - 83 upvotes, $0
+191. [Blind XSS in operator's interface for 33slona.ru](https://hackerone.com/reports/659760) to Mail.ru - 83 upvotes, $0
+192. [Blind Stored XSS in HackerOne's Sal 4.1.4.2149 (sal.████.com)](https://hackerone.com/reports/995995) to HackerOne - 83 upvotes, $0
+193. [CSRF to Reflected XSS at echo.urbandictionary.biz via spoofing content type](https://hackerone.com/reports/1237321) to Urban Dictionary - 83 upvotes, $0
+194. [Stored XSS via Angular Expression injection via Subject while starting conversation with other users.](https://hackerone.com/reports/1095934) to FetLife - 82 upvotes, $0
+195. [XSS on using the legacy "Graphie To Png" API](https://hackerone.com/reports/2846011) to Khan Academy - 82 upvotes, $0
 196. [XSS on Amazon Aquisition:  elemental](https://hackerone.com/reports/3205667) to AWS VDP - 82 upvotes, $0
 197. [XSS in ZenTao integration affecting self hosted instances without strict CSP](https://hackerone.com/reports/1542510) to GitLab - 81 upvotes, $13950
 198. [[pay.gold.razer.com] Stored XSS - Order payment](https://hackerone.com/reports/706916) to Razer - 81 upvotes, $1500
 199. [DOMXSS in redirect param](https://hackerone.com/reports/361287) to Semmle - 81 upvotes, $0
-200. [ Potential XSS Vulnerability in Acronis Login Callback URL](https://hackerone.com/reports/2611305) to Acronis - 81 upvotes, $0
-201. [Stored XSS in main page of a project caused by arbitrary script payload in group "Default initial branch name"](https://hackerone.com/reports/1256777) to GitLab - 80 upvotes, $3000
-202. [Stored XSS in Email Templates via link](https://hackerone.com/reports/1376672) to Judge.me  - 80 upvotes, $500
-203. [Potential unprivileged Stored XSS through wp_targeted_link_rel](https://hackerone.com/reports/509930) to WordPress - 80 upvotes, $0
-204. [stored XSS in hey.com message content](https://hackerone.com/reports/988272) to Basecamp - 80 upvotes, $0
-205. [cross site scripting reflected ](https://hackerone.com/reports/1496897) to MTN Group - 80 upvotes, $0
+200. [cross site scripting reflected ](https://hackerone.com/reports/1496897) to MTN Group - 81 upvotes, $0
+201. [ Potential XSS Vulnerability in Acronis Login Callback URL](https://hackerone.com/reports/2611305) to Acronis - 81 upvotes, $0
+202. [Stored XSS in main page of a project caused by arbitrary script payload in group "Default initial branch name"](https://hackerone.com/reports/1256777) to GitLab - 80 upvotes, $3000
+203. [Stored XSS in Email Templates via link](https://hackerone.com/reports/1376672) to Judge.me  - 80 upvotes, $500
+204. [Potential unprivileged Stored XSS through wp_targeted_link_rel](https://hackerone.com/reports/509930) to WordPress - 80 upvotes, $0
+205. [stored XSS in hey.com message content](https://hackerone.com/reports/988272) to Basecamp - 80 upvotes, $0
 206. [Reflected XSS в /video](https://hackerone.com/reports/1052856) to VK.com - 79 upvotes, $500
 207. [Reflect XSS on Mobile Search page ](https://hackerone.com/reports/380246) to Pornhub - 79 upvotes, $250
 208. [Stored XSS Vulnerability via SVG File](https://hackerone.com/reports/3357808) to Nextcloud - 79 upvotes, $150
@@ -225,13 +225,13 @@ Top XSS reports from HackerOne:
 223. [Cross-site Scripting (XSS) - Stored on ads.tiktok.com in Text  field](https://hackerone.com/reports/1376961) to TikTok - 75 upvotes, $0
 224. [Self XSS in  Tag name pattern field /\<username\>/\<reponame\>/settings/tag_protection/new ](https://hackerone.com/reports/2246576) to GitHub - 75 upvotes, $0
 225. [Stored Xss On "https://www.question.com/"](https://hackerone.com/reports/1901706) to Drugs.com - 75 upvotes, $0
-226. [XSS on rockstargames.com](https://hackerone.com/reports/212700) to Rockstar Games - 74 upvotes, $500
-227. [Passive stored XSS at broadcast room](https://hackerone.com/reports/423797) to Chaturbate - 74 upvotes, $0
-228. [[https://city-mobil.ru/taxiserv] Blind XSS into username](https://hackerone.com/reports/746497) to Mail.ru - 74 upvotes, $0
-229. [DOM XSS on duckduckgo.com search](https://hackerone.com/reports/876148) to DuckDuckGo - 74 upvotes, $0
-230. [XSS from arbitrary attachment upload.](https://hackerone.com/reports/831703) to Qulture.Rocks - 74 upvotes, $0
-231. [Stored XSS in /admin/product and /admin/collections](https://hackerone.com/reports/1147433) to Shopify - 73 upvotes, $5300
-232. [Stored XSS through PDF viewer](https://hackerone.com/reports/881557) to Slack - 73 upvotes, $4875
+226. [Stored XSS in /admin/product and /admin/collections](https://hackerone.com/reports/1147433) to Shopify - 74 upvotes, $5300
+227. [Stored XSS through PDF viewer](https://hackerone.com/reports/881557) to Slack - 74 upvotes, $4875
+228. [XSS on rockstargames.com](https://hackerone.com/reports/212700) to Rockstar Games - 74 upvotes, $500
+229. [Passive stored XSS at broadcast room](https://hackerone.com/reports/423797) to Chaturbate - 74 upvotes, $0
+230. [[https://city-mobil.ru/taxiserv] Blind XSS into username](https://hackerone.com/reports/746497) to Mail.ru - 74 upvotes, $0
+231. [DOM XSS on duckduckgo.com search](https://hackerone.com/reports/876148) to DuckDuckGo - 74 upvotes, $0
+232. [XSS from arbitrary attachment upload.](https://hackerone.com/reports/831703) to Qulture.Rocks - 74 upvotes, $0
 233. [XSS via POST request to https://account.mail.ru/signup/](https://hackerone.com/reports/759090) to Mail.ru - 73 upvotes, $1000
 234. [Stored XSS on trix editor version 2.1.1](https://hackerone.com/reports/2521419) to Basecamp - 73 upvotes, $1000
 235. [Multiple XSS on account settings that can hijack any users in the company. ](https://hackerone.com/reports/503298) to X / xAI - 73 upvotes, $700
@@ -241,11 +241,11 @@ Top XSS reports from HackerOne:
 239. [Stored XSS in AREA tutorials](https://hackerone.com/reports/3008066) to Autodesk - 73 upvotes, $0
 240. [[dev.twitter.com] XSS and Open Redirect](https://hackerone.com/reports/260744) to X / xAI - 72 upvotes, $1120
 241. [Blind XSS in redtube administering site my.reflected.net](https://hackerone.com/reports/603941) to Pornhub - 72 upvotes, $1000
-242. [New XSS vector in ReaderMode with %READER-TITLE-NONCE%](https://hackerone.com/reports/1436142) to Brave Software - 72 upvotes, $1000
-243. [RCE, SQLi, IDOR, Auth Bypass and XSS at [staff.███.edu.eg ]](https://hackerone.com/reports/404874) to ██████ - 72 upvotes, $0
-244. [Reflected XSS in https://www.starbucks.co.jp/store/search/](https://hackerone.com/reports/496375) to Starbucks - 72 upvotes, $0
-245. [Reflected cross-site scripting on multiple Starbucks assets.](https://hackerone.com/reports/629745) to Starbucks - 72 upvotes, $0
-246. [XSS on tiktok.com](https://hackerone.com/reports/1322104) to TikTok - 72 upvotes, $0
+242. [RCE, SQLi, IDOR, Auth Bypass and XSS at [staff.███.edu.eg ]](https://hackerone.com/reports/404874) to ██████ - 72 upvotes, $0
+243. [Reflected XSS in https://www.starbucks.co.jp/store/search/](https://hackerone.com/reports/496375) to Starbucks - 72 upvotes, $0
+244. [Reflected cross-site scripting on multiple Starbucks assets.](https://hackerone.com/reports/629745) to Starbucks - 72 upvotes, $0
+245. [XSS on tiktok.com](https://hackerone.com/reports/1322104) to TikTok - 72 upvotes, $0
+246. [New XSS vector in ReaderMode with %READER-TITLE-NONCE%](https://hackerone.com/reports/1436142) to Brave Software - 72 upvotes, $0
 247. [XSS via Cookie in Mail.ru](https://hackerone.com/reports/690072) to Mail.ru - 71 upvotes, $1000
 248. [Reflected XSS on www.pornhub.com and www.pornhubpremium.com](https://hackerone.com/reports/1354161) to Pornhub - 71 upvotes, $750
 249. [Reflected XSS in "Manage Tags" Notes Field](https://hackerone.com/reports/3181803) to MainWP - 71 upvotes, $50
@@ -271,148 +271,148 @@ Top XSS reports from HackerOne:
 269. [XSS in linktr.ee - on link thumbnail adding](https://hackerone.com/reports/1775162) to Linktree - 68 upvotes, $600
 270. [POST-based XSS on apps.shopify.com](https://hackerone.com/reports/429679) to Shopify - 68 upvotes, $500
 271. [Stored Self XSS on https://app.crowdsignal.com (in Photo Insert App) + Stored XSS on https://*your-subdomain*.survey.fm](https://hackerone.com/reports/667188) to Automattic - 68 upvotes, $0
-272. [Possible DOM XSS on app.hey.com](https://hackerone.com/reports/1010132) to Basecamp - 68 upvotes, $0
-273. [Reflected XSS & Open Redirect at mcs main domain](https://hackerone.com/reports/996262) to Mail.ru - 68 upvotes, $0
-274. [Stored XSS в личных сообщениях](https://hackerone.com/reports/181823) to VK.com - 67 upvotes, $0
-275. [Stored XSS | api.mapbox.com | IE 11 | Styles name](https://hackerone.com/reports/763812) to Mapbox - 67 upvotes, $0
-276. [Stored XSS through Facebook Page Connection](https://hackerone.com/reports/267570) to Shopify - 67 upvotes, $0
-277. [XSS on Videos IA](https://hackerone.com/reports/910427) to DuckDuckGo - 67 upvotes, $0
-278. [Stored XSS in [https://streamlabs.com/dashboard#/*goal] pages](https://hackerone.com/reports/1049012) to Logitech - 67 upvotes, $0
-279. [Reflected XSS on www.grouplogic.com/video.asp](https://hackerone.com/reports/859802) to Acronis - 67 upvotes, $0
-280. [#3 XSS on watchdocs.indriverapp.com](https://hackerone.com/reports/2028265) to inDrive - 67 upvotes, $0
-281. [Cross-site Scripting (XSS) - DOM on https://account.mail.ru/user/garage?back_url=https://mail.ru](https://hackerone.com/reports/996303) to Mail.ru - 66 upvotes, $1000
-282. [Multiple DOMXSS on Amplify Web Player](https://hackerone.com/reports/88719) to X / xAI - 66 upvotes, $0
-283. [DOM XSS triggered in secure support desk](https://hackerone.com/reports/512065) to QIWI - 66 upvotes, $0
-284. [XSS via X-Forwarded-Host header](https://hackerone.com/reports/1392935) to Omise - 65 upvotes, $200
-285. [Reflected XSS in "Client Notes" Field](https://hackerone.com/reports/3181802) to MainWP - 65 upvotes, $50
-286. [web.icq.com XSS in chat message via contact info](https://hackerone.com/reports/634648) to Mail.ru - 65 upvotes, $0
-287. [URL Advisor component in KIS products family is vulnerable to Universal XSS](https://hackerone.com/reports/463915) to Kaspersky - 65 upvotes, $0
-288. [Cross Site Scripting using Email parameter in Ads endpoint 1](https://hackerone.com/reports/953041) to TikTok - 65 upvotes, $0
-289. [Stored Cross-site Scripting on devicelock.com/forum/](https://hackerone.com/reports/1122513) to Acronis - 65 upvotes, $0
-290. [reflected XSS on panther.com](https://hackerone.com/reports/1601140) to Panther Labs - 65 upvotes, $0
-291. [Cross site scripting via file upload in subdomain ads.tiktok.com](https://hackerone.com/reports/1433125) to TikTok - 64 upvotes, $500
-292. [xss in https://www.uber.com](https://hackerone.com/reports/145278) to Uber - 64 upvotes, $0
-293. [Reflected XSS and Server Side Template Injection  in all HubSpot CMSes](https://hackerone.com/reports/399462) to HubSpot Inactive - 64 upvotes, $0
-294. [XSS Reflected at https://sketch.pixiv.net/ Via `next_url`](https://hackerone.com/reports/1503601) to pixiv - 64 upvotes, $0
-295. [XSS Refelected on jazz.net](https://hackerone.com/reports/2338285) to IBM - 64 upvotes, $0
-296. [Blind XSS on admin.acronis.com via delete account form on account.acronis.com](https://hackerone.com/reports/666040) to Acronis - 64 upvotes, $0
-297. [Xss triggered in Your-store.myshopify.com/admin/apps/shopify-email/editor/****](https://hackerone.com/reports/1472471) to Shopify - 63 upvotes, $2900
-298. [Stored XSS in Acronis Cyber Protect Console](https://hackerone.com/reports/1064095) to Acronis - 63 upvotes, $500
-299. [DOM based CSS Injection on grammarly.com](https://hackerone.com/reports/500436) to Superhuman (formerly Grammarly) - 63 upvotes, $250
-300. [Reflected XSS in "Create Category" Functionality of Post Creation Module](https://hackerone.com/reports/3179138) to MainWP - 63 upvotes, $50
-301. [Blind XSS in Mobpub Marketplace Admin Production | Sentry via demand.mopub.com (User-Agent)](https://hackerone.com/reports/275518) to X / xAI - 63 upvotes, $0
-302. [Stored XSS in Post title (PoC)](https://hackerone.com/reports/942859) to Imgur - 63 upvotes, $0
-303. [Reflected XSS Via origCity Parameter (UPPER Case + WAF Protection Bypass)](https://hackerone.com/reports/1420529) to Expedia Group Bug Bounty - 63 upvotes, $0
-304. [Potential XSS in redirect_url Parameter](https://hackerone.com/reports/2653342) to Acronis - 63 upvotes, $0
-305. [XSS from Mastodon embeds](https://hackerone.com/reports/1887917) to IRCCloud - 62 upvotes, $500
-306. [Wormable stored XSS in www.evernote.com](https://hackerone.com/reports/397968) to Evernote - 62 upvotes, $0
-307. [XSS in new.loading.page.html](https://hackerone.com/reports/2419227) to GoCD - 62 upvotes, $0
-308. [Reflected - XSS](https://hackerone.com/reports/1779447) to MTN Group - 62 upvotes, $0
-309. [[www.zomato.com] Blind XSS in one of the Admin Dashboard](https://hackerone.com/reports/419731) to Eternal - 61 upvotes, $0
-310. [[http_server] Stored XSS in the filename when directories listing](https://hackerone.com/reports/578138) to Node.js third-party modules - 61 upvotes, $0
-311. [XSS at TikTok Ads Endpoint](https://hackerone.com/reports/1683129) to TikTok - 60 upvotes, $0
-312. [Stored XSS on wordpress.com](https://hackerone.com/reports/2012636) to Automattic - 60 upvotes, $0
-313. [Stored XSS on upload files leads to steal cookie](https://hackerone.com/reports/765679) to Palo Alto Software - 59 upvotes, $0
-314. [Singapore - Unrestricted File Upload Leads to XSS on campaign.starbucks.com.sg/api/upload](https://hackerone.com/reports/883151) to Starbucks - 59 upvotes, $0
-315. [Stored-XSS on wiki pages](https://hackerone.com/reports/1087061) to GitLab - 59 upvotes, $0
-316. [Reflected XSS on $Any$.myshopify.com/admin](https://hackerone.com/reports/422707) to Shopify - 58 upvotes, $1500
-317. [Persistent Cross-Site Scripting in default Laravel installation](https://hackerone.com/reports/392797) to Laravel - 58 upvotes, $0
-318. [WAF bypass via double encoded non standard ASCII chars permitted a reflected XSS on response page not found pages - (629745 bypass)](https://hackerone.com/reports/716761) to Starbucks - 58 upvotes, $0
-319. [Stored XSS on https://events.hackerone.com](https://hackerone.com/reports/1028332) to HackerOne - 58 upvotes, $0
-320. [CVE-2023-29489 XSS in cpanel at [www.███] - Securado, Oman](https://hackerone.com/reports/1982630) to U.S. Dept Of Defense - 58 upvotes, $0
-321. [Stored XSS via Mermaid Prototype Pollution vulnerability](https://hackerone.com/reports/1106238) to GitLab - 57 upvotes, $3000
-322. [[web.icq.com] Stored XSS in Account Name](https://hackerone.com/reports/1069045) to Mail.ru - 57 upvotes, $1000
-323. [Unrestricted file upload when creating quotes allows for Stored XSS](https://hackerone.com/reports/788397) to Visma Public - 57 upvotes, $250
-324. [Unrestricted File Upload Results in Cross-Site Scripting Attacks](https://hackerone.com/reports/1005355) to Uber - 57 upvotes, $0
-325. [Blind XSS via Feedback form.](https://hackerone.com/reports/1339034) to Judge.me  - 57 upvotes, $0
-326. [DOM XSS on www.omnipod.com/freedom/birthdate-confirmation and www.omnipod.com/pif/thanks-freedom](https://hackerone.com/reports/1073725) to Insulet Corporation - 57 upvotes, $0
-327. [Stored Cross-Site Scripting (XSS) in "Add Contact" Name Field – MainWP Plugin](https://hackerone.com/reports/3176981) to MainWP - 56 upvotes, $50
-328. [DOM-Based XSS in tumblr.com](https://hackerone.com/reports/949382) to Automattic - 56 upvotes, $0
-329. [HTML Injection with XSS possible ](https://hackerone.com/reports/381553) to Imgur - 56 upvotes, $0
-330. [Reflected XSS on https://www.glassdoor.com/job-listing/spotlight](https://hackerone.com/reports/1265390) to Glassdoor - 56 upvotes, $0
-331. [XSS and HTML Injection on the pressable.com search box](https://hackerone.com/reports/1537149) to Automattic - 56 upvotes, $0
-332. [Stored XSS on activity](https://hackerone.com/reports/391390) to Shopify - 55 upvotes, $2000
-333. [Self XSS](https://hackerone.com/reports/982510) to Shopify - 55 upvotes, $500
-334. [Reflected XSS at http://promotion.molthailand.com/index.php via promotion_id parameter](https://hackerone.com/reports/772116) to Razer - 55 upvotes, $250
-335. [The Custom Emoji Page has a Reflected XSS](https://hackerone.com/reports/258198) to Slack - 55 upvotes, $0
-336. [Reflected XSS through multiple inputs in the issue collector on Jira](https://hackerone.com/reports/380354) to Roblox - 55 upvotes, $0
-337. [XSS Stored via Upload avatar PNG [HTML] File in accounts.shopify.com](https://hackerone.com/reports/964550) to Shopify - 55 upvotes, $0
-338. [Reflected XSS via Keycloak on ███ [CVE-2021-20323]](https://hackerone.com/reports/2221104) to U.S. Dept Of Defense - 55 upvotes, $0
-339. [Reflected XSS on Amazon EC2 Instance](https://hackerone.com/reports/2787650) to AWS VDP - 55 upvotes, $0
-340. [Stored XSS in photos_user_map.gne](https://hackerone.com/reports/1534636) to Flickr - 54 upvotes, $3263
-341. [XSS account.mail.ru](https://hackerone.com/reports/1038906) to Mail.ru - 54 upvotes, $1000
-342. [Reflect XSS and CSP Bypass on https://www.paypal.com/businesswallet/currencyConverter/ ](https://hackerone.com/reports/799881) to PayPal - 54 upvotes, $0
-343. [[manage.jumpbikes.com] Blind XSS on Jump admin panel via user name](https://hackerone.com/reports/472470) to Uber - 54 upvotes, $0
-344. [[XSS] Reflected XSS via POST request in (███████)](https://hackerone.com/reports/3146996) to Mars - 54 upvotes, $0
-345. [XSS through `__e2e_action_id` delivered by JSONP](https://hackerone.com/reports/259100) to Quora - 53 upvotes, $0
-346. [CSRF + XSS REFLECT](https://hackerone.com/reports/2050122) to Daimler Truck - 53 upvotes, $0
-347. [Open Akamai ARL XSS on http://master-config-████████](https://hackerone.com/reports/1315907) to U.S. Dept Of Defense - 53 upvotes, $0
-348. [Stored XSS in merge request pages](https://hackerone.com/reports/723307) to GitLab - 52 upvotes, $3500
-349. [Stored xss](https://hackerone.com/reports/415484) to Shopify - 52 upvotes, $1000
-350. [Stored XSS in Intense Debate comment system](https://hackerone.com/reports/1039750) to Automattic - 52 upvotes, $0
-351. [Stored XSS at https://linkpop.com](https://hackerone.com/reports/1441988) to Shopify - 52 upvotes, $0
-352. [XSS in Aspera documentation website](https://hackerone.com/reports/2308491) to IBM - 52 upvotes, $0
-353. [AI Playground XSS to steal user-chat messages and access to connected MCP Server](https://hackerone.com/reports/3424998) to Cloudflare Public Bug Bounty - 52 upvotes, $0
-354. [Possibility to inject a malicious JavaScript code in any file on tags.tiqcdn.com results in a stored XSS on any page in most Uber domains](https://hackerone.com/reports/256152) to Uber - 51 upvotes, $6000
-355. [Email templates XSS by filterXSS bypass](https://hackerone.com/reports/1404804) to Judge.me  - 51 upvotes, $1250
-356. [csp bypass + xss](https://hackerone.com/reports/153666) to X / xAI - 51 upvotes, $0
-357. [Reflected XSS on marketsandresearch.td.com](https://hackerone.com/reports/1873305) to TD Bank - 51 upvotes, $0
-358. [Cross-site Scripting (XSS) - Reflected](https://hackerone.com/reports/1211148) to Drugs.com - 51 upvotes, $0
-359. [XSS found for https://█████████](https://hackerone.com/reports/2670521) to U.S. Dept Of Defense - 51 upvotes, $0
-360. [[Variation of #3321406] YetAnother 1-Click Chaining of Self-XSS, Cookie Tossing and AntiCSRF Token Prediction leads to auto approval in AccessTempAuth](https://hackerone.com/reports/3423950) to Cloudflare Public Bug Bounty - 51 upvotes, $0
-361. [Stored XSS in markdown when redacting references](https://hackerone.com/reports/836649) to GitLab - 50 upvotes, $5000
-362. [Stored XSS on the job page](https://hackerone.com/reports/856554) to GitLab - 50 upvotes, $3000
-363. [Stored XSS on auth.uber.com/oauth/v2/authorize via redirect_uri parameter leads to Account Takeover](https://hackerone.com/reports/397497) to Uber - 50 upvotes, $3000
-364. [Cross-site scripting on api.collabs.shopify.com](https://hackerone.com/reports/1672459) to Shopify - 50 upvotes, $1600
-365. [Blind stored xss [parcel.grab.com] \> name parameter ](https://hackerone.com/reports/251224) to Grab - 50 upvotes, $750
-366. [XSS in Desktop Client in the notifications](https://hackerone.com/reports/1668028) to Nextcloud - 50 upvotes, $750
-367. [DOMXSS in Tweetdeck](https://hackerone.com/reports/119471) to X / xAI - 50 upvotes, $0
-368. [[Android] XSS via start ContentActivity](https://hackerone.com/reports/189793) to Quora - 50 upvotes, $0
-369. [Reflected XSS in m.imgur.com](https://hackerone.com/reports/149855) to Imgur - 50 upvotes, $0
-370. [[auth2.zomato.com] Reflected XSS at `oauth2/fallbacks/error` | ORY Hydra an OAuth 2.0 and OpenID Connect Provider](https://hackerone.com/reports/456333) to Eternal - 50 upvotes, $0
-371. [XSS within Shopify Email App - Admin](https://hackerone.com/reports/869831) to Shopify - 50 upvotes, $0
-372. [XSS when using `translate` in Action Controller (Rails 7.0, 7.1)](https://hackerone.com/reports/2303609) to Ruby on Rails - 50 upvotes, $0
-373. [(Prerelease UI) Stored XSS via role name in JSON chart](https://hackerone.com/reports/520630) to New Relic - 49 upvotes, $2500
-374. [Stored XSS on support.rockstargames.com](https://hackerone.com/reports/265384) to Rockstar Games - 49 upvotes, $1000
-375. [XSS on link and window.opener ](https://hackerone.com/reports/834071) to Slack - 49 upvotes, $1000
-376. [XSS в сюжетах.](https://hackerone.com/reports/1115763) to VK.com - 49 upvotes, $500
-377. [[careers.informatica.com] Reflected Cross Site Scripting to XSS Shell Possible](https://hackerone.com/reports/147196) to Informatica - 49 upvotes, $0
-378. [Stored XSS in '' Section and WAF Bypass](https://hackerone.com/reports/382625) to Semrush - 49 upvotes, $0
-379. [XSS on Issue reference numbers](https://hackerone.com/reports/831962) to GitLab - 49 upvotes, $0
-380. [Reflected xss and open redirect on larksuite.com using /?back_uri= parameter.](https://hackerone.com/reports/955606) to Lark Technologies - 49 upvotes, $0
-381. [Stored XSS via Mermaid Prototype Pollution vulnerability](https://hackerone.com/reports/1280002) to GitLab - 48 upvotes, $3000
-382. [OX (Guard): Stored Cross-Site Scripting via Incoming Email](https://hackerone.com/reports/156258) to Open-Xchange - 48 upvotes, $1000
-383. [DOM XSS in `fizzy.do` import filename preview enables one-click victim account takeover](https://hackerone.com/reports/3608199) to Basecamp - 48 upvotes, $500
-384. [Reflected XSS ](https://hackerone.com/reports/569241) to Shopify - 48 upvotes, $0
-385. [Stored XSS in collabora via user name](https://hackerone.com/reports/968232) to Nextcloud - 48 upvotes, $0
-386. [XSS Reflected in m.vk.com](https://hackerone.com/reports/1011463) to VK.com - 48 upvotes, $0
-387. [XSS on ███████](https://hackerone.com/reports/2615670) to U.S. Dept Of Defense - 48 upvotes, $0
-388. [Second-Order XSS via javascript protocol in MCP Server Portal Apps leads to ATO](https://hackerone.com/reports/3316910) to Cloudflare Public Bug Bounty - 48 upvotes, $0
-389. [[my.games, lootdog.io] XSS via MCS Bucket](https://hackerone.com/reports/974473) to Mail.ru - 47 upvotes, $1333
-390. [Stored XSS on store.my.games](https://hackerone.com/reports/1073925) to Mail.ru - 47 upvotes, $200
-391. [Cross Site Scripting(XSS) on IRCCloud Badges Page (using Parameter Pollution)](https://hackerone.com/reports/150083) to IRCCloud - 47 upvotes, $0
-392. [Blind XSS via Suspended Ticket Recovery](https://hackerone.com/reports/450389) to Zendesk - 47 upvotes, $0
-393. [Reflected XSS in https://lite.pubg.com](https://hackerone.com/reports/751284) to PUBG - 47 upvotes, $0
-394. [Stored XSS in wordpress.com](https://hackerone.com/reports/1054526) to Automattic - 47 upvotes, $0
-395. [wp-embed XSS on Safari](https://hackerone.com/reports/1238528) to WordPress - 47 upvotes, $0
-396. [Reflected Cross-Site Scripting (XSS) in Revive Adserver 5.5.2](https://hackerone.com/reports/3091390) to Revive Adserver - 47 upvotes, $0
+272. [Stored XSS through Facebook Page Connection](https://hackerone.com/reports/267570) to Shopify - 68 upvotes, $0
+273. [Possible DOM XSS on app.hey.com](https://hackerone.com/reports/1010132) to Basecamp - 68 upvotes, $0
+274. [Stored XSS in [https://streamlabs.com/dashboard#/*goal] pages](https://hackerone.com/reports/1049012) to Logitech - 68 upvotes, $0
+275. [Reflected XSS & Open Redirect at mcs main domain](https://hackerone.com/reports/996262) to Mail.ru - 68 upvotes, $0
+276. [DOM XSS in `fizzy.do` import filename preview enables one-click victim account takeover](https://hackerone.com/reports/3608199) to Basecamp - 67 upvotes, $500
+277. [Stored XSS в личных сообщениях](https://hackerone.com/reports/181823) to VK.com - 67 upvotes, $0
+278. [Stored XSS | api.mapbox.com | IE 11 | Styles name](https://hackerone.com/reports/763812) to Mapbox - 67 upvotes, $0
+279. [XSS on Videos IA](https://hackerone.com/reports/910427) to DuckDuckGo - 67 upvotes, $0
+280. [Reflected XSS on www.grouplogic.com/video.asp](https://hackerone.com/reports/859802) to Acronis - 67 upvotes, $0
+281. [#3 XSS on watchdocs.indriverapp.com](https://hackerone.com/reports/2028265) to inDrive - 67 upvotes, $0
+282. [Cross-site Scripting (XSS) - DOM on https://account.mail.ru/user/garage?back_url=https://mail.ru](https://hackerone.com/reports/996303) to Mail.ru - 66 upvotes, $1000
+283. [Multiple DOMXSS on Amplify Web Player](https://hackerone.com/reports/88719) to X / xAI - 66 upvotes, $0
+284. [DOM XSS triggered in secure support desk](https://hackerone.com/reports/512065) to QIWI - 66 upvotes, $0
+285. [XSS via X-Forwarded-Host header](https://hackerone.com/reports/1392935) to Omise - 65 upvotes, $200
+286. [Reflected XSS in "Client Notes" Field](https://hackerone.com/reports/3181802) to MainWP - 65 upvotes, $50
+287. [web.icq.com XSS in chat message via contact info](https://hackerone.com/reports/634648) to Mail.ru - 65 upvotes, $0
+288. [URL Advisor component in KIS products family is vulnerable to Universal XSS](https://hackerone.com/reports/463915) to Kaspersky - 65 upvotes, $0
+289. [Cross Site Scripting using Email parameter in Ads endpoint 1](https://hackerone.com/reports/953041) to TikTok - 65 upvotes, $0
+290. [Stored Cross-site Scripting on devicelock.com/forum/](https://hackerone.com/reports/1122513) to Acronis - 65 upvotes, $0
+291. [reflected XSS on panther.com](https://hackerone.com/reports/1601140) to Panther Labs - 65 upvotes, $0
+292. [Cross site scripting via file upload in subdomain ads.tiktok.com](https://hackerone.com/reports/1433125) to TikTok - 64 upvotes, $500
+293. [xss in https://www.uber.com](https://hackerone.com/reports/145278) to Uber - 64 upvotes, $0
+294. [Reflected XSS and Server Side Template Injection  in all HubSpot CMSes](https://hackerone.com/reports/399462) to HubSpot Inactive - 64 upvotes, $0
+295. [XSS Reflected at https://sketch.pixiv.net/ Via `next_url`](https://hackerone.com/reports/1503601) to pixiv - 64 upvotes, $0
+296. [XSS Refelected on jazz.net](https://hackerone.com/reports/2338285) to IBM - 64 upvotes, $0
+297. [Blind XSS on admin.acronis.com via delete account form on account.acronis.com](https://hackerone.com/reports/666040) to Acronis - 64 upvotes, $0
+298. [Xss triggered in Your-store.myshopify.com/admin/apps/shopify-email/editor/****](https://hackerone.com/reports/1472471) to Shopify - 63 upvotes, $2900
+299. [Stored XSS in Acronis Cyber Protect Console](https://hackerone.com/reports/1064095) to Acronis - 63 upvotes, $500
+300. [DOM based CSS Injection on grammarly.com](https://hackerone.com/reports/500436) to Superhuman (formerly Grammarly) - 63 upvotes, $250
+301. [Reflected XSS in "Create Category" Functionality of Post Creation Module](https://hackerone.com/reports/3179138) to MainWP - 63 upvotes, $50
+302. [Blind XSS in Mobpub Marketplace Admin Production | Sentry via demand.mopub.com (User-Agent)](https://hackerone.com/reports/275518) to X / xAI - 63 upvotes, $0
+303. [Stored XSS in Post title (PoC)](https://hackerone.com/reports/942859) to Imgur - 63 upvotes, $0
+304. [Reflected XSS Via origCity Parameter (UPPER Case + WAF Protection Bypass)](https://hackerone.com/reports/1420529) to Expedia Group Bug Bounty - 63 upvotes, $0
+305. [Potential XSS in redirect_url Parameter](https://hackerone.com/reports/2653342) to Acronis - 63 upvotes, $0
+306. [XSS from Mastodon embeds](https://hackerone.com/reports/1887917) to IRCCloud - 62 upvotes, $500
+307. [Wormable stored XSS in www.evernote.com](https://hackerone.com/reports/397968) to Evernote - 62 upvotes, $0
+308. [XSS in new.loading.page.html](https://hackerone.com/reports/2419227) to GoCD - 62 upvotes, $0
+309. [Reflected - XSS](https://hackerone.com/reports/1779447) to MTN Group - 62 upvotes, $0
+310. [[www.zomato.com] Blind XSS in one of the Admin Dashboard](https://hackerone.com/reports/419731) to Eternal - 61 upvotes, $0
+311. [[http_server] Stored XSS in the filename when directories listing](https://hackerone.com/reports/578138) to Node.js third-party modules - 61 upvotes, $0
+312. [XSS at TikTok Ads Endpoint](https://hackerone.com/reports/1683129) to TikTok - 60 upvotes, $0
+313. [Stored XSS on wordpress.com](https://hackerone.com/reports/2012636) to Automattic - 60 upvotes, $0
+314. [Stored XSS on upload files leads to steal cookie](https://hackerone.com/reports/765679) to Palo Alto Software - 59 upvotes, $0
+315. [Singapore - Unrestricted File Upload Leads to XSS on campaign.starbucks.com.sg/api/upload](https://hackerone.com/reports/883151) to Starbucks - 59 upvotes, $0
+316. [Stored-XSS on wiki pages](https://hackerone.com/reports/1087061) to GitLab - 59 upvotes, $0
+317. [Reflected XSS on $Any$.myshopify.com/admin](https://hackerone.com/reports/422707) to Shopify - 58 upvotes, $1500
+318. [Persistent Cross-Site Scripting in default Laravel installation](https://hackerone.com/reports/392797) to Laravel - 58 upvotes, $0
+319. [WAF bypass via double encoded non standard ASCII chars permitted a reflected XSS on response page not found pages - (629745 bypass)](https://hackerone.com/reports/716761) to Starbucks - 58 upvotes, $0
+320. [Stored XSS on https://events.hackerone.com](https://hackerone.com/reports/1028332) to HackerOne - 58 upvotes, $0
+321. [CVE-2023-29489 XSS in cpanel at [www.███] - Securado, Oman](https://hackerone.com/reports/1982630) to U.S. Dept Of Defense - 58 upvotes, $0
+322. [DOM XSS on www.omnipod.com/freedom/birthdate-confirmation and www.omnipod.com/pif/thanks-freedom](https://hackerone.com/reports/1073725) to Insulet Corporation - 58 upvotes, $0
+323. [[Variation of #3321406] YetAnother 1-Click Chaining of Self-XSS, Cookie Tossing and AntiCSRF Token Prediction leads to auto approval in AccessTempAuth](https://hackerone.com/reports/3423950) to Cloudflare Public Bug Bounty - 58 upvotes, $0
+324. [Stored XSS via Mermaid Prototype Pollution vulnerability](https://hackerone.com/reports/1106238) to GitLab - 57 upvotes, $3000
+325. [[web.icq.com] Stored XSS in Account Name](https://hackerone.com/reports/1069045) to Mail.ru - 57 upvotes, $1000
+326. [Unrestricted file upload when creating quotes allows for Stored XSS](https://hackerone.com/reports/788397) to Visma Public - 57 upvotes, $250
+327. [Unrestricted File Upload Results in Cross-Site Scripting Attacks](https://hackerone.com/reports/1005355) to Uber - 57 upvotes, $0
+328. [Blind XSS via Feedback form.](https://hackerone.com/reports/1339034) to Judge.me  - 57 upvotes, $0
+329. [Stored Cross-Site Scripting (XSS) in "Add Contact" Name Field – MainWP Plugin](https://hackerone.com/reports/3176981) to MainWP - 56 upvotes, $50
+330. [The Custom Emoji Page has a Reflected XSS](https://hackerone.com/reports/258198) to Slack - 56 upvotes, $0
+331. [XSS Stored via Upload avatar PNG [HTML] File in accounts.shopify.com](https://hackerone.com/reports/964550) to Shopify - 56 upvotes, $0
+332. [DOM-Based XSS in tumblr.com](https://hackerone.com/reports/949382) to Automattic - 56 upvotes, $0
+333. [HTML Injection with XSS possible ](https://hackerone.com/reports/381553) to Imgur - 56 upvotes, $0
+334. [Reflected XSS on https://www.glassdoor.com/job-listing/spotlight](https://hackerone.com/reports/1265390) to Glassdoor - 56 upvotes, $0
+335. [XSS and HTML Injection on the pressable.com search box](https://hackerone.com/reports/1537149) to Automattic - 56 upvotes, $0
+336. [AI Playground XSS to steal user-chat messages and access to connected MCP Server](https://hackerone.com/reports/3424998) to Cloudflare Public Bug Bounty - 56 upvotes, $0
+337. [Stored XSS on activity](https://hackerone.com/reports/391390) to Shopify - 55 upvotes, $2000
+338. [Self XSS](https://hackerone.com/reports/982510) to Shopify - 55 upvotes, $500
+339. [Reflected XSS at http://promotion.molthailand.com/index.php via promotion_id parameter](https://hackerone.com/reports/772116) to Razer - 55 upvotes, $250
+340. [Reflected XSS through multiple inputs in the issue collector on Jira](https://hackerone.com/reports/380354) to Roblox - 55 upvotes, $0
+341. [Reflected XSS via Keycloak on ███ [CVE-2021-20323]](https://hackerone.com/reports/2221104) to U.S. Dept Of Defense - 55 upvotes, $0
+342. [Reflected XSS on Amazon EC2 Instance](https://hackerone.com/reports/2787650) to AWS VDP - 55 upvotes, $0
+343. [Stored XSS in photos_user_map.gne](https://hackerone.com/reports/1534636) to Flickr - 54 upvotes, $3263
+344. [XSS account.mail.ru](https://hackerone.com/reports/1038906) to Mail.ru - 54 upvotes, $1000
+345. [Reflect XSS and CSP Bypass on https://www.paypal.com/businesswallet/currencyConverter/ ](https://hackerone.com/reports/799881) to PayPal - 54 upvotes, $0
+346. [[manage.jumpbikes.com] Blind XSS on Jump admin panel via user name](https://hackerone.com/reports/472470) to Uber - 54 upvotes, $0
+347. [[XSS] Reflected XSS via POST request in (███████)](https://hackerone.com/reports/3146996) to Mars - 54 upvotes, $0
+348. [XSS through `__e2e_action_id` delivered by JSONP](https://hackerone.com/reports/259100) to Quora - 53 upvotes, $0
+349. [CSRF + XSS REFLECT](https://hackerone.com/reports/2050122) to Daimler Truck - 53 upvotes, $0
+350. [Open Akamai ARL XSS on http://master-config-████████](https://hackerone.com/reports/1315907) to U.S. Dept Of Defense - 53 upvotes, $0
+351. [Stored XSS in merge request pages](https://hackerone.com/reports/723307) to GitLab - 52 upvotes, $3500
+352. [Stored xss](https://hackerone.com/reports/415484) to Shopify - 52 upvotes, $1000
+353. [Stored XSS in Intense Debate comment system](https://hackerone.com/reports/1039750) to Automattic - 52 upvotes, $0
+354. [Stored XSS at https://linkpop.com](https://hackerone.com/reports/1441988) to Shopify - 52 upvotes, $0
+355. [XSS in Aspera documentation website](https://hackerone.com/reports/2308491) to IBM - 52 upvotes, $0
+356. [Possibility to inject a malicious JavaScript code in any file on tags.tiqcdn.com results in a stored XSS on any page in most Uber domains](https://hackerone.com/reports/256152) to Uber - 51 upvotes, $6000
+357. [Cross-site scripting on api.collabs.shopify.com](https://hackerone.com/reports/1672459) to Shopify - 51 upvotes, $1600
+358. [Email templates XSS by filterXSS bypass](https://hackerone.com/reports/1404804) to Judge.me  - 51 upvotes, $1250
+359. [csp bypass + xss](https://hackerone.com/reports/153666) to X / xAI - 51 upvotes, $0
+360. [Reflected XSS on marketsandresearch.td.com](https://hackerone.com/reports/1873305) to TD Bank - 51 upvotes, $0
+361. [Cross-site Scripting (XSS) - Reflected](https://hackerone.com/reports/1211148) to Drugs.com - 51 upvotes, $0
+362. [XSS found for https://█████████](https://hackerone.com/reports/2670521) to U.S. Dept Of Defense - 51 upvotes, $0
+363. [Stored XSS in markdown when redacting references](https://hackerone.com/reports/836649) to GitLab - 50 upvotes, $5000
+364. [Stored XSS on the job page](https://hackerone.com/reports/856554) to GitLab - 50 upvotes, $3000
+365. [Stored XSS on auth.uber.com/oauth/v2/authorize via redirect_uri parameter leads to Account Takeover](https://hackerone.com/reports/397497) to Uber - 50 upvotes, $3000
+366. [Blind stored xss [parcel.grab.com] \> name parameter ](https://hackerone.com/reports/251224) to Grab - 50 upvotes, $750
+367. [XSS in Desktop Client in the notifications](https://hackerone.com/reports/1668028) to Nextcloud - 50 upvotes, $750
+368. [DOMXSS in Tweetdeck](https://hackerone.com/reports/119471) to X / xAI - 50 upvotes, $0
+369. [[Android] XSS via start ContentActivity](https://hackerone.com/reports/189793) to Quora - 50 upvotes, $0
+370. [Reflected XSS in m.imgur.com](https://hackerone.com/reports/149855) to Imgur - 50 upvotes, $0
+371. [[auth2.zomato.com] Reflected XSS at `oauth2/fallbacks/error` | ORY Hydra an OAuth 2.0 and OpenID Connect Provider](https://hackerone.com/reports/456333) to Eternal - 50 upvotes, $0
+372. [XSS within Shopify Email App - Admin](https://hackerone.com/reports/869831) to Shopify - 50 upvotes, $0
+373. [XSS when using `translate` in Action Controller (Rails 7.0, 7.1)](https://hackerone.com/reports/2303609) to Ruby on Rails - 50 upvotes, $0
+374. [(Prerelease UI) Stored XSS via role name in JSON chart](https://hackerone.com/reports/520630) to New Relic - 49 upvotes, $2500
+375. [Stored XSS on support.rockstargames.com](https://hackerone.com/reports/265384) to Rockstar Games - 49 upvotes, $1000
+376. [XSS on link and window.opener ](https://hackerone.com/reports/834071) to Slack - 49 upvotes, $1000
+377. [XSS в сюжетах.](https://hackerone.com/reports/1115763) to VK.com - 49 upvotes, $500
+378. [[careers.informatica.com] Reflected Cross Site Scripting to XSS Shell Possible](https://hackerone.com/reports/147196) to Informatica - 49 upvotes, $0
+379. [Stored XSS in '' Section and WAF Bypass](https://hackerone.com/reports/382625) to Semrush - 49 upvotes, $0
+380. [XSS on Issue reference numbers](https://hackerone.com/reports/831962) to GitLab - 49 upvotes, $0
+381. [Reflected xss and open redirect on larksuite.com using /?back_uri= parameter.](https://hackerone.com/reports/955606) to Lark Technologies - 49 upvotes, $0
+382. [Stored XSS via Mermaid Prototype Pollution vulnerability](https://hackerone.com/reports/1280002) to GitLab - 48 upvotes, $3000
+383. [OX (Guard): Stored Cross-Site Scripting via Incoming Email](https://hackerone.com/reports/156258) to Open-Xchange - 48 upvotes, $1000
+384. [Cross Site Scripting(XSS) on IRCCloud Badges Page (using Parameter Pollution)](https://hackerone.com/reports/150083) to IRCCloud - 48 upvotes, $0
+385. [Reflected XSS ](https://hackerone.com/reports/569241) to Shopify - 48 upvotes, $0
+386. [Reflected XSS in https://lite.pubg.com](https://hackerone.com/reports/751284) to PUBG - 48 upvotes, $0
+387. [Stored XSS in collabora via user name](https://hackerone.com/reports/968232) to Nextcloud - 48 upvotes, $0
+388. [XSS Reflected in m.vk.com](https://hackerone.com/reports/1011463) to VK.com - 48 upvotes, $0
+389. [Stored XSS in wordpress.com](https://hackerone.com/reports/1054526) to Automattic - 48 upvotes, $0
+390. [XSS on ███████](https://hackerone.com/reports/2615670) to U.S. Dept Of Defense - 48 upvotes, $0
+391. [Reflected Cross-Site Scripting (XSS) in Revive Adserver 5.5.2](https://hackerone.com/reports/3091390) to Revive Adserver - 48 upvotes, $0
+392. [Second-Order XSS via javascript protocol in MCP Server Portal Apps leads to ATO](https://hackerone.com/reports/3316910) to Cloudflare Public Bug Bounty - 48 upvotes, $0
+393. [[my.games, lootdog.io] XSS via MCS Bucket](https://hackerone.com/reports/974473) to Mail.ru - 47 upvotes, $1333
+394. [Stored XSS on store.my.games](https://hackerone.com/reports/1073925) to Mail.ru - 47 upvotes, $200
+395. [Blind XSS via Suspended Ticket Recovery](https://hackerone.com/reports/450389) to Zendesk - 47 upvotes, $0
+396. [wp-embed XSS on Safari](https://hackerone.com/reports/1238528) to WordPress - 47 upvotes, $0
 397. [xss stored in https://your store.myshopify.com/admin/](https://hackerone.com/reports/887879) to Shopify - 46 upvotes, $1000
 398. [Stored XSS in the ticketing system](https://hackerone.com/reports/1694037) to TikTok - 46 upvotes, $1000
 399. [Stored XSS in blog comments through Shopify API](https://hackerone.com/reports/192210) to Shopify - 46 upvotes, $0
 400. [DOM Based XSS in mycrypto.com](https://hackerone.com/reports/324303) to MyCrypto - 46 upvotes, $0
 401. [Reflected XSS in https://blocked.myndr.net](https://hackerone.com/reports/824433) to Myndr - 46 upvotes, $0
-402. [Reflected XSS on https://help.glassdoor.com/GD_HC_EmbeddedChatVF](https://hackerone.com/reports/1244053) to Glassdoor - 46 upvotes, $0
-403. [reflected XSS in [www.equifax.com]](https://hackerone.com/reports/1818163) to Equifax-vdp - 46 upvotes, $0
-404. [Roundcube Webmail Style Sanitizer can be bypassed using CSS Character Escapes](https://hackerone.com/reports/3443563) to Nextcloud - 46 upvotes, $0
-405. [XSS vulnerability without a content security bypass in a `CUSTOM` App through Button tag](https://hackerone.com/reports/1823216) to Stripe - 45 upvotes, $2000
-406. [[dev.twitter.com] XSS and Open Redirect Protection Bypass](https://hackerone.com/reports/330008) to X / xAI - 45 upvotes, $1120
-407. [H1514 DOM XSS on checkout.shopify.com via postMessage handler on /:id/sandbox/google_maps](https://hackerone.com/reports/423218) to Shopify - 45 upvotes, $500
-408. [Stored XSS on promo.indrive.com](https://hackerone.com/reports/2051085) to inDrive - 45 upvotes, $284
-409. [Stored XSS in profile page](https://hackerone.com/reports/1084183) to Acronis - 45 upvotes, $50
-410. [ Cross-site scripting (reflected)](https://hackerone.com/reports/176754) to X / xAI - 45 upvotes, $0
-411. [XSS in HTML Content Generated by Flash Slideshow Maker (All Versions)](https://hackerone.com/reports/404898) to Socusoft - 45 upvotes, $0
-412. [DOM XSS on https://www.rockstargames.com/GTAOnline/feedback](https://hackerone.com/reports/803934) to Rockstar Games - 45 upvotes, $0
-413. [DOM based XSS on /GTAOnline/tw/starterpack/](https://hackerone.com/reports/508517) to Rockstar Games - 45 upvotes, $0
+402. [DOM XSS on https://www.rockstargames.com/GTAOnline/feedback](https://hackerone.com/reports/803934) to Rockstar Games - 46 upvotes, $0
+403. [DOM based XSS on /GTAOnline/tw/starterpack/](https://hackerone.com/reports/508517) to Rockstar Games - 46 upvotes, $0
+404. [Reflected XSS on https://help.glassdoor.com/GD_HC_EmbeddedChatVF](https://hackerone.com/reports/1244053) to Glassdoor - 46 upvotes, $0
+405. [reflected XSS in [www.equifax.com]](https://hackerone.com/reports/1818163) to Equifax-vdp - 46 upvotes, $0
+406. [Roundcube Webmail Style Sanitizer can be bypassed using CSS Character Escapes](https://hackerone.com/reports/3443563) to Nextcloud - 46 upvotes, $0
+407. [XSS vulnerability without a content security bypass in a `CUSTOM` App through Button tag](https://hackerone.com/reports/1823216) to Stripe - 45 upvotes, $2000
+408. [[dev.twitter.com] XSS and Open Redirect Protection Bypass](https://hackerone.com/reports/330008) to X / xAI - 45 upvotes, $1120
+409. [H1514 DOM XSS on checkout.shopify.com via postMessage handler on /:id/sandbox/google_maps](https://hackerone.com/reports/423218) to Shopify - 45 upvotes, $500
+410. [Stored XSS on promo.indrive.com](https://hackerone.com/reports/2051085) to inDrive - 45 upvotes, $284
+411. [Stored XSS in profile page](https://hackerone.com/reports/1084183) to Acronis - 45 upvotes, $50
+412. [ Cross-site scripting (reflected)](https://hackerone.com/reports/176754) to X / xAI - 45 upvotes, $0
+413. [XSS in HTML Content Generated by Flash Slideshow Maker (All Versions)](https://hackerone.com/reports/404898) to Socusoft - 45 upvotes, $0
 414. [Cross-site Scripting (XSS) - Stored](https://hackerone.com/reports/1318395) to Mail.ru - 45 upvotes, $0
 415. [Xss  - ███](https://hackerone.com/reports/2353185) to U.S. Dept Of Defense - 45 upvotes, $0
 416. [Reflected Cross-site Scripting via search query on ██████](https://hackerone.com/reports/2434904) to U.S. Dept Of Defense - 45 upvotes, $0
@@ -432,194 +432,194 @@ Top XSS reports from HackerOne:
 430. [Reflected xss on 8x8.com subdomain](https://hackerone.com/reports/770513) to 8x8 - 43 upvotes, $0
 431. [XSS and iframe injection on tiktok ads portal using redirect params](https://hackerone.com/reports/1514554) to TikTok - 43 upvotes, $0
 432. [XSS: `v-safe-html` is not safe enough](https://hackerone.com/reports/1579645) to GitLab - 43 upvotes, $0
-433. [reflected xss [CVE-2020-3580]](https://hackerone.com/reports/2479161) to U.S. Dept Of Defense - 43 upvotes, $0
-434. [IE 11 Self-XSS on Jira Integration Preview Base Link](https://hackerone.com/reports/212721) to HackerOne - 42 upvotes, $750
-435. [[e.mail.ru] XSS в поиске](https://hackerone.com/reports/378582) to Mail.ru - 42 upvotes, $750
-436. [Cross Site Scripting via CVE-2018-5230 on https://apps.topcoder.com](https://hackerone.com/reports/781284) to Lab45 - 42 upvotes, $0
-437. [Stored XSS in [https://dashboard.doppler.com/workplace/*/logs] pages](https://hackerone.com/reports/1073726) to Doppler - 42 upvotes, $0
-438. [[intensedebate.com] XSS Reflected POST-Based ](https://hackerone.com/reports/1040533) to Automattic - 42 upvotes, $0
-439. [DOM XSS on https://biz.mail.ru/domains/goto/mail/ via parameter pollution](https://hackerone.com/reports/1039643) to Mail.ru - 42 upvotes, $0
-440. [Stored XSS in Mermaid when viewing Markdown files](https://hackerone.com/reports/1212822) to GitLab - 42 upvotes, $0
-441. [[https://app.recordedfuture.com] - Reflected XSS via username parameter ](https://hackerone.com/reports/1201134) to Recorded Future - 42 upvotes, $0
-442. [Reflected XSS and Blind out of band command injection at subdomain dstuid-ww.dst.ibm.com](https://hackerone.com/reports/410334) to IBM - 42 upvotes, $0
-443. [Self XSS in Create New Workspace Screen](https://hackerone.com/reports/1442017) to Mattermost - 42 upvotes, $0
-444. [ Reflected Cross site Scripting (XSS) on https://one.newrelic.com](https://hackerone.com/reports/1367642) to New Relic - 42 upvotes, $0
-445. [reflected xss in https://wordpress.com/start/account/user](https://hackerone.com/reports/2055132) to Automattic - 42 upvotes, $0
-446. [XSS on terra-6.indriverapp.com](https://hackerone.com/reports/1969696) to inDrive - 42 upvotes, $0
-447. [Reflected XSS on error message on Login Page](https://hackerone.com/reports/2417864) to U.S. Dept Of Defense - 42 upvotes, $0
-448. [XSS vulnerability found in javascript code of https://███.mil](https://hackerone.com/reports/2888784) to U.S. Dept Of Defense - 42 upvotes, $0
-449. [Blind XSS - Report review - Admin panel](https://hackerone.com/reports/314126) to Eternal - 41 upvotes, $350
-450. [Stored xss ](https://hackerone.com/reports/149154) to Algolia - 41 upvotes, $100
-451. [HTML injection (with XSS possible) on the https://www.data.gov/issue/ using media_url attribute](https://hackerone.com/reports/263226) to GSA Bounty - 41 upvotes, $0
-452. [CSS Injection on /embed/ via bgcolor parameter leaks user's CSRF token and allows for XSS ](https://hackerone.com/reports/386334) to Chaturbate - 41 upvotes, $0
-453. [Stored XSS in Jetpack's Simple Payment Module by Contributors / Authors](https://hackerone.com/reports/402753) to Automattic - 41 upvotes, $0
-454. [Blind XSS Stored On Admin Panel Through Name Parameter In [ https://technoatom.mail.ru/]](https://hackerone.com/reports/766434) to Mail.ru - 41 upvotes, $0
-455. [Moodle XSS on  evolve.glovoapp.com](https://hackerone.com/reports/1165540) to Glovo - 41 upvotes, $0
-456. [XSS vulnerabilities due to missing checks in tag helpers](https://hackerone.com/reports/1444151) to Ruby on Rails - 41 upvotes, $0
-457. [Reflected Cross Site Scripting](https://hackerone.com/reports/1093577) to MercadoLibre - 41 upvotes, $0
-458. [Stored xss on message reply](https://hackerone.com/reports/546220) to Mail.ru - 40 upvotes, $500
-459. [ XSS through chat messages](https://hackerone.com/reports/683792) to Vanilla - 40 upvotes, $300
-460. [XSS в личных сообщениях](https://hackerone.com/reports/293105) to ok.ru - 40 upvotes, $0
-461. [Stored XSS (client-side, using cookie poisoning) on the pornhubpremium.com](https://hackerone.com/reports/311948) to Pornhub - 40 upvotes, $0
-462. [Очень жесткая XSS в личных сообщениях m.ok.ru](https://hackerone.com/reports/302253) to ok.ru - 40 upvotes, $0
-463. [WooCommerce: Persistent XSS via customer address (state/county)](https://hackerone.com/reports/530499) to Automattic - 40 upvotes, $0
-464. [Cross-Site Scripting through search form on mtnplay.co.zm](https://hackerone.com/reports/761573) to MTN Group - 40 upvotes, $0
-465. [Open Akamai ARL XSS on http://media.████████](https://hackerone.com/reports/1315898) to U.S. Dept Of Defense - 40 upvotes, $0
-466. [Cross Site Scripting](https://hackerone.com/reports/2587844) to U.S. Dept Of Defense - 40 upvotes, $0
-467. [Stored XSS in Brower `name` field reflected in two pages](https://hackerone.com/reports/348076) to New Relic - 39 upvotes, $3000
-468. [Rails ActionView sanitize helper bypass leading to XSS using SVG tag.](https://hackerone.com/reports/1805873) to Internet Bug Bounty - 39 upvotes, $2400
-469. [Reflected XSS on multiple uberinternal.com domains](https://hackerone.com/reports/326449) to Uber - 39 upvotes, $2000
-470. [Stored XSS on buy button](https://hackerone.com/reports/397088) to Shopify - 39 upvotes, $500
-471. [Reflected XSS via "Error" parameter on https://admin.acronis.com/admin/su/](https://hackerone.com/reports/970878) to Acronis - 39 upvotes, $50
-472. [CSRF in 'set.php' via age causes stored XSS on 'get.php' - http://www.rockstargames.com/php/videoplayer_cache/get.php'](https://hackerone.com/reports/152013) to Rockstar Games - 39 upvotes, $0
-473. [Reflected XSS in lert.uber.com](https://hackerone.com/reports/191810) to Uber - 39 upvotes, $0
-474. [Account takeover via XSS](https://hackerone.com/reports/735638) to Rocket.Chat - 39 upvotes, $0
-475. [DOM based XSS via insecure parameter on [ https://uberpay-mock-psp.uber.com ]](https://hackerone.com/reports/1767151) to Uber - 39 upvotes, $0
-476. [XSS in IBM InfoCenter](https://hackerone.com/reports/2343548) to IBM - 39 upvotes, $0
-477. [XSS found in https://www.████████.mil](https://hackerone.com/reports/2853410) to U.S. Dept Of Defense - 39 upvotes, $0
-478. [Stored XSS on issue comments and other pages which contain notes](https://hackerone.com/reports/1398305) to GitLab - 38 upvotes, $3000
-479. [XSS в upload.php](https://hackerone.com/reports/142135) to VK.com - 38 upvotes, $1500
-480. [Reflected Xss On https://vk.com/search](https://hackerone.com/reports/1454359) to VK.com - 38 upvotes, $500
-481. [CSTI on https://www.ecobee.com leads to XSS](https://hackerone.com/reports/500518) to ecobee - 38 upvotes, $0
-482. [XSS on https://app.mopub.com/reports/custom/add/ [new-d1]](https://hackerone.com/reports/692352) to X / xAI - 38 upvotes, $0
-483. [[XSS] Reflected XSS via POST request in (editJobAlert.htm) file](https://hackerone.com/reports/838910) to Glassdoor - 38 upvotes, $0
-484. [Reflected XSS in photogallery component on [https://market.av.ru]](https://hackerone.com/reports/988271) to Azbuka Vkusa - 38 upvotes, $0
-485. [Client Side Template Injection to Stored XSS in Image Collection](https://hackerone.com/reports/2234564) to Mars - 38 upvotes, $0
-486. [Stored XSS on developer.uber.com via admin account compromise](https://hackerone.com/reports/152067) to Uber - 37 upvotes, $5000
-487. [Reflected XSS on https://www.uber.com](https://hackerone.com/reports/708081) to Uber - 37 upvotes, $1000
-488. [Self XSS on Acronis Cyber Cloud](https://hackerone.com/reports/957229) to Acronis - 37 upvotes, $100
-489. [Stored XSS via SVG Upload in chat.line.biz](https://hackerone.com/reports/3008878) to LY Corporation - 37 upvotes, $100
-490. [(BYPASS) Open redirect and XSS in supporthiring.shopify.com](https://hackerone.com/reports/158434) to Shopify - 37 upvotes, $0
-491. [XSS found on Snapchat website](https://hackerone.com/reports/125849) to Snapchat - 37 upvotes, $0
-492. [Stored XSS on www.starbucks.com.sg/careers/career-center/career-landing-*](https://hackerone.com/reports/507957) to Starbucks - 37 upvotes, $0
-493. [DOM based XSS in the WooCommerce plugin](https://hackerone.com/reports/507139) to Automattic - 37 upvotes, $0
-494. [CSS Injection to disable app & potential message exfil](https://hackerone.com/reports/679969) to Slack - 37 upvotes, $0
-495. [Stored XSS on demo app link ](https://hackerone.com/reports/439912) to Shopify - 37 upvotes, $0
-496. [Stored XSS in blob viewer](https://hackerone.com/reports/806571) to GitLab - 37 upvotes, $0
-497. [[qiwi.me] Stored XSS](https://hackerone.com/reports/736236) to QIWI - 37 upvotes, $0
-498. [DOM XSS at `https://adobedocs.github.io/OAE_PartnerAPI/?configUrl={site}` due to outdated Swagger UI](https://hackerone.com/reports/1736378) to Adobe - 37 upvotes, $0
-499. [Reflected XSS in banner-acl.php and channel-acl.php via executionorder](https://hackerone.com/reports/3470970) to Revive Adserver - 37 upvotes, $0
-500. [position: fixed !important bypasses CSS sanitizer's fixed-position mitigation, enabling full-viewport phishing overlays.](https://hackerone.com/reports/3590586) to Nextcloud - 37 upvotes, $0
-501. [Cross-site scripting on algorithm collaborator ](https://hackerone.com/reports/615672) to Quantopian - 36 upvotes, $2100
-502. [dom based xss on [hello.merchant.razer.com]](https://hackerone.com/reports/767944) to Razer - 36 upvotes, $500
-503. [Reflected xss в m.vk.com/chatjoin](https://hackerone.com/reports/316475) to VK.com - 36 upvotes, $500
-504. [Cookie exfiltration through XSS on the main search request of www.lahitapiola.fi](https://hackerone.com/reports/1322322) to LocalTapiola - 36 upvotes, $500
-505. [Unrestricted File Upload Blind Stored Xss  in subdomain ads.tiktok.com](https://hackerone.com/reports/1577370) to TikTok - 36 upvotes, $250
-506. [www.starbucks.co.uk Reflected XSS via utm_source parameter](https://hackerone.com/reports/140616) to Starbucks - 36 upvotes, $0
-507. [Stored XSS in [shop].myshopify.com/admin/orders/[id]](https://hackerone.com/reports/214044) to Shopify - 36 upvotes, $0
-508. [Reflected XSS - gratipay.com](https://hackerone.com/reports/262852) to Gratipay - 36 upvotes, $0
-509. [Persistent XSS in https://sandbox.reverb.com/item/](https://hackerone.com/reports/333008) to Reverb.com - 36 upvotes, $0
-510. [Stored XSS on the https://www.redtube.com/users/[profile]/collections](https://hackerone.com/reports/380204) to Pornhub - 36 upvotes, $0
-511. [Хранимый XSS в Business-аккаунте, на странице компании](https://hackerone.com/reports/771882) to DRIVE.NET, Inc. - 36 upvotes, $0
-512. [Bypassing Content-Security-Policy leads to open-redirect and iframe xss](https://hackerone.com/reports/1166766) to Stripo Inc - 36 upvotes, $0
-513. [One Click XSS in [www.shopify.com]](https://hackerone.com/reports/1563334) to Shopify - 36 upvotes, $0
-514. [CSS Injection via Client Side Path Traversal + Open Redirect leads to personal data exfiltration on Acronis Cloud](https://hackerone.com/reports/1245165) to Acronis - 36 upvotes, $0
-515. [Xss  Parameter: /\<s\>/[*]/\<s\>.css ████████](https://hackerone.com/reports/2353131) to U.S. Dept Of Defense - 36 upvotes, $0
-516. [Reflected XSS on developer.uber.com via Angular template injection](https://hackerone.com/reports/125027) to Uber - 35 upvotes, $3000
-517. [[stored xss, pornhub.com] stream post function](https://hackerone.com/reports/138075) to Pornhub - 35 upvotes, $1500
-518. [Stored XSS on profile page via Steam display name](https://hackerone.com/reports/282604) to Rockstar Games - 35 upvotes, $1250
-519. [XSS on product comments in transfers](https://hackerone.com/reports/738072) to Shopify - 35 upvotes, $500
-520. [Timeline Editor Self-XSS (Previous Fix #738072 Incomplete)](https://hackerone.com/reports/755679) to Shopify - 35 upvotes, $500
-521. [Persistent XSS in www.starbucks.com](https://hackerone.com/reports/188972) to Starbucks - 35 upvotes, $0
-522. [Stored XSS Deleting Menu Links in the Shopify Admin](https://hackerone.com/reports/263876) to Shopify - 35 upvotes, $0
-523. [XSS *.myshopify.com/collections/vendors?q=](https://hackerone.com/reports/324136) to Shopify - 35 upvotes, $0
-524. [Stored XSS in galleries - https://www.redtube.com/gallery/[id] path](https://hackerone.com/reports/380207) to Pornhub - 35 upvotes, $0
-525. [Multiple stored XSS in WordPress](https://hackerone.com/reports/221507) to WordPress - 35 upvotes, $0
-526. [Reflected XSS on https://www.olx.co.id/iklan/*.html via "ad_type" parameter](https://hackerone.com/reports/630265) to OLX - 35 upvotes, $0
-527. [Store-XSS in error message of build-dependencies ](https://hackerone.com/reports/950190) to GitLab - 35 upvotes, $0
-528. [Reflected XSS at https://www.glassdoor.co.in/FAQ/Microsoft-Question-FAQ200086-E1651.htm?countryRedirect=true via PATH](https://hackerone.com/reports/1016253) to Glassdoor - 35 upvotes, $0
-529. [[allods.mail.ru] - WebCache Poisoning Host Header lead to Potential Stored XSS](https://hackerone.com/reports/1262408) to Mail.ru - 35 upvotes, $0
-530. [POST BASED REFLECTED XSS IN dailydeals.mtn.co.za](https://hackerone.com/reports/1451394) to MTN Group - 35 upvotes, $0
-531. [[revive-adserver] Reflected XSS in Banner Delivery Options via cap parameter](https://hackerone.com/reports/3473696) to Revive Adserver - 35 upvotes, $0
-532. [Bypass Filter and get Stored Xss ](https://hackerone.com/reports/299424) to Shopify - 34 upvotes, $3000
-533. [DOM XSS via Shopify.API.Modal.initialize](https://hackerone.com/reports/602767) to Shopify - 34 upvotes, $500
-534. [Reflected XSS on https://travel.line.me](https://hackerone.com/reports/1880607) to LY Corporation - 34 upvotes, $100
-535. [Self-XSS in password reset functionality](https://hackerone.com/reports/286667) to Shopify - 34 upvotes, $0
-536. [Stored XSS in the guide's GameplayVersion (www.dota2.com)](https://hackerone.com/reports/380045) to Valve - 34 upvotes, $0
-537. [Clipboard DOM-based XSS](https://hackerone.com/reports/1196958) to GitLab - 34 upvotes, $0
-538. [SSRF & Blind XSS in Gravatar email ](https://hackerone.com/reports/1100096) to Automattic - 34 upvotes, $0
-539. [Cross-site Scripting (XSS) - Reflected](https://hackerone.com/reports/1183336) to MTN Group - 34 upvotes, $0
-540. [Stored XSS on app.crowdsignal.com  your-subdomain.crowdsignal.net via Thank You Header](https://hackerone.com/reports/1842822) to Automattic - 34 upvotes, $0
-541. [XSS in Cisco Endpoint](https://hackerone.com/reports/2233421) to U.S. Dept Of Defense - 34 upvotes, $0
-542. [Reflected XSS in afr.php](https://hackerone.com/reports/3468169) to Revive Adserver - 34 upvotes, $0
-543. [Stored XSS in Dovetale by application of creator](https://hackerone.com/reports/1652046) to Shopify - 33 upvotes, $1600
-544. [XSS in biz.mail.ru/error](https://hackerone.com/reports/268245) to Mail.ru - 33 upvotes, $500
-545. [Stored XSS ](https://hackerone.com/reports/299806) to Open-Xchange - 33 upvotes, $500
-546. [Stored XSS in chat topic due to insecure emoticon parsing on any message type](https://hackerone.com/reports/429298) to Chaturbate - 33 upvotes, $450
-547. [BlIND XSS on https://open.vanillaforums.com](https://hackerone.com/reports/1189885) to Vanilla - 33 upvotes, $300
-548. [Blind Stored XSS in https://partners.acronis.com/admin which lead to sensitive information/PII leakage](https://hackerone.com/reports/1028820) to Acronis - 33 upvotes, $150
-549. [XSS in IE11 on portswigger.net via Flash](https://hackerone.com/reports/182160) to PortSwigger Web Security - 33 upvotes, $0
-550. [XSS inside HTML Link Tag](https://hackerone.com/reports/504984) to OLX - 33 upvotes, $0
-551. [DOM Based xss on https://www.rockstargames.com/ ( 1 )](https://hackerone.com/reports/475442) to Rockstar Games - 33 upvotes, $0
-552. [Blind Stored XSS Payload fired at the backend on https://█████████/](https://hackerone.com/reports/1051369) to U.S. Dept Of Defense - 33 upvotes, $0
-553. [Stored-XSS in merge requests](https://hackerone.com/reports/977697) to GitLab - 33 upvotes, $0
-554. [Reflected Cross-Site scripting in : mtn.bj](https://hackerone.com/reports/1264832) to MTN Group - 33 upvotes, $0
-555. [Xss At Shopify Email App](https://hackerone.com/reports/1339356) to Shopify - 33 upvotes, $0
-556. [xss due to incorrect handling of postmessages](https://hackerone.com/reports/1758132) to Khan Academy - 33 upvotes, $0
-557. [Reflected xss on ████████ ](https://hackerone.com/reports/2389897) to Mars - 33 upvotes, $0
-558. [WAF bypass and java script incomplete handling of Unicode characters might leads to dom-xss](https://hackerone.com/reports/2921905) to Doppler - 33 upvotes, $0
-559. [Action Text XSS (Rails 7.1.x)](https://hackerone.com/reports/2389565) to Ruby on Rails - 33 upvotes, $0
-560. [Stored XSS in merge request creation page through payload in approval rule name](https://hackerone.com/reports/1342009) to GitLab - 32 upvotes, $3000
-561. [Possible XSS Vulnerability in Action Controller](https://hackerone.com/reports/2520694) to Internet Bug Bounty - 32 upvotes, $1068
-562. [XSS on "widgets.shopifyapps.com" via "stripping" attribute and "shop" parameter](https://hackerone.com/reports/246794) to Shopify - 32 upvotes, $1000
-563. [Stored XSS при удалении группы из беседы (m.vk.com)](https://hackerone.com/reports/1101500) to VK.com - 32 upvotes, $500
-564. [XSS For Profile Name](https://hackerone.com/reports/674426) to Vanilla - 32 upvotes, $300
-565. [Cross-site scripting in "Contact customer" form](https://hackerone.com/reports/294505) to Shopify - 32 upvotes, $0
-566. [Cross site scripting - XSRF Token](https://hackerone.com/reports/858255) to Nextcloud - 32 upvotes, $0
-567. [Reflected XSS and possible SSRF/XXE on https://events.hackerone.com/conferences/get_recording_slides_xml.xml?url=myserver/xss.xml](https://hackerone.com/reports/1028396) to HackerOne - 32 upvotes, $0
-568. [Reflected XSS on delivery.glovoapp.com](https://hackerone.com/reports/1264805) to Glovo - 32 upvotes, $0
-569. [XSS in http://www.glassdoor.com/Search/results.htm via Parameter Pollution](https://hackerone.com/reports/1632119) to Glassdoor - 32 upvotes, $0
-570. [Stored XSS on  wordpress.com](https://hackerone.com/reports/1987172) to Automattic - 32 upvotes, $0
-571. [Reflected XSS on www.acronis.com/de-de/my/subscriptions/index.html](https://hackerone.com/reports/1145712) to Acronis - 32 upvotes, $0
-572. [Stored XSS in attachment-display exploitable through SameSite](https://hackerone.com/reports/3594137) to Nextcloud - 32 upvotes, $0
-573. [Reflected XSS POST method at partners.uber.com](https://hackerone.com/reports/129582) to Uber - 31 upvotes, $3000
-574. [Reflected XSS on Partners Subdomain](https://hackerone.com/reports/390181) to Uber - 31 upvotes, $2000
-575. [[Java] CWE-079: Query to detect XSS with JavaServer Faces (JSF)](https://hackerone.com/reports/1339898) to GitHub Security Lab - 31 upvotes, $1800
-576. [XSS in $shop$.myshopify.com/admin/ via twine template injection in "Shopify.API.Modal.input" method when using a malicious app](https://hackerone.com/reports/217790) to Shopify - 31 upvotes, $1000
-577. [stored XSS (angular injection) in support.rockstargames.com using zendesk register form via name parameter](https://hackerone.com/reports/354262) to Rockstar Games - 31 upvotes, $1000
-578. [XSS in message e.mail.ru ](https://hackerone.com/reports/1011035) to Mail.ru - 31 upvotes, $1000
-579. [Cookie based XSS on http://ftp1.thx.com](https://hackerone.com/reports/748217) to Razer - 31 upvotes, $375
-580. [Self-Stored XSS - Chained with login/logout CSRF](https://hackerone.com/reports/632017) to Eternal - 31 upvotes, $300
-581. [Reflected XSS on partners.cloudflare.com](https://hackerone.com/reports/131397) to Cloudflare Vulnerability Disclosure - 31 upvotes, $0
-582. [Big XSS vulnerability!](https://hackerone.com/reports/216330) to Legal Robot - 31 upvotes, $0
-583. [XSS risk reduction with X-XSS-Protection: 1; mode=block header](https://hackerone.com/reports/94909) to Radancy - 31 upvotes, $0
-584. [XSS https://agent.postamat.tech/ в профиле + дисклоз секретной информации](https://hackerone.com/reports/365093) to QIWI - 31 upvotes, $0
-585. [Reflected XSS at https://www.glassdoor.com/ via the 'numSuggestions' parameter](https://hackerone.com/reports/1042486) to Glassdoor - 31 upvotes, $0
-586. [XSS leads to RCE on the RocketChat desktop client.](https://hackerone.com/reports/899964) to Rocket.Chat - 31 upvotes, $0
-587. [CSRF to XSS](https://hackerone.com/reports/2736979) to U.S. Dept Of Defense - 31 upvotes, $0
-588. [CRLF and XSS stored on ton.twitter.com](https://hackerone.com/reports/191380) to X / xAI - 30 upvotes, $1680
-589. [Reflected cross-site scripting (XSS) on api.tiles.mapbox.com](https://hackerone.com/reports/135217) to Mapbox - 30 upvotes, $1000
-590. [Stored XSS in snapmatic comments](https://hackerone.com/reports/231389) to Rockstar Games - 30 upvotes, $1000
-591. [Xss was found by exploiting the URL markdown on http://store.steampowered.com](https://hackerone.com/reports/313250) to Valve - 30 upvotes, $1000
-592. [XSS in $shop$.myshopify.com/admin/ via "Button Objects" in malicious app](https://hackerone.com/reports/217745) to Shopify - 30 upvotes, $800
-593. [XSS in (Support Requests) : User Cases](https://hackerone.com/reports/961226) to Acronis - 30 upvotes, $50
-594. [Reflected XSS in www.dota2.com](https://hackerone.com/reports/292457) to Valve - 30 upvotes, $0
-595. [XSS-уязвимость, связанная с загрузкой файлов](https://hackerone.com/reports/375886) to VK.com - 30 upvotes, $0
-596. [[FG-VD-19-022] Wordpress WooCommerce Cross-Site Scripting Vulnerability Notification](https://hackerone.com/reports/495583) to Automattic - 30 upvotes, $0
-597. [Stored XSS in https://productreviews.shopifyapps.com/proxy/v4/reviews/product](https://hackerone.com/reports/168458) to Shopify - 30 upvotes, $0
-598. [DOM XSS on duckduckgo.com search](https://hackerone.com/reports/921635) to DuckDuckGo - 30 upvotes, $0
-599. [[api.tumblr.com] Exploiting clickjacking vulnerability to trigger self DOM-based XSS](https://hackerone.com/reports/953579) to Automattic - 30 upvotes, $0
-600. [Bypass extension check leads to stored XSS at https://s2.booth.pm](https://hackerone.com/reports/1019425) to pixiv - 30 upvotes, $0
-601. [Stored XSS on top.mail.ru](https://hackerone.com/reports/1241107) to Mail.ru - 30 upvotes, $0
-602. [Reflected XSS on av.ru via `q` parameter at https://av.ru/collections/*](https://hackerone.com/reports/965663) to Azbuka Vkusa - 30 upvotes, $0
-603. [Stored XSS in "product type" field executed via product filters](https://hackerone.com/reports/1404770) to Judge.me  - 30 upvotes, $0
-604. [Cross-site Scripting (XSS) - Reflected on https://api.mtn.sd/carbon/admin/login.jsp via `msgId` parameter -  CVE-2020-17453](https://hackerone.com/reports/1158823) to MTN Group - 30 upvotes, $0
-605. [Stored-XSS in campaign name displayed in Banners modal](https://hackerone.com/reports/3411750) to Revive Adserver - 30 upvotes, $0
-606. [[Variation of #1554049] 1-Click Chaining of Self-XSS, Cookie Tossing and AntiCSRF Token Prediction leads to auto approval in Access Temp Auth](https://hackerone.com/reports/3321406) to Cloudflare Public Bug Bounty - 30 upvotes, $0
-607. [Stored XSS in repository file viewer](https://hackerone.com/reports/1072868) to GitLab - 29 upvotes, $2000
-608. [ Stored XSS(Cross Site Scripting) In Slack App Name](https://hackerone.com/reports/159460) to Slack - 29 upvotes, $1000
-609. [XSS в колбек апи в сообществах ](https://hackerone.com/reports/261966) to VK.com - 29 upvotes, $500
-610. [Outdated Wordpress installation and plugins at www.uberxgermany.com create CSRF and XSS vulnerabilities](https://hackerone.com/reports/323899) to Uber - 29 upvotes, $500
-611. [DOM Based XSS in Discourse Search](https://hackerone.com/reports/191890) to Discourse - 29 upvotes, $0
-612. [[mercantile.wordpress.org] Reflected XSS via AngularJS Template Injection](https://hackerone.com/reports/230234) to WordPress - 29 upvotes, $0
-613. [[growth.grab.com] Reflected XSS via Base64-encoded "q" param on "my.html" Valentine's microsite](https://hackerone.com/reports/320679) to Grab - 29 upvotes, $0
-614. [Reflected XSS in www.olx.co.id](https://hackerone.com/reports/639796) to OLX - 29 upvotes, $0
-615. [Stored XSS at https://app.smtp2go.com/settings/users/  ](https://hackerone.com/reports/912865) to SMTP2GO - 29 upvotes, $0
-616. [Self xss in product reviews](https://hackerone.com/reports/1029668) to Shopify - 29 upvotes, $0
-617. [Stored XSS in Satisfaction Surveys via "Ask Reason for Dissatisfaction" option](https://hackerone.com/reports/953791) to Lark Technologies - 29 upvotes, $0
-618. [HTTP Request Smuggling on api.flocktory.com Leads to XSS on Customer Sites](https://hackerone.com/reports/955170) to QIWI - 29 upvotes, $0
-619. [Multiple XSS and open HTTP redirection](https://hackerone.com/reports/2372332) to ExpressionEngine - 29 upvotes, $0
-620. [Unquoted body background attribute enables CSS injection that bypasses remote image blocking](https://hackerone.com/reports/3590583) to Nextcloud - 29 upvotes, $0
+433. [Reflected XSS on error message on Login Page](https://hackerone.com/reports/2417864) to U.S. Dept Of Defense - 43 upvotes, $0
+434. [reflected xss [CVE-2020-3580]](https://hackerone.com/reports/2479161) to U.S. Dept Of Defense - 43 upvotes, $0
+435. [position: fixed !important bypasses CSS sanitizer's fixed-position mitigation, enabling full-viewport phishing overlays.](https://hackerone.com/reports/3590586) to Nextcloud - 43 upvotes, $0
+436. [IE 11 Self-XSS on Jira Integration Preview Base Link](https://hackerone.com/reports/212721) to HackerOne - 42 upvotes, $750
+437. [[e.mail.ru] XSS в поиске](https://hackerone.com/reports/378582) to Mail.ru - 42 upvotes, $750
+438. [Cross Site Scripting via CVE-2018-5230 on https://apps.topcoder.com](https://hackerone.com/reports/781284) to Lab45 - 42 upvotes, $0
+439. [Stored XSS in [https://dashboard.doppler.com/workplace/*/logs] pages](https://hackerone.com/reports/1073726) to Doppler - 42 upvotes, $0
+440. [[intensedebate.com] XSS Reflected POST-Based ](https://hackerone.com/reports/1040533) to Automattic - 42 upvotes, $0
+441. [DOM XSS on https://biz.mail.ru/domains/goto/mail/ via parameter pollution](https://hackerone.com/reports/1039643) to Mail.ru - 42 upvotes, $0
+442. [Stored XSS in Mermaid when viewing Markdown files](https://hackerone.com/reports/1212822) to GitLab - 42 upvotes, $0
+443. [[https://app.recordedfuture.com] - Reflected XSS via username parameter ](https://hackerone.com/reports/1201134) to Recorded Future - 42 upvotes, $0
+444. [Reflected XSS and Blind out of band command injection at subdomain dstuid-ww.dst.ibm.com](https://hackerone.com/reports/410334) to IBM - 42 upvotes, $0
+445. [Self XSS in Create New Workspace Screen](https://hackerone.com/reports/1442017) to Mattermost - 42 upvotes, $0
+446. [ Reflected Cross site Scripting (XSS) on https://one.newrelic.com](https://hackerone.com/reports/1367642) to New Relic - 42 upvotes, $0
+447. [reflected xss in https://wordpress.com/start/account/user](https://hackerone.com/reports/2055132) to Automattic - 42 upvotes, $0
+448. [XSS on terra-6.indriverapp.com](https://hackerone.com/reports/1969696) to inDrive - 42 upvotes, $0
+449. [XSS vulnerability found in javascript code of https://███.mil](https://hackerone.com/reports/2888784) to U.S. Dept Of Defense - 42 upvotes, $0
+450. [Blind XSS - Report review - Admin panel](https://hackerone.com/reports/314126) to Eternal - 41 upvotes, $350
+451. [Stored xss ](https://hackerone.com/reports/149154) to Algolia - 41 upvotes, $100
+452. [HTML injection (with XSS possible) on the https://www.data.gov/issue/ using media_url attribute](https://hackerone.com/reports/263226) to GSA Bounty - 41 upvotes, $0
+453. [CSS Injection on /embed/ via bgcolor parameter leaks user's CSRF token and allows for XSS ](https://hackerone.com/reports/386334) to Chaturbate - 41 upvotes, $0
+454. [Stored XSS in Jetpack's Simple Payment Module by Contributors / Authors](https://hackerone.com/reports/402753) to Automattic - 41 upvotes, $0
+455. [Blind XSS Stored On Admin Panel Through Name Parameter In [ https://technoatom.mail.ru/]](https://hackerone.com/reports/766434) to Mail.ru - 41 upvotes, $0
+456. [Moodle XSS on  evolve.glovoapp.com](https://hackerone.com/reports/1165540) to Glovo - 41 upvotes, $0
+457. [XSS vulnerabilities due to missing checks in tag helpers](https://hackerone.com/reports/1444151) to Ruby on Rails - 41 upvotes, $0
+458. [Reflected Cross Site Scripting](https://hackerone.com/reports/1093577) to MercadoLibre - 41 upvotes, $0
+459. [Reflected XSS on multiple uberinternal.com domains](https://hackerone.com/reports/326449) to Uber - 40 upvotes, $2000
+460. [Stored xss on message reply](https://hackerone.com/reports/546220) to Mail.ru - 40 upvotes, $500
+461. [ XSS through chat messages](https://hackerone.com/reports/683792) to Vanilla - 40 upvotes, $300
+462. [XSS в личных сообщениях](https://hackerone.com/reports/293105) to ok.ru - 40 upvotes, $0
+463. [Stored XSS (client-side, using cookie poisoning) on the pornhubpremium.com](https://hackerone.com/reports/311948) to Pornhub - 40 upvotes, $0
+464. [Очень жесткая XSS в личных сообщениях m.ok.ru](https://hackerone.com/reports/302253) to ok.ru - 40 upvotes, $0
+465. [WooCommerce: Persistent XSS via customer address (state/county)](https://hackerone.com/reports/530499) to Automattic - 40 upvotes, $0
+466. [Cross-Site Scripting through search form on mtnplay.co.zm](https://hackerone.com/reports/761573) to MTN Group - 40 upvotes, $0
+467. [Open Akamai ARL XSS on http://media.████████](https://hackerone.com/reports/1315898) to U.S. Dept Of Defense - 40 upvotes, $0
+468. [Cross Site Scripting](https://hackerone.com/reports/2587844) to U.S. Dept Of Defense - 40 upvotes, $0
+469. [Stored XSS in Brower `name` field reflected in two pages](https://hackerone.com/reports/348076) to New Relic - 39 upvotes, $3000
+470. [Rails ActionView sanitize helper bypass leading to XSS using SVG tag.](https://hackerone.com/reports/1805873) to Internet Bug Bounty - 39 upvotes, $2400
+471. [Stored XSS on buy button](https://hackerone.com/reports/397088) to Shopify - 39 upvotes, $500
+472. [Reflected XSS via "Error" parameter on https://admin.acronis.com/admin/su/](https://hackerone.com/reports/970878) to Acronis - 39 upvotes, $50
+473. [CSRF in 'set.php' via age causes stored XSS on 'get.php' - http://www.rockstargames.com/php/videoplayer_cache/get.php'](https://hackerone.com/reports/152013) to Rockstar Games - 39 upvotes, $0
+474. [Reflected XSS in lert.uber.com](https://hackerone.com/reports/191810) to Uber - 39 upvotes, $0
+475. [Account takeover via XSS](https://hackerone.com/reports/735638) to Rocket.Chat - 39 upvotes, $0
+476. [DOM based XSS via insecure parameter on [ https://uberpay-mock-psp.uber.com ]](https://hackerone.com/reports/1767151) to Uber - 39 upvotes, $0
+477. [XSS in IBM InfoCenter](https://hackerone.com/reports/2343548) to IBM - 39 upvotes, $0
+478. [XSS found in https://www.████████.mil](https://hackerone.com/reports/2853410) to U.S. Dept Of Defense - 39 upvotes, $0
+479. [Stored XSS on issue comments and other pages which contain notes](https://hackerone.com/reports/1398305) to GitLab - 38 upvotes, $3000
+480. [XSS в upload.php](https://hackerone.com/reports/142135) to VK.com - 38 upvotes, $1500
+481. [Reflected Xss On https://vk.com/search](https://hackerone.com/reports/1454359) to VK.com - 38 upvotes, $500
+482. [XSS found on Snapchat website](https://hackerone.com/reports/125849) to Snapchat - 38 upvotes, $0
+483. [CSTI on https://www.ecobee.com leads to XSS](https://hackerone.com/reports/500518) to ecobee - 38 upvotes, $0
+484. [XSS on https://app.mopub.com/reports/custom/add/ [new-d1]](https://hackerone.com/reports/692352) to X / xAI - 38 upvotes, $0
+485. [[XSS] Reflected XSS via POST request in (editJobAlert.htm) file](https://hackerone.com/reports/838910) to Glassdoor - 38 upvotes, $0
+486. [Reflected XSS in photogallery component on [https://market.av.ru]](https://hackerone.com/reports/988271) to Azbuka Vkusa - 38 upvotes, $0
+487. [Client Side Template Injection to Stored XSS in Image Collection](https://hackerone.com/reports/2234564) to Mars - 38 upvotes, $0
+488. [Stored XSS on developer.uber.com via admin account compromise](https://hackerone.com/reports/152067) to Uber - 37 upvotes, $5000
+489. [Cross-site scripting on algorithm collaborator ](https://hackerone.com/reports/615672) to Quantopian - 37 upvotes, $2100
+490. [Reflected XSS on https://www.uber.com](https://hackerone.com/reports/708081) to Uber - 37 upvotes, $1000
+491. [Self XSS on Acronis Cyber Cloud](https://hackerone.com/reports/957229) to Acronis - 37 upvotes, $100
+492. [Stored XSS via SVG Upload in chat.line.biz](https://hackerone.com/reports/3008878) to LY Corporation - 37 upvotes, $100
+493. [(BYPASS) Open redirect and XSS in supporthiring.shopify.com](https://hackerone.com/reports/158434) to Shopify - 37 upvotes, $0
+494. [Stored XSS on www.starbucks.com.sg/careers/career-center/career-landing-*](https://hackerone.com/reports/507957) to Starbucks - 37 upvotes, $0
+495. [DOM based XSS in the WooCommerce plugin](https://hackerone.com/reports/507139) to Automattic - 37 upvotes, $0
+496. [CSS Injection to disable app & potential message exfil](https://hackerone.com/reports/679969) to Slack - 37 upvotes, $0
+497. [Stored XSS on demo app link ](https://hackerone.com/reports/439912) to Shopify - 37 upvotes, $0
+498. [Stored XSS in blob viewer](https://hackerone.com/reports/806571) to GitLab - 37 upvotes, $0
+499. [[qiwi.me] Stored XSS](https://hackerone.com/reports/736236) to QIWI - 37 upvotes, $0
+500. [DOM XSS at `https://adobedocs.github.io/OAE_PartnerAPI/?configUrl={site}` due to outdated Swagger UI](https://hackerone.com/reports/1736378) to Adobe - 37 upvotes, $0
+501. [Reflected XSS in banner-acl.php and channel-acl.php via executionorder](https://hackerone.com/reports/3470970) to Revive Adserver - 37 upvotes, $0
+502. [[Variation of #1554049] 1-Click Chaining of Self-XSS, Cookie Tossing and AntiCSRF Token Prediction leads to auto approval in Access Temp Auth](https://hackerone.com/reports/3321406) to Cloudflare Public Bug Bounty - 37 upvotes, $0
+503. [dom based xss on [hello.merchant.razer.com]](https://hackerone.com/reports/767944) to Razer - 36 upvotes, $500
+504. [Reflected xss в m.vk.com/chatjoin](https://hackerone.com/reports/316475) to VK.com - 36 upvotes, $500
+505. [Cookie exfiltration through XSS on the main search request of www.lahitapiola.fi](https://hackerone.com/reports/1322322) to LocalTapiola - 36 upvotes, $500
+506. [Unrestricted File Upload Blind Stored Xss  in subdomain ads.tiktok.com](https://hackerone.com/reports/1577370) to TikTok - 36 upvotes, $250
+507. [www.starbucks.co.uk Reflected XSS via utm_source parameter](https://hackerone.com/reports/140616) to Starbucks - 36 upvotes, $0
+508. [Stored XSS in [shop].myshopify.com/admin/orders/[id]](https://hackerone.com/reports/214044) to Shopify - 36 upvotes, $0
+509. [Reflected XSS - gratipay.com](https://hackerone.com/reports/262852) to Gratipay - 36 upvotes, $0
+510. [Persistent XSS in https://sandbox.reverb.com/item/](https://hackerone.com/reports/333008) to Reverb.com - 36 upvotes, $0
+511. [Stored XSS on the https://www.redtube.com/users/[profile]/collections](https://hackerone.com/reports/380204) to Pornhub - 36 upvotes, $0
+512. [Хранимый XSS в Business-аккаунте, на странице компании](https://hackerone.com/reports/771882) to DRIVE.NET, Inc. - 36 upvotes, $0
+513. [Bypassing Content-Security-Policy leads to open-redirect and iframe xss](https://hackerone.com/reports/1166766) to Stripo Inc - 36 upvotes, $0
+514. [One Click XSS in [www.shopify.com]](https://hackerone.com/reports/1563334) to Shopify - 36 upvotes, $0
+515. [CSS Injection via Client Side Path Traversal + Open Redirect leads to personal data exfiltration on Acronis Cloud](https://hackerone.com/reports/1245165) to Acronis - 36 upvotes, $0
+516. [Xss  Parameter: /\<s\>/[*]/\<s\>.css ████████](https://hackerone.com/reports/2353131) to U.S. Dept Of Defense - 36 upvotes, $0
+517. [Stored XSS in attachment-display exploitable through SameSite](https://hackerone.com/reports/3594137) to Nextcloud - 36 upvotes, $0
+518. [Reflected XSS on developer.uber.com via Angular template injection](https://hackerone.com/reports/125027) to Uber - 35 upvotes, $3000
+519. [[stored xss, pornhub.com] stream post function](https://hackerone.com/reports/138075) to Pornhub - 35 upvotes, $1500
+520. [Stored XSS on profile page via Steam display name](https://hackerone.com/reports/282604) to Rockstar Games - 35 upvotes, $1250
+521. [XSS on product comments in transfers](https://hackerone.com/reports/738072) to Shopify - 35 upvotes, $500
+522. [Timeline Editor Self-XSS (Previous Fix #738072 Incomplete)](https://hackerone.com/reports/755679) to Shopify - 35 upvotes, $500
+523. [Persistent XSS in www.starbucks.com](https://hackerone.com/reports/188972) to Starbucks - 35 upvotes, $0
+524. [Stored XSS Deleting Menu Links in the Shopify Admin](https://hackerone.com/reports/263876) to Shopify - 35 upvotes, $0
+525. [XSS *.myshopify.com/collections/vendors?q=](https://hackerone.com/reports/324136) to Shopify - 35 upvotes, $0
+526. [Stored XSS in galleries - https://www.redtube.com/gallery/[id] path](https://hackerone.com/reports/380207) to Pornhub - 35 upvotes, $0
+527. [Multiple stored XSS in WordPress](https://hackerone.com/reports/221507) to WordPress - 35 upvotes, $0
+528. [Reflected XSS on https://www.olx.co.id/iklan/*.html via "ad_type" parameter](https://hackerone.com/reports/630265) to OLX - 35 upvotes, $0
+529. [Store-XSS in error message of build-dependencies ](https://hackerone.com/reports/950190) to GitLab - 35 upvotes, $0
+530. [Reflected XSS at https://www.glassdoor.co.in/FAQ/Microsoft-Question-FAQ200086-E1651.htm?countryRedirect=true via PATH](https://hackerone.com/reports/1016253) to Glassdoor - 35 upvotes, $0
+531. [[allods.mail.ru] - WebCache Poisoning Host Header lead to Potential Stored XSS](https://hackerone.com/reports/1262408) to Mail.ru - 35 upvotes, $0
+532. [POST BASED REFLECTED XSS IN dailydeals.mtn.co.za](https://hackerone.com/reports/1451394) to MTN Group - 35 upvotes, $0
+533. [[revive-adserver] Reflected XSS in Banner Delivery Options via cap parameter](https://hackerone.com/reports/3473696) to Revive Adserver - 35 upvotes, $0
+534. [Bypass Filter and get Stored Xss ](https://hackerone.com/reports/299424) to Shopify - 34 upvotes, $3000
+535. [Stored XSS in Dovetale by application of creator](https://hackerone.com/reports/1652046) to Shopify - 34 upvotes, $1600
+536. [DOM XSS via Shopify.API.Modal.initialize](https://hackerone.com/reports/602767) to Shopify - 34 upvotes, $500
+537. [Reflected XSS on https://travel.line.me](https://hackerone.com/reports/1880607) to LY Corporation - 34 upvotes, $100
+538. [Self-XSS in password reset functionality](https://hackerone.com/reports/286667) to Shopify - 34 upvotes, $0
+539. [Stored XSS in the guide's GameplayVersion (www.dota2.com)](https://hackerone.com/reports/380045) to Valve - 34 upvotes, $0
+540. [DOM Based xss on https://www.rockstargames.com/ ( 1 )](https://hackerone.com/reports/475442) to Rockstar Games - 34 upvotes, $0
+541. [Clipboard DOM-based XSS](https://hackerone.com/reports/1196958) to GitLab - 34 upvotes, $0
+542. [SSRF & Blind XSS in Gravatar email ](https://hackerone.com/reports/1100096) to Automattic - 34 upvotes, $0
+543. [Cross-site Scripting (XSS) - Reflected](https://hackerone.com/reports/1183336) to MTN Group - 34 upvotes, $0
+544. [Stored XSS on app.crowdsignal.com  your-subdomain.crowdsignal.net via Thank You Header](https://hackerone.com/reports/1842822) to Automattic - 34 upvotes, $0
+545. [XSS in Cisco Endpoint](https://hackerone.com/reports/2233421) to U.S. Dept Of Defense - 34 upvotes, $0
+546. [Reflected XSS in afr.php](https://hackerone.com/reports/3468169) to Revive Adserver - 34 upvotes, $0
+547. [XSS in biz.mail.ru/error](https://hackerone.com/reports/268245) to Mail.ru - 33 upvotes, $500
+548. [Stored XSS ](https://hackerone.com/reports/299806) to Open-Xchange - 33 upvotes, $500
+549. [Stored XSS in chat topic due to insecure emoticon parsing on any message type](https://hackerone.com/reports/429298) to Chaturbate - 33 upvotes, $450
+550. [BlIND XSS on https://open.vanillaforums.com](https://hackerone.com/reports/1189885) to Vanilla - 33 upvotes, $300
+551. [Blind Stored XSS in https://partners.acronis.com/admin which lead to sensitive information/PII leakage](https://hackerone.com/reports/1028820) to Acronis - 33 upvotes, $150
+552. [XSS in IE11 on portswigger.net via Flash](https://hackerone.com/reports/182160) to PortSwigger Web Security - 33 upvotes, $0
+553. [XSS inside HTML Link Tag](https://hackerone.com/reports/504984) to OLX - 33 upvotes, $0
+554. [Blind Stored XSS Payload fired at the backend on https://█████████/](https://hackerone.com/reports/1051369) to U.S. Dept Of Defense - 33 upvotes, $0
+555. [Stored-XSS in merge requests](https://hackerone.com/reports/977697) to GitLab - 33 upvotes, $0
+556. [Reflected Cross-Site scripting in : mtn.bj](https://hackerone.com/reports/1264832) to MTN Group - 33 upvotes, $0
+557. [Xss At Shopify Email App](https://hackerone.com/reports/1339356) to Shopify - 33 upvotes, $0
+558. [xss due to incorrect handling of postmessages](https://hackerone.com/reports/1758132) to Khan Academy - 33 upvotes, $0
+559. [Reflected xss on ████████ ](https://hackerone.com/reports/2389897) to Mars - 33 upvotes, $0
+560. [WAF bypass and java script incomplete handling of Unicode characters might leads to dom-xss](https://hackerone.com/reports/2921905) to Doppler - 33 upvotes, $0
+561. [Action Text XSS (Rails 7.1.x)](https://hackerone.com/reports/2389565) to Ruby on Rails - 33 upvotes, $0
+562. [Unquoted body background attribute enables CSS injection that bypasses remote image blocking](https://hackerone.com/reports/3590583) to Nextcloud - 33 upvotes, $0
+563. [Stored XSS in merge request creation page through payload in approval rule name](https://hackerone.com/reports/1342009) to GitLab - 32 upvotes, $3000
+564. [Possible XSS Vulnerability in Action Controller](https://hackerone.com/reports/2520694) to Internet Bug Bounty - 32 upvotes, $1068
+565. [XSS on "widgets.shopifyapps.com" via "stripping" attribute and "shop" parameter](https://hackerone.com/reports/246794) to Shopify - 32 upvotes, $1000
+566. [Stored XSS при удалении группы из беседы (m.vk.com)](https://hackerone.com/reports/1101500) to VK.com - 32 upvotes, $500
+567. [XSS For Profile Name](https://hackerone.com/reports/674426) to Vanilla - 32 upvotes, $300
+568. [Cross-site scripting in "Contact customer" form](https://hackerone.com/reports/294505) to Shopify - 32 upvotes, $0
+569. [Cross site scripting - XSRF Token](https://hackerone.com/reports/858255) to Nextcloud - 32 upvotes, $0
+570. [Reflected XSS and possible SSRF/XXE on https://events.hackerone.com/conferences/get_recording_slides_xml.xml?url=myserver/xss.xml](https://hackerone.com/reports/1028396) to HackerOne - 32 upvotes, $0
+571. [Reflected XSS on delivery.glovoapp.com](https://hackerone.com/reports/1264805) to Glovo - 32 upvotes, $0
+572. [XSS in http://www.glassdoor.com/Search/results.htm via Parameter Pollution](https://hackerone.com/reports/1632119) to Glassdoor - 32 upvotes, $0
+573. [Stored XSS on  wordpress.com](https://hackerone.com/reports/1987172) to Automattic - 32 upvotes, $0
+574. [Reflected XSS on www.acronis.com/de-de/my/subscriptions/index.html](https://hackerone.com/reports/1145712) to Acronis - 32 upvotes, $0
+575. [Reflected XSS POST method at partners.uber.com](https://hackerone.com/reports/129582) to Uber - 31 upvotes, $3000
+576. [Reflected XSS on Partners Subdomain](https://hackerone.com/reports/390181) to Uber - 31 upvotes, $2000
+577. [[Java] CWE-079: Query to detect XSS with JavaServer Faces (JSF)](https://hackerone.com/reports/1339898) to GitHub Security Lab - 31 upvotes, $1800
+578. [XSS in $shop$.myshopify.com/admin/ via twine template injection in "Shopify.API.Modal.input" method when using a malicious app](https://hackerone.com/reports/217790) to Shopify - 31 upvotes, $1000
+579. [stored XSS (angular injection) in support.rockstargames.com using zendesk register form via name parameter](https://hackerone.com/reports/354262) to Rockstar Games - 31 upvotes, $1000
+580. [XSS in message e.mail.ru ](https://hackerone.com/reports/1011035) to Mail.ru - 31 upvotes, $1000
+581. [Cookie based XSS on http://ftp1.thx.com](https://hackerone.com/reports/748217) to Razer - 31 upvotes, $375
+582. [Self-Stored XSS - Chained with login/logout CSRF](https://hackerone.com/reports/632017) to Eternal - 31 upvotes, $300
+583. [Reflected XSS on partners.cloudflare.com](https://hackerone.com/reports/131397) to Cloudflare Vulnerability Disclosure - 31 upvotes, $0
+584. [Big XSS vulnerability!](https://hackerone.com/reports/216330) to Legal Robot - 31 upvotes, $0
+585. [XSS risk reduction with X-XSS-Protection: 1; mode=block header](https://hackerone.com/reports/94909) to Radancy - 31 upvotes, $0
+586. [XSS https://agent.postamat.tech/ в профиле + дисклоз секретной информации](https://hackerone.com/reports/365093) to QIWI - 31 upvotes, $0
+587. [Reflected XSS at https://www.glassdoor.com/ via the 'numSuggestions' parameter](https://hackerone.com/reports/1042486) to Glassdoor - 31 upvotes, $0
+588. [XSS leads to RCE on the RocketChat desktop client.](https://hackerone.com/reports/899964) to Rocket.Chat - 31 upvotes, $0
+589. [CSRF to XSS](https://hackerone.com/reports/2736979) to U.S. Dept Of Defense - 31 upvotes, $0
+590. [Stored-XSS in campaign name displayed in Banners modal](https://hackerone.com/reports/3411750) to Revive Adserver - 31 upvotes, $0
+591. [CRLF and XSS stored on ton.twitter.com](https://hackerone.com/reports/191380) to X / xAI - 30 upvotes, $1680
+592. [Reflected cross-site scripting (XSS) on api.tiles.mapbox.com](https://hackerone.com/reports/135217) to Mapbox - 30 upvotes, $1000
+593. [Stored XSS in snapmatic comments](https://hackerone.com/reports/231389) to Rockstar Games - 30 upvotes, $1000
+594. [Xss was found by exploiting the URL markdown on http://store.steampowered.com](https://hackerone.com/reports/313250) to Valve - 30 upvotes, $1000
+595. [XSS in $shop$.myshopify.com/admin/ via "Button Objects" in malicious app](https://hackerone.com/reports/217745) to Shopify - 30 upvotes, $800
+596. [Stored XSS in "product type" field executed via product filters](https://hackerone.com/reports/1404770) to Judge.me  - 30 upvotes, $500
+597. [XSS in (Support Requests) : User Cases](https://hackerone.com/reports/961226) to Acronis - 30 upvotes, $50
+598. [Reflected XSS in www.dota2.com](https://hackerone.com/reports/292457) to Valve - 30 upvotes, $0
+599. [XSS-уязвимость, связанная с загрузкой файлов](https://hackerone.com/reports/375886) to VK.com - 30 upvotes, $0
+600. [[FG-VD-19-022] Wordpress WooCommerce Cross-Site Scripting Vulnerability Notification](https://hackerone.com/reports/495583) to Automattic - 30 upvotes, $0
+601. [Stored XSS in https://productreviews.shopifyapps.com/proxy/v4/reviews/product](https://hackerone.com/reports/168458) to Shopify - 30 upvotes, $0
+602. [DOM XSS on duckduckgo.com search](https://hackerone.com/reports/921635) to DuckDuckGo - 30 upvotes, $0
+603. [[api.tumblr.com] Exploiting clickjacking vulnerability to trigger self DOM-based XSS](https://hackerone.com/reports/953579) to Automattic - 30 upvotes, $0
+604. [Bypass extension check leads to stored XSS at https://s2.booth.pm](https://hackerone.com/reports/1019425) to pixiv - 30 upvotes, $0
+605. [Stored XSS on top.mail.ru](https://hackerone.com/reports/1241107) to Mail.ru - 30 upvotes, $0
+606. [Reflected XSS on av.ru via `q` parameter at https://av.ru/collections/*](https://hackerone.com/reports/965663) to Azbuka Vkusa - 30 upvotes, $0
+607. [Cross-site Scripting (XSS) - Reflected on https://api.mtn.sd/carbon/admin/login.jsp via `msgId` parameter -  CVE-2020-17453](https://hackerone.com/reports/1158823) to MTN Group - 30 upvotes, $0
+608. [Stored XSS in repository file viewer](https://hackerone.com/reports/1072868) to GitLab - 29 upvotes, $2000
+609. [ Stored XSS(Cross Site Scripting) In Slack App Name](https://hackerone.com/reports/159460) to Slack - 29 upvotes, $1000
+610. [XSS в колбек апи в сообществах ](https://hackerone.com/reports/261966) to VK.com - 29 upvotes, $500
+611. [Outdated Wordpress installation and plugins at www.uberxgermany.com create CSRF and XSS vulnerabilities](https://hackerone.com/reports/323899) to Uber - 29 upvotes, $500
+612. [DOM Based XSS in Discourse Search](https://hackerone.com/reports/191890) to Discourse - 29 upvotes, $0
+613. [[mercantile.wordpress.org] Reflected XSS via AngularJS Template Injection](https://hackerone.com/reports/230234) to WordPress - 29 upvotes, $0
+614. [[growth.grab.com] Reflected XSS via Base64-encoded "q" param on "my.html" Valentine's microsite](https://hackerone.com/reports/320679) to Grab - 29 upvotes, $0
+615. [Reflected XSS in www.olx.co.id](https://hackerone.com/reports/639796) to OLX - 29 upvotes, $0
+616. [Stored XSS at https://app.smtp2go.com/settings/users/  ](https://hackerone.com/reports/912865) to SMTP2GO - 29 upvotes, $0
+617. [Self xss in product reviews](https://hackerone.com/reports/1029668) to Shopify - 29 upvotes, $0
+618. [Stored XSS in Satisfaction Surveys via "Ask Reason for Dissatisfaction" option](https://hackerone.com/reports/953791) to Lark Technologies - 29 upvotes, $0
+619. [HTTP Request Smuggling on api.flocktory.com Leads to XSS on Customer Sites](https://hackerone.com/reports/955170) to QIWI - 29 upvotes, $0
+620. [Multiple XSS and open HTTP redirection](https://hackerone.com/reports/2372332) to ExpressionEngine - 29 upvotes, $0
 621. [o2.mail.ru XSS](https://hackerone.com/reports/824666) to Mail.ru - 28 upvotes, $1000
 622. [Reflected XSS in error pages (NC-SA-2017-008)](https://hackerone.com/reports/216812) to Nextcloud - 28 upvotes, $450
 623. [Persistent XSS via Signatures](https://hackerone.com/reports/413828) to Vanilla - 28 upvotes, $300
@@ -642,22 +642,22 @@ Top XSS reports from HackerOne:
 640. [Reflected Cross Site Scripting Cisco ASA on  myvpn.mtncameroon.net CVE-2020-3580](https://hackerone.com/reports/1247833) to MTN Group - 28 upvotes, $0
 641. [Stored DOM XSS via Mermaid chart](https://hackerone.com/reports/1103258) to GitLab - 27 upvotes, $3000
 642. [Stored XSS in group issue list](https://hackerone.com/reports/859333) to GitLab - 27 upvotes, $2000
-643. [Universal XSS with Playlist feature](https://hackerone.com/reports/1436558) to Brave Software - 27 upvotes, $750
-644. [[web.icq.com] Stored XSS in "О Контакте"](https://hackerone.com/reports/547683) to Mail.ru - 27 upvotes, $500
-645. [Reflected XSS at city-mobil.ru](https://hackerone.com/reports/797717) to Mail.ru - 27 upvotes, $300
-646. [XSS in vk.link](https://hackerone.com/reports/1025125) to VK.com - 27 upvotes, $300
-647. [Cross Site Scripting (Reflected) on https://www.acronis.cz/](https://hackerone.com/reports/1084156) to Acronis - 27 upvotes, $50
-648. [Persistent XSS at verkkopalvelu.tapiola.fi using spoofed React element and React v.0.13.3](https://hackerone.com/reports/139004) to LocalTapiola - 27 upvotes, $0
-649. [DOM based reflected XSS in rockstargames.com/newswire/tags through cross domain ajax request](https://hackerone.com/reports/172843) to Rockstar Games - 27 upvotes, $0
-650. [Reflected XSS in /Videos/ via calling a callback http://www.rockstargames.com/videos/#/?lb=](https://hackerone.com/reports/151276) to Rockstar Games - 27 upvotes, $0
-651. [[stagecafrstore.starbucks.com] CRLF Injection, XSS](https://hackerone.com/reports/192667) to Starbucks - 27 upvotes, $0
-652. [XSS on https://www.starbucks.co.uk (can lead to credit card theft) (/shop/paymentmethod)](https://hackerone.com/reports/227486) to Starbucks - 27 upvotes, $0
-653. [Stored - XSS](https://hackerone.com/reports/532643) to Shopify - 27 upvotes, $0
-654. [Stored XSS in Macro Editing - Introduced by Admins to affect Admins](https://hackerone.com/reports/471660) to Zendesk - 27 upvotes, $0
-655. [DOM XSS on app.starbucks.com via ReturnUrl](https://hackerone.com/reports/526265) to Starbucks - 27 upvotes, $0
-656. [CSRF to Cross-site Scripting (XSS)](https://hackerone.com/reports/1118501) to U.S. Dept Of Defense - 27 upvotes, $0
-657. [XSS in www.glassdoor.com](https://hackerone.com/reports/1695989) to Glassdoor - 27 upvotes, $0
-658. [Basic XSS [WAF Bypasses]](https://hackerone.com/reports/1615743) to Cloudflare Public Bug Bounty - 27 upvotes, $0
+643. [[web.icq.com] Stored XSS in "О Контакте"](https://hackerone.com/reports/547683) to Mail.ru - 27 upvotes, $500
+644. [Reflected XSS at city-mobil.ru](https://hackerone.com/reports/797717) to Mail.ru - 27 upvotes, $300
+645. [XSS in vk.link](https://hackerone.com/reports/1025125) to VK.com - 27 upvotes, $300
+646. [Cross Site Scripting (Reflected) on https://www.acronis.cz/](https://hackerone.com/reports/1084156) to Acronis - 27 upvotes, $50
+647. [Persistent XSS at verkkopalvelu.tapiola.fi using spoofed React element and React v.0.13.3](https://hackerone.com/reports/139004) to LocalTapiola - 27 upvotes, $0
+648. [DOM based reflected XSS in rockstargames.com/newswire/tags through cross domain ajax request](https://hackerone.com/reports/172843) to Rockstar Games - 27 upvotes, $0
+649. [Reflected XSS in /Videos/ via calling a callback http://www.rockstargames.com/videos/#/?lb=](https://hackerone.com/reports/151276) to Rockstar Games - 27 upvotes, $0
+650. [[stagecafrstore.starbucks.com] CRLF Injection, XSS](https://hackerone.com/reports/192667) to Starbucks - 27 upvotes, $0
+651. [XSS on https://www.starbucks.co.uk (can lead to credit card theft) (/shop/paymentmethod)](https://hackerone.com/reports/227486) to Starbucks - 27 upvotes, $0
+652. [Stored - XSS](https://hackerone.com/reports/532643) to Shopify - 27 upvotes, $0
+653. [Stored XSS in Macro Editing - Introduced by Admins to affect Admins](https://hackerone.com/reports/471660) to Zendesk - 27 upvotes, $0
+654. [DOM XSS on app.starbucks.com via ReturnUrl](https://hackerone.com/reports/526265) to Starbucks - 27 upvotes, $0
+655. [CSRF to Cross-site Scripting (XSS)](https://hackerone.com/reports/1118501) to U.S. Dept Of Defense - 27 upvotes, $0
+656. [XSS in www.glassdoor.com](https://hackerone.com/reports/1695989) to Glassdoor - 27 upvotes, $0
+657. [Basic XSS [WAF Bypasses]](https://hackerone.com/reports/1615743) to Cloudflare Public Bug Bounty - 27 upvotes, $0
+658. [Universal XSS with Playlist feature](https://hackerone.com/reports/1436558) to Brave Software - 27 upvotes, $0
 659. [Search input is vulnerable for XSS in qa.td.com and dev.td.com](https://hackerone.com/reports/1861545) to TD Bank - 27 upvotes, $0
 660. [[com.exness.android.pa Android] Universal XSS in webview. Lead to steal user cookies](https://hackerone.com/reports/532836) to EXNESS - 26 upvotes, $400
 661. [HTML injection leads to reflected XSS](https://hackerone.com/reports/743345) to Eternal - 26 upvotes, $150
@@ -702,21 +702,21 @@ Top XSS reports from HackerOne:
 700. [Cross-Site Request Forgery (CSRF) to xss](https://hackerone.com/reports/1183241) to MTN Group - 25 upvotes, $0
 701. [CSRF and XSS on www.acronis.com](https://hackerone.com/reports/961787) to Acronis - 25 upvotes, $0
 702. [XSS via the lang parameter in a POST request on light.mail.ru](https://hackerone.com/reports/496128) to Mail.ru - 24 upvotes, $500
-703. [XSS on Brave Today through custom RSS feed](https://hackerone.com/reports/1184379) to Brave Software - 24 upvotes, $500
-704. [Stored XSS in api.icq.net](https://hackerone.com/reports/363042) to Mail.ru - 24 upvotes, $150
-705. [Reflected XSS on my.acronis.com](https://hackerone.com/reports/1168962) to Acronis - 24 upvotes, $50
-706. [Stored Cross-Site-Scripting in CMS Airship's  authors profiles](https://hackerone.com/reports/148741) to Paragon Initiative Enterprises - 24 upvotes, $0
-707. [Stored XSS on Share-popup of a directory's Gallery-view](https://hackerone.com/reports/145355) to Nextcloud - 24 upvotes, $0
-708. [XSS in touch.mail.ru ](https://hackerone.com/reports/409440) to Mail.ru - 24 upvotes, $0
-709. [[e.mail.ru] Stored xss in Mpop cookie](https://hackerone.com/reports/454401) to Mail.ru - 24 upvotes, $0
-710. [Persistent XSS via e-mail when creating merge requests](https://hackerone.com/reports/496973) to GitLab - 24 upvotes, $0
-711. [Camo Image Proxy Bypass with CSS Escape Sequences](https://hackerone.com/reports/745953) to Chaturbate - 24 upvotes, $0
-712. [Stored XSS in Review Section https://games.mail.ru/](https://hackerone.com/reports/764935) to Mail.ru - 24 upvotes, $0
-713. [Authenticated Stored Cross-site Scripting in bbPress](https://hackerone.com/reports/881918) to WordPress - 24 upvotes, $0
-714. [xss triggered in "myshopify.com/admin/product"](https://hackerone.com/reports/978125) to Shopify - 24 upvotes, $0
-715. [Stored XSS in Application menu via Home Page Url](https://hackerone.com/reports/797754) to Ping Identity - 24 upvotes, $0
-716. [Reflected XSS on /admin/stats.php](https://hackerone.com/reports/1083376) to Revive Adserver - 24 upvotes, $0
-717. [Stored XSS in any message (leads to priv esc for all users and file leak + rce via electron app)](https://hackerone.com/reports/1014459) to Rocket.Chat - 24 upvotes, $0
+703. [Stored XSS in api.icq.net](https://hackerone.com/reports/363042) to Mail.ru - 24 upvotes, $150
+704. [Reflected XSS on my.acronis.com](https://hackerone.com/reports/1168962) to Acronis - 24 upvotes, $50
+705. [Stored Cross-Site-Scripting in CMS Airship's  authors profiles](https://hackerone.com/reports/148741) to Paragon Initiative Enterprises - 24 upvotes, $0
+706. [Stored XSS on Share-popup of a directory's Gallery-view](https://hackerone.com/reports/145355) to Nextcloud - 24 upvotes, $0
+707. [XSS in touch.mail.ru ](https://hackerone.com/reports/409440) to Mail.ru - 24 upvotes, $0
+708. [[e.mail.ru] Stored xss in Mpop cookie](https://hackerone.com/reports/454401) to Mail.ru - 24 upvotes, $0
+709. [Persistent XSS via e-mail when creating merge requests](https://hackerone.com/reports/496973) to GitLab - 24 upvotes, $0
+710. [Camo Image Proxy Bypass with CSS Escape Sequences](https://hackerone.com/reports/745953) to Chaturbate - 24 upvotes, $0
+711. [Stored XSS in Review Section https://games.mail.ru/](https://hackerone.com/reports/764935) to Mail.ru - 24 upvotes, $0
+712. [Authenticated Stored Cross-site Scripting in bbPress](https://hackerone.com/reports/881918) to WordPress - 24 upvotes, $0
+713. [xss triggered in "myshopify.com/admin/product"](https://hackerone.com/reports/978125) to Shopify - 24 upvotes, $0
+714. [Stored XSS in Application menu via Home Page Url](https://hackerone.com/reports/797754) to Ping Identity - 24 upvotes, $0
+715. [Reflected XSS on /admin/stats.php](https://hackerone.com/reports/1083376) to Revive Adserver - 24 upvotes, $0
+716. [Stored XSS in any message (leads to priv esc for all users and file leak + rce via electron app)](https://hackerone.com/reports/1014459) to Rocket.Chat - 24 upvotes, $0
+717. [XSS on Brave Today through custom RSS feed](https://hackerone.com/reports/1184379) to Brave Software - 24 upvotes, $0
 718. [ActionView sanitize helper bypass leading to XSS using SVG tag.](https://hackerone.com/reports/1694173) to Ruby on Rails - 24 upvotes, $0
 719. [Adobe Experience Manager 'Childlist selector' - Cross-Site Scripting on  cbconnection.adobe.com](https://hackerone.com/reports/1842801) to Adobe - 24 upvotes, $0
 720. [Reflected XSS via Moodle on ███ [CVE-2022-35653]](https://hackerone.com/reports/2444032) to U.S. Dept Of Defense - 24 upvotes, $0
@@ -818,41 +818,41 @@ Top XSS reports from HackerOne:
 816. [Parâmetro XSS: Nome de usuário - █████████](https://hackerone.com/reports/2356104) to U.S. Dept Of Defense - 20 upvotes, $0
 817. [Reflected XSS in account-preferences-plugin.php](https://hackerone.com/reports/3399191) to Revive Adserver - 20 upvotes, $0
 818. [Stored-XSS in Banner Name field ](https://hackerone.com/reports/3404968) to Revive Adserver - 20 upvotes, $0
-819. [Stored XSS in dropboxforum.com](https://hackerone.com/reports/413124) to Dropbox - 19 upvotes, $512
-820. [Stored xss в /lead_forms_app.php](https://hackerone.com/reports/283539) to VK.com - 19 upvotes, $500
-821. [XSS in e.mail.ru](https://hackerone.com/reports/399382) to Mail.ru - 19 upvotes, $500
-822. [XSS в выборе товара.](https://hackerone.com/reports/1253124) to VK.com - 19 upvotes, $500
-823. [Stored XSS in "post last edited" option](https://hackerone.com/reports/333507) to Discourse - 19 upvotes, $256
-824. [Solution to the XSS Challenge ](https://hackerone.com/reports/1026585) to BugPoC - 19 upvotes, $200
-825. [DOM based XSS in store.acronis.com/\<id\>/purl-corporate-standard-IT [cfg parameter]](https://hackerone.com/reports/968690) to Acronis - 19 upvotes, $50
-826. [Cross-Site Scripting Reflected On Main Domain](https://hackerone.com/reports/104917) to Instacart - 19 upvotes, $0
-827. [XSS vulnerability using GIF tags](https://hackerone.com/reports/191674) to Pornhub - 19 upvotes, $0
-828. [XSS in the search bar of mercantile.wordpress.org](https://hackerone.com/reports/221893) to WordPress - 19 upvotes, $0
-829. [Stored XSS in comments on https://www.starbucks.co.uk/blog/*](https://hackerone.com/reports/218226) to Starbucks - 19 upvotes, $0
-830. [XSS on vimeo.com/home after other user follows you](https://hackerone.com/reports/87854) to Vimeo - 19 upvotes, $0
-831. [Stored XSS with CRLF injection via post message to user feed](https://hackerone.com/reports/263191) to Rockstar Games - 19 upvotes, $0
-832. [Admin Macro Description Stored XSS](https://hackerone.com/reports/392457) to Zendesk - 19 upvotes, $0
-833. [Search Page Reflected XSS on sharjah.dubizzle.com through unencoded output of GET parameter in JavaScript](https://hackerone.com/reports/363571) to OLX - 19 upvotes, $0
-834. [BUG XSS IN "ADD IMAGES"](https://hackerone.com/reports/583710) to Imgur - 19 upvotes, $0
-835. [XSS at go.mail.ru](https://hackerone.com/reports/846931) to Mail.ru - 19 upvotes, $0
-836. [Reflected XSS on https://apps.topcoder.com/wiki/page/](https://hackerone.com/reports/866433) to Lab45 - 19 upvotes, $0
-837. [Blind stored XSS due to insecure contact form at https://www.topcoder.com leads to leakage of session token and other PII](https://hackerone.com/reports/878145) to Lab45 - 19 upvotes, $0
-838. [Reflected XSS on a Atavist theme](https://hackerone.com/reports/947790) to Automattic - 19 upvotes, $0
-839. [Probably unexploitable XSS via Header Injection](https://hackerone.com/reports/836689) to WHO COVID-19 Mobile App - 19 upvotes, $0
-840. [Stored XSS in calendar via UID parameter](https://hackerone.com/reports/758642) to Mail.ru - 19 upvotes, $0
-841. [Stealing app credentials by reflected xss on Lark Suite](https://hackerone.com/reports/791278) to Lark Technologies - 19 upvotes, $0
-842. [Reflected XSS on ███](https://hackerone.com/reports/1057419) to U.S. Dept Of Defense - 19 upvotes, $0
-843. [Blind XSS Stored and CORS misconfiguration в отчете "События" сервиса top.mail.ru](https://hackerone.com/reports/1255676) to Mail.ru - 19 upvotes, $0
-844. [Stored XSS on 1.4.0](https://hackerone.com/reports/1331281) to ImpressCMS - 19 upvotes, $0
-845. [Reflected XSS on dailydeals.mtn.co.za](https://hackerone.com/reports/1212235) to MTN Group - 19 upvotes, $0
-846. [[hta3] Chain of ESI Injection & Reflected XSS leading to Account Takeover on [███]](https://hackerone.com/reports/1073780) to U.S. Dept Of Defense - 19 upvotes, $0
-847. [[user_oidc] Stored XSS via Authorization Endpoint - Safari-Only](https://hackerone.com/reports/1687410) to Nextcloud - 19 upvotes, $0
-848. [Reflected XSS on ██████.mil](https://hackerone.com/reports/1799562) to U.S. Dept Of Defense - 19 upvotes, $0
-849. [reflected XSS in [www.equifax.com]](https://hackerone.com/reports/1818172) to Equifax-vdp - 19 upvotes, $0
-850. [Stored XSS filter bypass on discussion forum. ](https://hackerone.com/reports/1096058) to ExpressionEngine - 19 upvotes, $0
-851. [CSS Injection in Message Avatar](https://hackerone.com/reports/1031613) to Rocket.Chat - 19 upvotes, $0
-852. [Stored XSS on newsroom.uber.com admin panel / Stream WordPress plugin](https://hackerone.com/reports/127948) to Uber - 18 upvotes, $5000
-853. [Cross-site scripting via hardcoded front-end watched expression.](https://hackerone.com/reports/684544) to Quantopian - 18 upvotes, $1225
+819. [Cross-site scripting via hardcoded front-end watched expression.](https://hackerone.com/reports/684544) to Quantopian - 19 upvotes, $1225
+820. [Stored XSS in dropboxforum.com](https://hackerone.com/reports/413124) to Dropbox - 19 upvotes, $512
+821. [Stored xss в /lead_forms_app.php](https://hackerone.com/reports/283539) to VK.com - 19 upvotes, $500
+822. [XSS in e.mail.ru](https://hackerone.com/reports/399382) to Mail.ru - 19 upvotes, $500
+823. [XSS в выборе товара.](https://hackerone.com/reports/1253124) to VK.com - 19 upvotes, $500
+824. [Stored XSS in "post last edited" option](https://hackerone.com/reports/333507) to Discourse - 19 upvotes, $256
+825. [Solution to the XSS Challenge ](https://hackerone.com/reports/1026585) to BugPoC - 19 upvotes, $200
+826. [DOM based XSS in store.acronis.com/\<id\>/purl-corporate-standard-IT [cfg parameter]](https://hackerone.com/reports/968690) to Acronis - 19 upvotes, $50
+827. [Cross-Site Scripting Reflected On Main Domain](https://hackerone.com/reports/104917) to Instacart - 19 upvotes, $0
+828. [XSS vulnerability using GIF tags](https://hackerone.com/reports/191674) to Pornhub - 19 upvotes, $0
+829. [XSS in the search bar of mercantile.wordpress.org](https://hackerone.com/reports/221893) to WordPress - 19 upvotes, $0
+830. [Stored XSS in comments on https://www.starbucks.co.uk/blog/*](https://hackerone.com/reports/218226) to Starbucks - 19 upvotes, $0
+831. [XSS on vimeo.com/home after other user follows you](https://hackerone.com/reports/87854) to Vimeo - 19 upvotes, $0
+832. [Stored XSS with CRLF injection via post message to user feed](https://hackerone.com/reports/263191) to Rockstar Games - 19 upvotes, $0
+833. [Admin Macro Description Stored XSS](https://hackerone.com/reports/392457) to Zendesk - 19 upvotes, $0
+834. [Search Page Reflected XSS on sharjah.dubizzle.com through unencoded output of GET parameter in JavaScript](https://hackerone.com/reports/363571) to OLX - 19 upvotes, $0
+835. [BUG XSS IN "ADD IMAGES"](https://hackerone.com/reports/583710) to Imgur - 19 upvotes, $0
+836. [XSS at go.mail.ru](https://hackerone.com/reports/846931) to Mail.ru - 19 upvotes, $0
+837. [Reflected XSS on https://apps.topcoder.com/wiki/page/](https://hackerone.com/reports/866433) to Lab45 - 19 upvotes, $0
+838. [Blind stored XSS due to insecure contact form at https://www.topcoder.com leads to leakage of session token and other PII](https://hackerone.com/reports/878145) to Lab45 - 19 upvotes, $0
+839. [Reflected XSS on a Atavist theme](https://hackerone.com/reports/947790) to Automattic - 19 upvotes, $0
+840. [Probably unexploitable XSS via Header Injection](https://hackerone.com/reports/836689) to WHO COVID-19 Mobile App - 19 upvotes, $0
+841. [Stored XSS in calendar via UID parameter](https://hackerone.com/reports/758642) to Mail.ru - 19 upvotes, $0
+842. [Stealing app credentials by reflected xss on Lark Suite](https://hackerone.com/reports/791278) to Lark Technologies - 19 upvotes, $0
+843. [Reflected XSS on ███](https://hackerone.com/reports/1057419) to U.S. Dept Of Defense - 19 upvotes, $0
+844. [Blind XSS Stored and CORS misconfiguration в отчете "События" сервиса top.mail.ru](https://hackerone.com/reports/1255676) to Mail.ru - 19 upvotes, $0
+845. [Stored XSS on 1.4.0](https://hackerone.com/reports/1331281) to ImpressCMS - 19 upvotes, $0
+846. [Reflected XSS on dailydeals.mtn.co.za](https://hackerone.com/reports/1212235) to MTN Group - 19 upvotes, $0
+847. [[hta3] Chain of ESI Injection & Reflected XSS leading to Account Takeover on [███]](https://hackerone.com/reports/1073780) to U.S. Dept Of Defense - 19 upvotes, $0
+848. [[user_oidc] Stored XSS via Authorization Endpoint - Safari-Only](https://hackerone.com/reports/1687410) to Nextcloud - 19 upvotes, $0
+849. [Reflected XSS on ██████.mil](https://hackerone.com/reports/1799562) to U.S. Dept Of Defense - 19 upvotes, $0
+850. [reflected XSS in [www.equifax.com]](https://hackerone.com/reports/1818172) to Equifax-vdp - 19 upvotes, $0
+851. [Stored XSS filter bypass on discussion forum. ](https://hackerone.com/reports/1096058) to ExpressionEngine - 19 upvotes, $0
+852. [CSS Injection in Message Avatar](https://hackerone.com/reports/1031613) to Rocket.Chat - 19 upvotes, $0
+853. [Stored XSS on newsroom.uber.com admin panel / Stream WordPress plugin](https://hackerone.com/reports/127948) to Uber - 18 upvotes, $5000
 854. [XSS on partners.uber.com due to no user input sanitisation ](https://hackerone.com/reports/281283) to Uber - 18 upvotes, $1000
 855. [HTML Injection / Reflected Cross-Site Scripting with CSP on https://accounts.firefox.com/settings](https://hackerone.com/reports/1880896) to Mozilla - 18 upvotes, $1000
 856. [XSS on opening a malicious OpenOffice text document](https://hackerone.com/reports/894915) to Open-Xchange - 18 upvotes, $400
@@ -880,144 +880,144 @@ Top XSS reports from HackerOne:
 878. [DOM XSS on  www.adobe.com](https://hackerone.com/reports/1260825) to Adobe - 18 upvotes, $0
 879. [Reflective Cross Site Scripting (XSS) on ███████/Pages](https://hackerone.com/reports/1794757) to U.S. Dept Of Defense - 18 upvotes, $0
 880. [[Web ICQ Client] XSS-inj in polls](https://hackerone.com/reports/785785) to Mail.ru - 17 upvotes, $1000
-881. [Universal XSS through FIDO U2F register from subframe](https://hackerone.com/reports/993670) to Brave Software - 17 upvotes, $1000
-882. [Blind XSS in mapbox.com/contact](https://hackerone.com/reports/158461) to Mapbox - 17 upvotes, $750
-883. [Хранимая XSS в группе VK](https://hackerone.com/reports/266072) to VK.com - 17 upvotes, $500
-884. [Reflected XSS in the shared note view on https://evernote.com](https://hackerone.com/reports/1518343) to Evernote - 17 upvotes, $500
-885. [Reflected XSS on molpay.com with cloudflare bypass](https://hackerone.com/reports/800360) to Razer - 17 upvotes, $375
-886. [OX (Guard): Stored Cross-Site Scripting via Email Attachment](https://hackerone.com/reports/165275) to Open-Xchange - 17 upvotes, $300
-887. [Reflected XSS on https://www.easytopup.in.th/store/product/return on parameter mref_id](https://hackerone.com/reports/776883) to Razer - 17 upvotes, $250
-888. [Stored XSS на странице "Изменить клиента", вкладка "История" [city-mobil.ru/taxiserv]](https://hackerone.com/reports/1050047) to Mail.ru - 17 upvotes, $150
-889. [Reflected XSS when renaming a file with a vulnerable name which results in an error](https://hackerone.com/reports/896522) to Nextcloud - 17 upvotes, $100
-890. [Stored XSS](https://hackerone.com/reports/157958) to Instacart - 17 upvotes, $0
-891. [[nutty.ubnt.com] DOM Based XSS nuttyapp github-btn.html](https://hackerone.com/reports/200753) to Ubiquiti Inc. - 17 upvotes, $0
-892. [Stored XSS on Files overview by abusing git submodule URL](https://hackerone.com/reports/218872) to GitLab - 17 upvotes, $0
-893. [Open redirect / Reflected XSS payload in root that affects all your sites (store.starbucks.* / shop.starbucks.* / teavana.com)](https://hackerone.com/reports/196846) to Starbucks - 17 upvotes, $0
-894. [Store XSS on Informatica University via transcript (informatica.csod.com)](https://hackerone.com/reports/219509) to Informatica - 17 upvotes, $0
-895. [Reflected XSS in reddeadredemption Site  located at www.rockstargames.com/reddeadredemption](https://hackerone.com/reports/149673) to Rockstar Games - 17 upvotes, $0
-896. [Persistent XSS found on bin.pinion.gg due to outdated FlowPlayer SWF file with Remote File Inclusion vulnerability.](https://hackerone.com/reports/254269) to Unikrn - 17 upvotes, $0
-897. [DOM-based XSS in store.starbucks.co.uk on IE 11](https://hackerone.com/reports/241619) to Starbucks - 17 upvotes, $0
-898. [[airbnb.com] XSS via Cookie flash](https://hackerone.com/reports/197334) to Airbnb - 17 upvotes, $0
-899. [Stored XSS in www.learnboost.com via ZIP codes.](https://hackerone.com/reports/300812) to Automattic - 17 upvotes, $0
-900. [Cross Site Scripting -\> Reflected XSS](https://hackerone.com/reports/150568) to OLX - 17 upvotes, $0
-901. [Reflected XSS ](https://hackerone.com/reports/267206) to Informatica - 17 upvotes, $0
-902. [[wallet.rapida.ru] XSS Cookie flashcookie](https://hackerone.com/reports/164662) to QIWI - 17 upvotes, $0
-903. [Reflected XSS / Markup Injection in `index.php/svg/core/logo/logo` parameter `color`](https://hackerone.com/reports/605915) to Nextcloud - 17 upvotes, $0
-904. [Reflected XSS via XML Namespace URI on https://go.mapbox.com/index.php/soap/](https://hackerone.com/reports/780277) to Mapbox - 17 upvotes, $0
-905. [Self XSS combine CSRF at https://████████/index.php](https://hackerone.com/reports/485684) to U.S. Dept Of Defense - 17 upvotes, $0
+881. [Blind XSS in mapbox.com/contact](https://hackerone.com/reports/158461) to Mapbox - 17 upvotes, $750
+882. [Хранимая XSS в группе VK](https://hackerone.com/reports/266072) to VK.com - 17 upvotes, $500
+883. [Reflected XSS in the shared note view on https://evernote.com](https://hackerone.com/reports/1518343) to Evernote - 17 upvotes, $500
+884. [Reflected XSS on molpay.com with cloudflare bypass](https://hackerone.com/reports/800360) to Razer - 17 upvotes, $375
+885. [OX (Guard): Stored Cross-Site Scripting via Email Attachment](https://hackerone.com/reports/165275) to Open-Xchange - 17 upvotes, $300
+886. [Reflected XSS on https://www.easytopup.in.th/store/product/return on parameter mref_id](https://hackerone.com/reports/776883) to Razer - 17 upvotes, $250
+887. [Stored XSS на странице "Изменить клиента", вкладка "История" [city-mobil.ru/taxiserv]](https://hackerone.com/reports/1050047) to Mail.ru - 17 upvotes, $150
+888. [Reflected XSS when renaming a file with a vulnerable name which results in an error](https://hackerone.com/reports/896522) to Nextcloud - 17 upvotes, $100
+889. [Stored XSS](https://hackerone.com/reports/157958) to Instacart - 17 upvotes, $0
+890. [[nutty.ubnt.com] DOM Based XSS nuttyapp github-btn.html](https://hackerone.com/reports/200753) to Ubiquiti Inc. - 17 upvotes, $0
+891. [Stored XSS on Files overview by abusing git submodule URL](https://hackerone.com/reports/218872) to GitLab - 17 upvotes, $0
+892. [Open redirect / Reflected XSS payload in root that affects all your sites (store.starbucks.* / shop.starbucks.* / teavana.com)](https://hackerone.com/reports/196846) to Starbucks - 17 upvotes, $0
+893. [Store XSS on Informatica University via transcript (informatica.csod.com)](https://hackerone.com/reports/219509) to Informatica - 17 upvotes, $0
+894. [Reflected XSS in reddeadredemption Site  located at www.rockstargames.com/reddeadredemption](https://hackerone.com/reports/149673) to Rockstar Games - 17 upvotes, $0
+895. [Persistent XSS found on bin.pinion.gg due to outdated FlowPlayer SWF file with Remote File Inclusion vulnerability.](https://hackerone.com/reports/254269) to Unikrn - 17 upvotes, $0
+896. [DOM-based XSS in store.starbucks.co.uk on IE 11](https://hackerone.com/reports/241619) to Starbucks - 17 upvotes, $0
+897. [[airbnb.com] XSS via Cookie flash](https://hackerone.com/reports/197334) to Airbnb - 17 upvotes, $0
+898. [Stored XSS in www.learnboost.com via ZIP codes.](https://hackerone.com/reports/300812) to Automattic - 17 upvotes, $0
+899. [Cross Site Scripting -\> Reflected XSS](https://hackerone.com/reports/150568) to OLX - 17 upvotes, $0
+900. [Reflected XSS ](https://hackerone.com/reports/267206) to Informatica - 17 upvotes, $0
+901. [[wallet.rapida.ru] XSS Cookie flashcookie](https://hackerone.com/reports/164662) to QIWI - 17 upvotes, $0
+902. [Reflected XSS / Markup Injection in `index.php/svg/core/logo/logo` parameter `color`](https://hackerone.com/reports/605915) to Nextcloud - 17 upvotes, $0
+903. [Reflected XSS via XML Namespace URI on https://go.mapbox.com/index.php/soap/](https://hackerone.com/reports/780277) to Mapbox - 17 upvotes, $0
+904. [Self XSS combine CSRF at https://████████/index.php](https://hackerone.com/reports/485684) to U.S. Dept Of Defense - 17 upvotes, $0
+905. [Dom based xss on https://www.rockstargames.com/ via `returnUrl` parameter](https://hackerone.com/reports/505157) to Rockstar Games - 17 upvotes, $0
 906. [Stored XSS firing at the "Add chart to note" popup](https://hackerone.com/reports/566400) to New Relic - 17 upvotes, $0
 907. [Stored XSS firing at transaction map (applicationName field)](https://hackerone.com/reports/549084) to New Relic - 17 upvotes, $0
 908. [XSS in desktop client via invalid server address on login form](https://hackerone.com/reports/685552) to Nextcloud - 17 upvotes, $0
 909. [Reflected XSS at  https://www.glassdoor.co.in/Interview/BlackRock-Interview-Questions-E9331.htm via filter.jobTitleExact parameter](https://hackerone.com/reports/966527) to Glassdoor - 17 upvotes, $0
 910. [███ on https://████ enable ███ scraping, injection, stored XSS](https://hackerone.com/reports/1048571) to U.S. Dept Of Defense - 17 upvotes, $0
 911. [Reflected XSS on play.mtn.co.za](https://hackerone.com/reports/1061199) to MTN Group - 17 upvotes, $0
-912. [Cross-site Scripting (XSS) - Reflected on http://callertunez.mtn.com.gh/wap/noauth/sharedetail.ftl via `callback` parameter ](https://hackerone.com/reports/1147176) to MTN Group - 17 upvotes, $0
-913. [Reflected XSS in /admin/banner-zone.php (v6.0.0+)](https://hackerone.com/reports/3403727) to Revive Adserver - 17 upvotes, $0
-914. [XSS в товарах](https://hackerone.com/reports/273365) to VK.com - 16 upvotes, $1000
-915. [XSS в теле письма.](https://hackerone.com/reports/303727) to Mail.ru - 16 upvotes, $1000
-916. [Blind Stored XSS](https://hackerone.com/reports/347215) to Mail.ru - 16 upvotes, $550
-917. [stored xss in invited team member via email parameter](https://hackerone.com/reports/267177) to Shopify - 16 upvotes, $500
-918. [Reflected XSS in https://eng.uberinternal.com and https://coeshift.corp.uber.internal/](https://hackerone.com/reports/354686) to Uber - 16 upvotes, $500
-919. [DOM XSS vulnerability in search dialogue (NC-SA-2017-007)](https://hackerone.com/reports/213227) to Nextcloud - 16 upvotes, $250
-920. [Stored XSS на странице "Измененить водителя" [city-mobil.ru/taxiserv]](https://hackerone.com/reports/1050030) to Mail.ru - 16 upvotes, $150
-921. [Reflected XSS at https://stories.showmax.com/wp-content/themes/theme-internal_ss/blocks/ajax/a.php via `ss_country_filter` param](https://hackerone.com/reports/1663202) to Showmax - 16 upvotes, $150
-922. [XSS on https://www.delivery-club.ru](https://hackerone.com/reports/316897) to Mail.ru - 16 upvotes, $100
-923. [XSS Yahoo Messenger Via Calendar.Yahoo.Com ](https://hackerone.com/reports/914) to Yahoo! - 16 upvotes, $0
-924. [Reflected Flash XSS using swfupload.swf with an epileptic reloading to bypass the button-event](https://hackerone.com/reports/91421) to Imgur - 16 upvotes, $0
-925. [Stored XSS at https://finance.owox.com/customer/accountList](https://hackerone.com/reports/192922) to OWOX, Inc. - 16 upvotes, $0
-926. [Reflected XSS at https://da.wordpress.org/themes/?s= via "s=" parameter ](https://hackerone.com/reports/222040) to WordPress - 16 upvotes, $0
-927. [Dom based xss affecting all pages from https://www.grab.com/.](https://hackerone.com/reports/247246) to Grab - 16 upvotes, $0
-928. [[app.simplenote.com] Stored XSS via Markdown SVG filter bypass](https://hackerone.com/reports/271007) to Automattic - 16 upvotes, $0
-929. [Stored XSS in dev-ucrm-billing-demo.ubnt.com In Client Custom Attribute ](https://hackerone.com/reports/275515) to Ubiquiti Inc. - 16 upvotes, $0
-930. [SocialClub's Facebook OAuth Theft through Warehouse XSS.](https://hackerone.com/reports/316948) to Rockstar Games - 16 upvotes, $0
-931. [Authenticated reflected XSS on liberapay.com via the back_to parameter when leaving a team.](https://hackerone.com/reports/360797) to Liberapay - 16 upvotes, $0
-932. [XSS in main search, use class tag to imitate Reverb.com core functionality, create false login window](https://hackerone.com/reports/351376) to Reverb.com - 16 upvotes, $0
-933. [Reflective XSS at olx.ph](https://hackerone.com/reports/361647) to OLX - 16 upvotes, $0
-934. [Reflected XSS](https://hackerone.com/reports/304175) to Ubiquiti Inc. - 16 upvotes, $0
-935. [DOM XSS on 50x.html page](https://hackerone.com/reports/405191) to DuckDuckGo - 16 upvotes, $0
-936. [Stored XSS on Issue details page](https://hackerone.com/reports/384255) to GitLab - 16 upvotes, $0
-937. [XSS in e.mail.ru](https://hackerone.com/reports/419872) to Mail.ru - 16 upvotes, $0
-938. [[sms.qiwi.ru] XSS via Request-URI](https://hackerone.com/reports/38345) to QIWI - 16 upvotes, $0
-939. [Reflected XSS  in the npm module express-cart.](https://hackerone.com/reports/395944) to Node.js third-party modules - 16 upvotes, $0
-940. [Cross Site Scripting at https://app.oberlo.com/](https://hackerone.com/reports/542258) to Shopify - 16 upvotes, $0
-941. [DOM XSS via Shopify.API.remoteRedirect](https://hackerone.com/reports/576532) to Shopify - 16 upvotes, $0
-942. [Reflected XSS on www/delivery/afr.php](https://hackerone.com/reports/775693) to Revive Adserver - 16 upvotes, $0
-943. [Html Injection and Possible XSS in main nordvpn.com domain](https://hackerone.com/reports/780632) to Nord Security - 16 upvotes, $0
-944. [Content Injection on api.semrush.com to Reflected XSS](https://hackerone.com/reports/752042) to Semrush - 16 upvotes, $0
-945. [Dom based xss on https://www.rockstargames.com/ via `returnUrl` parameter](https://hackerone.com/reports/505157) to Rockstar Games - 16 upvotes, $0
-946. [Dom based xss on /reddeadredemption2/br/videos](https://hackerone.com/reports/488108) to Rockstar Games - 16 upvotes, $0
-947. [Self XSS in Timeline ](https://hackerone.com/reports/854299) to Shopify - 16 upvotes, $0
-948. [self-xss with ClickJacking can leads to account takeover in Firefox](https://hackerone.com/reports/892289) to Imgur - 16 upvotes, $0
-949. [Multiple Cross-Site Scripting vulnerability via the language parameter](https://hackerone.com/reports/953053) to TikTok - 16 upvotes, $0
-950. [XSS in message attachment fileds.](https://hackerone.com/reports/899954) to Rocket.Chat - 16 upvotes, $0
-951. [Reflected XSS on /www/delivery/afr.php (bypass of report #775693)](https://hackerone.com/reports/986365) to Revive Adserver - 16 upvotes, $0
-952. [Blind stored XSS due to insecure contact form at https://█████.mil leads to leakage of session token and ](https://hackerone.com/reports/1036877) to U.S. Dept Of Defense - 16 upvotes, $0
-953. [Reflected XSS on https://█████████/](https://hackerone.com/reports/1065167) to U.S. Dept Of Defense - 16 upvotes, $0
-954. [Stored XSS on {https://calendar.mail.ru/}](https://hackerone.com/reports/837215) to Mail.ru - 16 upvotes, $0
-955. [Reflected XSS at https://www.glassdoor.co.in/Job/pratt-whitney-jobs-SRCH_KE0,13.htm?initiatedFromCountryPicker=true&countryRedirect=true](https://hackerone.com/reports/971304) to Glassdoor - 16 upvotes, $0
-956. [XSS via X-Forwarded-Host header](https://hackerone.com/reports/882220) to U.S. Dept Of Defense - 16 upvotes, $0
-957. [New experimental query: Clipboard-based XSS](https://hackerone.com/reports/1345484) to GitHub Security Lab - 16 upvotes, $0
-958. [xss on [developers.mtn.com]](https://hackerone.com/reports/924851) to MTN Group - 16 upvotes, $0
-959. [XSS in Widget Review Form Preview in settings](https://hackerone.com/reports/1595905) to Judge.me  - 16 upvotes, $0
-960. [Self XSS in https://linkpop.com/dashboard/admin](https://hackerone.com/reports/1591403) to Shopify - 16 upvotes, $0
-961. [reflected xss in www.████████.gov](https://hackerone.com/reports/1814335) to U.S. Dept Of Defense - 16 upvotes, $0
-962. [Stored XSS via ' profile ' at ███](https://hackerone.com/reports/1921606) to Mars - 16 upvotes, $0
-963. [XSS exploit of RDoc documentation generated by rdoc (CVE-2013-0256)](https://hackerone.com/reports/1977168) to Ruby - 16 upvotes, $0
-964. [Stored XSS on inventory-retrieve.php](https://hackerone.com/reports/3399809) to Revive Adserver - 16 upvotes, $0
-965. [Stored XSS via "my recent queries" selector in NRQL dashboard builder](https://hackerone.com/reports/626082) to New Relic - 15 upvotes, $2500
-966. [Stored cross-site scripting in dataset owner.](https://hackerone.com/reports/708123) to Quantopian - 15 upvotes, $1925
+912. [Universal XSS through FIDO U2F register from subframe](https://hackerone.com/reports/993670) to Brave Software - 17 upvotes, $0
+913. [Cross-site Scripting (XSS) - Reflected on http://callertunez.mtn.com.gh/wap/noauth/sharedetail.ftl via `callback` parameter ](https://hackerone.com/reports/1147176) to MTN Group - 17 upvotes, $0
+914. [Reflected XSS in /admin/banner-zone.php (v6.0.0+)](https://hackerone.com/reports/3403727) to Revive Adserver - 17 upvotes, $0
+915. [Stored cross-site scripting in dataset owner.](https://hackerone.com/reports/708123) to Quantopian - 16 upvotes, $1925
+916. [XSS в товарах](https://hackerone.com/reports/273365) to VK.com - 16 upvotes, $1000
+917. [XSS в теле письма.](https://hackerone.com/reports/303727) to Mail.ru - 16 upvotes, $1000
+918. [Blind Stored XSS](https://hackerone.com/reports/347215) to Mail.ru - 16 upvotes, $550
+919. [stored xss in invited team member via email parameter](https://hackerone.com/reports/267177) to Shopify - 16 upvotes, $500
+920. [Reflected XSS in https://eng.uberinternal.com and https://coeshift.corp.uber.internal/](https://hackerone.com/reports/354686) to Uber - 16 upvotes, $500
+921. [DOM XSS vulnerability in search dialogue (NC-SA-2017-007)](https://hackerone.com/reports/213227) to Nextcloud - 16 upvotes, $250
+922. [Stored XSS на странице "Измененить водителя" [city-mobil.ru/taxiserv]](https://hackerone.com/reports/1050030) to Mail.ru - 16 upvotes, $150
+923. [Reflected XSS at https://stories.showmax.com/wp-content/themes/theme-internal_ss/blocks/ajax/a.php via `ss_country_filter` param](https://hackerone.com/reports/1663202) to Showmax - 16 upvotes, $150
+924. [XSS on https://www.delivery-club.ru](https://hackerone.com/reports/316897) to Mail.ru - 16 upvotes, $100
+925. [XSS Yahoo Messenger Via Calendar.Yahoo.Com ](https://hackerone.com/reports/914) to Yahoo! - 16 upvotes, $0
+926. [Reflected Flash XSS using swfupload.swf with an epileptic reloading to bypass the button-event](https://hackerone.com/reports/91421) to Imgur - 16 upvotes, $0
+927. [Stored XSS at https://finance.owox.com/customer/accountList](https://hackerone.com/reports/192922) to OWOX, Inc. - 16 upvotes, $0
+928. [Reflected XSS at https://da.wordpress.org/themes/?s= via "s=" parameter ](https://hackerone.com/reports/222040) to WordPress - 16 upvotes, $0
+929. [Dom based xss affecting all pages from https://www.grab.com/.](https://hackerone.com/reports/247246) to Grab - 16 upvotes, $0
+930. [[app.simplenote.com] Stored XSS via Markdown SVG filter bypass](https://hackerone.com/reports/271007) to Automattic - 16 upvotes, $0
+931. [Stored XSS in dev-ucrm-billing-demo.ubnt.com In Client Custom Attribute ](https://hackerone.com/reports/275515) to Ubiquiti Inc. - 16 upvotes, $0
+932. [SocialClub's Facebook OAuth Theft through Warehouse XSS.](https://hackerone.com/reports/316948) to Rockstar Games - 16 upvotes, $0
+933. [Authenticated reflected XSS on liberapay.com via the back_to parameter when leaving a team.](https://hackerone.com/reports/360797) to Liberapay - 16 upvotes, $0
+934. [XSS in main search, use class tag to imitate Reverb.com core functionality, create false login window](https://hackerone.com/reports/351376) to Reverb.com - 16 upvotes, $0
+935. [Reflective XSS at olx.ph](https://hackerone.com/reports/361647) to OLX - 16 upvotes, $0
+936. [Reflected XSS](https://hackerone.com/reports/304175) to Ubiquiti Inc. - 16 upvotes, $0
+937. [DOM XSS on 50x.html page](https://hackerone.com/reports/405191) to DuckDuckGo - 16 upvotes, $0
+938. [Stored XSS on Issue details page](https://hackerone.com/reports/384255) to GitLab - 16 upvotes, $0
+939. [XSS in e.mail.ru](https://hackerone.com/reports/419872) to Mail.ru - 16 upvotes, $0
+940. [[sms.qiwi.ru] XSS via Request-URI](https://hackerone.com/reports/38345) to QIWI - 16 upvotes, $0
+941. [Reflected XSS  in the npm module express-cart.](https://hackerone.com/reports/395944) to Node.js third-party modules - 16 upvotes, $0
+942. [Cross Site Scripting at https://app.oberlo.com/](https://hackerone.com/reports/542258) to Shopify - 16 upvotes, $0
+943. [DOM XSS via Shopify.API.remoteRedirect](https://hackerone.com/reports/576532) to Shopify - 16 upvotes, $0
+944. [Reflected XSS on www/delivery/afr.php](https://hackerone.com/reports/775693) to Revive Adserver - 16 upvotes, $0
+945. [Html Injection and Possible XSS in main nordvpn.com domain](https://hackerone.com/reports/780632) to Nord Security - 16 upvotes, $0
+946. [Content Injection on api.semrush.com to Reflected XSS](https://hackerone.com/reports/752042) to Semrush - 16 upvotes, $0
+947. [Dom based xss on /reddeadredemption2/br/videos](https://hackerone.com/reports/488108) to Rockstar Games - 16 upvotes, $0
+948. [Self XSS in Timeline ](https://hackerone.com/reports/854299) to Shopify - 16 upvotes, $0
+949. [self-xss with ClickJacking can leads to account takeover in Firefox](https://hackerone.com/reports/892289) to Imgur - 16 upvotes, $0
+950. [Multiple Cross-Site Scripting vulnerability via the language parameter](https://hackerone.com/reports/953053) to TikTok - 16 upvotes, $0
+951. [XSS in message attachment fileds.](https://hackerone.com/reports/899954) to Rocket.Chat - 16 upvotes, $0
+952. [Reflected XSS on /www/delivery/afr.php (bypass of report #775693)](https://hackerone.com/reports/986365) to Revive Adserver - 16 upvotes, $0
+953. [Blind stored XSS due to insecure contact form at https://█████.mil leads to leakage of session token and ](https://hackerone.com/reports/1036877) to U.S. Dept Of Defense - 16 upvotes, $0
+954. [Reflected XSS on https://█████████/](https://hackerone.com/reports/1065167) to U.S. Dept Of Defense - 16 upvotes, $0
+955. [Stored XSS on {https://calendar.mail.ru/}](https://hackerone.com/reports/837215) to Mail.ru - 16 upvotes, $0
+956. [Reflected XSS at https://www.glassdoor.co.in/Job/pratt-whitney-jobs-SRCH_KE0,13.htm?initiatedFromCountryPicker=true&countryRedirect=true](https://hackerone.com/reports/971304) to Glassdoor - 16 upvotes, $0
+957. [XSS via X-Forwarded-Host header](https://hackerone.com/reports/882220) to U.S. Dept Of Defense - 16 upvotes, $0
+958. [New experimental query: Clipboard-based XSS](https://hackerone.com/reports/1345484) to GitHub Security Lab - 16 upvotes, $0
+959. [xss on [developers.mtn.com]](https://hackerone.com/reports/924851) to MTN Group - 16 upvotes, $0
+960. [XSS in Widget Review Form Preview in settings](https://hackerone.com/reports/1595905) to Judge.me  - 16 upvotes, $0
+961. [Self XSS in https://linkpop.com/dashboard/admin](https://hackerone.com/reports/1591403) to Shopify - 16 upvotes, $0
+962. [reflected xss in www.████████.gov](https://hackerone.com/reports/1814335) to U.S. Dept Of Defense - 16 upvotes, $0
+963. [Stored XSS via ' profile ' at ███](https://hackerone.com/reports/1921606) to Mars - 16 upvotes, $0
+964. [XSS exploit of RDoc documentation generated by rdoc (CVE-2013-0256)](https://hackerone.com/reports/1977168) to Ruby - 16 upvotes, $0
+965. [Stored XSS on inventory-retrieve.php](https://hackerone.com/reports/3399809) to Revive Adserver - 16 upvotes, $0
+966. [Stored XSS via "my recent queries" selector in NRQL dashboard builder](https://hackerone.com/reports/626082) to New Relic - 15 upvotes, $2500
 967. [XSS на странице account.mail.ru/recovery](https://hackerone.com/reports/381762) to Mail.ru - 15 upvotes, $500
 968. [Another Stored XSS in mail app using Drive app](https://hackerone.com/reports/538632) to Open-Xchange - 15 upvotes, $500
 969. [Reflected XSS at https://sea-web.gold.razer.com/cash-card/verify via channel parameter](https://hackerone.com/reports/769086) to Razer - 15 upvotes, $500
-970. [XSS - Search - Unescaped contact job](https://hackerone.com/reports/993222) to Open-Xchange - 15 upvotes, $450
-971. [Stored XSS on invoice, executing on any subdomain](https://hackerone.com/reports/152591) to Harvest - 15 upvotes, $350
-972. [xss in Theme http://bztfashion.booztx.com](https://hackerone.com/reports/166694) to Boozt Fashion AB - 15 upvotes, $250
-973. [Mobile Reflect XSS / CSRF at Advertisement Section on Search page](https://hackerone.com/reports/379705) to Pornhub - 15 upvotes, $200
-974. [Stored XSS на странице "Изменить клиента" [city-mobil.ru/taxiserv]](https://hackerone.com/reports/1050022) to Mail.ru - 15 upvotes, $150
-975. [[github.algolia.com] DOM Based XSS github-btn.html](https://hackerone.com/reports/200826) to Algolia - 15 upvotes, $100
-976. [XSS in instacart.com/store/partner_recipe](https://hackerone.com/reports/196221) to Instacart - 15 upvotes, $100
-977. [DOM XSS on http://talks.lystit.com](https://hackerone.com/reports/1031644) to Lyst - 15 upvotes, $100
-978. [Stored XSS in contacts app via organisation and title field](https://hackerone.com/reports/3293290) to Nextcloud - 15 upvotes, $100
-979. [Self-XSS on Suggest Tag dialog box](https://hackerone.com/reports/1761505) to XVIDEOS - 15 upvotes, $50
-980. [Stored XSS using  SVG ](https://hackerone.com/reports/148853) to Paragon Initiative Enterprises - 15 upvotes, $0
-981. [Content-type sniffing leads to stored XSS in CMS Airship on Internet Explorer ](https://hackerone.com/reports/151231) to Paragon Initiative Enterprises - 15 upvotes, $0
-982. [XSS using javascript:alert(8007)](https://hackerone.com/reports/127154) to X / xAI - 15 upvotes, $0
-983. [XSS on postal codes](https://hackerone.com/reports/192140) to Shopify - 15 upvotes, $0
-984. [Dom Based Xss DIV.innerHTML  parameters store.starbucks*](https://hackerone.com/reports/188185) to Starbucks - 15 upvotes, $0
-985. [XSS in topics because of bandcamp preview engine vulnerability](https://hackerone.com/reports/197443) to Discourse - 15 upvotes, $0
-986. [Stored XSS](https://hackerone.com/reports/214484) to Mail.ru - 15 upvotes, $0
-987. [DOM XSS on teavana.com via "pr_zip_location" parameter](https://hackerone.com/reports/209736) to Starbucks - 15 upvotes, $0
-988. [Cross-site Scripting (XSS) on [maximum.nl] ](https://hackerone.com/reports/228006) to Radancy - 15 upvotes, $0
-989. [Reflected XSS on teavana.com (Locale-Change)](https://hackerone.com/reports/190798) to Starbucks - 15 upvotes, $0
-990. [XSS on pornhubselect.com](https://hackerone.com/reports/222556) to Pornhub - 15 upvotes, $0
-991. [Stored self-XSS in mercantile.wordpress.org checkout](https://hackerone.com/reports/230232) to WordPress - 15 upvotes, $0
-992. [XSS on www.mapbox.com/authorize](https://hackerone.com/reports/143220) to Mapbox - 15 upvotes, $0
-993. [Double Stored Cross-Site scripting in the admin panel](https://hackerone.com/reports/245172) to GSA Bounty - 15 upvotes, $0
-994. [Authenticated Cross-site Scripting in Template Name](https://hackerone.com/reports/220903) to WordPress - 15 upvotes, $0
-995. [Stored CSS Injection](https://hackerone.com/reports/315865) to Coinbase - 15 upvotes, $0
-996. [XSS on redirection page( Bypassed) ](https://hackerone.com/reports/316319) to Semrush - 15 upvotes, $0
-997. [XSS in buying and selling pages, can created spoofed content (false login message)](https://hackerone.com/reports/353293) to Reverb.com - 15 upvotes, $0
-998. [POST XSS  in https://www.khanacademy.org.tr/ via page_search_query parameter](https://hackerone.com/reports/382321) to Khan Academy - 15 upvotes, $0
-999. [[ibank.qiwi.ru] XSS via Request-URI](https://hackerone.com/reports/164152) to QIWI - 15 upvotes, $0
-1000. [Cross site scripting vulnerability in JW Player SWF](https://hackerone.com/reports/496883) to Mail.ru - 15 upvotes, $0
-1001. [Cross-site Scripting (XSS) - Stored in ru.mail.mailapp](https://hackerone.com/reports/544782) to Mail.ru - 15 upvotes, $0
-1002. [Reflected XSS: Taxonomy Converter via tax parameter](https://hackerone.com/reports/495515) to WordPress - 15 upvotes, $0
-1003. [Хранимая XSS в личных сообщениях новое место](https://hackerone.com/reports/310339) to ok.ru - 15 upvotes, $0
-1004. [XSS on www.██████ alerts and a number of other pages](https://hackerone.com/reports/450315) to U.S. Dept Of Defense - 15 upvotes, $0
-1005. [[█████] — DOM-based XSS on endpoint `/?s=`](https://hackerone.com/reports/708592) to U.S. Dept Of Defense - 15 upvotes, $0
-1006. [Reflected xss on 8x8.vc](https://hackerone.com/reports/771110) to 8x8 - 15 upvotes, $0
-1007. [Stored XSS in Name of Team Member Invitation](https://hackerone.com/reports/786301) to Localize - 15 upvotes, $0
-1008. [Reflected cross-site scripting vulnerability on a DoD website](https://hackerone.com/reports/774792) to U.S. Dept Of Defense - 15 upvotes, $0
-1009. [Reflected XSS on http://info.ucs.ru/settings/check/](https://hackerone.com/reports/901064) to Mail.ru - 15 upvotes, $0
-1010. [Cross Site Scripting (XSS) Stored - Private messaging](https://hackerone.com/reports/768313) to Concrete CMS - 15 upvotes, $0
-1011. [Reflected XSS at /category/ on a Atavis theme ](https://hackerone.com/reports/950845) to Automattic - 15 upvotes, $0
-1012. [DOM-based XSS in d.miwifi.com on IE 11](https://hackerone.com/reports/879984) to Xiaomi - 15 upvotes, $0
-1013. [Reflected XSS on gamesclub.mtn.com.g](https://hackerone.com/reports/1069528) to MTN Group - 15 upvotes, $0
-1014. [Improper Sanitization leads to XSS Fire on admin panel](https://hackerone.com/reports/1011888) to Informatica - 15 upvotes, $0
-1015. [Reflected XSS at dailydeals.mtn.co.za](https://hackerone.com/reports/1210921) to MTN Group - 15 upvotes, $0
-1016. [xss reflected on imgur.com](https://hackerone.com/reports/1058427) to Imgur - 15 upvotes, $0
-1017. [Reflected Xss in https://world.engelvoelkers.com/...](https://hackerone.com/reports/1401209) to Engel & Völkers Technology GmbH - 15 upvotes, $0
-1018. [stored XSS on AliExpress Review Importer/Products when delete product](https://hackerone.com/reports/1425882) to Judge.me  - 15 upvotes, $0
+970. [stored XSS on AliExpress Review Importer/Products when delete product](https://hackerone.com/reports/1425882) to Judge.me  - 15 upvotes, $500
+971. [XSS - Search - Unescaped contact job](https://hackerone.com/reports/993222) to Open-Xchange - 15 upvotes, $450
+972. [Stored XSS on invoice, executing on any subdomain](https://hackerone.com/reports/152591) to Harvest - 15 upvotes, $350
+973. [xss in Theme http://bztfashion.booztx.com](https://hackerone.com/reports/166694) to Boozt Fashion AB - 15 upvotes, $250
+974. [Mobile Reflect XSS / CSRF at Advertisement Section on Search page](https://hackerone.com/reports/379705) to Pornhub - 15 upvotes, $200
+975. [Stored XSS на странице "Изменить клиента" [city-mobil.ru/taxiserv]](https://hackerone.com/reports/1050022) to Mail.ru - 15 upvotes, $150
+976. [[github.algolia.com] DOM Based XSS github-btn.html](https://hackerone.com/reports/200826) to Algolia - 15 upvotes, $100
+977. [XSS in instacart.com/store/partner_recipe](https://hackerone.com/reports/196221) to Instacart - 15 upvotes, $100
+978. [DOM XSS on http://talks.lystit.com](https://hackerone.com/reports/1031644) to Lyst - 15 upvotes, $100
+979. [Stored XSS in contacts app via organisation and title field](https://hackerone.com/reports/3293290) to Nextcloud - 15 upvotes, $100
+980. [Self-XSS on Suggest Tag dialog box](https://hackerone.com/reports/1761505) to XVIDEOS - 15 upvotes, $50
+981. [Stored XSS using  SVG ](https://hackerone.com/reports/148853) to Paragon Initiative Enterprises - 15 upvotes, $0
+982. [Content-type sniffing leads to stored XSS in CMS Airship on Internet Explorer ](https://hackerone.com/reports/151231) to Paragon Initiative Enterprises - 15 upvotes, $0
+983. [XSS using javascript:alert(8007)](https://hackerone.com/reports/127154) to X / xAI - 15 upvotes, $0
+984. [XSS on postal codes](https://hackerone.com/reports/192140) to Shopify - 15 upvotes, $0
+985. [Dom Based Xss DIV.innerHTML  parameters store.starbucks*](https://hackerone.com/reports/188185) to Starbucks - 15 upvotes, $0
+986. [XSS in topics because of bandcamp preview engine vulnerability](https://hackerone.com/reports/197443) to Discourse - 15 upvotes, $0
+987. [Stored XSS](https://hackerone.com/reports/214484) to Mail.ru - 15 upvotes, $0
+988. [DOM XSS on teavana.com via "pr_zip_location" parameter](https://hackerone.com/reports/209736) to Starbucks - 15 upvotes, $0
+989. [Cross-site Scripting (XSS) on [maximum.nl] ](https://hackerone.com/reports/228006) to Radancy - 15 upvotes, $0
+990. [Reflected XSS on teavana.com (Locale-Change)](https://hackerone.com/reports/190798) to Starbucks - 15 upvotes, $0
+991. [XSS on pornhubselect.com](https://hackerone.com/reports/222556) to Pornhub - 15 upvotes, $0
+992. [Stored self-XSS in mercantile.wordpress.org checkout](https://hackerone.com/reports/230232) to WordPress - 15 upvotes, $0
+993. [XSS on www.mapbox.com/authorize](https://hackerone.com/reports/143220) to Mapbox - 15 upvotes, $0
+994. [Double Stored Cross-Site scripting in the admin panel](https://hackerone.com/reports/245172) to GSA Bounty - 15 upvotes, $0
+995. [Authenticated Cross-site Scripting in Template Name](https://hackerone.com/reports/220903) to WordPress - 15 upvotes, $0
+996. [Stored CSS Injection](https://hackerone.com/reports/315865) to Coinbase - 15 upvotes, $0
+997. [XSS on redirection page( Bypassed) ](https://hackerone.com/reports/316319) to Semrush - 15 upvotes, $0
+998. [XSS in buying and selling pages, can created spoofed content (false login message)](https://hackerone.com/reports/353293) to Reverb.com - 15 upvotes, $0
+999. [POST XSS  in https://www.khanacademy.org.tr/ via page_search_query parameter](https://hackerone.com/reports/382321) to Khan Academy - 15 upvotes, $0
+1000. [[ibank.qiwi.ru] XSS via Request-URI](https://hackerone.com/reports/164152) to QIWI - 15 upvotes, $0
+1001. [Cross site scripting vulnerability in JW Player SWF](https://hackerone.com/reports/496883) to Mail.ru - 15 upvotes, $0
+1002. [Cross-site Scripting (XSS) - Stored in ru.mail.mailapp](https://hackerone.com/reports/544782) to Mail.ru - 15 upvotes, $0
+1003. [Reflected XSS: Taxonomy Converter via tax parameter](https://hackerone.com/reports/495515) to WordPress - 15 upvotes, $0
+1004. [Хранимая XSS в личных сообщениях новое место](https://hackerone.com/reports/310339) to ok.ru - 15 upvotes, $0
+1005. [XSS on www.██████ alerts and a number of other pages](https://hackerone.com/reports/450315) to U.S. Dept Of Defense - 15 upvotes, $0
+1006. [[█████] — DOM-based XSS on endpoint `/?s=`](https://hackerone.com/reports/708592) to U.S. Dept Of Defense - 15 upvotes, $0
+1007. [Reflected xss on 8x8.vc](https://hackerone.com/reports/771110) to 8x8 - 15 upvotes, $0
+1008. [Stored XSS in Name of Team Member Invitation](https://hackerone.com/reports/786301) to Localize - 15 upvotes, $0
+1009. [Reflected cross-site scripting vulnerability on a DoD website](https://hackerone.com/reports/774792) to U.S. Dept Of Defense - 15 upvotes, $0
+1010. [Reflected XSS on http://info.ucs.ru/settings/check/](https://hackerone.com/reports/901064) to Mail.ru - 15 upvotes, $0
+1011. [Cross Site Scripting (XSS) Stored - Private messaging](https://hackerone.com/reports/768313) to Concrete CMS - 15 upvotes, $0
+1012. [Reflected XSS at /category/ on a Atavis theme ](https://hackerone.com/reports/950845) to Automattic - 15 upvotes, $0
+1013. [DOM-based XSS in d.miwifi.com on IE 11](https://hackerone.com/reports/879984) to Xiaomi - 15 upvotes, $0
+1014. [Reflected XSS on gamesclub.mtn.com.g](https://hackerone.com/reports/1069528) to MTN Group - 15 upvotes, $0
+1015. [Improper Sanitization leads to XSS Fire on admin panel](https://hackerone.com/reports/1011888) to Informatica - 15 upvotes, $0
+1016. [Reflected XSS at dailydeals.mtn.co.za](https://hackerone.com/reports/1210921) to MTN Group - 15 upvotes, $0
+1017. [xss reflected on imgur.com](https://hackerone.com/reports/1058427) to Imgur - 15 upvotes, $0
+1018. [Reflected Xss in https://world.engelvoelkers.com/...](https://hackerone.com/reports/1401209) to Engel & Völkers Technology GmbH - 15 upvotes, $0
 1019. [Stored Cross Site Scripting at http://www.grouplogic.com/ADMIN/store/index.cfm?fa=disprocode](https://hackerone.com/reports/1164853) to Acronis - 15 upvotes, $0
 1020. [Incorrect handling of certain characters passed to the redirection functionality in Rails can lead to a single-click XSS vulnerability.](https://hackerone.com/reports/1955370) to Ruby on Rails - 15 upvotes, $0
 1021. [CVE‑2025‑4123 — Grafana Open Redirect → Stored XSS → SSRF (Full Read) at ██████](https://hackerone.com/reports/3286945) to U.S. Dept Of Defense - 15 upvotes, $0
@@ -1049,202 +1049,202 @@ Top XSS reports from HackerOne:
 1047. [DOM XSS on 50x.html page on proxy.duckduckgo.com](https://hackerone.com/reports/426275) to DuckDuckGo - 14 upvotes, $0
 1048. [[contact-sys.com] XSS via Request-URI](https://hackerone.com/reports/164656) to QIWI - 14 upvotes, $0
 1049. [Reflected XSS on help.steampowered.com](https://hackerone.com/reports/390429) to Valve - 14 upvotes, $0
-1050. [Reflected XSS on am.ru and subdomains](https://hackerone.com/reports/799056) to Mail.ru - 14 upvotes, $0
-1051. [Unrestricted File Upload Leads to XSS & Potential RCE](https://hackerone.com/reports/900179) to U.S. Dept Of Defense - 14 upvotes, $0
-1052. [[geekbrains.ru] Reflected XSS via Angular Template Injection](https://hackerone.com/reports/792847) to Mail.ru - 14 upvotes, $0
-1053. [XSS Challenge #2 Solution](https://hackerone.com/reports/953873) to BugPoC - 14 upvotes, $0
-1054. [XSS In https://docs.gocd.org/current/](https://hackerone.com/reports/1033832) to GoCD - 14 upvotes, $0
-1055. [Reflected XSS on a Atavist theme at external_import.php](https://hackerone.com/reports/976657) to Automattic - 14 upvotes, $0
-1056. [Download full backup and Cross site scripting ](https://hackerone.com/reports/1049040) to ImpressCMS - 14 upvotes, $0
-1057. [Reflected XSS on https://deti.mail.ru](https://hackerone.com/reports/1110927) to Mail.ru - 14 upvotes, $0
-1058. [DOM Based XSS on https://████ via backURL param](https://hackerone.com/reports/1159255) to U.S. Dept Of Defense - 14 upvotes, $0
-1059. [Reflected XSS through ClickJacking](https://hackerone.com/reports/1171403) to U.S. Dept Of Defense - 14 upvotes, $0
-1060. [Google storage bucket takeover which is used to load JS file in dashboard.html in "github.com/kubernetes/release" which can lead to XSS](https://hackerone.com/reports/1398706) to Kubernetes - 14 upvotes, $0
-1061. [cross site scripting in : mtn.bj](https://hackerone.com/reports/1264834) to MTN Group - 14 upvotes, $0
-1062. [Reflected XSS on ███ via jobid parameter](https://hackerone.com/reports/1309949) to Sony - 14 upvotes, $0
-1063. [Stored XSS in intensedebate.com via the Comments RSS ](https://hackerone.com/reports/1664914) to Automattic - 14 upvotes, $0
-1064. [xss on reset password page](https://hackerone.com/reports/1763404) to U.S. Dept Of Defense - 14 upvotes, $0
-1065. [DOM XSS at `https://adobedocs.github.io/indesign-api-docs/?configUrl={site}` due to outdated Swagger UI](https://hackerone.com/reports/1736327) to Adobe - 14 upvotes, $0
-1066. [Self-XSS due to image URL can be eploited via XSSJacking techniques in review email](https://hackerone.com/reports/1397940) to Judge.me  - 14 upvotes, $0
-1067. [XSS в теле письма, в новой версии почты.](https://hackerone.com/reports/369201) to Mail.ru - 13 upvotes, $1000
-1068. [[www.dropboxforum.com] - reflected XSS in search](https://hackerone.com/reports/413599) to Dropbox - 13 upvotes, $512
-1069. [Stored XSS at 'Buy Button' page](https://hackerone.com/reports/186462) to Shopify - 13 upvotes, $500
-1070. [[m.vk.com] XSS на страницах /artist/ ](https://hackerone.com/reports/874198) to VK.com - 13 upvotes, $500
-1071. [[chatws25.stream.highwebmedia.com] - Reflected XSS in c parameter](https://hackerone.com/reports/413442) to Chaturbate - 13 upvotes, $350
-1072. [Stored XSS in Rich editor via Embed datetime](https://hackerone.com/reports/530458) to Vanilla - 13 upvotes, $300
-1073. [XSS on expenses attachments](https://hackerone.com/reports/165324) to Harvest - 13 upvotes, $250
-1074. [Cross-site scripting on dashboard2.omise.co](https://hackerone.com/reports/1532858) to Omise - 13 upvotes, $200
-1075. [XSS at af.attachmail.ru](https://hackerone.com/reports/85421) to Mail.ru - 13 upvotes, $150
-1076. [Stored XSS в профиле водителя [city-mobil.ru/taxiserv]](https://hackerone.com/reports/1050017) to Mail.ru - 13 upvotes, $150
-1077. [Stored XSS на странице "Почты" [city-mobil.ru/taxiserv]](https://hackerone.com/reports/1050054) to Mail.ru - 13 upvotes, $150
-1078. [XSS на странице "Создать водителя" [city-mobil.ru/taxiserv]](https://hackerone.com/reports/1057971) to Mail.ru - 13 upvotes, $150
-1079. [Zomato.com Reflected Cross Site Scripting](https://hackerone.com/reports/303522) to Eternal - 13 upvotes, $100
-1080. [lootdog.io XSS](https://hackerone.com/reports/343752) to Mail.ru - 13 upvotes, $100
-1081. [CSS leaks SCSS debug info](https://hackerone.com/reports/2221) to HackerOne - 13 upvotes, $0
-1082. [Store XSS Flicker main page](https://hackerone.com/reports/940) to Yahoo! - 13 upvotes, $0
-1083. [Stored XSS in posts because of absence of oembed variables values escaping](https://hackerone.com/reports/197914) to Discourse - 13 upvotes, $0
-1084. [Stored XSS in topics because of whitelisted_generic engine vulnerability](https://hackerone.com/reports/197902) to Discourse - 13 upvotes, $0
-1085. [Stored Cross Site Scripting in Customer Name](https://hackerone.com/reports/211643) to Moneybird - 13 upvotes, $0
-1086. [Mixed Reflected-Stored XSS on pornhub.com (without user interaction) in the playlist playing section](https://hackerone.com/reports/222506) to Pornhub - 13 upvotes, $0
-1087. [Stored XSS in *.myshopify.com](https://hackerone.com/reports/241008) to Shopify - 13 upvotes, $0
-1088. [Stored XSS at Moneybird](https://hackerone.com/reports/251043) to Moneybird - 13 upvotes, $0
-1089. [Unauthenticated Reflected XSS in admin dashboard](https://hackerone.com/reports/297434) to Deconf - 13 upvotes, $0
-1090. [[mercantile.wordpress.org] Reflected XSS](https://hackerone.com/reports/240256) to WordPress - 13 upvotes, $0
-1091. [3rd party shop admin panel blind XSS](https://hackerone.com/reports/336145) to Mail.ru - 13 upvotes, $0
-1092. [Stored XSS in OAuth redirect URI ](https://hackerone.com/reports/261138) to Nextcloud - 13 upvotes, $0
-1093. [Stored Cross-site scripting ](https://hackerone.com/reports/541710) to Vercel - 13 upvotes, $0
-1094. [[okmedia.insideok.ru] Web Cache Poisoing & XSS](https://hackerone.com/reports/550266) to ok.ru - 13 upvotes, $0
-1095. [Unrestricted File Upload To Xss Stored [ https://ideas.browser.mail.ru/ ]](https://hackerone.com/reports/603788) to Mail.ru - 13 upvotes, $0
-1096. [Html Injection and Possible XSS via MathML](https://hackerone.com/reports/502926) to X / xAI - 13 upvotes, $0
-1097. [Reflected XSS on https://apps.topcoder.com/wiki/](https://hackerone.com/reports/866426) to Lab45 - 13 upvotes, $0
-1098. [XSS due to incomplete JS escaping](https://hackerone.com/reports/474262) to Ruby on Rails - 13 upvotes, $0
-1099. [Reflected XSS on https://www.starbucks.co.uk/shop/paymentmethod/ (bypass for 227486)](https://hackerone.com/reports/252908) to Starbucks - 13 upvotes, $0
-1100. [Reflected DOM XSS on www.starbucks.co.uk](https://hackerone.com/reports/396493) to Starbucks - 13 upvotes, $0
-1101. [Stored XSS at APM applications listing](https://hackerone.com/reports/530511) to New Relic - 13 upvotes, $0
-1102. [Stored XSS at APM key transactions list](https://hackerone.com/reports/567468) to New Relic - 13 upvotes, $0
-1103. [Stored XSS in Post Preview as Contributor](https://hackerone.com/reports/497724) to WordPress - 13 upvotes, $0
-1104. [Stored XSS at "Conditions "  through "My Custom Rule" Field at [https://my.stripo.email/cabinet/#/template-editor/] in Template Editor.](https://hackerone.com/reports/996371) to Stripo Inc - 13 upvotes, $0
-1105. [[sub.wordpress.com] - XSS when adjust block Poll - Confirmation Message -  On submission:Redirect to another webpage - Redirect address:[xss_payload]](https://hackerone.com/reports/1050733) to Automattic - 13 upvotes, $0
-1106. [Stored XSS in markdown file with Nextcloud Talk using Internet Explorer](https://hackerone.com/reports/1023787) to Nextcloud - 13 upvotes, $0
-1107. [Stored xss in larksuite internal helpdesk and other user's helpdesk.](https://hackerone.com/reports/884931) to Lark Technologies - 13 upvotes, $0
-1108. [CSRF to Cross-site Scripting (XSS)](https://hackerone.com/reports/1118521) to U.S. Dept Of Defense - 13 upvotes, $0
-1109. [Reflected XSS at [████████]](https://hackerone.com/reports/1196945) to U.S. Dept Of Defense - 13 upvotes, $0
-1110. [Bypassing SOP with XSS on account.my.games leading to steal CSRF token and user information](https://hackerone.com/reports/1215053) to Mail.ru - 13 upvotes, $0
-1111. [XSS DUE TO CVE-2020-3580](https://hackerone.com/reports/1245055) to U.S. Dept Of Defense - 13 upvotes, $0
-1112. [CSS injection via link tag whitelisted-domain bypass - https://www.glassdoor.com](https://hackerone.com/reports/1250730) to Glassdoor - 13 upvotes, $0
-1113. [Reflected XSS due to vulnerable version of sockjs](https://hackerone.com/reports/1100326) to Automattic - 13 upvotes, $0
-1114. [Stored XSS at https://█████](https://hackerone.com/reports/1620247) to U.S. Dept Of Defense - 13 upvotes, $0
-1115. [Reflected cross site scripting in https://███████](https://hackerone.com/reports/1636345) to U.S. Dept Of Defense - 13 upvotes, $0
-1116. [Jolokia Reflected XSS ](https://hackerone.com/reports/1714563) to Mars - 13 upvotes, $0
-1117. [XSS on ( █████████.gov ) Via URL path](https://hackerone.com/reports/1825942) to U.S. Dept Of Defense - 13 upvotes, $0
-1118. [Reflected XSS vulnerability with full CSP bypass in Nextcloud installations using recommended bundle](https://hackerone.com/reports/1893186) to Nextcloud - 13 upvotes, $0
-1119. [XSS via Vuln Rendertron Instance At `██████████.jetblue.com/render/*`](https://hackerone.com/reports/1853061) to JetBlue - 13 upvotes, $0
-1120. [Rails::Html::SafeListSanitizer vulnerable to xss attack in an environment that allows the style tag](https://hackerone.com/reports/1599573) to Internet Bug Bounty - 12 upvotes, $2400
-1121. [XSS by clicking Jira's link](https://hackerone.com/reports/1194254) to GitLab - 12 upvotes, $1130
-1122. [shopifyapps.com XSS on sales channels via currency formatting](https://hackerone.com/reports/104359) to Shopify - 12 upvotes, $1000
-1123. [Stored xss in editor ](https://hackerone.com/reports/53730) to Mapbox - 12 upvotes, $1000
-1124. [XSS в письме, в поле отправителя.](https://hackerone.com/reports/246634) to Mail.ru - 12 upvotes, $1000
-1125. [XSS @ store.steampowered.com via agecheck path name](https://hackerone.com/reports/406704) to Valve - 12 upvotes, $750
-1126. [XSS в обработчике ссылок](https://hackerone.com/reports/1073571) to VK.com - 12 upvotes, $700
-1127. [reflected XSS on healt.mail.ru](https://hackerone.com/reports/276714) to Mail.ru - 12 upvotes, $500
-1128. [OX Guard: DOM Based Cross-Site Scripting (#2)](https://hackerone.com/reports/164821) to Open-Xchange - 12 upvotes, $500
-1129. [Post Based Reflected XSS on [https://investor.razer.com/s/ir_contact.php]](https://hackerone.com/reports/801075) to Razer - 12 upvotes, $375
-1130. [Stored XSS in Restoring Archived Tasks](https://hackerone.com/reports/177757) to Harvest - 12 upvotes, $250
-1131. [XSS в названии лайвчата](https://hackerone.com/reports/321419) to Mail.ru - 12 upvotes, $250
-1132. [store xss in calendar via upload filename](https://hackerone.com/reports/385407) to Open-Xchange - 12 upvotes, $250
-1133. [stored xss путём загрузки вредоносного файла + обход загрузки файлов.](https://hackerone.com/reports/888254) to Mail.ru - 12 upvotes, $200
-1134. [Eval-based XSS in Game JS API (mailru.core.js) via cross-origin postMessage()](https://hackerone.com/reports/1071294) to Mail.ru - 12 upvotes, $200
-1135. [[stage-go.wepay.com] XSS via Request URI](https://hackerone.com/reports/281038) to WePay - 12 upvotes, $100
-1136. [Stored-XSS in https://www.coinbase.com/](https://hackerone.com/reports/100829) to Coinbase - 12 upvotes, $0
-1137. [[bbPress] Stored XSS in any forum post.](https://hackerone.com/reports/151117) to Automattic - 12 upvotes, $0
-1138. [Stored xss](https://hackerone.com/reports/156373) to Algolia - 12 upvotes, $0
-1139. [Unsanitized Location Name in POS Channel can lead to XSS in Orders Timeline](https://hackerone.com/reports/166887) to Shopify - 12 upvotes, $0
-1140. [XSS in SHOPIFY: Unsanitized Supplier Name  can lead to XSS in Transfers Timeline](https://hackerone.com/reports/167075) to Shopify - 12 upvotes, $0
-1141. [Follow Button XSS](https://hackerone.com/reports/172574) to Automattic - 12 upvotes, $0
-1142. [Stored XSS in unifi.ubnt.com](https://hackerone.com/reports/142084) to Ubiquiti Inc. - 12 upvotes, $0
-1143. [stored XSS in olx.pl - ogloszenie TITLE element - moderator acc can be hacked](https://hackerone.com/reports/150668) to OLX - 12 upvotes, $0
-1144. [DOM Based XSS on an Army website](https://hackerone.com/reports/191407) to U.S. Dept Of Defense - 12 upvotes, $0
-1145. [WordPress \<= 4.6.1 Stored XSS Via Theme File](https://hackerone.com/reports/197878) to Nextcloud - 12 upvotes, $0
-1146. [dom xss in https://www.slackatwork.com](https://hackerone.com/reports/196624) to Slack - 12 upvotes, $0
-1147. [Reflected XSS and Open Redirect in several parameters (viestinta.lahitapiola.fi)](https://hackerone.com/reports/191387) to LocalTapiola - 12 upvotes, $0
-1148. [Reflected XSS on blockchain.info](https://hackerone.com/reports/179426) to Blockchain - 12 upvotes, $0
-1149. [Blind Stored XSS against Pornhub employees using Amateur Model Program](https://hackerone.com/reports/216379) to Pornhub - 12 upvotes, $0
-1150. [[XSS/pay.qiwi.com] Pay SubDomain Hard-Use XSS](https://hackerone.com/reports/198251) to QIWI - 12 upvotes, $0
-1151. [Stored XSS in Headline TextControl element in Express forms [ concrete5 8.1.0 ]](https://hackerone.com/reports/230278) to Concrete CMS - 12 upvotes, $0
-1152. [dom based xss in http://www.rockstargames.com/GTAOnline/ (Fix bypass)](https://hackerone.com/reports/261571) to Rockstar Games - 12 upvotes, $0
-1153. [Lazy Load stored XSS](https://hackerone.com/reports/152416) to Automattic - 12 upvotes, $0
-1154. [Unfiltered input allows for XSS in "Playtime Item Grants" fields](https://hackerone.com/reports/353334) to Valve - 12 upvotes, $0
-1155. [Reflected XSS (myynti.lahitapiolarahoitus.fi)](https://hackerone.com/reports/324423) to LocalTapiola - 12 upvotes, $0
-1156. [Triggering RCE using XSS to bypass CSRF in PowerBeam M5 300](https://hackerone.com/reports/289264) to Ubiquiti Inc. - 12 upvotes, $0
-1157. [Post Based XSS On Upload Via CK Editor [semrush.com]](https://hackerone.com/reports/375352) to Semrush - 12 upvotes, $0
-1158. [Torrent extension: Cross-origin downloading + "URL spoofing" + CSP-blocked XSS](https://hackerone.com/reports/378864) to Brave Software - 12 upvotes, $0
-1159. [Session ID is accessible via XSS](https://hackerone.com/reports/241194) to Inflection - 12 upvotes, $0
-1160. [[rm.mail.ru] Request-Path XSS](https://hackerone.com/reports/386100) to Mail.ru - 12 upvotes, $0
-1161. [XSS](https://hackerone.com/reports/496841) to Mail.ru - 12 upvotes, $0
-1162. [stored xss in https://www.smule.com](https://hackerone.com/reports/733222) to Smule - 12 upvotes, $0
-1163. [Unauthenticated reflected XSS in preview_as_user function](https://hackerone.com/reports/643442) to Concrete CMS - 12 upvotes, $0
-1164. [[htmr] DOM-based XSS](https://hackerone.com/reports/753971) to Node.js third-party modules - 12 upvotes, $0
-1165. [Reflected XSS on https://www.semrush.com/my_reports/externalSource/callback/googleAccountsGMB](https://hackerone.com/reports/786238) to Semrush - 12 upvotes, $0
-1166. [Stored xss on https://go.mail.ru/](https://hackerone.com/reports/832256) to Mail.ru - 12 upvotes, $0
-1167. [XSS in [community.my.games]](https://hackerone.com/reports/848732) to Mail.ru - 12 upvotes, $0
-1168. [[my.games] Stored XSS via untrusted bucket](https://hackerone.com/reports/874107) to Mail.ru - 12 upvotes, $0
-1169. [Warehouse dom based xss may lead to Social Club Account Taker Over.](https://hackerone.com/reports/663312) to Rockstar Games - 12 upvotes, $0
-1170. [DOM BASED XSS ON https://www.rockstargames.com/GTAOnline/features ](https://hackerone.com/reports/479612) to Rockstar Games - 12 upvotes, $0
-1171. [Reflected XSS](https://hackerone.com/reports/874093) to Mail.ru - 12 upvotes, $0
-1172. [XSS in image metadata field](https://hackerone.com/reports/896511) to Nextcloud - 12 upvotes, $0
-1173. [Cross-account stored XSS at notes (through "swf" note parameter)](https://hackerone.com/reports/710535) to New Relic - 12 upvotes, $0
-1174. [pre-auth Stored XSS in comments via javascript: url when administrator edits user supplied comment](https://hackerone.com/reports/633231) to WordPress - 12 upvotes, $0
-1175. [XSS on https://fax.pbx.itsendless.org/ (CVE-2017-18024)](https://hackerone.com/reports/963798) to Endless Group - 12 upvotes, $0
-1176. [[m-server] XSS reflected because path does not escapeHtml](https://hackerone.com/reports/951468) to Node.js third-party modules - 12 upvotes, $0
-1177. [reflected xss on learn.city-mobil.ru via redirect_url parameter](https://hackerone.com/reports/1027962) to Mail.ru - 12 upvotes, $0
-1178. [Blind Stored XSS on ███████  leads to takeover admin account](https://hackerone.com/reports/1110243) to U.S. Dept Of Defense - 12 upvotes, $0
-1179. [Cross site scripting  ](https://hackerone.com/reports/1095797) to Informatica - 12 upvotes, $0
-1180. [Reflected XSS on /admin/stats.php](https://hackerone.com/reports/1187820) to Revive Adserver - 12 upvotes, $0
-1181. [CSRF Based XSS @ https://██████████](https://hackerone.com/reports/1147949) to U.S. Dept Of Defense - 12 upvotes, $0
-1182. [Blind XSS](https://hackerone.com/reports/1091118) to Rocket.Chat - 12 upvotes, $0
-1183. [Universal Cross-Site Scripting vulnerability](https://hackerone.com/reports/1326264) to Proctorio - 12 upvotes, $0
-1184. [stand.pw.mail.ru xss](https://hackerone.com/reports/1400197) to Mail.ru - 12 upvotes, $0
-1185. [Stored XSS on the "www.intensedebate.com/extras-widgets" url at "Recent comments by" module with malicious blog url](https://hackerone.com/reports/1083734) to Automattic - 12 upvotes, $0
-1186. [Account takeover leading to PII chained with stored XSS](https://hackerone.com/reports/1483201) to U.S. General Services Administration - 12 upvotes, $0
-1187. [Able to bypass the fix on DOM XSS at [www.adobe.com]](https://hackerone.com/reports/1398374) to Adobe - 12 upvotes, $0
-1188. [[XSS] Reflected XSS via POST request](https://hackerone.com/reports/1850235) to U.S. Dept Of Defense - 12 upvotes, $0
-1189. [Self XSS](https://hackerone.com/reports/2521186) to U.S. Dept Of Defense - 12 upvotes, $0
-1190. [XSS in various MessageTypes](https://hackerone.com/reports/1379400) to Rocket.Chat - 12 upvotes, $0
-1191. [Cross-site Scripting (XSS) - Reflected on http://h1b4e.n2.ips.mtn.co.ug:8080 via Nginx-module](https://hackerone.com/reports/1159362) to MTN Group - 12 upvotes, $0
-1192. [XSS in ubermovement.com via editable Google Sheets](https://hackerone.com/reports/193799) to Uber - 11 upvotes, $2000
-1193. [Stored XSS on support.rockstargames.com](https://hackerone.com/reports/265274) to Rockstar Games - 11 upvotes, $1000
-1194. [XSS в теле письма, в блочных стилях.](https://hackerone.com/reports/277163) to Mail.ru - 11 upvotes, $1000
-1195. [Stored xss in calendar via call link](https://hackerone.com/reports/1121980) to Mail.ru - 11 upvotes, $1000
-1196. [Xss в https://e.mail.ru/](https://hackerone.com/reports/227181) to Mail.ru - 11 upvotes, $500
-1197. [Хранимая XSS в функционале добавления аудио в WYSIWYG](https://hackerone.com/reports/274112) to VK.com - 11 upvotes, $500
-1198. [[account.mail.ru] XSS на странице восстановления пароля](https://hackerone.com/reports/360787) to Mail.ru - 11 upvotes, $500
-1199. [Stored Blind XSS](https://hackerone.com/reports/326918) to Mail.ru - 11 upvotes, $500
-1200. [Stored XSS in mail app](https://hackerone.com/reports/538323) to Open-Xchange - 11 upvotes, $500
-1201. [XSS в названии звонка](https://hackerone.com/reports/1056953) to VK.com - 11 upvotes, $500
-1202. [XSS Vulnerability at https://www.pornhubpremium.com/premium_signup? URL endpoint ](https://hackerone.com/reports/202548) to Pornhub - 11 upvotes, $250
-1203. [[theacademy.upserve.com] Reflected XSS Query-String](https://hackerone.com/reports/389592) to Upserve  - 11 upvotes, $250
-1204. [[Zomato's Blog] POST based XSS on https://www.zomato.com/blog/wp-admin/admin-ajax.php?td_theme_name=Newspaper&v=8.2](https://hackerone.com/reports/335481) to Eternal - 11 upvotes, $100
-1205. [XSS on https://www.delivery-club.ru/sd/test_330933/info/](https://hackerone.com/reports/330974) to Mail.ru - 11 upvotes, $100
-1206. [XSS & HTML injection](https://hackerone.com/reports/7876) to Localize - 11 upvotes, $0
-1207. [Loadbalancer + URI XSS #3](https://hackerone.com/reports/9703) to Yahoo! - 11 upvotes, $0
-1208. [Reflected XSS in scores.ubnt.com](https://hackerone.com/reports/130889) to Ubiquiti Inc. - 11 upvotes, $0
-1209. [XSS On meta tags in profile page](https://hackerone.com/reports/159984) to GitLab - 11 upvotes, $0
-1210. [Reflected Xss on ](https://hackerone.com/reports/182033) to Pushwoosh - 11 upvotes, $0
-1211. [[scores.ubnt.com] DOM based XSS at form.html](https://hackerone.com/reports/158484) to Ubiquiti Inc. - 11 upvotes, $0
-1212. [Reflected cross-site scripting vulnerability on a DoD website](https://hackerone.com/reports/184042) to U.S. Dept Of Defense - 11 upvotes, $0
-1213. [[Gnip Blogs] Reflected XSS via "plupload.flash.swf" component vulnerable to SOME ](https://hackerone.com/reports/218451) to X / xAI - 11 upvotes, $0
-1214. [[app.mixmax.com] Stored XSS on Adding new enhancement.](https://hackerone.com/reports/237100) to Mixmax - 11 upvotes, $0
-1215. [Stored XSS on player.vimeo.com](https://hackerone.com/reports/85488) to Vimeo - 11 upvotes, $0
-1216. [Stored self-XSS pubg.mail.ru в нескольких местах](https://hackerone.com/reports/280826) to Mail.ru - 11 upvotes, $0
-1217. [XSS with needed user intervention](https://hackerone.com/reports/204969) to Zendesk - 11 upvotes, $0
-1218. [XSS через подгрузку ссылки.](https://hackerone.com/reports/282602) to Mail.ru - 11 upvotes, $0
-1219. [Stored XSS in the Custom Logo link (non-Basic plan required)](https://hackerone.com/reports/282209) to Infogram - 11 upvotes, $0
-1220. [Stored xss via template injection](https://hackerone.com/reports/250837) to WordPress - 11 upvotes, $0
-1221. [Stored XSS on urbandictionary.com](https://hackerone.com/reports/289085) to Urban Dictionary - 11 upvotes, $0
-1222. [Persistent XSS - Selecting users as allowed merge request approvers](https://hackerone.com/reports/346217) to GitLab - 11 upvotes, $0
-1223. [[web.icq.com] Stored XSS in link when sending message](https://hackerone.com/reports/339237) to Mail.ru - 11 upvotes, $0
-1224. [Disclosure of user email address and Deanonymization [mail.ru] + Blind | Stored XSS pets.mail.ru](https://hackerone.com/reports/334230) to Mail.ru - 11 upvotes, $0
-1225. [Reflected XSS of bbe-child-starter Theme via "value"-GET-parameter](https://hackerone.com/reports/335735) to LocalTapiola - 11 upvotes, $0
-1226. [Reflected Cross Site Scripting (XSS)](https://hackerone.com/reports/435144) to Superhuman (formerly Grammarly) - 11 upvotes, $0
-1227. [Stored XSS via Create Project (Add new translation project)](https://hackerone.com/reports/610219) to Weblate - 11 upvotes, $0
-1228. [Reflected XSS on www.olx.co.id via ad_type parameter](https://hackerone.com/reports/633751) to OLX - 11 upvotes, $0
-1229. [XSS (leads to arbitrary file read in Rocket.Chat-Desktop)](https://hackerone.com/reports/724153) to Rocket.Chat - 11 upvotes, $0
-1230. [xss in /users/[id]/set_tier endpoint](https://hackerone.com/reports/782764) to RATELIMITED - 11 upvotes, $0
-1231. [Self xss](https://hackerone.com/reports/388527) to Nextcloud - 11 upvotes, $0
-1232. [stored xss via Campaign Name.](https://hackerone.com/reports/923679) to lemlist - 11 upvotes, $0
-1233. [ The vulnerabilities found were XSS, Public disclosure, Network enumeration via CSRF, DLL hijacking.](https://hackerone.com/reports/927413) to Eternal - 11 upvotes, $0
-1234. [Stored self XSS at auto.mail.ru using add_review functionality](https://hackerone.com/reports/914286) to Mail.ru - 11 upvotes, $0
-1235. [xss while uploading a file](https://hackerone.com/reports/915346) to Mail.ru - 11 upvotes, $0
-1236. [Stored-Xss at connect.topcoder.com/projects/ affected on project chat members](https://hackerone.com/reports/779908) to Lab45 - 11 upvotes, $0
-1237. [Stored XSS on add project](https://hackerone.com/reports/996237) to Moneybird - 11 upvotes, $0
-1238. [Session Hijack via Self-XSS](https://hackerone.com/reports/962902) to Rocket.Chat - 11 upvotes, $0
-1239. [Reflected XSS https://tracker.my.com](https://hackerone.com/reports/1101949) to Mail.ru - 11 upvotes, $0
-1240. [Reflected XSS through clickjacking at https://████](https://hackerone.com/reports/1149144) to U.S. Dept Of Defense - 11 upvotes, $0
-1241. [Reflected Xss  https://██████/](https://hackerone.com/reports/759418) to U.S. Dept Of Defense - 11 upvotes, $0
-1242. [Blind XSS via  Digital Ocean Partner account creation form.](https://hackerone.com/reports/880591) to DigitalOcean - 11 upvotes, $0
-1243. [In orginization stored xss using location (Larksuite survey app)](https://hackerone.com/reports/998138) to Lark Technologies - 11 upvotes, $0
-1244. [XSS Reflected - ██████████](https://hackerone.com/reports/1223577) to U.S. Dept Of Defense - 11 upvotes, $0
-1245. [Stored XSS in Question edit for product name (bypass #1416672)](https://hackerone.com/reports/1428207) to Judge.me  - 11 upvotes, $0
+1050. [[okmedia.insideok.ru] Web Cache Poisoing & XSS](https://hackerone.com/reports/550266) to ok.ru - 14 upvotes, $0
+1051. [Reflected XSS on am.ru and subdomains](https://hackerone.com/reports/799056) to Mail.ru - 14 upvotes, $0
+1052. [Reflected XSS on https://www.starbucks.co.uk/shop/paymentmethod/ (bypass for 227486)](https://hackerone.com/reports/252908) to Starbucks - 14 upvotes, $0
+1053. [Reflected DOM XSS on www.starbucks.co.uk](https://hackerone.com/reports/396493) to Starbucks - 14 upvotes, $0
+1054. [Unrestricted File Upload Leads to XSS & Potential RCE](https://hackerone.com/reports/900179) to U.S. Dept Of Defense - 14 upvotes, $0
+1055. [[geekbrains.ru] Reflected XSS via Angular Template Injection](https://hackerone.com/reports/792847) to Mail.ru - 14 upvotes, $0
+1056. [XSS Challenge #2 Solution](https://hackerone.com/reports/953873) to BugPoC - 14 upvotes, $0
+1057. [XSS In https://docs.gocd.org/current/](https://hackerone.com/reports/1033832) to GoCD - 14 upvotes, $0
+1058. [Reflected XSS on a Atavist theme at external_import.php](https://hackerone.com/reports/976657) to Automattic - 14 upvotes, $0
+1059. [Download full backup and Cross site scripting ](https://hackerone.com/reports/1049040) to ImpressCMS - 14 upvotes, $0
+1060. [Reflected XSS on https://deti.mail.ru](https://hackerone.com/reports/1110927) to Mail.ru - 14 upvotes, $0
+1061. [DOM Based XSS on https://████ via backURL param](https://hackerone.com/reports/1159255) to U.S. Dept Of Defense - 14 upvotes, $0
+1062. [Reflected XSS through ClickJacking](https://hackerone.com/reports/1171403) to U.S. Dept Of Defense - 14 upvotes, $0
+1063. [Google storage bucket takeover which is used to load JS file in dashboard.html in "github.com/kubernetes/release" which can lead to XSS](https://hackerone.com/reports/1398706) to Kubernetes - 14 upvotes, $0
+1064. [cross site scripting in : mtn.bj](https://hackerone.com/reports/1264834) to MTN Group - 14 upvotes, $0
+1065. [Reflected XSS on ███ via jobid parameter](https://hackerone.com/reports/1309949) to Sony - 14 upvotes, $0
+1066. [Stored XSS in intensedebate.com via the Comments RSS ](https://hackerone.com/reports/1664914) to Automattic - 14 upvotes, $0
+1067. [xss on reset password page](https://hackerone.com/reports/1763404) to U.S. Dept Of Defense - 14 upvotes, $0
+1068. [DOM XSS at `https://adobedocs.github.io/indesign-api-docs/?configUrl={site}` due to outdated Swagger UI](https://hackerone.com/reports/1736327) to Adobe - 14 upvotes, $0
+1069. [Self-XSS due to image URL can be eploited via XSSJacking techniques in review email](https://hackerone.com/reports/1397940) to Judge.me  - 14 upvotes, $0
+1070. [XSS в теле письма, в новой версии почты.](https://hackerone.com/reports/369201) to Mail.ru - 13 upvotes, $1000
+1071. [[www.dropboxforum.com] - reflected XSS in search](https://hackerone.com/reports/413599) to Dropbox - 13 upvotes, $512
+1072. [Stored XSS at 'Buy Button' page](https://hackerone.com/reports/186462) to Shopify - 13 upvotes, $500
+1073. [[m.vk.com] XSS на страницах /artist/ ](https://hackerone.com/reports/874198) to VK.com - 13 upvotes, $500
+1074. [[chatws25.stream.highwebmedia.com] - Reflected XSS in c parameter](https://hackerone.com/reports/413442) to Chaturbate - 13 upvotes, $350
+1075. [Stored XSS in Rich editor via Embed datetime](https://hackerone.com/reports/530458) to Vanilla - 13 upvotes, $300
+1076. [XSS on expenses attachments](https://hackerone.com/reports/165324) to Harvest - 13 upvotes, $250
+1077. [Cross-site scripting on dashboard2.omise.co](https://hackerone.com/reports/1532858) to Omise - 13 upvotes, $200
+1078. [XSS at af.attachmail.ru](https://hackerone.com/reports/85421) to Mail.ru - 13 upvotes, $150
+1079. [Stored XSS в профиле водителя [city-mobil.ru/taxiserv]](https://hackerone.com/reports/1050017) to Mail.ru - 13 upvotes, $150
+1080. [Stored XSS на странице "Почты" [city-mobil.ru/taxiserv]](https://hackerone.com/reports/1050054) to Mail.ru - 13 upvotes, $150
+1081. [XSS на странице "Создать водителя" [city-mobil.ru/taxiserv]](https://hackerone.com/reports/1057971) to Mail.ru - 13 upvotes, $150
+1082. [Zomato.com Reflected Cross Site Scripting](https://hackerone.com/reports/303522) to Eternal - 13 upvotes, $100
+1083. [lootdog.io XSS](https://hackerone.com/reports/343752) to Mail.ru - 13 upvotes, $100
+1084. [CSS leaks SCSS debug info](https://hackerone.com/reports/2221) to HackerOne - 13 upvotes, $0
+1085. [Store XSS Flicker main page](https://hackerone.com/reports/940) to Yahoo! - 13 upvotes, $0
+1086. [Stored XSS in posts because of absence of oembed variables values escaping](https://hackerone.com/reports/197914) to Discourse - 13 upvotes, $0
+1087. [Stored XSS in topics because of whitelisted_generic engine vulnerability](https://hackerone.com/reports/197902) to Discourse - 13 upvotes, $0
+1088. [Stored Cross Site Scripting in Customer Name](https://hackerone.com/reports/211643) to Moneybird - 13 upvotes, $0
+1089. [Mixed Reflected-Stored XSS on pornhub.com (without user interaction) in the playlist playing section](https://hackerone.com/reports/222506) to Pornhub - 13 upvotes, $0
+1090. [Stored XSS in *.myshopify.com](https://hackerone.com/reports/241008) to Shopify - 13 upvotes, $0
+1091. [Stored XSS at Moneybird](https://hackerone.com/reports/251043) to Moneybird - 13 upvotes, $0
+1092. [Unauthenticated Reflected XSS in admin dashboard](https://hackerone.com/reports/297434) to Deconf - 13 upvotes, $0
+1093. [[mercantile.wordpress.org] Reflected XSS](https://hackerone.com/reports/240256) to WordPress - 13 upvotes, $0
+1094. [3rd party shop admin panel blind XSS](https://hackerone.com/reports/336145) to Mail.ru - 13 upvotes, $0
+1095. [Stored XSS in OAuth redirect URI ](https://hackerone.com/reports/261138) to Nextcloud - 13 upvotes, $0
+1096. [Stored Cross-site scripting ](https://hackerone.com/reports/541710) to Vercel - 13 upvotes, $0
+1097. [Unrestricted File Upload To Xss Stored [ https://ideas.browser.mail.ru/ ]](https://hackerone.com/reports/603788) to Mail.ru - 13 upvotes, $0
+1098. [Html Injection and Possible XSS via MathML](https://hackerone.com/reports/502926) to X / xAI - 13 upvotes, $0
+1099. [Reflected XSS on https://apps.topcoder.com/wiki/](https://hackerone.com/reports/866426) to Lab45 - 13 upvotes, $0
+1100. [XSS due to incomplete JS escaping](https://hackerone.com/reports/474262) to Ruby on Rails - 13 upvotes, $0
+1101. [Warehouse dom based xss may lead to Social Club Account Taker Over.](https://hackerone.com/reports/663312) to Rockstar Games - 13 upvotes, $0
+1102. [DOM BASED XSS ON https://www.rockstargames.com/GTAOnline/features ](https://hackerone.com/reports/479612) to Rockstar Games - 13 upvotes, $0
+1103. [Stored XSS at APM applications listing](https://hackerone.com/reports/530511) to New Relic - 13 upvotes, $0
+1104. [Stored XSS at APM key transactions list](https://hackerone.com/reports/567468) to New Relic - 13 upvotes, $0
+1105. [Stored XSS in Post Preview as Contributor](https://hackerone.com/reports/497724) to WordPress - 13 upvotes, $0
+1106. [Stored XSS at "Conditions "  through "My Custom Rule" Field at [https://my.stripo.email/cabinet/#/template-editor/] in Template Editor.](https://hackerone.com/reports/996371) to Stripo Inc - 13 upvotes, $0
+1107. [[sub.wordpress.com] - XSS when adjust block Poll - Confirmation Message -  On submission:Redirect to another webpage - Redirect address:[xss_payload]](https://hackerone.com/reports/1050733) to Automattic - 13 upvotes, $0
+1108. [Stored XSS in markdown file with Nextcloud Talk using Internet Explorer](https://hackerone.com/reports/1023787) to Nextcloud - 13 upvotes, $0
+1109. [Stored xss in larksuite internal helpdesk and other user's helpdesk.](https://hackerone.com/reports/884931) to Lark Technologies - 13 upvotes, $0
+1110. [CSRF to Cross-site Scripting (XSS)](https://hackerone.com/reports/1118521) to U.S. Dept Of Defense - 13 upvotes, $0
+1111. [Reflected XSS at [████████]](https://hackerone.com/reports/1196945) to U.S. Dept Of Defense - 13 upvotes, $0
+1112. [Bypassing SOP with XSS on account.my.games leading to steal CSRF token and user information](https://hackerone.com/reports/1215053) to Mail.ru - 13 upvotes, $0
+1113. [XSS DUE TO CVE-2020-3580](https://hackerone.com/reports/1245055) to U.S. Dept Of Defense - 13 upvotes, $0
+1114. [CSS injection via link tag whitelisted-domain bypass - https://www.glassdoor.com](https://hackerone.com/reports/1250730) to Glassdoor - 13 upvotes, $0
+1115. [Reflected XSS due to vulnerable version of sockjs](https://hackerone.com/reports/1100326) to Automattic - 13 upvotes, $0
+1116. [Stored XSS at https://█████](https://hackerone.com/reports/1620247) to U.S. Dept Of Defense - 13 upvotes, $0
+1117. [Reflected cross site scripting in https://███████](https://hackerone.com/reports/1636345) to U.S. Dept Of Defense - 13 upvotes, $0
+1118. [Jolokia Reflected XSS ](https://hackerone.com/reports/1714563) to Mars - 13 upvotes, $0
+1119. [XSS on ( █████████.gov ) Via URL path](https://hackerone.com/reports/1825942) to U.S. Dept Of Defense - 13 upvotes, $0
+1120. [Reflected XSS vulnerability with full CSP bypass in Nextcloud installations using recommended bundle](https://hackerone.com/reports/1893186) to Nextcloud - 13 upvotes, $0
+1121. [XSS via Vuln Rendertron Instance At `██████████.jetblue.com/render/*`](https://hackerone.com/reports/1853061) to JetBlue - 13 upvotes, $0
+1122. [Rails::Html::SafeListSanitizer vulnerable to xss attack in an environment that allows the style tag](https://hackerone.com/reports/1599573) to Internet Bug Bounty - 12 upvotes, $2400
+1123. [XSS by clicking Jira's link](https://hackerone.com/reports/1194254) to GitLab - 12 upvotes, $1130
+1124. [shopifyapps.com XSS on sales channels via currency formatting](https://hackerone.com/reports/104359) to Shopify - 12 upvotes, $1000
+1125. [Stored xss in editor ](https://hackerone.com/reports/53730) to Mapbox - 12 upvotes, $1000
+1126. [XSS в письме, в поле отправителя.](https://hackerone.com/reports/246634) to Mail.ru - 12 upvotes, $1000
+1127. [XSS @ store.steampowered.com via agecheck path name](https://hackerone.com/reports/406704) to Valve - 12 upvotes, $750
+1128. [XSS в обработчике ссылок](https://hackerone.com/reports/1073571) to VK.com - 12 upvotes, $700
+1129. [reflected XSS on healt.mail.ru](https://hackerone.com/reports/276714) to Mail.ru - 12 upvotes, $500
+1130. [OX Guard: DOM Based Cross-Site Scripting (#2)](https://hackerone.com/reports/164821) to Open-Xchange - 12 upvotes, $500
+1131. [Post Based Reflected XSS on [https://investor.razer.com/s/ir_contact.php]](https://hackerone.com/reports/801075) to Razer - 12 upvotes, $375
+1132. [Stored XSS in Restoring Archived Tasks](https://hackerone.com/reports/177757) to Harvest - 12 upvotes, $250
+1133. [XSS в названии лайвчата](https://hackerone.com/reports/321419) to Mail.ru - 12 upvotes, $250
+1134. [store xss in calendar via upload filename](https://hackerone.com/reports/385407) to Open-Xchange - 12 upvotes, $250
+1135. [stored xss путём загрузки вредоносного файла + обход загрузки файлов.](https://hackerone.com/reports/888254) to Mail.ru - 12 upvotes, $200
+1136. [Eval-based XSS in Game JS API (mailru.core.js) via cross-origin postMessage()](https://hackerone.com/reports/1071294) to Mail.ru - 12 upvotes, $200
+1137. [[stage-go.wepay.com] XSS via Request URI](https://hackerone.com/reports/281038) to WePay - 12 upvotes, $100
+1138. [Stored-XSS in https://www.coinbase.com/](https://hackerone.com/reports/100829) to Coinbase - 12 upvotes, $0
+1139. [[bbPress] Stored XSS in any forum post.](https://hackerone.com/reports/151117) to Automattic - 12 upvotes, $0
+1140. [Stored xss](https://hackerone.com/reports/156373) to Algolia - 12 upvotes, $0
+1141. [Unsanitized Location Name in POS Channel can lead to XSS in Orders Timeline](https://hackerone.com/reports/166887) to Shopify - 12 upvotes, $0
+1142. [XSS in SHOPIFY: Unsanitized Supplier Name  can lead to XSS in Transfers Timeline](https://hackerone.com/reports/167075) to Shopify - 12 upvotes, $0
+1143. [Follow Button XSS](https://hackerone.com/reports/172574) to Automattic - 12 upvotes, $0
+1144. [Stored XSS in unifi.ubnt.com](https://hackerone.com/reports/142084) to Ubiquiti Inc. - 12 upvotes, $0
+1145. [stored XSS in olx.pl - ogloszenie TITLE element - moderator acc can be hacked](https://hackerone.com/reports/150668) to OLX - 12 upvotes, $0
+1146. [DOM Based XSS on an Army website](https://hackerone.com/reports/191407) to U.S. Dept Of Defense - 12 upvotes, $0
+1147. [WordPress \<= 4.6.1 Stored XSS Via Theme File](https://hackerone.com/reports/197878) to Nextcloud - 12 upvotes, $0
+1148. [dom xss in https://www.slackatwork.com](https://hackerone.com/reports/196624) to Slack - 12 upvotes, $0
+1149. [Reflected XSS and Open Redirect in several parameters (viestinta.lahitapiola.fi)](https://hackerone.com/reports/191387) to LocalTapiola - 12 upvotes, $0
+1150. [Reflected XSS on blockchain.info](https://hackerone.com/reports/179426) to Blockchain - 12 upvotes, $0
+1151. [Blind Stored XSS against Pornhub employees using Amateur Model Program](https://hackerone.com/reports/216379) to Pornhub - 12 upvotes, $0
+1152. [[XSS/pay.qiwi.com] Pay SubDomain Hard-Use XSS](https://hackerone.com/reports/198251) to QIWI - 12 upvotes, $0
+1153. [Stored XSS in Headline TextControl element in Express forms [ concrete5 8.1.0 ]](https://hackerone.com/reports/230278) to Concrete CMS - 12 upvotes, $0
+1154. [dom based xss in http://www.rockstargames.com/GTAOnline/ (Fix bypass)](https://hackerone.com/reports/261571) to Rockstar Games - 12 upvotes, $0
+1155. [Lazy Load stored XSS](https://hackerone.com/reports/152416) to Automattic - 12 upvotes, $0
+1156. [Stored xss via template injection](https://hackerone.com/reports/250837) to WordPress - 12 upvotes, $0
+1157. [Unfiltered input allows for XSS in "Playtime Item Grants" fields](https://hackerone.com/reports/353334) to Valve - 12 upvotes, $0
+1158. [Reflected XSS (myynti.lahitapiolarahoitus.fi)](https://hackerone.com/reports/324423) to LocalTapiola - 12 upvotes, $0
+1159. [Triggering RCE using XSS to bypass CSRF in PowerBeam M5 300](https://hackerone.com/reports/289264) to Ubiquiti Inc. - 12 upvotes, $0
+1160. [Post Based XSS On Upload Via CK Editor [semrush.com]](https://hackerone.com/reports/375352) to Semrush - 12 upvotes, $0
+1161. [Torrent extension: Cross-origin downloading + "URL spoofing" + CSP-blocked XSS](https://hackerone.com/reports/378864) to Brave Software - 12 upvotes, $0
+1162. [Session ID is accessible via XSS](https://hackerone.com/reports/241194) to Inflection - 12 upvotes, $0
+1163. [[rm.mail.ru] Request-Path XSS](https://hackerone.com/reports/386100) to Mail.ru - 12 upvotes, $0
+1164. [XSS](https://hackerone.com/reports/496841) to Mail.ru - 12 upvotes, $0
+1165. [stored xss in https://www.smule.com](https://hackerone.com/reports/733222) to Smule - 12 upvotes, $0
+1166. [Unauthenticated reflected XSS in preview_as_user function](https://hackerone.com/reports/643442) to Concrete CMS - 12 upvotes, $0
+1167. [[htmr] DOM-based XSS](https://hackerone.com/reports/753971) to Node.js third-party modules - 12 upvotes, $0
+1168. [Reflected XSS on https://www.semrush.com/my_reports/externalSource/callback/googleAccountsGMB](https://hackerone.com/reports/786238) to Semrush - 12 upvotes, $0
+1169. [Stored xss on https://go.mail.ru/](https://hackerone.com/reports/832256) to Mail.ru - 12 upvotes, $0
+1170. [XSS in [community.my.games]](https://hackerone.com/reports/848732) to Mail.ru - 12 upvotes, $0
+1171. [[my.games] Stored XSS via untrusted bucket](https://hackerone.com/reports/874107) to Mail.ru - 12 upvotes, $0
+1172. [Reflected XSS](https://hackerone.com/reports/874093) to Mail.ru - 12 upvotes, $0
+1173. [XSS in image metadata field](https://hackerone.com/reports/896511) to Nextcloud - 12 upvotes, $0
+1174. [Cross-account stored XSS at notes (through "swf" note parameter)](https://hackerone.com/reports/710535) to New Relic - 12 upvotes, $0
+1175. [pre-auth Stored XSS in comments via javascript: url when administrator edits user supplied comment](https://hackerone.com/reports/633231) to WordPress - 12 upvotes, $0
+1176. [XSS on https://fax.pbx.itsendless.org/ (CVE-2017-18024)](https://hackerone.com/reports/963798) to Endless Group - 12 upvotes, $0
+1177. [[m-server] XSS reflected because path does not escapeHtml](https://hackerone.com/reports/951468) to Node.js third-party modules - 12 upvotes, $0
+1178. [reflected xss on learn.city-mobil.ru via redirect_url parameter](https://hackerone.com/reports/1027962) to Mail.ru - 12 upvotes, $0
+1179. [Blind Stored XSS on ███████  leads to takeover admin account](https://hackerone.com/reports/1110243) to U.S. Dept Of Defense - 12 upvotes, $0
+1180. [Cross site scripting  ](https://hackerone.com/reports/1095797) to Informatica - 12 upvotes, $0
+1181. [Reflected XSS on /admin/stats.php](https://hackerone.com/reports/1187820) to Revive Adserver - 12 upvotes, $0
+1182. [CSRF Based XSS @ https://██████████](https://hackerone.com/reports/1147949) to U.S. Dept Of Defense - 12 upvotes, $0
+1183. [Blind XSS](https://hackerone.com/reports/1091118) to Rocket.Chat - 12 upvotes, $0
+1184. [Universal Cross-Site Scripting vulnerability](https://hackerone.com/reports/1326264) to Proctorio - 12 upvotes, $0
+1185. [stand.pw.mail.ru xss](https://hackerone.com/reports/1400197) to Mail.ru - 12 upvotes, $0
+1186. [Stored XSS on the "www.intensedebate.com/extras-widgets" url at "Recent comments by" module with malicious blog url](https://hackerone.com/reports/1083734) to Automattic - 12 upvotes, $0
+1187. [Account takeover leading to PII chained with stored XSS](https://hackerone.com/reports/1483201) to U.S. General Services Administration - 12 upvotes, $0
+1188. [Able to bypass the fix on DOM XSS at [www.adobe.com]](https://hackerone.com/reports/1398374) to Adobe - 12 upvotes, $0
+1189. [[XSS] Reflected XSS via POST request](https://hackerone.com/reports/1850235) to U.S. Dept Of Defense - 12 upvotes, $0
+1190. [Self XSS](https://hackerone.com/reports/2521186) to U.S. Dept Of Defense - 12 upvotes, $0
+1191. [XSS in various MessageTypes](https://hackerone.com/reports/1379400) to Rocket.Chat - 12 upvotes, $0
+1192. [Cross-site Scripting (XSS) - Reflected on http://h1b4e.n2.ips.mtn.co.ug:8080 via Nginx-module](https://hackerone.com/reports/1159362) to MTN Group - 12 upvotes, $0
+1193. [XSS in ubermovement.com via editable Google Sheets](https://hackerone.com/reports/193799) to Uber - 11 upvotes, $2000
+1194. [Stored XSS on support.rockstargames.com](https://hackerone.com/reports/265274) to Rockstar Games - 11 upvotes, $1000
+1195. [XSS в теле письма, в блочных стилях.](https://hackerone.com/reports/277163) to Mail.ru - 11 upvotes, $1000
+1196. [Stored xss in calendar via call link](https://hackerone.com/reports/1121980) to Mail.ru - 11 upvotes, $1000
+1197. [Xss в https://e.mail.ru/](https://hackerone.com/reports/227181) to Mail.ru - 11 upvotes, $500
+1198. [Хранимая XSS в функционале добавления аудио в WYSIWYG](https://hackerone.com/reports/274112) to VK.com - 11 upvotes, $500
+1199. [[account.mail.ru] XSS на странице восстановления пароля](https://hackerone.com/reports/360787) to Mail.ru - 11 upvotes, $500
+1200. [Stored Blind XSS](https://hackerone.com/reports/326918) to Mail.ru - 11 upvotes, $500
+1201. [Stored XSS in mail app](https://hackerone.com/reports/538323) to Open-Xchange - 11 upvotes, $500
+1202. [XSS в названии звонка](https://hackerone.com/reports/1056953) to VK.com - 11 upvotes, $500
+1203. [Stored XSS in Question edit for product name (bypass #1416672)](https://hackerone.com/reports/1428207) to Judge.me  - 11 upvotes, $500
+1204. [XSS Vulnerability at https://www.pornhubpremium.com/premium_signup? URL endpoint ](https://hackerone.com/reports/202548) to Pornhub - 11 upvotes, $250
+1205. [[theacademy.upserve.com] Reflected XSS Query-String](https://hackerone.com/reports/389592) to Upserve  - 11 upvotes, $250
+1206. [[Zomato's Blog] POST based XSS on https://www.zomato.com/blog/wp-admin/admin-ajax.php?td_theme_name=Newspaper&v=8.2](https://hackerone.com/reports/335481) to Eternal - 11 upvotes, $100
+1207. [XSS on https://www.delivery-club.ru/sd/test_330933/info/](https://hackerone.com/reports/330974) to Mail.ru - 11 upvotes, $100
+1208. [XSS & HTML injection](https://hackerone.com/reports/7876) to Localize - 11 upvotes, $0
+1209. [Loadbalancer + URI XSS #3](https://hackerone.com/reports/9703) to Yahoo! - 11 upvotes, $0
+1210. [Reflected XSS in scores.ubnt.com](https://hackerone.com/reports/130889) to Ubiquiti Inc. - 11 upvotes, $0
+1211. [XSS On meta tags in profile page](https://hackerone.com/reports/159984) to GitLab - 11 upvotes, $0
+1212. [Reflected Xss on ](https://hackerone.com/reports/182033) to Pushwoosh - 11 upvotes, $0
+1213. [[scores.ubnt.com] DOM based XSS at form.html](https://hackerone.com/reports/158484) to Ubiquiti Inc. - 11 upvotes, $0
+1214. [Reflected cross-site scripting vulnerability on a DoD website](https://hackerone.com/reports/184042) to U.S. Dept Of Defense - 11 upvotes, $0
+1215. [[Gnip Blogs] Reflected XSS via "plupload.flash.swf" component vulnerable to SOME ](https://hackerone.com/reports/218451) to X / xAI - 11 upvotes, $0
+1216. [[app.mixmax.com] Stored XSS on Adding new enhancement.](https://hackerone.com/reports/237100) to Mixmax - 11 upvotes, $0
+1217. [Stored XSS on player.vimeo.com](https://hackerone.com/reports/85488) to Vimeo - 11 upvotes, $0
+1218. [Stored self-XSS pubg.mail.ru в нескольких местах](https://hackerone.com/reports/280826) to Mail.ru - 11 upvotes, $0
+1219. [XSS with needed user intervention](https://hackerone.com/reports/204969) to Zendesk - 11 upvotes, $0
+1220. [XSS через подгрузку ссылки.](https://hackerone.com/reports/282602) to Mail.ru - 11 upvotes, $0
+1221. [Stored XSS in the Custom Logo link (non-Basic plan required)](https://hackerone.com/reports/282209) to Infogram - 11 upvotes, $0
+1222. [Stored XSS on urbandictionary.com](https://hackerone.com/reports/289085) to Urban Dictionary - 11 upvotes, $0
+1223. [Persistent XSS - Selecting users as allowed merge request approvers](https://hackerone.com/reports/346217) to GitLab - 11 upvotes, $0
+1224. [[web.icq.com] Stored XSS in link when sending message](https://hackerone.com/reports/339237) to Mail.ru - 11 upvotes, $0
+1225. [Disclosure of user email address and Deanonymization [mail.ru] + Blind | Stored XSS pets.mail.ru](https://hackerone.com/reports/334230) to Mail.ru - 11 upvotes, $0
+1226. [Reflected XSS of bbe-child-starter Theme via "value"-GET-parameter](https://hackerone.com/reports/335735) to LocalTapiola - 11 upvotes, $0
+1227. [Reflected Cross Site Scripting (XSS)](https://hackerone.com/reports/435144) to Superhuman (formerly Grammarly) - 11 upvotes, $0
+1228. [Stored XSS via Create Project (Add new translation project)](https://hackerone.com/reports/610219) to Weblate - 11 upvotes, $0
+1229. [Reflected XSS on www.olx.co.id via ad_type parameter](https://hackerone.com/reports/633751) to OLX - 11 upvotes, $0
+1230. [XSS (leads to arbitrary file read in Rocket.Chat-Desktop)](https://hackerone.com/reports/724153) to Rocket.Chat - 11 upvotes, $0
+1231. [xss in /users/[id]/set_tier endpoint](https://hackerone.com/reports/782764) to RATELIMITED - 11 upvotes, $0
+1232. [Self xss](https://hackerone.com/reports/388527) to Nextcloud - 11 upvotes, $0
+1233. [stored xss via Campaign Name.](https://hackerone.com/reports/923679) to lemlist - 11 upvotes, $0
+1234. [ The vulnerabilities found were XSS, Public disclosure, Network enumeration via CSRF, DLL hijacking.](https://hackerone.com/reports/927413) to Eternal - 11 upvotes, $0
+1235. [Stored self XSS at auto.mail.ru using add_review functionality](https://hackerone.com/reports/914286) to Mail.ru - 11 upvotes, $0
+1236. [xss while uploading a file](https://hackerone.com/reports/915346) to Mail.ru - 11 upvotes, $0
+1237. [Stored-Xss at connect.topcoder.com/projects/ affected on project chat members](https://hackerone.com/reports/779908) to Lab45 - 11 upvotes, $0
+1238. [Stored XSS on add project](https://hackerone.com/reports/996237) to Moneybird - 11 upvotes, $0
+1239. [Session Hijack via Self-XSS](https://hackerone.com/reports/962902) to Rocket.Chat - 11 upvotes, $0
+1240. [Reflected XSS https://tracker.my.com](https://hackerone.com/reports/1101949) to Mail.ru - 11 upvotes, $0
+1241. [Reflected XSS through clickjacking at https://████](https://hackerone.com/reports/1149144) to U.S. Dept Of Defense - 11 upvotes, $0
+1242. [Reflected Xss  https://██████/](https://hackerone.com/reports/759418) to U.S. Dept Of Defense - 11 upvotes, $0
+1243. [Blind XSS via  Digital Ocean Partner account creation form.](https://hackerone.com/reports/880591) to DigitalOcean - 11 upvotes, $0
+1244. [In orginization stored xss using location (Larksuite survey app)](https://hackerone.com/reports/998138) to Lark Technologies - 11 upvotes, $0
+1245. [XSS Reflected - ██████████](https://hackerone.com/reports/1223577) to U.S. Dept Of Defense - 11 upvotes, $0
 1246. [Improper Implementation of SDK Allows Universal XSS in Webview Leading to Account Takeover](https://hackerone.com/reports/1455987) to EXNESS - 11 upvotes, $0
 1247. [ Site information's Display Name section vulnerable for XSS attacks and HTML Injections.](https://hackerone.com/reports/1554888) to Automattic - 11 upvotes, $0
 1248. [Arbitrary file download via "Save .torrent file" option can lead to Client RCE and XSS](https://hackerone.com/reports/963155) to Brave Software - 11 upvotes, $0
@@ -1496,7 +1496,7 @@ Top XSS reports from HackerOne:
 1494. [Stored XSS in Email attachment file name](https://hackerone.com/reports/388506) to Open-Xchange - 7 upvotes, $500
 1495. [XSS - Guard - Insufficient escaping of User-IDs from PGP Keys](https://hackerone.com/reports/788691) to Open-Xchange - 7 upvotes, $500
 1496. [Stored XSS on recruit.innogames.de](https://hackerone.com/reports/917250) to InnoGames - 7 upvotes, $500
-1497. [XSS on internal: privileged origin through reader mode](https://hackerone.com/reports/1438028) to Brave Software - 7 upvotes, $500
+1497. [Stored XSS in Question edit from product name](https://hackerone.com/reports/1416672) to Judge.me  - 7 upvotes, $500
 1498. [XSS on opening malicious OpenOffice presentation document](https://hackerone.com/reports/894919) to Open-Xchange - 7 upvotes, $400
 1499. [PornIQ Reflected Cross-Site Scripting](https://hackerone.com/reports/105486) to Pornhub - 7 upvotes, $250
 1500. [[connect.mail.ru] Memory Disclosure / IE XSS](https://hackerone.com/reports/38615) to Mail.ru - 7 upvotes, $250
@@ -1582,11 +1582,11 @@ Top XSS reports from HackerOne:
 1580. [[Swiftype] - Stored XSS via document field `url` triggers on `https://app.swiftype.com/engines/\<engine\>/document_types/\<type\>/documents/\<id\>`](https://hackerone.com/reports/1245787) to Elastic - 7 upvotes, $0
 1581. [XSS on ███](https://hackerone.com/reports/1252282) to U.S. Dept Of Defense - 7 upvotes, $0
 1582. [XSS on ub.icq.net](https://hackerone.com/reports/1064587) to Mail.ru - 7 upvotes, $0
-1583. [Stored XSS in Question edit from product name](https://hackerone.com/reports/1416672) to Judge.me  - 7 upvotes, $0
-1584. [Open Akamai ARL XSS at ████████](https://hackerone.com/reports/1317024) to U.S. Dept Of Defense - 7 upvotes, $0
-1585. [Reflected XSS on https://www.glassdoor.com/parts/header.htm](https://hackerone.com/reports/1073712) to Glassdoor - 7 upvotes, $0
-1586. [Reflected XSS via `████████` parameter](https://hackerone.com/reports/1536215) to U.S. Dept Of Defense - 7 upvotes, $0
-1587. [stored cross site scripting in https://███](https://hackerone.com/reports/1657020) to U.S. Dept Of Defense - 7 upvotes, $0
+1583. [Open Akamai ARL XSS at ████████](https://hackerone.com/reports/1317024) to U.S. Dept Of Defense - 7 upvotes, $0
+1584. [Reflected XSS on https://www.glassdoor.com/parts/header.htm](https://hackerone.com/reports/1073712) to Glassdoor - 7 upvotes, $0
+1585. [Reflected XSS via `████████` parameter](https://hackerone.com/reports/1536215) to U.S. Dept Of Defense - 7 upvotes, $0
+1586. [stored cross site scripting in https://███](https://hackerone.com/reports/1657020) to U.S. Dept Of Defense - 7 upvotes, $0
+1587. [XSS on internal: privileged origin through reader mode](https://hackerone.com/reports/1438028) to Brave Software - 7 upvotes, $0
 1588. [Reflected Cross-Site Scripting(CVE-2022-32770 )](https://hackerone.com/reports/1844777) to Rocket.Chat - 7 upvotes, $0
 1589. [Cross-Site Scripting (XSS) Vulnerability via parameter c0-id + Akamai Firewall Bypass](https://hackerone.com/reports/2750977) to U.S. Dept Of Defense - 7 upvotes, $0
 1590. [Cross-Site Scripting via URL on ███████](https://hackerone.com/reports/3354494) to U.S. Dept Of Defense - 7 upvotes, $0
@@ -1637,141 +1637,141 @@ Top XSS reports from HackerOne:
 1635. [Stored XSS On Wordpress Infogram plugin](https://hackerone.com/reports/287688) to Infogram - 6 upvotes, $0
 1636. [Persistent Cross-Site Scripting in WooCommerce WordPress plugin](https://hackerone.com/reports/152692) to Automattic - 6 upvotes, $0
 1637. [Persistent XSS in share button](https://hackerone.com/reports/290794) to Infogram - 6 upvotes, $0
-1638. [[marketplace.informatica.com] - Stored XSS](https://hackerone.com/reports/277259) to Informatica - 6 upvotes, $0
-1639. [[marketplace.informatica.com]-Reflected XSS ](https://hackerone.com/reports/266801) to Informatica - 6 upvotes, $0
-1640. [Хранимая XSS на странице "Виджет для авторизации"](https://hackerone.com/reports/273960) to VK.com - 6 upvotes, $0
-1641. [[uppy] Stored XSS due to crafted SVG file](https://hackerone.com/reports/311998) to Node.js third-party modules - 6 upvotes, $0
-1642. [Reflected XSS { support.mycrypto.com }](https://hackerone.com/reports/323566) to MyCrypto - 6 upvotes, $0
-1643. [Outdated MediaElement.js Reflected Cross-Site Scripting (XSS)](https://hackerone.com/reports/155228) to Eternal - 6 upvotes, $0
-1644. [XSS уязвимость](https://hackerone.com/reports/302357) to Mail.ru - 6 upvotes, $0
-1645. [Stored Cross Site Scripting](https://hackerone.com/reports/362735) to Y Combinator - 6 upvotes, $0
-1646. [XSS touch.mail.ru compose Body](https://hackerone.com/reports/344049) to Mail.ru - 6 upvotes, $0
-1647. [XSS ( Работа с письмами )](https://hackerone.com/reports/304679) to Mail.ru - 6 upvotes, $0
-1648. [[tianma-static] Stored xss on filename](https://hackerone.com/reports/403692) to Node.js third-party modules - 6 upvotes, $0
-1649. [[hs.mail.ru] XSS play_now.php](https://hackerone.com/reports/178281) to Mail.ru - 6 upvotes, $0
-1650. [[hs.mail.ru] CRLF Injection / XSS](https://hackerone.com/reports/178279) to Mail.ru - 6 upvotes, $0
-1651. [[new.wf.mail.ru] XSS Request-URI](https://hackerone.com/reports/261654) to Mail.ru - 6 upvotes, $0
-1652. [[evo2.my.com] Internet Explorer XSS](https://hackerone.com/reports/387052) to Mail.ru - 6 upvotes, $0
-1653. [[████████] Reflected XSS](https://hackerone.com/reports/499041) to U.S. Dept Of Defense - 6 upvotes, $0
-1654. [[█████] Reflected GET XSS  (/personnel.php?...&rcnum=*) with mouse action](https://hackerone.com/reports/648348) to U.S. Dept Of Defense - 6 upvotes, $0
-1655. [Double linking cause XSS (but blokeced by CSP in gitlab.com)](https://hackerone.com/reports/729341) to GitLab - 6 upvotes, $0
-1656. [HTML injection and limited XSS via logo image upload - Nextcloud 12.0.0](https://hackerone.com/reports/231524) to Nextcloud - 6 upvotes, $0
-1657. [XSS на сайте https://warofdragons.my.games/.](https://hackerone.com/reports/769335) to Mail.ru - 6 upvotes, $0
-1658. [xss](https://hackerone.com/reports/281387) to Stellar.org - 6 upvotes, $0
-1659. [XSS on remote.bittorrent.com](https://hackerone.com/reports/846397) to BTFS - 6 upvotes, $0
-1660. [Stored XSS on https://apps.topcoder.com/wiki/plugins/socialbookmarking/updatebookmark.action](https://hackerone.com/reports/866815) to Lab45 - 6 upvotes, $0
-1661. [Reflected XSS on https://apps.topcoder.com/wiki/pages/createpage.action](https://hackerone.com/reports/866576) to Lab45 - 6 upvotes, $0
-1662. [Stored XSS on go.mail.ru](https://hackerone.com/reports/697048) to Mail.ru - 6 upvotes, $0
-1663. [DOM based XSS on /GTAOnline/de/news/article via "returnUrl" parameter](https://hackerone.com/reports/508475) to Rockstar Games - 6 upvotes, $0
-1664. [Stored XSS at ██████userprofile.aspx](https://hackerone.com/reports/901377) to U.S. Dept Of Defense - 6 upvotes, $0
-1665. [Stored XSS at APM transaction map (transactionName field)](https://hackerone.com/reports/667770) to New Relic - 6 upvotes, $0
-1666. [[notevil] - Sandbox Escape Lead to RCE on Node.js and XSS in the Browser](https://hackerone.com/reports/809012) to Node.js third-party modules - 6 upvotes, $0
-1667. [ [self?] XSS в адресе пользователя [sbermarket.ru]](https://hackerone.com/reports/900973) to Mail.ru - 6 upvotes, $0
-1668. [[delivery.city-mobil.ru] Stored XSS into support request comment](https://hackerone.com/reports/995055) to Mail.ru - 6 upvotes, $0
-1669. [Stored XSS at Template Editor in "Section Name"  Field of Block element 'Accordion'.](https://hackerone.com/reports/1025365) to Stripo Inc - 6 upvotes, $0
-1670. [[BugPOC and Amazon XSS CTF writeup] A CSP Bypass Story](https://hackerone.com/reports/1026752) to BugPoC - 6 upvotes, $0
-1671. [[aw.mail.ru] XSS on /quiztank page](https://hackerone.com/reports/803114) to Mail.ru - 6 upvotes, $0
-1672. [Stored XSS at https://www.█████████.mil](https://hackerone.com/reports/1081994) to U.S. Dept Of Defense - 6 upvotes, $0
-1673. [[MY.GAMES] XSS в мессенджере](https://hackerone.com/reports/887589) to Mail.ru - 6 upvotes, $0
-1674. [Second Order XSS via █████](https://hackerone.com/reports/819899) to U.S. Dept Of Defense - 6 upvotes, $0
-1675. [Reflected XSS on █████████](https://hackerone.com/reports/1059395) to U.S. Dept Of Defense - 6 upvotes, $0
-1676. [DOM XSS в learning.ozon.ru](https://hackerone.com/reports/1167230) to Ozon - 6 upvotes, $0
-1677. [Cross-site Scripting (XSS) possible  at https://sifchain.finance// via CVE-2019-8331 exploitation](https://hackerone.com/reports/1218173) to Sifchain - 6 upvotes, $0
-1678. [XSS reflected](https://hackerone.com/reports/1030397) to Engel & Völkers Technology GmbH - 6 upvotes, $0
-1679. [[█████████] Reflected Cross-Site Scripting Vulnerability](https://hackerone.com/reports/1196989) to U.S. Dept Of Defense - 6 upvotes, $0
-1680. [Stored-XSS in merge requests](https://hackerone.com/reports/1261148) to GitLab - 6 upvotes, $0
-1681. [Open Redirect and CRLF Injection Leads to XSS on [app.doma.uchi.ru]](https://hackerone.com/reports/1132209) to Mail.ru - 6 upvotes, $0
-1682. [Reflected XSS at ████ via ██████████= parameter ](https://hackerone.com/reports/1305472) to U.S. Dept Of Defense - 6 upvotes, $0
-1683. [Reflected XSS at https://█████ via "██████████" parameter](https://hackerone.com/reports/1457546) to U.S. Dept Of Defense - 6 upvotes, $0
-1684. [XSS on https://████/ via ███████ parameter](https://hackerone.com/reports/1251868) to U.S. Dept Of Defense - 6 upvotes, $0
-1685. [XSS at videostore.mtnonline.com/GL/*.aspx via all parameters](https://hackerone.com/reports/1244731) to MTN Group - 6 upvotes, $0
-1686. [8x8pilot.com: Reflected XSS in Apache Tomcat /jsp-examples example directory](https://hackerone.com/reports/1400357) to 8x8 - 6 upvotes, $0
-1687. [ Cross-site scripting (DOM-based)](https://hackerone.com/reports/1512644) to OneWeb - 6 upvotes, $0
-1688. [[doc.rt.informaticacloud.com] Reflected XSS via Stack Strace](https://hackerone.com/reports/232320) to Informatica - 6 upvotes, $0
-1689. [XSS DUE TO CVE-2022-38463 in https://████████](https://hackerone.com/reports/1681208) to U.S. Dept Of Defense - 6 upvotes, $0
-1690. [XSS via Client Side Template Injection on www.███/News/Speeches](https://hackerone.com/reports/1736317) to U.S. Dept Of Defense - 6 upvotes, $0
-1691. [stored cross site scripting in https://███████](https://hackerone.com/reports/1666002) to U.S. Dept Of Defense - 6 upvotes, $0
-1692. [stored cross site scripting in https://██████████](https://hackerone.com/reports/1657030) to U.S. Dept Of Defense - 6 upvotes, $0
-1693. [stored cross site scripting in https://█████████](https://hackerone.com/reports/1660500) to U.S. Dept Of Defense - 6 upvotes, $0
-1694. [stored cross site scripting in https://███](https://hackerone.com/reports/1657033) to U.S. Dept Of Defense - 6 upvotes, $0
-1695. [Cross-Site Scripting (XSS) Vulnerability via POST Method + Akamai Firewall Bypass](https://hackerone.com/reports/2750728) to U.S. Dept Of Defense - 6 upvotes, $0
-1696. [POST XSS -  fields[account][lastname] parameter](https://hackerone.com/reports/3127162) to U.S. Dept Of Defense - 6 upvotes, $0
-1697. [POST XSS -  fields[account][firstname] parameter](https://hackerone.com/reports/3127158) to U.S. Dept Of Defense - 6 upvotes, $0
-1698. [POST XSS - data[account][id] parameter](https://hackerone.com/reports/3127147) to U.S. Dept Of Defense - 6 upvotes, $0
-1699. [Cross-Site Scripting via 'return_link_url' parameter ](https://hackerone.com/reports/3137200) to U.S. Dept Of Defense - 6 upvotes, $0
-1700. [Cross-Site Scripting via 'EVENT_DESCRIPTION' parameter](https://hackerone.com/reports/3284381) to U.S. Dept Of Defense - 6 upvotes, $0
-1701. [Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ██████████](https://hackerone.com/reports/3166587) to U.S. Dept Of Defense - 6 upvotes, $0
-1702. [Stored XSS in archive.uber.com Due to Injection of Javascript:alert(0)](https://hackerone.com/reports/126906) to Uber - 5 upvotes, $3000
-1703. [XSS in L.mapbox.shareControl in mapbox.js](https://hackerone.com/reports/99245) to Mapbox - 5 upvotes, $1000
-1704. [XSS on partners.uber.com](https://hackerone.com/reports/42393) to Uber - 5 upvotes, $500
-1705. [XSS in my.shopify.com in  widget](https://hackerone.com/reports/185826) to Shopify - 5 upvotes, $500
-1706. [Stored XSS in Profile Comments](https://hackerone.com/reports/530464) to Vanilla - 5 upvotes, $300
-1707. [Reflected cross-site scripting (XSS) vulnerability in pornhub.com allows attackers to inject arbitrary web script or HTML.](https://hackerone.com/reports/182132) to Pornhub - 5 upvotes, $200
-1708. [Store Cross-Site Scripting - www.razer.ru](https://hackerone.com/reports/739854) to Razer - 5 upvotes, $200
-1709. [XSS на странице "Платежи водителей" [city-mobil.ru/taxiserv]](https://hackerone.com/reports/1061446) to Mail.ru - 5 upvotes, $150
-1710. [Cross Site Scripting](https://hackerone.com/reports/95599) to Deriv.com - 5 upvotes, $50
-1711. [Stored XSS at Udemy](https://hackerone.com/reports/132602) to Udemy - 5 upvotes, $50
-1712. [Cross Site Scripting – Album Page](https://hackerone.com/reports/82929) to Pornhub - 5 upvotes, $50
-1713. [Stored XSS from ticket messages in admin table in SupportFlow](https://hackerone.com/reports/145091) to Ian Dunn - 5 upvotes, $50
-1714. [Stored XSS in SupportFlow Ticket Subject](https://hackerone.com/reports/145086) to Ian Dunn - 5 upvotes, $50
-1715. [Vulnerability found, XSS (Cross site Scripting)](https://hackerone.com/reports/1258) to Yahoo! - 5 upvotes, $0
-1716. [Persistent class XSS [the fuck]](https://hackerone.com/reports/6412) to Khan Academy - 5 upvotes, $0
-1717. [XSS in password](https://hackerone.com/reports/7995) to Localize - 5 upvotes, $0
-1718. [reflected XSS, http://extprodweb11.cc.gq1.yahoo.com/, 4/8/14, #SpringClean](https://hackerone.com/reports/6195) to Yahoo! - 5 upvotes, $0
-1719. [Cross Site Scripting (XSS) - app.relateiq.com](https://hackerone.com/reports/2439) to RelateIQ - 5 upvotes, $0
-1720. [Reflected cross site scripting in login page ](https://hackerone.com/reports/9735) to StopTheHacker - 5 upvotes, $0
-1721. [Reflected XSS connect.mail.ru (IE6-IE8)](https://hackerone.com/reports/12929) to Mail.ru - 5 upvotes, $0
-1722. [XSS in original referrer after follow](https://hackerone.com/reports/50134) to X / xAI - 5 upvotes, $0
-1723. [Stored XSS in Slack.com](https://hackerone.com/reports/6002) to Slack - 5 upvotes, $0
-1724. [Reflected Cross Site Scripting - 'puser' Parameter in login page](https://hackerone.com/reports/50157) to Adobe - 5 upvotes, $0
-1725. [Xss in website's link](https://hackerone.com/reports/54321) to Shopify - 5 upvotes, $0
-1726. [Minor Bug: Public un-compiled CSS with original sass, versioning, source map, comments, etc.](https://hackerone.com/reports/90367) to HackerOne - 5 upvotes, $0
-1727. [apps.owncloud.com: XSS via referrer](https://hackerone.com/reports/83374) to ownCloud - 5 upvotes, $0
-1728. [Stored XSS in comments](https://hackerone.com/reports/82725) to Zendesk - 5 upvotes, $0
-1729. [Tweet Deck XSS- Persistent- Group DM name](https://hackerone.com/reports/119022) to X / xAI - 5 upvotes, $0
-1730. [Potential XSS on sanitize/Rails::Html::WhiteListSanitizer](https://hackerone.com/reports/81212) to Ruby on Rails - 5 upvotes, $0
-1731. [XSS via React element spoofing](https://hackerone.com/reports/124277) to Imgur - 5 upvotes, $0
-1732. [XSS on hardware.shopify.com](https://hackerone.com/reports/123125) to Shopify - 5 upvotes, $0
-1733. [Possible XSS](https://hackerone.com/reports/123278) to HackerOne - 5 upvotes, $0
-1734. [Self-XSS Vulnerability on Password Reset Form](https://hackerone.com/reports/125059) to Uber - 5 upvotes, $0
-1735. [XSS via Fabrico Account Name](https://hackerone.com/reports/34725) to X / xAI - 5 upvotes, $0
-1736. [Template stored XSS](https://hackerone.com/reports/141198) to drchrono - 5 upvotes, $0
-1737. [XSS in uber oauth](https://hackerone.com/reports/131052) to Uber - 5 upvotes, $0
-1738. [Several XSS affecting Zomato.com and developers.zomato.com](https://hackerone.com/reports/114631) to Eternal - 5 upvotes, $0
-1739. [Cross Site Scripting In Profile Statement ](https://hackerone.com/reports/162120) to Gratipay - 5 upvotes, $0
-1740. [refelected Xss on https://gmid.gm.com/gmid/jsp/GMIDInitialLogin.jsp](https://hackerone.com/reports/109461) to General Motors - 5 upvotes, $0
-1741. [XSS in https://www.coursera.org/courses/](https://hackerone.com/reports/127163) to Coursera - 5 upvotes, $0
-1742. [DOM XSS в /activation.php?act=activate_mobile](https://hackerone.com/reports/146939) to VK.com - 5 upvotes, $0
-1743. [Xss in m.ok.ru](https://hackerone.com/reports/137126) to ok.ru - 5 upvotes, $0
-1744. [[mrgs.mail.ru] Internet Explorer XSS via Request-URI](https://hackerone.com/reports/66422) to Mail.ru - 5 upvotes, $0
-1745. [Stored XSS on contact name](https://hackerone.com/reports/152069) to OLX - 5 upvotes, $0
-1746. [Reflected XSS at m.olx.ph](https://hackerone.com/reports/175410) to OLX - 5 upvotes, $0
-1747. [[now.informatica.com] Reflective XSS](https://hackerone.com/reports/106678) to Informatica - 5 upvotes, $0
-1748. [XSS vulnerability on an Army website](https://hackerone.com/reports/187881) to U.S. Dept Of Defense - 5 upvotes, $0
-1749. [Wordpress  flashmediaelement.swf XSS on stopthehacker.com  ](https://hackerone.com/reports/137964) to StopTheHacker - 5 upvotes, $0
-1750. [Stored XSS in albums on http://m.imgur.com/](https://hackerone.com/reports/169751) to Imgur - 5 upvotes, $0
-1751. [[Textile] XSS in project README files](https://hackerone.com/reports/205498) to GitLab - 5 upvotes, $0
-1752. [Reflected XSS on Signup Page](https://hackerone.com/reports/119090) to New Relic - 5 upvotes, $0
-1753. [Stored XSS в имени песни (2) на платёжном гейте.](https://hackerone.com/reports/78260) to ok.ru - 5 upvotes, $0
-1754. [[allods.mail.ru] Reflected XSS](https://hackerone.com/reports/95841) to Mail.ru - 5 upvotes, $0
-1755. [Stored xss](https://hackerone.com/reports/187380) to ownCloud - 5 upvotes, $0
-1756. [Reflected XSS in olx.pt](https://hackerone.com/reports/206125) to OLX - 5 upvotes, $0
-1757. [[careers.informatica.com] XSS on "isJTN"](https://hackerone.com/reports/190020) to Informatica - 5 upvotes, $0
-1758. [[marketplace.informatica.com]- Stored XSS on Image title and Edit Property](https://hackerone.com/reports/202951) to Informatica - 5 upvotes, $0
-1759. [XSS on username when register to proffesional account](https://hackerone.com/reports/196989) to FormAssembly - 5 upvotes, $0
-1760. [[marketplace.informatica.com] Search XSS](https://hackerone.com/reports/200034) to Informatica - 5 upvotes, $0
-1761. [Self-XSS can be achieved in the editor link using filter bypass](https://hackerone.com/reports/229735) to Weblate - 5 upvotes, $0
-1762. [Reflected XSS on Branch domain](https://hackerone.com/reports/230681) to Cuvva - 5 upvotes, $0
-1763. [Reflected XSS and something more Store XSS too](https://hackerone.com/reports/134004) to General Motors - 5 upvotes, $0
-1764. [Flash XSS on global nav](https://hackerone.com/reports/172809) to General Motors - 5 upvotes, $0
-1765. [Reflected XSS vulnerability on a DoD website](https://hackerone.com/reports/187822) to U.S. Dept Of Defense - 5 upvotes, $0
-1766. [Reflected XSS on business-blog.zomato.com - Part 2](https://hackerone.com/reports/137906) to Eternal - 5 upvotes, $0
-1767. [Reflected cross-site scripting (XSS) vulnerability on a DoD website](https://hackerone.com/reports/191381) to U.S. Dept Of Defense - 5 upvotes, $0
-1768. [Reflected XSS на https://aw.mail.ru/news/](https://hackerone.com/reports/90083) to Mail.ru - 5 upvotes, $0
-1769. [Reflected XSS on www.bookfresh.com/index.html?view=upload_form](https://hackerone.com/reports/31187) to Bookfresh - 5 upvotes, $0
-1770. [XSS on Report Classic](https://hackerone.com/reports/282535) to Infogram - 5 upvotes, $0
-1771. [Stored XSS via transloadit.com and imageproxy](https://hackerone.com/reports/216822) to Coursera - 5 upvotes, $0
-1772. [Report Design Critical Stored DOM XSS Vulnerability ](https://hackerone.com/reports/282909) to Infogram - 5 upvotes, $0
+1638. [Report Design Critical Stored DOM XSS Vulnerability ](https://hackerone.com/reports/282909) to Infogram - 6 upvotes, $0
+1639. [[marketplace.informatica.com] - Stored XSS](https://hackerone.com/reports/277259) to Informatica - 6 upvotes, $0
+1640. [[marketplace.informatica.com]-Reflected XSS ](https://hackerone.com/reports/266801) to Informatica - 6 upvotes, $0
+1641. [Хранимая XSS на странице "Виджет для авторизации"](https://hackerone.com/reports/273960) to VK.com - 6 upvotes, $0
+1642. [[uppy] Stored XSS due to crafted SVG file](https://hackerone.com/reports/311998) to Node.js third-party modules - 6 upvotes, $0
+1643. [Reflected XSS { support.mycrypto.com }](https://hackerone.com/reports/323566) to MyCrypto - 6 upvotes, $0
+1644. [Outdated MediaElement.js Reflected Cross-Site Scripting (XSS)](https://hackerone.com/reports/155228) to Eternal - 6 upvotes, $0
+1645. [XSS уязвимость](https://hackerone.com/reports/302357) to Mail.ru - 6 upvotes, $0
+1646. [Stored Cross Site Scripting](https://hackerone.com/reports/362735) to Y Combinator - 6 upvotes, $0
+1647. [XSS touch.mail.ru compose Body](https://hackerone.com/reports/344049) to Mail.ru - 6 upvotes, $0
+1648. [XSS ( Работа с письмами )](https://hackerone.com/reports/304679) to Mail.ru - 6 upvotes, $0
+1649. [[tianma-static] Stored xss on filename](https://hackerone.com/reports/403692) to Node.js third-party modules - 6 upvotes, $0
+1650. [[hs.mail.ru] XSS play_now.php](https://hackerone.com/reports/178281) to Mail.ru - 6 upvotes, $0
+1651. [[hs.mail.ru] CRLF Injection / XSS](https://hackerone.com/reports/178279) to Mail.ru - 6 upvotes, $0
+1652. [[new.wf.mail.ru] XSS Request-URI](https://hackerone.com/reports/261654) to Mail.ru - 6 upvotes, $0
+1653. [[evo2.my.com] Internet Explorer XSS](https://hackerone.com/reports/387052) to Mail.ru - 6 upvotes, $0
+1654. [[████████] Reflected XSS](https://hackerone.com/reports/499041) to U.S. Dept Of Defense - 6 upvotes, $0
+1655. [[█████] Reflected GET XSS  (/personnel.php?...&rcnum=*) with mouse action](https://hackerone.com/reports/648348) to U.S. Dept Of Defense - 6 upvotes, $0
+1656. [Double linking cause XSS (but blokeced by CSP in gitlab.com)](https://hackerone.com/reports/729341) to GitLab - 6 upvotes, $0
+1657. [HTML injection and limited XSS via logo image upload - Nextcloud 12.0.0](https://hackerone.com/reports/231524) to Nextcloud - 6 upvotes, $0
+1658. [XSS на сайте https://warofdragons.my.games/.](https://hackerone.com/reports/769335) to Mail.ru - 6 upvotes, $0
+1659. [xss](https://hackerone.com/reports/281387) to Stellar.org - 6 upvotes, $0
+1660. [XSS on remote.bittorrent.com](https://hackerone.com/reports/846397) to BTFS - 6 upvotes, $0
+1661. [Stored XSS on https://apps.topcoder.com/wiki/plugins/socialbookmarking/updatebookmark.action](https://hackerone.com/reports/866815) to Lab45 - 6 upvotes, $0
+1662. [Reflected XSS on https://apps.topcoder.com/wiki/pages/createpage.action](https://hackerone.com/reports/866576) to Lab45 - 6 upvotes, $0
+1663. [Stored XSS on go.mail.ru](https://hackerone.com/reports/697048) to Mail.ru - 6 upvotes, $0
+1664. [DOM based XSS on /GTAOnline/de/news/article via "returnUrl" parameter](https://hackerone.com/reports/508475) to Rockstar Games - 6 upvotes, $0
+1665. [Stored XSS at ██████userprofile.aspx](https://hackerone.com/reports/901377) to U.S. Dept Of Defense - 6 upvotes, $0
+1666. [Stored XSS at APM transaction map (transactionName field)](https://hackerone.com/reports/667770) to New Relic - 6 upvotes, $0
+1667. [[notevil] - Sandbox Escape Lead to RCE on Node.js and XSS in the Browser](https://hackerone.com/reports/809012) to Node.js third-party modules - 6 upvotes, $0
+1668. [ [self?] XSS в адресе пользователя [sbermarket.ru]](https://hackerone.com/reports/900973) to Mail.ru - 6 upvotes, $0
+1669. [[delivery.city-mobil.ru] Stored XSS into support request comment](https://hackerone.com/reports/995055) to Mail.ru - 6 upvotes, $0
+1670. [Stored XSS at Template Editor in "Section Name"  Field of Block element 'Accordion'.](https://hackerone.com/reports/1025365) to Stripo Inc - 6 upvotes, $0
+1671. [[BugPOC and Amazon XSS CTF writeup] A CSP Bypass Story](https://hackerone.com/reports/1026752) to BugPoC - 6 upvotes, $0
+1672. [[aw.mail.ru] XSS on /quiztank page](https://hackerone.com/reports/803114) to Mail.ru - 6 upvotes, $0
+1673. [Stored XSS at https://www.█████████.mil](https://hackerone.com/reports/1081994) to U.S. Dept Of Defense - 6 upvotes, $0
+1674. [[MY.GAMES] XSS в мессенджере](https://hackerone.com/reports/887589) to Mail.ru - 6 upvotes, $0
+1675. [Second Order XSS via █████](https://hackerone.com/reports/819899) to U.S. Dept Of Defense - 6 upvotes, $0
+1676. [Reflected XSS on █████████](https://hackerone.com/reports/1059395) to U.S. Dept Of Defense - 6 upvotes, $0
+1677. [DOM XSS в learning.ozon.ru](https://hackerone.com/reports/1167230) to Ozon - 6 upvotes, $0
+1678. [Cross-site Scripting (XSS) possible  at https://sifchain.finance// via CVE-2019-8331 exploitation](https://hackerone.com/reports/1218173) to Sifchain - 6 upvotes, $0
+1679. [XSS reflected](https://hackerone.com/reports/1030397) to Engel & Völkers Technology GmbH - 6 upvotes, $0
+1680. [[█████████] Reflected Cross-Site Scripting Vulnerability](https://hackerone.com/reports/1196989) to U.S. Dept Of Defense - 6 upvotes, $0
+1681. [Stored-XSS in merge requests](https://hackerone.com/reports/1261148) to GitLab - 6 upvotes, $0
+1682. [Open Redirect and CRLF Injection Leads to XSS on [app.doma.uchi.ru]](https://hackerone.com/reports/1132209) to Mail.ru - 6 upvotes, $0
+1683. [Reflected XSS at ████ via ██████████= parameter ](https://hackerone.com/reports/1305472) to U.S. Dept Of Defense - 6 upvotes, $0
+1684. [Reflected XSS at https://█████ via "██████████" parameter](https://hackerone.com/reports/1457546) to U.S. Dept Of Defense - 6 upvotes, $0
+1685. [XSS on https://████/ via ███████ parameter](https://hackerone.com/reports/1251868) to U.S. Dept Of Defense - 6 upvotes, $0
+1686. [XSS at videostore.mtnonline.com/GL/*.aspx via all parameters](https://hackerone.com/reports/1244731) to MTN Group - 6 upvotes, $0
+1687. [8x8pilot.com: Reflected XSS in Apache Tomcat /jsp-examples example directory](https://hackerone.com/reports/1400357) to 8x8 - 6 upvotes, $0
+1688. [ Cross-site scripting (DOM-based)](https://hackerone.com/reports/1512644) to OneWeb - 6 upvotes, $0
+1689. [[doc.rt.informaticacloud.com] Reflected XSS via Stack Strace](https://hackerone.com/reports/232320) to Informatica - 6 upvotes, $0
+1690. [XSS DUE TO CVE-2022-38463 in https://████████](https://hackerone.com/reports/1681208) to U.S. Dept Of Defense - 6 upvotes, $0
+1691. [XSS via Client Side Template Injection on www.███/News/Speeches](https://hackerone.com/reports/1736317) to U.S. Dept Of Defense - 6 upvotes, $0
+1692. [stored cross site scripting in https://███████](https://hackerone.com/reports/1666002) to U.S. Dept Of Defense - 6 upvotes, $0
+1693. [stored cross site scripting in https://██████████](https://hackerone.com/reports/1657030) to U.S. Dept Of Defense - 6 upvotes, $0
+1694. [stored cross site scripting in https://█████████](https://hackerone.com/reports/1660500) to U.S. Dept Of Defense - 6 upvotes, $0
+1695. [stored cross site scripting in https://███](https://hackerone.com/reports/1657033) to U.S. Dept Of Defense - 6 upvotes, $0
+1696. [Cross-Site Scripting (XSS) Vulnerability via POST Method + Akamai Firewall Bypass](https://hackerone.com/reports/2750728) to U.S. Dept Of Defense - 6 upvotes, $0
+1697. [POST XSS -  fields[account][lastname] parameter](https://hackerone.com/reports/3127162) to U.S. Dept Of Defense - 6 upvotes, $0
+1698. [POST XSS -  fields[account][firstname] parameter](https://hackerone.com/reports/3127158) to U.S. Dept Of Defense - 6 upvotes, $0
+1699. [POST XSS - data[account][id] parameter](https://hackerone.com/reports/3127147) to U.S. Dept Of Defense - 6 upvotes, $0
+1700. [Cross-Site Scripting via 'return_link_url' parameter ](https://hackerone.com/reports/3137200) to U.S. Dept Of Defense - 6 upvotes, $0
+1701. [Cross-Site Scripting via 'EVENT_DESCRIPTION' parameter](https://hackerone.com/reports/3284381) to U.S. Dept Of Defense - 6 upvotes, $0
+1702. [Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ██████████](https://hackerone.com/reports/3166587) to U.S. Dept Of Defense - 6 upvotes, $0
+1703. [Stored XSS in archive.uber.com Due to Injection of Javascript:alert(0)](https://hackerone.com/reports/126906) to Uber - 5 upvotes, $3000
+1704. [XSS in L.mapbox.shareControl in mapbox.js](https://hackerone.com/reports/99245) to Mapbox - 5 upvotes, $1000
+1705. [XSS on partners.uber.com](https://hackerone.com/reports/42393) to Uber - 5 upvotes, $500
+1706. [XSS in my.shopify.com in  widget](https://hackerone.com/reports/185826) to Shopify - 5 upvotes, $500
+1707. [Stored XSS in Profile Comments](https://hackerone.com/reports/530464) to Vanilla - 5 upvotes, $300
+1708. [Reflected cross-site scripting (XSS) vulnerability in pornhub.com allows attackers to inject arbitrary web script or HTML.](https://hackerone.com/reports/182132) to Pornhub - 5 upvotes, $200
+1709. [Store Cross-Site Scripting - www.razer.ru](https://hackerone.com/reports/739854) to Razer - 5 upvotes, $200
+1710. [XSS на странице "Платежи водителей" [city-mobil.ru/taxiserv]](https://hackerone.com/reports/1061446) to Mail.ru - 5 upvotes, $150
+1711. [Cross Site Scripting](https://hackerone.com/reports/95599) to Deriv.com - 5 upvotes, $50
+1712. [Stored XSS at Udemy](https://hackerone.com/reports/132602) to Udemy - 5 upvotes, $50
+1713. [Cross Site Scripting – Album Page](https://hackerone.com/reports/82929) to Pornhub - 5 upvotes, $50
+1714. [Stored XSS from ticket messages in admin table in SupportFlow](https://hackerone.com/reports/145091) to Ian Dunn - 5 upvotes, $50
+1715. [Stored XSS in SupportFlow Ticket Subject](https://hackerone.com/reports/145086) to Ian Dunn - 5 upvotes, $50
+1716. [Vulnerability found, XSS (Cross site Scripting)](https://hackerone.com/reports/1258) to Yahoo! - 5 upvotes, $0
+1717. [Persistent class XSS [the fuck]](https://hackerone.com/reports/6412) to Khan Academy - 5 upvotes, $0
+1718. [XSS in password](https://hackerone.com/reports/7995) to Localize - 5 upvotes, $0
+1719. [reflected XSS, http://extprodweb11.cc.gq1.yahoo.com/, 4/8/14, #SpringClean](https://hackerone.com/reports/6195) to Yahoo! - 5 upvotes, $0
+1720. [Cross Site Scripting (XSS) - app.relateiq.com](https://hackerone.com/reports/2439) to RelateIQ - 5 upvotes, $0
+1721. [Reflected cross site scripting in login page ](https://hackerone.com/reports/9735) to StopTheHacker - 5 upvotes, $0
+1722. [Reflected XSS connect.mail.ru (IE6-IE8)](https://hackerone.com/reports/12929) to Mail.ru - 5 upvotes, $0
+1723. [XSS in original referrer after follow](https://hackerone.com/reports/50134) to X / xAI - 5 upvotes, $0
+1724. [Stored XSS in Slack.com](https://hackerone.com/reports/6002) to Slack - 5 upvotes, $0
+1725. [Reflected Cross Site Scripting - 'puser' Parameter in login page](https://hackerone.com/reports/50157) to Adobe - 5 upvotes, $0
+1726. [Xss in website's link](https://hackerone.com/reports/54321) to Shopify - 5 upvotes, $0
+1727. [Minor Bug: Public un-compiled CSS with original sass, versioning, source map, comments, etc.](https://hackerone.com/reports/90367) to HackerOne - 5 upvotes, $0
+1728. [apps.owncloud.com: XSS via referrer](https://hackerone.com/reports/83374) to ownCloud - 5 upvotes, $0
+1729. [Stored XSS in comments](https://hackerone.com/reports/82725) to Zendesk - 5 upvotes, $0
+1730. [Tweet Deck XSS- Persistent- Group DM name](https://hackerone.com/reports/119022) to X / xAI - 5 upvotes, $0
+1731. [Potential XSS on sanitize/Rails::Html::WhiteListSanitizer](https://hackerone.com/reports/81212) to Ruby on Rails - 5 upvotes, $0
+1732. [XSS via React element spoofing](https://hackerone.com/reports/124277) to Imgur - 5 upvotes, $0
+1733. [XSS on hardware.shopify.com](https://hackerone.com/reports/123125) to Shopify - 5 upvotes, $0
+1734. [Possible XSS](https://hackerone.com/reports/123278) to HackerOne - 5 upvotes, $0
+1735. [Self-XSS Vulnerability on Password Reset Form](https://hackerone.com/reports/125059) to Uber - 5 upvotes, $0
+1736. [XSS via Fabrico Account Name](https://hackerone.com/reports/34725) to X / xAI - 5 upvotes, $0
+1737. [Template stored XSS](https://hackerone.com/reports/141198) to drchrono - 5 upvotes, $0
+1738. [XSS in uber oauth](https://hackerone.com/reports/131052) to Uber - 5 upvotes, $0
+1739. [Several XSS affecting Zomato.com and developers.zomato.com](https://hackerone.com/reports/114631) to Eternal - 5 upvotes, $0
+1740. [Cross Site Scripting In Profile Statement ](https://hackerone.com/reports/162120) to Gratipay - 5 upvotes, $0
+1741. [refelected Xss on https://gmid.gm.com/gmid/jsp/GMIDInitialLogin.jsp](https://hackerone.com/reports/109461) to General Motors - 5 upvotes, $0
+1742. [XSS in https://www.coursera.org/courses/](https://hackerone.com/reports/127163) to Coursera - 5 upvotes, $0
+1743. [DOM XSS в /activation.php?act=activate_mobile](https://hackerone.com/reports/146939) to VK.com - 5 upvotes, $0
+1744. [Xss in m.ok.ru](https://hackerone.com/reports/137126) to ok.ru - 5 upvotes, $0
+1745. [[mrgs.mail.ru] Internet Explorer XSS via Request-URI](https://hackerone.com/reports/66422) to Mail.ru - 5 upvotes, $0
+1746. [Stored XSS on contact name](https://hackerone.com/reports/152069) to OLX - 5 upvotes, $0
+1747. [Reflected XSS at m.olx.ph](https://hackerone.com/reports/175410) to OLX - 5 upvotes, $0
+1748. [[now.informatica.com] Reflective XSS](https://hackerone.com/reports/106678) to Informatica - 5 upvotes, $0
+1749. [XSS vulnerability on an Army website](https://hackerone.com/reports/187881) to U.S. Dept Of Defense - 5 upvotes, $0
+1750. [Wordpress  flashmediaelement.swf XSS on stopthehacker.com  ](https://hackerone.com/reports/137964) to StopTheHacker - 5 upvotes, $0
+1751. [Stored XSS in albums on http://m.imgur.com/](https://hackerone.com/reports/169751) to Imgur - 5 upvotes, $0
+1752. [[Textile] XSS in project README files](https://hackerone.com/reports/205498) to GitLab - 5 upvotes, $0
+1753. [Reflected XSS on Signup Page](https://hackerone.com/reports/119090) to New Relic - 5 upvotes, $0
+1754. [Stored XSS в имени песни (2) на платёжном гейте.](https://hackerone.com/reports/78260) to ok.ru - 5 upvotes, $0
+1755. [[allods.mail.ru] Reflected XSS](https://hackerone.com/reports/95841) to Mail.ru - 5 upvotes, $0
+1756. [Stored xss](https://hackerone.com/reports/187380) to ownCloud - 5 upvotes, $0
+1757. [Reflected XSS in olx.pt](https://hackerone.com/reports/206125) to OLX - 5 upvotes, $0
+1758. [[careers.informatica.com] XSS on "isJTN"](https://hackerone.com/reports/190020) to Informatica - 5 upvotes, $0
+1759. [[marketplace.informatica.com]- Stored XSS on Image title and Edit Property](https://hackerone.com/reports/202951) to Informatica - 5 upvotes, $0
+1760. [XSS on username when register to proffesional account](https://hackerone.com/reports/196989) to FormAssembly - 5 upvotes, $0
+1761. [[marketplace.informatica.com] Search XSS](https://hackerone.com/reports/200034) to Informatica - 5 upvotes, $0
+1762. [Self-XSS can be achieved in the editor link using filter bypass](https://hackerone.com/reports/229735) to Weblate - 5 upvotes, $0
+1763. [Reflected XSS on Branch domain](https://hackerone.com/reports/230681) to Cuvva - 5 upvotes, $0
+1764. [Reflected XSS and something more Store XSS too](https://hackerone.com/reports/134004) to General Motors - 5 upvotes, $0
+1765. [Flash XSS on global nav](https://hackerone.com/reports/172809) to General Motors - 5 upvotes, $0
+1766. [Reflected XSS vulnerability on a DoD website](https://hackerone.com/reports/187822) to U.S. Dept Of Defense - 5 upvotes, $0
+1767. [Reflected XSS on business-blog.zomato.com - Part 2](https://hackerone.com/reports/137906) to Eternal - 5 upvotes, $0
+1768. [Reflected cross-site scripting (XSS) vulnerability on a DoD website](https://hackerone.com/reports/191381) to U.S. Dept Of Defense - 5 upvotes, $0
+1769. [Reflected XSS на https://aw.mail.ru/news/](https://hackerone.com/reports/90083) to Mail.ru - 5 upvotes, $0
+1770. [Reflected XSS on www.bookfresh.com/index.html?view=upload_form](https://hackerone.com/reports/31187) to Bookfresh - 5 upvotes, $0
+1771. [XSS on Report Classic](https://hackerone.com/reports/282535) to Infogram - 5 upvotes, $0
+1772. [Stored XSS via transloadit.com and imageproxy](https://hackerone.com/reports/216822) to Coursera - 5 upvotes, $0
 1773. [muber-id Query Parameter Can Generate SSL-protected Reflected XSS in https://m.uber.com/0-dfffb25d2cf6ceeb0a27.js Endpoint](https://hackerone.com/reports/300102) to Uber - 5 upvotes, $0
 1774. [[html-janitor] Passing user-controlled data to clean() leads to XSS](https://hackerone.com/reports/308155) to Node.js third-party modules - 5 upvotes, $0
 1775. [[public] Stored XSS in filenames in directory served by public](https://hackerone.com/reports/316346) to Node.js third-party modules - 5 upvotes, $0

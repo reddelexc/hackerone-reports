@@ -9,6 +9,6 @@ Top SSTI reports from HackerOne:
 7. [SSTI leads to Command injection](https://hackerone.com/reports/3584149) to curl - 24 upvotes, $0
 8. [[Ruby]: Server Side Template Injection](https://hackerone.com/reports/1928279) to GitHub Security Lab - 13 upvotes, $2300
 9. [CodeQL query to detect Server-Side Template Injections (JavaScript)](https://hackerone.com/reports/894872) to GitHub Security Lab - 8 upvotes, $0
-10. [Server-side Template Injection in lodash.js ](https://hackerone.com/reports/904672) to Node.js third-party modules - 7 upvotes, $0
+10. [Server-side Template Injection in lodash.js ](https://hackerone.com/reports/904672) to Node.js third-party modules - 8 upvotes, $0
 11. [Server-side template injection at ujs test server](https://hackerone.com/reports/942103) to Ruby on Rails - 5 upvotes, $0
 12. [Java : Add query to detect Server Side Template Injection (SSTI)](https://hackerone.com/reports/1490372) to GitHub Security Lab - 4 upvotes, $0

@@ -10,9 +10,9 @@ Top reports from shopify-scripts program at HackerOne:
 8. [TOCTTOU bug in mrb_str_setbyte leading the memory corruption](https://hackerone.com/reports/181893) to shopify-scripts - 23 upvotes, $0
 9. [Crash: Overwriting NoMethodError with a builtin class crashes/corrupts memory](https://hackerone.com/reports/186723) to shopify-scripts - 20 upvotes, $10000
 10. [Null pointer dereference due to TOCTTOU bug in mrb_time_initialize](https://hackerone.com/reports/182274) to shopify-scripts - 15 upvotes, $0
-11. [Null target_class DoS](https://hackerone.com/reports/183405) to shopify-scripts - 14 upvotes, $8000
-12. [Segmentation fault when a Ruby method is invoked by a C method via Object#send](https://hackerone.com/reports/183425) to shopify-scripts - 14 upvotes, $8000
-13. [Struct type confusion RCE](https://hackerone.com/reports/181879) to shopify-scripts - 13 upvotes, $18000
+11. [Struct type confusion RCE](https://hackerone.com/reports/181879) to shopify-scripts - 14 upvotes, $18000
+12. [Null target_class DoS](https://hackerone.com/reports/183405) to shopify-scripts - 14 upvotes, $8000
+13. [Segmentation fault when a Ruby method is invoked by a C method via Object#send](https://hackerone.com/reports/183425) to shopify-scripts - 14 upvotes, $8000
 14. [Segfault and/or potential unwanted (byte)code execution with "break" and "||=" inside a loop](https://hackerone.com/reports/183356) to shopify-scripts - 13 upvotes, $10000
 15. [Buffer overflow in mrb_time_asctime](https://hackerone.com/reports/188326) to shopify-scripts - 13 upvotes, $10000
 16. [Exception cause SIGABRT](https://hackerone.com/reports/180977) to shopify-scripts - 13 upvotes, $0

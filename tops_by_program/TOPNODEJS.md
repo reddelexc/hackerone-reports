@@ -2,53 +2,53 @@ Top reports from Node.js program at HackerOne:
 
 1. [HTTP Request Smuggling due to CR-to-Hyphen conversion](https://hackerone.com/reports/922597) to Node.js - 134 upvotes, $0
 2. [Improper HTTP header block termination in llhttp](https://hackerone.com/reports/2054283) to Node.js - 122 upvotes, $0
-3. [HTTP request smuggling using malformed Transfer-Encoding header](https://hackerone.com/reports/735748) to Node.js - 103 upvotes, $0
+3. [HTTP request smuggling using malformed Transfer-Encoding header](https://hackerone.com/reports/735748) to Node.js - 104 upvotes, $0
 4. [TLS PSK/ALPN Callback Exceptions Bypass Error Handlers, Causing DoS and FD Leak](https://hackerone.com/reports/3473882) to Node.js - 78 upvotes, $0
 5. ["Assertion failed" in node::http2::Http2Session::~Http2Session() leads to HTTP/2 server crash](https://hackerone.com/reports/2319584) to Node.js - 65 upvotes, $0
 6. [Path traversal by drive name in Windows environment](https://hackerone.com/reports/2307225) to Node.js - 59 upvotes, $0
 7. [Corrupted pointer in node::fs::ReadFileUtf8(const FunctionCallbackInfo\<Value\>& args) when args[0] is a string.](https://hackerone.com/reports/3083428) to Node.js - 59 upvotes, $0
-8. [CWE-195 in ExternalMemoryAccounter::Increase()](https://hackerone.com/reports/3302484) to Node.js - 54 upvotes, $0
-9. [HashDoS in V8](https://hackerone.com/reports/3131758) to Node.js - 52 upvotes, $0
-10. [Node.js permission model bypass via unchecked Unix Domain Socket connections (UDS)](https://hackerone.com/reports/3465156) to Node.js - 48 upvotes, $0
-11. [Http request splitting](https://hackerone.com/reports/409943) to Node.js - 45 upvotes, $0
-12. [WASI sandbox escape via symlink](https://hackerone.com/reports/2084280) to Node.js - 44 upvotes, $0
-13. [Worker permission bypass via InternalWorker leak in diagnostics](https://hackerone.com/reports/2575105) to Node.js - 42 upvotes, $0
-14. [Timeout-based race conditions make Uint8Array/Buffer.alloc non-zerofilled](https://hackerone.com/reports/3405778) to Node.js - 42 upvotes, $0
-15. [Assertion error in node_url.cc via malformed URL format leads to Node.js crash](https://hackerone.com/reports/3546390) to Node.js - 39 upvotes, $0
-16. [Windows Device Names Still Allow Path Traversal in UNC Paths After CVE-2025-27210 Fix](https://hackerone.com/reports/3255707) to Node.js - 38 upvotes, $0
-17. [Improper error handling in async cryptographic operations crashes process](https://hackerone.com/reports/2817648) to Node.js - 37 upvotes, $0
-18. [Path traversal by monkey-patching Buffer internals](https://hackerone.com/reports/2218653) to Node.js - 36 upvotes, $0
-19. [registry.nodejs.org Subdomain Takeover](https://hackerone.com/reports/340580) to Node.js - 35 upvotes, $0
-20. [Permission model improperly processes UNC paths](https://hackerone.com/reports/2079103) to Node.js - 35 upvotes, $0
-21. [Potential HTTP Request Smuggling in nodejs](https://hackerone.com/reports/1002188) to Node.js - 34 upvotes, $250
-22. [Windows Device Names (CON, PRN, AUX) Bypass Path Traversal Protection in path.normalize()](https://hackerone.com/reports/3160912) to Node.js - 34 upvotes, $0
-23. [Uncatchable "Maximum call stack size exceeded" error on Node.js via async_hooks leads to process crashes bypassing error handlers](https://hackerone.com/reports/3456295) to Node.js - 34 upvotes, $0
-24. [fs.futimes() Bypasses Read-Only Permission Model](https://hackerone.com/reports/3390084) to Node.js - 33 upvotes, $0
-25. [FS Permissions Bypass](https://hackerone.com/reports/3417819) to Node.js - 33 upvotes, $0
-26. [Memory leak that enables remote Denial of Service against applications processing TLS client certificates](https://hackerone.com/reports/3357723) to Node.js - 32 upvotes, $0
-27. [Node.js: TLS session reuse can lead to hostname verification bypass](https://hackerone.com/reports/811502) to Node.js - 29 upvotes, $0
-28. [Node.js: use-after-free in TLSWrap](https://hackerone.com/reports/988103) to Node.js - 27 upvotes, $0
-29. [Denial of Service by resource exhaustion in fetch() brotli decoding](https://hackerone.com/reports/2284065) to Node.js - 27 upvotes, $0
-30. [setuid() does not drop all privileges due to io_uring](https://hackerone.com/reports/2170226) to Node.js - 24 upvotes, $0
-31. [Usage of unsafe random function in undici for choosing boundary](https://hackerone.com/reports/2913312) to Node.js - 24 upvotes, $0
-32. [Unbounded decompression chain in HTTP responses on Node.js Fetch API via Content-Encoding leads to resource exhaustion](https://hackerone.com/reports/3456148) to Node.js - 24 upvotes, $0
-33. [Code injection and privilege escalation through Linux capabilities](https://hackerone.com/reports/2237545) to Node.js - 23 upvotes, $0
-34. [Take over subdomain undici.nodejs.org.cdn.cloudflare.net](https://hackerone.com/reports/1763817) to Node.js - 22 upvotes, $0
-35. [Missing AES-GCM Authentication Tag Validation and Improper Deprecation Handling](https://hackerone.com/reports/3463949) to Node.js - 22 upvotes, $0
-36. [Built-in TLS module unexpectedly treats "rejectUnauthorized: undefined" as "rejectUnauthorized: false", disabling all certificate validation](https://hackerone.com/reports/1278254) to Node.js - 20 upvotes, $150
-37. [Multiple permission model bypasses due to improper path traversal sequence sanitization](https://hackerone.com/reports/2259914) to Node.js - 20 upvotes, $0
-38. [Improper handling of wildcards in --allow-fs-read and --allow-fs-write](https://hackerone.com/reports/2257156) to Node.js - 20 upvotes, $0
-39. [fs.fchown/fchmod bypasses permission model](https://hackerone.com/reports/2472071) to Node.js - 20 upvotes, $0
-40. [Bypass incomplete fix of CVE-2024-27980](https://hackerone.com/reports/2461831) to Node.js - 20 upvotes, $0
-41. [Permissions can be bypassed via arbitrary code execution through abusing libuv signal pipes](https://hackerone.com/reports/2260337) to Node.js - 20 upvotes, $0
-42. [Denial of Service via `__proto__` header name in `req.headersDistinct` (Uncaught `TypeError` crashes Node.js process)](https://hackerone.com/reports/3560402) to Node.js - 19 upvotes, $0
-43. [HTTP Request Smuggling due to accepting space before colon](https://hackerone.com/reports/1238709) to Node.js - 18 upvotes, $250
-44. [Proxy-Authorization header is not cleared in cross-domain redirect in undici](https://hackerone.com/reports/2352957) to Node.js - 18 upvotes, $0
-45. [HTTP Request Smuggling via Content Length Obfuscation](https://hackerone.com/reports/2237099) to Node.js - 18 upvotes, $0
-46. [Bypass network import restriction via data URL](https://hackerone.com/reports/2092749) to Node.js - 18 upvotes, $0
-47. [fs.lstat bypasses permission model](https://hackerone.com/reports/2145862) to Node.js - 18 upvotes, $0
-48. [Incomplete fix for CVE-2026-21637: loadSNI() in _tls_wrap.js lacks try/catch leading to Remote DoS](https://hackerone.com/reports/3556769) to Node.js - 18 upvotes, $0
-49. [HashDoS in V8](https://hackerone.com/reports/3511792) to Node.js - 17 upvotes, $0
+8. [Incomplete fix for CVE-2026-21637: loadSNI() in _tls_wrap.js lacks try/catch leading to Remote DoS](https://hackerone.com/reports/3556769) to Node.js - 57 upvotes, $0
+9. [CWE-195 in ExternalMemoryAccounter::Increase()](https://hackerone.com/reports/3302484) to Node.js - 54 upvotes, $0
+10. [HashDoS in V8](https://hackerone.com/reports/3131758) to Node.js - 52 upvotes, $0
+11. [Node.js permission model bypass via unchecked Unix Domain Socket connections (UDS)](https://hackerone.com/reports/3465156) to Node.js - 49 upvotes, $0
+12. [Http request splitting](https://hackerone.com/reports/409943) to Node.js - 45 upvotes, $0
+13. [WASI sandbox escape via symlink](https://hackerone.com/reports/2084280) to Node.js - 44 upvotes, $0
+14. [Worker permission bypass via InternalWorker leak in diagnostics](https://hackerone.com/reports/2575105) to Node.js - 42 upvotes, $0
+15. [Timeout-based race conditions make Uint8Array/Buffer.alloc non-zerofilled](https://hackerone.com/reports/3405778) to Node.js - 42 upvotes, $0
+16. [Assertion error in node_url.cc via malformed URL format leads to Node.js crash](https://hackerone.com/reports/3546390) to Node.js - 39 upvotes, $0
+17. [Windows Device Names Still Allow Path Traversal in UNC Paths After CVE-2025-27210 Fix](https://hackerone.com/reports/3255707) to Node.js - 38 upvotes, $0
+18. [Improper error handling in async cryptographic operations crashes process](https://hackerone.com/reports/2817648) to Node.js - 37 upvotes, $0
+19. [Path traversal by monkey-patching Buffer internals](https://hackerone.com/reports/2218653) to Node.js - 36 upvotes, $0
+20. [registry.nodejs.org Subdomain Takeover](https://hackerone.com/reports/340580) to Node.js - 35 upvotes, $0
+21. [Permission model improperly processes UNC paths](https://hackerone.com/reports/2079103) to Node.js - 35 upvotes, $0
+22. [Potential HTTP Request Smuggling in nodejs](https://hackerone.com/reports/1002188) to Node.js - 34 upvotes, $250
+23. [Windows Device Names (CON, PRN, AUX) Bypass Path Traversal Protection in path.normalize()](https://hackerone.com/reports/3160912) to Node.js - 34 upvotes, $0
+24. [Uncatchable "Maximum call stack size exceeded" error on Node.js via async_hooks leads to process crashes bypassing error handlers](https://hackerone.com/reports/3456295) to Node.js - 34 upvotes, $0
+25. [fs.futimes() Bypasses Read-Only Permission Model](https://hackerone.com/reports/3390084) to Node.js - 33 upvotes, $0
+26. [FS Permissions Bypass](https://hackerone.com/reports/3417819) to Node.js - 33 upvotes, $0
+27. [Memory leak that enables remote Denial of Service against applications processing TLS client certificates](https://hackerone.com/reports/3357723) to Node.js - 32 upvotes, $0
+28. [Node.js: TLS session reuse can lead to hostname verification bypass](https://hackerone.com/reports/811502) to Node.js - 29 upvotes, $0
+29. [Node.js: use-after-free in TLSWrap](https://hackerone.com/reports/988103) to Node.js - 27 upvotes, $0
+30. [Denial of Service by resource exhaustion in fetch() brotli decoding](https://hackerone.com/reports/2284065) to Node.js - 27 upvotes, $0
+31. [setuid() does not drop all privileges due to io_uring](https://hackerone.com/reports/2170226) to Node.js - 24 upvotes, $0
+32. [Usage of unsafe random function in undici for choosing boundary](https://hackerone.com/reports/2913312) to Node.js - 24 upvotes, $0
+33. [Unbounded decompression chain in HTTP responses on Node.js Fetch API via Content-Encoding leads to resource exhaustion](https://hackerone.com/reports/3456148) to Node.js - 24 upvotes, $0
+34. [Code injection and privilege escalation through Linux capabilities](https://hackerone.com/reports/2237545) to Node.js - 23 upvotes, $0
+35. [Take over subdomain undici.nodejs.org.cdn.cloudflare.net](https://hackerone.com/reports/1763817) to Node.js - 22 upvotes, $0
+36. [Missing AES-GCM Authentication Tag Validation and Improper Deprecation Handling](https://hackerone.com/reports/3463949) to Node.js - 22 upvotes, $0
+37. [Built-in TLS module unexpectedly treats "rejectUnauthorized: undefined" as "rejectUnauthorized: false", disabling all certificate validation](https://hackerone.com/reports/1278254) to Node.js - 20 upvotes, $150
+38. [Multiple permission model bypasses due to improper path traversal sequence sanitization](https://hackerone.com/reports/2259914) to Node.js - 20 upvotes, $0
+39. [Improper handling of wildcards in --allow-fs-read and --allow-fs-write](https://hackerone.com/reports/2257156) to Node.js - 20 upvotes, $0
+40. [fs.fchown/fchmod bypasses permission model](https://hackerone.com/reports/2472071) to Node.js - 20 upvotes, $0
+41. [Bypass incomplete fix of CVE-2024-27980](https://hackerone.com/reports/2461831) to Node.js - 20 upvotes, $0
+42. [Permissions can be bypassed via arbitrary code execution through abusing libuv signal pipes](https://hackerone.com/reports/2260337) to Node.js - 20 upvotes, $0
+43. [Denial of Service via `__proto__` header name in `req.headersDistinct` (Uncaught `TypeError` crashes Node.js process)](https://hackerone.com/reports/3560402) to Node.js - 20 upvotes, $0
+44. [HTTP Request Smuggling due to accepting space before colon](https://hackerone.com/reports/1238709) to Node.js - 18 upvotes, $250
+45. [Proxy-Authorization header is not cleared in cross-domain redirect in undici](https://hackerone.com/reports/2352957) to Node.js - 18 upvotes, $0
+46. [HTTP Request Smuggling via Content Length Obfuscation](https://hackerone.com/reports/2237099) to Node.js - 18 upvotes, $0
+47. [Bypass network import restriction via data URL](https://hackerone.com/reports/2092749) to Node.js - 18 upvotes, $0
+48. [fs.lstat bypasses permission model](https://hackerone.com/reports/2145862) to Node.js - 18 upvotes, $0
+49. [HashDoS in V8](https://hackerone.com/reports/3511792) to Node.js - 18 upvotes, $0
 50. [DNS rebinding in --inspect (insufficient fix of CVE-2022-32212 affecting macOS devices)](https://hackerone.com/reports/1632921) to Node.js - 16 upvotes, $0
 51. [Node.js is vulnerable to the Marvin Attack (timing variant of the Bleichenbacher attack against PKCS#1 v1.5 padding)](https://hackerone.com/reports/2269177) to Node.js - 16 upvotes, $0
 52. [Remotely trigger an assertion on a TLS server with a malformed certificate string](https://hackerone.com/reports/746733) to Node.js - 15 upvotes, $0
@@ -79,41 +79,43 @@ Top reports from Node.js program at HackerOne:
 77. [Permissions policies can be bypassed via process.mainModule](https://hackerone.com/reports/1747642) to Node.js - 7 upvotes, $0
 78. [HTTP Request Smuggling via Empty headers separated by CR](https://hackerone.com/reports/2001873) to Node.js - 7 upvotes, $0
 79. [DiffieHellman doesn't generate keys after setting a key](https://hackerone.com/reports/1927480) to Node.js - 7 upvotes, $0
-80. [HTTP Request Smuggling due to ignoring chunk extensions](https://hackerone.com/reports/1238099) to Node.js - 6 upvotes, $250
-81. [HTTP/2 Denial of Service Vulnerability](https://hackerone.com/reports/335533) to Node.js - 6 upvotes, $0
-82. [HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Transfer-Encoding (improper fix for CVE-2022-32215)](https://hackerone.com/reports/1665156) to Node.js - 6 upvotes, $0
-83. [HTTP Request Smuggling Due to Incorrect Parsing of Header Fields](https://hackerone.com/reports/1675191) to Node.js - 6 upvotes, $0
-84. [fs.openAsBlob() bypasses permission system](https://hackerone.com/reports/1966492) to Node.js - 6 upvotes, $0
-85. [Process-based permissions can be bypassed with the "inspector" module.  ](https://hackerone.com/reports/1962701) to Node.js - 6 upvotes, $0
-86. [Memory leak in Node.js HTTP/2 server via WINDOW_UPDATE on stream 0 leads to resource exhaustion](https://hackerone.com/reports/3531737) to Node.js - 6 upvotes, $0
-87. [CVE-2024-36137 Patch Bypass - FileHandle.chmod/chown](https://hackerone.com/reports/3449392) to Node.js - 6 upvotes, $0
-88. [DNS rebinding in --inspect (insufficient fix of CVE-2018-7160)](https://hackerone.com/reports/1069487) to Node.js - 5 upvotes, $500
-89. [Pull Request #12949 - Security Implications without CVE assignment](https://hackerone.com/reports/415329) to Node.js - 5 upvotes, $0
-90. [OOB read in libuv](https://hackerone.com/reports/1209681) to Node.js - 5 upvotes, $0
-91. [CVE-2022-32213 bypass via obs-fold mechanic](https://hackerone.com/reports/1630336) to Node.js - 5 upvotes, $0
-92. [Multiple OpenSSL error handling issues in nodejs crypto library](https://hackerone.com/reports/1808596) to Node.js - 5 upvotes, $0
-93. [Filesystem experimental permissions policy does not handle path traversal cases.](https://hackerone.com/reports/1952978) to Node.js - 5 upvotes, $0
-94. [fs module's file watching is not restricted by --allow-fs-read](https://hackerone.com/reports/1966499) to Node.js - 5 upvotes, $0
-95. [Denial of Service: nghttp2 use of uninitialized pointer](https://hackerone.com/reports/335608) to Node.js - 4 upvotes, $0
-96. [`fs.realpath.native` on darwin may cause buffer overflow](https://hackerone.com/reports/965914) to Node.js - 4 upvotes, $0
-97. [Unexpected input validation of octal literals in nodejs v15.12.0 and below returns defined values for all undefined octal literals.](https://hackerone.com/reports/1141623) to Node.js - 4 upvotes, $0
-98. [Improper handling of untypical characters in domain names](https://hackerone.com/reports/1178337) to Node.js - 4 upvotes, $0
-99. [Undici does not use CONNECT or otherwise validate upstream HTTPS certificates when using a proxy](https://hackerone.com/reports/1583680) to Node.js - 4 upvotes, $0
-100. [DNS rebinding in --inspect via invalid octal IP address](https://hackerone.com/reports/1710652) to Node.js - 4 upvotes, $0
-101. [Insecure loading of ICU data through ICU_DATA environment variable](https://hackerone.com/reports/1625036) to Node.js - 4 upvotes, $0
-102. [OpenSSL engines can be used to bypass and/or disable the permission model](https://hackerone.com/reports/1954535) to Node.js - 4 upvotes, $0
-103. [Hostname spoofing](https://hackerone.com/reports/678487) to Node.js - 3 upvotes, $0
-104. [Out of order TLS handshake / application data messages lead to segmentation fault](https://hackerone.com/reports/335495) to Node.js - 3 upvotes, $0
-105. [Fix for CVE-2018-12122 can be bypassed via keep-alive requests](https://hackerone.com/reports/453513) to Node.js - 3 upvotes, $0
-106. [loader.js is not secure](https://hackerone.com/reports/629879) to Node.js - 3 upvotes, $0
-107. [Child process environment injection via prototype pollution](https://hackerone.com/reports/878181) to Node.js - 3 upvotes, $0
-108. [HTTP2 'unknownProtocol' cause Denial of Service by resource exhaustion](https://hackerone.com/reports/1043360) to Node.js - 3 upvotes, $0
-109. [Node 18 reads openssl.cnf from /home/iojs/build/... upon startup on MacOS](https://hackerone.com/reports/1695596) to Node.js - 3 upvotes, $0
-110. [Regular Expression Denial of Service in Headers](https://hackerone.com/reports/1784449) to Node.js - 3 upvotes, $0
-111. [DNS Max Responses for DOS](https://hackerone.com/reports/1033107) to Node.js - 2 upvotes, $250
-112. [CRLF Injection in legacy url API (url.parse().hostname)](https://hackerone.com/reports/771596) to Node.js - 2 upvotes, $0
-113. [Use After Free in crypto.randomFill](https://hackerone.com/reports/340053) to Node.js - 2 upvotes, $0
-114. [Node.js HTTP/2 Large Settings Frame DoS](https://hackerone.com/reports/446662) to Node.js - 2 upvotes, $0
-115. [Node.js Certificate Verification Bypass via String Injection](https://hackerone.com/reports/1429694) to Node.js - 2 upvotes, $0
-116. [Http response is not ended although underlying socket is already destroyed](https://hackerone.com/reports/676710) to Node.js - 1 upvotes, $0
-117. [Vulnerability in http-parser & embedded NULL header handling](https://hackerone.com/reports/536954) to Node.js - 1 upvotes, $0
+80. [NULL pointer dereference in node:sqlite DatabaseSync#applyChangeset() via malformed SQLite changeset](https://hackerone.com/reports/3736889) to Node.js - 7 upvotes, $0
+81. [HTTP Request Smuggling due to ignoring chunk extensions](https://hackerone.com/reports/1238099) to Node.js - 6 upvotes, $250
+82. [HTTP/2 Denial of Service Vulnerability](https://hackerone.com/reports/335533) to Node.js - 6 upvotes, $0
+83. [HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Transfer-Encoding (improper fix for CVE-2022-32215)](https://hackerone.com/reports/1665156) to Node.js - 6 upvotes, $0
+84. [HTTP Request Smuggling Due to Incorrect Parsing of Header Fields](https://hackerone.com/reports/1675191) to Node.js - 6 upvotes, $0
+85. [fs.openAsBlob() bypasses permission system](https://hackerone.com/reports/1966492) to Node.js - 6 upvotes, $0
+86. [Process-based permissions can be bypassed with the "inspector" module.  ](https://hackerone.com/reports/1962701) to Node.js - 6 upvotes, $0
+87. [Memory leak in Node.js HTTP/2 server via WINDOW_UPDATE on stream 0 leads to resource exhaustion](https://hackerone.com/reports/3531737) to Node.js - 6 upvotes, $0
+88. [CVE-2024-36137 Patch Bypass - FileHandle.chmod/chown](https://hackerone.com/reports/3449392) to Node.js - 6 upvotes, $0
+89. [Memory Corruption via TOCTOU Race in SharedArrayBuffer UTF-8 Decode (`StringBytes::Encode`)](https://hackerone.com/reports/3752489) to Node.js - 6 upvotes, $0
+90. [DNS rebinding in --inspect (insufficient fix of CVE-2018-7160)](https://hackerone.com/reports/1069487) to Node.js - 5 upvotes, $500
+91. [Pull Request #12949 - Security Implications without CVE assignment](https://hackerone.com/reports/415329) to Node.js - 5 upvotes, $0
+92. [OOB read in libuv](https://hackerone.com/reports/1209681) to Node.js - 5 upvotes, $0
+93. [CVE-2022-32213 bypass via obs-fold mechanic](https://hackerone.com/reports/1630336) to Node.js - 5 upvotes, $0
+94. [Multiple OpenSSL error handling issues in nodejs crypto library](https://hackerone.com/reports/1808596) to Node.js - 5 upvotes, $0
+95. [Filesystem experimental permissions policy does not handle path traversal cases.](https://hackerone.com/reports/1952978) to Node.js - 5 upvotes, $0
+96. [fs module's file watching is not restricted by --allow-fs-read](https://hackerone.com/reports/1966499) to Node.js - 5 upvotes, $0
+97. [Denial of Service: nghttp2 use of uninitialized pointer](https://hackerone.com/reports/335608) to Node.js - 4 upvotes, $0
+98. [`fs.realpath.native` on darwin may cause buffer overflow](https://hackerone.com/reports/965914) to Node.js - 4 upvotes, $0
+99. [Unexpected input validation of octal literals in nodejs v15.12.0 and below returns defined values for all undefined octal literals.](https://hackerone.com/reports/1141623) to Node.js - 4 upvotes, $0
+100. [Improper handling of untypical characters in domain names](https://hackerone.com/reports/1178337) to Node.js - 4 upvotes, $0
+101. [Undici does not use CONNECT or otherwise validate upstream HTTPS certificates when using a proxy](https://hackerone.com/reports/1583680) to Node.js - 4 upvotes, $0
+102. [DNS rebinding in --inspect via invalid octal IP address](https://hackerone.com/reports/1710652) to Node.js - 4 upvotes, $0
+103. [Insecure loading of ICU data through ICU_DATA environment variable](https://hackerone.com/reports/1625036) to Node.js - 4 upvotes, $0
+104. [OpenSSL engines can be used to bypass and/or disable the permission model](https://hackerone.com/reports/1954535) to Node.js - 4 upvotes, $0
+105. [Hostname spoofing](https://hackerone.com/reports/678487) to Node.js - 3 upvotes, $0
+106. [Out of order TLS handshake / application data messages lead to segmentation fault](https://hackerone.com/reports/335495) to Node.js - 3 upvotes, $0
+107. [Fix for CVE-2018-12122 can be bypassed via keep-alive requests](https://hackerone.com/reports/453513) to Node.js - 3 upvotes, $0
+108. [loader.js is not secure](https://hackerone.com/reports/629879) to Node.js - 3 upvotes, $0
+109. [Child process environment injection via prototype pollution](https://hackerone.com/reports/878181) to Node.js - 3 upvotes, $0
+110. [HTTP2 'unknownProtocol' cause Denial of Service by resource exhaustion](https://hackerone.com/reports/1043360) to Node.js - 3 upvotes, $0
+111. [Node 18 reads openssl.cnf from /home/iojs/build/... upon startup on MacOS](https://hackerone.com/reports/1695596) to Node.js - 3 upvotes, $0
+112. [Regular Expression Denial of Service in Headers](https://hackerone.com/reports/1784449) to Node.js - 3 upvotes, $0
+113. [DNS Max Responses for DOS](https://hackerone.com/reports/1033107) to Node.js - 2 upvotes, $250
+114. [CRLF Injection in legacy url API (url.parse().hostname)](https://hackerone.com/reports/771596) to Node.js - 2 upvotes, $0
+115. [Use After Free in crypto.randomFill](https://hackerone.com/reports/340053) to Node.js - 2 upvotes, $0
+116. [Node.js HTTP/2 Large Settings Frame DoS](https://hackerone.com/reports/446662) to Node.js - 2 upvotes, $0
+117. [Node.js Certificate Verification Bypass via String Injection](https://hackerone.com/reports/1429694) to Node.js - 2 upvotes, $0
+118. [Http response is not ended although underlying socket is already destroyed](https://hackerone.com/reports/676710) to Node.js - 1 upvotes, $0
+119. [Vulnerability in http-parser & embedded NULL header handling](https://hackerone.com/reports/536954) to Node.js - 1 upvotes, $0

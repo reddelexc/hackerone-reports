@@ -7,7 +7,7 @@ Top reports from Legal Robot program at HackerOne:
 5. [Bypass 8 chars password complexity with 6 chars only due to insecure password reset functionaliy](https://hackerone.com/reports/173195) to Legal Robot - 21 upvotes, $0
 6. [Intercom chat session information persists after logout](https://hackerone.com/reports/249798) to Legal Robot - 20 upvotes, $0
 7. [AWS hosting bucket for Legal Robots set as public browse and list contents: s3://legalrobot](https://hackerone.com/reports/166861) to Legal Robot - 20 upvotes, $0
-8. [Password complexity requirements not enforced](https://hackerone.com/reports/191643) to Legal Robot - 17 upvotes, $0
+8. [Password complexity requirements not enforced](https://hackerone.com/reports/191643) to Legal Robot - 18 upvotes, $0
 9. [Homograph IDNs displayed in Description](https://hackerone.com/reports/260938) to Legal Robot - 17 upvotes, $0
 10. [Near-duplicate accounts allowed with ignored email mutations](https://hackerone.com/reports/171337) to Legal Robot - 15 upvotes, $0
 11. [Domain takeover (legalrobot.co.za)](https://hackerone.com/reports/230525) to Legal Robot - 15 upvotes, $0

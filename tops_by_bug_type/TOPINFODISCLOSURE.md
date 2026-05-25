@@ -1,9 +1,9 @@
 Top Information Disclosure reports from HackerOne:
 
-1. [Sensitive user information disclosure at bonjour.uber.com/marketplace/_rpc via the 'userUuid' parameter](https://hackerone.com/reports/542340) to Uber - 641 upvotes, $0
-2. [[Grab Android/iOS] Insecure deeplink leads to sensitive information disclosure](https://hackerone.com/reports/401793) to Grab - 543 upvotes, $0
+1. [Sensitive user information disclosure at bonjour.uber.com/marketplace/_rpc via the 'userUuid' parameter](https://hackerone.com/reports/542340) to Uber - 642 upvotes, $0
+2. [[Grab Android/iOS] Insecure deeplink leads to sensitive information disclosure](https://hackerone.com/reports/401793) to Grab - 545 upvotes, $0
 3. [Web cache poisoning attack leads to user information and more](https://hackerone.com/reports/492841) to Postmates - 343 upvotes, $500
-4. [Information Disclosure in /skills call](https://hackerone.com/reports/188719) to HackerOne - 283 upvotes, $10000
+4. [Information Disclosure in /skills call](https://hackerone.com/reports/188719) to HackerOne - 284 upvotes, $10000
 5. [sdrc.starbucks.com - Information Disclosure via unsecured attachment directory](https://hackerone.com/reports/769016) to Starbucks - 197 upvotes, $0
 6. [Unauthenticated access to sensitive user information](https://hackerone.com/reports/702677) to Razer - 184 upvotes, $500
 7. [Information Disclosure through Sentry Instance ███████](https://hackerone.com/reports/697512) to Eternal - 176 upvotes, $750
@@ -13,18 +13,18 @@ Top Information Disclosure reports from HackerOne:
 11. [information disclosure of secret_key_base via encoding charcters](https://hackerone.com/reports/460545) to GitLab - 145 upvotes, $3500
 12. [[c-api.city-mobil.ru] Client authentication bypass leads to information disclosure](https://hackerone.com/reports/772118) to Mail.ru - 143 upvotes, $0
 13. [[Information Disclosure] Amazon S3 Bucket of Shopify Ping (iOS) have public access of other users image](https://hackerone.com/reports/1021906) to Shopify - 133 upvotes, $2900
-14. [IDOR at mtnmobad.mtnbusiness.com.ng leads to PII leakage. ](https://hackerone.com/reports/1773609) to MTN Group - 127 upvotes, $0
+14. [IDOR at mtnmobad.mtnbusiness.com.ng leads to PII leakage. ](https://hackerone.com/reports/1773609) to MTN Group - 128 upvotes, $0
 15. [Vine all registered user Private/sensitive information disclosure .[ Ip address/phone no/email and many other informations ]](https://hackerone.com/reports/202823) to X / xAI - 121 upvotes, $0
 16. [PII Disclosure At `theperfumeshop.com/register/forOrder`](https://hackerone.com/reports/1618100) to A.S. Watson Group  - 118 upvotes, $0
 17. [China – Limited Partner PII Regarding Work Scheduling via Unauthenticated API Endpoint](https://hackerone.com/reports/659248) to Starbucks - 114 upvotes, $0
-18. [[Zomato Order] Insecure deeplink leads to sensitive information disclosure](https://hackerone.com/reports/532225) to Eternal - 112 upvotes, $750
+18. [[Zomato Order] Insecure deeplink leads to sensitive information disclosure](https://hackerone.com/reports/532225) to Eternal - 113 upvotes, $750
 19. [Sensitive Information Disclosure via Back Button Post Logout on https://apps.nextcloud.com/account/](https://hackerone.com/reports/2946927) to Nextcloud - 112 upvotes, $0
-20. [Broken Access Control (IDOR) in Booking Detail and Bids Could Leads to Sensitive Information Disclosure](https://hackerone.com/reports/2374730) to Bykea - 99 upvotes, $0
+20. [Broken Access Control (IDOR) in Booking Detail and Bids Could Leads to Sensitive Information Disclosure](https://hackerone.com/reports/2374730) to Bykea - 100 upvotes, $0
 21. [Lack of rate limiting in https://███/PKI/PassReset.aspx leads to PII disclosure and potential account takeover](https://hackerone.com/reports/2748003) to U.S. Dept Of Defense - 98 upvotes, $0
-22. [[███████] Information disclosure due unauthenticated access to APIs and system browser functions](https://hackerone.com/reports/2122964) to U.S. Dept Of Defense - 96 upvotes, $0
-23. [Public google drive link Exposes Military Orders Containing PII (Name, SSN etc..) and Operational Details](https://hackerone.com/reports/2926447) to U.S. Dept Of Defense - 95 upvotes, $0
-24. [Cross-origin resource sharing misconfig | steal user information ](https://hackerone.com/reports/235200) to Semrush - 94 upvotes, $0
-25. [Critical Information Disclosure via /talos/api/v1/files/upload](https://hackerone.com/reports/3228011) to Bykea - 93 upvotes, $0
+22. [[███████] Information disclosure due unauthenticated access to APIs and system browser functions](https://hackerone.com/reports/2122964) to U.S. Dept Of Defense - 97 upvotes, $0
+23. [Public google drive link Exposes Military Orders Containing PII (Name, SSN etc..) and Operational Details](https://hackerone.com/reports/2926447) to U.S. Dept Of Defense - 96 upvotes, $0
+24. [Cross-origin resource sharing misconfig | steal user information ](https://hackerone.com/reports/235200) to Semrush - 95 upvotes, $0
+25. [Critical Information Disclosure via /talos/api/v1/files/upload](https://hackerone.com/reports/3228011) to Bykea - 94 upvotes, $0
 26. [Information Disclosure of metrics fax.wavecell.com/metrics](https://hackerone.com/reports/1365076) to 8x8 - 90 upvotes, $0
 27. [███ leaking PII of tour visitors (names, email addresses, phone numbers) via misconfigured record permissions](https://hackerone.com/reports/2294930) to U.S. Dept Of Defense - 89 upvotes, $0
 28. [Disclosure of User Information](https://hackerone.com/reports/753725) to Nord Security - 88 upvotes, $0
@@ -34,8 +34,8 @@ Top Information Disclosure reports from HackerOne:
 32. [Unauthorized access to PII leads to Administrator account Takeover](https://hackerone.com/reports/2450685) to MTN Group - 80 upvotes, $0
 33. [PII Exposure via Email Confirmation Link – Email Embedded in Token & Leaked via Wayback Machine](https://hackerone.com/reports/3210022) to Omise - 78 upvotes, $0
 34. [Information Disclosure .htaccess accesible for public](https://hackerone.com/reports/1241849) to Basecamp - 76 upvotes, $0
-35. [Information disclosure -\> 2fa bypass -\> POST exploitation ](https://hackerone.com/reports/1276373) to Algolia - 75 upvotes, $0
-36. [Improper Access Control Allows Trip Hijacking and Passenger/Driver PII Disclosure](https://hackerone.com/reports/2867022) to Bykea - 75 upvotes, $0
+35. [Improper Access Control Allows Trip Hijacking and Passenger/Driver PII Disclosure](https://hackerone.com/reports/2867022) to Bykea - 76 upvotes, $0
+36. [Information disclosure -\> 2fa bypass -\> POST exploitation ](https://hackerone.com/reports/1276373) to Algolia - 75 upvotes, $0
 37. [IDOR leading unauthenticated attacker to download documents discloses PII of users and soldiers via https://www.█████████/Download.aspx?id= [HtUS]](https://hackerone.com/reports/1626508) to U.S. Dept Of Defense - 73 upvotes, $500
 38. [CORS misconfiguration leads to users information disclosure at https://studyroom.line.me](https://hackerone.com/reports/924951) to LY Corporation - 72 upvotes, $0
 39. [Rider can forcefully get passenger's order accepted resulting in multiple impacts including PII reveal  and more mentioned in the report.](https://hackerone.com/reports/1960107) to inDrive - 71 upvotes, $0
@@ -43,15 +43,15 @@ Top Information Disclosure reports from HackerOne:
 41. [IDOR allows information disclosure](https://hackerone.com/reports/1816900) to Semrush - 70 upvotes, $0
 42. [Exposure of Private Personal Information to an Unauthorized Actor - PII  and soldier data (mos, schools, and speciality training)](https://hackerone.com/reports/1556950) to U.S. Dept Of Defense - 69 upvotes, $0
 43. [Unauthenticated Sensitive Information Disclosure on █████████  CVE-2021-38314](https://hackerone.com/reports/1452774) to Mars - 65 upvotes, $0
-44. [SSRF with information disclosure](https://hackerone.com/reports/810401) to Lark Technologies - 63 upvotes, $0
-45. [Chain of IDORs Between U4B and Vouchers APIs Allows Attackers to View and Modify Program/Voucher Policies and to Obtain Organization Employees' PII](https://hackerone.com/reports/1148697) to Uber - 63 upvotes, $0
-46. [Unauthenticated access to private files on app.fizzy.do via Active Storage URLs leads to information disclosure](https://hackerone.com/reports/3467641) to Basecamp - 61 upvotes, $100
+44. [Unauthenticated access to private files on app.fizzy.do via Active Storage URLs leads to information disclosure](https://hackerone.com/reports/3467641) to Basecamp - 63 upvotes, $100
+45. [SSRF with information disclosure](https://hackerone.com/reports/810401) to Lark Technologies - 63 upvotes, $0
+46. [Chain of IDORs Between U4B and Vouchers APIs Allows Attackers to View and Modify Program/Voucher Policies and to Obtain Organization Employees' PII](https://hackerone.com/reports/1148697) to Uber - 63 upvotes, $0
 47. [IDOR leads to PII Leak](https://hackerone.com/reports/2586584) to U.S. Dept Of Defense - 61 upvotes, $0
-48. [Information disclosure on sim.starbucks.com](https://hackerone.com/reports/632808) to Starbucks - 58 upvotes, $0
-49. [Information disclosure due to debug mode enabled at Laravel instance https://mpos.mtn.co.sz/ ](https://hackerone.com/reports/2765259) to MTN Group - 58 upvotes, $0
-50. [Exposed trip_no in WebSocket Responses Leading to Excessive information Disclosure](https://hackerone.com/reports/2209750) to Bykea - 58 upvotes, $0
-51. [CORS Misconfiguration leading to Private Information Disclosure](https://hackerone.com/reports/430249) to Ubiquiti Inc. - 56 upvotes, $0
-52. [CVE-2025-24813: Remote Code Execution and/or Information disclosure and/or malicious content added to uploaded files via write enabled Default Servlet](https://hackerone.com/reports/3031518) to Internet Bug Bounty - 55 upvotes, $4323
+48. [Exposed trip_no in WebSocket Responses Leading to Excessive information Disclosure](https://hackerone.com/reports/2209750) to Bykea - 60 upvotes, $0
+49. [Information disclosure on sim.starbucks.com](https://hackerone.com/reports/632808) to Starbucks - 58 upvotes, $0
+50. [Information disclosure due to debug mode enabled at Laravel instance https://mpos.mtn.co.sz/ ](https://hackerone.com/reports/2765259) to MTN Group - 58 upvotes, $0
+51. [CVE-2025-24813: Remote Code Execution and/or Information disclosure and/or malicious content added to uploaded files via write enabled Default Servlet](https://hackerone.com/reports/3031518) to Internet Bug Bounty - 56 upvotes, $4323
+52. [CORS Misconfiguration leading to Private Information Disclosure](https://hackerone.com/reports/430249) to Ubiquiti Inc. - 56 upvotes, $0
 53. [Information disclosure via enabled Django Debug Mode ](https://hackerone.com/reports/2201370) to MTN Group - 55 upvotes, $0
 54. [PII of Users Disclosure using "/members/invite/" endpoint](https://hackerone.com/reports/787955) to Lab45 - 54 upvotes, $0
 55. [Critical Information disclosure of rtapi token for any user via https://video-support-staging.uber.com/video/api/getPopulousUser](https://hackerone.com/reports/953649) to Uber - 49 upvotes, $0
@@ -61,11 +61,11 @@ Top Information Disclosure reports from HackerOne:
 59. [Information disclosure on IBM training service endpoint](https://hackerone.com/reports/3051155) to IBM - 47 upvotes, $0
 60. [IDOR on www.acronis.com API lead to steal private business user information](https://hackerone.com/reports/1182465) to Acronis - 46 upvotes, $100
 61. [Information Disclosure Due To exposed .env file (Directory Listing) at ████████](https://hackerone.com/reports/2784712) to AWS VDP - 46 upvotes, $0
-62. [Information disclosure on password cancel endpoint ](https://hackerone.com/reports/2737309) to Mozilla - 45 upvotes, $0
-63. [Information Disclosure: .dockerignore file is publicly accessible](https://hackerone.com/reports/2888001) to Flickr - 45 upvotes, $0
-64. [Web Cache poisoning attack leads to User information Disclosure and more](https://hackerone.com/reports/631589) to Lyst - 44 upvotes, $0
+62. [Web Cache poisoning attack leads to User information Disclosure and more](https://hackerone.com/reports/631589) to Lyst - 45 upvotes, $0
+63. [Information disclosure on password cancel endpoint ](https://hackerone.com/reports/2737309) to Mozilla - 45 upvotes, $0
+64. [Information Disclosure: .dockerignore file is publicly accessible](https://hackerone.com/reports/2888001) to Flickr - 45 upvotes, $0
 65. [Sensitive information disclosure on grafana](https://hackerone.com/reports/1448218) to JetBlue - 44 upvotes, $0
-66. [Information disclosure-Referer leak](https://hackerone.com/reports/1337624) to Brave Software - 43 upvotes, $500
+66. [Information disclosure-Referer leak](https://hackerone.com/reports/1337624) to Brave Software - 43 upvotes, $0
 67. [Improper access control on easytopup.in.th transaction page leads to user's information disclosure and may lead to account hijacking](https://hackerone.com/reports/776877) to Razer - 41 upvotes, $1000
 68. [[special.mail.ru] Information Disclosure](https://hackerone.com/reports/520883) to Mail.ru - 41 upvotes, $500
 69. [Information Disclosure of Garbage Collection Cycle 'Again' ](https://hackerone.com/reports/1026196) to Basecamp - 41 upvotes, $100
@@ -73,9 +73,9 @@ Top Information Disclosure reports from HackerOne:
 71. [IDOR  leads to view other user Biographical details (Possible PII LEAK)](https://hackerone.com/reports/2586641) to U.S. Dept Of Defense - 40 upvotes, $0
 72. [Information disclosure identified on IBM endpoint. ](https://hackerone.com/reports/2402842) to IBM - 39 upvotes, $0
 73. [CSRF to Information disclosure on password reset](https://hackerone.com/reports/2106662) to Mozilla - 37 upvotes, $0
-74. [Critical sensitive information Disclosure. [HtUS]](https://hackerone.com/reports/1626236) to U.S. Dept Of Defense - 36 upvotes, $500
-75. [Sensitive information disclosure with malicious netrc file](https://hackerone.com/reports/3211126) to curl - 36 upvotes, $0
-76. [Information Disclosure via Logback Configuration Injection in GoCD Agent](https://hackerone.com/reports/3509632) to GoCD - 36 upvotes, $0
+74. [Information Disclosure via Logback Configuration Injection in GoCD Agent](https://hackerone.com/reports/3509632) to GoCD - 37 upvotes, $0
+75. [Critical sensitive information Disclosure. [HtUS]](https://hackerone.com/reports/1626236) to U.S. Dept Of Defense - 36 upvotes, $500
+76. [Sensitive information disclosure with malicious netrc file](https://hackerone.com/reports/3211126) to curl - 36 upvotes, $0
 77. [Sensitive information disclosure to shared access user via streamlabs platform api](https://hackerone.com/reports/1072893) to Logitech - 35 upvotes, $200
 78. [massive PII  leakage for ███████](https://hackerone.com/reports/2887506) to Mars - 35 upvotes, $0
 79. [Exploiting Misconfigured CORS to Steal User Information](https://hackerone.com/reports/317391) to Rockstar Games - 34 upvotes, $500
@@ -83,11 +83,11 @@ Top Information Disclosure reports from HackerOne:
 81. [Information disclosure through directory listing at http://dockerhost01.maximum.nl:8080](https://hackerone.com/reports/150905) to Radancy - 34 upvotes, $0
 82. [Full Path and internal information disclosure+ SQLNet.log file disclose internal network information](https://hackerone.com/reports/410187) to Uber - 34 upvotes, $0
 83. [[api-site.city-mobil.ru] Improper access control leads to information disclosure](https://hackerone.com/reports/977597) to Mail.ru - 34 upvotes, $0
-84. [Information Disclosure of Garbage Collection Cycle](https://hackerone.com/reports/981796) to Basecamp - 33 upvotes, $0
-85. [Exposed .git/config File Leading to Potential Sensitive Information Disclosure](https://hackerone.com/reports/3612891) to curl - 33 upvotes, $0
-86. [Debug information disclosure on oauth-redirector.services.greenhouse.io](https://hackerone.com/reports/315205) to Greenhouse.io - 32 upvotes, $0
-87. [Splunk Sensitive Information Disclosure @████████](https://hackerone.com/reports/1860905) to U.S. Dept Of Defense - 32 upvotes, $0
-88. [Two-factor authentication bypass lead to information disclosure about the program and all hackers participate](https://hackerone.com/reports/2486086) to HackerOne - 32 upvotes, $0
+84. [Debug information disclosure on oauth-redirector.services.greenhouse.io](https://hackerone.com/reports/315205) to Greenhouse.io - 33 upvotes, $0
+85. [Information Disclosure of Garbage Collection Cycle](https://hackerone.com/reports/981796) to Basecamp - 33 upvotes, $0
+86. [Splunk Sensitive Information Disclosure @████████](https://hackerone.com/reports/1860905) to U.S. Dept Of Defense - 32 upvotes, $0
+87. [Two-factor authentication bypass lead to information disclosure about the program and all hackers participate](https://hackerone.com/reports/2486086) to HackerOne - 32 upvotes, $0
+88. [Exposed .git/config File Leading to Potential Sensitive Information Disclosure](https://hackerone.com/reports/3612891) to curl - 32 upvotes, $0
 89. [Information disclosure in mmap module - python 2.7.12](https://hackerone.com/reports/174632) to Internet Bug Bounty - 31 upvotes, $0
 90. [[api-site.city-mobil.ru] Improper access control leads to information disclosure (bypass of #977597 fix)](https://hackerone.com/reports/1024356) to Mail.ru - 31 upvotes, $0
 91. [[acronis.secure.force.com] - Insecure Salesforce default/custom object permissions leads to information disclosure](https://hackerone.com/reports/1023572) to Acronis - 31 upvotes, $0
@@ -111,16 +111,16 @@ Top Information Disclosure reports from HackerOne:
 109. [Information disclosure (system username) in the x-amz-meta-s3cmd-attrs response header on federation.data.gov](https://hackerone.com/reports/262649) to GSA Bounty - 23 upvotes, $0
 110. [Sensitive information disclosure [HtUS]](https://hackerone.com/reports/1632104) to U.S. Dept Of Defense - 23 upvotes, $0
 111. [Information Disclosure FrontPage Configuration Information](https://hackerone.com/reports/2180018) to U.S. Dept Of Defense - 23 upvotes, $0
-112. [IDOR leaking PII data via VendorId parameter](https://hackerone.com/reports/1690044) to U.S. Dept Of Defense - 22 upvotes, $0
-113. [Information disclosure - emails disclosed in response \> staging.seatme.us](https://hackerone.com/reports/49170) to Yelp - 21 upvotes, $0
-114. [Developper's websites are easily accessibles leading to massive information disclosure](https://hackerone.com/reports/643882) to Radancy - 21 upvotes, $0
-115. [Information Disclosure in https://www.rockstargames.com/search](https://hackerone.com/reports/808832) to Rockstar Games - 21 upvotes, $0
-116. [Information Disclosure](https://hackerone.com/reports/268224) to Hiro - 21 upvotes, $0
-117. [Information Disclosure at https://portal.finzfin.com/1.txt](https://hackerone.com/reports/1011073) to OPPO - 20 upvotes, $50
-118. [HTML injection and information disclosure in support panel](https://hackerone.com/reports/634312) to Weblate - 20 upvotes, $0
-119. [CORS Misconfiguration on nordvpn.com leading to Private Information Disclosure,Account takeover](https://hackerone.com/reports/758785) to Nord Security - 20 upvotes, $0
-120. [critical information disclosure](https://hackerone.com/reports/1106009) to U.S. Dept Of Defense - 20 upvotes, $0
-121. [Information disclosure ( Google Sales Channel )](https://hackerone.com/reports/1584718) to Shopify - 19 upvotes, $500
+112. [Information Disclosure in https://www.rockstargames.com/search](https://hackerone.com/reports/808832) to Rockstar Games - 22 upvotes, $0
+113. [IDOR leaking PII data via VendorId parameter](https://hackerone.com/reports/1690044) to U.S. Dept Of Defense - 22 upvotes, $0
+114. [Information disclosure - emails disclosed in response \> staging.seatme.us](https://hackerone.com/reports/49170) to Yelp - 21 upvotes, $0
+115. [Developper's websites are easily accessibles leading to massive information disclosure](https://hackerone.com/reports/643882) to Radancy - 21 upvotes, $0
+116. [CORS Misconfiguration on nordvpn.com leading to Private Information Disclosure,Account takeover](https://hackerone.com/reports/758785) to Nord Security - 21 upvotes, $0
+117. [Information Disclosure](https://hackerone.com/reports/268224) to Hiro - 21 upvotes, $0
+118. [Information disclosure ( Google Sales Channel )](https://hackerone.com/reports/1584718) to Shopify - 20 upvotes, $500
+119. [Information Disclosure at https://portal.finzfin.com/1.txt](https://hackerone.com/reports/1011073) to OPPO - 20 upvotes, $50
+120. [HTML injection and information disclosure in support panel](https://hackerone.com/reports/634312) to Weblate - 20 upvotes, $0
+121. [critical information disclosure](https://hackerone.com/reports/1106009) to U.S. Dept Of Defense - 20 upvotes, $0
 122. [Sensitive Information Disclosure https://cards-dev.twitter.com](https://hackerone.com/reports/268888) to X / xAI - 19 upvotes, $280
 123. [User Information Disclosure via the REST API - /?_method=GET](https://hackerone.com/reports/384782) to LocalTapiola - 19 upvotes, $0
 124. [Read access to hidden orders,products,customers etc. by limited access Staff member through reference page in Comments (Information disclosure )](https://hackerone.com/reports/154405) to Shopify - 19 upvotes, $0
@@ -142,18 +142,18 @@ Top Information Disclosure reports from HackerOne:
 140. [PII data Leakage through hackerone reports ](https://hackerone.com/reports/1256371) to HackerOne - 16 upvotes, $0
 141. [Golang expvar Information Disclosure](https://hackerone.com/reports/1650035) to Uber - 16 upvotes, $0
 142. [Information Disclosure via Verbose Error Messages](https://hackerone.com/reports/3403450) to Revive Adserver - 16 upvotes, $0
-143. [mailer.i.bizml.ru viber service preprod information disclosure](https://hackerone.com/reports/836149) to Mail.ru - 15 upvotes, $300
-144. [User Profiles Leak PII in HTML Document for Mobile Browser User Agents](https://hackerone.com/reports/288596) to Eternal - 15 upvotes, $0
+143. [User Profiles Leak PII in HTML Document for Mobile Browser User Agents](https://hackerone.com/reports/288596) to Eternal - 15 upvotes, $500
+144. [mailer.i.bizml.ru viber service preprod information disclosure](https://hackerone.com/reports/836149) to Mail.ru - 15 upvotes, $300
 145. [Minimal information disclosure of internal asset names and links which were not publicly accessible.](https://hackerone.com/reports/805699) to Starbucks - 15 upvotes, $0
 146. [Information Disclosure via “Add user” lookup in Account Management (User Access)](https://hackerone.com/reports/3401464) to Revive Adserver - 15 upvotes, $0
-147. [Information Disclosure on stun.screenhero.com](https://hackerone.com/reports/175061) to Slack - 14 upvotes, $700
-148. [PII leakage due to caching of Order/Contract ID's on █████████](https://hackerone.com/reports/374007) to U.S. Dept Of Defense - 14 upvotes, $0
-149. [PII leakage-Full SSN on ███](https://hackerone.com/reports/644358) to U.S. Dept Of Defense - 14 upvotes, $0
-150. [Sensitive Information Disclosure on https://nordvpn.com/](https://hackerone.com/reports/801197) to Nord Security - 14 upvotes, $0
-151. [Cross-origin resource sharing misconfig | steal user information ](https://hackerone.com/reports/1183601) to UPchieve - 14 upvotes, $0
-152. [[U.S. Air Force] Information disclosure due unauthenticated access to APIs and system browser functions](https://hackerone.com/reports/1822160) to U.S. Dept Of Defense - 14 upvotes, $0
-153. [Information Disclosure via Accessible debug.log on ExactHosting](https://hackerone.com/reports/3372277) to Tucows (VDP) - 14 upvotes, $0
-154. [IDOR Exposes PII of Tens of Thousands of Users and Supervisors](https://hackerone.com/reports/2967032) to U.S. Dept Of Defense - 14 upvotes, $0
+147. [IDOR Exposes PII of Tens of Thousands of Users and Supervisors](https://hackerone.com/reports/2967032) to U.S. Dept Of Defense - 15 upvotes, $0
+148. [Information Disclosure on stun.screenhero.com](https://hackerone.com/reports/175061) to Slack - 14 upvotes, $700
+149. [PII leakage due to caching of Order/Contract ID's on █████████](https://hackerone.com/reports/374007) to U.S. Dept Of Defense - 14 upvotes, $0
+150. [PII leakage-Full SSN on ███](https://hackerone.com/reports/644358) to U.S. Dept Of Defense - 14 upvotes, $0
+151. [Sensitive Information Disclosure on https://nordvpn.com/](https://hackerone.com/reports/801197) to Nord Security - 14 upvotes, $0
+152. [Cross-origin resource sharing misconfig | steal user information ](https://hackerone.com/reports/1183601) to UPchieve - 14 upvotes, $0
+153. [[U.S. Air Force] Information disclosure due unauthenticated access to APIs and system browser functions](https://hackerone.com/reports/1822160) to U.S. Dept Of Defense - 14 upvotes, $0
+154. [Information Disclosure via Accessible debug.log on ExactHosting](https://hackerone.com/reports/3372277) to Tucows (VDP) - 14 upvotes, $0
 155. [Information Disclosure via Publicly Accessible Debug Log](https://hackerone.com/reports/3318295) to U.S. Dept Of Defense - 14 upvotes, $0
 156. [HTTP-Response-Splitting leads to information disclosure (email, firstname, lastname) at https://tz.mail.ru](https://hackerone.com/reports/726765) to Mail.ru - 13 upvotes, $0
 157. [Information Disclosure FrontPage Configuration Information /_vti_inf.html in https://www.mtn.co.za/](https://hackerone.com/reports/761617) to MTN Group - 13 upvotes, $0
@@ -178,15 +178,15 @@ Top Information Disclosure reports from HackerOne:
 176. [Information Disclosure on TikTok Unplugged Site](https://hackerone.com/reports/1249050) to TikTok - 11 upvotes, $0
 177. [Authorization bypass -\> IDOR -\> PII Leakage](https://hackerone.com/reports/1489470) to U.S. Dept Of Defense - 11 upvotes, $0
 178. [Information Disclosure at : https://curl.se/.mailmap](https://hackerone.com/reports/2853023) to curl - 11 upvotes, $0
-179. [Information Disclosure ](https://hackerone.com/reports/1091) to Yahoo! - 10 upvotes, $0
-180. [Information Disclosure in AWS S3 Bucket](https://hackerone.com/reports/163476) to Legal Robot - 10 upvotes, $0
-181. [User Information Disclosure via REST API](https://hackerone.com/reports/197786) to ownCloud - 10 upvotes, $0
-182. [IDOR in tender.mail.ru leading to Information Disclosure](https://hackerone.com/reports/226640) to Mail.ru - 10 upvotes, $0
-183. [critical information disclosure](https://hackerone.com/reports/1106505) to U.S. Dept Of Defense - 10 upvotes, $0
-184. [Information Disclosure on https://rpc.sifchain.finance/](https://hackerone.com/reports/1197035) to Sifchain - 10 upvotes, $0
-185. [Authentication bypass leads to Information Disclosure at  U.S Air Force "https://███"](https://hackerone.com/reports/1690548) to U.S. Dept Of Defense - 10 upvotes, $0
-186. [information disclosure ](https://hackerone.com/reports/2841436) to curl - 10 upvotes, $0
-187. [Air Force candidate PII + recruitment chat logs accessible via BAC/IDOR on █████████ (very large/significant exposure)](https://hackerone.com/reports/2968391) to U.S. Dept Of Defense - 10 upvotes, $0
+179. [Air Force candidate PII + recruitment chat logs accessible via BAC/IDOR on █████████ (very large/significant exposure)](https://hackerone.com/reports/2968391) to U.S. Dept Of Defense - 11 upvotes, $0
+180. [Information Disclosure ](https://hackerone.com/reports/1091) to Yahoo! - 10 upvotes, $0
+181. [Information Disclosure in AWS S3 Bucket](https://hackerone.com/reports/163476) to Legal Robot - 10 upvotes, $0
+182. [User Information Disclosure via REST API](https://hackerone.com/reports/197786) to ownCloud - 10 upvotes, $0
+183. [IDOR in tender.mail.ru leading to Information Disclosure](https://hackerone.com/reports/226640) to Mail.ru - 10 upvotes, $0
+184. [critical information disclosure](https://hackerone.com/reports/1106505) to U.S. Dept Of Defense - 10 upvotes, $0
+185. [Information Disclosure on https://rpc.sifchain.finance/](https://hackerone.com/reports/1197035) to Sifchain - 10 upvotes, $0
+186. [Authentication bypass leads to Information Disclosure at  U.S Air Force "https://███"](https://hackerone.com/reports/1690548) to U.S. Dept Of Defense - 10 upvotes, $0
+187. [information disclosure ](https://hackerone.com/reports/2841436) to curl - 10 upvotes, $0
 188. [Private program activity timeline information disclosure](https://hackerone.com/reports/116029) to HackerOne - 9 upvotes, $0
 189. [User Information leak allows user to bypass email verification.](https://hackerone.com/reports/163467) to Legal Robot - 9 upvotes, $0
 190. [User Information sent to client through websockets](https://hackerone.com/reports/163464) to Legal Robot - 9 upvotes, $0
@@ -229,22 +229,22 @@ Top Information Disclosure reports from HackerOne:
 227. [████████ portal is open to enumeration once authenticated.  Session ID's appear static.  All PII available once a valid session ID is found.](https://hackerone.com/reports/1150573) to U.S. Dept Of Defense - 7 upvotes, $0
 228. [Information disclosure via Spring Boot Actuators on gonext-stage.engelvoelkers.com](https://hackerone.com/reports/914719) to Engel & Völkers Technology GmbH - 7 upvotes, $0
 229. [Unauthenticated PII leak on verified/requested to be verified profiles on ███████/app/org/{id}/profile/{id}/version/{id} [HtUS]](https://hackerone.com/reports/1627962) to U.S. Dept Of Defense - 7 upvotes, $0
-230. [[Critical Data Breach] Exposure of PII Data Leak via API Response](https://hackerone.com/reports/3078508) to U.S. Dept Of Defense - 7 upvotes, $0
-231. [Twitter Ads Campaign information disclosure through admin without any authentication.](https://hackerone.com/reports/49806) to X / xAI - 6 upvotes, $560
-232. [Information Disclosure (phpinfo())](https://hackerone.com/reports/17514) to Uzbey - 6 upvotes, $0
-233. [Information disclosure of user by email using buy widget](https://hackerone.com/reports/176002) to Coinbase - 6 upvotes, $0
-234. [[gitmm.corp.mail.ru] Auth Bypass, Information Disclosure](https://hackerone.com/reports/99273) to Mail.ru - 6 upvotes, $0
-235. [Information disclosure vulnerability on a DoD website](https://hackerone.com/reports/226427) to U.S. Dept Of Defense - 6 upvotes, $0
-236. [Possible to join any class without coache's knowledge & Little Information Disclosure](https://hackerone.com/reports/266090) to Khan Academy - 6 upvotes, $0
-237. [Information disclosure through search engines (password reset token)](https://hackerone.com/reports/322988) to Upserve  - 6 upvotes, $0
-238. [Partial PII leakage due to public set gitlab](https://hackerone.com/reports/375091) to U.S. Dept Of Defense - 6 upvotes, $0
-239. [Email PII disclosure due to Insecure Password Reset field](https://hackerone.com/reports/520842) to U.S. Dept Of Defense - 6 upvotes, $0
-240. [Support incident can be opened for any user via /███████ and PII leak via █████████ field](https://hackerone.com/reports/869450) to U.S. Dept Of Defense - 6 upvotes, $0
-241. [Information Disclosure(PHPINFO/Credentials) on DoD Asset](https://hackerone.com/reports/883693) to U.S. Dept Of Defense - 6 upvotes, $0
-242. [CRXDE Lite/CRX is on ██████ exposed that leads to PII disclosure](https://hackerone.com/reports/1095830) to U.S. Dept Of Defense - 6 upvotes, $0
-243. [bypassing dashboard without account + Information disclosure trough websockets ](https://hackerone.com/reports/1102780) to Nextcloud - 6 upvotes, $0
-244. [User information disclosed via API](https://hackerone.com/reports/1218461) to U.S. General Services Administration - 6 upvotes, $0
-245. [Critical PII Data Exposure in ORDER_ERROR_LOG](https://hackerone.com/reports/3242830) to U.S. Dept Of Defense - 6 upvotes, $0
+230. [User information disclosed via API](https://hackerone.com/reports/1218461) to U.S. General Services Administration - 7 upvotes, $0
+231. [[Critical Data Breach] Exposure of PII Data Leak via API Response](https://hackerone.com/reports/3078508) to U.S. Dept Of Defense - 7 upvotes, $0
+232. [Critical PII Data Exposure in ORDER_ERROR_LOG](https://hackerone.com/reports/3242830) to U.S. Dept Of Defense - 7 upvotes, $0
+233. [Twitter Ads Campaign information disclosure through admin without any authentication.](https://hackerone.com/reports/49806) to X / xAI - 6 upvotes, $560
+234. [Information Disclosure (phpinfo())](https://hackerone.com/reports/17514) to Uzbey - 6 upvotes, $0
+235. [Information disclosure of user by email using buy widget](https://hackerone.com/reports/176002) to Coinbase - 6 upvotes, $0
+236. [[gitmm.corp.mail.ru] Auth Bypass, Information Disclosure](https://hackerone.com/reports/99273) to Mail.ru - 6 upvotes, $0
+237. [Information disclosure vulnerability on a DoD website](https://hackerone.com/reports/226427) to U.S. Dept Of Defense - 6 upvotes, $0
+238. [Possible to join any class without coache's knowledge & Little Information Disclosure](https://hackerone.com/reports/266090) to Khan Academy - 6 upvotes, $0
+239. [Information disclosure through search engines (password reset token)](https://hackerone.com/reports/322988) to Upserve  - 6 upvotes, $0
+240. [Partial PII leakage due to public set gitlab](https://hackerone.com/reports/375091) to U.S. Dept Of Defense - 6 upvotes, $0
+241. [Email PII disclosure due to Insecure Password Reset field](https://hackerone.com/reports/520842) to U.S. Dept Of Defense - 6 upvotes, $0
+242. [Support incident can be opened for any user via /███████ and PII leak via █████████ field](https://hackerone.com/reports/869450) to U.S. Dept Of Defense - 6 upvotes, $0
+243. [Information Disclosure(PHPINFO/Credentials) on DoD Asset](https://hackerone.com/reports/883693) to U.S. Dept Of Defense - 6 upvotes, $0
+244. [CRXDE Lite/CRX is on ██████ exposed that leads to PII disclosure](https://hackerone.com/reports/1095830) to U.S. Dept Of Defense - 6 upvotes, $0
+245. [bypassing dashboard without account + Information disclosure trough websockets ](https://hackerone.com/reports/1102780) to Nextcloud - 6 upvotes, $0
 246. [Significant Information Disclosure/Load balancer access, http://extprodweb11.cc.gq1.yahoo.com/, 4/8/14, #SpringClean](https://hackerone.com/reports/6194) to Yahoo! - 5 upvotes, $0
 247. [comment out causes information disclosure](https://hackerone.com/reports/57125) to Shopify - 5 upvotes, $0
 248. [reopen #128853 (Information disclosure at lite.uber.com)](https://hackerone.com/reports/129712) to Uber - 5 upvotes, $0
