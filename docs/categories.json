@@ -1,0 +1,268 @@
+{
+  "tops_100": [
+    {
+      "name": "Top 100 Upvoted",
+      "file": "tops_100/TOP100UPVOTED.md"
+    },
+    {
+      "name": "Top 100 Paid",
+      "file": "tops_100/TOP100PAID.md"
+    }
+  ],
+  "tops_by_bug_type": [
+    {
+      "name": "XSS",
+      "file": "tops_by_bug_type/TOPXSS.md"
+    },
+    {
+      "name": "XXE",
+      "file": "tops_by_bug_type/TOPXXE.md"
+    },
+    {
+      "name": "CSRF",
+      "file": "tops_by_bug_type/TOPCSRF.md"
+    },
+    {
+      "name": "IDOR",
+      "file": "tops_by_bug_type/TOPIDOR.md"
+    },
+    {
+      "name": "RCE",
+      "file": "tops_by_bug_type/TOPRCE.md"
+    },
+    {
+      "name": "SQLI",
+      "file": "tops_by_bug_type/TOPSQLI.md"
+    },
+    {
+      "name": "SSRF",
+      "file": "tops_by_bug_type/TOPSSRF.md"
+    },
+    {
+      "name": "Race Condition",
+      "file": "tops_by_bug_type/TOPRACECONDITION.md"
+    },
+    {
+      "name": "Subdomain Takeover",
+      "file": "tops_by_bug_type/TOPSUBDOMAINTAKEOVER.md"
+    },
+    {
+      "name": "Open Redirect",
+      "file": "tops_by_bug_type/TOPOPENREDIRECT.md"
+    },
+    {
+      "name": "Clickjacking",
+      "file": "tops_by_bug_type/TOPCLICKJACKING.md"
+    },
+    {
+      "name": "DoS",
+      "file": "tops_by_bug_type/TOPDOS.md"
+    },
+    {
+      "name": "OAuth",
+      "file": "tops_by_bug_type/TOPOAUTH.md"
+    },
+    {
+      "name": "Account Takeover",
+      "file": "tops_by_bug_type/TOPACCOUNTTAKEOVER.md"
+    },
+    {
+      "name": "Business Logic",
+      "file": "tops_by_bug_type/TOPBUSINESSLOGIC.md"
+    },
+    {
+      "name": "REST API",
+      "file": "tops_by_bug_type/TOPAPI.md"
+    },
+    {
+      "name": "GraphQL",
+      "file": "tops_by_bug_type/TOPGRAPHQL.md"
+    },
+    {
+      "name": "Information Disclosure",
+      "file": "tops_by_bug_type/TOPINFODISCLOSURE.md"
+    },
+    {
+      "name": "Web Cache",
+      "file": "tops_by_bug_type/TOPWEBCACHE.md"
+    },
+    {
+      "name": "SSTI",
+      "file": "tops_by_bug_type/TOPSSTI.md"
+    },
+    {
+      "name": "Upload",
+      "file": "tops_by_bug_type/TOPUPLOAD.md"
+    },
+    {
+      "name": "Request Smuggling",
+      "file": "tops_by_bug_type/TOPREQUESTSMUGGLING.md"
+    },
+    {
+      "name": "OpenID",
+      "file": "tops_by_bug_type/TOPOPENID.md"
+    },
+    {
+      "name": "Mobile",
+      "file": "tops_by_bug_type/TOPMOBILE.md"
+    },
+    {
+      "name": "File Reading",
+      "file": "tops_by_bug_type/TOPFILEREADING.md"
+    },
+    {
+      "name": "Authorization Bypass",
+      "file": "tops_by_bug_type/TOPAUTHORIZATION.md"
+    },
+    {
+      "name": "Authentication",
+      "file": "tops_by_bug_type/TOPAUTH.md"
+    },
+    {
+      "name": "MFA",
+      "file": "tops_by_bug_type/TOPMFA.md"
+    }
+  ],
+  "tops_by_program": [
+    {
+      "name": "Mail.ru",
+      "file": "tops_by_program/TOPMAILRU.md"
+    },
+    {
+      "name": "U.S. Dept Of Defense",
+      "file": "tops_by_program/TOPUSDEPTOFDEFENSE.md"
+    },
+    {
+      "name": "Internet Bug Bounty",
+      "file": "tops_by_program/TOPINTERNETBUGBOUNTY.md"
+    },
+    {
+      "name": "HackerOne",
+      "file": "tops_by_program/TOPHACKERONE.md"
+    },
+    {
+      "name": "Nextcloud",
+      "file": "tops_by_program/TOPNEXTCLOUD.md"
+    },
+    {
+      "name": "Shopify",
+      "file": "tops_by_program/TOPSHOPIFY.md"
+    },
+    {
+      "name": "curl",
+      "file": "tops_by_program/TOPCURL.md"
+    },
+    {
+      "name": "Node.js third-party modules",
+      "file": "tops_by_program/TOPNODEJSTHIRDPARTYMODULES.md"
+    },
+    {
+      "name": "GitLab",
+      "file": "tops_by_program/TOPGITLAB.md"
+    },
+    {
+      "name": "X / xAI",
+      "file": "tops_by_program/TOPXXAI.md"
+    },
+    {
+      "name": "Uber",
+      "file": "tops_by_program/TOPUBER.md"
+    },
+    {
+      "name": "GitHub Security Lab",
+      "file": "tops_by_program/TOPGITHUBSECURITYLAB.md"
+    },
+    {
+      "name": "New Relic",
+      "file": "tops_by_program/TOPNEWRELIC.md"
+    },
+    {
+      "name": "VK.com",
+      "file": "tops_by_program/TOPVKCOM.md"
+    },
+    {
+      "name": "Automattic",
+      "file": "tops_by_program/TOPAUTOMATTIC.md"
+    },
+    {
+      "name": "shopify-scripts",
+      "file": "tops_by_program/TOPSHOPIFYSCRIPTS.md"
+    },
+    {
+      "name": "Legal Robot",
+      "file": "tops_by_program/TOPLEGALROBOT.md"
+    },
+    {
+      "name": "Weblate",
+      "file": "tops_by_program/TOPWEBLATE.md"
+    },
+    {
+      "name": "Gratipay",
+      "file": "tops_by_program/TOPGRATIPAY.md"
+    },
+    {
+      "name": "Slack",
+      "file": "tops_by_program/TOPSLACK.md"
+    },
+    {
+      "name": "MTN Group",
+      "file": "tops_by_program/TOPMTNGROUP.md"
+    },
+    {
+      "name": "Acronis",
+      "file": "tops_by_program/TOPACRONIS.md"
+    },
+    {
+      "name": "Eternal",
+      "file": "tops_by_program/TOPETERNAL.md"
+    },
+    {
+      "name": "Starbucks",
+      "file": "tops_by_program/TOPSTARBUCKS.md"
+    },
+    {
+      "name": "Open-Xchange",
+      "file": "tops_by_program/TOPOPENXCHANGE.md"
+    },
+    {
+      "name": "Node.js",
+      "file": "tops_by_program/TOPNODEJS.md"
+    },
+    {
+      "name": "TikTok",
+      "file": "tops_by_program/TOPTIKTOK.md"
+    },
+    {
+      "name": "Brave Software",
+      "file": "tops_by_program/TOPBRAVESOFTWARE.md"
+    },
+    {
+      "name": "h1-ctf",
+      "file": "tops_by_program/TOPH1CTF.md"
+    },
+    {
+      "name": "LocalTapiola",
+      "file": "tops_by_program/TOPLOCALTAPIOLA.md"
+    },
+    {
+      "name": "Rockstar Games",
+      "file": "tops_by_program/TOPROCKSTARGAMES.md"
+    },
+    {
+      "name": "Ubiquiti Inc.",
+      "file": "tops_by_program/TOPUBIQUITIINC.md"
+    },
+    {
+      "name": "ownCloud",
+      "file": "tops_by_program/TOPOWNCLOUD.md"
+    },
+    {
+      "name": "Pornhub",
+      "file": "tops_by_program/TOPPORNHUB.md"
+    },
+    {
+      "name": "QIWI",
+      "file": "tops_by_program/TOPQIWI.md"
+    }
+  ]
+}

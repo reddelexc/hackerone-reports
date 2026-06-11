@@ -9,8 +9,10 @@ in the same directory with this script (current data.csv is good).
 """
 
 import csv
+import json
 
 index = []
+categories_json = {"tops_100": [], "tops_by_bug_type": [], "tops_by_program": []}
 
 
 def clean_title(title):
@@ -31,8 +33,9 @@ def check_title(title, keywords):
 
 
 def top_100_upvoted(reports):
+    categories_json["tops_100"].append({"name": "Top 100 Upvoted", "file": "tops_100/TOP100UPVOTED.md"})
     upvotes_sorted_reports = list(reversed(sorted(reports, key=lambda k: k['upvotes'])))
-    with open('tops_100/TOP100UPVOTED.md', 'w', encoding='utf-8') as file:
+    with open('docs/tops_100/TOP100UPVOTED.md', 'w', encoding='utf-8') as file:
         file.write('Top 100 upvoted reports from HackerOne:\n\n')
         for i in range(0, 100):
             report = upvotes_sorted_reports[i]
@@ -43,8 +46,9 @@ def top_100_upvoted(reports):
 
 
 def top_100_paid(reports):
+    categories_json["tops_100"].append({"name": "Top 100 Paid", "file": "tops_100/TOP100PAID.md"})
     bounty_sorted_reports = list(reversed(sorted(reports, key=lambda k: (k['bounty'], k['upvotes']))))
-    with open('tops_100/TOP100PAID.md', 'w', encoding='utf-8') as file:
+    with open('docs/tops_100/TOP100PAID.md', 'w', encoding='utf-8') as file:
         file.write('Top 100 paid reports from HackerOne:\n\n')
         for i in range(0, 100):
             report = bounty_sorted_reports[i]
@@ -55,11 +59,12 @@ def top_100_paid(reports):
 
 
 def top_by_bug_type(reports, bug_type, bug_name, keywords):
+    categories_json["tops_by_bug_type"].append({"name": bug_name, "file": "tops_by_bug_type/TOP{0}.md".format(bug_type)})
     filtered_reports = [report for report in reports if check_title(clean_title(report['title']), keywords)]
     for filtered_report in filtered_reports:
         index.append(filtered_report['link'])
     bug_sorted_reports = list(reversed(sorted(filtered_reports, key=lambda k: (k['upvotes'], k['bounty']))))
-    with open('tops_by_bug_type/TOP{0}.md'.format(bug_type), 'w', encoding='utf-8') as file:
+    with open('docs/tops_by_bug_type/TOP{0}.md'.format(bug_type), 'w', encoding='utf-8') as file:
         file.write('Top {0} reports from HackerOne:\n\n'.format(bug_name))
         for i in range(0, len(bug_sorted_reports)):
             report = bug_sorted_reports[i]
@@ -68,10 +73,11 @@ def top_by_bug_type(reports, bug_type, bug_name, keywords):
 
 
 def top_by_program(reports, program):
+    filename = 'tops_by_program/TOP{0}.md'.format(program.upper().replace('.', '').replace('-', '').replace(' ', '').replace('/', ''))
+    categories_json["tops_by_program"].append({"name": program, "file": filename})
     filtered_reports = [report for report in reports if report['program'] == program]
     bug_sorted_reports = list(reversed(sorted(filtered_reports, key=lambda k: (k['upvotes'], k['bounty']))))
-    with open('tops_by_program/TOP{0}.md'.format(program.upper().replace('.', '').replace('-', '').replace(' ', '').replace('/', '')),
-              'w', encoding='utf-8') as file:
+    with open('docs/' + filename, 'w', encoding='utf-8') as file:
         file.write('Top reports from {0} program at HackerOne:\n\n'.format(program))
         for i in range(0, len(bug_sorted_reports)):
             report = bug_sorted_reports[i]
@@ -142,6 +148,9 @@ def main():
     for program in top_programs[:35]:
         print(program)
         top_by_program(reports, program)
+
+    with open('docs/categories.json', 'w', encoding='utf-8') as f:
+        json.dump(categories_json, f, indent=2, ensure_ascii=False)
 
     count_of_not_indexed = 0
     for report in reports:
