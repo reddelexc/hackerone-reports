@@ -152,25 +152,18 @@
         }
         var content_text = line.replace(/^\d+\.\s/, '');
 
-        var metaParts = content_text.split(' to ');
+        var match = content_text.match(/^\[(.+)\]\((.+)\)\s+to\s+(.+?)\s+[—–-]\s+(.+)$/);
         var reportInfo = '';
         var titlePart = content_text;
 
-        if (metaParts.length >= 2) {
-          var linkAndTitle = metaParts[0];
-          var rest = metaParts.slice(1).join(' to ');
-
-          var dashIdx = rest.lastIndexOf(' - ');
-          if (dashIdx !== -1) {
-            var program = rest.substring(0, dashIdx).trim();
-            var stats = rest.substring(dashIdx + 3).trim();
-            reportInfo = ' <span class="report-meta">to <span class="report-program">' + escapeHtml(program) + '</span> &mdash; ' + formatStats(stats) + '</span>';
-            titlePart = linkAndTitle;
-          }
+        var titleText;
+        if (match) {
+          titleText = '<a href="' + match[2] + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(match[1]) + '</a>';
+          reportInfo = ' <span class="report-meta">to <span class="report-program">' + escapeHtml(match[3]) + '</span> &mdash; ' + formatStats(match[4]) + '</span>';
+        } else {
+          titleText = convertLinks(titlePart);
         }
-
-        var titleHtml = convertLinks(titlePart);
-        result += '<li>' + titleHtml + reportInfo + '</li>';
+        result += '<li>' + titleText + reportInfo + '</li>';
       } else {
         if (inList) {
           result += '</ol>';
