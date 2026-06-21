@@ -1,14 +1,14 @@
 Top reports from Ubiquiti Inc. program at HackerOne:
 
-1. [Privilege Escalation From user to SYSTEM via unauthenticated command execution ](https://hackerone.com/reports/544928) to Ubiquiti Inc. - 552 upvotes, $0
+1. [Privilege Escalation From user to SYSTEM via unauthenticated command execution ](https://hackerone.com/reports/544928) to Ubiquiti Inc. - 553 upvotes, $0
 2. [Privilege-0 to Root Privilege Escalation on EdgeSwitch](https://hackerone.com/reports/511025) to Ubiquiti Inc. - 82 upvotes, $0
 3. [Public Jenkins instance with /script enabled](https://hackerone.com/reports/403402) to Ubiquiti Inc. - 74 upvotes, $0
 4. [Remote Code Execution at http://tw.corp.ubnt.com](https://hackerone.com/reports/269066) to Ubiquiti Inc. - 61 upvotes, $0
 5. [Subdomain takeover on partners.ubnt.com due to non-used CloudFront DNS entry](https://hackerone.com/reports/145224) to Ubiquiti Inc. - 57 upvotes, $0
-6. [Login as root without password on EdgeSwitchX](https://hackerone.com/reports/512958) to Ubiquiti Inc. - 56 upvotes, $0
-7. [CORS Misconfiguration leading to Private Information Disclosure](https://hackerone.com/reports/430249) to Ubiquiti Inc. - 56 upvotes, $0
-8. [Ability to log in as any user without authentication if █████████ is empty](https://hackerone.com/reports/215053) to Ubiquiti Inc. - 54 upvotes, $0
-9. [Authentication bypass on sso.ubnt.com via subdomain takeover of ping.ubnt.com](https://hackerone.com/reports/172137) to Ubiquiti Inc. - 53 upvotes, $0
+6. [CORS Misconfiguration leading to Private Information Disclosure](https://hackerone.com/reports/430249) to Ubiquiti Inc. - 57 upvotes, $0
+7. [Login as root without password on EdgeSwitchX](https://hackerone.com/reports/512958) to Ubiquiti Inc. - 56 upvotes, $0
+8. [Authentication bypass on sso.ubnt.com via subdomain takeover of ping.ubnt.com](https://hackerone.com/reports/172137) to Ubiquiti Inc. - 54 upvotes, $0
+9. [Ability to log in as any user without authentication if █████████ is empty](https://hackerone.com/reports/215053) to Ubiquiti Inc. - 54 upvotes, $0
 10. [Unrestricted File System Access via Twig Template Injection on dev-ucrm-billing-demo.ubnt.com](https://hackerone.com/reports/301406) to Ubiquiti Inc. - 47 upvotes, $0
 11. [Read-Only user can execute arbitraty shell commands on AirOS](https://hackerone.com/reports/139398) to Ubiquiti Inc. - 44 upvotes, $0
 12. [View Only to Root Privilege Escalation on UniFi Protect](https://hackerone.com/reports/825764) to Ubiquiti Inc. - 42 upvotes, $0
@@ -32,10 +32,10 @@ Top reports from Ubiquiti Inc. program at HackerOne:
 30. [Subdomain Takeover (moderator.ubnt.com)](https://hackerone.com/reports/181665) to Ubiquiti Inc. - 19 upvotes, $0
 31. [Read-Only user can execute arbitraty shell commands on AirOS](https://hackerone.com/reports/119317) to Ubiquiti Inc. - 18 upvotes, $0
 32. [Wordpress directories/files visible to internet](https://hackerone.com/reports/201984) to Ubiquiti Inc. - 18 upvotes, $0
-33. [Web Server Predictable Session ID on EdgeSwitch ](https://hackerone.com/reports/774393) to Ubiquiti Inc. - 18 upvotes, $0
-34. [[nutty.ubnt.com] DOM Based XSS nuttyapp github-btn.html](https://hackerone.com/reports/200753) to Ubiquiti Inc. - 17 upvotes, $0
-35. [[account-global.ubnt.com] CRLF Injection](https://hackerone.com/reports/145128) to Ubiquiti Inc. - 17 upvotes, $0
-36. [Two Factor Authentication Bypass](https://hackerone.com/reports/350288) to Ubiquiti Inc. - 17 upvotes, $0
+33. [Two Factor Authentication Bypass](https://hackerone.com/reports/350288) to Ubiquiti Inc. - 18 upvotes, $0
+34. [Web Server Predictable Session ID on EdgeSwitch ](https://hackerone.com/reports/774393) to Ubiquiti Inc. - 18 upvotes, $0
+35. [[nutty.ubnt.com] DOM Based XSS nuttyapp github-btn.html](https://hackerone.com/reports/200753) to Ubiquiti Inc. - 17 upvotes, $0
+36. [[account-global.ubnt.com] CRLF Injection](https://hackerone.com/reports/145128) to Ubiquiti Inc. - 17 upvotes, $0
 37. [SNMP Community String Disclosure to ReadOnly Users on EdgeSwitch](https://hackerone.com/reports/797988) to Ubiquiti Inc. - 17 upvotes, $0
 38. [Privilege Escalation: From operator to ubnt (and root) with non-interactive Session Hijacking](https://hackerone.com/reports/241044) to Ubiquiti Inc. - 16 upvotes, $0
 39. [Stored XSS in dev-ucrm-billing-demo.ubnt.com In Client Custom Attribute ](https://hackerone.com/reports/275515) to Ubiquiti Inc. - 16 upvotes, $0

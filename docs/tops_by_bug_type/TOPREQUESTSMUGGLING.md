@@ -2,7 +2,7 @@ Top Request Smuggling reports from HackerOne:
 
 1. [Mass account takeovers using HTTP Request Smuggling on https://slackb.com/ to steal session cookies](https://hackerone.com/reports/737140) to Slack - 864 upvotes, $0
 2. [Request smuggling on admin-official.line.me could lead to account takeover](https://hackerone.com/reports/740037) to LY Corporation - 563 upvotes, $0
-3. [Stealing Zomato X-Access-Token: in Bulk using HTTP Request Smuggling on api.zomato.com](https://hackerone.com/reports/771666) to Eternal - 558 upvotes, $0
+3. [Stealing Zomato X-Access-Token: in Bulk using HTTP Request Smuggling on api.zomato.com](https://hackerone.com/reports/771666) to Eternal - 559 upvotes, $0
 4. [Password theft login.newrelic.com via Request Smuggling](https://hackerone.com/reports/498052) to New Relic - 490 upvotes, $3000
 5. [HTTP request Smuggling](https://hackerone.com/reports/867952) to Helium - 299 upvotes, $0
 6. [HTTP Request Smuggling via HTTP/2](https://hackerone.com/reports/1211724) to Basecamp - 298 upvotes, $7500
@@ -23,8 +23,8 @@ Top Request Smuggling reports from HackerOne:
 21. [HTTP Request Smuggling on api.flocktory.com Leads to XSS on Customer Sites](https://hackerone.com/reports/955170) to QIWI - 29 upvotes, $0
 22. [HTTP request smuggling on Basecamp 2 allows web cache poisoning](https://hackerone.com/reports/919175) to Basecamp - 28 upvotes, $0
 23. [Request smuggling on ████████](https://hackerone.com/reports/526880) to U.S. Dept Of Defense - 25 upvotes, $0
-24. [http request smuggling in pscp.tv and periscope.tv](https://hackerone.com/reports/713285) to X / xAI - 24 upvotes, $560
-25. [Unauthenticated request smuggling on launchpad.37signals.com](https://hackerone.com/reports/867577) to Basecamp - 24 upvotes, $0
+24. [Unauthenticated request smuggling on launchpad.37signals.com](https://hackerone.com/reports/867577) to Basecamp - 25 upvotes, $0
+25. [http request smuggling in pscp.tv and periscope.tv](https://hackerone.com/reports/713285) to X / xAI - 24 upvotes, $560
 26. [HTTP Request Smuggling Vulnerability Analysis - cURL Security Report](https://hackerone.com/reports/3249936) to curl - 23 upvotes, $0
 27. [Apache HTTP Server: mod_proxy_ajp: Possible request smuggling](https://hackerone.com/reports/1594627) to Internet Bug Bounty - 21 upvotes, $2400
 28. [Request Smuggling vulnerability due a vulnerable skipper reverse proxy running in the environment.](https://hackerone.com/reports/711679) to Razer - 18 upvotes, $375

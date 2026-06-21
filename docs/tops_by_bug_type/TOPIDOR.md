@@ -1,131 +1,131 @@
 Top IDOR reports from HackerOne:
 
 1. [IDOR to add secondary users in www.paypal.com/businessmanage/users/api/v1/users](https://hackerone.com/reports/415081) to PayPal - 781 upvotes, $10500
-2. [IDOR allow access to payments data of any user](https://hackerone.com/reports/751577) to Nord Security - 386 upvotes, $0
-3. [IDOR - Delete all Licenses and certifications from users account using CreateOrUpdateHackerCertification GraphQL query](https://hackerone.com/reports/2122671) to HackerOne - 381 upvotes, $12500
+2. [IDOR allow access to payments data of any user](https://hackerone.com/reports/751577) to Nord Security - 387 upvotes, $0
+3. [IDOR - Delete all Licenses and certifications from users account using CreateOrUpdateHackerCertification GraphQL query](https://hackerone.com/reports/2122671) to HackerOne - 382 upvotes, $12500
 4. [Insecure Direct Object Reference (IDOR) - Delete Campaigns  ](https://hackerone.com/reports/1969141) to HackerOne - 344 upvotes, $0
 5. [idor allows you to delete photos and album from a gallery](https://hackerone.com/reports/380410) to Pornhub - 266 upvotes, $1500
-6. [Singapore - Account Takeover via IDOR](https://hackerone.com/reports/876300) to Starbucks - 257 upvotes, $0
-7. [Insecure Direct Object Reference (IDOR) Allows Viewing Private Report Details via /bugs.json Endpoint](https://hackerone.com/reports/2487889) to HackerOne - 252 upvotes, $0
+6. [Singapore - Account Takeover via IDOR](https://hackerone.com/reports/876300) to Starbucks - 258 upvotes, $0
+7. [Insecure Direct Object Reference (IDOR) Allows Viewing Private Report Details via /bugs.json Endpoint](https://hackerone.com/reports/2487889) to HackerOne - 253 upvotes, $0
 8. [IDOR allows any user to edit others videos](https://hackerone.com/reports/681473) to Pornhub - 248 upvotes, $1500
 9. [IDOR: Account Deletion via Session Misbinding – Attacker Can Delete Victim Account](https://hackerone.com/reports/3154983) to Mozilla - 232 upvotes, $0
-10. [An IDOR that can lead to enumeration of a user and disclosure of email and phone number within cashier](https://hackerone.com/reports/1966006) to Unikrn - 226 upvotes, $3000
-11. [IDOR delete any Tickets on ads.tiktok.com](https://hackerone.com/reports/1475520) to TikTok - 214 upvotes, $0
+10. [An IDOR that can lead to enumeration of a user and disclosure of email and phone number within cashier](https://hackerone.com/reports/1966006) to Unikrn - 227 upvotes, $3000
+11. [IDOR delete any Tickets on ads.tiktok.com](https://hackerone.com/reports/1475520) to TikTok - 215 upvotes, $0
 12. [I.D.O.R To Order,Book,Buy,reserve On YELP FOR FREE (UNAUTHORIZED USE OF OTHER USER'S CREDIT CARD)](https://hackerone.com/reports/391092) to Yelp - 212 upvotes, $0
-13. [IDOR vulnerability in unreleased HackerOne Copilot feature](https://hackerone.com/reports/2218334) to HackerOne - 204 upvotes, $0
-14. [IDOR allows an attacker to modify the links of any user](https://hackerone.com/reports/1661113) to Reddit - 202 upvotes, $0
-15. [IDOR when editing users leads to Account Takeover without User Interaction at CrowdSignal](https://hackerone.com/reports/915114) to Automattic - 200 upvotes, $0
-16. [IDOR on GraphQL queries BillingDocumentDownload and BillDetails](https://hackerone.com/reports/2207248) to Shopify - 176 upvotes, $5000
+13. [IDOR vulnerability in unreleased HackerOne Copilot feature](https://hackerone.com/reports/2218334) to HackerOne - 206 upvotes, $0
+14. [IDOR allows an attacker to modify the links of any user](https://hackerone.com/reports/1661113) to Reddit - 204 upvotes, $0
+15. [IDOR when editing users leads to Account Takeover without User Interaction at CrowdSignal](https://hackerone.com/reports/915114) to Automattic - 201 upvotes, $0
+16. [IDOR on GraphQL queries BillingDocumentDownload and BillDetails](https://hackerone.com/reports/2207248) to Shopify - 178 upvotes, $5000
 17. [IDOR leads to Edit Anyone's Blogs / Websites](https://hackerone.com/reports/974222) to Automattic - 175 upvotes, $0
 18. [IDOR in the https://market.semrush.com/](https://hackerone.com/reports/837400) to Semrush - 171 upvotes, $0
-19. [IDOR Vulnerability at AddTagToAssets operation name](https://hackerone.com/reports/2633771) to HackerOne - 167 upvotes, $0
-20. [Getting access of mod logs from any public or restricted subreddit with IDOR vulnerability](https://hackerone.com/reports/1658418) to Reddit - 153 upvotes, $5000
+19. [IDOR Vulnerability at AddTagToAssets operation name](https://hackerone.com/reports/2633771) to HackerOne - 170 upvotes, $0
+20. [Getting access of mod logs from any public or restricted subreddit with IDOR vulnerability](https://hackerone.com/reports/1658418) to Reddit - 154 upvotes, $5000
 21. [IDOR vulnerability (Price manipulation)](https://hackerone.com/reports/1403176) to Acronis - 145 upvotes, $0
 22. [IDOR and statistics leakage in Orders ](https://hackerone.com/reports/544329) to X / xAI - 140 upvotes, $289
-23. [IDOR at mtnmobad.mtnbusiness.com.ng leads to PII leakage. ](https://hackerone.com/reports/1773609) to MTN Group - 128 upvotes, $0
-24. [IDOR on ads.tiktok.com Allows Unauthorized Product Addition](https://hackerone.com/reports/2848610) to TikTok - 127 upvotes, $500
+23. [IDOR on ads.tiktok.com Allows Unauthorized Product Addition](https://hackerone.com/reports/2848610) to TikTok - 128 upvotes, $500
+24. [IDOR at mtnmobad.mtnbusiness.com.ng leads to PII leakage. ](https://hackerone.com/reports/1773609) to MTN Group - 128 upvotes, $0
 25. [IDOR in https://3d.cs.money/](https://hackerone.com/reports/990878) to CS Money - 126 upvotes, $0
 26. [[api.pandao.ru] IDOR for order delivery address](https://hackerone.com/reports/723461) to Mail.ru - 125 upvotes, $3000
 27. [IDOR on in-app hardcoded zombie endpoint  ](https://hackerone.com/reports/3085742) to Bykea - 125 upvotes, $0
-28. [IDOR to view order information of users and personal information](https://hackerone.com/reports/2524562) to WakaTime - 123 upvotes, $0
+28. [IDOR to view order information of users and personal information](https://hackerone.com/reports/2524562) to WakaTime - 124 upvotes, $0
 29. [IDOR leads to leak analytics of any restaurant](https://hackerone.com/reports/1116387) to Uber - 122 upvotes, $0
 30. [IDOR for changing privacy settings on any memories](https://hackerone.com/reports/1733627) to TikTok - 119 upvotes, $0
 31. [IDOR leading to downloading of any attachment](https://hackerone.com/reports/668439) to BCM Messenger - 114 upvotes, $0
 32. [IDOR leads to See analytics of Loyalty Program in any restaurant.](https://hackerone.com/reports/1137819) to Uber - 111 upvotes, $0
-33. [IDOR on TikTok Ads Endpoint](https://hackerone.com/reports/1527906) to TikTok - 108 upvotes, $0
-34. [IDOR Exposes All Machine Learning Models](https://hackerone.com/reports/2528293) to GitLab - 106 upvotes, $1160
+33. [IDOR Exposes All Machine Learning Models](https://hackerone.com/reports/2528293) to GitLab - 109 upvotes, $1160
+34. [IDOR on TikTok Ads Endpoint](https://hackerone.com/reports/1527906) to TikTok - 108 upvotes, $0
 35. [IDOR allowing to read another user's token on the Social Media Ads service](https://hackerone.com/reports/1464168) to Semrush - 102 upvotes, $0
-36. [IDOR allows an attacker to delete anyone's featured photo.](https://hackerone.com/reports/1608735) to LinkedIn - 95 upvotes, $0
-37. [IDOR Leads To  User Profile Modification https://mtnmobad.mtnbusiness.com.ng/app/updateUser](https://hackerone.com/reports/1714638) to MTN Group - 95 upvotes, $0
-38. [IDOR vulnerability reveals additional information](https://hackerone.com/reports/1770858) to Semrush - 94 upvotes, $0
-39. [IDOR when moving contents at CrowdSignal](https://hackerone.com/reports/915127) to Automattic - 93 upvotes, $0
-40. [[unibet.com] Delete messages via IDOR at /mom-api/messages/unibet_█████████@unibet/](https://hackerone.com/reports/697412) to Kindred Group - 89 upvotes, $0
-41. [CRITICAL Insecure Direct Object Reference (I.D.O.R) - Link Other User's Credit Card ](https://hackerone.com/reports/358143) to Yelp - 86 upvotes, $0
-42. [Access User Tickets via IDOR in [widget.support.my.games]](https://hackerone.com/reports/1005315) to Mail.ru - 86 upvotes, $0
-43. [IDOR - Leaking of team data (name, email, ID, member ID) via POST /api/v1/graphql  `FetchMemberships` operation](https://hackerone.com/reports/2381816) to Tools for Humanity - 85 upvotes, $500
-44. [IDOR vulnerability leads to Deleting message after leaving/getting banned from group using message ID](https://hackerone.com/reports/2028450) to Rocket.Chat - 84 upvotes, $0
-45. [IDOR to view order information of users and personal information](https://hackerone.com/reports/1323406) to Affirm - 83 upvotes, $500
-46. [Cross-Tenant IDOR ( graphql `AddRulesToPixelEvents` query ) allowing to add, update, and delete rules of any Pixel events on the platform](https://hackerone.com/reports/984965) to TikTok - 83 upvotes, $0
-47. [IDOR to make someone attend or leave an event](https://hackerone.com/reports/1734639) to LinkedIn - 80 upvotes, $0
-48. [IDOR on Delete Email address features](https://hackerone.com/reports/2382484) to Mozilla - 79 upvotes, $0
-49. [IDOR via internal_api "users" endpoint ](https://hackerone.com/reports/349291) to New Relic - 77 upvotes, $1500
-50. [IDOR on HackerOne Feedback Review](https://hackerone.com/reports/262661) to HackerOne - 77 upvotes, $0
-51. [Insecure Direct Object Reference (IDOR) in GraphQL deleteProfileImages Mutation](https://hackerone.com/reports/2968039) to Autodesk - 75 upvotes, $0
-52. [IDOR - Scheduled data leak to other accounts By "projectID"](https://hackerone.com/reports/3219944) to SingleStore - 75 upvotes, $0
-53. [Unauthorized Reservation Cancellation Through IDOR Vulnerability](https://hackerone.com/reports/2944357) to Yelp - 74 upvotes, $0
-54. [IDOR the ability to view support tickets of any user on seller platform](https://hackerone.com/reports/1392630) to TikTok - 73 upvotes, $2500
-55. [IDOR leading unauthenticated attacker to download documents discloses PII of users and soldiers via https://www.█████████/Download.aspx?id= [HtUS]](https://hackerone.com/reports/1626508) to U.S. Dept Of Defense - 73 upvotes, $500
-56. [RCE, SQLi, IDOR, Auth Bypass and XSS at [staff.███.edu.eg ]](https://hackerone.com/reports/404874) to ██████ - 72 upvotes, $0
-57. [IDOR vulnerability on profile picture changing mechanism which discloses other user's profile picture.](https://hackerone.com/reports/2024284) to Glassdoor - 71 upvotes, $0
-58. [IDOR allows information disclosure](https://hackerone.com/reports/1816900) to Semrush - 70 upvotes, $0
-59. [Insecure Direct Object Reference (IDOR) Vulnerability in Autodesk User Profile](https://hackerone.com/reports/2965357) to Autodesk - 70 upvotes, $0
-60. [IDOR to delete images from other stores](https://hackerone.com/reports/404797) to Eternal - 66 upvotes, $600
-61. [IDOR in Report CSV export discloses the IDs of Custom Field Attributes of Programs](https://hackerone.com/reports/510759) to HackerOne - 66 upvotes, $0
-62. [Insecure Direct Object Reference allows Crew Invite deletion](https://hackerone.com/reports/1947924) to Rockstar Games - 65 upvotes, $0
-63. [Ability to add arbitrary images/descriptions/titles to ohter people's issues via IDOR on getrevue.co](https://hackerone.com/reports/1096560) to X / xAI - 64 upvotes, $0
-64. [IDOR Vulnerability Allowing Unauthorized Profile Picture Change](https://hackerone.com/reports/2962056) to Autodesk - 64 upvotes, $0
-65. [IDOR with Geolocation data not stripped from images](https://hackerone.com/reports/906907) to IRCCloud - 62 upvotes, $200
-66. [IDOR in marketing calendar tool](https://hackerone.com/reports/797685) to Semrush - 62 upvotes, $0
-67. [IDOR on Tagged People](https://hackerone.com/reports/1555376) to TikTok - 62 upvotes, $0
-68. [IDOR leads to PII Leak](https://hackerone.com/reports/2586584) to U.S. Dept Of Defense - 61 upvotes, $0
-69. [Upload profile photo and  Pets addition - IDOR](https://hackerone.com/reports/2393021) to Mars - 61 upvotes, $0
-70. [IDOR when creating App on [platform.streamlabs.com/api/v1/store/whitelist] with user_id field](https://hackerone.com/reports/983070) to Logitech - 60 upvotes, $0
-71. [Insecure direct Object Reference(Horizontal Escalation)](https://hackerone.com/reports/2322663) to MTN Group - 59 upvotes, $0
-72. [IDOR in Stats API Endpoint Allows Viewing Equity or Net Profit of Any MT Account ](https://hackerone.com/reports/1644436) to EXNESS - 55 upvotes, $0
-73. [IDOR in upload videos of a Channel on https://video.ibm.com](https://hackerone.com/reports/2085185) to IBM - 55 upvotes, $0
-74. [IDOR may allow access to non-public photos](https://hackerone.com/reports/1737943) to Flickr - 55 upvotes, $0
-75. [IDOR in API applications (able to see any API token, leads to account takeover)](https://hackerone.com/reports/1695454) to Automattic - 54 upvotes, $0
-76. [IDOR in backup recovery functionality](https://hackerone.com/reports/1901713) to Acronis - 54 upvotes, $0
-77. [Insecure Direct Object Reference Protection bypass by changing HTTP method in IBM Your Learning endpoint. ](https://hackerone.com/reports/2456603) to IBM - 53 upvotes, $0
-78. [CSRF combined with IDOR within Document Converter exposes files](https://hackerone.com/reports/398316) to Open-Xchange - 52 upvotes, $500
-79. [IDOR to delete profile images in https:███████](https://hackerone.com/reports/2213900) to U.S. Dept Of Defense - 50 upvotes, $0
-80. [Cross-repository IDOR in `/settings/security_analysis/bypass_reviewers` allows unauthorized delegated bypass reviewer modification](https://hackerone.com/reports/3560256) to GitHub - 50 upvotes, $0
-81. [IDOR of users ](https://hackerone.com/reports/743687) to Mail.ru - 48 upvotes, $500
-82. [IDOR in semrush academy](https://hackerone.com/reports/783708) to Semrush - 48 upvotes, $0
-83. [IDOR when editing email leads to Account Takeover on Atavist](https://hackerone.com/reports/950881) to Automattic - 48 upvotes, $0
+36. [IDOR Leads To  User Profile Modification https://mtnmobad.mtnbusiness.com.ng/app/updateUser](https://hackerone.com/reports/1714638) to MTN Group - 96 upvotes, $0
+37. [IDOR allows an attacker to delete anyone's featured photo.](https://hackerone.com/reports/1608735) to LinkedIn - 95 upvotes, $0
+38. [Cross-repository IDOR in `/settings/security_analysis/bypass_reviewers` allows unauthorized delegated bypass reviewer modification](https://hackerone.com/reports/3560256) to GitHub - 95 upvotes, $0
+39. [IDOR vulnerability reveals additional information](https://hackerone.com/reports/1770858) to Semrush - 94 upvotes, $0
+40. [IDOR when moving contents at CrowdSignal](https://hackerone.com/reports/915127) to Automattic - 93 upvotes, $0
+41. [[unibet.com] Delete messages via IDOR at /mom-api/messages/unibet_█████████@unibet/](https://hackerone.com/reports/697412) to Kindred Group - 89 upvotes, $0
+42. [CRITICAL Insecure Direct Object Reference (I.D.O.R) - Link Other User's Credit Card ](https://hackerone.com/reports/358143) to Yelp - 86 upvotes, $0
+43. [Access User Tickets via IDOR in [widget.support.my.games]](https://hackerone.com/reports/1005315) to Mail.ru - 86 upvotes, $0
+44. [IDOR - Leaking of team data (name, email, ID, member ID) via POST /api/v1/graphql  `FetchMemberships` operation](https://hackerone.com/reports/2381816) to Tools for Humanity - 85 upvotes, $500
+45. [IDOR to view order information of users and personal information](https://hackerone.com/reports/1323406) to Affirm - 84 upvotes, $500
+46. [IDOR vulnerability leads to Deleting message after leaving/getting banned from group using message ID](https://hackerone.com/reports/2028450) to Rocket.Chat - 84 upvotes, $0
+47. [Cross-Tenant IDOR ( graphql `AddRulesToPixelEvents` query ) allowing to add, update, and delete rules of any Pixel events on the platform](https://hackerone.com/reports/984965) to TikTok - 83 upvotes, $0
+48. [IDOR on Delete Email address features](https://hackerone.com/reports/2382484) to Mozilla - 80 upvotes, $0
+49. [IDOR to make someone attend or leave an event](https://hackerone.com/reports/1734639) to LinkedIn - 80 upvotes, $0
+50. [IDOR via internal_api "users" endpoint ](https://hackerone.com/reports/349291) to New Relic - 77 upvotes, $1500
+51. [IDOR on HackerOne Feedback Review](https://hackerone.com/reports/262661) to HackerOne - 77 upvotes, $0
+52. [IDOR - Scheduled data leak to other accounts By "projectID"](https://hackerone.com/reports/3219944) to SingleStore - 76 upvotes, $0
+53. [Unauthorized Reservation Cancellation Through IDOR Vulnerability](https://hackerone.com/reports/2944357) to Yelp - 75 upvotes, $0
+54. [Insecure Direct Object Reference (IDOR) in GraphQL deleteProfileImages Mutation](https://hackerone.com/reports/2968039) to Autodesk - 75 upvotes, $0
+55. [IDOR the ability to view support tickets of any user on seller platform](https://hackerone.com/reports/1392630) to TikTok - 73 upvotes, $2500
+56. [IDOR leading unauthenticated attacker to download documents discloses PII of users and soldiers via https://www.█████████/Download.aspx?id= [HtUS]](https://hackerone.com/reports/1626508) to U.S. Dept Of Defense - 73 upvotes, $500
+57. [RCE, SQLi, IDOR, Auth Bypass and XSS at [staff.███.edu.eg ]](https://hackerone.com/reports/404874) to ██████ - 72 upvotes, $0
+58. [IDOR vulnerability on profile picture changing mechanism which discloses other user's profile picture.](https://hackerone.com/reports/2024284) to Glassdoor - 71 upvotes, $0
+59. [IDOR allows information disclosure](https://hackerone.com/reports/1816900) to Semrush - 70 upvotes, $0
+60. [Insecure Direct Object Reference (IDOR) Vulnerability in Autodesk User Profile](https://hackerone.com/reports/2965357) to Autodesk - 70 upvotes, $0
+61. [IDOR to delete images from other stores](https://hackerone.com/reports/404797) to Eternal - 66 upvotes, $600
+62. [IDOR in Report CSV export discloses the IDs of Custom Field Attributes of Programs](https://hackerone.com/reports/510759) to HackerOne - 66 upvotes, $0
+63. [Insecure Direct Object Reference allows Crew Invite deletion](https://hackerone.com/reports/1947924) to Rockstar Games - 65 upvotes, $0
+64. [Ability to add arbitrary images/descriptions/titles to ohter people's issues via IDOR on getrevue.co](https://hackerone.com/reports/1096560) to X / xAI - 64 upvotes, $0
+65. [IDOR Vulnerability Allowing Unauthorized Profile Picture Change](https://hackerone.com/reports/2962056) to Autodesk - 64 upvotes, $0
+66. [IDOR in marketing calendar tool](https://hackerone.com/reports/797685) to Semrush - 63 upvotes, $0
+67. [IDOR with Geolocation data not stripped from images](https://hackerone.com/reports/906907) to IRCCloud - 62 upvotes, $200
+68. [IDOR on Tagged People](https://hackerone.com/reports/1555376) to TikTok - 62 upvotes, $0
+69. [IDOR leads to PII Leak](https://hackerone.com/reports/2586584) to U.S. Dept Of Defense - 62 upvotes, $0
+70. [Upload profile photo and  Pets addition - IDOR](https://hackerone.com/reports/2393021) to Mars - 62 upvotes, $0
+71. [Insecure direct Object Reference(Horizontal Escalation)](https://hackerone.com/reports/2322663) to MTN Group - 62 upvotes, $0
+72. [IDOR when creating App on [platform.streamlabs.com/api/v1/store/whitelist] with user_id field](https://hackerone.com/reports/983070) to Logitech - 60 upvotes, $0
+73. [IDOR in API applications (able to see any API token, leads to account takeover)](https://hackerone.com/reports/1695454) to Automattic - 55 upvotes, $0
+74. [IDOR in Stats API Endpoint Allows Viewing Equity or Net Profit of Any MT Account ](https://hackerone.com/reports/1644436) to EXNESS - 55 upvotes, $0
+75. [IDOR in upload videos of a Channel on https://video.ibm.com](https://hackerone.com/reports/2085185) to IBM - 55 upvotes, $0
+76. [IDOR may allow access to non-public photos](https://hackerone.com/reports/1737943) to Flickr - 55 upvotes, $0
+77. [IDOR in backup recovery functionality](https://hackerone.com/reports/1901713) to Acronis - 55 upvotes, $0
+78. [Insecure Direct Object Reference Protection bypass by changing HTTP method in IBM Your Learning endpoint. ](https://hackerone.com/reports/2456603) to IBM - 53 upvotes, $0
+79. [CSRF combined with IDOR within Document Converter exposes files](https://hackerone.com/reports/398316) to Open-Xchange - 52 upvotes, $500
+80. [IDOR to delete profile images in https:███████](https://hackerone.com/reports/2213900) to U.S. Dept Of Defense - 50 upvotes, $0
+81. [IDOR when editing email leads to Account Takeover on Atavist](https://hackerone.com/reports/950881) to Automattic - 49 upvotes, $0
+82. [IDOR of users ](https://hackerone.com/reports/743687) to Mail.ru - 48 upvotes, $500
+83. [IDOR in semrush academy](https://hackerone.com/reports/783708) to Semrush - 48 upvotes, $0
 84. [IDOR - Delete technical skill assessment result & Gained Badges result of any user](https://hackerone.com/reports/1592587) to LinkedIn - 48 upvotes, $0
-85. [IDOR Vulnerability in Banner Deletion ](https://hackerone.com/reports/3401612) to Revive Adserver - 47 upvotes, $0
-86. [IDOR on www.acronis.com API lead to steal private business user information](https://hackerone.com/reports/1182465) to Acronis - 46 upvotes, $100
-87. [IDOR lets a malicious user reveal the unpinned achievement badges of any Reddit user](https://hackerone.com/reports/2618486) to Reddit - 45 upvotes, $0
+85. [IDOR Vulnerability in Banner Deletion ](https://hackerone.com/reports/3401612) to Revive Adserver - 48 upvotes, $0
+86. [IDOR lets a malicious user reveal the unpinned achievement badges of any Reddit user](https://hackerone.com/reports/2618486) to Reddit - 47 upvotes, $0
+87. [IDOR on www.acronis.com API lead to steal private business user information](https://hackerone.com/reports/1182465) to Acronis - 46 upvotes, $100
 88. [IDOR: leak buyer info & Publish/Hide foreign comments](https://hackerone.com/reports/1410498) to Judge.me  - 44 upvotes, $1250
 89. [China - IDOR on Reservation Staging/Non Production Site - https://reservation.stg.starbucks.com.cn](https://hackerone.com/reports/715054) to Starbucks - 44 upvotes, $0
 90. [IDOR in sending support email upon Verifying user business domain](https://hackerone.com/reports/592090) to Trustpilot - 43 upvotes, $0
 91. [Sensei LMS IDOR to send message](https://hackerone.com/reports/1592596) to Automattic - 43 upvotes, $0
-92. [IDOR to pay less for coin purchases on oauth.reddit.com via /api/v2/gold/paypal/create_coin_purchase_order in `order_id` parameter ](https://hackerone.com/reports/1213765) to Reddit - 41 upvotes, $500
+92. [IDOR to pay less for coin purchases on oauth.reddit.com via /api/v2/gold/paypal/create_coin_purchase_order in `order_id` parameter ](https://hackerone.com/reports/1213765) to Reddit - 42 upvotes, $500
 93. [IDOR in family pairing API](https://hackerone.com/reports/1586950) to TikTok - 41 upvotes, $0
 94. [IDOR in one subdomain of █████████ -\> change information of pets without athorization!](https://hackerone.com/reports/2073950) to Mars - 41 upvotes, $0
 95. [IDOR to account takeover on POST to █████████ by changing member_id parameter](https://hackerone.com/reports/2132183) to Mars - 40 upvotes, $0
 96. [IDOR  leads to view other user Biographical details (Possible PII LEAK)](https://hackerone.com/reports/2586641) to U.S. Dept Of Defense - 40 upvotes, $0
 97. [IDOR to cancel any table booking and leak sensitive information such as email,mobile number,uuid](https://hackerone.com/reports/265258) to Eternal - 39 upvotes, $250
-98. [\<- Critical IDOR vulnerability in socialclub allow to insert and delete comments as another user and it discloses sensitive information -\>](https://hackerone.com/reports/204292) to Rockstar Games - 38 upvotes, $0
+98. [\<- Critical IDOR vulnerability in socialclub allow to insert and delete comments as another user and it discloses sensitive information -\>](https://hackerone.com/reports/204292) to Rockstar Games - 39 upvotes, $0
 99. [IDOR in TalentMAP API can be abused to enumerate personal information of all the users](https://hackerone.com/reports/1848176) to U.S. Department of State - 38 upvotes, $0
 100. [IDOR : Modify other users demographic details](https://hackerone.com/reports/2586662) to U.S. Dept Of Defense - 38 upvotes, $0
 101. [IDOR Payments Status](https://hackerone.com/reports/1538669) to Omise - 37 upvotes, $100
-102. [IDOR в списке пользователей по домену в relap.io](https://hackerone.com/reports/739752) to Mail.ru - 36 upvotes, $0
-103. [Idor on the DELETE /comments/](https://hackerone.com/reports/861849) to RGhost - 36 upvotes, $0
-104. [IDOR bug to See hidden slowvote of any user even when you dont have access right](https://hackerone.com/reports/661978) to Phabricator - 35 upvotes, $300
-105. [IDOR in changing shared file name](https://hackerone.com/reports/547663) to Trint Ltd - 35 upvotes, $0
-106. [Thailand - Insecure Direct Object Reference permits an unauthorized user to transfer funds from a victim using only the victims Starbucks card](https://hackerone.com/reports/766437) to Starbucks - 35 upvotes, $0
-107. [IDOR to view User Order Information](https://hackerone.com/reports/287789) to BOHEMIA INTERACTIVE a.s. - 34 upvotes, $0
-108. [[api.pandao.ru] IDOR позволяет изменять адрес любого пользователя](https://hackerone.com/reports/484339) to Mail.ru - 33 upvotes, $1000
-109. [IDOR in "external status check" API leaks data about any status check on the instance](https://hackerone.com/reports/1372216) to GitLab - 33 upvotes, $610
+102. [IDOR: autotranslate.translateMessage Full Message Content Leak](https://hackerone.com/reports/3713682) to Rocket.Chat - 37 upvotes, $0
+103. [IDOR в списке пользователей по домену в relap.io](https://hackerone.com/reports/739752) to Mail.ru - 36 upvotes, $0
+104. [Idor on the DELETE /comments/](https://hackerone.com/reports/861849) to RGhost - 36 upvotes, $0
+105. [IDOR bug to See hidden slowvote of any user even when you dont have access right](https://hackerone.com/reports/661978) to Phabricator - 35 upvotes, $300
+106. [IDOR in changing shared file name](https://hackerone.com/reports/547663) to Trint Ltd - 35 upvotes, $0
+107. [Thailand - Insecure Direct Object Reference permits an unauthorized user to transfer funds from a victim using only the victims Starbucks card](https://hackerone.com/reports/766437) to Starbucks - 35 upvotes, $0
+108. [IDOR to view User Order Information](https://hackerone.com/reports/287789) to BOHEMIA INTERACTIVE a.s. - 34 upvotes, $0
+109. [[api.pandao.ru] IDOR позволяет изменять адрес любого пользователя](https://hackerone.com/reports/484339) to Mail.ru - 33 upvotes, $1000
 110. [IDOR in editing courses](https://hackerone.com/reports/227522) to Radancy - 33 upvotes, $0
 111. [IDOR on deleting drafts on https://apps.topcoder.com/wiki/users/viewmydrafts.action via discardDraftId parameter](https://hackerone.com/reports/868590) to Lab45 - 33 upvotes, $0
 112. [IDOR смена email пользователя через Ситимобил Бизнес](https://hackerone.com/reports/971422) to Mail.ru - 33 upvotes, $0
 113. [No error thrown when IDOR attempted while editing address](https://hackerone.com/reports/1085743) to OpenMage - 33 upvotes, $0
-114. [Ability to read any emails through IDOR on Nextcloud Mail](https://hackerone.com/reports/1784681) to Nextcloud - 33 upvotes, $0
-115. [IDOR - disclosure of private videos - /api_android_v3/getUserVideos](https://hackerone.com/reports/186279) to Pornhub - 32 upvotes, $1500
-116. [IDOR [partners.shopify.com] - User with ONLY Manage apps permission is able to get shops info and staff names from inside the shop](https://hackerone.com/reports/243943) to Shopify - 32 upvotes, $500
-117. [[www.zomato.com] IDOR - Leaking all Personal Details of all Zomato Users through an endpoint](https://hackerone.com/reports/269937) to Eternal - 32 upvotes, $0
-118. [IDOR on Program Visibilty (Revealed / Concealed) against other team members](https://hackerone.com/reports/291721) to HackerOne - 32 upvotes, $0
-119. [IDOR in Bugs overview enables attacker to determine the date range a hackathon was active](https://hackerone.com/reports/663431) to HackerOne - 32 upvotes, $0
-120. [IDOR on ██████ via direct photo URL leads to unauthorized access to deleted and other users' photos](https://hackerone.com/reports/3518758) to Nextcloud - 32 upvotes, $0
-121. [Vimeo.com Insecure Direct Object References Reset Password](https://hackerone.com/reports/42587) to Vimeo - 31 upvotes, $0
-122. [I.D.O.R TO EDIT ALL USER'S CREDIT CARD INFORMATION+(Partial credit card info disclosure)](https://hackerone.com/reports/361984) to Yelp - 31 upvotes, $0
-123. [IDOR Causing Deletion of any account](https://hackerone.com/reports/156537) to Ubiquiti Inc. - 30 upvotes, $0
-124. [IDOR on TikTok Seller](https://hackerone.com/reports/1509057) to TikTok - 30 upvotes, $0
-125. [IDOR Leads To Account Takeover Without User Interaction](https://hackerone.com/reports/1272478) to MTN Group - 30 upvotes, $0
-126. [IDOR: autotranslate.translateMessage Full Message Content Leak](https://hackerone.com/reports/3713682) to Rocket.Chat - 30 upvotes, $0
+114. [IDOR in "external status check" API leaks data about any status check on the instance](https://hackerone.com/reports/1372216) to GitLab - 33 upvotes, $0
+115. [Ability to read any emails through IDOR on Nextcloud Mail](https://hackerone.com/reports/1784681) to Nextcloud - 33 upvotes, $0
+116. [IDOR on ██████ via direct photo URL leads to unauthorized access to deleted and other users' photos](https://hackerone.com/reports/3518758) to Nextcloud - 33 upvotes, $0
+117. [IDOR - disclosure of private videos - /api_android_v3/getUserVideos](https://hackerone.com/reports/186279) to Pornhub - 32 upvotes, $1500
+118. [IDOR [partners.shopify.com] - User with ONLY Manage apps permission is able to get shops info and staff names from inside the shop](https://hackerone.com/reports/243943) to Shopify - 32 upvotes, $500
+119. [[www.zomato.com] IDOR - Leaking all Personal Details of all Zomato Users through an endpoint](https://hackerone.com/reports/269937) to Eternal - 32 upvotes, $0
+120. [IDOR on Program Visibilty (Revealed / Concealed) against other team members](https://hackerone.com/reports/291721) to HackerOne - 32 upvotes, $0
+121. [IDOR in Bugs overview enables attacker to determine the date range a hackathon was active](https://hackerone.com/reports/663431) to HackerOne - 32 upvotes, $0
+122. [Vimeo.com Insecure Direct Object References Reset Password](https://hackerone.com/reports/42587) to Vimeo - 31 upvotes, $0
+123. [I.D.O.R TO EDIT ALL USER'S CREDIT CARD INFORMATION+(Partial credit card info disclosure)](https://hackerone.com/reports/361984) to Yelp - 31 upvotes, $0
+124. [IDOR Leads To Account Takeover Without User Interaction](https://hackerone.com/reports/1272478) to MTN Group - 31 upvotes, $0
+125. [IDOR Causing Deletion of any account](https://hackerone.com/reports/156537) to Ubiquiti Inc. - 30 upvotes, $0
+126. [IDOR on TikTok Seller](https://hackerone.com/reports/1509057) to TikTok - 30 upvotes, $0
 127. [IDOR expire other user sessions](https://hackerone.com/reports/56511) to Shopify - 29 upvotes, $1000
 128. [█████████ IDOR leads to disclosure of PHI/PII](https://hackerone.com/reports/1085782) to U.S. Dept Of Defense - 29 upvotes, $0
 129. [Corss-Tenant IDOR on Business allowing escalation privilege, invitation takeover, and edition of any other Businesses' employees](https://hackerone.com/reports/1063022) to Uber - 29 upvotes, $0
@@ -135,8 +135,8 @@ Top IDOR reports from HackerOne:
 133. [IDOR  [mtnmobad.mtnbusiness.com.ng]](https://hackerone.com/reports/1698006) to MTN Group - 28 upvotes, $0
 134. [IDOR in activateFuelCard id allows bulk lookup of driver uuids](https://hackerone.com/reports/254151) to Uber - 27 upvotes, $0
 135. [Thailand - IDOR on www.starbuckscardth.in.th: A logged in user could view any Thailand Starbucks card balance if they knew that Starbucks card number](https://hackerone.com/reports/858662) to Starbucks - 27 upvotes, $0
-136. [IDOR - Downloading all attachements if having access to a shared link](https://hackerone.com/reports/194790) to Open-Xchange - 26 upvotes, $888
-137. [IDOR to Account Takeover on https://████/index.html](https://hackerone.com/reports/969223) to U.S. Dept Of Defense - 26 upvotes, $0
+136. [IDOR to Account Takeover on https://████/index.html](https://hackerone.com/reports/969223) to U.S. Dept Of Defense - 27 upvotes, $0
+137. [IDOR - Downloading all attachements if having access to a shared link](https://hackerone.com/reports/194790) to Open-Xchange - 26 upvotes, $888
 138. [IDOR while uploading ████ attachments at [█████████]](https://hackerone.com/reports/1196976) to U.S. Dept Of Defense - 26 upvotes, $0
 139. [Remove Every User, Admin, And Owner Out Of Their Teams on developers.mtn.com via IDOR + Information Disclosure](https://hackerone.com/reports/1448550) to MTN Group - 26 upvotes, $0
 140. [[app.mavenlink.com] IDOR to view sensitive information](https://hackerone.com/reports/283419) to Mavenlink - 25 upvotes, $0
@@ -165,22 +165,22 @@ Top IDOR reports from HackerOne:
 163. [IDOR on update user preferences](https://hackerone.com/reports/854290) to Palo Alto Software - 19 upvotes, $0
 164. [IDOR редактирование любого вишлиста](https://hackerone.com/reports/736065) to QIWI - 19 upvotes, $0
 165. [IDOR in https://moneybird.com/user/accountant_company/edit(change company name)](https://hackerone.com/reports/726163) to Moneybird - 19 upvotes, $0
-166. [View & add to cart unlisted items via IDOR](https://hackerone.com/reports/344284) to Instacart - 18 upvotes, $0
-167. [IDOR](https://hackerone.com/reports/389250) to U.S. Dept Of Defense - 18 upvotes, $0
-168. [IDOR - Access to private video thumbnails even if video requires password authentication](https://hackerone.com/reports/197114) to Pornhub - 17 upvotes, $0
-169. [IDOR at training.smartpay.gsa.gov/reports/quizzes-taken-by-user](https://hackerone.com/reports/1118638) to U.S. General Services Administration - 17 upvotes, $0
-170. [IDOR when editing email leads to Mass Full ATOs (Account Takeovers) without user interaction on https://██████/](https://hackerone.com/reports/1687415) to U.S. Dept Of Defense - 17 upvotes, $0
-171. [Unauth IDOR to mass account takeover without user interaction on the ███████ (https://███████.edu/)](https://hackerone.com/reports/685338) to U.S. Dept Of Defense - 17 upvotes, $0
-172. [IDOR of contracts on dictor.mail.ru](https://hackerone.com/reports/923851) to Mail.ru - 16 upvotes, $150
-173. [IDOR- Activate Mopub on different organizations- steal api token- Fabric.io](https://hackerone.com/reports/95552) to X / xAI - 16 upvotes, $0
-174. [[www.zomato.com] IDOR - Delete/Deactivate ANY/ALL Promos through a Post Request at **clients/promoDataHandler.php**](https://hackerone.com/reports/264754) to Eternal - 16 upvotes, $0
-175. [relap.io IDOR](https://hackerone.com/reports/749887) to Mail.ru - 16 upvotes, $0
-176. [IDOR Allows Viewer to Delete Bin's Files](https://hackerone.com/reports/1074420) to Lark Technologies - 16 upvotes, $0
-177. [IDOR - Folder names disclosure inside a domain, regardless of user](https://hackerone.com/reports/194574) to Open-Xchange - 15 upvotes, $250
-178. [IDOR in merchant.rbmonkey.com allows deleting eShops of another user](https://hackerone.com/reports/281296) to RBKmoney - 15 upvotes, $0
-179. [idor leads to leak order information](https://hackerone.com/reports/791289) to Mail.ru - 15 upvotes, $0
-180. [IDOR + Account Takeover  [UNAUTHENTICATED]](https://hackerone.com/reports/1004750) to U.S. Dept Of Defense - 15 upvotes, $0
-181. [IDOR Exposes PII of Tens of Thousands of Users and Supervisors](https://hackerone.com/reports/2967032) to U.S. Dept Of Defense - 15 upvotes, $0
+166. [Unauth IDOR to mass account takeover without user interaction on the ███████ (https://███████.edu/)](https://hackerone.com/reports/685338) to U.S. Dept Of Defense - 19 upvotes, $0
+167. [View & add to cart unlisted items via IDOR](https://hackerone.com/reports/344284) to Instacart - 18 upvotes, $0
+168. [IDOR](https://hackerone.com/reports/389250) to U.S. Dept Of Defense - 18 upvotes, $0
+169. [IDOR Exposes PII of Tens of Thousands of Users and Supervisors](https://hackerone.com/reports/2967032) to U.S. Dept Of Defense - 18 upvotes, $0
+170. [IDOR - Access to private video thumbnails even if video requires password authentication](https://hackerone.com/reports/197114) to Pornhub - 17 upvotes, $0
+171. [IDOR at training.smartpay.gsa.gov/reports/quizzes-taken-by-user](https://hackerone.com/reports/1118638) to U.S. General Services Administration - 17 upvotes, $0
+172. [IDOR when editing email leads to Mass Full ATOs (Account Takeovers) without user interaction on https://██████/](https://hackerone.com/reports/1687415) to U.S. Dept Of Defense - 17 upvotes, $0
+173. [IDOR of contracts on dictor.mail.ru](https://hackerone.com/reports/923851) to Mail.ru - 16 upvotes, $150
+174. [IDOR- Activate Mopub on different organizations- steal api token- Fabric.io](https://hackerone.com/reports/95552) to X / xAI - 16 upvotes, $0
+175. [[www.zomato.com] IDOR - Delete/Deactivate ANY/ALL Promos through a Post Request at **clients/promoDataHandler.php**](https://hackerone.com/reports/264754) to Eternal - 16 upvotes, $0
+176. [relap.io IDOR](https://hackerone.com/reports/749887) to Mail.ru - 16 upvotes, $0
+177. [IDOR Allows Viewer to Delete Bin's Files](https://hackerone.com/reports/1074420) to Lark Technologies - 16 upvotes, $0
+178. [IDOR - Folder names disclosure inside a domain, regardless of user](https://hackerone.com/reports/194574) to Open-Xchange - 15 upvotes, $250
+179. [IDOR in merchant.rbmonkey.com allows deleting eShops of another user](https://hackerone.com/reports/281296) to RBKmoney - 15 upvotes, $0
+180. [idor leads to leak order information](https://hackerone.com/reports/791289) to Mail.ru - 15 upvotes, $0
+181. [IDOR + Account Takeover  [UNAUTHENTICATED]](https://hackerone.com/reports/1004750) to U.S. Dept Of Defense - 15 upvotes, $0
 182. [[NR Alerts/Synthetics] IDOR through /policies.json with Synthetics exposes full name of other NR users](https://hackerone.com/reports/419875) to New Relic - 14 upvotes, $1500
 183. [IDOR - Leaking other user's folder names from /appsuite/api/import?action=ICA](https://hackerone.com/reports/199281) to Open-Xchange - 14 upvotes, $300
 184. [IDOR allow to extract all registered email](https://hackerone.com/reports/302485) to Open-Xchange - 14 upvotes, $300
@@ -204,10 +204,10 @@ Top IDOR reports from HackerOne:
 202. [Insecure direct object reference - have access to deleted DM's](https://hackerone.com/reports/52646) to X / xAI - 10 upvotes, $0
 203. [IDOR in tender.mail.ru leading to Information Disclosure](https://hackerone.com/reports/226640) to Mail.ru - 10 upvotes, $0
 204. [IDOR in treat subscriptions](https://hackerone.com/reports/313050) to Eternal - 10 upvotes, $0
-205. [Generating Unlimited Free Travel Gift Invites | IDOR](https://hackerone.com/reports/49499) to Airbnb - 9 upvotes, $0
-206. [[https://city-mobil.ru/taxiserv] IDOR leads to information disclosure](https://hackerone.com/reports/746513) to Mail.ru - 9 upvotes, $0
-207. [idor on upload profile functionality ](https://hackerone.com/reports/741683) to U.S. Dept Of Defense - 9 upvotes, $0
-208. [Full Account Take-Over of ████████ Members via IDOR](https://hackerone.com/reports/847452) to U.S. Dept Of Defense - 9 upvotes, $0
+205. [Full Account Take-Over of ████████ Members via IDOR](https://hackerone.com/reports/847452) to U.S. Dept Of Defense - 10 upvotes, $0
+206. [Generating Unlimited Free Travel Gift Invites | IDOR](https://hackerone.com/reports/49499) to Airbnb - 9 upvotes, $0
+207. [[https://city-mobil.ru/taxiserv] IDOR leads to information disclosure](https://hackerone.com/reports/746513) to Mail.ru - 9 upvotes, $0
+208. [idor on upload profile functionality ](https://hackerone.com/reports/741683) to U.S. Dept Of Defense - 9 upvotes, $0
 209. [IDOR zakazaka (состояние заказа и перезаказ)](https://hackerone.com/reports/956799) to Mail.ru - 9 upvotes, $0
 210. [IDOR to delete test/poll/quiz on relap.io](https://hackerone.com/reports/1107126) to Mail.ru - 9 upvotes, $0
 211. [IDOR at https://demo.sftool.gov/TwsHome/ScorecardManage/ via scorecard name](https://hackerone.com/reports/1472721) to U.S. General Services Administration - 9 upvotes, $0

@@ -9,7 +9,7 @@ Top Web Cache reports from HackerOne:
 7. [web cache deception in https://tradus.com lead to name/user_id enumeration and other info](https://hackerone.com/reports/537564) to OLX - 63 upvotes, $0
 8. [Web Cache Deception](https://hackerone.com/reports/2265400) to Glassdoor - 62 upvotes, $0
 9. [[https://www.glassdoor.com] -  Web Cache Deception Leads to gdtoken Disclosure ](https://hackerone.com/reports/1343086) to Glassdoor - 60 upvotes, $0
-10. [CSRF-tokens on pages without no-cache headers, resulting in ATO when using CloudFlare proxy (Web Cache Deception)](https://hackerone.com/reports/260697) to Discourse - 56 upvotes, $0
+10. [CSRF-tokens on pages without no-cache headers, resulting in ATO when using CloudFlare proxy (Web Cache Deception)](https://hackerone.com/reports/260697) to Discourse - 57 upvotes, $0
 11. [Web Cache Deception Attack (XSS)](https://hackerone.com/reports/394016) to Discourse - 50 upvotes, $256
 12. [Shopify.com Web Cache Deception vulnerability leads to personal information and CSRF tokens leakage](https://hackerone.com/reports/1271944) to Shopify - 47 upvotes, $800
 13. [Web cache deception attack on https://open.vanillaforums.com/messages/all](https://hackerone.com/reports/593712) to Vanilla - 47 upvotes, $150
@@ -24,7 +24,7 @@ Top Web Cache reports from HackerOne:
 22. [https://help.nextcloud.com::: Web cache poisoning attack](https://hackerone.com/reports/429747) to Nextcloud - 25 upvotes, $0
 23. [Web cache information leakage at sbermarket.ru](https://hackerone.com/reports/893353) to Mail.ru - 22 upvotes, $400
 24. [[*.rocketbank.ru] Web Cache Deception & XSS](https://hackerone.com/reports/415168) to QIWI - 21 upvotes, $0
-25. [Several domains on kaspersky.com are vulnerable to Web Cache Deception attack](https://hackerone.com/reports/1185028) to Kaspersky - 19 upvotes, $0
+25. [Several domains on kaspersky.com are vulnerable to Web Cache Deception attack](https://hackerone.com/reports/1185028) to Kaspersky - 20 upvotes, $0
 26. [Web Cache Poisoning leading to DoS](https://hackerone.com/reports/1346618) to U.S. General Services Administration - 19 upvotes, $0
 27. [Web Cache Poisoning](https://hackerone.com/reports/534297) to Mail.ru - 17 upvotes, $0
 28. [[okmedia.insideok.ru] Web Cache Poisoing & XSS](https://hackerone.com/reports/550266) to ok.ru - 14 upvotes, $0

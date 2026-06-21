@@ -18,12 +18,12 @@ Top reports from h1-ctf program at HackerOne:
 16. [[H1-2006 2020] Flag for H1-CTF](https://hackerone.com/reports/888141) to h1-ctf - 18 upvotes, $0
 17. [[h1-415 2020] h1ctf{y3s_1m_c0sm1c_n0w}](https://hackerone.com/reports/781253) to h1-ctf - 17 upvotes, $0
 18. [[h1-415 2020] H1-415 CTF Writeup by W--](https://hackerone.com/reports/780285) to h1-ctf - 17 upvotes, $0
-19. [[H1-2006 2020] [Multiple Vulnerability] CTF Writeup - @abdilahrf_](https://hackerone.com/reports/888484) to h1-ctf - 16 upvotes, $0
-20. [CCC H1 June 2021 CTF Writeup](https://hackerone.com/reports/1217114) to h1-ctf - 16 upvotes, $0
-21. [Solution for hackyholiday](https://hackerone.com/reports/1065495) to h1-ctf - 15 upvotes, $500
-22. [[h1-415 2020] My writeup on how to retrieve the special secret document](https://hackerone.com/reports/776684) to h1-ctf - 15 upvotes, $0
-23. [100K CTF's Writeup](https://hackerone.com/reports/1216591) to h1-ctf - 15 upvotes, $0
-24. [HackerOne’s 100K CTF Writeup](https://hackerone.com/reports/1218708) to h1-ctf - 15 upvotes, $0
+19. [[h1-415 2020] My writeup on how to retrieve the special secret document](https://hackerone.com/reports/776684) to h1-ctf - 16 upvotes, $0
+20. [[H1-2006 2020] [Multiple Vulnerability] CTF Writeup - @abdilahrf_](https://hackerone.com/reports/888484) to h1-ctf - 16 upvotes, $0
+21. [CCC H1 June 2021 CTF Writeup](https://hackerone.com/reports/1217114) to h1-ctf - 16 upvotes, $0
+22. [HackerOne’s 100K CTF Writeup](https://hackerone.com/reports/1218708) to h1-ctf - 16 upvotes, $0
+23. [Solution for hackyholiday](https://hackerone.com/reports/1065495) to h1-ctf - 15 upvotes, $500
+24. [100K CTF's Writeup](https://hackerone.com/reports/1216591) to h1-ctf - 15 upvotes, $0
 25. [ccc ctf ](https://hackerone.com/reports/1216085) to h1-ctf - 13 upvotes, $100
 26. [[h1-415 2020] Solution for h1415's CTF challenge](https://hackerone.com/reports/776699) to h1-ctf - 13 upvotes, $0
 27. [[H1-2006 2020] CTF Writeup!](https://hackerone.com/reports/889293) to h1-ctf - 13 upvotes, $0
@@ -43,12 +43,12 @@ Top reports from h1-ctf program at HackerOne:
 41. [[H1-2006 2020] CTF Writeup](https://hackerone.com/reports/888253) to h1-ctf - 10 upvotes, $0
 42. [Invading Grinch Network and Saving Christmas](https://hackerone.com/reports/1065829) to h1-ctf - 10 upvotes, $0
 43. [hackyholidays CTF Writeup](https://hackerone.com/reports/1069080) to h1-ctf - 10 upvotes, $0
-44. [[H1-2006 2020] From multiple vulnerabilities to complete ATO on any customer account and staff admin](https://hackerone.com/reports/894863) to h1-ctf - 9 upvotes, $0
-45. [Stopping Grinch to ruin XMas!](https://hackerone.com/reports/1065485) to h1-ctf - 9 upvotes, $0
-46. [[h1-ctf] 12 Days of Adventure to stop Grinch from ruining Christmas](https://hackerone.com/reports/1067087) to h1-ctf - 9 upvotes, $0
-47. [A Visit from The Grinch ~ 'Twas the night before Hackmas...](https://hackerone.com/reports/1067912) to h1-ctf - 9 upvotes, $0
-48. [Flags for hackyholidays CTF](https://hackerone.com/reports/1065516) to h1-ctf - 9 upvotes, $0
-49. [[H1-2006 2020]  Multiple vulnerabilities leading account takeover](https://hackerone.com/reports/887700) to h1-ctf - 8 upvotes, $0
+44. [[H1-2006 2020]  Multiple vulnerabilities leading account takeover](https://hackerone.com/reports/887700) to h1-ctf - 9 upvotes, $0
+45. [[H1-2006 2020] From multiple vulnerabilities to complete ATO on any customer account and staff admin](https://hackerone.com/reports/894863) to h1-ctf - 9 upvotes, $0
+46. [Stopping Grinch to ruin XMas!](https://hackerone.com/reports/1065485) to h1-ctf - 9 upvotes, $0
+47. [[h1-ctf] 12 Days of Adventure to stop Grinch from ruining Christmas](https://hackerone.com/reports/1067087) to h1-ctf - 9 upvotes, $0
+48. [A Visit from The Grinch ~ 'Twas the night before Hackmas...](https://hackerone.com/reports/1067912) to h1-ctf - 9 upvotes, $0
+49. [Flags for hackyholidays CTF](https://hackerone.com/reports/1065516) to h1-ctf - 9 upvotes, $0
 50. [[H1-2006 2020] CTF write-up](https://hackerone.com/reports/894604) to h1-ctf - 8 upvotes, $0
 51. [The Return of the Grinch](https://hackerone.com/reports/1433581) to h1-ctf - 8 upvotes, $0
 52. [[h1-415 2020] @_bayotop h1-415-ctf writeup](https://hackerone.com/reports/779113) to h1-ctf - 7 upvotes, $0

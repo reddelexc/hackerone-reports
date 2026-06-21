@@ -1,13 +1,13 @@
 Top Clickjacking reports from HackerOne:
 
-1. [RCE of Burp  Scanner / Crawler via Clickjacking ](https://hackerone.com/reports/1274695) to PortSwigger Web Security - 170 upvotes, $3000
-2. [Twitter Periscope Clickjacking Vulnerability](https://hackerone.com/reports/591432) to X / xAI - 140 upvotes, $1120
+1. [RCE of Burp  Scanner / Crawler via Clickjacking ](https://hackerone.com/reports/1274695) to PortSwigger Web Security - 171 upvotes, $3000
+2. [Twitter Periscope Clickjacking Vulnerability](https://hackerone.com/reports/591432) to X / xAI - 141 upvotes, $1120
 3. [Highly wormable clickjacking in player card](https://hackerone.com/reports/85624) to X / xAI - 134 upvotes, $0
 4. [Clickjacking on donation page](https://hackerone.com/reports/921709) to WordPress - 90 upvotes, $0
-5. [Clickjacking in main domain https://topechelon.com/](https://hackerone.com/reports/2964441) to Top Echelon Software - 79 upvotes, $0
+5. [Clickjacking in main domain https://topechelon.com/](https://hackerone.com/reports/2964441) to Top Echelon Software - 80 upvotes, $0
 6. [Viral Direct Message Clickjacking via link truncation leading to capture of both Google credentials & installation of malicious 3rd party Twitter App](https://hackerone.com/reports/643274) to X / xAI - 64 upvotes, $0
-7. [Sensitive Clickjacking on admin login page.](https://hackerone.com/reports/389145) to Shipt - 55 upvotes, $0
-8. [Double Clickjacking Attack on WakaTime OAuth Authorization Flow at https://wakatime.com/oauth/authorize](https://hackerone.com/reports/3287060) to WakaTime - 55 upvotes, $0
+7. [Double Clickjacking Attack on WakaTime OAuth Authorization Flow at https://wakatime.com/oauth/authorize](https://hackerone.com/reports/3287060) to WakaTime - 56 upvotes, $0
+8. [Sensitive Clickjacking on admin login page.](https://hackerone.com/reports/389145) to Shipt - 55 upvotes, $0
 9. [Stealing User emails by clickjacking cards.twitter.com/xxx/xxx](https://hackerone.com/reports/154963) to X / xAI - 49 upvotes, $0
 10. [Clickjacking vkpay](https://hackerone.com/reports/374817) to VK.com - 44 upvotes, $0
 11. [[api.tumblr.com] Exploiting clickjacking vulnerability to trigger self DOM-based XSS](https://hackerone.com/reports/953579) to Automattic - 30 upvotes, $0
@@ -22,7 +22,7 @@ Top Clickjacking reports from HackerOne:
 20. [Clickjacking In jobs.wordpress.net](https://hackerone.com/reports/223024) to WordPress - 16 upvotes, $0
 21. [self-xss with ClickJacking can leads to account takeover in Firefox](https://hackerone.com/reports/892289) to Imgur - 16 upvotes, $0
 22. [Clickjacking at open.rocket.chat](https://hackerone.com/reports/1584034) to Rocket.Chat - 16 upvotes, $0
-23. [OAuth authorization page vulnerable to clickjacking](https://hackerone.com/reports/65825) to Coinbase - 14 upvotes, $5000
+23. [OAuth authorization page vulnerable to clickjacking](https://hackerone.com/reports/65825) to Coinbase - 15 upvotes, $5000
 24. [Clickjacking wordcamp.org](https://hackerone.com/reports/230581) to WordPress - 14 upvotes, $0
 25. [Make user buy items via clickjacking possibility](https://hackerone.com/reports/471967) to Mail.ru - 14 upvotes, $0
 26. [Reflected XSS through ClickJacking](https://hackerone.com/reports/1171403) to U.S. Dept Of Defense - 14 upvotes, $0
@@ -49,12 +49,12 @@ Top Clickjacking reports from HackerOne:
 47. [Clickjacking on authorized page https://wakatime.com/share/embed](https://hackerone.com/reports/244967) to WakaTime - 8 upvotes, $0
 48. [Clickjacking - https://mercantile.wordpress.org/](https://hackerone.com/reports/258283) to WordPress - 8 upvotes, $0
 49. [Clickjacking in Legalrobot app](https://hackerone.com/reports/270454) to Legal Robot - 8 upvotes, $0
-50. [ Clickjacking](https://hackerone.com/reports/688546) to Palo Alto Software - 8 upvotes, $0
-51. [Shop - Reflected  XSS  With  Clickjacking Leads to Steal User's Cookie  In Two Domain](https://hackerone.com/reports/1221942) to Meredith - 8 upvotes, $0
-52. [Clickjacking Vulnerability In Whole Page Ads Tiktok](https://hackerone.com/reports/1418857) to TikTok - 7 upvotes, $500
-53. [UI Redressing ( ClickJacking ) Issue on Information submit form ](https://hackerone.com/reports/163753) to Legal Robot - 7 upvotes, $0
-54. [Clickjacking](https://hackerone.com/reports/200419) to Pushwoosh - 7 upvotes, $0
-55. [Account takeover vulnerability by editor role privileged users/attackers via clickjacking](https://hackerone.com/reports/388254) to WordPress - 7 upvotes, $0
+50. [Account takeover vulnerability by editor role privileged users/attackers via clickjacking](https://hackerone.com/reports/388254) to WordPress - 8 upvotes, $0
+51. [ Clickjacking](https://hackerone.com/reports/688546) to Palo Alto Software - 8 upvotes, $0
+52. [Shop - Reflected  XSS  With  Clickjacking Leads to Steal User's Cookie  In Two Domain](https://hackerone.com/reports/1221942) to Meredith - 8 upvotes, $0
+53. [Clickjacking Vulnerability In Whole Page Ads Tiktok](https://hackerone.com/reports/1418857) to TikTok - 7 upvotes, $500
+54. [UI Redressing ( ClickJacking ) Issue on Information submit form ](https://hackerone.com/reports/163753) to Legal Robot - 7 upvotes, $0
+55. [Clickjacking](https://hackerone.com/reports/200419) to Pushwoosh - 7 upvotes, $0
 56. [Click Jacking Nextcloud](https://hackerone.com/reports/347782) to Nextcloud - 7 upvotes, $0
 57. [Clickjacking on my.stripo.email for MailChimp credentials ](https://hackerone.com/reports/737625) to Stripo Inc - 7 upvotes, $0
 58. [Clickjacking misconfiguration bug](https://hackerone.com/reports/1176104) to Sifchain - 7 upvotes, $0
@@ -88,31 +88,31 @@ Top Clickjacking reports from HackerOne:
 86. [Clickjacking at surveylink.yahoo.com](https://hackerone.com/reports/3578) to Yahoo! - 3 upvotes, $0
 87. [Clickjacking: Delete Account, Change privacy settings, Rate business, follow/unfollow (IE)](https://hackerone.com/reports/338569) to Eternal - 3 upvotes, $0
 88. [Settings page in https://support.my.com is vulnerable to clickjacking](https://hackerone.com/reports/667400) to Mail.ru - 3 upvotes, $0
-89. [Clickjacking login page of https://hackers.upchieve.org/login](https://hackerone.com/reports/1331485) to UPchieve - 3 upvotes, $0
-90. [Possible clickjacking at shop.khanacademy.org](https://hackerone.com/reports/6370) to Khan Academy - 2 upvotes, $0
-91. [ClickJacking](https://hackerone.com/reports/7862) to Localize - 2 upvotes, $0
-92. [Click jacking](https://hackerone.com/reports/13550) to Factlink - 2 upvotes, $0
-93. [Clickjacking](https://hackerone.com/reports/21110) to Mavenlink - 2 upvotes, $0
-94. [clickjacking on leaving group(flick)](https://hackerone.com/reports/7745) to Yahoo! - 2 upvotes, $0
-95. [Vulnerable to clickjacking](https://hackerone.com/reports/123782) to Gratipay - 2 upvotes, $0
-96. [Clickjacking on authenticated pages which is inscope for New Relic](https://hackerone.com/reports/128645) to New Relic - 2 upvotes, $0
-97. [newrelic.com vulnerable to clickjacking !](https://hackerone.com/reports/123126) to New Relic - 2 upvotes, $0
-98. [ClickJacking on Debug](https://hackerone.com/reports/225555) to Weblate - 2 upvotes, $0
-99. [Clickjacking or URL Masking ](https://hackerone.com/reports/204198) to Brave Software - 2 upvotes, $0
-100. [aspen | clickjacking](https://hackerone.com/reports/272387) to Aspen - 2 upvotes, $0
-101. [Clickjacking irclogs.wordpress.org](https://hackerone.com/reports/267075) to WordPress - 2 upvotes, $0
-102. [Clickjacking: X-Frame Header Missing](https://hackerone.com/reports/168358) to Yelp - 2 upvotes, $0
-103. [Click jacking in delete image of user in Yelp](https://hackerone.com/reports/201848) to Yelp - 2 upvotes, $0
-104. [clickjacking to Semrush auth login](https://hackerone.com/reports/318295) to Semrush - 2 upvotes, $0
-105. [URL is vulnerable to clickjacking](https://hackerone.com/reports/337219) to Eternal - 2 upvotes, $0
-106. [Clickjacking Vulnerability on https://support.my.com/games/ticket/xxxx/](https://hackerone.com/reports/357954) to Mail.ru - 2 upvotes, $0
-107. [Clickjacking in ops.cuvva.com](https://hackerone.com/reports/583624) to Cuvva - 2 upvotes, $0
-108. [Site-wide clickjacking at IE11](https://hackerone.com/reports/614947) to New Relic - 2 upvotes, $0
-109. [ClickJacking](https://hackerone.com/reports/947690) to Acronis - 2 upvotes, $0
-110. [clickjacking at  brew.sh](https://hackerone.com/reports/1245972) to Homebrew - 2 upvotes, $0
-111. [Clickjacking ar https://hackers.upchieve.org/login](https://hackerone.com/reports/1400405) to UPchieve - 2 upvotes, $0
-112. [Clickjacking](https://hackerone.com/reports/1206138) to Sifchain - 2 upvotes, $0
-113. [	 Clickjacking at sifchain.finance](https://hackerone.com/reports/1212595) to Sifchain - 2 upvotes, $0
+89. [	 Clickjacking at sifchain.finance](https://hackerone.com/reports/1212595) to Sifchain - 3 upvotes, $0
+90. [Clickjacking login page of https://hackers.upchieve.org/login](https://hackerone.com/reports/1331485) to UPchieve - 3 upvotes, $0
+91. [Possible clickjacking at shop.khanacademy.org](https://hackerone.com/reports/6370) to Khan Academy - 2 upvotes, $0
+92. [ClickJacking](https://hackerone.com/reports/7862) to Localize - 2 upvotes, $0
+93. [Click jacking](https://hackerone.com/reports/13550) to Factlink - 2 upvotes, $0
+94. [Clickjacking](https://hackerone.com/reports/21110) to Mavenlink - 2 upvotes, $0
+95. [clickjacking on leaving group(flick)](https://hackerone.com/reports/7745) to Yahoo! - 2 upvotes, $0
+96. [Vulnerable to clickjacking](https://hackerone.com/reports/123782) to Gratipay - 2 upvotes, $0
+97. [Clickjacking on authenticated pages which is inscope for New Relic](https://hackerone.com/reports/128645) to New Relic - 2 upvotes, $0
+98. [newrelic.com vulnerable to clickjacking !](https://hackerone.com/reports/123126) to New Relic - 2 upvotes, $0
+99. [ClickJacking on Debug](https://hackerone.com/reports/225555) to Weblate - 2 upvotes, $0
+100. [Clickjacking or URL Masking ](https://hackerone.com/reports/204198) to Brave Software - 2 upvotes, $0
+101. [aspen | clickjacking](https://hackerone.com/reports/272387) to Aspen - 2 upvotes, $0
+102. [Clickjacking irclogs.wordpress.org](https://hackerone.com/reports/267075) to WordPress - 2 upvotes, $0
+103. [Clickjacking: X-Frame Header Missing](https://hackerone.com/reports/168358) to Yelp - 2 upvotes, $0
+104. [Click jacking in delete image of user in Yelp](https://hackerone.com/reports/201848) to Yelp - 2 upvotes, $0
+105. [clickjacking to Semrush auth login](https://hackerone.com/reports/318295) to Semrush - 2 upvotes, $0
+106. [URL is vulnerable to clickjacking](https://hackerone.com/reports/337219) to Eternal - 2 upvotes, $0
+107. [Clickjacking Vulnerability on https://support.my.com/games/ticket/xxxx/](https://hackerone.com/reports/357954) to Mail.ru - 2 upvotes, $0
+108. [Clickjacking in ops.cuvva.com](https://hackerone.com/reports/583624) to Cuvva - 2 upvotes, $0
+109. [Site-wide clickjacking at IE11](https://hackerone.com/reports/614947) to New Relic - 2 upvotes, $0
+110. [ClickJacking](https://hackerone.com/reports/947690) to Acronis - 2 upvotes, $0
+111. [clickjacking at  brew.sh](https://hackerone.com/reports/1245972) to Homebrew - 2 upvotes, $0
+112. [Clickjacking ar https://hackers.upchieve.org/login](https://hackerone.com/reports/1400405) to UPchieve - 2 upvotes, $0
+113. [Clickjacking](https://hackerone.com/reports/1206138) to Sifchain - 2 upvotes, $0
 114. [Clickjacking - changing role](https://hackerone.com/reports/7924) to Respondly - 1 upvotes, $0
 115. [Clicjacking on Login panel](https://hackerone.com/reports/8459) to Mail.ru - 1 upvotes, $0
 116. [Clickjacking at https://staging.uzbey.com/](https://hackerone.com/reports/17315) to Uzbey - 1 upvotes, $0
@@ -128,10 +128,10 @@ Top Clickjacking reports from HackerOne:
 126. [Clickjacking on https://download.nextcloud.com](https://hackerone.com/reports/658011) to Nextcloud - 1 upvotes, $0
 127. [Nextcloud Clickjacking Vulnerability](https://hackerone.com/reports/710996) to Nextcloud - 1 upvotes, $0
 128. [clickjacking vulnerability](https://hackerone.com/reports/1199904) to Sifchain - 1 upvotes, $0
-129. [Clickjacking : https://partners.cloudflare.com/](https://hackerone.com/reports/106362) to Cloudflare Vulnerability Disclosure - 0 upvotes, $0
-130. [Clickjacking https://blockstack.org/](https://hackerone.com/reports/269047) to Hiro - 0 upvotes, $0
-131. [ClickJacking in editing business name](https://hackerone.com/reports/227837) to Yelp - 0 upvotes, $0
-132. [User can be fooled to Bookmark any restaurant by clickjacking](https://hackerone.com/reports/228295) to Yelp - 0 upvotes, $0
-133. [Clickjacking @ Main Domain[www.yelp.com]](https://hackerone.com/reports/197115) to Yelp - 0 upvotes, $0
-134. [Clickjacking on https://nextcloud.com/](https://hackerone.com/reports/661768) to Nextcloud - 0 upvotes, $0
-135. [Clickjacking /framing on sensitive Subdomain ](https://hackerone.com/reports/1195209) to Sifchain - 0 upvotes, $0
+129. [Clickjacking /framing on sensitive Subdomain ](https://hackerone.com/reports/1195209) to Sifchain - 1 upvotes, $0
+130. [Clickjacking : https://partners.cloudflare.com/](https://hackerone.com/reports/106362) to Cloudflare Vulnerability Disclosure - 0 upvotes, $0
+131. [Clickjacking https://blockstack.org/](https://hackerone.com/reports/269047) to Hiro - 0 upvotes, $0
+132. [ClickJacking in editing business name](https://hackerone.com/reports/227837) to Yelp - 0 upvotes, $0
+133. [User can be fooled to Bookmark any restaurant by clickjacking](https://hackerone.com/reports/228295) to Yelp - 0 upvotes, $0
+134. [Clickjacking @ Main Domain[www.yelp.com]](https://hackerone.com/reports/197115) to Yelp - 0 upvotes, $0
+135. [Clickjacking on https://nextcloud.com/](https://hackerone.com/reports/661768) to Nextcloud - 0 upvotes, $0
