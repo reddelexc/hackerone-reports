@@ -101,4 +101,4 @@ Tops by program.
 - [Top MTN Group reports](docs/tops_by_program/TOPMTNGROUP.md)
 - [Top Node.js reports](docs/tops_by_program/TOPNODEJS.md)
 - [Top Eternal reports](docs/tops_by_program/TOPETERNAL.md)
-- [Top Rocket.Chat](docs/tops_by_program/TOPROCKETCHAT.cm)
+- [Top Rocket.Chat reports](docs/tops_by_program/TOPROCKETCHAT.md)
