@@ -6,7 +6,7 @@ Top SSTI reports from HackerOne:
 4. [Reflected XSS and Server Side Template Injection  in all HubSpot CMSes](https://hackerone.com/reports/399462) to HubSpot Inactive - 64 upvotes, $0
 5. [Python : Add query to detect Server Side Template Injection](https://hackerone.com/reports/944359) to GitHub Security Lab - 29 upvotes, $0
 6. [Server Side Template Injection on Name parameter during Sign Up process](https://hackerone.com/reports/1104349) to Glovo - 27 upvotes, $0
-7. [SSTI leads to Command injection](https://hackerone.com/reports/3584149) to curl - 24 upvotes, $0
+7. [SSTI leads to Command injection](https://hackerone.com/reports/3584149) to curl - 25 upvotes, $0
 8. [[Ruby]: Server Side Template Injection](https://hackerone.com/reports/1928279) to GitHub Security Lab - 13 upvotes, $2300
 9. [CodeQL query to detect Server-Side Template Injections (JavaScript)](https://hackerone.com/reports/894872) to GitHub Security Lab - 8 upvotes, $0
 10. [Server-side Template Injection in lodash.js ](https://hackerone.com/reports/904672) to Node.js third-party modules - 8 upvotes, $0

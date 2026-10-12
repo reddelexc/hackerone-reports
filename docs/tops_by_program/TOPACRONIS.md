@@ -5,7 +5,7 @@ Top reports from Acronis program at HackerOne:
 3. [IDOR vulnerability (Price manipulation)](https://hackerone.com/reports/1403176) to Acronis - 146 upvotes, $0
 4. [Ticket Trick at https://account.acronis.com](https://hackerone.com/reports/999765) to Acronis - 142 upvotes, $0
 5. [[oem.acronis.com] Reflected Cross Site Scripting ](https://hackerone.com/reports/2038943) to Acronis - 134 upvotes, $100
-6. [IP restriction bypass via X-Forwarded-For header](https://hackerone.com/reports/1224089) to Acronis - 125 upvotes, $250
+6. [IP restriction bypass via X-Forwarded-For header](https://hackerone.com/reports/1224089) to Acronis - 126 upvotes, $250
 7. [Stored XSS in backup scanning plan name](https://hackerone.com/reports/961046) to Acronis - 120 upvotes, $500
 8. [SQL injection on admin.acronis.host development web service](https://hackerone.com/reports/923020) to Acronis - 118 upvotes, $250
 9. [Attacker Can Access to any Ticket Support on https://www.devicelock.com/support/](https://hackerone.com/reports/1124974) to Acronis - 109 upvotes, $0
@@ -19,15 +19,15 @@ Top reports from Acronis program at HackerOne:
 17. [[CVE-2021-44228] nps.acronis.com is vulnerable to the recent log4shell 0-day](https://hackerone.com/reports/1425474) to Acronis - 75 upvotes, $1000
 18. [[forum.acronis.com] JNDI Code Injection due an outdated log4j component](https://hackerone.com/reports/1430622) to Acronis - 74 upvotes, $0
 19. [XSS on https://partners.acronis.com/](https://hackerone.com/reports/979204) to Acronis - 73 upvotes, $0
-20. [ mail.acronis.com is vulnerable to zero day vulnerability CVE-2022-41040](https://hackerone.com/reports/1719719) to Acronis - 71 upvotes, $1000
-21. [Reflected XSS in https://www.acronis.com/products/cyber-protect/trial/](https://hackerone.com/reports/1891926) to Acronis - 71 upvotes, $100
+20. [Reflected XSS in https://www.acronis.com/products/cyber-protect/trial/](https://hackerone.com/reports/1891926) to Acronis - 72 upvotes, $100
+21. [ mail.acronis.com is vulnerable to zero day vulnerability CVE-2022-41040](https://hackerone.com/reports/1719719) to Acronis - 71 upvotes, $1000
 22. [Subdomain takeover of main domain of https://www.cyberlynx.lu/](https://hackerone.com/reports/1256389) to Acronis - 70 upvotes, $100
 23. [Reflected XSS on www.grouplogic.com/video.asp](https://hackerone.com/reports/859802) to Acronis - 67 upvotes, $0
 24. [Stored Cross-site Scripting on devicelock.com/forum/](https://hackerone.com/reports/1122513) to Acronis - 65 upvotes, $0
 25. [Blind XSS on admin.acronis.com via delete account form on account.acronis.com](https://hackerone.com/reports/666040) to Acronis - 65 upvotes, $0
 26. [Potential XSS in redirect_url Parameter](https://hackerone.com/reports/2653342) to Acronis - 64 upvotes, $0
 27. [Stored XSS in Acronis Cyber Protect Console](https://hackerone.com/reports/1064095) to Acronis - 63 upvotes, $500
-28. [IDOR in backup recovery functionality](https://hackerone.com/reports/1901713) to Acronis - 55 upvotes, $0
+28. [IDOR in backup recovery functionality](https://hackerone.com/reports/1901713) to Acronis - 56 upvotes, $0
 29. [Bypassing Recaptcha Protection in  `https://connect.acronis.com`](https://hackerone.com/reports/1655629) to Acronis - 54 upvotes, $0
 30. [Blind SSRF vulnerability on cz.acronis.com](https://hackerone.com/reports/1086206) to Acronis - 53 upvotes, $0
 31. [DOM Based Cookie Bomb in *.acronis.com via x-clickref GET Parameter](https://hackerone.com/reports/1898305) to Acronis - 52 upvotes, $200
@@ -42,13 +42,13 @@ Top reports from Acronis program at HackerOne:
 40. [Arbitrary file creation via symlink attack on syncagentsrv (Acronis Sync Agent Service)](https://hackerone.com/reports/945122) to Acronis - 38 upvotes, $0
 41. [Self XSS on Acronis Cyber Cloud](https://hackerone.com/reports/957229) to Acronis - 37 upvotes, $100
 42. [FULL SSRF ](https://hackerone.com/reports/1241149) to Acronis - 37 upvotes, $0
-43. [Possible LDAP username and password disclosed on Github](https://hackerone.com/reports/1004412) to Acronis - 36 upvotes, $0
-44. [%0A (New line) and limitness URL leads to DoS at all system [Main adress (https://www.acronis.com/)]](https://hackerone.com/reports/1382448) to Acronis - 36 upvotes, $0
-45. [CSS Injection via Client Side Path Traversal + Open Redirect leads to personal data exfiltration on Acronis Cloud](https://hackerone.com/reports/1245165) to Acronis - 36 upvotes, $0
-46. [licenses key disclosure](https://hackerone.com/reports/1079630) to Acronis - 35 upvotes, $50
+43. [CSS Injection via Client Side Path Traversal + Open Redirect leads to personal data exfiltration on Acronis Cloud](https://hackerone.com/reports/1245165) to Acronis - 37 upvotes, $0
+44. [licenses key disclosure](https://hackerone.com/reports/1079630) to Acronis - 36 upvotes, $50
+45. [Possible LDAP username and password disclosed on Github](https://hackerone.com/reports/1004412) to Acronis - 36 upvotes, $0
+46. [%0A (New line) and limitness URL leads to DoS at all system [Main adress (https://www.acronis.com/)]](https://hackerone.com/reports/1382448) to Acronis - 36 upvotes, $0
 47. [Acronis True Image  (Windows) does not validate server certificate on a TLS connection](https://hackerone.com/reports/1056144) to Acronis - 34 upvotes, $500
-48. [Blind Stored XSS in https://partners.acronis.com/admin which lead to sensitive information/PII leakage](https://hackerone.com/reports/1028820) to Acronis - 33 upvotes, $150
-49. [Reflected XSS on www.acronis.com/de-de/my/subscriptions/index.html](https://hackerone.com/reports/1145712) to Acronis - 33 upvotes, $0
+48. [Reflected XSS on www.acronis.com/de-de/my/subscriptions/index.html](https://hackerone.com/reports/1145712) to Acronis - 34 upvotes, $0
+49. [Blind Stored XSS in https://partners.acronis.com/admin which lead to sensitive information/PII leakage](https://hackerone.com/reports/1028820) to Acronis - 33 upvotes, $150
 50. [[CVE-2021-44228] Arbitrary Code Execution on ng01-cloud.acronis.com](https://hackerone.com/reports/1459714) to Acronis - 33 upvotes, $0
 51. [[acronis.secure.force.com] - Insecure Salesforce default/custom object permissions leads to information disclosure](https://hackerone.com/reports/1023572) to Acronis - 31 upvotes, $0
 52. [SSRF when configuring Website Backup on Acronis Cloud](https://hackerone.com/reports/1072873) to Acronis - 30 upvotes, $500
@@ -69,7 +69,7 @@ Top reports from Acronis program at HackerOne:
 67. [CSRF and XSS on www.acronis.com](https://hackerone.com/reports/961787) to Acronis - 25 upvotes, $0
 68. [XSS in https://promo.acronis.com/](https://hackerone.com/reports/982442) to Acronis - 25 upvotes, $0
 69. [Reflected XSS on my.acronis.com](https://hackerone.com/reports/1168962) to Acronis - 24 upvotes, $50
-70. [Cross Site Scripting (Reflected) on https://www.acronis.cz/dotaznik/roadshow-2020/](https://hackerone.com/reports/1081747) to Acronis - 22 upvotes, $50
+70. [Cross Site Scripting (Reflected) on https://www.acronis.cz/dotaznik/roadshow-2020/](https://hackerone.com/reports/1081747) to Acronis - 23 upvotes, $50
 71. [Local Privilege Escalation via Backup delete](https://hackerone.com/reports/1003007) to Acronis - 21 upvotes, $250
 72. [ Account Takeover on unverified emails in File Sync & Share ](https://hackerone.com/reports/906790) to Acronis - 21 upvotes, $0
 73. [Local File Disclosure /Delete On [us-az-vpn.acronis.com]](https://hackerone.com/reports/924407) to Acronis - 21 upvotes, $0
@@ -79,10 +79,10 @@ Top reports from Acronis program at HackerOne:
 77. [Any expired reset password link can still be used to reset the password](https://hackerone.com/reports/1615790) to Acronis - 19 upvotes, $100
 78. [DOM based XSS in store.acronis.com/\<id\>/purl-corporate-standard-IT [cfg parameter]](https://hackerone.com/reports/968690) to Acronis - 19 upvotes, $50
 79. [Clickjacking on cas.acronis.com login page](https://hackerone.com/reports/971234) to Acronis - 19 upvotes, $0
-80. [Subdomain Takeover – www.jet.acronis.com pointing to unclaimed Webflow services](https://hackerone.com/reports/953719) to Acronis - 19 upvotes, $0
-81. [CVE-2021-40438 on cp-eu2.acronis.com](https://hackerone.com/reports/1370731) to Acronis - 19 upvotes, $0
-82. [Acronis True Image 2021 (windows) does not validate server hostname on a login TLS connection](https://hackerone.com/reports/1070533) to Acronis - 18 upvotes, $250
-83. [Broken Access Controls](https://hackerone.com/reports/833735) to Acronis - 18 upvotes, $0
+80. [Broken Access Controls](https://hackerone.com/reports/833735) to Acronis - 19 upvotes, $0
+81. [Subdomain Takeover – www.jet.acronis.com pointing to unclaimed Webflow services](https://hackerone.com/reports/953719) to Acronis - 19 upvotes, $0
+82. [CVE-2021-40438 on cp-eu2.acronis.com](https://hackerone.com/reports/1370731) to Acronis - 19 upvotes, $0
+83. [Acronis True Image 2021 (windows) does not validate server hostname on a login TLS connection](https://hackerone.com/reports/1070533) to Acronis - 18 upvotes, $250
 84. [anti_ransomware_service.exe REST API does not require authentication](https://hackerone.com/reports/858608) to Acronis - 17 upvotes, $0
 85. [Acronis True Image 2020 Build 22510 Nonstop Backup Service Unquoted service path (privilege escalation)](https://hackerone.com/reports/1083532) to Acronis - 17 upvotes, $0
 86. [Missing brute force protection on login page on www.acronis.com](https://hackerone.com/reports/1435392) to Acronis - 16 upvotes, $250

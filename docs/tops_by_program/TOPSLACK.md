@@ -1,7 +1,7 @@
 Top reports from Slack program at HackerOne:
 
 1. [Mass account takeovers using HTTP Request Smuggling on https://slackb.com/ to steal session cookies](https://hackerone.com/reports/737140) to Slack - 868 upvotes, $0
-2. [Remote Code Execution in Slack desktop apps + bonus](https://hackerone.com/reports/783877) to Slack - 507 upvotes, $0
+2. [Remote Code Execution in Slack desktop apps + bonus](https://hackerone.com/reports/783877) to Slack - 508 upvotes, $0
 3. [XSS vulnerable parameter in a location hash](https://hackerone.com/reports/146336) to Slack - 455 upvotes, $0
 4. [URL link spoofing](https://hackerone.com/reports/481472) to Slack - 362 upvotes, $250
 5. [TURN server allows TCP and UDP proxying to internal network, localhost and meta-data services](https://hackerone.com/reports/333419) to Slack - 323 upvotes, $3500
@@ -19,7 +19,7 @@ Top reports from Slack program at HackerOne:
 17. [Lack of URL normalization renders Blocked-Previews feature ineffectual](https://hackerone.com/reports/1102764) to Slack - 100 upvotes, $1000
 18. [Real Time Error Logs Through Debug Information](https://hackerone.com/reports/503283) to Slack - 100 upvotes, $0
 19. [User-assisted RCE in Slack for macOS (from official site) due to improper quarantine meta-attribute handling for downloaded files](https://hackerone.com/reports/470637) to Slack - 97 upvotes, $0
-20. [Header modification results in disclosure of Slack infra metadata to unauthorized parties](https://hackerone.com/reports/727330) to Slack - 96 upvotes, $0
+20. [Header modification results in disclosure of Slack infra metadata to unauthorized parties](https://hackerone.com/reports/727330) to Slack - 97 upvotes, $0
 21. [Many Slack teams can be joined by abusing an improperly configured support@ inbox](https://hackerone.com/reports/239623) to Slack - 87 upvotes, $0
 22. [SSRF in api.slack.com, using slash commands and bypassing the protections.](https://hackerone.com/reports/381129) to Slack - 84 upvotes, $0
 23. [Bypass invite accept for victim](https://hackerone.com/reports/1663361) to Slack - 84 upvotes, $0

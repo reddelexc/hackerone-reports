@@ -9,8 +9,8 @@ Top MFA reports from HackerOne:
 7. [Bypassing HackerOne 2FA due to race condition](https://hackerone.com/reports/2598548) to HackerOne - 139 upvotes, $0
 8. [2FA requirement bypass when inviting team members](https://hackerone.com/reports/3356149) to Omise - 105 upvotes, $0
 9. [Password not checked when disabling 2FA on HackerOne](https://hackerone.com/reports/587910) to HackerOne - 95 upvotes, $0
-10. [Account takeover w/o interaction for a user that doesn't have 2fa enabled via 2fa linking and improper auth at /api/2fa/verify](https://hackerone.com/reports/810880) to Helium - 92 upvotes, $0
-11. [2FA bypass possible on https://authsvc.singlestore.com](https://hackerone.com/reports/3329361) to SingleStore - 92 upvotes, $0
+10. [2FA bypass possible on https://authsvc.singlestore.com](https://hackerone.com/reports/3329361) to SingleStore - 94 upvotes, $0
+11. [Account takeover w/o interaction for a user that doesn't have 2fa enabled via 2fa linking and improper auth at /api/2fa/verify](https://hackerone.com/reports/810880) to Helium - 92 upvotes, $0
 12. [Session Doesn't expire after 2fa and also other session can change passsword ](https://hackerone.com/reports/2234736) to SideFX - 90 upvotes, $300
 13. [“email” MFA mode allows bypassing MFA from victim’s device when the device trust is not expired](https://hackerone.com/reports/665722) to Superhuman (formerly Grammarly) - 82 upvotes, $2500
 14. [Information disclosure -\> 2fa bypass -\> POST exploitation ](https://hackerone.com/reports/1276373) to Algolia - 76 upvotes, $0
@@ -18,21 +18,21 @@ Top MFA reports from HackerOne:
 16. [Able to blocking users with 2fa from login into their accounts by just knowing the SteamID](https://hackerone.com/reports/1179232) to CS Money - 69 upvotes, $300
 17. [Enable 2FA without verifying the email](https://hackerone.com/reports/3016540) to XVIDEOS - 69 upvotes, $0
 18. [Two-factor authentication enforcement bypass](https://hackerone.com/reports/1050244) to Nextcloud - 63 upvotes, $750
-19. [Changing the 2FA secret key and backup codes without knowing the 2FA OTP](https://hackerone.com/reports/1139535) to HackerOne - 56 upvotes, $0
+19. [Changing the 2FA secret key and backup codes without knowing the 2FA OTP](https://hackerone.com/reports/1139535) to HackerOne - 57 upvotes, $0
 20. [bypass two-factor authentication in Android apps and web](https://hackerone.com/reports/1747978) to TikTok - 55 upvotes, $0
 21. [Account deletion using the /v1/account/destroy API endpoint using account password without 2FA verification](https://hackerone.com/reports/2197244) to Mozilla - 52 upvotes, $1000
 22. [Missing ownership check in 2FA for secondary client login](https://hackerone.com/reports/1250474) to LY Corporation - 52 upvotes, $0
 23. [Two factor authentication bypass](https://hackerone.com/reports/2463279) to HackerOne - 47 upvotes, $0
 24. [Two-factor authentication bypass on Grab Android App](https://hackerone.com/reports/202425) to Grab - 46 upvotes, $0
-25. [Misconfiguration in Two Factor Authorisation](https://hackerone.com/reports/178293) to Shopify - 40 upvotes, $1500
-26. [Signup with any email and enable 2FA without verifying email](https://hackerone.com/reports/699200) to Omise - 40 upvotes, $0
-27. [Enable 2Fa verification without verifying email](https://hackerone.com/reports/1618021) to Cloudflare Public Bug Bounty - 40 upvotes, $0
-28. [bypass two-factor authentication.](https://hackerone.com/reports/1842183) to LinkedIn - 40 upvotes, $0
+25. [bypass two-factor authentication.](https://hackerone.com/reports/1842183) to LinkedIn - 41 upvotes, $0
+26. [Misconfiguration in Two Factor Authorisation](https://hackerone.com/reports/178293) to Shopify - 40 upvotes, $1500
+27. [Signup with any email and enable 2FA without verifying email](https://hackerone.com/reports/699200) to Omise - 40 upvotes, $0
+28. [Enable 2Fa verification without verifying email](https://hackerone.com/reports/1618021) to Cloudflare Public Bug Bounty - 40 upvotes, $0
 29. [Business Logic error leads to bypass 2FA requirement ](https://hackerone.com/reports/2571981) to HackerOne - 39 upvotes, $0
 30. [Bypass  two-factor authentication](https://hackerone.com/reports/121696) to Slack - 36 upvotes, $0
-31. [Two-factor authentication bypass lead to information disclosure about the program and all hackers participate](https://hackerone.com/reports/2486086) to HackerOne - 36 upvotes, $0
-32. [2FA Session not expires after the password reset](https://hackerone.com/reports/486693) to Nextcloud - 35 upvotes, $50
-33. [Reset the 2FA of the user which can lead to Account Takeover](https://hackerone.com/reports/2492631) to HackerOne - 35 upvotes, $0
+31. [Reset the 2FA of the user which can lead to Account Takeover](https://hackerone.com/reports/2492631) to HackerOne - 36 upvotes, $0
+32. [Two-factor authentication bypass lead to information disclosure about the program and all hackers participate](https://hackerone.com/reports/2486086) to HackerOne - 36 upvotes, $0
+33. [2FA Session not expires after the password reset](https://hackerone.com/reports/486693) to Nextcloud - 35 upvotes, $50
 34. [Bypass two-factor authentication](https://hackerone.com/reports/1664974) to Cloudflare Public Bug Bounty - 34 upvotes, $250
 35. [Disable 2FA via CSRF (Leads to 2FA Bypass)](https://hackerone.com/reports/670329) to Mail.ru - 34 upvotes, $0
 36. [Sign in with Apple works on existing accounts, bypasses 2FA](https://hackerone.com/reports/1593404) to Cloudflare Public Bug Bounty - 32 upvotes, $1000
@@ -45,11 +45,11 @@ Top MFA reports from HackerOne:
 43. [2fa can't be activated on app.pullrequest.com](https://hackerone.com/reports/2463069) to HackerOne - 25 upvotes, $0
 44. [Bypassing 2FA with conventional session management - open.rocket.chat](https://hackerone.com/reports/1701378) to Rocket.Chat - 25 upvotes, $0
 45. [Two-factor authentication can be disabled when logged in without 2fa or password confirmation ](https://hackerone.com/reports/992450) to Zivver - 24 upvotes, $0
-46. [Lack of bruteforce protection for TOTP 2FA](https://hackerone.com/reports/1265709) to Nextcloud - 22 upvotes, $750
-47. [Email Verification Bypass by bruteforcing when setting up 2FA](https://hackerone.com/reports/1394984) to Evernote - 22 upvotes, $150
+46. [Email Verification Bypass by bruteforcing when setting up 2FA](https://hackerone.com/reports/1394984) to Evernote - 23 upvotes, $150
+47. [Lack of bruteforce protection for TOTP 2FA](https://hackerone.com/reports/1265709) to Nextcloud - 22 upvotes, $750
 48. [2FA requirement bypass when claiming bounty ](https://hackerone.com/reports/2528919) to HackerOne - 22 upvotes, $0
-49. [Обход 2ух-шаговой авторизации / 2FA Bypass](https://hackerone.com/reports/163834) to VK.com - 21 upvotes, $1000
-50. [2FA Bypass via Response Manipulation on Login Page](https://hackerone.com/reports/2962527) to U.S. Dept Of Defense - 21 upvotes, $0
+49. [2FA Bypass via Response Manipulation on Login Page](https://hackerone.com/reports/2962527) to U.S. Dept Of Defense - 22 upvotes, $0
+50. [Обход 2ух-шаговой авторизации / 2FA Bypass](https://hackerone.com/reports/163834) to VK.com - 21 upvotes, $1000
 51. [bypass of 2FA](https://hackerone.com/reports/248656) to Nextcloud - 20 upvotes, $750
 52. [Bypassing 2FA for BTC transfers](https://hackerone.com/reports/10554) to Coinbase - 18 upvotes, $1000
 53. [Two Factor Authentication Bypass](https://hackerone.com/reports/350288) to Ubiquiti Inc. - 18 upvotes, $0

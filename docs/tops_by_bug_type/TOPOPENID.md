@@ -1,6 +1,6 @@
 Top OpenID reports from HackerOne:
 
-1. [Email Confirmation Bypass in myshop.myshopify.com that Leads to Full Privilege Escalation to Any Shop Owner by Taking Advantage of the Shopify SSO](https://hackerone.com/reports/791775) to Shopify - 1917 upvotes, $0
+1. [Email Confirmation Bypass in myshop.myshopify.com that Leads to Full Privilege Escalation to Any Shop Owner by Taking Advantage of the Shopify SSO](https://hackerone.com/reports/791775) to Shopify - 1920 upvotes, $0
 2. [Able to Takeover Merchants Accounts Even They Have Already Setup SSO, After Bypassing the Email Confirmation](https://hackerone.com/reports/796956) to Shopify - 310 upvotes, $0
 3. [Ability to DOS any organization's SSO and open up the door to account takeovers](https://hackerone.com/reports/976603) to Superhuman (formerly Grammarly) - 259 upvotes, $10500
 4. [Stealing SSO Login Tokens (snappublisher.snapchat.com)](https://hackerone.com/reports/265943) to Snapchat - 244 upvotes, $7500

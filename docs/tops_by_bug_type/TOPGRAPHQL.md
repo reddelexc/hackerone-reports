@@ -2,13 +2,13 @@ Top GraphQL reports from HackerOne:
 
 1. [Confidential data of users and limited metadata of programs and reports accessible via GraphQL](https://hackerone.com/reports/489146) to HackerOne - 1033 upvotes, $0
 2. [Email address of any user can be queried on Report Invitation GraphQL type when username is known](https://hackerone.com/reports/792927) to HackerOne - 670 upvotes, $0
-3. [IDOR - Delete all Licenses and certifications from users account using CreateOrUpdateHackerCertification GraphQL query](https://hackerone.com/reports/2122671) to HackerOne - 392 upvotes, $0
-4. [Private list members disclosure via GraphQL](https://hackerone.com/reports/885539) to X / xAI - 346 upvotes, $0
-5. [Unauthenticated RCE in Taskcluster web-server via GraphQL filter argument (sift $where)](https://hackerone.com/reports/3782701) to Mozilla - 331 upvotes, $12000
+3. [IDOR - Delete all Licenses and certifications from users account using CreateOrUpdateHackerCertification GraphQL query](https://hackerone.com/reports/2122671) to HackerOne - 394 upvotes, $0
+4. [Unauthenticated RCE in Taskcluster web-server via GraphQL filter argument (sift $where)](https://hackerone.com/reports/3782701) to Mozilla - 355 upvotes, $12000
+5. [Private list members disclosure via GraphQL](https://hackerone.com/reports/885539) to X / xAI - 346 upvotes, $0
 6. [SSRF in graphQL query (pwapi.ex2b.com)](https://hackerone.com/reports/1864188) to EXNESS - 261 upvotes, $3000
 7. [Github Apps can use Scoped-User-To-Server Tokens to Obtain Full Access to User's Projects in Project V2 GraphQL api](https://hackerone.com/reports/1711938) to GitHub - 198 upvotes, $0
 8. [IDOR on GraphQL queries BillingDocumentDownload and BillDetails](https://hackerone.com/reports/2207248) to Shopify - 187 upvotes, $5000
-9. [DOS via Mutation Aliasing in GraphQL Account Recovery Phone Number Verification API](https://hackerone.com/reports/3287208) to HackerOne - 180 upvotes, $12500
+9. [DOS via Mutation Aliasing in GraphQL Account Recovery Phone Number Verification API](https://hackerone.com/reports/3287208) to HackerOne - 184 upvotes, $12500
 10. [Disclosure of `payment_transactions` for programs via GraphQL query](https://hackerone.com/reports/707433) to HackerOne - 178 upvotes, $0
 11. [SQL injection in GraphQL endpoint through embedded_submission_form_uuid parameter](https://hackerone.com/reports/435066) to HackerOne - 174 upvotes, $0
 12. [GraphQL AdminGenerateSessionPayload is leaked to staff with no permission](https://hackerone.com/reports/898528) to Shopify - 173 upvotes, $0
@@ -21,9 +21,9 @@ Top GraphQL reports from HackerOne:
 19. [Team object in GraphQL disclosed total number of whitelisted hackers](https://hackerone.com/reports/342978) to HackerOne - 93 upvotes, $2500
 20. [Cross-Tenant IDOR ( graphql `AddRulesToPixelEvents` query ) allowing to add, update, and delete rules of any Pixel events on the platform](https://hackerone.com/reports/984965) to TikTok - 84 upvotes, $0
 21. [Private information exposed through GraphQL filters](https://hackerone.com/reports/645299) to HackerOne - 81 upvotes, $0
-22. [Insecure Direct Object Reference (IDOR) in GraphQL deleteProfileImages Mutation](https://hackerone.com/reports/2968039) to Autodesk - 79 upvotes, $0
+22. [Insecure Direct Object Reference (IDOR) in GraphQL deleteProfileImages Mutation](https://hackerone.com/reports/2968039) to Autodesk - 80 upvotes, $0
 23. [Team object in GraphQL discloses team group names and permissions](https://hackerone.com/reports/343464) to HackerOne - 75 upvotes, $2500
-24. [Unauthenticated GraphQL access by prepending __schema to private operations](https://hackerone.com/reports/3452015) to Enjin - 74 upvotes, $500
+24. [Unauthenticated GraphQL access by prepending __schema to private operations](https://hackerone.com/reports/3452015) to Enjin - 75 upvotes, $500
 25. [Team object in GraphQL disclosed of private programs via the industry](https://hackerone.com/reports/707406) to HackerOne - 72 upvotes, $500
 26. [Attachment object in GraphQL continues to grant access to files, even if they are removed from rendering](https://hackerone.com/reports/1132606) to HackerOne - 66 upvotes, $0
 27. [Image queue default key of 'None' and GraphQL unhandled type exception](https://hackerone.com/reports/996041) to Reddit - 65 upvotes, $500

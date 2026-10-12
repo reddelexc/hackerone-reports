@@ -20,8 +20,8 @@ Top reports from VK.com program at HackerOne:
 18. [Reflected Xss On https://vk.com/search](https://hackerone.com/reports/1454359) to VK.com - 38 upvotes, $500
 19. [Reflected xss в m.vk.com/chatjoin](https://hackerone.com/reports/316475) to VK.com - 36 upvotes, $500
 20. [Просмотр приватных видео записей у Пользователей](https://hackerone.com/reports/317985) to VK.com - 34 upvotes, $300
-21. [Stored XSS при удалении группы из беседы (m.vk.com)](https://hackerone.com/reports/1101500) to VK.com - 32 upvotes, $500
-22. [Получение БД кэша из Android-приложения через стороннее приложение](https://hackerone.com/reports/377582) to VK.com - 32 upvotes, $0
+21. [Получение БД кэша из Android-приложения через стороннее приложение](https://hackerone.com/reports/377582) to VK.com - 33 upvotes, $0
+22. [Stored XSS при удалении группы из беседы (m.vk.com)](https://hackerone.com/reports/1101500) to VK.com - 32 upvotes, $500
 23. [Возможность взлома любого пользователя, не использующего двухфакторной аутентификации, через получения кода восстановления на чужой номер.](https://hackerone.com/reports/219171) to VK.com - 31 upvotes, $0
 24. [Отправка подарков/стикерпаков не теряя голоса.](https://hackerone.com/reports/729064) to VK.com - 30 upvotes, $200
 25. [CSRF на загрузку аудиозаписей](https://hackerone.com/reports/329345) to VK.com - 30 upvotes, $100

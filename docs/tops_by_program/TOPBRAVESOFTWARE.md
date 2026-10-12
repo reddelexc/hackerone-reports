@@ -1,6 +1,6 @@
 Top reports from Brave Software program at HackerOne:
 
-1. [Brave Browser Tor Window leaks user's real IP to the external DNS server](https://hackerone.com/reports/1077022) to Brave Software - 281 upvotes, $0
+1. [Brave Browser Tor Window leaks user's real IP to the external DNS server](https://hackerone.com/reports/1077022) to Brave Software - 280 upvotes, $0
 2. [Open redirect due to scanning QR code via brave browser](https://hackerone.com/reports/1946534) to Brave Software - 148 upvotes, $0
 3. [Stored XSS in localhost:* via integrated torrent downloader](https://hackerone.com/reports/681617) to Brave Software - 124 upvotes, $0
 4. [Null Pointer Dereference by Crafted Response from AI Model](https://hackerone.com/reports/2958097) to Brave Software - 116 upvotes, $0
@@ -8,8 +8,8 @@ Top reports from Brave Software program at HackerOne:
 6. [Cookie steal through content Uri](https://hackerone.com/reports/876192) to Brave Software - 79 upvotes, $0
 7. [Prompt Injection via GitHub Patch in Brave AI Chat (Leo)](https://hackerone.com/reports/3086301) to Brave Software - 77 upvotes, $0
 8. [Local files reading from the web using `brave://`](https://hackerone.com/reports/390013) to Brave Software - 74 upvotes, $0
-9. [New XSS vector in ReaderMode with %READER-TITLE-NONCE%](https://hackerone.com/reports/1436142) to Brave Software - 73 upvotes, $0
-10. [SameSite restrictions are lifted, and SameSite:Strict cookie are being sent.](https://hackerone.com/reports/3253725) to Brave Software - 73 upvotes, $0
+9. [SameSite restrictions are lifted, and SameSite:Strict cookie are being sent.](https://hackerone.com/reports/3253725) to Brave Software - 73 upvotes, $0
+10. [New XSS vector in ReaderMode with %READER-TITLE-NONCE%](https://hackerone.com/reports/1436142) to Brave Software - 72 upvotes, $0
 11. [UXss on brave browser via scan QR Code](https://hackerone.com/reports/1884042) to Brave Software - 68 upvotes, $0
 12. [Sending arbitrary IPC messages via overriding Function.prototype.apply](https://hackerone.com/reports/188086) to Brave Software - 53 upvotes, $0
 13. [Lack of quarantine meta-attribute for downloaded files leads to GateKeeper bypass](https://hackerone.com/reports/374106) to Brave Software - 52 upvotes, $0
@@ -20,7 +20,7 @@ Top reports from Brave Software program at HackerOne:
 18. [Brave Android: Incorrect URL Eliding in Brave Shields Pop Up](https://hackerone.com/reports/2501378) to Brave Software - 45 upvotes, $0
 19. [Local files reading using `link[rel="import"]`](https://hackerone.com/reports/375329) to Brave Software - 43 upvotes, $0
 20. [[Android] HTML Injection in BatterySaveArticleRenderer WebView](https://hackerone.com/reports/176065) to Brave Software - 43 upvotes, $0
-21. [Information disclosure-Referer leak](https://hackerone.com/reports/1337624) to Brave Software - 43 upvotes, $0
+21. [Information disclosure-Referer leak](https://hackerone.com/reports/1337624) to Brave Software - 42 upvotes, $0
 22. [Browser is not following proper flow for redirection cause open redirect ](https://hackerone.com/reports/1579374) to Brave Software - 41 upvotes, $0
 23. [Onion-Location header allows to open arbitrary URLs including chrome:](https://hackerone.com/reports/1089995) to Brave Software - 40 upvotes, $0
 24. [UAF on JSEthereumProvider](https://hackerone.com/reports/1977252) to Brave Software - 38 upvotes, $0
@@ -53,12 +53,12 @@ Top reports from Brave Software program at HackerOne:
 51. [Persistent user tracking is possible using window.caches, by avoiding Brave Shields](https://hackerone.com/reports/1668815) to Brave Software - 14 upvotes, $0
 52. [[ios] Address bar spoofing in Brave for iOS](https://hackerone.com/reports/176929) to Brave Software - 13 upvotes, $0
 53. [Access to local file system using javascript](https://hackerone.com/reports/175979) to Brave Software - 13 upvotes, $0
-54. [Security token and handler name leak from window.braveBlockRequests](https://hackerone.com/reports/1668723) to Brave Software - 13 upvotes, $0
-55. [Torrent extension: Cross-origin downloading + "URL spoofing" + CSP-blocked XSS](https://hackerone.com/reports/378864) to Brave Software - 12 upvotes, $0
-56. [Navigation to restricted origins via "Open in new tab"](https://hackerone.com/reports/369218) to Brave Software - 12 upvotes, $0
-57. [chrome://brave can still be navigated to, leading to RCE](https://hackerone.com/reports/415178) to Brave Software - 12 upvotes, $0
-58. [HTTP Request Smuggling](https://hackerone.com/reports/866382) to Brave Software - 12 upvotes, $0
-59. [Brave News feeds can open arbitrary chrome: URLs](https://hackerone.com/reports/1819668) to Brave Software - 12 upvotes, $0
+54. [Torrent extension: Cross-origin downloading + "URL spoofing" + CSP-blocked XSS](https://hackerone.com/reports/378864) to Brave Software - 12 upvotes, $0
+55. [Navigation to restricted origins via "Open in new tab"](https://hackerone.com/reports/369218) to Brave Software - 12 upvotes, $0
+56. [chrome://brave can still be navigated to, leading to RCE](https://hackerone.com/reports/415178) to Brave Software - 12 upvotes, $0
+57. [HTTP Request Smuggling](https://hackerone.com/reports/866382) to Brave Software - 12 upvotes, $0
+58. [Brave News feeds can open arbitrary chrome: URLs](https://hackerone.com/reports/1819668) to Brave Software - 12 upvotes, $0
+59. [Security token and handler name leak from window.braveBlockRequests](https://hackerone.com/reports/1668723) to Brave Software - 12 upvotes, $0
 60. [Phishing/Malware site blocking on Brave iOS can be bypassed with trailing dot in hostname](https://hackerone.com/reports/1068505) to Brave Software - 12 upvotes, $0
 61. [Download attribute allows downloading local files](https://hackerone.com/reports/258710) to Brave Software - 11 upvotes, $0
 62. [Unsafe handling of protocol handlers](https://hackerone.com/reports/369185) to Brave Software - 11 upvotes, $0

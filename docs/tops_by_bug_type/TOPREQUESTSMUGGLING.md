@@ -17,38 +17,39 @@ Top Request Smuggling reports from HackerOne:
 15. [CVE-2024-21733 Apache Tomcat HTTP Request Smuggling (Client- Side Desync) (CWE: 444)](https://hackerone.com/reports/2327341) to Internet Bug Bounty - 57 upvotes, $4660
 16. [Potential HTTP Request Smuggling in ruby webrick](https://hackerone.com/reports/965267) to Ruby - 53 upvotes, $0
 17. [Request Smuggling in Apache Tomcat (Important, CVE-2023-45648)](https://hackerone.com/reports/2299692) to Internet Bug Bounty - 51 upvotes, $4660
-18. [HTTP Request Smuggling via Connection: close\<TAB\> in Node.js llhttp parser](https://hackerone.com/reports/3723248) to Node.js - 49 upvotes, $0
-19. [HTTP request smuggling with Origin Rules using newlines in the host_header action parameter](https://hackerone.com/reports/1575912) to Cloudflare Public Bug Bounty - 46 upvotes, $3100
-20. [HTTP Request Smuggling ](https://hackerone.com/reports/1120982) to U.S. Dept Of Defense - 40 upvotes, $0
-21. [Potential HTTP Request Smuggling in nodejs](https://hackerone.com/reports/1002188) to Node.js - 34 upvotes, $250
-22. [HTTP Request Smuggling on api.flocktory.com Leads to XSS on Customer Sites](https://hackerone.com/reports/955170) to QIWI - 29 upvotes, $0
-23. [HTTP request smuggling on Basecamp 2 allows web cache poisoning](https://hackerone.com/reports/919175) to Basecamp - 28 upvotes, $0
-24. [Unauthenticated request smuggling on launchpad.37signals.com](https://hackerone.com/reports/867577) to Basecamp - 26 upvotes, $0
-25. [Request smuggling on ████████](https://hackerone.com/reports/526880) to U.S. Dept Of Defense - 25 upvotes, $0
-26. [http request smuggling in pscp.tv and periscope.tv](https://hackerone.com/reports/713285) to X / xAI - 24 upvotes, $560
-27. [HTTP Request Smuggling Vulnerability Analysis - cURL Security Report](https://hackerone.com/reports/3249936) to curl - 23 upvotes, $0
-28. [Apache HTTP Server: mod_proxy_ajp: Possible request smuggling](https://hackerone.com/reports/1594627) to Internet Bug Bounty - 21 upvotes, $2400
-29. [Request Smuggling vulnerability due a vulnerable skipper reverse proxy running in the environment.](https://hackerone.com/reports/711679) to Razer - 18 upvotes, $375
-30. [HTTP Request Smuggling due to accepting space before colon](https://hackerone.com/reports/1238709) to Node.js - 18 upvotes, $250
-31. [[demo.stripo.email] HTTP request Smuggling](https://hackerone.com/reports/1631228) to Stripo Inc - 18 upvotes, $0
-32. [HTTP Request Smuggling via Content Length Obfuscation](https://hackerone.com/reports/2237099) to Node.js - 18 upvotes, $0
-33. [http request smuggling in  twitter.com](https://hackerone.com/reports/715996) to X / xAI - 17 upvotes, $0
-34. [HTTP Request Smuggling on https://consumer.acronis.com](https://hackerone.com/reports/1063627) to Acronis - 16 upvotes, $0
-35. [HTTP Request Smuggling Due to Incorrect Parsing of Header Fields](https://hackerone.com/reports/1888760) to Internet Bug Bounty - 15 upvotes, $1800
-36. [HTTP Request Smuggling via Empty headers separated by CR](https://hackerone.com/reports/2032842) to Internet Bug Bounty - 15 upvotes, $1800
-37. [HTTP Request Smuggling on my.stripo.email](https://hackerone.com/reports/777651) to Stripo Inc - 15 upvotes, $0
-38. [HTTP Request Smuggling via Silent Header Truncation in Node.js HTTP Parser](https://hackerone.com/reports/3564941) to Node.js - 15 upvotes, $0
-39. [ CVE-2022-32213 - HTTP Request Smuggling Due to Flawed Parsing of Transfer-Encoding](https://hackerone.com/reports/1630668) to Internet Bug Bounty - 13 upvotes, $1800
-40. [HTTP Request Smuggling](https://hackerone.com/reports/866382) to Brave Software - 12 upvotes, $0
-41. [HTTP Request Smuggling on https://promosandbox.acronis.com](https://hackerone.com/reports/1063493) to Acronis - 12 upvotes, $0
-42. [CVE-2022-32214 - HTTP Request Smuggling Due To Improper Delimiting of Header Fields](https://hackerone.com/reports/1630669) to Internet Bug Bounty - 11 upvotes, $1800
-43. [HTTP Request Smuggling](https://hackerone.com/reports/643225) to JamieWeb - 10 upvotes, $0
-44. [HTTP Request Smuggling Due To Improper Delimiting of Header Fields](https://hackerone.com/reports/1524692) to Node.js - 9 upvotes, $0
-45. [HTTP Request Smuggling and SSRF via CRLF Injection in Curl_add_custom_headers](https://hackerone.com/reports/3484431) to curl - 9 upvotes, $0
-46. [HTTP Request Smuggling due to ignoring chunk extensions](https://hackerone.com/reports/1238099) to Node.js - 7 upvotes, $250
-47. [HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Transfer-Encoding](https://hackerone.com/reports/1501679) to Node.js - 7 upvotes, $0
-48. [HTTP Request Smuggling Due to Flawed Parsing of Transfer-Encoding ](https://hackerone.com/reports/1524555) to Node.js - 7 upvotes, $0
-49. [HTTP Request Smuggling via Empty headers separated by CR](https://hackerone.com/reports/2001873) to Node.js - 7 upvotes, $0
-50. [ CVE-2022-32215 - HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Transfer-Encoding](https://hackerone.com/reports/1630667) to Internet Bug Bounty - 6 upvotes, $1800
-51. [HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Transfer-Encoding (improper fix for CVE-2022-32215)](https://hackerone.com/reports/1665156) to Node.js - 6 upvotes, $0
-52. [HTTP Request Smuggling Due to Incorrect Parsing of Header Fields](https://hackerone.com/reports/1675191) to Node.js - 6 upvotes, $0
+18. [HTTP Request Smuggling via Unsanitized Hop-by-Hop Headers](https://hackerone.com/reports/3622877) to Cloudflare Public Bug Bounty - 51 upvotes, $1500
+19. [HTTP Request Smuggling via Connection: close\<TAB\> in Node.js llhttp parser](https://hackerone.com/reports/3723248) to Node.js - 49 upvotes, $0
+20. [HTTP request smuggling with Origin Rules using newlines in the host_header action parameter](https://hackerone.com/reports/1575912) to Cloudflare Public Bug Bounty - 46 upvotes, $3100
+21. [HTTP Request Smuggling ](https://hackerone.com/reports/1120982) to U.S. Dept Of Defense - 40 upvotes, $0
+22. [Potential HTTP Request Smuggling in nodejs](https://hackerone.com/reports/1002188) to Node.js - 34 upvotes, $250
+23. [HTTP Request Smuggling on api.flocktory.com Leads to XSS on Customer Sites](https://hackerone.com/reports/955170) to QIWI - 29 upvotes, $0
+24. [HTTP request smuggling on Basecamp 2 allows web cache poisoning](https://hackerone.com/reports/919175) to Basecamp - 28 upvotes, $0
+25. [Unauthenticated request smuggling on launchpad.37signals.com](https://hackerone.com/reports/867577) to Basecamp - 26 upvotes, $0
+26. [Request smuggling on ████████](https://hackerone.com/reports/526880) to U.S. Dept Of Defense - 25 upvotes, $0
+27. [http request smuggling in pscp.tv and periscope.tv](https://hackerone.com/reports/713285) to X / xAI - 24 upvotes, $560
+28. [HTTP Request Smuggling Vulnerability Analysis - cURL Security Report](https://hackerone.com/reports/3249936) to curl - 23 upvotes, $0
+29. [Apache HTTP Server: mod_proxy_ajp: Possible request smuggling](https://hackerone.com/reports/1594627) to Internet Bug Bounty - 21 upvotes, $2400
+30. [Request Smuggling vulnerability due a vulnerable skipper reverse proxy running in the environment.](https://hackerone.com/reports/711679) to Razer - 18 upvotes, $375
+31. [HTTP Request Smuggling due to accepting space before colon](https://hackerone.com/reports/1238709) to Node.js - 18 upvotes, $250
+32. [[demo.stripo.email] HTTP request Smuggling](https://hackerone.com/reports/1631228) to Stripo Inc - 18 upvotes, $0
+33. [HTTP Request Smuggling via Content Length Obfuscation](https://hackerone.com/reports/2237099) to Node.js - 18 upvotes, $0
+34. [http request smuggling in  twitter.com](https://hackerone.com/reports/715996) to X / xAI - 17 upvotes, $0
+35. [HTTP Request Smuggling via Empty headers separated by CR](https://hackerone.com/reports/2032842) to Internet Bug Bounty - 16 upvotes, $1800
+36. [HTTP Request Smuggling on https://consumer.acronis.com](https://hackerone.com/reports/1063627) to Acronis - 16 upvotes, $0
+37. [HTTP Request Smuggling via Silent Header Truncation in Node.js HTTP Parser](https://hackerone.com/reports/3564941) to Node.js - 16 upvotes, $0
+38. [HTTP Request Smuggling Due to Incorrect Parsing of Header Fields](https://hackerone.com/reports/1888760) to Internet Bug Bounty - 15 upvotes, $1800
+39. [HTTP Request Smuggling on my.stripo.email](https://hackerone.com/reports/777651) to Stripo Inc - 15 upvotes, $0
+40. [ CVE-2022-32213 - HTTP Request Smuggling Due to Flawed Parsing of Transfer-Encoding](https://hackerone.com/reports/1630668) to Internet Bug Bounty - 13 upvotes, $1800
+41. [HTTP Request Smuggling](https://hackerone.com/reports/866382) to Brave Software - 12 upvotes, $0
+42. [HTTP Request Smuggling on https://promosandbox.acronis.com](https://hackerone.com/reports/1063493) to Acronis - 12 upvotes, $0
+43. [CVE-2022-32214 - HTTP Request Smuggling Due To Improper Delimiting of Header Fields](https://hackerone.com/reports/1630669) to Internet Bug Bounty - 11 upvotes, $1800
+44. [HTTP Request Smuggling](https://hackerone.com/reports/643225) to JamieWeb - 10 upvotes, $0
+45. [HTTP Request Smuggling Due To Improper Delimiting of Header Fields](https://hackerone.com/reports/1524692) to Node.js - 9 upvotes, $0
+46. [HTTP Request Smuggling and SSRF via CRLF Injection in Curl_add_custom_headers](https://hackerone.com/reports/3484431) to curl - 9 upvotes, $0
+47. [HTTP Request Smuggling via Empty headers separated by CR](https://hackerone.com/reports/2001873) to Node.js - 8 upvotes, $0
+48. [HTTP Request Smuggling due to ignoring chunk extensions](https://hackerone.com/reports/1238099) to Node.js - 7 upvotes, $250
+49. [HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Transfer-Encoding](https://hackerone.com/reports/1501679) to Node.js - 7 upvotes, $0
+50. [HTTP Request Smuggling Due to Flawed Parsing of Transfer-Encoding ](https://hackerone.com/reports/1524555) to Node.js - 7 upvotes, $0
+51. [ CVE-2022-32215 - HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Transfer-Encoding](https://hackerone.com/reports/1630667) to Internet Bug Bounty - 6 upvotes, $1800
+52. [HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Transfer-Encoding (improper fix for CVE-2022-32215)](https://hackerone.com/reports/1665156) to Node.js - 6 upvotes, $0
+53. [HTTP Request Smuggling Due to Incorrect Parsing of Header Fields](https://hackerone.com/reports/1675191) to Node.js - 6 upvotes, $0

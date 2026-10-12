@@ -31,10 +31,10 @@ Top reports from Node.js program at HackerOne:
 29. [Potential HTTP Request Smuggling in nodejs](https://hackerone.com/reports/1002188) to Node.js - 34 upvotes, $250
 30. [fs.futimes() Bypasses Read-Only Permission Model](https://hackerone.com/reports/3390084) to Node.js - 34 upvotes, $0
 31. [FS Permissions Bypass](https://hackerone.com/reports/3417819) to Node.js - 34 upvotes, $0
-32. [Memory leak that enables remote Denial of Service against applications processing TLS client certificates](https://hackerone.com/reports/3357723) to Node.js - 33 upvotes, $0
+32. [Memory leak that enables remote Denial of Service against applications processing TLS client certificates](https://hackerone.com/reports/3357723) to Node.js - 34 upvotes, $0
 33. [HTTP/2 sessions never clean up after GOAWAY on invalid protocol errors](https://hackerone.com/reports/3658225) to Node.js - 33 upvotes, $0
-34. [Permission Model: --allow-fs-read/--allow-fs-write radix-tree prefix-boundary over-grant](https://hackerone.com/reports/3761342) to Node.js - 32 upvotes, $0
-35. [Memory Corruption via TOCTOU Race in SharedArrayBuffer UTF-8 Decode (`StringBytes::Encode`)](https://hackerone.com/reports/3752489) to Node.js - 31 upvotes, $0
+34. [Permission Model: --allow-fs-read/--allow-fs-write radix-tree prefix-boundary over-grant](https://hackerone.com/reports/3761342) to Node.js - 33 upvotes, $0
+35. [Memory Corruption via TOCTOU Race in SharedArrayBuffer UTF-8 Decode (`StringBytes::Encode`)](https://hackerone.com/reports/3752489) to Node.js - 32 upvotes, $0
 36. [Node.js: TLS session reuse can lead to hostname verification bypass](https://hackerone.com/reports/811502) to Node.js - 29 upvotes, $0
 37. [Permission Model Bypass via `process.report.writeReport()` Path Misvalidation](https://hackerone.com/reports/3692858) to Node.js - 29 upvotes, $0
 38. [Improper Input Validation — HTTP Response Parser Unconditionally Accepts Bare CR in Status Line](https://hackerone.com/reports/3648681) to Node.js - 29 upvotes, $0
@@ -62,46 +62,46 @@ Top reports from Node.js program at HackerOne:
 60. [Bypass network import restriction via data URL](https://hackerone.com/reports/2092749) to Node.js - 18 upvotes, $0
 61. [fs.lstat bypasses permission model](https://hackerone.com/reports/2145862) to Node.js - 18 upvotes, $0
 62. [Node.js unicode dot separator handling can lead to tls wildcard-depth authentication bypass due to resolver and verifier hostname normalization mismat](https://hackerone.com/reports/3688064) to Node.js - 18 upvotes, $0
-63. [DNS rebinding in --inspect (insufficient fix of CVE-2022-32212 affecting macOS devices)](https://hackerone.com/reports/1632921) to Node.js - 16 upvotes, $0
-64. [Node.js is vulnerable to the Marvin Attack (timing variant of the Bleichenbacher attack against PKCS#1 v1.5 padding)](https://hackerone.com/reports/2269177) to Node.js - 16 upvotes, $0
-65. [Timing side-channel in HMAC verification via memcmp() in crypto_hmac.cc leads to potential MAC forgery](https://hackerone.com/reports/3533945) to Node.js - 16 upvotes, $0
-66. [Remotely trigger an assertion on a TLS server with a malformed certificate string](https://hackerone.com/reports/746733) to Node.js - 15 upvotes, $0
-67. [Prototype pollution via console.table properties](https://hackerone.com/reports/1431042) to Node.js - 15 upvotes, $0
-68. [Permission Model Bypass in realpathSync.native Allows File Existence Disclosure](https://hackerone.com/reports/3480841) to Node.js - 15 upvotes, $0
-69. [Re-entrant `nghttp2_session_mem_send()` during `nghttp2_session_mem_recv()` causes heap-use-after-free in Node.js HTTP/2](https://hackerone.com/reports/3833629) to Node.js - 15 upvotes, $0
-70. [HTTP Request Smuggling via Silent Header Truncation in Node.js HTTP Parser](https://hackerone.com/reports/3564941) to Node.js - 15 upvotes, $0
+63. [Re-entrant `nghttp2_session_mem_send()` during `nghttp2_session_mem_recv()` causes heap-use-after-free in Node.js HTTP/2](https://hackerone.com/reports/3833629) to Node.js - 17 upvotes, $0
+64. [Prototype pollution via console.table properties](https://hackerone.com/reports/1431042) to Node.js - 16 upvotes, $0
+65. [DNS rebinding in --inspect (insufficient fix of CVE-2022-32212 affecting macOS devices)](https://hackerone.com/reports/1632921) to Node.js - 16 upvotes, $0
+66. [Node.js is vulnerable to the Marvin Attack (timing variant of the Bleichenbacher attack against PKCS#1 v1.5 padding)](https://hackerone.com/reports/2269177) to Node.js - 16 upvotes, $0
+67. [Timing side-channel in HMAC verification via memcmp() in crypto_hmac.cc leads to potential MAC forgery](https://hackerone.com/reports/3533945) to Node.js - 16 upvotes, $0
+68. [HTTP Request Smuggling via Silent Header Truncation in Node.js HTTP Parser](https://hackerone.com/reports/3564941) to Node.js - 16 upvotes, $0
+69. [Remotely trigger an assertion on a TLS server with a malformed certificate string](https://hackerone.com/reports/746733) to Node.js - 15 upvotes, $0
+70. [Permission Model Bypass in realpathSync.native Allows File Existence Disclosure](https://hackerone.com/reports/3480841) to Node.js - 15 upvotes, $0
 71. [Malformed HTTP/2 SETTINGS frame leads to reachable assert](https://hackerone.com/reports/800140) to Node.js - 14 upvotes, $250
 72. [http: Reading unprocessed HTTP request with unbounded chunk extension allows DoS attacks](https://hackerone.com/reports/2233486) to Node.js - 13 upvotes, $0
 73. [GOAWAY HTTP/2 frames cause memory leak outside heap](https://hackerone.com/reports/2841362) to Node.js - 13 upvotes, $0
 74. [Node --run POSIX positional argument escaping allows shell command injection](https://hackerone.com/reports/3817602) to Node.js - 13 upvotes, $0
 75. [Node.js WebCrypto AES Integer Overflow Leads to Remote Process Abort (DoS)](https://hackerone.com/reports/3760016) to Node.js - 13 upvotes, $0
 76. [Off-by-slash vulnerability in nodejs.org and iojs.org](https://hackerone.com/reports/1631350) to Node.js - 12 upvotes, $0
-77. [url.parse() hostname spoofing via javascript: URIs](https://hackerone.com/reports/395845) to Node.js - 11 upvotes, $0
-78. [HTTP header values do not have trailing OWS trimmed](https://hackerone.com/reports/730779) to Node.js - 11 upvotes, $0
-79. [Weak randomness in WebCrypto keygen](https://hackerone.com/reports/1690000) to Node.js - 11 upvotes, $0
-80. [CRLF Injection in Nodejs ‘undici’ via host](https://hackerone.com/reports/1820955) to Node.js - 11 upvotes, $0
-81. [fetch with integrity option is too lax when algorithm is specified but hash value is in incorrect](https://hackerone.com/reports/2377760) to Node.js - 11 upvotes, $0
-82. [HTTP Response Queue Poisoning via TOCTOU Race Condition in `http.Agent`](https://hackerone.com/reports/3582376) to Node.js - 11 upvotes, $0
-83. [HTTP/2 retained header blocks evade maxSessionMemory and enable remote memory exhaustion](https://hackerone.com/reports/3846922) to Node.js - 11 upvotes, $0
-84. [Reachable assertion in node:zlib sync API crashes the entire process via spoofed TypedArray byteLength (all 11 *Sync functions affected)](https://hackerone.com/reports/3857258) to Node.js - 11 upvotes, $0
-85. [Node Installer Local Privilege Escalation ](https://hackerone.com/reports/1211160) to Node.js - 10 upvotes, $0
-86. [Node.js Permission Model bypass: UDS server bind/listen works without `--allow-net`](https://hackerone.com/reports/3559715) to Node.js - 10 upvotes, $0
-87. [node:sqlite SQLTagStore Iterator Replay Lets Attacker Re-Execute Victim-Bound Writes Indefinitely](https://hackerone.com/reports/3795900) to Node.js - 10 upvotes, $0
-88. [dns.resolveAny() Aborts the Node.js Process When a DNS Response Contains More Than 256 A Records](https://hackerone.com/reports/3795657) to Node.js - 10 upvotes, $0
+77. [HTTP/2 retained header blocks evade maxSessionMemory and enable remote memory exhaustion](https://hackerone.com/reports/3846922) to Node.js - 12 upvotes, $0
+78. [dns.resolveAny() Aborts the Node.js Process When a DNS Response Contains More Than 256 A Records](https://hackerone.com/reports/3795657) to Node.js - 12 upvotes, $0
+79. [Reachable assertion in node:zlib sync API crashes the entire process via spoofed TypedArray byteLength (all 11 *Sync functions affected)](https://hackerone.com/reports/3857258) to Node.js - 12 upvotes, $0
+80. [url.parse() hostname spoofing via javascript: URIs](https://hackerone.com/reports/395845) to Node.js - 11 upvotes, $0
+81. [HTTP header values do not have trailing OWS trimmed](https://hackerone.com/reports/730779) to Node.js - 11 upvotes, $0
+82. [Weak randomness in WebCrypto keygen](https://hackerone.com/reports/1690000) to Node.js - 11 upvotes, $0
+83. [CRLF Injection in Nodejs ‘undici’ via host](https://hackerone.com/reports/1820955) to Node.js - 11 upvotes, $0
+84. [fetch with integrity option is too lax when algorithm is specified but hash value is in incorrect](https://hackerone.com/reports/2377760) to Node.js - 11 upvotes, $0
+85. [HTTP Response Queue Poisoning via TOCTOU Race Condition in `http.Agent`](https://hackerone.com/reports/3582376) to Node.js - 11 upvotes, $0
+86. [node:sqlite SQLTagStore Iterator Replay Lets Attacker Re-Execute Victim-Bound Writes Indefinitely](https://hackerone.com/reports/3795900) to Node.js - 11 upvotes, $0
+87. [Node Installer Local Privilege Escalation ](https://hackerone.com/reports/1211160) to Node.js - 10 upvotes, $0
+88. [Node.js Permission Model bypass: UDS server bind/listen works without `--allow-net`](https://hackerone.com/reports/3559715) to Node.js - 10 upvotes, $0
 89. [Multiple HTTP/2 DOS Issues](https://hackerone.com/reports/589739) to Node.js - 9 upvotes, $0
 90. [HTTP Request Smuggling Due To Improper Delimiting of Header Fields](https://hackerone.com/reports/1524692) to Node.js - 9 upvotes, $0
 91. [Proxy-Authorization header not cleared on cross-origin redirect in undici.request](https://hackerone.com/reports/2408074) to Node.js - 9 upvotes, $0
 92. [Denial of Service by resource exhaustion CWE-400 due to unfinished HTTP/1.1 requests](https://hackerone.com/reports/868834) to Node.js - 8 upvotes, $250
 93. [Slowloris, body parsing](https://hackerone.com/reports/799072) to Node.js - 8 upvotes, $250
 94. [Your page has 2 blocking CSS resources. This causes a delay in rendering your page.](https://hackerone.com/reports/365968) to Node.js - 8 upvotes, $0
-95. [The use of __proto__ in process.mainModule.__proto__.require() bypasses the permission system in Node v19.6.1](https://hackerone.com/reports/1877919) to Node.js - 8 upvotes, $0
-96. [Unix domain socket server bypasses --permission network restrictions (incomplete CVE-2026-21636 fix)](https://hackerone.com/reports/3618831) to Node.js - 8 upvotes, $0
-97. [napi_get_value_string_X allow various kinds of memory corruption](https://hackerone.com/reports/784186) to Node.js - 7 upvotes, $250
-98. [HTTP Request Smuggling due to ignoring chunk extensions](https://hackerone.com/reports/1238099) to Node.js - 7 upvotes, $250
-99. [HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Transfer-Encoding](https://hackerone.com/reports/1501679) to Node.js - 7 upvotes, $0
-100. [HTTP Request Smuggling Due to Flawed Parsing of Transfer-Encoding ](https://hackerone.com/reports/1524555) to Node.js - 7 upvotes, $0
-101. [Permissions policies can be bypassed via process.mainModule](https://hackerone.com/reports/1747642) to Node.js - 7 upvotes, $0
-102. [HTTP Request Smuggling via Empty headers separated by CR](https://hackerone.com/reports/2001873) to Node.js - 7 upvotes, $0
+95. [HTTP Request Smuggling via Empty headers separated by CR](https://hackerone.com/reports/2001873) to Node.js - 8 upvotes, $0
+96. [The use of __proto__ in process.mainModule.__proto__.require() bypasses the permission system in Node v19.6.1](https://hackerone.com/reports/1877919) to Node.js - 8 upvotes, $0
+97. [Unix domain socket server bypasses --permission network restrictions (incomplete CVE-2026-21636 fix)](https://hackerone.com/reports/3618831) to Node.js - 8 upvotes, $0
+98. [napi_get_value_string_X allow various kinds of memory corruption](https://hackerone.com/reports/784186) to Node.js - 7 upvotes, $250
+99. [HTTP Request Smuggling due to ignoring chunk extensions](https://hackerone.com/reports/1238099) to Node.js - 7 upvotes, $250
+100. [HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Transfer-Encoding](https://hackerone.com/reports/1501679) to Node.js - 7 upvotes, $0
+101. [HTTP Request Smuggling Due to Flawed Parsing of Transfer-Encoding ](https://hackerone.com/reports/1524555) to Node.js - 7 upvotes, $0
+102. [Permissions policies can be bypassed via process.mainModule](https://hackerone.com/reports/1747642) to Node.js - 7 upvotes, $0
 103. [DiffieHellman doesn't generate keys after setting a key](https://hackerone.com/reports/1927480) to Node.js - 7 upvotes, $0
 104. [Memory leak in Node.js HTTP/2 server via WINDOW_UPDATE on stream 0 leads to resource exhaustion](https://hackerone.com/reports/3531737) to Node.js - 7 upvotes, $0
 105. [CVE-2024-36137 Patch Bypass - FileHandle.chmod/chown](https://hackerone.com/reports/3449392) to Node.js - 7 upvotes, $0

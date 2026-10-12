@@ -1,6 +1,6 @@
 Top Race Condition reports from HackerOne:
 
-1. [Race Condition allows to redeem multiple times gift cards which leads to free "money"](https://hackerone.com/reports/759247) to Reverb.com - 307 upvotes, $0
+1. [Race Condition allows to redeem multiple times gift cards which leads to free "money"](https://hackerone.com/reports/759247) to Reverb.com - 308 upvotes, $0
 2. [Race condition in performing retest allows duplicated payments](https://hackerone.com/reports/429026) to HackerOne - 239 upvotes, $0
 3. [Client-Side Race Condition using Marketo, allows sending user to data-protocol in Safari when form without onSuccess is submitted on www.hackerone.com](https://hackerone.com/reports/381356) to HackerOne - 154 upvotes, $0
 4. [Race Condition leads to undeletable group member](https://hackerone.com/reports/604534) to HackerOne - 153 upvotes, $0
@@ -29,14 +29,14 @@ Top Race Condition reports from HackerOne:
 27. [Race Condition on Create API Function](https://hackerone.com/reports/2682392) to Enjin - 45 upvotes, $0
 28. [Race Condition in Redeeming Coupons](https://hackerone.com/reports/157996) to Instacart - 43 upvotes, $0
 29. [Timeout-based race conditions make Uint8Array/Buffer.alloc non-zerofilled](https://hackerone.com/reports/3405778) to Node.js - 43 upvotes, $0
-30. [Race condition in up voting and down voting](https://hackerone.com/reports/183837) to Urban Dictionary - 42 upvotes, $0
-31. [Race condition leads to Inflation of coins when bought via Google Play Store at endpoint https://oauth.reddit.com/api/v2/gold/android/verify_purchase ](https://hackerone.com/reports/801743) to Reddit - 41 upvotes, $0
+30. [Race condition leads to Inflation of coins when bought via Google Play Store at endpoint https://oauth.reddit.com/api/v2/gold/android/verify_purchase ](https://hackerone.com/reports/801743) to Reddit - 42 upvotes, $0
+31. [Race condition in up voting and down voting](https://hackerone.com/reports/183837) to Urban Dictionary - 42 upvotes, $0
 32. [MozillaVPN: Elevation of Privilege via a Race Condition Vulnerability](https://hackerone.com/reports/2261577) to Mozilla - 41 upvotes, $0
 33. [Not a Vuln: Race Condition Allows Creation of Multiple Organizations with the Same Name](https://hackerone.com/reports/3248712) to WakaTime - 40 upvotes, $0
 34. [Race conditions can be used to bypass invitation limit](https://hackerone.com/reports/115007) to Keybase - 39 upvotes, $0
 35. [Race condition at create new Location](https://hackerone.com/reports/413759) to Shopify - 36 upvotes, $500
 36. [Race condition via project team member invitation system.](https://hackerone.com/reports/1108291) to Enjin - 35 upvotes, $0
-37. [Exceeding the maximum number of spaces allowed by exploiting a Race Condition in the Workspace creation process](https://hackerone.com/reports/3295500) to SingleStore - 34 upvotes, $0
+37. [Exceeding the maximum number of spaces allowed by exploiting a Race Condition in the Workspace creation process](https://hackerone.com/reports/3295500) to SingleStore - 35 upvotes, $0
 38. [JSBeautifier BApp: Race condition leads to memory disclosure](https://hackerone.com/reports/187134) to PortSwigger Web Security - 32 upvotes, $0
 39. [Race condition на market.games.mail.ru](https://hackerone.com/reports/317557) to Mail.ru - 31 upvotes, $1000
 40. [Race condition in endpoint POST fetlife.com/users/invitation, allow attacker to generate unlimited invites](https://hackerone.com/reports/1460373) to FetLife - 30 upvotes, $0
