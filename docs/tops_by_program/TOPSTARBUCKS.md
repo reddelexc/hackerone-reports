@@ -64,12 +64,12 @@ Top reports from Starbucks program at HackerOne:
 62. [Possible SOP bypass in www.starbucks.com due to insecure crossdomain.xml](https://hackerone.com/reports/244504) to Starbucks - 29 upvotes, $0
 63. [Full Api Access and Run All Functions via Starbucks App](https://hackerone.com/reports/232650) to Starbucks - 28 upvotes, $0
 64. [Thailand - IDOR on www.starbuckscardth.in.th: A logged in user could view any Thailand Starbucks card balance if they knew that Starbucks card number](https://hackerone.com/reports/858662) to Starbucks - 28 upvotes, $0
-65. [[stagecafrstore.starbucks.com] CRLF Injection, XSS](https://hackerone.com/reports/192667) to Starbucks - 27 upvotes, $0
-66. [SQL injection in partner id field on https://www.teavana.com (Sign-up form)](https://hackerone.com/reports/269279) to Starbucks - 27 upvotes, $0
-67. [XSS on https://www.starbucks.co.uk (can lead to credit card theft) (/shop/paymentmethod)](https://hackerone.com/reports/227486) to Starbucks - 27 upvotes, $0
-68. [Norway - store.starbucks.no - CSRF on email change](https://hackerone.com/reports/718852) to Starbucks - 27 upvotes, $0
-69. [DOM XSS on app.starbucks.com via ReturnUrl](https://hackerone.com/reports/526265) to Starbucks - 27 upvotes, $0
-70. [Reflected XSS by exploiting CSRF vulnerability on teavana.com wishlist comment module. (wishlist-comments)](https://hackerone.com/reports/177508) to Starbucks - 26 upvotes, $0
+65. [Reflected XSS by exploiting CSRF vulnerability on teavana.com wishlist comment module. (wishlist-comments)](https://hackerone.com/reports/177508) to Starbucks - 27 upvotes, $0
+66. [[stagecafrstore.starbucks.com] CRLF Injection, XSS](https://hackerone.com/reports/192667) to Starbucks - 27 upvotes, $0
+67. [SQL injection in partner id field on https://www.teavana.com (Sign-up form)](https://hackerone.com/reports/269279) to Starbucks - 27 upvotes, $0
+68. [XSS on https://www.starbucks.co.uk (can lead to credit card theft) (/shop/paymentmethod)](https://hackerone.com/reports/227486) to Starbucks - 27 upvotes, $0
+69. [Norway - store.starbucks.no - CSRF on email change](https://hackerone.com/reports/718852) to Starbucks - 27 upvotes, $0
+70. [DOM XSS on app.starbucks.com via ReturnUrl](https://hackerone.com/reports/526265) to Starbucks - 27 upvotes, $0
 71. [Bulgaria - Subdomain takeover of mail.starbucks.bg](https://hackerone.com/reports/736863) to Starbucks - 26 upvotes, $0
 72. [Possible subdomain takeover at openapi.starbucks.com](https://hackerone.com/reports/241503) to Starbucks - 24 upvotes, $0
 73. [[newscdn.starbucks.com] CRLF Injection, XSS](https://hackerone.com/reports/192749) to Starbucks - 23 upvotes, $0

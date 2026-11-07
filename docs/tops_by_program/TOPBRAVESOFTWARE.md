@@ -4,7 +4,7 @@ Top reports from Brave Software program at HackerOne:
 2. [Open redirect due to scanning QR code via brave browser](https://hackerone.com/reports/1946534) to Brave Software - 148 upvotes, $0
 3. [Stored XSS in localhost:* via integrated torrent downloader](https://hackerone.com/reports/681617) to Brave Software - 124 upvotes, $0
 4. [Null Pointer Dereference by Crafted Response from AI Model](https://hackerone.com/reports/2958097) to Brave Software - 116 upvotes, $0
-5. [ Incorrect security UI of files' download source on brave MacOS](https://hackerone.com/reports/2888770) to Brave Software - 86 upvotes, $0
+5. [ Incorrect security UI of files' download source on brave MacOS](https://hackerone.com/reports/2888770) to Brave Software - 87 upvotes, $0
 6. [Cookie steal through content Uri](https://hackerone.com/reports/876192) to Brave Software - 79 upvotes, $0
 7. [Prompt Injection via GitHub Patch in Brave AI Chat (Leo)](https://hackerone.com/reports/3086301) to Brave Software - 77 upvotes, $0
 8. [Local files reading from the web using `brave://`](https://hackerone.com/reports/390013) to Brave Software - 74 upvotes, $0
@@ -13,9 +13,9 @@ Top reports from Brave Software program at HackerOne:
 11. [UXss on brave browser via scan QR Code](https://hackerone.com/reports/1884042) to Brave Software - 68 upvotes, $0
 12. [Sending arbitrary IPC messages via overriding Function.prototype.apply](https://hackerone.com/reports/188086) to Brave Software - 53 upvotes, $0
 13. [Lack of quarantine meta-attribute for downloaded files leads to GateKeeper bypass](https://hackerone.com/reports/374106) to Brave Software - 52 upvotes, $0
-14. [DNS Leaks when using any VPN Browser extension with Brave Shield enabled](https://hackerone.com/reports/1203842) to Brave Software - 51 upvotes, $0
-15. [Brave Shields Domain Reordering Leads to Origin Confusion](https://hackerone.com/reports/3665151) to Brave Software - 51 upvotes, $0
-16. [iOS Brave Playlist "Open in Private Tab" bypasses FaceID requirement for Private Tabs](https://hackerone.com/reports/3693295) to Brave Software - 48 upvotes, $0
+14. [Brave Shields Domain Reordering Leads to Origin Confusion](https://hackerone.com/reports/3665151) to Brave Software - 52 upvotes, $0
+15. [DNS Leaks when using any VPN Browser extension with Brave Shield enabled](https://hackerone.com/reports/1203842) to Brave Software - 51 upvotes, $0
+16. [iOS Brave Playlist "Open in Private Tab" bypasses FaceID requirement for Private Tabs](https://hackerone.com/reports/3693295) to Brave Software - 49 upvotes, $0
 17. [`chrome://brave` available for navigation in Release build [-\> RCE] + navigation to `chrome://*` using tab_helper ["Open in new tab"]](https://hackerone.com/reports/395737) to Brave Software - 46 upvotes, $0
 18. [Brave Android: Incorrect URL Eliding in Brave Shields Pop Up](https://hackerone.com/reports/2501378) to Brave Software - 45 upvotes, $0
 19. [Local files reading using `link[rel="import"]`](https://hackerone.com/reports/375329) to Brave Software - 43 upvotes, $0

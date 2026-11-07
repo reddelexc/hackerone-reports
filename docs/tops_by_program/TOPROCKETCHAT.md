@@ -1,7 +1,7 @@
 Top reports from Rocket.Chat program at HackerOne:
 
-1. [Complete authentication bypass to admin permissions](https://hackerone.com/reports/3564655) to Rocket.Chat - 99 upvotes, $0
-2. [Stored XSS in Rocket.Chat HTML File Export — Unauthenticated Entry via LiveChat](https://hackerone.com/reports/3779690) to Rocket.Chat - 96 upvotes, $0
+1. [Complete authentication bypass to admin permissions](https://hackerone.com/reports/3564655) to Rocket.Chat - 100 upvotes, $0
+2. [Stored XSS in Rocket.Chat HTML File Export — Unauthenticated Entry via LiveChat](https://hackerone.com/reports/3779690) to Rocket.Chat - 97 upvotes, $0
 3. [IDOR vulnerability leads to Deleting message after leaving/getting banned from group using message ID](https://hackerone.com/reports/2028450) to Rocket.Chat - 86 upvotes, $0
 4. [Autotranslate DDP Method Exposes Private Messages Without Authentication or Room Access Check](https://hackerone.com/reports/3734326) to Rocket.Chat - 74 upvotes, $0
 5. [XSS via /api/v1/chat.postMessage ](https://hackerone.com/reports/219957) to Rocket.Chat - 73 upvotes, $0
@@ -9,17 +9,17 @@ Top reports from Rocket.Chat program at HackerOne:
 7. [Blind SQL injection in third-party software, that allows to reveal user statistic from rocket.chat and possibly hack into the rocketchat.agilecrm.com](https://hackerone.com/reports/433792) to Rocket.Chat - 61 upvotes, $0
 8. [Guest Privilege Escalation to admin group](https://hackerone.com/reports/501081) to Rocket.Chat - 59 upvotes, $0
 9. [Unauthenticated full-read SSRF via Twilio integration](https://hackerone.com/reports/1886954) to Rocket.Chat - 52 upvotes, $0
-10. [Unauthenticated reading of every file via livechat auth and predicting MongoDB ObjectId()](https://hackerone.com/reports/3687142) to Rocket.Chat - 48 upvotes, $0
+10. [Unauthenticated reading of every file via livechat auth and predicting MongoDB ObjectId()](https://hackerone.com/reports/3687142) to Rocket.Chat - 49 upvotes, $0
 11. [Upload of Avatars for other Users](https://hackerone.com/reports/501084) to Rocket.Chat - 47 upvotes, $0
 12. [Unauthenticated Path Traversal (LFI) via /custom-sounds/ when CustomSounds uses FileSystem storage](https://hackerone.com/reports/3514640) to Rocket.Chat - 47 upvotes, $0
 13. [IDOR: autotranslate.translateMessage Full Message Content Leak](https://hackerone.com/reports/3713682) to Rocket.Chat - 43 upvotes, $0
 14. [Account takeover via XSS](https://hackerone.com/reports/735638) to Rocket.Chat - 41 upvotes, $0
 15. [Remote Code Execution in Rocket.Chat-Desktop](https://hackerone.com/reports/943725) to Rocket.Chat - 40 upvotes, $0
 16. [RBAC bypass on App log endpoints via `permissionRequired` typo — any authenticated user reads admin-only Enterprise App logs](https://hackerone.com/reports/3589551) to Rocket.Chat - 40 upvotes, $0
-17. [Authentication Bypass via XML Signature Wrapping in SAML SSO](https://hackerone.com/reports/3827674) to Rocket.Chat - 38 upvotes, $0
+17. [Authentication Bypass via XML Signature Wrapping in SAML SSO](https://hackerone.com/reports/3827674) to Rocket.Chat - 39 upvotes, $0
 18. [Remote code execution by hijacking an unclaimed S3 bucket in Rocket.Chat's installation script.](https://hackerone.com/reports/399166) to Rocket.Chat - 35 upvotes, $0
-19. [Online Status of arbitrary users can be changed](https://hackerone.com/reports/501077) to Rocket.Chat - 33 upvotes, $0
-20. [Unauthenticated file deletion via deleteFileMessage DDP method allows permanent destruction of any uploaded file](https://hackerone.com/reports/3611837) to Rocket.Chat - 33 upvotes, $0
+19. [Unauthenticated file deletion via deleteFileMessage DDP method allows permanent destruction of any uploaded file](https://hackerone.com/reports/3611837) to Rocket.Chat - 34 upvotes, $0
+20. [Online Status of arbitrary users can be changed](https://hackerone.com/reports/501077) to Rocket.Chat - 33 upvotes, $0
 21. [Open Redirect in Rocket.Chat](https://hackerone.com/reports/3418031) to Rocket.Chat - 32 upvotes, $0
 22. [XSS leads to RCE on the RocketChat desktop client.](https://hackerone.com/reports/899964) to Rocket.Chat - 31 upvotes, $0
 23. [Authentication Bypass in login-token Authentication Method](https://hackerone.com/reports/1447619) to Rocket.Chat - 31 upvotes, $0
@@ -27,7 +27,7 @@ Top reports from Rocket.Chat program at HackerOne:
 25. [Registration bypass with leaked Invite Token](https://hackerone.com/reports/1071102) to Rocket.Chat - 29 upvotes, $0
 26. [Unauthenticated SSRF in Voxtelesys integration ('checkUrlForSsrf' Bypass via DNS rebinding)](https://hackerone.com/reports/3473145) to Rocket.Chat - 28 upvotes, $0
 27. [[Security Vulnerability Rocket.chat] HTML Injection into Email via Signup](https://hackerone.com/reports/833470) to Rocket.Chat - 27 upvotes, $0
-28. [SSRF via improper validation after DNS name resolution in the link-preview feature](https://hackerone.com/reports/3393664) to Rocket.Chat - 26 upvotes, $0
+28. [SSRF via improper validation after DNS name resolution in the link-preview feature](https://hackerone.com/reports/3393664) to Rocket.Chat - 27 upvotes, $0
 29. [Bypassing 2FA with conventional session management - open.rocket.chat](https://hackerone.com/reports/1701378) to Rocket.Chat - 25 upvotes, $0
 30. [SSRF via Improper Redirect Validation in Rocket.Chat oEmbed Function](https://hackerone.com/reports/3383079) to Rocket.Chat - 25 upvotes, $0
 31. [Stored XSS in any message (leads to priv esc for all users and file leak + rce via electron app)](https://hackerone.com/reports/1014459) to Rocket.Chat - 24 upvotes, $0
@@ -38,8 +38,8 @@ Top reports from Rocket.Chat program at HackerOne:
 36. [Low authorization level at server side API operation e2e.updateGroupKey, let an attacker break the E2E architecture.](https://hackerone.com/reports/1757663) to Rocket.Chat - 19 upvotes, $0
 37. [CSS Injection in Message Avatar](https://hackerone.com/reports/1031613) to Rocket.Chat - 19 upvotes, $0
 38. [Blind XSS in the rocket.chat registration email](https://hackerone.com/reports/382666) to Rocket.Chat - 18 upvotes, $0
-39. [Unread Messages can leak Message IDs](https://hackerone.com/reports/1063114) to Rocket.Chat - 17 upvotes, $0
-40. [Desktop app RCE (#276031 bypass)](https://hackerone.com/reports/843171) to Rocket.Chat - 16 upvotes, $0
+39. [Desktop app RCE (#276031 bypass)](https://hackerone.com/reports/843171) to Rocket.Chat - 17 upvotes, $0
+40. [Unread Messages can leak Message IDs](https://hackerone.com/reports/1063114) to Rocket.Chat - 17 upvotes, $0
 41. [XSS in message attachment fileds.](https://hackerone.com/reports/899954) to Rocket.Chat - 16 upvotes, $0
 42. [Clickjacking at open.rocket.chat](https://hackerone.com/reports/1584034) to Rocket.Chat - 16 upvotes, $0
 43. [DDP methods getThreadsList / getThreadMessages leaks private thread content to any authenticated low privilege user (unpatched sibling of #1446767)](https://hackerone.com/reports/3852135) to Rocket.Chat - 16 upvotes, $0
@@ -48,13 +48,13 @@ Top reports from Rocket.Chat program at HackerOne:
 46. [Slack Token exposed over internet (Github)](https://hackerone.com/reports/386614) to Rocket.Chat - 14 upvotes, $0
 47. [Arbitrary file read in Rocket.Chat-Desktop](https://hackerone.com/reports/943737) to Rocket.Chat - 14 upvotes, $0
 48. [Content-Security Policy bypass with File Uploads](https://hackerone.com/reports/1380157) to Rocket.Chat - 14 upvotes, $0
-49. [API Keys Hardcoded in Github repository](https://hackerone.com/reports/766346) to Rocket.Chat - 13 upvotes, $0
-50. [Post-Auth Blind NoSQL Injection in the users.list API leads to Remote Code Execution](https://hackerone.com/reports/1130874) to Rocket.Chat - 13 upvotes, $0
-51. [Unauthenticated clients can modify Livechat Business Hours](https://hackerone.com/reports/1063164) to Rocket.Chat - 13 upvotes, $0
-52. [Remote Code Execution in Rocket.Chat Desktop](https://hackerone.com/reports/276031) to Rocket.Chat - 12 upvotes, $0
-53. [Hi! Security Team Rocket.Chat, It's possible to get information about the users emails without authentication](https://hackerone.com/reports/1089116) to Rocket.Chat - 12 upvotes, $0
-54. [Blind XSS](https://hackerone.com/reports/1091118) to Rocket.Chat - 12 upvotes, $0
-55. [Insecure use of shell.openExternal() in Rocket.Chat Desktop App leading to RCE](https://hackerone.com/reports/924151) to Rocket.Chat - 12 upvotes, $0
+49. [Remote Code Execution in Rocket.Chat Desktop](https://hackerone.com/reports/276031) to Rocket.Chat - 13 upvotes, $0
+50. [API Keys Hardcoded in Github repository](https://hackerone.com/reports/766346) to Rocket.Chat - 13 upvotes, $0
+51. [Post-Auth Blind NoSQL Injection in the users.list API leads to Remote Code Execution](https://hackerone.com/reports/1130874) to Rocket.Chat - 13 upvotes, $0
+52. [Insecure use of shell.openExternal() in Rocket.Chat Desktop App leading to RCE](https://hackerone.com/reports/924151) to Rocket.Chat - 13 upvotes, $0
+53. [Unauthenticated clients can modify Livechat Business Hours](https://hackerone.com/reports/1063164) to Rocket.Chat - 13 upvotes, $0
+54. [Hi! Security Team Rocket.Chat, It's possible to get information about the users emails without authentication](https://hackerone.com/reports/1089116) to Rocket.Chat - 12 upvotes, $0
+55. [Blind XSS](https://hackerone.com/reports/1091118) to Rocket.Chat - 12 upvotes, $0
 56. [XSS in various MessageTypes](https://hackerone.com/reports/1379400) to Rocket.Chat - 12 upvotes, $0
 57. [Open redirect open.rocket.chat/file-upload/ID/filename.svg](https://hackerone.com/reports/368927) to Rocket.Chat - 11 upvotes, $0
 58. [XSS (leads to arbitrary file read in Rocket.Chat-Desktop)](https://hackerone.com/reports/724153) to Rocket.Chat - 11 upvotes, $0

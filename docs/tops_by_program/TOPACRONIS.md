@@ -11,12 +11,12 @@ Top reports from Acronis program at HackerOne:
 9. [Attacker Can Access to any Ticket Support on https://www.devicelock.com/support/](https://hackerone.com/reports/1124974) to Acronis - 109 upvotes, $0
 10. [Rate limit bypass on passport.acronis.work using X-Forwarded-For request header](https://hackerone.com/reports/2627062) to Acronis - 106 upvotes, $0
 11. [SQL injection in  https://www.acronis.cz/ via the log parameter](https://hackerone.com/reports/1109311) to Acronis - 103 upvotes, $0
-12. [Flash Based Reflected XSS on www.grouplogic.com/jwplayer/player.swf](https://hackerone.com/reports/859806) to Acronis - 88 upvotes, $0
+12. [Flash Based Reflected XSS on www.grouplogic.com/jwplayer/player.swf](https://hackerone.com/reports/859806) to Acronis - 89 upvotes, $0
 13. [Reflected XSS on http://www.grouplogic.com/files/glidownload/verify.asp](https://hackerone.com/reports/859395) to Acronis - 84 upvotes, $0
 14. [Delete any user's added Email,Telephone,Fax,Address,Skype via csrf in (https://academy.acronis.com/)](https://hackerone.com/reports/709537) to Acronis - 82 upvotes, $0
 15. [ Potential XSS Vulnerability in Acronis Login Callback URL](https://hackerone.com/reports/2611305) to Acronis - 82 upvotes, $0
-16. [PUT Based CSRF via Client Side Path Traversal + Cookie Bomb on Acronis Cloud](https://hackerone.com/reports/1860380) to Acronis - 76 upvotes, $600
-17. [[CVE-2021-44228] nps.acronis.com is vulnerable to the recent log4shell 0-day](https://hackerone.com/reports/1425474) to Acronis - 75 upvotes, $1000
+16. [[CVE-2021-44228] nps.acronis.com is vulnerable to the recent log4shell 0-day](https://hackerone.com/reports/1425474) to Acronis - 76 upvotes, $1000
+17. [PUT Based CSRF via Client Side Path Traversal + Cookie Bomb on Acronis Cloud](https://hackerone.com/reports/1860380) to Acronis - 76 upvotes, $600
 18. [[forum.acronis.com] JNDI Code Injection due an outdated log4j component](https://hackerone.com/reports/1430622) to Acronis - 74 upvotes, $0
 19. [XSS on https://partners.acronis.com/](https://hackerone.com/reports/979204) to Acronis - 73 upvotes, $0
 20. [Reflected XSS in https://www.acronis.com/products/cyber-protect/trial/](https://hackerone.com/reports/1891926) to Acronis - 72 upvotes, $100

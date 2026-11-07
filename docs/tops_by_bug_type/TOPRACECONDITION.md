@@ -1,7 +1,7 @@
 Top Race Condition reports from HackerOne:
 
 1. [Race Condition allows to redeem multiple times gift cards which leads to free "money"](https://hackerone.com/reports/759247) to Reverb.com - 308 upvotes, $0
-2. [Race condition in performing retest allows duplicated payments](https://hackerone.com/reports/429026) to HackerOne - 239 upvotes, $0
+2. [Race condition in performing retest allows duplicated payments](https://hackerone.com/reports/429026) to HackerOne - 240 upvotes, $0
 3. [Client-Side Race Condition using Marketo, allows sending user to data-protocol in Safari when form without onSuccess is submitted on www.hackerone.com](https://hackerone.com/reports/381356) to HackerOne - 154 upvotes, $0
 4. [Race Condition leads to undeletable group member](https://hackerone.com/reports/604534) to HackerOne - 153 upvotes, $0
 5. [Bypassing HackerOne 2FA due to race condition](https://hackerone.com/reports/2598548) to HackerOne - 139 upvotes, $0
@@ -16,13 +16,13 @@ Top Race Condition reports from HackerOne:
 14. [Race condition leads to duplicate payouts](https://hackerone.com/reports/220445) to HackerOne - 73 upvotes, $0
 15. [Race condition in joining CTF group](https://hackerone.com/reports/1540969) to HackerOne - 72 upvotes, $500
 16. [Exceed the maximum number of subscribers using Race Condition ](https://hackerone.com/reports/3221185) to SingleStore - 70 upvotes, $0
-17. [Email Verification Bypass via Race Condition](https://hackerone.com/reports/3020733) to Malwarebytes - 69 upvotes, $0
+17. [Email Verification Bypass via Race Condition](https://hackerone.com/reports/3020733) to Malwarebytes - 70 upvotes, $0
 18. [Race Condition in Folder Creation Allows Bypassing Folder Limit](https://hackerone.com/reports/3104355) to Dust - 65 upvotes, $0
 19. [Exceeding the limit of Workspaces via Race Condition](https://hackerone.com/reports/3226838) to SingleStore - 62 upvotes, $0
-20. [Race condition in faucet when using starport](https://hackerone.com/reports/1438052) to Cosmos - 60 upvotes, $5000
+20. [Race condition in faucet when using starport](https://hackerone.com/reports/1438052) to Cosmos - 61 upvotes, $5000
 21. [Race Condition on "Get free Badoo Premium" which allows to get more days of free premium for Free. ](https://hackerone.com/reports/1037430) to Bumble - 57 upvotes, $0
 22. [Race condition in claiming program credentials ](https://hackerone.com/reports/488985) to HackerOne - 54 upvotes, $0
-23. [Race Conditions in OAuth 2 API implementations](https://hackerone.com/reports/55140) to Internet Bug Bounty - 51 upvotes, $0
+23. [Race Conditions in OAuth 2 API implementations](https://hackerone.com/reports/55140) to Internet Bug Bounty - 52 upvotes, $0
 24. [Race condition leads to add more than 5 email at Data breaches monitor system at https://stage.firefoxmonitor.nonprod.cloudops.mozgcp.net](https://hackerone.com/reports/1913309) to Mozilla - 50 upvotes, $0
 25. [Race condition while removing the love react in community files.](https://hackerone.com/reports/996141) to Figma - 45 upvotes, $150
 26. [Race condition in User comments  Likes](https://hackerone.com/reports/1409913) to Eternal - 45 upvotes, $0

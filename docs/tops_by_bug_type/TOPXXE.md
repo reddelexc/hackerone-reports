@@ -22,7 +22,7 @@ Top XXE reports from HackerOne:
 20. [[rev-app.informatica.com] - XXE](https://hackerone.com/reports/105434) to Informatica - 45 upvotes, $0
 21. [XML External Entity (XXE) in qiwi.com + waf bypass](https://hackerone.com/reports/99279) to QIWI - 41 upvotes, $0
 22. [Authenticated XXE](https://hackerone.com/reports/1095645) to WordPress - 41 upvotes, $0
-23. [XXE on DoD web server](https://hackerone.com/reports/188743) to U.S. Dept Of Defense - 37 upvotes, $0
+23. [XXE on DoD web server](https://hackerone.com/reports/188743) to U.S. Dept Of Defense - 38 upvotes, $0
 24. [[HTA2] XXE on https://███ via SpellCheck Endpoint.](https://hackerone.com/reports/715949) to U.S. Dept Of Defense - 37 upvotes, $0
 25. [XML Parser Bug: XXE over which leads to RCE](https://hackerone.com/reports/55431) to drchrono - 35 upvotes, $0
 26. [Singapore - XXE at https://www.starbucks.com.sg/RestApi/soap11](https://hackerone.com/reports/762251) to Starbucks - 32 upvotes, $0

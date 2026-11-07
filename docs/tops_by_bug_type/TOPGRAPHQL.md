@@ -1,14 +1,14 @@
 Top GraphQL reports from HackerOne:
 
 1. [Confidential data of users and limited metadata of programs and reports accessible via GraphQL](https://hackerone.com/reports/489146) to HackerOne - 1033 upvotes, $0
-2. [Email address of any user can be queried on Report Invitation GraphQL type when username is known](https://hackerone.com/reports/792927) to HackerOne - 670 upvotes, $0
-3. [IDOR - Delete all Licenses and certifications from users account using CreateOrUpdateHackerCertification GraphQL query](https://hackerone.com/reports/2122671) to HackerOne - 394 upvotes, $0
-4. [Unauthenticated RCE in Taskcluster web-server via GraphQL filter argument (sift $where)](https://hackerone.com/reports/3782701) to Mozilla - 355 upvotes, $12000
+2. [Email address of any user can be queried on Report Invitation GraphQL type when username is known](https://hackerone.com/reports/792927) to HackerOne - 671 upvotes, $0
+3. [IDOR - Delete all Licenses and certifications from users account using CreateOrUpdateHackerCertification GraphQL query](https://hackerone.com/reports/2122671) to HackerOne - 395 upvotes, $0
+4. [Unauthenticated RCE in Taskcluster web-server via GraphQL filter argument (sift $where)](https://hackerone.com/reports/3782701) to Mozilla - 361 upvotes, $12000
 5. [Private list members disclosure via GraphQL](https://hackerone.com/reports/885539) to X / xAI - 346 upvotes, $0
 6. [SSRF in graphQL query (pwapi.ex2b.com)](https://hackerone.com/reports/1864188) to EXNESS - 261 upvotes, $3000
 7. [Github Apps can use Scoped-User-To-Server Tokens to Obtain Full Access to User's Projects in Project V2 GraphQL api](https://hackerone.com/reports/1711938) to GitHub - 198 upvotes, $0
 8. [IDOR on GraphQL queries BillingDocumentDownload and BillDetails](https://hackerone.com/reports/2207248) to Shopify - 187 upvotes, $5000
-9. [DOS via Mutation Aliasing in GraphQL Account Recovery Phone Number Verification API](https://hackerone.com/reports/3287208) to HackerOne - 184 upvotes, $12500
+9. [DOS via Mutation Aliasing in GraphQL Account Recovery Phone Number Verification API](https://hackerone.com/reports/3287208) to HackerOne - 185 upvotes, $0
 10. [Disclosure of `payment_transactions` for programs via GraphQL query](https://hackerone.com/reports/707433) to HackerOne - 178 upvotes, $0
 11. [SQL injection in GraphQL endpoint through embedded_submission_form_uuid parameter](https://hackerone.com/reports/435066) to HackerOne - 174 upvotes, $0
 12. [GraphQL AdminGenerateSessionPayload is leaked to staff with no permission](https://hackerone.com/reports/898528) to Shopify - 173 upvotes, $0
@@ -22,8 +22,8 @@ Top GraphQL reports from HackerOne:
 20. [Cross-Tenant IDOR ( graphql `AddRulesToPixelEvents` query ) allowing to add, update, and delete rules of any Pixel events on the platform](https://hackerone.com/reports/984965) to TikTok - 84 upvotes, $0
 21. [Private information exposed through GraphQL filters](https://hackerone.com/reports/645299) to HackerOne - 81 upvotes, $0
 22. [Insecure Direct Object Reference (IDOR) in GraphQL deleteProfileImages Mutation](https://hackerone.com/reports/2968039) to Autodesk - 80 upvotes, $0
-23. [Team object in GraphQL discloses team group names and permissions](https://hackerone.com/reports/343464) to HackerOne - 75 upvotes, $2500
-24. [Unauthenticated GraphQL access by prepending __schema to private operations](https://hackerone.com/reports/3452015) to Enjin - 75 upvotes, $500
+23. [Unauthenticated GraphQL access by prepending __schema to private operations](https://hackerone.com/reports/3452015) to Enjin - 76 upvotes, $500
+24. [Team object in GraphQL discloses team group names and permissions](https://hackerone.com/reports/343464) to HackerOne - 75 upvotes, $2500
 25. [Team object in GraphQL disclosed of private programs via the industry](https://hackerone.com/reports/707406) to HackerOne - 72 upvotes, $500
 26. [Attachment object in GraphQL continues to grant access to files, even if they are removed from rendering](https://hackerone.com/reports/1132606) to HackerOne - 66 upvotes, $0
 27. [Image queue default key of 'None' and GraphQL unhandled type exception](https://hackerone.com/reports/996041) to Reddit - 65 upvotes, $500
@@ -31,7 +31,7 @@ Top GraphQL reports from HackerOne:
 29. [Using GraphQL, STAFF with NO explicit permissions on Store can retrieve Shopify Payments Balance.](https://hackerone.com/reports/417170) to Shopify - 62 upvotes, $500
 30. [Access to internal info via Graphql on https://tng-api.watsons.com.my](https://hackerone.com/reports/2233480) to A.S. Watson Group  - 61 upvotes, $0
 31. [TeamProfile exposes partially sensitive information through GraphQL](https://hackerone.com/reports/389600) to HackerOne - 60 upvotes, $0
-32. [Inadequate redaction exposes sensitive information via the “ShareReportViaEmail" GraphQL endpoint](https://hackerone.com/reports/2357012) to HackerOne - 59 upvotes, $0
+32. [Inadequate redaction exposes sensitive information via the “ShareReportViaEmail" GraphQL endpoint](https://hackerone.com/reports/2357012) to HackerOne - 60 upvotes, $0
 33. [H1514 [beerify.shopifycloud.com] GraphQL discloses internal beer consumption](https://hackerone.com/reports/419883) to Shopify - 57 upvotes, $802
 34. [Graphql introspection is enabled and leaks details about the schema](https://hackerone.com/reports/1132803) to On  - 56 upvotes, $0
 35. [Embedded submission form UUIDs can be enumerated through GraphQL node interface, exposing sensitive program details](https://hackerone.com/reports/447930) to HackerOne - 54 upvotes, $0
@@ -43,7 +43,7 @@ Top GraphQL reports from HackerOne:
 41. [Access to information about any video and its owner via GraphQL endpoint [dictor.mail.ru]](https://hackerone.com/reports/924914) to Mail.ru - 42 upvotes, $2500
 42. [GraphQL node interface for ActiveResource models lacks encoding for resource identifier, enabling parameter injection in Payments backend](https://hackerone.com/reports/800231) to HackerOne - 42 upvotes, $0
 43. [Team object in GraphQL that have a published external program may expose existence of a private program](https://hackerone.com/reports/347937) to HackerOne - 39 upvotes, $0
-44. [[h1-2102] shopApps query from the graphql at /users/api returns all existing created apps, including private ones](https://hackerone.com/reports/1085332) to Shopify - 34 upvotes, $1900
+44. [[h1-2102] shopApps query from the graphql at /users/api returns all existing created apps, including private ones](https://hackerone.com/reports/1085332) to Shopify - 35 upvotes, $1900
 45. [Private information exposed through GraphQL search endpoints aggregates](https://hackerone.com/reports/1838329) to HackerOne - 32 upvotes, $0
 46. [HackerOne Pentesters can access any structured scope object through GraphQL node interface](https://hackerone.com/reports/781150) to HackerOne - 30 upvotes, $0
 47. [Able to leak private email of any user given his/her username via graphql](https://hackerone.com/reports/972355) to GitLab - 29 upvotes, $0
@@ -65,8 +65,8 @@ Top GraphQL reports from HackerOne:
 63. [Changes to data in a CVE request after draft via GraphQL query](https://hackerone.com/reports/813300) to HackerOne - 15 upvotes, $0
 64. [H1514 Get access to non public information by pivoting with graphql queries](https://hackerone.com/reports/423388) to Shopify - 14 upvotes, $1500
 65. [GraphQL Query leads to sensitive information disclosure](https://hackerone.com/reports/985124) to GitLab - 12 upvotes, $0
-66. [GraphQL sessions aren't immediately invalidated when user password is changed](https://hackerone.com/reports/283847) to HackerOne - 9 upvotes, $0
-67. [[h1-2102] Stored XSS in product description via `productUpdate` GraphQL query leads to XSS at handshake-web-internal.shopifycloud.com/products/[ID]](https://hackerone.com/reports/1085546) to Shopify - 8 upvotes, $1600
+66. [[h1-2102] Stored XSS in product description via `productUpdate` GraphQL query leads to XSS at handshake-web-internal.shopifycloud.com/products/[ID]](https://hackerone.com/reports/1085546) to Shopify - 9 upvotes, $1600
+67. [GraphQL sessions aren't immediately invalidated when user password is changed](https://hackerone.com/reports/283847) to HackerOne - 9 upvotes, $0
 68. [[NR Infrastructure] Bypass of #200576 through GraphQL query abuse - allows restricted user access to root account license key](https://hackerone.com/reports/276174) to New Relic - 5 upvotes, $750
 69. [Restricted user can update Apdex target for applications by leveraging the GraphQL mutation](https://hackerone.com/reports/776449) to New Relic - 4 upvotes, $0
 70. [Some store settings/data are accessible to "No Access" permission users on GraphQL LiveView operation](https://hackerone.com/reports/409973) to Shopify - 4 upvotes, $0

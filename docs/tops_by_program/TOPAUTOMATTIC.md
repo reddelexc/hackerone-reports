@@ -24,7 +24,7 @@ Top reports from Automattic program at HackerOne:
 22. [XSS Vulnerability on Pressable/Atomic Hosting Platform via unescaped admin notices leads to code execution](https://hackerone.com/reports/3447021) to Automattic - 76 upvotes, $0
 23. [Reflected XSS in https://www.intensedebate.com/js/getCommentLink.php](https://hackerone.com/reports/1043804) to Automattic - 75 upvotes, $0
 24. [Unauthenticated access to webmail at maildev.happytools.dev leading to compromised wordpress site api.happytools.dev [RCE]](https://hackerone.com/reports/1067547) to Automattic - 71 upvotes, $0
-25. [WordPress Flash XSS in *flashmediaelement.swf*](https://hackerone.com/reports/134546) to Automattic - 69 upvotes, $0
+25. [WordPress Flash XSS in *flashmediaelement.swf*](https://hackerone.com/reports/134546) to Automattic - 70 upvotes, $0
 26. [Stored Self XSS on https://app.crowdsignal.com (in Photo Insert App) + Stored XSS on https://*your-subdomain*.survey.fm](https://hackerone.com/reports/667188) to Automattic - 68 upvotes, $0
 27. [Broken Authentication - Security token gets captured via man in the middle attack](https://hackerone.com/reports/206650) to Automattic - 67 upvotes, $0
 28. [Captcha bypass for the most important function - At en.instagram-brand.com](https://hackerone.com/reports/206653) to Automattic - 65 upvotes, $0
@@ -67,9 +67,9 @@ Top reports from Automattic program at HackerOne:
 65. [Unauthenticated RCE in Vaultpress](https://hackerone.com/reports/236552) to Automattic - 31 upvotes, $0
 66. [[FG-VD-19-022] Wordpress WooCommerce Cross-Site Scripting Vulnerability Notification](https://hackerone.com/reports/495583) to Automattic - 30 upvotes, $0
 67. [Can buy Atavist Magazine subscription for free](https://hackerone.com/reports/951230) to Automattic - 29 upvotes, $0
-68. [RCE via Print function [Simplenote 1.1.3 - Desktop app] ](https://hackerone.com/reports/358049) to Automattic - 28 upvotes, $0
-69. [WooCommerce Blacklist in 'map_meta_cap' leads to Privilege Escalation of Shopmanagers](https://hackerone.com/reports/403039) to Automattic - 28 upvotes, $0
-70. [information disclosure lead to disclose users private notes](https://hackerone.com/reports/1070081) to Automattic - 28 upvotes, $0
+68. [information disclosure lead to disclose users private notes](https://hackerone.com/reports/1070081) to Automattic - 29 upvotes, $0
+69. [RCE via Print function [Simplenote 1.1.3 - Desktop app] ](https://hackerone.com/reports/358049) to Automattic - 28 upvotes, $0
+70. [WooCommerce Blacklist in 'map_meta_cap' leads to Privilege Escalation of Shopmanagers](https://hackerone.com/reports/403039) to Automattic - 28 upvotes, $0
 71. [Insufficient DKIM record with RSA 512-bit key used on WordPress.com](https://hackerone.com/reports/550937) to Automattic - 27 upvotes, $0
 72. [Captcha checker "pd-captcha_form_SURVEYID" cookie is accepting any value](https://hackerone.com/reports/920357) to Automattic - 26 upvotes, $0
 73. [WordPress core stored XSS via attachment file name](https://hackerone.com/reports/139245) to Automattic - 25 upvotes, $0

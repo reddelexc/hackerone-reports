@@ -137,16 +137,16 @@
       "file": "tops_by_program/TOPINTERNETBUGBOUNTY.md"
     },
     {
-      "name": "HackerOne",
-      "file": "tops_by_program/TOPHACKERONE.md"
+      "name": "curl",
+      "file": "tops_by_program/TOPCURL.md"
     },
     {
       "name": "Nextcloud",
       "file": "tops_by_program/TOPNEXTCLOUD.md"
     },
     {
-      "name": "curl",
-      "file": "tops_by_program/TOPCURL.md"
+      "name": "HackerOne",
+      "file": "tops_by_program/TOPHACKERONE.md"
     },
     {
       "name": "Shopify",
@@ -189,12 +189,12 @@
       "file": "tops_by_program/TOPSHOPIFYSCRIPTS.md"
     },
     {
-      "name": "Legal Robot",
-      "file": "tops_by_program/TOPLEGALROBOT.md"
-    },
-    {
       "name": "Weblate",
       "file": "tops_by_program/TOPWEBLATE.md"
+    },
+    {
+      "name": "Legal Robot",
+      "file": "tops_by_program/TOPLEGALROBOT.md"
     },
     {
       "name": "Node.js",
@@ -253,16 +253,16 @@
       "file": "tops_by_program/TOPUBIQUITIINC.md"
     },
     {
+      "name": "WordPress",
+      "file": "tops_by_program/TOPWORDPRESS.md"
+    },
+    {
       "name": "Rocket.Chat",
       "file": "tops_by_program/TOPROCKETCHAT.md"
     },
     {
       "name": "ownCloud",
       "file": "tops_by_program/TOPOWNCLOUD.md"
-    },
-    {
-      "name": "Pornhub",
-      "file": "tops_by_program/TOPPORNHUB.md"
     }
   ]
 }

@@ -12,9 +12,9 @@ Top reports from ownCloud program at HackerOne:
 10. [GitHub Security Lab (GHSL) Vulnerability Report: SQLInjection in FileContentProvider.kt (GHSL-2022-059)](https://hackerone.com/reports/1650264) to ownCloud - 12 upvotes, $300
 11. [Theft of protected files on Android](https://hackerone.com/reports/1454002) to ownCloud - 11 upvotes, $50
 12. [SMB User Authentication Bypass and Persistence](https://hackerone.com/reports/148151) to ownCloud - 11 upvotes, $0
-13. [Protocol Smuggling over LDAP password field](https://hackerone.com/reports/1054282) to ownCloud - 11 upvotes, $0
-14. [RCE in ci.owncloud.com / ci.owncloud.org](https://hackerone.com/reports/98559) to ownCloud - 10 upvotes, $0
-15. [User Information Disclosure via REST API](https://hackerone.com/reports/197786) to ownCloud - 10 upvotes, $0
+13. [User Information Disclosure via REST API](https://hackerone.com/reports/197786) to ownCloud - 11 upvotes, $0
+14. [Protocol Smuggling over LDAP password field](https://hackerone.com/reports/1054282) to ownCloud - 11 upvotes, $0
+15. [RCE in ci.owncloud.com / ci.owncloud.org](https://hackerone.com/reports/98559) to ownCloud - 10 upvotes, $0
 16. [apps.owncloud.com: Malicious file upload leads to remote code execution](https://hackerone.com/reports/84374) to ownCloud - 9 upvotes, $0
 17. [Password Complexity Not Enforced On Password Change](https://hackerone.com/reports/276123) to ownCloud - 9 upvotes, $0
 18. [[api.owncloud.org] CRLF Injection](https://hackerone.com/reports/154306) to ownCloud - 7 upvotes, $0

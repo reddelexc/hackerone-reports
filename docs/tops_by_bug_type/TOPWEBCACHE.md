@@ -12,8 +12,8 @@ Top Web Cache reports from HackerOne:
 10. [CSRF-tokens on pages without no-cache headers, resulting in ATO when using CloudFlare proxy (Web Cache Deception)](https://hackerone.com/reports/260697) to Discourse - 58 upvotes, $0
 11. [Web Cache Deception Attack (XSS)](https://hackerone.com/reports/394016) to Discourse - 51 upvotes, $256
 12. [Shopify.com Web Cache Deception vulnerability leads to personal information and CSRF tokens leakage](https://hackerone.com/reports/1271944) to Shopify - 48 upvotes, $800
-13. [Web cache deception attack on https://open.vanillaforums.com/messages/all](https://hackerone.com/reports/593712) to Vanilla - 47 upvotes, $150
-14. [Web Cache Deception vulnerability on algolia.com leads to personal information leakage](https://hackerone.com/reports/1530066) to Algolia - 46 upvotes, $400
+13. [Web Cache Deception vulnerability on algolia.com leads to personal information leakage](https://hackerone.com/reports/1530066) to Algolia - 47 upvotes, $400
+14. [Web cache deception attack on https://open.vanillaforums.com/messages/all](https://hackerone.com/reports/593712) to Vanilla - 47 upvotes, $150
 15. [Web Cache poisoning attack leads to User information Disclosure and more](https://hackerone.com/reports/631589) to Lyst - 45 upvotes, $0
 16. [Web cache poisoning leads to disclosure of CSRF token and sensitive information](https://hackerone.com/reports/504514) to Smule - 39 upvotes, $0
 17. [Web Cache Poisoning on  █████ ](https://hackerone.com/reports/1183263) to U.S. Dept Of Defense - 36 upvotes, $0
